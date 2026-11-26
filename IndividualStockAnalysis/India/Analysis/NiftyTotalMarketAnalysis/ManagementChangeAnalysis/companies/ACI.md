@@ -68,17 +68,6 @@ The filing's own profile: “Mr. Rampraveen Swaminathan, 51 years, has over 28 y
 | Corporate Vice President / President | International Paper Co. (India Operations) | — | — |
 | Leadership roles | Cummins Inc. and Cummins India Limited | — | — |
 
-Results of **Archean Chemical Industries Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,041 | 1,081 | +3.8% a year over 1 year |
-| Operating profit (₹ cr) | 315 | 239 | -24.1% a year over 1 year |
-| PAT (₹ cr) | 162 | 105 | -35.2% a year over 1 year |
-| Operating profit margin (%) | 30.3 | 22.1 | -8.2 pts |
-| ROE (%) | 8.4 | — | — |
-| Borrowings (₹ cr) | 466 | — | — |
-
 ### 5. On the calls
 
 8 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

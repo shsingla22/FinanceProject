@@ -76,18 +76,6 @@ Results of **NMDC Ltd.** while they were Chairman there (annual reports on file 
 | ROE (%) | 24.8 | 22.0 | -2.8 pts |
 | Borrowings (₹ cr) | 2,128 | 4,276 | +2,148 |
 
-Results of **NMDC Steel Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 0.0 | 8,503 | loss to profit |
-| Operating profit (₹ cr) | 0.0 | -1,788 | — |
-| PAT (₹ cr) | 0.0 | -2,374 | — |
-| Operating profit margin (%) | — | -21.0 | — |
-| ROCE (%) | -9.0 | 3.0 | +12.0 pts |
-| ROE (%) | 0.0 | -18.1 | -18.1 pts |
-| Borrowings (₹ cr) | 3,842 | 5,909 | +2,067 |
-
 **Anurag Kapil** — Chief Financial Officer (CFO) / Director (Finance) on the Board. from: government appointee; experience: 26 years in Indian Railways and CPSUs; qualifications: Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.
 
 The filing's own profile: “Shri Anurag Kapil, an officer of Indian Railway Accounts Service (IRAS) of 1998 Batch, has a versatile experience of 26 years in Indian Railways and CPSUs with a blend of operational expertise & strategic vision to drive transformative changes across critical sectors. He is Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.”

@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (Key Managerial Personnel / Senior Management)** | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 |
+| **Chief Financial Officer (Key Managerial Personnel/ Senior Management)** | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 |
 
 - **Why Gaurav Kumar is leaving, in the filing's words:** “to pursue new personal and professional challenges outside the organization”
-- In the documents: “Mr. Gaurav Kumar has resigned as Chief Financial Officer (KMP) of the Company with effect from the close of business hours on October 6, 2026 to pursue new personal and professional challenges outside the organization.” — [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · +1 more
+- In the documents: “With reference to our aforesaid letter dated August 6, 2026, we wish to inform you that Mr. Gaurav Kumar has resigned as Chief Financial Officer (KMP) of the Company with effect from the close of business hours on October 6, 2026 to pursue new personal and professional challenges outside the organization.” — [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · +1 more
 
-*All 8 filing(s) read for the seats:* [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · [2026-10-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/APOLLOTYRE_ROID_99856_KMP_Doc.zip) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026173839_OutcomeofBoardMeeting.pdf) · [2026-08-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026180728_OutcomeofBoardMeeting.pdf) · +2 more
+*All 10 filing(s) read for the seats:* [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161533_Outcome04112026.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · [2026-10-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/APOLLOTYRE_ROID_99856_KMP_Doc.zip) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Gaurav Kumar** — Chief Financial Officer (Key Managerial Personnel / Senior Management), date of taking the seat not on file.
+**Gaurav Kumar** — Chief Financial Officer (Key Managerial Personnel/ Senior Management), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ravi Kumar Shingari** — Chief Financial Officer (Key Managerial Personnel / Senior Management). from: internal; experience: over two decades of experience; qualifications: He is a Chartered Accountant and a law graduate. He holds a Bachelor of Commerce (Honours) degree from Shri Ram College of Commerce..
+**Ravi Kumar Shingari** — Chief Financial Officer (Key Managerial Personnel/ Senior Management). from: internal; experience: over two decades of experience; qualifications: He is a Chartered Accountant and a law graduate. He holds a Bachelor of Commerce (Honours) degree from Shri Ram College of Commerce..
 
-The filing's own profile: “Mr. Ravi Kumar Shingari joined the Company in 2018 and is presently designated as Vice President - Accounts, Tax, Budgeting, Finance, Legal & Investor Relations. In his current role, he has taken on progressively broader responsibilities across finance and associated corporate functions. Prior to joining Apollo Tyres, he spent over 16 years with KPMG India, where he was a Partner in Tax and Regulatory, with expertise in international and mergers and acquisitions tax. He is a seasoned finance and tax leader with over two decades of experience across corporate finance, international taxation, mergers and acquisitions tax, and regulatory advisory.”
+The filing's own profile: “Mr. Ravi Kumar Shingari joined the Company in 2018 and is presently designated as Vice President - Accounts, Tax, Budgeting, Finance, Legal & Investor Relations. In his current role, he has taken on progressively broader responsibilities across finance and associated corporate functions. Prior to joining Apollo Tyres, he spent over 16 years with KPMG India, where he was a Partner in Tax and Regulatory, with expertise in international and mergers and acquisitions tax. He is a seasoned finance and tax leader with over two decades of experience across corporate finance, international taxation, mergers and acquisitions tax, and regulatory advisory. He is a Chartered Accountant and a law graduate. He holds a Bachelor of Commerce (Honours) degree from Shri Ram College of Commerce.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

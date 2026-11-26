@@ -50,7 +50,7 @@ OWNERSHIP_CSV = OUT_DIR / "_ownership_changes.csv"
 CANDIDATES_CSV = OUT_DIR / "_candidates.csv"
 SCAN_CACHE = M.DATA / "_scan_cache.json.gz"
 
-KMP_PROMPT_VERSION = "seat-v1"
+KMP_PROMPT_VERSION = "seat-v2"
 OWN_PROMPT_VERSION = "own-v2"
 DOC_CHARS = 240_000
 DOC_HEAD = 5_000
@@ -123,6 +123,7 @@ def warm_calls(symbols: list[str], workers: int = 6) -> None:
 
 
 OPEN_OFFER_CATEGORIES = {"Public Announcement-Open Offer", "Open Offer"}
+ROSTER_SKIP = {"Press Release", "Disclosure under SEBI Takeover Regulations", "Shareholders meeting", "Copy of Newspaper Publication"}
 STRONG_CALL_RX = re.compile(r"new\s+(?:c\.?e\.?o|c\.?f\.?o|m\.?d\b|managing|chief)|as\s+(?:the\s+|our\s+)?(?:new\s+|group\s+)?(?:c\.?e\.?o|c\.?f\.?o|m\.?d\b|managing|chief)|"
                             r"designate|elect\b|stepp\w+\s+down|step\s+down|last\s+|final\s+|first\s+", re.I)
 
@@ -163,6 +164,20 @@ def build_candidates(today: dt.date, days: int = M.WINDOW_DAYS, only: set[str] |
         ctext = M.call_text(sym)
         chits = M.call_hits(sym, today, text=ctext) if ctext else []
         rost = M.roster_changes(sym, today, text=ctext, company=members[sym]) if ctext else []
+        if rost:
+            # the calls list a new holder: any filing that names that person is read too, flagged or not
+            have = {r["ann_id"] for r in seat_rows}
+            names = [n for x in rost for n in x["after"] if len(n.split()) >= 2]
+            extra = []
+            for r in sorted(rows, key=lambda r: r["date"], reverse=True):
+                if r["ann_id"] in have or r["category"] in ROSTER_SKIP:
+                    continue
+                flat = _flat(M.text_of(r)[:40_000])
+                if any(name_in(n, flat) for n in names) and re.search(r"appoint|resign|retir|cessat|ceas|charge|designat|elevat|succe", flat):
+                    extra.append({**r, "flags": ["named in a call roster"], "hits": []})
+                    if len(extra) >= 5:
+                        break
+            seat_rows += extra
         seat_calls = [h for h in chits if h["kind"] == "kmp"]
         own_calls = [h for h in chits if h["kind"] == "ownership"]
         strong_calls = [h for h in seat_calls if STRONG_CALL_RX.search(h["term"])]
@@ -266,18 +281,22 @@ def seat_prompt(c: dict, docs: str, calls: str, start: str, end: str) -> str:
         f"Director (Finance) of a public-sector company.\n"
         f"A CHANGE is: a new person appointed to the seat; the holder resigning, retiring, dying, being removed, or "
         f"completing a term that is not renewed; an interim or additional-charge holder taking the seat; the seat "
-        f"falling vacant.\n"
+        f"falling vacant; a person RE-DESIGNATED INTO the seat from another post (Executive Director made Managing "
+        f"Director, Deputy CFO made CFO, a Whole-time Director made CEO) — the seat has a new holder even though the "
+        f"person was already in the company.\n"
         f"NOT a change (report it with is_change false and the reason, so the reader sees it was read): the same "
-        f"person re-appointed or extended; the same person's title changing while they keep the seat; the head of a "
-        f"division, business, region, plant or subsidiary; a deputy, joint or assistant seat; any other senior "
-        f"management; a director who is not the chief executive; a company secretary; an auditor; a person's PAST "
-        f"jobs in a profile; a letter merely addressed to or signed by the MD or CFO.\n"
+        f"person re-appointed or extended in the seat they already hold; a title added to a person who ALREADY holds "
+        f"the seat (MD made MD & CEO, CFO made Executive Director & CFO); the head of a division, business, region, "
+        f"plant or subsidiary; a deputy, joint or assistant seat; one of several Managing Directors who serve under a "
+        f"Chairman or CEO who is the chief executive (State Bank of India, LIC); any other senior management; a "
+        f"director who is not the chief executive; a company secretary; an auditor; a person's PAST jobs in a "
+        f"profile; a letter merely addressed to or signed by the MD or CFO.\n"
         f"Answer STRICT JSON only. Every field from the documents; \"not stated\" when they do not say; quotes verbatim.\n"
         '{"changes": [{'
         '"seat": "CEO" | "MD" | "MD & CEO" | "CMD" | "Executive Chairman" | "CFO", '
         '"designation_as_written": "<the seat in the document\'s words>", '
         '"is_change": true | false, '
-        '"not_a_change_because": "<empty when is_change; else: re-appointment | same person, new title | division or subsidiary seat | deputy or joint seat | other senior management | not this company | other: …>", '
+        '"not_a_change_because": "<empty when is_change; else: re-appointment | same person, new title | division or subsidiary seat | deputy or joint seat | not the chief executive | other senior management | not this company | other: …>", '
         '"outgoing": {"name": "<full name, no title; empty when a newly created seat>", "last_day": "<YYYY-MM-DD or not stated>", '
         '"reason": "resignation" | "retirement" | "end of term" | "death" | "removal" | "moved to another role in the company or group" | "interim holder replaced" | "not stated", '
         '"reason_in_their_words": "<verbatim, <=40 words; or not stated>", '
@@ -291,11 +310,12 @@ def seat_prompt(c: dict, docs: str, calls: str, start: str, end: str) -> str:
         '"previous_roles": [{"company": "<employer>", "role": "<role there>", "from": "<year or not stated>", "to": "<year or not stated>"}], '
         '"profile": "<the documents\' own profile of this person, verbatim, <=120 words; or not stated>"}, '
         '"status": "effective" | "announced, not yet effective" | "seat vacant — no successor named", '
-        '"announced_on": "<YYYY-MM-DD of the filing that first says it>", '
-        '"quote": "<one verbatim sentence from the documents that states the change>"}], '
+        '"announced_on": "<YYYY-MM-DD of the filing that first says it; when only a call speaks of it, the first day of that call\'s month>", '
+        '"quote": "<one verbatim sentence from the documents that STATES the appointment or the departure — never a signature line or a list of names>"}], '
         '"read": "<one sentence: what these documents are about, when there is no change>"}\n'
         "One entry per seat that changed. When one person leaves and another takes the same seat, that is ONE entry "
-        "with both. A person who holds two seats (MD & CEO) is one entry.\n\n"
+        "with both. A person who holds two seats (MD & CEO) is one entry. Give every date the documents give: the "
+        "outgoing person's last day and the day the incoming person takes the seat decide whether it falls in the period.\n\n"
         + (f"WHAT THE CALL TRANSCRIPTS LIST AS MANAGEMENT (a cross-check, not proof): {rost}\n\n" if rost else "")
         + f"THE FILINGS (newest first):\n{docs or '(no filing text)'}\n\n"
         + (f"PASSAGES FROM THE COMPANY'S EARNINGS CALLS:\n{calls}\n" if calls else "")
@@ -434,13 +454,18 @@ def seat_group(seat: str, written: str = "") -> str:
 
 
 def _date(s: str) -> dt.date | None:
+    """'2026-01-05' → that day; '2026-01' → the first of the month (a model
+    often has only the month); anything else → None."""
     m = re.search(r"(\d{4})-(\d{2})-(\d{2})", str(s or ""))
-    if not m:
-        return None
     try:
-        return dt.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        if m:
+            return dt.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        m = re.fullmatch(r"\s*(\d{4})-(\d{2})\s*", str(s or ""))
+        if m:
+            return dt.date(int(m.group(1)), int(m.group(2)), 1)
     except ValueError:
         return None
+    return None
 
 
 def settle_seat(c: dict, res: dict, start: str, end: str) -> list[dict]:

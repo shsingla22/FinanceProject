@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Dharmender Tuteja** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Dharmender Tuteja** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -67,42 +67,6 @@ The filing's own profile: “Mr. Yatin Malhotra is a seasoned finance profession
 | Executive Vice President and Chief Operating Officer leading the consumer electronics own brands business | Reliance Retail | — | — |
 | CFO | ACC Limited | — | — |
 | CFO | Whirlpool of India Ltd (WHIRLPOOL) | — | — |
-
-Results of **ACC Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2021):
-
-| Dec 2020 → Dec 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 13,786 | 16,152 | +17.2% a year over 1 year |
-| Operating profit (₹ cr) | 2,355 | 2,998 | +27.3% a year over 1 year |
-| PAT (₹ cr) | 1,430 | 1,863 | +30.3% a year over 1 year |
-| Operating profit margin (%) | 17.1 | 18.6 | +1.5 pts |
-| ROCE (%) | 16.0 | 19.0 | +3.0 pts |
-| ROE (%) | 11.3 | 13.0 | +1.7 pts |
-| Borrowings (₹ cr) | 102 | 126 | +24 |
-
-Results of **Dalmia Bharat Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 14,691 | 13,980 | -4.8% a year over 1 year |
-| Operating profit (₹ cr) | 2,639 | 2,407 | -8.8% a year over 1 year |
-| PAT (₹ cr) | 853 | 699 | -18.1% a year over 1 year |
-| Operating profit margin (%) | 18.0 | 17.2 | -0.8 pts |
-| ROCE (%) | 6.0 | 8.0 | +2.0 pts |
-| ROE (%) | 5.2 | 4.0 | -1.2 pts |
-| Borrowings (₹ cr) | 4,805 | 5,702 | +897 |
-
-Results of **Whirlpool of India Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,993 | 5,900 | -1.6% a year over 1 year |
-| Operating profit (₹ cr) | 673 | 521 | -22.6% a year over 1 year |
-| PAT (₹ cr) | 490 | 352 | -28.2% a year over 1 year |
-| Operating profit margin (%) | 11.2 | 8.8 | -2.4 pts |
-| ROCE (%) | 18.0 | 10.0 | -8.0 pts |
-| ROE (%) | 19.1 | 12.3 | -6.8 pts |
-| Borrowings (₹ cr) | 0.0 | 51.0 | +51 |
 
 ### 5. On the calls
 

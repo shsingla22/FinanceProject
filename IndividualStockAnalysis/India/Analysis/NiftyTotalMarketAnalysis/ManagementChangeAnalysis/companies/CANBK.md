@@ -78,16 +78,6 @@ The filing's own profile: “Shri. Hardeep Singh Ahluwalia, started his banking 
 | General Manager of the Recovery Department at Corporate office | Indian Bank (INDIANB) | — | — |
 | Executive Director | Canara Bank (CANBK) | — | — |
 
-Results of **Can Fin Homes Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 3,879 | 4,217 | +8.7% a year over 1 year |
-| Financing profit (₹ cr) | 1,090 | 1,319 | +21.0% a year over 1 year |
-| PAT (₹ cr) | 857 | 1,086 | +26.7% a year over 1 year |
-| Financing profit margin (%) | 28.1 | 31.3 | +3.2 pts |
-| ROE (%) | 16.9 | 18.2 | +1.3 pts |
-
 **Brajesh Kumar Singh** — Managing Director & Chief Executive Officer (MD & CEO). from: government appointee; experience: more than 30 years; qualifications: Shri Brajesh Kumar Singh is an Agriculture graduate from Allahabad Agriculture Institute and MBA Finance. He is also a Certified Associate of Indian Institute of Bankers..
 
 The filing's own profile: “Shri Brajesh Kumar Singh assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of Canara Bank on 01st June 2026. He has a vast and varied experience in the Banking industry, spanning more than 30 years. Shri Brajesh Kumar Singh was Executive Director of Indian Bank since 10th March 2024 till his appointment as MD & CEO of Canara Bank. In his capacity as Executive Director in Indian Bank, he has overseen various Verticals in Indian Bank including Retail, MSME, Recovery, Credit Monitoring, Human Resource Management, Human Development, Resources and Government Relations, Wealth Management etc.”
@@ -119,18 +109,6 @@ Results of **CESC Ltd.** while they were Managing Director there (annual reports
 | ROCE (%) | 11.0 | 11.0 | +0.0 pts |
 | ROE (%) | 12.8 | 11.9 | -0.9 pts |
 | Borrowings (₹ cr) | 14,263 | 17,978 | +3,715 |
-
-Results of **NTPC Green Energy Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,963 | 2,210 | +12.6% a year over 1 year |
-| Operating profit (₹ cr) | 1,745 | 1,920 | +10.0% a year over 1 year |
-| PAT (₹ cr) | 343 | 474 | +38.2% a year over 1 year |
-| Operating profit margin (%) | 88.9 | 86.9 | -2.0 pts |
-| ROCE (%) | 5.0 | 4.0 | -1.0 pts |
-| ROE (%) | 5.5 | 2.6 | -2.9 pts |
-| Borrowings (₹ cr) | 13,856 | 19,441 | +5,585 |
 
 ### 5. On the calls
 

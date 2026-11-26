@@ -47,9 +47,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Abhijit Banerjee** — Managing Director, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Abhijit Banerjee** — Managing Director, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Dec 2020 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -61,7 +61,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 6.8 | 11.4 | +4.6 pts |
 | Borrowings (₹ cr) | 7.0 | 42.0 | +35 |
 
-**Neeraj Kumar Jumrani** — Interim Chief Financial Officer (CFO), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Neeraj Kumar Jumrani** — Interim Chief Financial Officer (CFO), in the seat since FY2023 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -84,18 +84,6 @@ The company's results while they held the seat (the year before they took it, to
 **Milan Sadhukhan** — Managing Director. from: group company; age 50; experience: over 25 years; qualifications: B.Com (Hons.) Graduate, a qualified Chartered Accountant and a Cost & Management Accountant.
 
 The filing's own profile: “Mr Milan Sadhukhan, 50 years old, is a B.Com (Hons.) Graduate, a qualified Chartered Accountant and a Cost & Management Accountant. Mr Sadhukhan is presently the Head of Finance, ASEAN & South Asia and has rich experience of over 25 years in various finance roles, including Product Management, Investment Controlling and Supply-chain management across various geographies in Asia and in the UK. There is no inter-se relationship between Mr Sadhukhan and other members of the Board of Directors of the Company.”
-
-Results of **Linde India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,769 | 2,485 | -10.3% a year over 1 year |
-| Operating profit (₹ cr) | 702 | 765 | +9.0% a year over 1 year |
-| PAT (₹ cr) | 434 | 455 | +4.8% a year over 1 year |
-| Operating profit margin (%) | 25.4 | 30.8 | +5.4 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 11.4 | 10.7 | -0.7 pts |
-| Borrowings (₹ cr) | 42.0 | 79.0 | +37 |
 
 **Ajay Kumar Sah** — Interim Chief Financial Officer (CFO) (interim). from: internal; age 48; experience: about 25 years; qualifications: B.Com. (Hons.) Graduate, a qualified Chartered Financial Analyst and a Company Secretary.
 

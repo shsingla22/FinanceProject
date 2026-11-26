@@ -6,36 +6,35 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to a preferential issue of 929,134,820 new shares at INR 280, allotted 18 June 2026, giving it 60% of RBL Bank. Its mandatory open offer for 26% closed with nil shares tendered. Emirates NBD acquired control and became promoter of the Bank, which previously had no promoter.
+**Ownership — Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (INR 26,015.77 crore) on 18 June 2026, taking 60% of RBL Bank's expanded capital, and completed a mandatory 26% open offer in which nil shares were tendered. Emirates NBD is now promoter; the Bank is its subsidiary.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Public shareholders (the Bank had no promoter; promoter-and-group holding was 0.0%) | other | 100% (public); promoter 0.0% | 40% (public) |
-| Incoming | Emirates NBD Bank (P.J.S.C.) | strategic buyer | — | 60.00% |
+| Outgoing | None — RBL Bank had no promoter before the transaction; it was widely held by public shareholders | other | 0.0% (promoter and group holding nil at 2025-09-30, 2025-12-31 and 2026-03-31) | public shareholders fell from 100% to 40% of the expanded capital |
+| Incoming | Emirates NBD Bank (P.J.S.C.) | strategic buyer | — | 60.00% (59.88% at 2026-09-30) |
 
-- mode: preferential issue · price INR 280 (subscription price); open offer INR 282.38 incl. INR 2.38 interest · deal value Preferential issue up to INR 268,532,778,080 (approximately US $3 billion); open offer consideration INR 117,353,299,774.34 assuming full acceptance, actual Nil · control changes
-- Open offer: price INR 282.38 per share (Offer Price INR 280 plus Applicable Interest INR 2.38), size 26.00% of the Expanded Voting Share Capital (up to 415,586,443 shares), status completed — Nil shares tendered; offer opened 1 June 2026 and closed 12 June 2026
-- Why the seller is selling, in their words: “"It enables us to accelerate growth across our existing businesses" — infusion takes net worth to around INR42,000 crores and positions the Bank among the best capitalized banks in the country”
-- Management changing with it: "The Acquirer will appoint certain individuals as nominee directors on the board of directors of the Target Company upon consummation of the transactions contemplated in the Investment Agreement." RBI approval was required for appointment of identified persons as directors nominated by the Acquirer, and RBI advised revised board composition requirements requiring amendment of the Bank's articles of association; as on 22 May 2026 there were no Acquirer nominees on the Board. R. Subramaniakumar remained Managing Director (CEO) and Chandan Sinha Chairman as at 19 June 2026.
-- Dates: agreement 2025-10-18; public announcement 2025-10-18; approval 2025-11-12; approval 2026-05-14; open offer opens 2026-06-01; other 2026-06-12; completion 2026-06-18
+- mode: preferential issue · price INR 280 (subscription and offer price); open offer INR 282.38 including INR 2.38 applicable interest · deal value INR 26,015.77 crore invested through the preferential allotment; open offer size INR 117,353,299,774.34 assuming full acceptance (nil paid, as no shares were tendered) · control changes
+- Open offer: price INR 282.38 per share (Offer Price INR 280.00 plus Applicable Interest INR 2.38), size 26.00% of the Expanded Voting Share Capital (up to 415,586,443 shares), status completed — opened 1 June 2026, closed 12 June 2026, nil shares tendered or accepted
+- Management changing with it: The 17 July 2026 board meeting approved AGM items to appoint Mr. Suryanarayan Subramanian as Non-Executive Independent Director and Mr. Shayne Keith Nelson, Mr. Patrick John Sullivan, Mr. Neeraj Makin, Mr. Manoj Chawla and Mr. Marwan Mahmood Mohammad Hadi as Non-Executive Non-Independent Directors (Nominees of Emirates NBD Bank (P.J.S.C.)). RBI advised revised board composition requirements and amendment of the articles of association. R. Subramaniakumar continues as Managing Director & CEO.
+- Dates: agreement 2025-10-18; public announcement 2025-10-18; approval 2026-04-01; open offer opens 2026-06-01; other 2026-06-12; completion 2026-06-18
 - In the documents: “Pursuant to the Open Offer and the Preferential Issue, the Acquirer has acquired control over the TC and the Acquirer has become the promoter of the TC in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 0.0% (2025-09-30) → 0.0% (2025-12-31) → 0.0% (2026-03-31) → 60.0% (2026-06-18) → 60.0% (2026-06-30) → 59.88% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 60.0%.
 
-*Filings read for the ownership:* [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_19062026185147_PostOfferAdvertisementSigned.pdf) · [2026-06-15 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_15062026184953_15062026105438_RBL.pdf) · [2026-06-11 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/vipulr_11062026200242_11062026183414_RBLBANK.pdf) · [2026-06-10 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_10062026185402_RBLBANK.pdf) · +13 more
+*Filings read for the ownership:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12102026163624_BoardMeetingOutcomeQ2FY2627resultssigned.pdf) · [2026-07-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_17072026162201_BoardMeetingOutcome_Q1FY26_27Signed.pdf) · [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_19062026185147_PostOfferAdvertisementSigned.pdf) · [2026-06-15 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_15062026184953_15062026105438_RBL.pdf) · +15 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer** | Buvanesh Tharashankar (resignation; last day 2025-12-15) | Deepak Ruiya (interim; internal; from 2025-12-30) | effective | 2025-12-15 |
-| **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 |
+| **Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”)** | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 |
 
 - **Why Buvanesh Tharashankar is leaving, in the filing's words:** “has tendered his resignation in order to pursue opportunities outside the Bank”
-- In the documents: “Mr. Buvanesh Tharashankar , Chief Financial Officer , being Key Managerial Personnel and part of the Senior Management of RBL Bank Limited ("the Bank") has tendered his resignation in order to pursue opportunities outside the Bank .” — [2025-12-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152518_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152957_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Management](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025153312_OutcomeofBMandOtherDisclosure30122025.pdf) · +1 more
+- In the documents: “Resignation of Mr. Buvanesh Tharashankar as Chief Financial Officer of the Bank with effect from the close of business hours on December 15, 2025 , in order to pursue opportunities outside the Bank.” — [2025-12-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152518_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152957_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Management](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025153312_OutcomeofBMandOtherDisclosure30122025.pdf) · +1 more
 - **Why Deepak Ruiya is leaving, in the filing's words:** “Consequent to the appointment of Mr. Bhavin Lakhpatwala as CFO & KMP of the Bank, Mr. Deepak Ruiya shall cease to be the KMP of the Bank and shall continue as the Deputy CFO of the Bank.” Stays on as: Deputy CFO of the Bank.
-- In the documents: “the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Bank with effect from June 12, 2026.” — [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · +1 more
+- In the documents: “the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ( “CFO ”) and Key Managerial Personnel (“KMP”) of the Bank with effect from June 12, 2026.” — [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · +1 more
 
-*All 13 filing(s) read for the seats:* [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-06-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026185647_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-06-05 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026190241_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · [2026-02-21 General Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_21022026110330_IntimationunderReg30Signed.pdf) · +7 more
+*All 14 filing(s) read for the seats:* [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-06-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026185647_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-06-05 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026190241_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_25042026133558_BoardMeetingOutcome_Q4FY25_26Signed.pdf) · +8 more
 
 ### 2. Financials — the last three years
 
@@ -59,7 +58,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Public shareholders (the Bank had no promoter; promoter-and-group holding was 0.0%)** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 100% (public); promoter 0.0% → 40% (public).
+**None — RBL Bank had no promoter before the transaction; it was widely held by public shareholders** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 0.0% (promoter and group holding nil at 2025-09-30, 2025-12-31 and 2026-03-31) → public shareholders fell from 100% to 40% of the expanded capital.
 
 **Buvanesh Tharashankar** — Chief Financial Officer, date of taking the seat not on file.
 
@@ -73,7 +72,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | -11.7 | -20.3 | -8.6 pts |
 | ROE (%) | 4.7 | 4.6 | -0.1 pts |
 
-**Deepak Ruiya** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2026 per the filing.
+**Deepak Ruiya** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”), in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -87,11 +86,11 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Emirates NBD Bank (P.J.S.C.)** (strategic buyer) — the incoming owner. Holding after: 60.00%.
+**Emirates NBD Bank (P.J.S.C.)** (strategic buyer) — the incoming owner. Holding after: 60.00% (59.88% at 2026-09-30).
 
-What the documents say about them: “"a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates", Regd. office Baniyas Street, Deira, Dubai; listed on Dubai Financial Market. "The Acquirer is a leading banking group in the MENATSA region, serving over 10,000,000 active customers with presence in 13 countries; and India is a key strategic market for the Acquirer, and the acquisition of the Target Company represents an opportunity to expand the Acquirer's presence in India." Earnings call: "the second largest bank in the UAE, and a leading financial group in the MENAT region will invest approximately US $3 billion through a preferential issue". It already operates an India branch network of 3 branches (Mumbai, Chennai, Gurugram), to be amalgamated into RBL Bank.”
+What the documents say about them: “"EMIRATES NBD BANK (P.J.S.C.), a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates", registered office Baniyas Street, Deira, Dubai. It carries on banking in India through "its network of 3 (three) branches in Mumbai, Chennai and Gurugram". Management described it on the October 2025 call as "the second largest bank in the UAE, and a leading financial group in the MENAT region" investing "approximately US $3 billion through a preferential issue... to acquire a 60% stake in RBL". Entitled to exercise voting rights only up to 26% under Section 12(2) of the Banking Regulation Act, 1949.”
 
-**Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
+**Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years in the banking and financial services sector; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
 
 The filing's own profile: “Mr. Deepak Ruiya is a finance professional, and his career spans over 22 years in the banking and financial services sector. He is a qualified Chartered Accountant, FRM, and CFA Level 2. He started his career at BSE as a management trainee and later joined ICICI Lombard, where he managed financial operations. He then moved to Barclays Bank, where he spent 9+ years and was last designated as Vice President – Finance (Corporate & Investment Bank). He joined RBL Bank in 2014 and is currently Deputy Chief Financial Officer.”
 
@@ -102,14 +101,14 @@ The filing's own profile: “Mr. Deepak Ruiya is a finance professional, and his
 | Vice President – Finance (Corporate & Investment Bank) | Barclays Bank | — | — |
 | Deputy Chief Financial Officer | RBL Bank (RBLBANK) | 2023 | — |
 
-**Bhavin Lakhpatwala** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). from: external; experience: over twenty-five years; qualifications: He is a Chartered Accountant with a strong track record in building and strengthening finance functions..
+**Bhavin Lakhpatwala** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”). from: external; experience: over twenty-five years of experience; qualifications: He is a Chartered Accountant with a strong track record in building and strengthening finance functions..
 
-The filing's own profile: “Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty-five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank–HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO's office.”
+The filing's own profile: “Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty -five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank –HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO’s office.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | part of the CFO leadership team | HDFC Bank (HDFCBANK) | — | — |
-| part of the senior management team in the CFO's office | HDFC | — | — |
+| part of the senior management team in the CFO’s office | HDFC | — | — |
 
 ### 5. On the calls
 

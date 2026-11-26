@@ -76,18 +76,6 @@ The filing's own profile: “Mr. Vidya Rattan Sharma holds a Degree in Mechanica
 | Joint Managing Director and Executive Director | Bhushan Power & Steel | — | — |
 | Executive Director | Ispat Industries | — | — |
 
-Results of **Jindal Steel Ltd.** while they were Managing Director there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 37,923 | 34,579 | -8.8% a year over 1 year |
-| Operating profit (₹ cr) | 6,831 | 13,107 | +91.9% a year over 1 year |
-| PAT (₹ cr) | -400 | 4,267 | loss to profit |
-| Operating profit margin (%) | 18.0 | 37.9 | +19.9 pts |
-| ROCE (%) | 5.0 | 17.0 | +12.0 pts |
-| ROE (%) | -1.2 | 13.4 | +14.6 pts |
-| Borrowings (₹ cr) | 36,824 | 29,910 | -6,914 |
-
 **Sandeep Modi** — Chief Financial Officer of the Company. from: external; experience: nearly two decades of experience across the metal s, mining, and power sectors; qualifications: He is a Chartered Accountant.
 
 The filing's own profile: “He is a seasoned finance leader with nearly two decades of experience across the metal s, mining, and power sectors. He brings deep expertise in strategic finance, capital management, treasury, investor relations, M&A, governance and business transformation. He is a Chartered Accountant and has over two decades of experience with the Vedanta Group, partnering with business leadership teams to drive financial performance, capital allocation, value creation and enterprise -wide transformation across large, complex organisations. In his last role, he served as CFO of Hindustan Zinc Limited and was responsible for finance, commercial, sales & marketing, legal, strategy and IT”

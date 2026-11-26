@@ -2,37 +2,28 @@
 
 ## RBA — Restaurant Brands Asia Ltd.
 
-**Change of control — completed · CFO change**
+**Change of control — completed**
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Inspira Global (Aayush and Madhusudan Agrawal), through Lenexis Foodworks and affiliates, bought the entire 11.26% held by promoter QSR Asia Pte. Ltd. (Everstone) at ₹70/share, subscribed ~₹900 cr equity plus ~₹600 cr warrants, and completed a 26% open offer. Closing July 7, 2026: Acquirers became promoters; sellers reclassified public.
+**Ownership — Change of control — completed.** Inspira Global (Agrawal family), through Lenexis Foodworks and affiliates, acquired control of Restaurant Brands Asia: ₹900 crore preferential equity plus ₹600 crore warrants, purchase of QSR Asia's entire 11.26% stake at ₹70, and a 26% open offer. Completed 7 July 2026; Everstone-backed QSR Asia exited and was reclassified public.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | QSR Asia Pte. Ltd. (majority owned by Everstone Capital) and F&B Asia Ventures (Singapore) Pte. Ltd. | private-equity sponsor | 11.26% | 0% |
-| Incoming | Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal and Inspira Agro Trading LLC (Inspira Global) | strategic buyer | — | 41.78% (41.73% promoter holding at 2026-09-30; up to 48.04% on exercise of all warrants) |
+| Outgoing | QSR Asia Pte. Ltd. and F&B Asia Ventures (Singapore) Pte. Ltd. (majority owned by Everstone Capital) | private-equity sponsor | 11.26% | 0% |
+| Incoming | Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal (Acquirers) with Inspira Agro Trading LLC (PAC) — Inspira Global | strategic buyer | — | 41.73% (company: "Inspira Global owns 41.78% of the Company"; 48.04% upon exercise of all warrants) |
 
-- mode: share purchase agreement · price ₹70 per equity share (open offer ₹70 plus applicable interest of ₹0.39) · deal value total investment of ~INR 2,235 crores (SPA ~₹460 crore; preferential equity INR 8,99,99,78,960; warrants INR 5,99,99,99,950; open offer up to INR 14,64,54,64,260) · control changes
-- Open offer: price ₹70.00 per equity share along with applicable interest of ₹0.39 per share, size up to 20,80,61,717 shares, 26.00% of the Expanded Voting Share Capital, status completed
+- mode: share purchase agreement · price ₹70 per equity share (open offer ₹70 plus applicable interest of ₹0.39) · deal value total investment of ~INR 2,235 crores · control changes
+- Open offer: price ₹70.00 per equity share along with applicable interest of ₹0.39 per equity share, size up to 20,80,61,717 equity shares representing 26.00% of the Expanded Voting Share Capital, status completed
 - Why the seller is selling, in their words: “"The proposed transaction marks the complete exit of QSR Asia Pte. Ltd., in line with its planned investment lifecycle."”
-- Management changing with it: On July 7, 2026 Mr. Amit Manocha and Ms. Roshini Bakshi resigned as Non-Executive Non-Independent Directors "pursuant to the terms of the SPA and SSA" and Mr. Ajay Kaul resigned for personal reasons; Mr. Madhusudan Bhagwandas Agrawal and Mr. Aayush Madhusudan Agrawal were appointed Additional Non-Executive Non-Independent Directors "nominated by the Acquirers and IATL"; Mr. Madhusudan Agrawal became Chairman and Mrs. Tara Subramaniam stepped down as Chairperson. Mr. Rajeev Varman continued as Group CEO and Whole-time Director; on October 29, 2026 Mr. Shivakumar Dega and Mr. Anand Bathiya were appointed directors and Mr. Sumit Zaveri became CEO – India Business from November 1, 2026.
+- Management changing with it: Mr. Amit Manocha and Ms. Roshini Bakshi resigned as Non-Executive Non-Independent Directors pursuant to the terms of the SPA and SSA, and Mr. Ajay Kaul resigned for personal reasons, all effective July 7, 2026. Mr. Madhusudan Bhagwandas Agrawal and Mr. Aayush Madhusudan Agrawal were appointed Additional Non-Executive Non-Independent Directors nominated by the Acquirers and IATL; Mr. Madhusudan Agrawal became Chairman of the Board, Mrs. Tara Subramaniam stepping down as Chairperson. Both appointments were approved by members at the AGM on August 20, 2026. Mr. Rajeev Varman continued as Whole-time Director and Group CEO; the company said RBA would "continue to operate with its existing leadership team, operational structure and brand identity fully intact". On October 29, 2026 Mr. Anand Bathiya was appointed Additional Non-Executive Non-Independent Director, Mr. Shivakumar Dega as Independent Director, and Mr. Sumit Zaveri was made CEO – India Business effective November 1, 2026.
 - Dates: agreement 2026-01-20; public announcement 2026-01-20; other 2026-01-28; approval 2026-02-13; approval 2026-05-20; other 2026-06-02; open offer opens 2026-06-08; other 2026-06-19; other 2026-07-06; completion 2026-07-07
 - In the documents: “The Board also noted and took on record that on and from the Closing Date, the Acquirers and IATL have acquired control over the Company and shall be categorized as the ‘promoters’ of the Company; and the Sellers have ceased to be classified as the promoter and member of promoter group of the Company and stand re-classified to the ‘public’ category in accordance with the terms of the SPA, SSA and Regulation 31A of the SEBI Listing Regulations.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 11.27% (2025-09-30) → 11.26% (2025-12-31) → 11.26% (2026-03-31) → 9.22% (2026-06-02) → 9.22% (2026-06-30) → 41.73% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 9.22% and bought 0.0%; outside acquirers at 10% or more: CTL Trusteeship Limited acting as Common Security Trustee for the benefit of the debenture trustee(s) of the Debentures and the respective Debenture holders 16.71% (2026-07-17).
 
-*Filings read for the ownership:* [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBA_20082026162117_Finalupload.pdf) · [2026-07-09 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_09072026183122_09072026160440_RBA.pdf) · [2026-07-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_07072026213655_Finalupload.pdf) · +16 more
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Group Chief Financial Officer and Chief Business Officer** | Sumit Zaveri (moved to another role in the company or group; last day 2026-10-31) | — not named | seat vacant — no successor named | 2026-10-29 |
-
-- **Why Sumit Zaveri is leaving, in the filing's words:** “appointment of Mr. Sumit Zaveri as Chief Executive Officer for the India Business and consequent change in his designation from Group Chief Financial Officer and Chief Business Officer to ‘Chief Executive Officer – India Business’” Stays on as: Chief Executive Officer – India Business (Key Managerial Personnel, reporting to the Group Chief Executive Officer).
-- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee of the Company approved the appointment of Mr. Sumit Zaveri as Chief Executive Officer for the India Business and consequent change in his designation from Group Chief Financial Officer and Chief Business Officer to ‘Chief Executive Officer – India Business ’ with effect from November 1, 2026 .” — [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf)
-
-*All 4 filing(s) read for the seats:* [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/RBA_28072026211611_Finalupload.pdf)
+*Filings read for the ownership:* [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_29102026170235_FinalUpload.pdf) · [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_29102026170726_FinalUpload.pdf) · [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBA_20082026162117_Finalupload.pdf) · +20 more
 
 ### 2. Financials — the last three years
 
@@ -60,63 +51,17 @@
 
 ### 3. Track record — the outgoing management
 
-**QSR Asia Pte. Ltd. (majority owned by Everstone Capital) and F&B Asia Ventures (Singapore) Pte. Ltd.** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 11.26% → 0%.
-
-**Sumit Zaveri** — Group Chief Financial Officer and Chief Business Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,004 | 2,823 | +23.0% a year over 5 years |
-| Operating profit (₹ cr) | 25.0 | 328 | +67.3% a year over 5 years |
-| PAT (₹ cr) | -282 | -204 | — |
-| Operating profit margin (%) | 2.5 | 11.6 | +9.1 pts |
-| ROCE (%) | -8.0 | — | — |
-| ROE (%) | -332 | -28.3 | +303.5 pts |
-| Borrowings (₹ cr) | 901 | 1,967 | +1,066 |
+**QSR Asia Pte. Ltd. and F&B Asia Ventures (Singapore) Pte. Ltd. (majority owned by Everstone Capital)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 11.26% → 0%.
 
 ### 4. Track record — the incoming management
 
-**Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal and Inspira Agro Trading LLC (Inspira Global)** (strategic buyer) — the incoming owner. Holding after: 41.78% (41.73% promoter holding at 2026-09-30; up to 48.04% on exercise of all warrants).
+**Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal (Acquirers) with Inspira Agro Trading LLC (PAC) — Inspira Global** (strategic buyer) — the incoming owner. Holding after: 41.73% (company: "Inspira Global owns 41.78% of the Company"; 48.04% upon exercise of all warrants).
 
-What the documents say about them: “"Inspira Global is an established Indian group, promoted by Madhusudan Agrawal and Aayush Agrawal, with diversified interests spanning real estate, food and beverage, pharmaceuticals, luxury home products and clean energy." "Lenexis Foodworks is a leading quick service food company in India... It operates a portfolio of distinct brands - Chinese Wok, The Momo Co., and Big Bowl", "owning and operating 250+ Chinese Wok restaurants across 45+ cities in India"; Aayush Agrawal is "recognised as a value-adding sponsor in the quick service restaurant business given his execution capability, partnership-driven approach and focus on sustainable growth and value creation."”
+What the documents say about them: “"Inspira Global is an established Indian group, promoted by Madhusudan Agrawal and Aayush Agrawal, with diversified interests spanning real estate, food and beverage, pharmaceuticals, luxury home products and clean energy." "Lenexis Foodworks is a leading quick service food company in India... It operates a portfolio of distinct brands - Chinese Wok, The Momo Co., and Big Bowl", "owning and operating 250+ Chinese Wok restaurants across 45+ cities in India". Aayush Agrawal "has scaled Lenexis Foodworks Private Limited... into one of India's largest homegrown quick service restaurant operators, with a network of over 250 kitchens across more than 45 cities"; recognised in Forbes 30 Under 30.”
 
 ### 5. On the calls
 
-13 passage(s) from 5 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-#### Nov 2025 — about the seat
-
-**From the prepared remarks**
-
-> **Naveen Trivedi:** Yes. Hi. Good morning, everyone. On behalf of Motilal Oswal, I, Naveen Trivedi, would like to welcome you all to the Restaurant Brands Asia Q2 FY '26 earnings confer ence call. From the management today we have, Mr. Rajeev Varman – Whole -Time Director and Group CEO; Mr. Sumit Zaveri – Group CFO and Chief Business Officer; Mr. Kapil Grover – Group CMO; Mr. Sandeep Dey – Brand President (Indonesia ); and Mr. Gaurav Ajjan – Head (Corporate Development & IR). I would now hand over the call to the management for the opening remarks. Over to you, sir.
-
-**From the prepared remarks**
-
-> **Rajeev Varman:** And that will not stop. That's an ongoing thing we do every year, and we will continue to do that. So, those are the top -lines on India and the top -lines on Indonesia. With that said, I am going to move it over to Sumit Zaveri to kind of walk you through the numbers.
-
-**Question and answer**
-
-> **Manoj Dua:** Thank you for taking my question, and I admire companies' efforts in cross -margin same -sell store growth, ADS, traffic, and customer experience in the product expansion. I think you have touched this point, but can you give a li ttle bit more structure to all this effort? When can we trickle into EBITDA, and going forward, any timeframe or something like that? What is the mental model we have to use?
->
-> **Rajeev Varman:** Yes, you know. Like I said, there's two -fold efforts. One is about optimizing the current P&L, which is building a P&L strength based on current volumes, right, current revenues, current ADS, current traffic. Those efforts are on. We continue to show you results every quarter on that. Every quarter, you go back, look at our results, look at the results of the previous quarter of the previous year. You see a movement on that. Those movements are on the net of all the initiatives that Sumit Zaveri and his entire team in maintenance and equipment, and all the other people th at are working towards reducing those line items. They are not specific to leverage. They are not specific to volume. They are initiatives that will drive those margins in spite of no increase in volume. That's both on the gross margin line as well as on the other lines like utilities, rents, and other expenses, which include a lot of other things that we continue to contract and so forth, that we continue to optimize price. That is not dependent on increased volume. Then there is a leverage, right. If y ou look at the leverage in an industry where you have seen strain in the last six, seven quarters, you have seen some very tough SSSG numbers from the industry. In that environment, we continue to drive more people in there. If the environment was much mor e conducive, much more positive, these numbers, which are 2.8%, would have been substantially higher. You understand that. As that volume increases, the leverage of those volume and all these line items will be an additional impact. We think that this imp act will come over due time. The first impact will come within quarters. You will see every quarter. I just told you about the broiler rollout, which is going to be done by March, maybe early April. Then you will start seeing the impact of that in Q2, Q3, Q4 of next year. You will find the gross margin impacts coming in substantially as this new DCs kick in and the optimization from that comes in. Then the next year, we will spend the entire supply chain, Dipit who leads it, will spend time bringing in local suppliers near these DCs. That leverage will be not dependent on volumes again. All these, you will see quarterly, quarterly increases. Then volume will come with time as market improves. I like to add 6%, 7% , 8% SSSG on top of where we are, but that as the Restaurant Brands Asia Limited October 3 1, 2025 market improves. Like I said, October was a fantastic month for us. We did some very good volumes in October. We are projecting that we would probably have a very decent Q3. These volumes, as they keep coming in, they will provide a volume leverage to the P&L as well.
-
-#### Feb 2026 — about the seat
-
-**From the prepared remarks**
-
-> **Naveen Trivedi:** Yes. Thank you so much. Good morning, everyone. On behalf of Motilal O swal, I, Naveen Trivedi, would like to welcome you all to the Restaurant Brands Asia 3Q FY '26 Earnings Conference Call. From the management today, we have Mr. Rajeev Varman, Whole -Time Director and Group CEO; Mr. Sumit Zaveri, Group CFO and Chief Business Officer; Mr. Kapil Grover, Group CMO; Mr. Sandeep Dey, Brand President, Indonesia; and Mr. Gaurav Ajjan, Head of Corporate Development and IR. I would now hand over the call to the management for the opening remarks. Over to you, Raj.
-
-**From the prepared remarks**
-
-> **Rajeev Varman:** But we are doing this systematically, so that it's not a small band -aid approach to 1 quarter or a couple of quarters. Restaurant Brands Asia Limited February 04, 202 6 This is a long -term view that we have taken. We are slowly moving the business, fill the gaps on the chicken s ide of building the portfolio on the burger side by not only improving the product, but you will see more and more communication of these products or the burger products in Indonesia. So with that said, I'm going to turn it over to Sumit Zaveri, who will walk you through in detail the numbers, and then Kapil will take over on the marketing side. So over to you, Sumit.
-
-#### May 2026 — about the seat
-
-**From the prepared remarks**
-
-> **Naveen Trivedi:** Yes. Thank you so much, Michelle. Good morning, everyone. On behalf of Motilal Oswal, I'm Naveen Trivedi. I would like to welcom e you all to the Restaurant Brand Asia's 4Q FY26 Earnings Conference Call. From the management today, we have Mr. Rajeev Varman, Whole -Time Director and Group CEO; Mr. Sumit Zaveri, Group CFO and Chief Business Officer; Mr. Kapil Grover, Group CMO; Mr. San deep Dey; Brand President, Indonesia; and Mr. Gaurav Ajjan, Head of Corporate Development and IR. I will now hand over the call to the management for the opening remarks. Over to you, Raj. Thank you so much.
+7 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
 
 #### Feb 2026 — about the ownership
 

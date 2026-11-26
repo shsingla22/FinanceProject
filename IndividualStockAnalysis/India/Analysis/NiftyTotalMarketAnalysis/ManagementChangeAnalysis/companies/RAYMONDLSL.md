@@ -65,30 +65,6 @@ The filing's own profile: “Mr. Satyaki Ghosh is an accomplished business leade
 | leadership roles | GE Lighting | — | — |
 | leadership roles | Burns Philp | — | — |
 
-Results of **Grasim Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 76,404 | 95,701 | +25.3% a year over 1 year |
-| Operating profit (₹ cr) | 18,635 | 20,431 | +9.6% a year over 1 year |
-| PAT (₹ cr) | 6,987 | 11,206 | +60.4% a year over 1 year |
-| Operating profit margin (%) | 24.4 | 21.3 | -3.1 pts |
-| ROCE (%) | 9.0 | 9.0 | +0.0 pts |
-| ROE (%) | 10.7 | 14.8 | +4.1 pts |
-| Borrowings (₹ cr) | 79,078 | 74,744 | -4,334 |
-
-Results of **Raymond Lifestyle Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 6,177 | 6,888 | +11.5% a year over 1 year |
-| Operating profit (₹ cr) | 484 | 678 | +40.1% a year over 1 year |
-| PAT (₹ cr) | 38.0 | 46.0 | +21.1% a year over 1 year |
-| Operating profit margin (%) | 7.8 | 9.8 | +2.0 pts |
-| ROCE (%) | 4.0 | — | — |
-| ROE (%) | 0.4 | 0.5 | +0.1 pts |
-| Borrowings (₹ cr) | 2,291 | 2,186 | -105 |
-
 **Prasad Ellatch Chathuar** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: rich experience of 28 years in Consumer Industry; qualifications: Mr. Prasad is a Cost Accountant, Chartered Accountant and has done an Executive Certification Program in Finance from Harvard University..
 
 The filing's own profile: “Mr. Prasad Ellatch Chathuar is a visionary executive with rich experience of 28 years in Consumer Industry. Before joining this Company, he was Chief Financial Officer in Bajaj Electricals Limited. He has handled various roles in the organization since joining and predominantly helped the Company in Business Transformation, Business and Financial strategies including evaluation of organic and in-organic growth strategies, Treasury Management, Working Capital Management, Finance, MIS & Budgeting, Taxation, Commercial Activities, and building a Finance and Strategy team for the future. Previously, he has worked with Voltas Limited in senior position for over 17 years and also in Emami Paper Mills Limited for 5 years.”

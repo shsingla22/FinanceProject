@@ -21,12 +21,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (“CFO”)** | Nutan Gaba Patwari (resignation; last day 2026-08-31) | Rinkoo Somani | effective | 2026-06-25 |
+| **Chief Financial Officer ("CFO")** | Nutan Gaba Patwari (resignation; last day 2026-08-31) | Rinkoo Somani | effective | 2026-06-25 |
 
 - **Why Nutan Gaba Patwari is leaving, in the filing's words:** “To pursue the next phase of learning and professional journey.” Stays on as: non-KMP, non-operating, time-bound advisory capacity focused on investor-relations and capital-markets.
-- In the documents: “Based on the recommendations of Audit Committee and Nomination & Remuneration Committee, approved the appointment of Ms. Rinkoo Somani as the Chief Financial Officer (“ CFO ”) of the Company [designated as Key Managerial Personnel (“KMP ”) and Senior Management Personnel (“SMP ”)].” — [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · +1 more
+- In the documents: “Based on the recommendations of Audit Committee and Nomination & Remuneration Committee, approved the appointment of Ms. Rinkoo Somani as the Chief Financial Officer ("CFO") of the Company [designated as Key Managerial Personnel ("KMP") and Senior Management Personnel ("SMP")].” — [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180540_Outcome_of_BM_merged.pdf) · [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180737_Materiality_guideline.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_90440_KMP_Doc.zip)
+*All 7 filing(s) read for the seats:* [2026-10-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026175410_Outcome_of_BM_merged.pdf) · [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180540_Outcome_of_BM_merged.pdf) · [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180737_Materiality_guideline.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -50,7 +50,7 @@
 
 **True North Fund V LLP (sold 2.71%, holds 4.74%) and Aether (Mauritius) Ltd (sold 2.63%, holds 2.27%)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 12.39% (promoter and group, 2025-09-30) → 6.97% (promoter and group, 2026-09-30).
 
-**Nutan Gaba Patwari** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
+**Nutan Gaba Patwari** — Chief Financial Officer ("CFO"), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -68,7 +68,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Rinkoo Somani** — Chief Financial Officer (“CFO”).
+**Rinkoo Somani** — Chief Financial Officer ("CFO").
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 

@@ -61,7 +61,7 @@
 
 **Epsilon Bidco Pte. Ltd. (ultimate beneficial owner Sun Yiming; referred to on the earnings call as promoter Blackstone)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 26.37% (26.38% per shareholding register as on 2026-06-30) → 0%.
 
-**Anand Kripalu** — Managing Director & Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Anand Kripalu** — Managing Director & Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

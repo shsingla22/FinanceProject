@@ -59,9 +59,9 @@
 
 **Azad Moopen Mandayapurath and the existing Aster promoter group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 40.39% (promoter and group, 2026-06-30) → 24.01% held by Azad Moopen Mandayapurath (continues as promoter within a 53.72% promoter group).
 
-**Mandayapurath Azad Moopen** — Managing Director and Group Chief Executive Officer, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Mandayapurath Azad Moopen** — Managing Director and Group Chief Executive Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|

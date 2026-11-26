@@ -12,9 +12,9 @@
 | **Director (Finance); Chief Financial Officer (CFO) and KMP** | Mahesh Chander Gupta (interim holder replaced; last day 2026-05-12) | Arvind Kumar (government appointee; from 2026-05-27) | effective | 2026-05-12 |
 
 - **Why Hira Nand is leaving, in the filing's words:** “Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026”
-- In the documents: “In terms of Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015, it is hereby informed that Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026 and he has ceased to be a Director and CFO of NFL w.e.f. 01.03.2026.” — [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
+- In the documents: “In terms of Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015, it is hereby informed that Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026 and he has ceased to be a Director and CFO of NFL w.e.f. 01.03.2026.” — [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
 - **Why Mahesh Chander Gupta is leaving, in the filing's words:** “Shri Mahesh Chander Gupta, Director (Marketing) ceased to hold the additional charge of Director (Finance) w.e.f. 12.05.2026.” Stays on as: Director (Marketing), National Fertilizers Limited.
-- In the documents: “Shri Arvind Kumar, Director(Finance) has been appointed as Chief Financial Officer and KMP of the Company w.e.f. 27.05.2026.” — [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf)
+- In the documents: “Shri Arvind Kumar, Director(Finance) has been appointed as Chief Financial Officer and KMP of the Company w.e.f. 27.05.2026.” — [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf)
 
 *All 6 filing(s) read for the seats:* [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-04-17 Cessation](https://nsearchives.nseindia.com/corporate/NFL_17042026173428_SignedNSEApp.pdf) · [2026-04-17 Appointment](https://nsearchives.nseindia.com/corporate/NFL_17042026173609_SignedNSEApp.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Hira Nand** — Director (Finance) and CFO, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Hira Nand** — Director (Finance) and CFO, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

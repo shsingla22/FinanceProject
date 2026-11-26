@@ -58,18 +58,6 @@ The filing's own profile: “Mr. Mahendra K. Goyal is a Chartered Accountant, Co
 | Group CFO | ANAND Group | 2009 | — |
 | Controller and CFO positions across multiple Group companies | ANAND Group | 1995 | — |
 
-Results of **Go Digit General Insurance Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,885 | 8,147 | +38.4% a year over 1 year |
-| Operating profit (₹ cr) | 50.0 | -269 | profit to loss |
-| PAT (₹ cr) | 36.0 | 182 | +405.6% a year over 1 year |
-| Operating profit margin (%) | 0.8 | -3.3 | -4.1 pts |
-| ROCE (%) | 5.0 | 11.0 | +6.0 pts |
-| ROE (%) | 1.5 | 6.7 | +5.2 pts |
-| Borrowings (₹ cr) | -0.0 | 350 | +350 |
-
 ### 5. On the calls
 
 Nothing about the change in the calls on file for the window.

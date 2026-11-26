@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**J.P. Chalasani** — Chief Executive Officer and a Key Managerial Personnel of the Company, to act as the Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**J.P. Chalasani** — Chief Executive Officer and a Key Managerial Personnel of the Company, to act as the Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

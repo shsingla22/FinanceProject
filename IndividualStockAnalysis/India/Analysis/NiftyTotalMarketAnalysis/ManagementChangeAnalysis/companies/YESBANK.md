@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Prashant Kumar** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Prashant Kumar** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

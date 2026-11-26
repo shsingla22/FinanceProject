@@ -6,22 +6,22 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Founder promoter Anil Mehta (1.44%) and 15 promoter-group individuals/entities were reclassified out of the 'Promoter and Promoter Group' into the 'Public' category, approved by the board on February 7, 2026, by NSE/BSE on May 21, 2026 and by shareholders on June 24, 2026. WestBridge Crossover Fund, LLC and Aravali Investment Holdings remain the promoters.
+**Ownership — Change of control — completed.** Founder-promoter Anil Mehta and the entire Mehta/Crossland promoter group were reclassified from 'Promoter & Promoter Group' to 'Public' under Reg 31A, approved by exchanges on 21 May 2026 and by shareholders on 24 June 2026. WestBridge Crossover Fund/Aravali Investment Holdings remain the sole promoter. No shares were sold.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Mr. Anil Mehta (promoter); promoter group: Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, Crossland group companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc. | founder family | 1.44% (Anil Mehta as on March 31, 2026); all other named members NIL | NIL as promoter — 1.44% now held in Public category |
-| Incoming | WestBridge Crossover Fund, LLC and Aravali Investment Holdings (continuing promoters) | private-equity fund | — | — |
+| Outgoing | Mr. Anil Mehta (Promoter) with promoter-group members Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, the Crossland companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc. (all nil holdings except Anil Mehta) | founder family | 1.45% (as on 30 September 2025); 1.44% as on 31 March 2026 | 1.44% — same 1,570,734 shares, now held in the Public category |
+| Incoming | WestBridge Crossover Fund, LLC together with its wholly owned subsidiary Aravali Investment Holdings (continuing promoters) | private-equity fund | — | not stated for WestBridge alone; total promoter and group holding 45.91% as on 2026-09-30 |
 
 - mode: other · control changes
-- Why the seller is selling, in their words: “"WestBridge no longer holds more than 20% of our equity share capital and accordingly, the basis for Biz2Credit being part of the promoter group of your Company no longer subsists" (reason for Anil Mehta not stated)”
-- Management changing with it: Not stated — the reclassified parties confirmed they "Do not have any representation on the board of directors (including not having a nominee director) of the Company" and "Do not have any Key Managerial Personnel in the Company"; Rupinder Singh continues as Managing Director & CEO, Ashish Gupta as CFO and Mukti Chaplot as Company Secretary.
-- Dates: other 2026-01-30; approval 2026-02-07; other 2026-02-10; approval 2026-05-21; other 2026-05-25; completion 2026-06-24
-- In the documents: “We hereby inform you that we have received approval of the Shareholders of the Company through Postal Ballot by remote e-voting, on June 24, 2026, approving reclassification of following "Promoter/ Promoter Group" to "Public Category" under Regulation 31A of SEBI (Listing Obligation and Disclosure Requirement) Regulations, 2015.”
+- Why the seller is selling, in their words: “"I am not, directly or indirectly, associated with the business of the Company and do not have any influence over the business and policy decisions made by the Company."”
+- Management changing with it: Not stated — no director or KMP change is disclosed with the reclassification; Mr. Rupinder Singh continues as Managing Director & CEO, Mr. Ashish Gupta as CFO and Ms. Mukti Chaplot as Company Secretary. The outgoing promoters confirmed they have no board representation, no nominee director and no Key Managerial Personnel in the Company.
+- Dates: other 2025-12-16; other 2026-01-30; approval 2026-02-07; other 2026-02-10; approval 2026-05-21; other 2026-05-25; completion 2026-06-24
+- In the documents: “Accordingly, I wish to reclassify myself from the 'Promoter' category to 'Public' category of shareholder of the Company.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 47.71% (2025-09-30) → 47.6% (2025-12-31) → 47.54% (2026-03-31) → 46.05% (2026-06-30) → 45.91% (2026-09-30)
 
-*Filings read for the ownership:* [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_25062026184552_Intimation_of_Shareholder_Approval.pdf) · [2026-05-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_25052026194352_Intimation-Postal_Ballot_Notice_signed.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_21052026171501_Intimation_to_Stx_for_receipt_of_NOC_for_Promoter_Reclassification.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143427_Board_meeting_outcome_intimation.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143927_Board_meeting_outcome_intimation.pdf) · [2026-02-07 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026154714_Board_meeting_outcome_intimation.pdf) · +1 more
+*Filings read for the ownership:* [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_25062026184552_Intimation_of_Shareholder_Approval.pdf) · [2026-05-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_25052026194352_Intimation-Postal_Ballot_Notice_signed.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_21052026171501_Intimation_to_Stx_for_receipt_of_NOC_for_Promoter_Reclassification.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143427_Board_meeting_outcome_intimation.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143927_Board_meeting_outcome_intimation.pdf) · [2026-02-07 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026154714_Board_meeting_outcome_intimation.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -41,17 +41,17 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/INDIASHLTR.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹776.40 on 2026-01-29 (the close before) → ₹624.95 on 2026-11-13: **-19.5%**; Nifty 500 +2.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹859.65 on 2025-12-15 (the close before) → ₹624.95 on 2026-11-13: **-27.3%**; Nifty 500 +0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Mr. Anil Mehta (promoter); promoter group: Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, Crossland group companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc.** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 1.44% (Anil Mehta as on March 31, 2026); all other named members NIL → NIL as promoter — 1.44% now held in Public category.
+**Mr. Anil Mehta (Promoter) with promoter-group members Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, the Crossland companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc. (all nil holdings except Anil Mehta)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 1.45% (as on 30 September 2025); 1.44% as on 31 March 2026 → 1.44% — same 1,570,734 shares, now held in the Public category.
 
 ### 4. Track record — the incoming management
 
-**WestBridge Crossover Fund, LLC and Aravali Investment Holdings (continuing promoters)** (private-equity fund) — the incoming owner.
+**WestBridge Crossover Fund, LLC together with its wholly owned subsidiary Aravali Investment Holdings (continuing promoters)** (private-equity fund) — the incoming owner. Holding after: not stated for WestBridge alone; total promoter and group holding 45.91% as on 2026-09-30.
 
-What the documents say about them: “"We, WestBridge Crossover Fund, LLC, along with our wholly owned subsidiary, Aravali Investment Holdings, being promoters of the Company". WestBridge Crossover Fund, LLC is registered at Level 4, Tower A, 1 Exchange Square, Wall Street, Ebene 72201, Mauritius. The 2026-09-30 shareholding note records that "Westbridge Crossover Fund, LLC and Aravali Investment Holdings, the promoter of the Company, has furnished an undertaking to the NHB for non-disposal of its shareholding in the Company" pursuant to refinancing facilities availed from the National Housing Bank.”
+What the documents say about them: “"We, WestBridge Crossover Fund, LLC, along with our wholly owned subsidiary, Aravali Investment Holdings, being promoters of the Company" — registered at Level 4, Tower A, 1 Exchange Square, Wall Street, Ebene 72201, Mauritius. The 2026-09-30 shareholding note records that "Westbridge Crossover Fund, LLC and Aravali Investment Holdings, the promoter of the Company, has furnished an undertaking to the NHB for non-disposal of its shareholding in the Company" in connection with refinancing facilities from the National Housing Bank. WestBridge also held over 20% of Biz2Credit Inc., Shoreline Labs Inc. and Goldcast Inc. earlier, which is why those were promoter-group entities; it no longer does.”
 
 ### 5. On the calls
 

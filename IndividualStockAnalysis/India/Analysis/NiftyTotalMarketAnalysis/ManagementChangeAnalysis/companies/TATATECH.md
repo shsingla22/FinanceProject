@@ -60,18 +60,6 @@ The company's results while they held the seat (the year before they took it, to
 
 The filing's own profile: “Mr. Uttam Gujrati is a seasoned finance leader with over 20 years of experience in strategic finance, M&A, pricing, and business transformation across global engineering and technology services. In his current role, he heads global business finance and strategy, drove IPO readiness, pricing governance, digital finance modernization, and enterprise-wide margin expansion. He has previously served in CXO-level roles, including as a Chief Financial Officer, where he built governance foundations, led multi-cycle audit readiness, and enabled global scale-up and investment preparedness. Earlier, he partnered with global engineering businesses, leading large-deal pricing, financial integration, and strategic programs across multiple regions. Recognized with multiple national awards for finance leadership excellence, he is widely regarded for his data-driven, disciplined, and growth-oriented operating style, and is a trusted strategic partner to CEOs and boards.”
 
-Results of **Tata Technologies Ltd.** while they were CFO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,168 | 5,506 | +6.5% a year over 1 year |
-| Operating profit (₹ cr) | 934 | 853 | -8.7% a year over 1 year |
-| PAT (₹ cr) | 677 | 547 | -19.2% a year over 1 year |
-| Operating profit margin (%) | 18.1 | 15.5 | -2.6 pts |
-| ROCE (%) | 21.0 | — | — |
-| ROE (%) | 18.9 | 13.9 | -5.0 pts |
-| Borrowings (₹ cr) | 237 | 938 | +701 |
-
 ### 5. On the calls
 
 8 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

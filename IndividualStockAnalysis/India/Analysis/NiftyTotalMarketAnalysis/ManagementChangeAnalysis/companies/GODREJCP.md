@@ -16,7 +16,7 @@
 - **Why Aasif Malbari is leaving, in the filing's words:** “My resignation is consequent to my proposed appointment as the Managing Director and Chief Executive Officer of the Company, subject to the requisite approvals.” Stays on as: Managing Director & Chief Executive Officer.
 - In the documents: “Upon recommendation of the Nomination and Remuneration Committee and the Audit Committee of the Board of Directors, the Board of Directors have approved appointment of Mr. Vishal Kedia as the Interim Chief Financial Officer and Key Managerial Personnel of the Company with effect from August 12, 2026.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +1 more
 
-*All 10 filing(s) read for the seats:* [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07102026195229_SE_Scrutinizer_Report_Voting_Result-Signed.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07092026231405_SE_Notice_of_Postal_Ballot_11082026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155900_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +4 more
+*All 13 filing(s) read for the seats:* [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07102026195229_SE_Scrutinizer_Report_Voting_Result-Signed.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07092026231405_SE_Notice_of_Postal_Ballot_11082026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155900_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +7 more
 
 ### 2. Financials — the last three years
 
@@ -76,11 +76,11 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Aasif Malbari** — Managing Director & Chief Executive Officer. from: internal; experience: three decades in the FMCG and auto industries; qualifications: Aasif is a Chartered Accountant and Company Secretary who secured the All India First Rank in both the CA Intermediate and Final examinations. He is a graduate of Sydenham College, University of Mumbai..
 
-The filing's own profile: “Aasif has spent three decades in the FMCG and auto industries, at GCPL, Tata Motors, and Hindustan Unilever. As Global CFO, he directly oversees business strategy and has played a critical role in partnering leadership teams across geographies to advance growth and strengthen performance. Aasif has delivered an outstanding transformation of GCPL's Africa business. Prior to joining GCPL, Aasif served as Chief Financial Officer at Tata Passenger Electric Mobility and Director at Tata Motors Passenger Vehicles, where he played a key role in scaling the business significantly, including its reorganisation and a USD 1 billion fundraise in the electric vehicle business.”
+The filing's own profile: “Aasif has spent three decades in the FMCG and auto industries, at GCPL, Tata Motors, and Hindustan Unilever. As Global CFO, he directly oversees business strategy and has played a critical role in partnering leadership teams across geographies to advance growth and strengthen performance. Aasif has delivered an outstanding transformation of GCPL's Africa business. The business has rapidly grown its margin-accretive FMCG portfolio, headlined by the highly successful launch of our air care category, while strengthening the legacy Hair Fashion business. This has resulted in EBITDA margins growing significantly, from ~9% in FY24 to ~15% in FY26.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Financial Officer (Global CFO) and President Godrej Africa | Godrej Consumer Products Limited (GODREJCP) | — | 2026 |
+| Global Chief Financial Officer and President Godrej Africa | Godrej Consumer Products Limited (GODREJCP) | — | 2026 |
 | Chief Financial Officer | Tata Passenger Electric Mobility | — | — |
 | Director | Tata Motors Passenger Vehicles (TMPV) | — | — |
 | a range of finance and business roles | Hindustan Unilever (HINDUNILVR) | — | — |
@@ -91,7 +91,7 @@ The filing's own profile: “Mr. Vishal Kedia has been with the Godrej Group sin
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Head- Strategy, FP&A and Investor Relations | Godrej Consumer Products Limited (GODREJCP) | 2016 | — |
+| Head- Strategy, FP&A and Investor Relations | Godrej Consumer Products Limited (GODREJCP) | 2016 | 2026 |
 | — | The Boston Consulting Group | — | — |
 
 ### 5. On the calls

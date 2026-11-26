@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Cuddapah Ramachandra Rao (resignation; last day 2026-05-31) | Balusu Santhi Latha (internal; from 2026-06-01) | effective | 2026-05-28 |
 
-- **Why Cuddapah Ramachandra Rao is leaving, in the filing's words:** “Due to pre-occupation with work relating to the establishment of new projects and framing of Corporate Policies of the Gruoup” Stays on as: Joint Managing Director and Company Secretary.
-- In the documents: “The Board approved the request of Mr. C. Ramachandra Rao for permitting him to relinquish his responsibilities as Chief Financial Officer (CFO) and hand over the same to Mrs. B. Santhi Latha, General Manager (Finance & Accounts) who is being designated as the CFO of the Company with effect from 01st June, 2026 as a part of succession planning.” — [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip)
+- **Why Cuddapah Ramachandra Rao is leaving, in the filing's words:** “Due to pre-occupation with work relating to the establishment of new projects and framing of Corporate Policies of the Gruoup” Stays on as: Joint Managing Director and Company Secretary (also Compliance Officer).
+- In the documents: “The Board approved the request of Mr. C. Ramachandra Rao for permitting him to relinquish his responsibilities as Chief Financial Officer (CFO) and hand over the same to Mrs. B. Santhi Latha, General Manager (Finance & Accounts) who is being designated as the CFO of the Company with effect from 01st June, 2026 as a part of succession planning.” — [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-29 General Updates](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_29052026145219_Revised_Outcome_Letter_29_05_2026_.pdf) · [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026180240_Outcome.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026200507_Outcome_-_Revised.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026203214_Outcome_-_Revised.pdf)
+*All 5 filing(s) read for the seats:* [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-29 General Updates](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_29052026145219_Revised_Outcome_Letter_29_05_2026_.pdf) · [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026180240_Outcome.pdf) · [2026-05-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026200507_Outcome_-_Revised.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026203214_Outcome_-_Revised.pdf)
 
 ### 2. Financials — the last three years
 
@@ -63,7 +63,8 @@ The filing's own profile: “Smt. B. Santhi Latha, Chartered Accountant, has bee
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| General Manager (Finance & Accounts) | Avanti Feeds Limited (AVANTIFEED) | 2020 | 2026 |
+| General Manager (Finance & Accounts) | Avanti Feeds Limited (AVANTIFEED) | 2020 | — |
+| Risk & Compliance Department established under her leadership | Avanti Feeds Limited (AVANTIFEED) | 2011 | — |
 
 ### 5. On the calls
 

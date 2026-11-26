@@ -22,12 +22,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Whole-Time Director & Chief Financial Officer (CFO)** | Ashutosh Agarwal (resignation; last day 2026-08-10) | Rajesh Daga (internal; from 2026-08-11) | effective | 2026-06-11 |
+| **Whole-Time Director & Chief Financial Officer (CFO)** | Ashutosh Agarwal (resignation; last day 2026-08-10) | Rajesh Daga (internal; from 2026-08-11) | effective | 2026-08-07 |
 
 - **Why Ashutosh Agarwal is leaving, in the filing's words:** “I, Ashutosh Agarwal, hereby tender my resignation from the position of Whole-Time Director & CFO of Electrosteel Castings Limited (the "Company") due to my personal reasons.”
-- In the documents: “approved the appointment of Mr. Rajesh Daga as the Chief Financial Officer of the Company effective from Tuesday, 11 August, 2026.” — [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110719_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · +1 more
+- In the documents: “approved the appointment of Mr. Rajesh Daga as the Chief Financial Officer of the Company effective from Tuesday, 11 August, 2026.” — [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026150303_Outcome_of_Board_Meeting_07082026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-11-13 Cessation](https://nsearchives.nseindia.in/corporate/ELECTCAST_13112026161659_Completion_of_Tenure_13112026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110719_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89810_KMP_Doc.zip)
+*All 7 filing(s) read for the seats:* [2026-11-13 Cessation](https://nsearchives.nseindia.in/corporate/ELECTCAST_13112026161659_Completion_of_Tenure_13112026.pdf) · [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026150303_Outcome_of_Board_Meeting_07082026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110719_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -57,7 +57,7 @@
 
 **India Opportunities Growth Fund Ltd - Pinewood Strategy; Belgrave Investment Fund (both non-promoter public shareholders)** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved — → 0.79% (Belgrave Investment Fund).
 
-**Ashutosh Agarwal** — Whole-Time Director & Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Ashutosh Agarwal** — Whole-Time Director & Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -77,7 +77,7 @@ The company's results while they held the seat (the year before they took it, to
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Rajesh Daga** — Whole-Time Director & Chief Financial Officer (CFO). from: internal; experience: a career spanning more than three decades; qualifications: Mr. Rajesh Daga is a Chartered Accountant and holds a Bachelor of Commerce (Honours) degree, having cleared his CA examinations in 1987 on his first attempt..
+**Rajesh Daga** — Whole-Time Director & Chief Financial Officer (CFO). from: internal; experience: a career spanning more than three decades; qualifications: Chartered Accountant and holds a Bachelor of Commerce (Honours) degree, having cleared his CA examinations in 1987 on his first attempt.
 
 The filing's own profile: “Mr. Rajesh Daga is a Chartered Accountant and holds a Bachelor of Commerce (Honours) degree, having cleared his CA examinations in 1987 on his first attempt. After completing his articleship with Singhi & Co., Chartered Accountants, he joined Electrosteel Castings Limited (ECL) in 1989. Over a career spanning more than three decades, Mr. Daga has been deeply associated with ECL, save for a four-year period (1993–1997) where he gained external professional experience before rejoining the company. Throughout his tenure, he has held key positions across diverse functions, including Finance, Accounts, Purchase and Sales. This extensive cross-functional exposure has equipped him with a comprehensive understanding of the Company's operations, financial systems, and strategic business priorities.”
 

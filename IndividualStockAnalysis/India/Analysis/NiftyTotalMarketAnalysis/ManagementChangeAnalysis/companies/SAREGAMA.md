@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Pankaj Mahesh Chaturvedi** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Pankaj Mahesh Chaturvedi** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -79,18 +79,6 @@ The filing's own profile: “Mr. Abhishek Kapoor is a seasoned finance leader wi
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Sula Vineyards Limited | — | — |
-
-Results of **Puravankara Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,128 | 963 | -54.7% a year over 1 year |
-| Operating profit (₹ cr) | 447 | 282 | -36.9% a year over 1 year |
-| PAT (₹ cr) | 88.0 | -4.0 | profit to loss |
-| Operating profit margin (%) | 21.0 | 29.3 | +8.3 pts |
-| ROCE (%) | 10.0 | 8.0 | -2.0 pts |
-| ROE (%) | 4.6 | -0.2 | -4.8 pts |
-| Borrowings (₹ cr) | 2,670 | 2,835 | +165 |
 
 ### 5. On the calls
 

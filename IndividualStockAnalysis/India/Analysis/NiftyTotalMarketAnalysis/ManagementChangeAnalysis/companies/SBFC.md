@@ -40,9 +40,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Aseem Dhru** — Managing Director & CEO, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Aseem Dhru** — Managing Director & CEO, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -54,9 +54,9 @@ The company's results while they held the seat (the year before they took it, to
 
 - Also on file: Chairman at SAFARI (FY2025–FY2026, annual reports).
 
-**Narayan Barasia** — Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Narayan Barasia** — Chief Financial Officer, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|

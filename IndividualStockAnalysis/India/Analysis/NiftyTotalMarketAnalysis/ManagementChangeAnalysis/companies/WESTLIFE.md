@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Hrushit Shah** — Chief Financial Officer (CFO), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Hrushit Shah** — Chief Financial Officer (CFO), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

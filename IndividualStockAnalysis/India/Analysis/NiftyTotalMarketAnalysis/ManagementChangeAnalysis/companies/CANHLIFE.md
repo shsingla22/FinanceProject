@@ -41,9 +41,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Tarun Rustagi** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Tarun Rustagi** — Chief Financial Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|

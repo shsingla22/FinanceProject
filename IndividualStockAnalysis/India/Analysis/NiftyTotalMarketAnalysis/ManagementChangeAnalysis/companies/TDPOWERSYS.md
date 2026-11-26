@@ -54,18 +54,6 @@ The filing's own profile: “Mr. Deepak Kumar Sinha, holds a Bachelor's degree i
 | Chief Executive and Whole-time Director | L&T-MHI Power Turbine Generators Private Limited (LMTG) | — | — |
 | senior leadership roles in management, technology and operations | GE Power | — | — |
 
-Results of **TD Power Systems Ltd.** while they were CEO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,279 | 1,856 | +45.1% a year over 1 year |
-| Operating profit (₹ cr) | 235 | 335 | +42.6% a year over 1 year |
-| PAT (₹ cr) | 175 | 239 | +36.6% a year over 1 year |
-| Operating profit margin (%) | 18.4 | 18.0 | -0.4 pts |
-| ROCE (%) | 30.0 | 34.0 | +4.0 pts |
-| ROE (%) | 20.3 | 22.3 | +2.0 pts |
-| Borrowings (₹ cr) | 12.0 | 18.0 | +6 |
-
 ### 5. On the calls
 
 1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

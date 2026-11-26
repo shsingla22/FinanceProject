@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Neeraj Parakh (resignation; last day 2026-11-12) | Rajendra Vishwanath Pawar (from 2026-11-12) | effective | 2026-11-12 |
+| **Chief Financial Officer** | Neeraj Parakh (resignation; last day 2026-11-12) | Rajendra Vishwanath Pawar (group company; from 2026-11-12) | effective | 2026-11-12 |
 
-- **Why Neeraj Parakh is leaving, in the filing's words:** “In view of the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company.” Stays on as: Executive Director, Chief Executive Officer and Key Managerial Personnel of the Company.
-- In the documents: “the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company with immediate effect. Consequent upon the aforesaid appointment, Shri Neeraj Parakh, Executive Director and Chief Executive Officer of the Company, has resigned as Interim Chief Financial Officer of the Company with immediate effect.” — [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
+- **Why Neeraj Parakh is leaving, in the filing's words:** “In view of the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company, I hereby tender my resignation from the office of Interim Chief Financial Officer of the Company with immediate effect.” Stays on as: Executive Director, Chief Executive Officer and Key Managerial Personnel of the Company.
+- In the documents: “Consequent upon the aforesaid appointment, Shri Neeraj Parakh, Executive Director and Chief Executive Officer of the Company, has resigned as Interim Chief Financial Officer of the Company with immediate effect.” — [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RPOWER_12112026194323_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
 
-*All 2 filing(s) read for the seats:* [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RPOWER_12112026194323_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
 
 ### 2. Financials — the last three years
 
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rajendra Vishwanath Pawar** — Chief Financial Officer. age 54 years; experience: over two decades; qualifications: Chartered Accountant.
+**Rajendra Vishwanath Pawar** — Chief Financial Officer. from: group company; age 54 years; experience: over two decades of experience; qualifications: Chartered Accountant.
 
-The filing's own profile: “Shri Rajendra Vishwanath Pawar, aged 54 years, is a Chartered Accountant with over two decades of experience in finance, accounting, financial planning and management, fund raising, treasury management, corporate restructuring, mergers and acquisitions, taxation, regulatory compliance, statutory and internal audits, financial controls, foreign exchange risk management, financial restructuring, stakeholder engagement and implementation of ERP / MIS systems and insolvency resolution matters. He has held senior finance positions across listed companies, multinational corporations and diversified business groups, Prior to joining the Reliance Group, he served as Chief Financial Officer of MEP Infrastructure Developers Limited, GNP Group Companies and Sankalpan Infrastructure Private Limited.”
+The filing's own profile: “Shri Rajendra Vishwanath Pawar, aged 54 years, is a Chartered Accountant with over two decades of experience in finance, accounting, financial planning and management, fund raising, treasury management, corporate restructuring, mergers and acquisitions, taxation, regulatory compliance, statutory and internal audits, financial controls, foreign exchange risk management, financial restructuring, stakeholder engagement and implementation of ERP/ MIS systems and insolvency resolution matters He has held senior finance positions across listed companies, multinational corporations and diversified business groups, Prior to joining the Reliance Group, he served as Chief Financial Officer of MEP Infrastructure Developers Limited, GNP Group Companies and Sankalpan Infrastructure Private Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

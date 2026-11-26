@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Umang Vohra** — Managing Director and Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Umang Vohra** — Managing Director and Global Chief Executive Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -81,18 +81,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director & Global Chief Executive Officer Designate | Cipla Limited (CIPLA) | — | 2026 |
-
-Results of **Cipla Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 27,548 | 28,163 | +2.2% a year over 1 year |
-| Operating profit (₹ cr) | 7,128 | 5,883 | -17.5% a year over 1 year |
-| PAT (₹ cr) | 5,269 | 3,862 | -26.7% a year over 1 year |
-| Operating profit margin (%) | 25.9 | 20.9 | -5.0 pts |
-| ROCE (%) | 23.0 | 15.0 | -8.0 pts |
-| ROE (%) | 16.9 | 11.2 | -5.7 pts |
-| Borrowings (₹ cr) | 438 | 614 | +176 |
 
 **Dinesh Jain** — Global Chief Financial Officer. from: internal; experience: over three decades of experience; qualifications: a qualified Chartered Accountant and member of the Institute of Chartered Accountants of India.
 

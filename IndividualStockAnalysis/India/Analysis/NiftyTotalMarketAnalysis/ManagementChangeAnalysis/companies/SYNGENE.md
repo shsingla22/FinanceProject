@@ -58,7 +58,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 14.4 | 6.6 | -7.8 pts |
 | Borrowings (₹ cr) | 893 | 458 | -435 |
 
-**Deepak Jain** — Chief Financial Officer and Key Managerial Personnel (KMP), in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Deepak Jain** — Chief Financial Officer and Key Managerial Personnel (KMP), in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

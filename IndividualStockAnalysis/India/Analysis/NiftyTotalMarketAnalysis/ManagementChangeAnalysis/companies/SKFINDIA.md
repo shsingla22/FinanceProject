@@ -6,27 +6,30 @@
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** The promoter's entire 52.58% holding moved inside the SKF group: Aktiebolaget SKF transferred its full stake to SKF Interim AB, another promoter entity. Total promoter-and-group holding stayed 52.58% across every quarter, so no outside party gained control. SKF Interim AB now holds the promoter block.
+**Ownership — Within the promoter family / group.** Aktiebolaget SKF, the promoter, transferred its entire 52.58% holding (25,992,059 equity shares) off-market to SKF Interim AB, its wholly-owned subsidiary. An exempt inter-se promoter transfer; total promoter holding stayed 52.58% and ultimate control remains with AB SKF. SKF Interim AB now holds the stake directly.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Aktiebolaget SKF | corporate parent | 52.58% | 0% |
+| Outgoing | Aktiebolaget SKF (AB SKF) | corporate parent | 52.58% | 0% |
 | Incoming | SKF Interim AB | other | — | 52.58% |
 
 - mode: other · control does not change
 - Dates: other 2025-12-26
+- In the documents: “SKF India Limited (the “Company”) has received the enclosed report along with supporting documents from SKF Interim AB pursuant to Regulation 10(7) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (“SEBI SAST Regulations”), in relation to the off-market inter-se transfer of 25,992,059 (Twenty Five Million Nine Hundred and Ninety Two Thousand and Fifty Nine) equity shares of the Company from Aktiebolaget SKF (AB SKF), the promoter of the Company, to SKF Interim AB.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 52.58% (2025-09-30) → 52.58% (2025-12-31) → 52.58% (2026-03-31) → 52.58% (2026-06-30) → 52.58% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 52.58% and bought 52.58%.
 
+*Filings read for the ownership:* [2025-12-26 General Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA22_26122025201331_9_SE_Intimation_Disclosure_under_Reg_10_7__of_SAST.pdf)
+
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (‘CFO”) / Interim Chief Financial Officer (Interim CFO)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
+| **Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
 
-- **Why Aashi Arora is leaving, in the filing's words:** “Ms. Aashi Arora resigned due to conclusion of her interim assignment and change in role in the organization.” Stays on as: continues to be part of SKF India Limited ("However, I will continue to be part of SKF India Limited.") — new role not stated.
-- In the documents: “Mr. Mayank Holani is appointed as the Chief Financial Officer (‘CFO”) of the Company in place of Ms. Aashi Arora (current CFO) who resigned, due to conclusion of interim assignment and change in role in the organization.” — [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
+- **Why Aashi Arora is leaving, in the filing's words:** “Ms. Aashi Arora resigned due to conclusion of her interim assignment and change in role in the organization.” Stays on as: continues to be part of SKF India Limited in a changed role in the organization (role not stated).
+- In the documents: “Mr. Mayank Holani is appointed as the Chief Financial Officer (‘CFO”) of the Company in place of Ms. Aashi Arora (current CFO) who resigned, due to conclusion of interim assignment and change in role in the organization.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · [2026-05-13 Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235726_NSE.pdf)
+*All 7 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -54,9 +57,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Aktiebolaget SKF** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 52.58% → 0%.
+**Aktiebolaget SKF (AB SKF)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 52.58% → 0%.
 
-**Aashi Arora** — Chief Financial Officer (‘CFO”) / Interim Chief Financial Officer (Interim CFO), date of taking the seat not on file.
+**Aashi Arora** — Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -74,32 +77,20 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **SKF Interim AB** (other) — the incoming owner. Holding after: 52.58%.
 
-What the documents say about them: “not stated — the exchange facts identify SKF Interim AB only as a promoter of SKF India Ltd. that acquired 52.58% of the capital via 'Others' on 2025-12-26 and holds 52.58% after.”
+What the documents say about them: “"SKF Interim AB is a wholly-owned subsidiary of AB SKF." The documents say nothing further about its business, size or other holdings.”
 
-**Mayank Holani** — Chief Financial Officer (‘CFO”) / Interim Chief Financial Officer (Interim CFO). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
+**Mayank Holani** — Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
 
-The filing's own profile: “Mr. Mayank Holani is a seasoned professional with more than 23 years’ experience (including 6 years as CFO) working with diverse businesses in both Indian and multinational companies in diverse areas of finance and accounting including project management, finance transformation, business turnaround, profitability improvement, internal audit, digitization & automation, joint venture management, M&A, compliances, etc. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan where he was responsible for end-to-end finance & accounts including finance strategy & operations, digitization, risk management, etc. Prior to this, he worked for 12 years with Schneider Electric India.”
+The filing's own profile: “Mr. Mayank Holani is a fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan where he was responsible for end-to-end finance & accounts including finance strategy & operations, digitization, risk management, etc. Prior to this, he worked for 12 years with Schneider Electric India, performing various diverse roles including FP&A, Controlling, Finance Business Partner along with being CFO for the listed entity Schneider Electric Infrastructure Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer (CFO) | Indian Synthetic Rubber Private Limited (ISRPL) | — | — |
 | various diverse roles including FP&A, Controlling, Finance Business Partner | Schneider Electric India | — | — |
-| CFO for the listed entity | Schneider Electric Infrastructure Limited (SCHNEIDER) | — | — |
+| CFO | Schneider Electric Infrastructure Limited (SCHNEIDER) | — | — |
 | — | Cairn India Limited | — | — |
 | — | Chambal Fertilisers & Chemicals Limited | — | — |
 | — | JK Tyres & Industries Limited | — | — |
-
-Results of **Schneider Electric Infrastructure Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,297 | 1,530 | +18.0% a year over 1 year |
-| Operating profit (₹ cr) | 64.0 | 86.0 | +34.4% a year over 1 year |
-| PAT (₹ cr) | -1.0 | 28.0 | loss to profit |
-| Operating profit margin (%) | 4.9 | 5.6 | +0.7 pts |
-| ROCE (%) | 12.0 | 14.0 | +2.0 pts |
-| ROE (%) | 1.2 | -58.3 | -59.5 pts |
-| Borrowings (₹ cr) | 629 | 590 | -39 |
 
 ### 5. On the calls
 

@@ -74,18 +74,6 @@ Results of **Godfrey Phillips India Ltd.** while they were CFO there (annual rep
 | ROE (%) | 14.6 | 20.9 | +6.3 pts |
 | Borrowings (₹ cr) | 396 | 345 | -51 |
 
-Results of **Jindal Steel Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 51,166 | 53,212 | +4.0% a year over 1 year |
-| Operating profit (₹ cr) | 15,559 | 9,942 | -36.1% a year over 1 year |
-| PAT (₹ cr) | 6,766 | 3,974 | -41.3% a year over 1 year |
-| Operating profit margin (%) | 30.4 | 18.7 | -11.7 pts |
-| ROCE (%) | 24.0 | 14.0 | -10.0 pts |
-| ROE (%) | 19.0 | 10.3 | -8.7 pts |
-| Borrowings (₹ cr) | 13,502 | 13,046 | -456 |
-
 Results of **Life Insurance Corporation of India** while they were CFO there (annual reports on file show the seat FY2024–FY2026):
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
@@ -120,16 +108,6 @@ The filing's own profile: “Shri Ravi Ranjan is presently the Managing Director
 | DMD, Corporate Accounts Group (CAG) | State Bank of India (SBIN) | — | — |
 | Chief General Manager (CGM), SBI Chennai Circle | State Bank of India (SBIN) | — | — |
 | President and Chief Operating Officer (COO) | SBICAPS, Mumbai | — | — |
-
-Results of **State Bank of India** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 490,313 | 514,933 | +5.0% a year over 1 year |
-| Financing profit (₹ cr) | -62,674 | -78,853 | — |
-| PAT (₹ cr) | 80,523 | 86,666 | +7.6% a year over 1 year |
-| Financing profit margin (%) | -12.8 | -15.3 | -2.5 pts |
-| ROE (%) | 16.5 | 14.5 | -2.0 pts |
 
 ### 5. On the calls
 

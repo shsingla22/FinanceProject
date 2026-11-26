@@ -22,12 +22,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Devendra Kumar Agarwal (resignation; last day 2026-03-31) | Chakresh Kumar Jain (internal; from 2026-05-01) | effective | 2026-03-31 |
+| **Chief Financial Officer (CFO)** | Devendra Kumar Agarwal (resignation; last day 2026-03-31) | Chakresh Kumar Jain (internal; from 2026-05-19) | effective | 2026-03-31 |
 
-- **Why Devendra Kumar Agarwal is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer of the Company on account of health issues, with effect from closing of business hours of March 31, 2026.”
-- In the documents: “Appointed and designated Mr. Chakresh Kumar Jain, Managing Director as Chief Financial Officer of the Company” — [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · [2026-03-31 Resignation](https://nsearchives.nseindia.com/corporate/PNCINFRA_31032026175921_ResignationofCFO31032026.pdf)
+- **Why Devendra Kumar Agarwal is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer of the Company on account of health issues, with effect from closing of business hours of March31,2026.”
+- In the documents: “Pursuant to the provisions of Regulation 30 (6) of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 this is to inform you that Mr. Devendra Kumar Agarwal, Chief Financial Officer (CFO) of the Company has resigned from his position due to health issues, which has been accepted by the Board of Directors of Company and is being relieved from the Company with effect from closing of business hours of March31,2026.” — [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026161006_Outcomeofboardmeeting19052026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · [2026-03-31 Resignation](https://nsearchives.nseindia.com/corporate/PNCINFRA_31032026175921_ResignationofCFO31032026.pdf)
+*All 4 filing(s) read for the seats:* [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026161006_Outcomeofboardmeeting19052026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · [2026-03-31 Resignation](https://nsearchives.nseindia.com/corporate/PNCINFRA_31032026175921_ResignationofCFO31032026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -57,7 +57,7 @@
 
 **Pradeep Kumar Jain HUF, Chakresh Kumar Jain HUF, Yogesh Kumar Jain HUF** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 7.65% combined (Pradeep Kumar Jain HUF 2.05%, Chakresh Kumar Jain HUF 3.61%, Yogesh Kumar Jain HUF 1.99%) → Nil (0%) each.
 
-**Devendra Kumar Agarwal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Devendra Kumar Agarwal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -81,21 +81,7 @@ What the documents say about them: “Individual members of the promoter Jain fa
 
 **Chakresh Kumar Jain** — Chief Financial Officer (CFO). from: internal.
 
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Managing Director | PNC Infratech Limited (PNCINFRA) | — | — |
-
-Results of **PNC Infratech Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2025):
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,603 | 6,769 | +3.9% a year over 5 years |
-| Operating profit (₹ cr) | 1,328 | 2,066 | +9.2% a year over 5 years |
-| PAT (₹ cr) | 550 | 815 | +8.2% a year over 5 years |
-| Operating profit margin (%) | 23.7 | 30.5 | +6.8 pts |
-| ROCE (%) | 21.0 | 14.0 | -7.0 pts |
-| ROE (%) | 21.5 | 13.6 | -7.9 pts |
-| Borrowings (₹ cr) | 3,515 | 9,364 | +5,849 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 

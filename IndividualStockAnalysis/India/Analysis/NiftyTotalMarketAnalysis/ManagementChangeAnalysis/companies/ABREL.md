@@ -41,9 +41,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Snehal Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Snehal Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -69,18 +69,6 @@ The filing's own profile: “Mr. Keyur Shah joined on 15th May, 2023 as CFO of B
 | — | HDFC | 2005 | — |
 | — | KPMG | — | — |
 | — | Castrol India Ltd (CASTROLIND) | — | — |
-
-Results of **Aditya Birla Real Estate Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,101 | 1,219 | +10.7% a year over 1 year |
-| Operating profit (₹ cr) | 221 | 16.0 | -92.8% a year over 1 year |
-| PAT (₹ cr) | 60.0 | -157 | profit to loss |
-| Operating profit margin (%) | 20.1 | 1.3 | -18.8 pts |
-| ROCE (%) | -0.0 | -4.0 | -4.0 pts |
-| ROE (%) | 1.5 | -4.1 | -5.6 pts |
-| Borrowings (₹ cr) | 2,502 | 4,997 | +2,495 |
 
 ### 5. On the calls
 

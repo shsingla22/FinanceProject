@@ -2,38 +2,35 @@
 
 ## RELIGARE — Religare Enterprises Ltd.
 
-**Large stake change, same controller · CEO / MD change · CFO change**
+**Large stake change, same controller · CFO change**
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Control had already passed to the Burman Group in February 2025, before this window. During the window the Burman promoters only added to their stake — converting preferential warrants at Rs 235 (allotments December 5, 2025 and June 4, 2026) and buying in the open market — lifting promoter holding from 25.83% to 31.26%. No new controller.
+**Ownership — Large stake change, same controller.** The Burman family, already classified as promoters after the open offer completed in February 2025, kept raising its holding — converting preferential warrants at Rs.235 (allotments on 2025-12-05 and 2026-06-04) and buying in the open market. Promoter and group holding rose from 25.83% to 31.26%; control unchanged.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
 | Outgoing | — | — | — | — |
-| Incoming | Burman Group / Burman family (existing promoters; promoter group entities Puran Associates, VIC Enterprises, M.B. Finmart, Milky Investment and Trading, Gyan Enterprises, Mrs. Shivani Burman) | founder family member | — | 31.26% (promoter and group as on 2026-09-30); 30.56% as on June 04, 2026 |
+| Incoming | Burman family / Burman Group (promoters) — incl. Puran Associates Pvt Ltd, VIC Enterprises Pvt Ltd, M.B. Finmart Pvt. Ltd., Milky Investment and Trading Company, Gyan Enterprises Private Limited, Mrs. Shivani Burman | founder family member | — | 31.26% (promoter and group, 2026-09-30); 30.56% as on June 04, 2026 |
 
-- mode: preferential issue · price Rs. 235 per warrant/share on preferential warrant conversion · deal value Rs. 3,500 Lakhs received in quarter ended December 31, 2025 from four promoter group entities for conversion of 1,985,816 warrants; Rs. 14,705 Lakhs received in quarter ended June 30, 2026 from five share warrant holders for conversion of 83,43,263 warrants (part of total warrant issue of up to Rs. 14,99,99,98,770) · control does not change
-- Management changing with it: Board reconstituted in July 2025 with induction of directors representing the promoters after regulators' approval (five directors including promoter representative directors; three also inducted on RHDFCL board, where five of eight directors are common with REL). On August 12, 2026 the Board approved re-designation of Mr. Arjun Lamba (DIN: 00124804) as Managing Director (earlier Executive Director/Whole-time Director), effective August 12, 2026, subject to shareholders' approval.
-- Dates: other 2025-12-05; block deal 2026-03-30; other 2026-06-04; other 2026-08-12
+- mode: preferential issue · price Rs. 235 per warrant/share on warrant conversion; open-market purchases not stated · deal value Rs. 3,500 lakhs received from four promoter group entities for conversion of 1,985,816 warrants (allotted December 05, 2025) and Rs. 14,705 lakhs from five share warrant holders for conversion of 83,43,263 warrants (allotted June 04, 2026), out of a total preferential issue of up to 6,38,29,782 warrants aggregating up to Rs. 14,99,99,98,770 · control does not change
+- Management changing with it: Board of REL was reconstituted in July 2025 with induction of directors representing the promoters after regulators' approval (five directors including promoter representative directors, three of whom also joined RHDFCL's board). On August 12, 2026 the Board re-designated Mr. Arjun Lamba (DIN: 00124804) as Managing Director, earlier Executive Director/Whole-time Director, subject to shareholders' approval; he is not related to any other Director.
+- Dates: other 2025-08-08; other 2025-12-05; other 2026-03-20; block deal 2026-03-30; completion 2026-06-04
 - In the documents: “The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 25.83% (2025-09-30) → 26.27% (2025-12-31) → 30.27% (2026-03-31) → 30.56% (2026-06-04) → 30.56% (2026-06-30) → 31.26% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 4.09%.
 
-*Filings read for the ownership:* [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026180805_RELUPDATE30062026.pdf)
+*Filings read for the ownership:* [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026201628_RELOUTCOME120820260.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-08-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202459_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026180805_RELUPDATE30062026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | — (new seat) | Arjun Lamba (promoter family; from 2026-08-12) | effective | 2026-08-12 |
 | **Chief Financial Officer of REL** | — (new seat) | Pratul Gupta (internal) | effective | 2026-05-12 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Upon recommendation of the Nomination & Remuneration Committee, approved re-designation o f Mr. Arjun Lamba (DIN: 00124804), as Managing Director ( earlier designated as Executive Director , in the capacity of Whole -time Director ) on the same term s and conditions effective from August 12, 2026 ; subject to shareholders approvals .” — [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf)
-- **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Re-designation of Mr. Pratul Gupta as Chief Financial Officer of REL” — [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf)
 
-*All 9 filing(s) read for the seats:* [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026182502_RELCESSATION30062026.pdf) · [2026-06-25 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_25062026184936_RELUPDATE25062026.pdf) · [2026-06-23 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_23062026211509_RELUPDATE23062026.pdf) · [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf) · +3 more
+*All 11 filing(s) read for the seats:* [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026201628_RELOUTCOME120820260.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-08-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202459_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026182502_RELCESSATION30062026.pdf) · [2026-06-25 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_25062026184936_RELUPDATE25062026.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -57,7 +54,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/RELIGARE.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹235.89 on 2025-12-04 (the close before) → ₹233.93 on 2026-11-13: **-0.8%**; Nifty 500 -0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹222.42 on 2026-03-19 (the close before) → ₹233.93 on 2026-11-13: **+5.2%**; Nifty 500 +11.8% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -65,18 +62,9 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Burman Group / Burman family (existing promoters; promoter group entities Puran Associates, VIC Enterprises, M.B. Finmart, Milky Investment and Trading, Gyan Enterprises, Mrs. Shivani Burman)** (founder family member) — the incoming owner. Holding after: 31.26% (promoter and group as on 2026-09-30); 30.56% as on June 04, 2026.
+**Burman family / Burman Group (promoters) — incl. Puran Associates Pvt Ltd, VIC Enterprises Pvt Ltd, M.B. Finmart Pvt. Ltd., Milky Investment and Trading Company, Gyan Enterprises Private Limited, Mrs. Shivani Burman** (founder family member) — the incoming owner. Holding after: 31.26% (promoter and group, 2026-09-30); 30.56% as on June 04, 2026.
 
-What the documents say about them: “"The classification of the Burman Group (promoter family of Dabur India Limited) as promoters of Religare Enterprises Limited (REL)"; "The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025." ICRA notes "Improvement in the group's credit profile following the classification of the Burman family (promoter family of Dabur India Limited) as promoters" and "the strengthening of governance at REL, with the induction of five directors including promoter representative directors".”
-
-**Arjun Lamba** — Managing Director. from: promoter family.
-
-The filing's own profile: “Re-designation of Mr. Arjun Lamba from Non-Executive Director to Whole-Time Director and Executive Director of REL”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Executive Director, in the capacity of Whole-time Director | Religare Enterprises Limited (RELIGARE) | — | 2026 |
-| Non-Executive Director | Religare Enterprises Limited (RELIGARE) | — | — |
+What the documents say about them: “"the Burman Group (promoter family of Dabur India Limited)" classified as promoters of Religare Enterprises Limited; "the strengthening of the board and senior leadership of REL and its subsidiaries (herein referred to as Religare Group) augur well for the credit profile". "The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025." The earnings call says "we have new promoters, a new philosophy" and that "change of control happened at Religare Enterprises Limited in February 2025 with Burman Group being designated as promoters of REL post the successful completion of open offer, which was initiated in September 2023."”
 
 **Pratul Gupta** — Chief Financial Officer of REL. from: internal.
 
@@ -84,7 +72,7 @@ The filing's own profile: “Re-designation of Mr. Arjun Lamba from Non-Executiv
 
 ### 5. On the calls
 
-17 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
+15 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
 
 #### Nov 2025 — about the seat
 
@@ -172,17 +160,7 @@ The filing's own profile: “Re-designation of Mr. Arjun Lamba from Non-Executiv
 
 **From the prepared remarks**
 
-> **Pratul Gupta:** Thank you, Anisha. Good evening, ladies and gentlemen. Welcome to our quarter 4 and full year FY '26 earnings conference call. I am grateful to you for your participation and continued interest in Religare Enterprises and its subsidiaries. FY '26 has been an important year for Religare. We moved from recovery to rebuilding with significant progress across leadership, governance, capital availability and regulatory response. During the year, the Board of REL was substantially reconstituted with the appointment of Mr. Rajender Mohan Malla and Mr. Shrikant Somani as Independent Directors , followed by onboarding of Mr. Arjun Lamba, Mr. Gurumurthy Ramanathan and Mr. Suresh Mahalingam as Promoter Nominee Directors post the RBI approval in July 2025. Mr. Lamba ha ve subsequently been redesignated as Executive Director of REL from 1st April 2026. Across all the operating subsidiaries, the respective Boards have been strengthened with enhanced membership from the nominee directors as well as independent directors. I now take this opportunity to invite Mr. Arjun Lamba to give his opening remarks. Over to you, Arjun.
-
-**From the prepared remarks**
-
 > **Pratul Gupta:** And as I mentioned earlier, he is now the Executive Director. The other key appoin tments are Mr. Ajay Kumar Shah, a founding team member of Care with over 30 years of industry experience. He has been appointed as MD and CEO of Care Health Insurance in April 2026 and succeeds Mr. Anuj Gulati, who built Care as India's second largest stan dalone health insurer during his tenure. Alongside Mr. Manish Vishnu Dodeja, a member of founding team and an industry veteran, has also been appointed as Executive Director of Care Health. At Religare Finvest, Mr. Srinivasan Karthik , with nearly 3 decades of banking and financial services experience, has been appointed as the CEO. He joins us from HDB Financial Services, Religare Enterprises Limited May 13, 2026 wherein he spent the large decade to build consumer and asset finance portfolio across several products. He also played a key role in the digital transformation of the company over the last few years. At Religare Broking, Mr. Vijay Kumar Goel, joined us as Managing Director of RBL in February 2026. Vijay has spent over 14 years at Motilal Oswal managing different lines of businesses and is an industry veteran. At Religare Housing Finance, Mr. Pankaj Rathi has been appointed as Chief Financial Officer and Executive Director to spearhead the growth and expansion on the franchise. Mr. Rathi, served as CFO of Grihum Housing Finance, just before joining Religare. Now moving on to numbers.
-
-**Question and answer**
-
-> **Sarvesh Gupta:** So the first question is directed towards Mr. Arjun Lamba since he is representing the promoters. So I think in the last call also, there were concerns raised regarding this demerger process and the hold ing company discount, which can be created because of this sort of a structure. So now in this last quarter, we have seen promoters increasing their stake by open market purchase as well as this in pending preferential allotment. Religare Enterprises Limited May 13, 2026 So this would significantl y increase their shareholding in Religare. And hence, we wanted to understand if there is any further views on how we can avoid the holding company discount because of Care be ing subsidiary to a listed firm?
->
-> **Arjun Lamba:** Yes. Thanks for the question. Yes, the promoters have increased their stake in the last quarter. I think the increase has been to the tune of roughly 4%. And post conversion of the warrants, assuming everybody converts their warrants, I mean, promoters should be close to about 34%. And this is -- I mean, it is a logical step. And we believe that the structure that we put in place sets a path. And for the current moment, that's the right structure. As and when things sort of materialize or change, we will get back to you, but we understand your concern, and we well acknowledge what the investors are saying. So I'll stop it at that. And for us, number one has been to separate the FS business from the insurance business and to provide a clean structure so that the shareholders can understand, th e management can be very focused in doing what they have to do. And whereas this question from yourself and other shareholders, which was there on the call, we will keep this at the back of our minds, and we will see what we have to do at an appropriate stage.
 
 **Question and answer**
 

@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Parmod Sagar** — Managing Director & Chief Executive Officer, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Parmod Sagar** — Managing Director & Chief Executive Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -85,18 +85,6 @@ The filing's own profile: “Mr. Pankaj Malhan brings three decades of distingui
 | served on the Board | JSW Steel Coated Products Limited | — | — |
 | served on the Board | ESL Steel Limited | — | — |
 | served on the Board | Ferro Alloys Corporation Limited | — | — |
-
-Results of **Va Tech Wabag Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,979 | 2,960 | -0.6% a year over 1 year |
-| Operating profit (₹ cr) | 234 | 318 | +35.9% a year over 1 year |
-| PAT (₹ cr) | 132 | 11.0 | -91.7% a year over 1 year |
-| Operating profit margin (%) | 7.9 | 10.7 | +2.8 pts |
-| ROCE (%) | 13.0 | 20.0 | +7.0 pts |
-| ROE (%) | 8.6 | 0.7 | -7.9 pts |
-| Borrowings (₹ cr) | 436 | 219 | -217 |
 
 **Abhishek Bajaj** — Chief Financial Officer and Chief Investor Relations Officer. from: group company; experience: over two decades of diversified experience; qualifications: He is a Fellow Member of the Institute of Chartered Accountants of India (FCA) and holds a Bachelor of Commerce (Honours) degree from the University of Delhi..
 

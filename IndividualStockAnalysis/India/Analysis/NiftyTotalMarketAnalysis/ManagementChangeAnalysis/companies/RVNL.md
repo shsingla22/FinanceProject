@@ -58,7 +58,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 17.6 | 8.9 | -8.7 pts |
 | Borrowings (₹ cr) | 5,931 | 4,818 | -1,113 |
 
-**Sukhmal Chand Jain** — Chairman & Managing Director, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Sukhmal Chand Jain** — Chairman & Managing Director, in the seat since FY2026 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -84,18 +84,6 @@ The filing's own profile: “Shri Saleem Ahmad has assumed the charge of Chairma
 | Director (Project) | NBCC (India) Ltd. (NBCC) | — | — |
 | Executive Director (Civil) | Delhi Metro Rail Corporation Ltd. | — | — |
 | — | Mumbai Port Trust | — | — |
-
-Results of **Rail Vikas Nigam Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 19,923 | 20,412 | +2.5% a year over 1 year |
-| Operating profit (₹ cr) | 1,125 | 767 | -31.8% a year over 1 year |
-| PAT (₹ cr) | 1,282 | 871 | -32.1% a year over 1 year |
-| Operating profit margin (%) | 5.6 | 3.8 | -1.8 pts |
-| ROCE (%) | 11.0 | — | — |
-| ROE (%) | 13.4 | 8.9 | -4.5 pts |
-| Borrowings (₹ cr) | 5,419 | 4,818 | -601 |
 
 ### 5. On the calls
 

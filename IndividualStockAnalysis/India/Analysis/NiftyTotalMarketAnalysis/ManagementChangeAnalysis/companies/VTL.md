@@ -54,17 +54,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 **Neeraj Jain** — Managing Director.
 
-Results of **Vardhman Textiles Ltd.** while they were Managing Director there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 9,505 | 9,785 | +2.9% a year over 1 year |
-| Operating profit (₹ cr) | 973 | 1,263 | +29.8% a year over 1 year |
-| PAT (₹ cr) | 637 | 887 | +39.2% a year over 1 year |
-| Operating profit margin (%) | 10.2 | 12.9 | +2.7 pts |
-| ROCE (%) | 9.0 | 11.0 | +2.0 pts |
-| ROE (%) | 7.0 | 9.0 | +2.0 pts |
-| Borrowings (₹ cr) | 1,791 | 1,238 | -553 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 

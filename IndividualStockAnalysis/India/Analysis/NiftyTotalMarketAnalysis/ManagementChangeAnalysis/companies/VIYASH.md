@@ -6,18 +6,20 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Two promoter entities, CA Harbor Investments and CA Hull Investments, sold 5.67% and 5.16% of capital in open-market sales disclosed on 2026-09-01. Promoter-group holding fell from 61.31% to 49.24% by 2026-09-30. No new promoter or acquirer appears; both sellers remain large promoter shareholders.
+**Ownership — Large stake change, same controller.** Promoter holding rose to 61.43% in December 2025 when the Company allotted shares under the NCLT-sanctioned amalgamation of Viyash Life Sciences and others, then fell to 49.24% after promoters CA Harbor Investments and CA Hull Investments sold 10.83% of capital in the open market. They still hold about 46.75%; no new controller.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull) | private-equity sponsor | CA Harbor 30.14%; CA Hull 27.44% (combined 57.58%); promoter group 61.31% | CA Harbor 24.47%; CA Hull 22.28% (combined 46.75%); promoter group 49.24% |
+| Outgoing | CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull) | private-equity sponsor | promoter and group 61.31% (CA Harbor 30.14%, CA Hull 27.44% implied from Reg 29) | promoter and group 49.24% (CA Harbor 24.47%, CA Hull 22.28%) |
 | Incoming | — | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Dates: block deal 2026-09-01; other 2026-09-30
+- Dates: approval 2025-11-18; other 2025-12-16; block deal 2026-09-01
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 52.33% (2025-09-30) → 61.43% (2025-12-16) → 61.41% (2025-12-31) → 61.31% (2026-03-31) → 61.31% (2026-06-30) → 49.24% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 10.83% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026181457_BM_OutcomeMay2026Signed.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026182640_BM_OutcomeMay2026Signed.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -55,7 +57,7 @@
 
 ### 3. Track record — the outgoing management
 
-**CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved CA Harbor 30.14%; CA Hull 27.44% (combined 57.58%); promoter group 61.31% → CA Harbor 24.47%; CA Hull 22.28% (combined 46.75%); promoter group 49.24%.
+**CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved promoter and group 61.31% (CA Harbor 30.14%, CA Hull 27.44% implied from Reg 29) → promoter and group 49.24% (CA Harbor 24.47%, CA Hull 22.28%).
 
 **Rajaram Narayanan** — Managing Director and Group Chief Executive Officer, in the seat since FY2023 per the filing.
 

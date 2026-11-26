@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Rajat Kumar Singh (resignation; last day 2026-05-08) | Arun Chopra (internal) | effective | 2026-05-08 |
+| **Group Chief Financial Officer (outgoing) / Chief Financial Officer (incoming)** | Rajat Kumar Singh (resignation; last day 2026-05-08) | Arun Chopra (internal; from 2026-05-08) | effective | 2026-05-08 |
 
-- **Why Rajat Kumar Singh is leaving, in the filing's words:** “On account of personal reasons”
-- In the documents: “Salutation: Mr. ; Name Of The Person: Rajat Kumar Singh ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-02-28 ; Effective Date Of Resignation: 2026-05-08 ; Reason Of Resignation In Brief: On account of personal reasons” — [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
+- **Why Rajat Kumar Singh is leaving, in the filing's words:** “Mr. Rajat Kumar Singh has tendered resignation from the position of Group Chief Financial Officer of the Company vide letter dated February 28, 2026 due to personal reasons.”
+- In the documents: “Pursuant to the recommendation of Nomination and Remuneration Committee and Audit Committee, the Board of Directors has appointed Mr. Arun Chopra as the Chief Financial Officer, designated as the Key Managerial Personnel and Senior Management Personnel with effect from May 08, 2026, under section 203 of the Companies Act, 2013 and applicable provisions of the SEBI Listing Regulations.” — [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ACMECS_08052026011036_BMoutcome.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
 
-*All 2 filing(s) read for the seats:* [2026-10-03 Appointment](https://nsearchives.nseindia.com/corporate/ACMECS_03102026195930_Intimation_03102026.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-10-03 Appointment](https://nsearchives.nseindia.com/corporate/ACMECS_03102026195930_Intimation_03102026.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ACMECS_08052026011036_BMoutcome.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Rajat Kumar Singh** — Chief Financial Officer, date of taking the seat not on file.
+**Rajat Kumar Singh** — Group Chief Financial Officer (outgoing) / Chief Financial Officer (incoming), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,18 +57,18 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Arun Chopra** — Chief Financial Officer. from: internal; experience: about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector; qualifications: bachelor’s degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996).
+**Arun Chopra** — Group Chief Financial Officer (outgoing) / Chief Financial Officer (incoming). from: internal; experience: about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector; qualifications: holds a bachelor's degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996).
 
-The filing's own profile: “Mr. Arun Chopra holds a bachelor’s degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996). Prior to joining ACME Group, he served as Vice President (Finance) at Rattan India Power Limited. He has also been associated with Videocon Industries Limited, Moser Baer India Limited, LG Electronics Private Limited, and Timex Watches Limited. He has about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector. … He has been associated with the Company since 2018 and presently designated as Executive Vice President (Finance & Accounts).”
+The filing's own profile: “Mr. Arun Chopra holds a bachelor's degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996). Prior to joining ACME Group, he served as Vice President (Finance) at Rattan India Power Limited. He has also been associated with Videocon Industries Limited, Moser Baer India Limited, LG Electronics Private Limited, and Timex Watches Limited. He has about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Executive Vice President (Finance & Accounts) | ACME Solar Holdings Limited (ACMESOLAR) | 2018 | 2026 |
 | Vice President (Finance) | Rattan India Power Limited | — | — |
 | — | Videocon Industries Limited | — | — |
 | — | Moser Baer India Limited | — | — |
 | — | LG Electronics Private Limited (LGEINDIA) | — | — |
 | — | Timex Watches Limited | — | — |
-| Executive Vice President (Finance & Accounts) | ACME Solar Holdings Limited (ACMESOLAR) | 2018 | — |
 
 ### 5. On the calls
 

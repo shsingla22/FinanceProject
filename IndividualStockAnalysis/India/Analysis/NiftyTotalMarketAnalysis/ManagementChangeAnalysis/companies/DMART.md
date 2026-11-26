@@ -41,9 +41,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Ignatius Navil Noronha** — Managing Director & CEO, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Ignatius Navil Noronha** — Managing Director & CEO, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -67,18 +67,6 @@ The filing's own profile: “Mr. Anshul Asawa, an IIT Roorkee and IIM Lucknow al
 | Country Head of Unilever in Thailand | Unilever | — | — |
 | General Manager for the Home Care business unit in Greater Asia | Unilever | — | — |
 | led the digitisation efforts | HUL | — | — |
-
-Results of **Avenue Supermarts Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 59,358 | 68,821 | +15.9% a year over 1 year |
-| Operating profit (₹ cr) | 4,495 | 5,189 | +15.4% a year over 1 year |
-| PAT (₹ cr) | 2,707 | 2,970 | +9.7% a year over 1 year |
-| Operating profit margin (%) | 7.6 | 7.5 | -0.1 pts |
-| ROCE (%) | 18.0 | 17.0 | -1.0 pts |
-| ROE (%) | 12.6 | 12.1 | -0.5 pts |
-| Borrowings (₹ cr) | 820 | 2,425 | +1,605 |
 
 ### 5. On the calls
 

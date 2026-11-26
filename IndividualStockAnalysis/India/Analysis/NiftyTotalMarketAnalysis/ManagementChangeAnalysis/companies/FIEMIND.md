@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Vineet Sahni** — CEO & Whole-time Director (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Vineet Sahni** — CEO & Whole-time Director (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -82,18 +82,6 @@ The filing's own profile: “Mr. Rahul Jain has been associated with the Board o
 |---|---|---|---|
 | Joint Managing Director | Fiem Industries Limited (FIEMIND) | 2023 | 2026 |
 | Director (associated with the Board of the Company since November 14, 2004) | Fiem Industries Limited (FIEMIND) | 2004 | — |
-
-Results of **Fiem Industries Ltd** while they were Chairman there (annual reports on file show the seat FY2022–FY2026):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,221 | 2,816 | +18.2% a year over 5 years |
-| Operating profit (₹ cr) | 134 | 396 | +24.2% a year over 5 years |
-| PAT (₹ cr) | 47.0 | 256 | +40.4% a year over 5 years |
-| Operating profit margin (%) | 11.0 | 14.1 | +3.1 pts |
-| ROCE (%) | 12.0 | 29.0 | +17.0 pts |
-| ROE (%) | 8.3 | 21.1 | +12.8 pts |
-| Borrowings (₹ cr) | 77.0 | 66.0 | -11 |
 
 ### 5. On the calls
 

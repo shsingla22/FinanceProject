@@ -56,7 +56,7 @@
 
 **Mr. Nusli Neville Wadia** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 10.00% → 0.01%.
 
-**Lalita Rajesh** — Chief Financial Officer and Key Managerial Personnel of the Corporation, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Lalita Rajesh** — Chief Financial Officer and Key Managerial Personnel of the Corporation, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -87,18 +87,6 @@ The filing's own profile: “Mr. Manoj Agarwal is a senior finance professional 
 | — | Godrej Industries (GODREJIND) | — | — |
 | — | Edelweiss Financial Services (EDELWEISS) | — | — |
 
-Results of **Exide Industries Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 16,770 | 17,238 | +2.8% a year over 1 year |
-| Operating profit (₹ cr) | 1,823 | 1,805 | -1.0% a year over 1 year |
-| PAT (₹ cr) | 883 | 800 | -9.4% a year over 1 year |
-| Operating profit margin (%) | 10.9 | 10.5 | -0.4 pts |
-| ROCE (%) | 10.0 | 9.0 | -1.0 pts |
-| ROE (%) | 6.9 | 5.8 | -1.1 pts |
-| Borrowings (₹ cr) | 1,123 | 2,017 | +894 |
-
 Results of **Star Cement Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2023):
 
 | Mar 2020 → Mar 2023 | At the start | At the end | Change |
@@ -110,18 +98,6 @@ Results of **Star Cement Ltd.** while they were CFO there (annual reports on fil
 | ROCE (%) | 17.0 | 17.0 | +0.0 pts |
 | ROE (%) | 15.5 | 10.3 | -5.2 pts |
 | Borrowings (₹ cr) | 13.0 | 35.0 | +22 |
-
-Results of **Tega Industries Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 806 | 952 | +18.1% a year over 1 year |
-| Operating profit (₹ cr) | 193 | 184 | -4.7% a year over 1 year |
-| PAT (₹ cr) | 136 | 117 | -14.0% a year over 1 year |
-| Operating profit margin (%) | 23.9 | 19.3 | -4.6 pts |
-| ROCE (%) | 19.0 | 21.0 | +2.0 pts |
-| ROE (%) | 22.5 | 15.9 | -6.6 pts |
-| Borrowings (₹ cr) | 228 | 245 | +17 |
 
 ### 5. On the calls
 

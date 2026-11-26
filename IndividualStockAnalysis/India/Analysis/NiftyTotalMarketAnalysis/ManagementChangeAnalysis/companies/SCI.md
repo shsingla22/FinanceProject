@@ -6,7 +6,7 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — in progress.** SCI remains selected by the Government of India for Strategic Disinvestment; auditors note the disinvestment process and related procedural aspects are still in progress, alongside the demerger of non-core assets to SCI Land and Assets Ltd. Government promoter holding unchanged at 63.75% through 2026-09-30. No buyer, price or completion disclosed.
+**Ownership — Change of control — in progress.** The Government of India's strategic disinvestment of SCI remains under way. DIPAM, with a Transaction Advisor, is running the process; the Preliminary Information Memorandum inviting expressions of interest was issued and due diligence by qualified interested parties continues in the virtual data room. Government promoter holding unchanged at 63.75% throughout.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@
 | Incoming | — | — | — | — |
 
 - mode: other · control does not change
-- Management changing with it: not stated — board changes disclosed are routine: re-appointment of Capt. Som Raj by rotation, and appointments of Shri Nitin Khamesra as Whole-Time Director (Finance), Shri Mukesh Mangal as Government Nominee Director, Capt. Chandran Durai Daniel as Whole-Time Director (Bulk Carriers & Tankers) and Smt. Bharati Raman Gotarna as Non-official (Independent) Director; Capt. B. K. Tyagi continues as Chairman & Managing Director
-- Dates: other 2026-02-06; other 2026-05-08; other 2026-09-23
-- In the documents: “Note 9 regarding selection of the Company for Strategic Disinvestment process by the Government of India. The disinvestment process and the procedural aspects in relation to the same are in progress.”
+- Management changing with it: not stated — directors were appointed/re-appointed at the 76th AGM (Capt. Som Raj re-appointed by rotation; Shri Nitin Khamesra as Whole-Time Director (Finance); Shri Mukesh Mangal as Government Nominee Director; Capt. Chandran Durai Daniel as Whole-Time Director (Bulk Carriers & Tankers); Smt. Bharati Raman Gotarna as Independent Director), but the documents do not link these to any ownership change
+- Dates: public announcement 2020-12-22; other 2026-02-06; other 2026-05-08; other 2026-08-06; other 2026-09-23
+- In the documents: “The proposed strategic disinvestment of SCI is being handled by Department of Investment and Public Asset Management (DIPAM) with the engagement of Transaction Advisor.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 63.75% (2025-09-30) → 63.75% (2025-12-31) → 63.75% (2026-03-31) → 63.75% (2026-06-30) → 63.75% (2026-09-30)
 
-*Filings read for the ownership:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI1_08052026200611_Finalsd.pdf) · [2026-05-08 Updates](https://nsearchives.nseindia.com/corporate/SCI_08052026210819_Finalsd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026203220_Binder1sd.pdf) · +1 more
+*Filings read for the ownership:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06082026191038_Finalsd.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI1_08052026200611_Finalsd.pdf) · [2026-05-08 Updates](https://nsearchives.nseindia.com/corporate/SCI_08052026210819_Finalsd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · +2 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -55,8 +55,6 @@
 | Working-capital days | -42.0 | 77.0 | 146 |
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/SCI.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-**Share price since the announcement:** ₹224.90 on 2025-12-26 (the close before) → ₹270.58 on 2026-11-13: **+20.3%**; Nifty 500 -0.2% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 

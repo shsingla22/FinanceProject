@@ -80,18 +80,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 |---|---|---|---|
 | Managing Director | Transformers and Rectifiers (India) Limited (TARIL) | — | — |
 
-Results of **Transformers And Rectifiers (India) Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2022):
-
-| Mar 2020 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 701 | 1,158 | +28.5% a year over 2 years |
-| Operating profit (₹ cr) | 51.0 | 74.0 | +20.5% a year over 2 years |
-| PAT (₹ cr) | 1.0 | 14.0 | +274.2% a year over 2 years |
-| Operating profit margin (%) | 7.3 | 6.4 | -0.9 pts |
-| ROCE (%) | 8.0 | 10.0 | +2.0 pts |
-| ROE (%) | 0.3 | 3.9 | +3.6 pts |
-| Borrowings (₹ cr) | 308 | 325 | +17 |
-
 **Mehul Shah** — Chief Financial Officer (Key Managerial Personnel). experience: over 26 years; qualifications: Chartered Accountant.
 
 The filing's own profile: “Mr. Shah is a Chartered Accountant and a seasoned finance professional with over 26 years of experience in Strategic Accounting, Financial Operations, Fund Management, Budgeting, Compliance, Taxation, and Corporate Governance. He has worked with reputed organisations such as Nirma Limited, Adani Enterprises Limited, Reliance Logistics Private Limited, Arvind Smart Spaces Limited, Gujarat Ambuja Exports Limited, and Asian Granito India Limited, managing key finance and business responsibilities.”

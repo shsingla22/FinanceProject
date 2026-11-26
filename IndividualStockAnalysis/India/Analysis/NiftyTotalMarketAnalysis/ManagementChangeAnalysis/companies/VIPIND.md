@@ -80,7 +80,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | -11.2 | -117 | -105.8 pts |
 | Borrowings (₹ cr) | 751 | 738 | -13 |
 
-**Manish Desai** — Chief Financial Officer and Key Managerial Personnel (part of the Senior Management Team), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Manish Desai** — Chief Financial Officer and Key Managerial Personnel (part of the Senior Management Team), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

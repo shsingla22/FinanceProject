@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Virag Joshi** — Whole-time Director (President & CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Virag Joshi** — Whole-time Director (President & CEO), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | -55.8 | -2.8 | +53.0 pts |
 | Borrowings (₹ cr) | 1,336 | 3,833 | +2,497 |
 
-**Manish Dawar** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Manish Dawar** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -87,18 +87,6 @@ The filing's own profile: “Manish, currently the CFO & Whole Time Director, br
 | — | Reebok India | — | — |
 | started his career | Hindustan Unilever Limited (HINDUNILVR) | — | — |
 
-Results of **Devyani International Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2026):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,135 | 5,611 | +37.7% a year over 5 years |
-| Operating profit (₹ cr) | 189 | 860 | +35.4% a year over 5 years |
-| PAT (₹ cr) | -63.0 | -43.0 | — |
-| Operating profit margin (%) | 16.7 | 15.3 | -1.4 pts |
-| ROCE (%) | 16.0 | — | — |
-| ROE (%) | -55.8 | -2.8 | +53.0 pts |
-| Borrowings (₹ cr) | 1,336 | 3,833 | +2,497 |
-
 **Anupam Kumar** — Chief Financial Officer. from: internal; experience: more than two decades of experience in Industry/ professional service firm; qualifications: commerce graduate, Chartered Accountant, CPA and MBA.
 
 The filing's own profile: “Mr. Kumar is a commerce graduate, Chartered Accountant, CPA and MBA with more than two decades of experience in Industry/ professional service firm. Prior to joining RJ Corp Group, he was associated with Walker Chandiok & Co LLP and Vedanta Limited.”
@@ -108,18 +96,6 @@ The filing's own profile: “Mr. Kumar is a commerce graduate, Chartered Account
 | EVP – Finance | Devyani International Limited (DEVYANI) | — | 2026 |
 | — | Walker Chandiok & Co LLP | — | — |
 | — | Vedanta Limited (VEDL) | — | — |
-
-Results of **Devyani International Ltd.** while they were CFO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 4,951 | 5,611 | +13.3% a year over 1 year |
-| Operating profit (₹ cr) | 839 | 860 | +2.5% a year over 1 year |
-| PAT (₹ cr) | -7.0 | -43.0 | — |
-| Operating profit margin (%) | 16.9 | 15.3 | -1.6 pts |
-| ROCE (%) | 5.0 | — | — |
-| ROE (%) | -0.6 | -2.8 | -2.2 pts |
-| Borrowings (₹ cr) | 3,188 | 3,833 | +645 |
 
 ### 5. On the calls
 

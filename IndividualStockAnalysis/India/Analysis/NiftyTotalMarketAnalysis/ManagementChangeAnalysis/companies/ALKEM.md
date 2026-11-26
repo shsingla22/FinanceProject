@@ -2,25 +2,9 @@
 
 ## ALKEM — Alkem Laboratories Ltd.
 
-**Large stake change, same controller · CEO / MD change · CFO change**
+**CEO / MD change · CFO change**
 
 ### 1. What is changing
-
-**Ownership — Large stake change, same controller.** Promoter-group entities (Samprada & Nanhamati Singh Family Trust and Jayanti Sinha) sold about 2% of the capital in block deals, taking promoter-and-group holding from 51.2% to 49.7% by 30 June 2026. Mutual funds bought. B.N. Singh continues as Executive Chairman; no new controller.
-
-| | Who | Kind | Stake before | Stake after |
-|---|---|---|---|---|
-| Outgoing | Samprada & Nanhamati Singh Family Trust; Jayanti Sinha (promoter group) | founder family | 51.2% | 49.7% |
-| Incoming | ICICI Prudential Mutual Fund; HDFC Mutual Fund (public shareholders) | public — no single owner | — | HDFC Mutual Fund 5.02%; ICICI Prudential Mutual Fund 3.12% |
-
-- mode: block or bulk deal · control does not change
-- Management changing with it: No change disclosed; B.N. Singh signs the 14 August 2026 results as Executive Chairman (DIN: 00760310).
-- Dates: other 2026-06-30
-
-**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 51.2% (2025-09-30) → 51.2% (2025-12-31) → 51.2% (2026-03-31) → 49.7% (2026-06-30) → 49.7% (2026-09-30)
-**Bulk / block deals (net, % of shares outstanding):** Jayanti Sinha sold 1.04%.
-
-*Filings read for the ownership:* [2026-08-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ALKEM_14082026134526_AlkemOutcomeofBM14Aug2026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -60,9 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Samprada & Nanhamati Singh Family Trust; Jayanti Sinha (promoter group)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 51.2% → 49.7%.
-
-**Vikas Gupta** — Chief Executive Officer (CEO) and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Vikas Gupta** — Chief Executive Officer (CEO) and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -78,7 +60,7 @@ The company's results while they held the seat (the year before they took it, to
 
 - Also on file: Managing Director at PGEL (FY2021–FY2025, annual reports).
 
-**Nitin Agrawal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Nitin Agrawal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -93,10 +75,6 @@ The company's results while they held the seat (the year before they took it, to
 | Borrowings (₹ cr) | 1,397 | 2,047 | +650 |
 
 ### 4. Track record — the incoming management
-
-**ICICI Prudential Mutual Fund; HDFC Mutual Fund (public shareholders)** (public — no single owner) — the incoming owner. Holding after: HDFC Mutual Fund 5.02%; ICICI Prudential Mutual Fund 3.12%.
-
-*The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
 **Amrut Naik** — Chief Executive Officer (CEO) and Key Managerial Personnel. experience: 26+ years; qualifications: He holds a Ph.D. (Tech) in Pharmacology, Master's in Pharmaceutical Science and Bachelor's in Pharmaceutical Science..
 

@@ -13,6 +13,7 @@
 
 - **Why Kamal Kishore Chatiwal is leaving, in the filing's words:** “Shri Kamal Kishore Chatiwal has ceased to be a Managing Director & Director of the Company w.e.f. June 05, 2026 and has been repatriated to GAIL.” Stays on as: repatriated to GAIL (India) Limited.
 - In the documents: “This is inform that Shri Kumar Shanker (DIN: 09533240) has been nominated by Promoter Company i.e. GAIL (India) Limited (GAIL) as Managing Director of Indraprastha Gas Limited.” — [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IGL1_08072026160848_IGLPostalBallotNotice08072026.pdf) · [2026-06-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IGL1_05062026180112_IGLChangeinMD05062026.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 - **Why Sanjay Kumar is leaving, in the filing's words:** “Cessation of Shri Sanjay Kumar as Chief Financial Officer (CFO) w.e.f. May 21, 2026, as he is being repatriated to BPCL, Promoter Company of IGL.” Stays on as: repatriated to BPCL, Promoter Company of IGL.
 - In the documents: “This is to inform that Board of Directors in its meeting held today i.e. May 18, 2026, has designated Shri Manjeet Singh Gulati, Vice President (Finance) of the Company, as Chief Financial Officer (CFO) w.e.f. May 21, 2026.” — [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf)
 
@@ -44,7 +45,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Kamal Kishore Chatiwal** — Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Kamal Kishore Chatiwal** — Managing Director, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

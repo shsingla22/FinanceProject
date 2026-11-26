@@ -69,18 +69,6 @@ The filing's own profile: “Ronojit is a seasoned finance leader with over 25 y
 | Regional Controller | GSK International region | — | — |
 | Management Trainee | GSK India | 1999 | — |
 
-Results of **Glaxosmithkline Pharmaceuticals Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,454 | 3,749 | +8.5% a year over 1 year |
-| Operating profit (₹ cr) | 909 | 1,179 | +29.7% a year over 1 year |
-| PAT (₹ cr) | 590 | 928 | +57.3% a year over 1 year |
-| Operating profit margin (%) | 26.3 | 31.4 | +5.1 pts |
-| ROCE (%) | 63.0 | 61.0 | -2.0 pts |
-| ROE (%) | 30.2 | 40.9 | +10.7 pts |
-| Borrowings (₹ cr) | 10.0 | 33.0 | +23 |
-
 ### 5. On the calls
 
 3 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

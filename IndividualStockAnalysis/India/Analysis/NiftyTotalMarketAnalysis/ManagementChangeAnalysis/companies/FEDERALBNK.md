@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) of the Bank** | Venkatraman Venkateswaran (moved to another role in the company or group; last day 2026-04-30) | Manikandan M (internal; from 2026-05-01) | effective | 2026-04-29 |
 
-- **Why Venkatraman Venkateswaran is leaving, in the filing's words:** “Relieving of Mr. Venkatraman Venkateswaran as the Chief Financial Officer of the Bank with effect from the close of business hours on April 30, 2026. Mr Venkatraman Venkateswaran will continue as the Executive Director of the Bank.” Stays on as: Executive Director of the Bank.
-- In the documents: “In compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI LODR Regulations"), it is hereby informed that the Board of Directors of the Bank at its meeting held today, April 29, 2026 has approved the appointment of Mr. Manikandan M (FCA No: 234412) who is currently working as Deputy Vice President-II & Head – Financial reporting, as Chief Financial Officer and Key Managerial Personnel of the Bank with effect from Friday, May 01, 2026.” — [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
+- **Why Venkatraman Venkateswaran is leaving, in the filing's words:** “Relieving of Mr. Venkatraman Venkateswaran as the Chief Financial Officer of the Bank with effect from the close of business hours on April 30, 2026.” Stays on as: Executive Director of the Bank.
+- In the documents: “Appointment of Mr Manikandan M as the Chief Financial Officer of the Bank with effect from May 01, 2026.” — [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-08-21 General Updates](https://nsearchives.nseindia.com/corporate/FEDERALBNK_21082026184632_FBL_AGM_Appt__Reappt_210826_S.pdf) · [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
 
@@ -51,9 +51,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Manikandan M** — Chief Financial Officer (CFO) of the Bank. from: internal; age 35 years; experience: over 12 years of post-qualification experience in the banking sector; qualifications: a Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA).
+**Manikandan M** — Chief Financial Officer (CFO) of the Bank. from: internal; age 35; experience: over 12 years of post-qualification experience in the banking sector; qualifications: Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA).
 
-The filing's own profile: “Mr. Manikandan M, aged 35 years, is a Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA), with over 12 years of post-qualification experience in the banking sector. He has been associated with the Bank since October 2013 and currently serves as the Head of the Financial Reporting Department. During his tenure, he has demonstrated a consistent track record across financial reporting, taxation, regulatory compliance, strategic planning, and capital management. He is a Gold Medalist in Bachelor of Commerce, a Certified Associate of the Indian Institute of Banking & Finance and completed Strategic Leadership Development Programme of the Indian Institute of Management, Bangalore.”
+The filing's own profile: “Mr. Manikandan M, aged 35 years, is a Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA), with over 12 years of post-qualification experience in the banking sector. He has been associated with the Bank since October 2013 and currently serves as the Head of the Financial Reporting Department. During his tenure, he has demonstrated a consistent track record across financial reporting, taxation, regulatory compliance, strategic planning, and capital management.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

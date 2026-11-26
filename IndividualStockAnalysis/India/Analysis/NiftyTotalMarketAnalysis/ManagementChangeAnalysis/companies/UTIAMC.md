@@ -63,17 +63,6 @@ The company's results while they held the seat (the year before they took it, to
 |---|---|---|---|
 | MD and CEO Designate | UTI Asset Management Company Limited (UTIAMC) | — | 2026 |
 
-Results of **UTI Asset Management Company Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,851 | 1,705 | -7.9% a year over 1 year |
-| Operating profit (₹ cr) | 1,102 | 816 | -26.0% a year over 1 year |
-| PAT (₹ cr) | 813 | 472 | -41.9% a year over 1 year |
-| Operating profit margin (%) | 59.5 | 47.9 | -11.6 pts |
-| ROE (%) | 17.7 | 10.5 | -7.2 pts |
-| Borrowings (₹ cr) | 142 | 141 | -1 |
-
 ### 5. On the calls
 
 4 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

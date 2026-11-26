@@ -41,9 +41,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Krishna Kumar Maskara** — Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Krishna Kumar Maskara** — Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -69,18 +69,6 @@ The filing's own profile: “Mr. Sameer Nagpal is the Chief Executive Officer of
 | key leadership roles | Ingersoll Rand | — | — |
 | key leadership roles | Zicom | — | — |
 | key leadership roles | Carrier Air Conditioning | — | — |
-
-Results of **Vikram Solar Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,415 | 4,803 | +40.6% a year over 1 year |
-| Operating profit (₹ cr) | 491 | 916 | +86.6% a year over 1 year |
-| PAT (₹ cr) | 139 | 469 | +237.4% a year over 1 year |
-| Operating profit margin (%) | 14.4 | 19.1 | +4.7 pts |
-| ROCE (%) | 31.0 | — | — |
-| ROE (%) | 11.0 | 14.8 | +3.8 pts |
-| Borrowings (₹ cr) | 272 | 617 | +345 |
 
 ### 5. On the calls
 

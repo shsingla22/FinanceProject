@@ -63,17 +63,6 @@ The filing's own profile: “Mr Aman Kirloskar (31 years), graduated in Business
 | Associate Vice President of Air Conditioning and Refrigeration Business (ACR SBU) / Head of the Air Conditioning and Refrigeration business unit | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2023 | — |
 | Vice President - ACR SBU | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2024 | 2026 |
 
-Results of **Kirloskar Pneumatic Company Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,640 | 1,787 | +9.0% a year over 1 year |
-| Operating profit (₹ cr) | 294 | 360 | +22.4% a year over 1 year |
-| PAT (₹ cr) | 211 | 254 | +20.4% a year over 1 year |
-| Operating profit margin (%) | 17.9 | 20.1 | +2.2 pts |
-| ROE (%) | 19.3 | 20.3 | +1.0 pts |
-| Borrowings (₹ cr) | 11.0 | 3.0 | -8 |
-
 ### 5. On the calls
 
 1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

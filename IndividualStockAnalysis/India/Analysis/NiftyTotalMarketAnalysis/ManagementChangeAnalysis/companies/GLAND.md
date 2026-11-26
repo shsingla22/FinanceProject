@@ -56,7 +56,7 @@
 
 **Fosun Pharma Industrial Pte. Ltd.** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 51.76% → 45.76%.
 
-**Shyamakant Giri** — Chief Executive Officer (CEO) of the Company, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Shyamakant Giri** — Chief Executive Officer (CEO) of the Company, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

@@ -47,7 +47,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Pieter Elbers** — Chief Executive Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Pieter Elbers** — Chief Executive Officer, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -75,7 +75,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 77.5 | -34.3 | -111.8 pts |
 | Borrowings (₹ cr) | 66,810 | 77,749 | +10,939 |
 
-**Gaurav Negi** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gaurav Negi** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -98,18 +98,6 @@ The filing's own profile: ““Having founded and nurtured IndiGo for twenty tw
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director | InterGlobe Aviation Limited (IndiGo) | — | — |
-
-Results of **InterGlobe Aviation Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2025):
-
-| Mar 2021 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 14,641 | 80,803 | +53.3% a year over 4 years |
-| Operating profit (₹ cr) | 14.0 | 18,102 | +499.7% a year over 4 years |
-| PAT (₹ cr) | -5,806 | 7,258 | loss to profit |
-| Operating profit margin (%) | 0.1 | 22.4 | +22.3 pts |
-| ROCE (%) | -13.0 | 5.0 | +18.0 pts |
-| ROE (%) | -5,231 | 77.5 | +5308.1 pts |
-| Borrowings (₹ cr) | 29,860 | 66,810 | +36,950 |
 
 **William Walsh** — Chief Executive Officer. from: external; experience: over four decades of global aviation leadership experience.
 

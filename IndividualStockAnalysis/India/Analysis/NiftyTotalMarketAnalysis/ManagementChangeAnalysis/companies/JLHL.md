@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Sivasis Sen (resignation; last day 2026-05-31) | Harshad Purani (from 2026-07-31) | effective | 2026-05-18 |
 
-- **Why Sivasis Sen is leaving, in the filing's words:** “I regret to inform you that I am resigning from the position of the Chief Financial Officer of Jupiter Life Line Hospitals Limited. The reasons behind this decision are purely personal in nature.”
+- **Why Sivasis Sen is leaving, in the filing's words:** “I regret to inform you that I am resigning from the position of the Chief Financial Officer of fupiter Life Line Hospitals Limited. The reasons behind this decision are purely personal in nature.”
 - In the documents: “Pursuant to the provisions of Regulation 30 read with Schedule III of the Listing Regulation, this is to inform you that Mr . Sivasis Sen has tendered his resignation as the Chief Financial Officer of the Company due to p ersonal commitments .” — [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026165938_Board_outcome_31-07-2026.pdf) · [2026-07-31 Appointment](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170122_Board_outcome_31-07-2026.pdf) · [2026-07-31 Adoption of new line(s) of busine…](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170658_Board_outcome_31-07-2026.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026165938_Board_outcome_31-07-2026.pdf) · [2026-07-31 Appointment](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170122_Board_outcome_31-07-2026.pdf) · [2026-07-31 Adoption of new line(s) of busine…](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170658_Board_outcome_31-07-2026.pdf) · [2026-06-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_22062026133013_JLHL_24_AGM_NOTICE.pdf) · [2026-05-18 Resignation](https://nsearchives.nseindia.com/corporate/JUPITER2023_18052026151546_JLHL_Resignation_Sivasis_Sen.pdf)
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sivasis Sen** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Sivasis Sen** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -59,17 +59,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Harshad Purani** — Chief Financial Officer.
 
-Results of **Jupiter Life Line Hospitals Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 893 | 1,302 | +20.7% a year over 2 years |
-| Operating profit (₹ cr) | 201 | 303 | +22.8% a year over 2 years |
-| PAT (₹ cr) | 73.0 | 194 | +63.0% a year over 2 years |
-| Operating profit margin (%) | 22.5 | 23.3 | +0.8 pts |
-| ROCE (%) | 22.0 | 15.0 | -7.0 pts |
-| ROE (%) | 19.9 | 14.3 | -5.6 pts |
-| Borrowings (₹ cr) | 469 | 393 | -76 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 

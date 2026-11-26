@@ -66,18 +66,6 @@ The company's results while they held the seat (the year before they took it, to
 |---|---|---|---|
 | Chairman and Managing Director (CMD) | NMDC Limited (NMDC) | — | — |
 
-Results of **NMDC Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 17,667 | 23,906 | +16.3% a year over 2 years |
-| Operating profit (₹ cr) | 6,054 | 8,150 | +16.0% a year over 2 years |
-| PAT (₹ cr) | 5,601 | 6,520 | +7.9% a year over 2 years |
-| Operating profit margin (%) | 34.3 | 34.1 | -0.2 pts |
-| ROCE (%) | 29.0 | 30.0 | +1.0 pts |
-| ROE (%) | 24.8 | 22.0 | -2.8 pts |
-| Borrowings (₹ cr) | 2,128 | 4,276 | +2,148 |
-
 Results of **NMDC Steel Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2025):
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |

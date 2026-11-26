@@ -41,9 +41,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Nadir Godrej** — Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Nadir Godrej** — Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -71,42 +71,6 @@ The filing's own profile: “Pirojsha Godrej is Chairperson Designate of the God
 | Chairperson; led Godrej Properties through a phase of rapid growth | Godrej Properties (GODREJPROP) | — | — |
 | Chairperson; founder | Godrej Capital | — | — |
 | Chairperson; founder | Godrej Ventures | — | — |
-
-Results of **Godrej Agrovet Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 9,383 | 10,233 | +9.1% a year over 1 year |
-| Operating profit (₹ cr) | 821 | 864 | +5.2% a year over 1 year |
-| PAT (₹ cr) | 403 | 445 | +10.4% a year over 1 year |
-| Operating profit margin (%) | 8.7 | 8.4 | -0.3 pts |
-| ROCE (%) | 17.0 | 19.0 | +2.0 pts |
-| ROE (%) | 16.9 | 21.9 | +5.0 pts |
-| Borrowings (₹ cr) | 1,396 | 1,574 | +178 |
-
-Results of **Godrej Industries Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 19,657 | 22,237 | +13.1% a year over 1 year |
-| Operating profit (₹ cr) | 2,104 | 2,242 | +6.6% a year over 1 year |
-| PAT (₹ cr) | 1,858 | 2,412 | +29.8% a year over 1 year |
-| Operating profit margin (%) | 10.7 | 10.1 | -0.6 pts |
-| ROCE (%) | 8.0 | 8.0 | +0.0 pts |
-| ROE (%) | 18.3 | 21.6 | +3.3 pts |
-| Borrowings (₹ cr) | 38,088 | 51,564 | +13,476 |
-
-Results of **Godrej Properties Ltd.** while they were Chairman there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 765 | 1,825 | +138.6% a year over 1 year |
-| Operating profit (₹ cr) | -449 | -56.0 | — |
-| PAT (₹ cr) | -189 | 351 | loss to profit |
-| Operating profit margin (%) | -58.7 | -3.1 | +55.6 pts |
-| ROCE (%) | 1.0 | 5.0 | +4.0 pts |
-| ROE (%) | -2.3 | 4.0 | +6.3 pts |
-| Borrowings (₹ cr) | 4,542 | 5,196 | +654 |
 
 ### 5. On the calls
 

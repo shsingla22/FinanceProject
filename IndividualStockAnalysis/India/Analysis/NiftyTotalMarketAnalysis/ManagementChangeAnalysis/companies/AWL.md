@@ -2,7 +2,7 @@
 
 ## AWL — AWL Agri Business Ltd.
 
-**Change of control — completed · CEO / MD change · CFO change**
+**Change of control — completed · CFO change**
 
 ### 1. What is changing
 
@@ -24,11 +24,8 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer (CEO)** | — (new seat) | Shrikant Kanhere (from 2025-11-04) | effective | 2025-12-17 |
 | **Chief Financial Officer** | — (new seat) | Pankaj Goyal (internal; from 2026-07-31) | effective | 2026-07-30 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Shrikant Kanhere (DIN: 07185218) as Managing Director and CEO of the Company (Ordinary Resolution)” — [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · [2025-12-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_17122025183438_SE_Inti_Postal_Ballot.pdf)
 - **Why the holder is leaving, in the filing's words:** “Mr. Pankaj Goyal was serving as Interim Chief Financial Officer of the Company prior to his appointment.”
 - In the documents: “Mr. Pankaj Goyal , who has been serving as the Interim Chief Financial Officer of the Company, has been appointed as the Chief Financial Officer of the Company, categorized as Key Managerial Personnel and Senior Management Personnel with effect from 31st July 2026.” — [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf)
 
@@ -67,20 +64,6 @@
 **Lence Pte. Ltd.** (strategic buyer) — the incoming owner. Holding after: 56.94%.
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
-
-**Shrikant Kanhere** — Managing Director and Chief Executive Officer (CEO).
-
-Results of **AWL Agri Business Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 63,672 | 74,731 | +17.4% a year over 1 year |
-| Operating profit (₹ cr) | 2,486 | 2,131 | -14.3% a year over 1 year |
-| PAT (₹ cr) | 1,226 | 1,045 | -14.8% a year over 1 year |
-| Operating profit margin (%) | 3.9 | 2.9 | -1.0 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 13.0 | 10.0 | -3.0 pts |
-| Borrowings (₹ cr) | 1,937 | 1,109 | -828 |
 
 **Pankaj Goyal** — Chief Financial Officer. from: internal; experience: over 23 years of extensive experience; qualifications: Mr. Pankaj Goyal is a Chartered Accountant by profession.
 

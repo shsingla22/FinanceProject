@@ -95,18 +95,6 @@ The filing's own profile: “Mr. Amit Gupta has been associated with Vedanta sin
 | Group Head – FP&A | Vedanta (VEDL) | — | — |
 | multiple leadership roles | Vedanta (Cairn, Vedanta Corporate, and BALCO) | 2006 | — |
 
-Results of **Vishal Mega Mart Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 8,912 | 10,716 | +20.2% a year over 1 year |
-| Operating profit (₹ cr) | 1,276 | 1,564 | +22.6% a year over 1 year |
-| PAT (₹ cr) | 462 | 632 | +36.8% a year over 1 year |
-| Operating profit margin (%) | 14.3 | 14.6 | +0.3 pts |
-| ROCE (%) | 13.0 | 15.0 | +2.0 pts |
-| ROE (%) | 8.2 | 9.9 | +1.7 pts |
-| Borrowings (₹ cr) | 1,483 | 1,729 | +246 |
-
 ### 5. On the calls
 
 19 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

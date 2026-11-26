@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Pawan Lohiya (moved to another role in the company or group; last day 2026-10-19) | Kundip S. Thakker (external; from 2026-10-20) | effective | 2026-10-19 |
+| **Chief Financial Officer and Key Managerial Personnel** | Pawan Lohiya (moved to another role in the company or group; last day 2026-10-19) | Kundip S. Thakker (external; from 2026-10-20) | effective | 2026-10-19 |
 | **Chief Financial Officer and Whole-time Director (DIN:11208141)** | Samir Naik (resignation; last day 2026-05-25) | Pawan Lohiya (internal; from 2026-05-26) | effective | 2026-05-26 |
 
-- **Why Pawan Lohiya is leaving, in the filing's words:** “Cessation as Chief Financial Officer and Key Managerial Personnel (KMP), consequent upon the appointment of Mr. Kundip S. Thakker as Chief Financial Officer. Mr. Lohiya has been re-designated as Deputy Chief Financial Officer and continues in the employment of the Company. The cessation is not on account of resignation.” Stays on as: Deputy Chief Financial Officer of the Company with effect from October 20, 2026.
-- In the documents: “approved the appointment of Mr. Kundip S. Thakker as Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 20, 2026; and noted that Mr. Pawan Lohiya shall cease to be the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours on October 19, 2026, and approved his re-designation as Deputy Chief Financial Officer of the Company with effect from October 20, 2026.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · +1 more
+- **Why Pawan Lohiya is leaving, in the filing's words:** “Cessation as Chief Financial Officer and Key Managerial Personnel (KMP), consequent upon the appointment of Mr. Kundip S. Thakker as Chief Financial Officer. … The cessation is not on account of resignation.” Stays on as: Deputy Chief Financial Officer of the Company with effect from October 20, 2026.
+- In the documents: “approved the appointment of Mr. Kundip S. Thakker as Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 20, 2026; and noted that Mr. Pawan Lohiya shall cease to be the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours on October 19, 2026” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · +1 more
 - **Why Samir Naik is leaving, in the filing's words:** “has tendered his resignation with effect from closing of business hours of May 25, 2026 due to pressing family condition (Personal Reason)”
-- In the documents: “Approved the appointment of Mr. Pawan Lohiya as the Chief Financial Officer of the Company with effect from May 26, 2026 based on the recommendation of Audit Committee and Nomination and Remuneration Committee.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · +1 more
+- In the documents: “Approved the appointment of Mr. Pawan Lohiya as the Chief Financial Officer of the Company with effect from May 26, 2026 based on the recommendation of Audit Committee and Nomination and Remuneration Committee.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · [2026-05-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_26052026142758_Outcome26052026.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · [2026-05-26 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_26052026144332_Outcome26052026.pdf)
+*All 6 filing(s) read for the seats:* [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · [2026-05-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_26052026142758_Outcome26052026.pdf) · [2026-05-26 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_26052026144332_Outcome26052026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -44,11 +44,11 @@
 
 ### 3. Track record — the outgoing management
 
-**Pawan Lohiya** — Chief Financial Officer, in the seat since FY2027 per the filing.
+**Pawan Lohiya** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
-**Samir Naik** — Chief Financial Officer and Whole-time Director (DIN:11208141), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Samir Naik** — Chief Financial Officer and Whole-time Director (DIN:11208141), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -64,7 +64,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Kundip S. Thakker** — Chief Financial Officer. from: external; experience: over 26 years; qualifications: He is a Cost and Management Accountant (member of ICMAI) and holds an MBA in Finance from TIMS, Gujarat, and a B.Com. from Gujarat University. He has also completed ICMAI's Certificate Course in Treasury and International Banking and IIM Indore's Emerging CFO Programme..
+**Kundip S. Thakker** — Chief Financial Officer and Key Managerial Personnel. from: external; experience: over 26 years of experience; qualifications: He is a Cost and Management Accountant (member of ICMAI) and holds an MBA in Finance from TIMS, Gujarat, and a B.Com. from Gujarat University. He has also completed ICMAI's Certificate Course in Treasury and International Banking and IIM Indore's Emerging CFO Programme..
 
 The filing's own profile: “Mr. Kundip S. Thakker is a finance professional with over 26 years of experience in financial management, strategic planning, corporate finance, treasury, fundraising, financial controls and business performance management across diverse industries. Most recently, he was Chief Financial Officer of Stelmec Limited, Mumbai, a medium-voltage switchgear and smart power solutions company. There he led financial strategy, controls, fundraising, investor relations and IPO preparedness, including a private equity raise of ₹175 crore in 2024.”
 

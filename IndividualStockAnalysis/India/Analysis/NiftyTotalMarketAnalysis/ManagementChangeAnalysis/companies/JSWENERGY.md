@@ -13,7 +13,7 @@
 - **Why Pritesh Vinay is leaving, in the filing's words:** “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company”
 - In the documents: “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company, Mr. Chandrasekaran Prabhakaran has been appointed as the Chief Financial Officer and a Key Managerial Personnel of the Company with effect from 1st January, 2026.” — [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025142815_StockExchage_Intimation.pdf) · [2025-12-12 Issue of Securities](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143419_StockExchage_Intimation.pdf) · [2025-12-12 Preferential issue](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143733_StockExchage_Intimation.pdf) · +1 more
 
-*All 11 filing(s) read for the seats:* [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153953_Outcome.pdf) · [2026-01-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026174724_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2026-01-03 Preferential issue](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026175624_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2026-01-03 Issue of Securities](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026180158_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025142815_StockExchage_Intimation.pdf) · [2025-12-12 Issue of Securities](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143419_StockExchage_Intimation.pdf) · +5 more
+*All 14 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026151509_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026152656_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153404_Outcome.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153953_Outcome.pdf) · [2026-01-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026174724_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2026-01-03 Preferential issue](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026175624_NSEBSEOutcomeofEGM03012026Sd.pdf) · +8 more
 
 ### 2. Financials — the last three years
 
@@ -59,14 +59,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Chandrasekaran Prabhakaran** — Chief Financial Officer and a Key Managerial Personnel of the Company. from: group company; age 50; experience: over 26 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
+**Chandrasekaran Prabhakaran** — Chief Financial Officer and a Key Managerial Personnel of the Company. from: group company; age 50 years; experience: over 26 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
 
-The filing's own profile: “Mr. Prabhakaran, aged 50 years, is a seasoned finance leader and a qualified Chartered Accountant and Cost Accountant with over 26 years of in-depth experience in corporate finance, accounting, and governance across large listed conglomerates. He currently serves as the Deputy Chief Financial Officer at JSW Steel Limited, having been associated with the JSW Group since November 2014. He brings strong expertise in Ind AS/IFRS financial reporting, statutory compliance, internal controls, audit management, and SEBI listing and disclosure requirements. He has previously held several senior leadership roles in prominent Indian and global organizations.”
+The filing's own profile: “Mr. Prabhakaran, aged 50 years, is a seasoned finance leader and a qualified Chartered Accountant and Cost Accountant with over 26 years of in-depth experience in corporate finance, accounting, and governance across large listed conglomerates. He currently serves as the Deputy Chief Financial Officer at JSW Steel Limited, having been associated with the JSW Group since November 2014. He brings strong expertise in Ind AS/IFRS financial reporting, statutory compliance, internal controls, audit management, and SEBI listing and disclosure requirements.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Deputy Chief Financial Officer | JSW Steel Limited (JSWSTEEL) | — | — |
-| associated with the JSW Group since November 2014 | JSW Group | 2014 | — |
+| associated with the JSW Group | JSW Group | 2014 | — |
 
 ### 5. On the calls
 

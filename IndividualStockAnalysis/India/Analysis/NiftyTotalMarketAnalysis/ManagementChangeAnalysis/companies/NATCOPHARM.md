@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | S.V.V.N. Appa Rao | Amit Parekh (external) | announced, not yet effective | 2025-12-02 |
+| **Chief Financial Officer** | S. V. V. N. Appa Rao (retirement; last day 2026-02-12) | Amit Parekh (internal; from 2026-02-13) | effective | 2025-12-02 |
 
-- **Why S.V.V.N. Appa Rao is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Amit Parekh as Executive Vice President – Finance and Accounts of the Company with effect from 2nd December 2025 and as part of the Company's structured succession planning; subject to necessary approvals; Mr. Amit Parekh will succeed Mr. S.V.V.N. Appa Rao, Chief Financial Officer of the Company at the Board meeting to be held in the month of February 2026.” — [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
+- **Why S. V. V. N. Appa Rao is leaving, in the filing's words:** “The Board took note of the superannuation of Mr. S. V. V. N. Appa Rao, Chief Financial Officer of the Company w.e.f. closure of the business hours of 12th February, 2026”
+- In the documents: “The appointment of Mr. Amit Parekh, Executive Vice President – Finance & Accounts as Chief Financial Officer of the Company w.e.f. 13th February, 2026” — [2026-02-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NATCOPHARM_12022026143742_Outcome12022026.pdf) · [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
 
-*All 1 filing(s) read for the seats:* [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
+*All 2 filing(s) read for the seats:* [2026-02-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NATCOPHARM_12022026143742_Outcome12022026.pdf) · [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**S.V.V.N. Appa Rao** — Chief Financial Officer, date of taking the seat not on file.
+**S. V. V. N. Appa Rao** — Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -64,14 +64,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Amit Parekh** — Chief Financial Officer. from: external; experience: more than 20 years.
+**Amit Parekh** — Chief Financial Officer. from: internal; experience: more than 20 years.
 
 The filing's own profile: “Mr. Amit Parekh has more than 20 years of experience, with a proven track record of managing financial and business affairs for top Indian companies in diverse industries, including healthcare, pharma, mining and engineering, telecommunications, and chemicals. Few of his core competencies are CXO Level engagements, Investment & M&A (including in & out licencing deals in Pharma space), Cost leadership Projects, Financial Analysis and Reporting, Financial Management & Accounting (IFRS, IND AS, US GAAP) and Risk Assessment & Compliance, etc., he was previously associated with Dr. Reddy's Laboratories Limited as Head of Finance -API and Pharmaceutical Services (PSAI) and Head of Digital Transformation in Finance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Head of Finance -API and Pharmaceutical Services (PSAI) and Head of Digital Transformation in Finance | Dr. Reddy's Laboratories Limited (DRREDDY) | — | — |
-| Executive Vice President – Finance and Accounts | Natco Pharma Limited (NATCOPHARM) | 2025 | — |
+| Executive Vice President – Finance and Accounts | NATCO Pharma Limited (NATCOPHARM) | 2025 | — |
 
 ### 5. On the calls
 

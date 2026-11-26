@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Gaurav Bajaj** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gaurav Bajaj** — Chief Financial Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 

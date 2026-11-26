@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Ajit Kumar Saxena** — Chairman-cum-Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Ajit Kumar Saxena** — Chairman-cum-Managing Director, in the seat since FY2023 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 

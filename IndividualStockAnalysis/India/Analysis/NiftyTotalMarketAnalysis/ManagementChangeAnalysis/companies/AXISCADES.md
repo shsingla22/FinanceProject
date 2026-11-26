@@ -21,10 +21,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 |
+| **Chief Financial Officer (CFO) - Designate** | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 |
 
 - **Why Shashidhar SK is leaving, in the filing's words:** “shall attain superannuation on December 31, 2026 and demit office as a KMP”
-- In the documents: “Mr. Shashidhar SK, who is currently serving as the Group Chief Financial Officer (KMP) of the Company, shall attain superannuation on December 31, 2026 and demit office as a KMP. Upon his superannuation, Mr. Uttam Kumar Bhageria shall assume the office of Chief Financial Officer and Key Managerial Personnel (KMP) of the Company, effective January 01, 2027.” — [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
+- In the documents: “Mr. Shashidhar SK , who is currently serving as the Group Chief Financial Officer (KMP) of the Company, shall attain superannuation on December 31, 2026 and demit office as a KMP .” — [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
 
@@ -56,7 +56,7 @@
 
 **Jupiter Capital Private Limited** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 58.08% promoter and group (2025-09-30); Jupiter Capital itself 52.50% before the July 2026 sale (50.15% + 2.35%) → 44.82% promoter and group (2026-09-30); Jupiter Capital holds 39.29% after the sale disclosed 2026-10-06.
 
-**Shashidhar SK** — Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Shashidhar SK** — Chief Financial Officer (CFO) - Designate, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -72,7 +72,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Uttam Kumar Bhageria** — Chief Financial Officer (CFO). experience: over two decades of experience.
+**Uttam Kumar Bhageria** — Chief Financial Officer (CFO) - Designate. experience: over two decades of experience.
 
 The filing's own profile: “A strategic and business-focused Finance leader with over two decades of experience partnering with Promoters, CEOs and Boards to shape enterprise strategy, accelerate profitable growth and maximize shareholder value across listed, multinational and promoter-led organizations. Proven track record of leading transformational initiatives including a landmark ₹3,000 Crore acquisition, 5X market capitalization growth, corporate restructuring and large-scale capital market initiatives. Brings deep expertise in enterprise strategy, capital allocation, mergers & acquisitions, treasury, governance and investor engagement, with extensive experience collaborating with BCG and McKinsey on strategic transformation and diversification initiatives.”
 

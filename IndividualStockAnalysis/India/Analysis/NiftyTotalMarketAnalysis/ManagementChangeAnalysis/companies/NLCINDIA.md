@@ -6,7 +6,7 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** The Government of India (President of India, Ministry of Coal), the promoter, sold 2.73% of NLC India's capital, cutting its holding from 72.2% to 69.47%. The government remains the controlling promoter; no new owner arrived.
+**Ownership — Large stake change, same controller.** The Government of India (President of India, Ministry of Coal), the promoter, sold 2.73% of NLC India's capital, reducing its promoter holding from 72.2% to 69.47%. The Government remains the controlling promoter; NLCIL continues as a 'Navratna' Government of India Enterprise.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
@@ -18,6 +18,8 @@
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 72.2% (2025-09-30) → 72.2% (2025-12-31) → 72.2% (2026-03-31) → 69.47% (2026-06-30) → 69.47% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 2.73% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-05-15 Updates](https://nsearchives.nseindia.com/corporate/NLCINDIA_15052026175833_FinResultsQ4-OCR_Signed.pdf) · [2026-02-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026150946_565th_BM_Outcome_Signed.pdf) · [2026-02-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026151211_565th_BM_Outcome_Signed.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -62,9 +64,9 @@
 
 **President of India, Ministry of Coal, Government of India** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 72.2% → 69.47%.
 
-**Prasanna Kumar Motupalli** — Chairman and Managing Director (CMD), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Prasanna Kumar Motupalli** — Chairman and Managing Director (CMD), in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|

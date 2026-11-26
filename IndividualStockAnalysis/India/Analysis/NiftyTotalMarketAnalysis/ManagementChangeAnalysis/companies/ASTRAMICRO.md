@@ -89,18 +89,6 @@ The filing's own profile: “A Graduate in Engineering (Electronics) and a Post 
 |---|---|---|---|
 | Joint Managing Director | Astra Microwave Products Limited (ASTRAMICRO) | — | 2026 |
 
-Results of **Astra Microwave Products Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 816 | 909 | +11.4% a year over 1 year |
-| Operating profit (₹ cr) | 145 | 192 | +32.4% a year over 1 year |
-| PAT (₹ cr) | 70.0 | 121 | +72.9% a year over 1 year |
-| Operating profit margin (%) | 17.8 | 21.1 | +3.3 pts |
-| ROCE (%) | 17.0 | 19.0 | +2.0 pts |
-| ROE (%) | 10.9 | 12.5 | +1.6 pts |
-| Borrowings (₹ cr) | 186 | 238 | +52 |
-
 **Srinivasarao Devathi** — Chief Financial Officer and Key Managerial Personnel. experience: more than 22 years; qualifications: Chartered Accountant.
 
 The filing's own profile: “Mr. Srinivasarao Devathi, Chartered Accountant is a visionary professional with a dynamic career for more than 22 years in Finance & Accounts operations and in the past associated with reputed Companies in senior positions.”

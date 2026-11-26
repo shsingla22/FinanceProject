@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Amit Kumar Jha** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Amit Kumar Jha** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -59,16 +59,6 @@ The filing's own profile: “Mr. Amit Dangi is a Chartered Accountant and Bachel
 |---|---|---|---|
 | — | Ernst & Young | — | — |
 | — | PricewaterhouseCoopers LLP | — | — |
-
-Results of **Authum Investment & Infrastructure Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 539 | 4,580 | +191.5% a year over 2 years |
-| Financing profit (₹ cr) | 72.0 | 4,045 | +649.5% a year over 2 years |
-| PAT (₹ cr) | 4,304 | 4,241 | -0.7% a year over 2 years |
-| Financing profit margin (%) | 13.4 | 88.3 | +74.9 pts |
-| ROE (%) | 126 | 28.9 | -97.1 pts |
 
 ### 5. On the calls
 

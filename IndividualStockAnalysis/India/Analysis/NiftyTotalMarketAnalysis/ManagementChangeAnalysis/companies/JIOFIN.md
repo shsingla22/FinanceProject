@@ -21,12 +21,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Financial Officer and Key Managerial Personnel ("KMP")** | Abhishek Haridas Pathak (moved to another role in the company or group; last day 2026-04-20) | Annapoorna Venkataramanan (external; from 2026-05-11) | effective | 2026-04-17 |
+| **Group Chief Financial Officer and Key Managerial Personnel (“KMP”)** | Abhishek Haridas Pathak (moved to another role in the company or group; last day 2026-04-20) | Annapoorna Venkataramanan (external; from 2026-05-11) | effective | 2026-04-17 |
 
 - **Why Abhishek Haridas Pathak is leaving, in the filing's words:** “Transition to a strategic role in Reliance Industries Limited” Stays on as: a strategic role in Reliance Industries Limited.
-- In the documents: “Approved the appointment of Ms. Annapoorna Venkataramanan as a Group Chief Financial Officer and KMP of the Company, effective May 11, 2026, based on the recommendations of the Nomination and Remuneration Committee and Audit Committee.” — [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf)
+- In the documents: “Approved the appointment of Ms. Annapoorna Venkataramanan as a Group Chief Financial Officer and KMP of the Company, effective May 11, 2026, based on the recommendations of the Nomination and Remuneration Committee and Audit Committee.” — [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026181843_JFSLoutcome.pdf) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf) · +1 more
 
-*All 2 filing(s) read for the seats:* [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf)
+*All 4 filing(s) read for the seats:* [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026181843_JFSLoutcome.pdf) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf) · [2026-04-17 General Updates](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026190105_Outcome_of_Board_Meeting.pdf)
 
 ### 2. Financials — the last three years
 
@@ -54,7 +54,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Abhishek Haridas Pathak** — Group Chief Financial Officer and Key Managerial Personnel ("KMP"), date of taking the seat not on file.
+**Abhishek Haridas Pathak** — Group Chief Financial Officer and Key Managerial Personnel (“KMP”), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 3 fiscal years:
 
@@ -74,9 +74,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “The documents describe them only as promoters of the company making acquisitions: "Jamnagar Utilities & Power Private Limited (promoter) · Acquisition via Others" and "Sikka Ports & Terminals Limited (promoter) · Acquisition via Preferential Allotment". No further detail on business, size or other holdings is stated.”
 
-**Annapoorna Venkataramanan** — Group Chief Financial Officer and Key Managerial Personnel ("KMP"). from: external; experience: over 25 years of experience in Finance, Treasury and Global Markets; qualifications: She is a Chartered Accountant (All India Rank 1), Chartered Financial Analyst, and an alumnus of Harvard Business School..
+**Annapoorna Venkataramanan** — Group Chief Financial Officer and Key Managerial Personnel (“KMP”). from: external; experience: over 25 years of experience in Finance, Treasury and Global Markets; qualifications: She is a Chartered Accountant (All India Rank 1), Chartered Financial Analyst, and an alumnus of Harvard Business School..
 
-The filing's own profile: “Ms. Annapoorna Venkataramanan is an accomplished Finance Leader with over 25 years of experience in Finance, Treasury and Global Markets in manufacturing and financial services industry. Her experience spans across Project Finance, Global Treasury Centres, Enterprise-wide and Market Risk management, Mega Insurance programmes, Capex expansion oversight, International corridor management among others. Ms. Annapoorna has also spearheaded extraordinarily complex treasury process-cum-digital transformations for central treasury structures and led trade-to-FX digital product suite from concept to execution. Her most recent role was as Chief Treasury, Risk, Insurance and Capex Investments at ArcelorMittal Nippon Steel India (AMNS).”
+The filing's own profile: “Ms. Annapoorna Venkataramanan is an accomplished Finance Leader with over 25 years of experience in Finance, Treasury and Global Markets in manufacturing and financial services industry. Her experience spans across Project Finance, Global Treasury Centres, Enterprise-wide and Market Risk management, Mega Insurance programmes, Capex expansion oversight, International corridor management among others. Ms. Annapoorna has also spearheaded extraordinarily complex treasury process-cum-digital transformations for central treasury structures and led trade-to-FX digital product suite from concept to execution. Her most recent role was as Chief Treasury, Risk, Insurance and Capex Investments at ArcelorMittal Nippon Steel India (AMNS). Prior to AMNS, Ms. Annapoorna was Managing Director & Sales Head, South Asia Financial Markets at Standard Chartered Bank (SCB)”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

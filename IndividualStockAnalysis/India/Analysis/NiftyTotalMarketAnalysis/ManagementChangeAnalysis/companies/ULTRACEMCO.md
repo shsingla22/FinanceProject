@@ -70,18 +70,6 @@ The filing's own profile: “Mr. Jayant Dua is a seasoned leader with 37 years o
 | Business Head – Renewables and Textiles | Aditya Birla Group | 2023 | — |
 | Managing Director (Designate) and Senior Management Personnel | UltraTech Cement Limited (ULTRACEMCO) | 2026 | — |
 
-Results of **Grasim Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 76,404 | 95,701 | +25.3% a year over 1 year |
-| Operating profit (₹ cr) | 18,635 | 20,431 | +9.6% a year over 1 year |
-| PAT (₹ cr) | 6,987 | 11,206 | +60.4% a year over 1 year |
-| Operating profit margin (%) | 24.4 | 21.3 | -3.1 pts |
-| ROCE (%) | 9.0 | 9.0 | +0.0 pts |
-| ROE (%) | 10.7 | 14.8 | +4.1 pts |
-| Borrowings (₹ cr) | 79,078 | 74,744 | -4,334 |
-
 ### 5. On the calls
 
 Nothing about the change in the calls on file for the window.

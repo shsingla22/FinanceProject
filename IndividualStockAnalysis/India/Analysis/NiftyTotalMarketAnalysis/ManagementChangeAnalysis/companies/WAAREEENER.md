@@ -63,9 +63,9 @@
 
 **Mr. Chimanlal Tribhuvandas Doshi** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 45.78% → 1.63%.
 
-**Amit Ashok Paithankar** — Whole – Time Director and Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Amit Ashok Paithankar** — Whole – Time Director and Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -77,9 +77,9 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 31.2 | 20.3 | -10.9 pts |
 | Borrowings (₹ cr) | 553 | 1,199 | +646 |
 
-**Sonal Shrivastava** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sonal Shrivastava** — Chief Financial Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|

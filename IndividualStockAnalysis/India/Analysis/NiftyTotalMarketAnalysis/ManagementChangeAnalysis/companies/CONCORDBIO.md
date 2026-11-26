@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Lalit Sethi** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Lalit Sethi** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -70,18 +70,6 @@ The filing's own profile: “Raviraj Karia is a Chartered Accountant and senior 
 | leadership role | Gati | — | — |
 | leadership role | GVFL | — | — |
 | leadership role | Claris Lifesciences | — | — |
-
-Results of **Concord Biotech Ltd.** while they were CFO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,200 | 1,055 | -12.1% a year over 1 year |
-| Operating profit (₹ cr) | 506 | 368 | -27.3% a year over 1 year |
-| PAT (₹ cr) | 372 | 259 | -30.4% a year over 1 year |
-| Operating profit margin (%) | 42.2 | 34.9 | -7.3 pts |
-| ROCE (%) | 17.0 | — | — |
-| ROE (%) | 20.5 | 12.8 | -7.7 pts |
-| Borrowings (₹ cr) | 3.0 | 2.0 | -1 |
 
 ### 5. On the calls
 

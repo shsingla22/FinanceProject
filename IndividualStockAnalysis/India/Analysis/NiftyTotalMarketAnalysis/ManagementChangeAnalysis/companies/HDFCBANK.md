@@ -40,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sashidhar Jagdishan** — Managing Director and Chief Executive Officer ("MD & CEO"), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sashidhar Jagdishan** — Managing Director and Chief Executive Officer ("MD & CEO"), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -55,7 +55,7 @@ The company's results while they held the seat (the year before they took it, to
 - Also on file: Managing Director at BSE (FY2024–FY2024, annual reports).
 - Also on file: Managing Director at JMFINANCIL (FY2023–FY2023, annual reports).
 
-**Srinivasan Vaidyanathan** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Srinivasan Vaidyanathan** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

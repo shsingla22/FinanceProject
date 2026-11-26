@@ -12,11 +12,11 @@
 | **Chief Financial Officer (CFO)** | Mahesh Viswanathan (moved to another role in the company or group; last day 2026-05-31) | Sachin Naik (external; from 2026-06-01) | effective | 2026-05-28 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Elevation of Mr. Mahesh Viswanathan currently designated as Dy. CEO & Chief Financial Officer (CFO) as Chief Executive Officer ("CEO") of the Company with effect from 1st June 2026.” — [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
+- In the documents: “Elevation of Mr. Mahesh Viswanathan currently designated as Dy. CEO & Chief Financial Officer (CFO) as Chief Executive Officer ("CEO") of the Company with effect from 1st June 2026.” — [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 - **Why Mahesh Viswanathan is leaving, in the filing's words:** “Elevation from Dy. CEO & Chief Financial Officer (CFO) to as Chief Executive Officer ("CEO") of the Company” Stays on as: Chief Executive Officer (CEO) of the Company.
-- In the documents: “Appointment of Mr. Sachin Naik as Chief Financial Officer (CFO) of the Company with effect from 1st June 2026.” — [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
+- In the documents: “Appointment of Mr. Sachin Naik as Chief Financial Officer (CFO) of the Company with effect from 1st June 2026.” — [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
+*All 3 filing(s) read for the seats:* [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 
 ### 2. Financials — the last three years
 
@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Mahesh Viswanathan** — Chief Financial Officer (CFO), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Mahesh Viswanathan** — Chief Financial Officer (CFO), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -70,21 +70,9 @@ The filing's own profile: “Mr. Mahesh Viswanathan is a qualified Chartered Acc
 | — | Union Carbide India Ltd | — | — |
 | — | Philips Electronics | — | — |
 
-Results of **Finolex Cables Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2025):
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,877 | 5,319 | +13.1% a year over 5 years |
-| Operating profit (₹ cr) | 384 | 543 | +7.2% a year over 5 years |
-| PAT (₹ cr) | 391 | 701 | +12.4% a year over 5 years |
-| Operating profit margin (%) | 13.3 | 10.2 | -3.1 pts |
-| ROCE (%) | 20.0 | 16.0 | -4.0 pts |
-| ROE (%) | 13.0 | 12.8 | -0.2 pts |
-| Borrowings (₹ cr) | 8.0 | 20.0 | +12 |
-
 **Sachin Naik** — Chief Financial Officer (CFO). from: external; experience: total 26 years of experience in finance; qualifications: B.com, CMA, SAP, ISB.
 
-The filing's own profile: “Mr. Sachin Naik has done B.com, CMA, SAP, ISB. He has total 26 years of experience in finance. Mr. Naik is currently working as Chief Financial Officer and Head Legal & secretarial of Shalimar Paints Limited. He is a Business Leader with 3 decades of progressive experience in Business Strategy, Investor Relations, Fundraising, Cost Reduction, Corporate Governance, Controllership, Automation & Digital Initiatives with manufacturing organizations. He also has 10 years of experience spearheading the finance function and Proven expertise in optimizing business operations, driving cost control, leading change management initiatives & enhancing efficiency to foster growth. He has previously worked with Supreme Group, UPL Ltd, Shaw Wallace, Wyeth (Pfizer) and RCF Ltd.”
+The filing's own profile: “Mr. Sachin Naik has done B.com, CMA, SAP, ISB. He has total 26 years of experience in finance. Mr. Naik is currently working as Chief Financial Officer and Head Legal & secretarial of Shalimar Paints Limited. He is a Business Leader with 3 decades of progressive experience in Business Strategy, Investor Relations, Fundraising, Cost Reduction, Corporate Governance, Controllership, Automation & Digital Initiatives with manufacturing organizations. He also has 10 years of experience spearheading the finance function and Proven expertise in optimizing business operations, driving cost control, leading change management initiatives & enhancing efficiency to foster growth.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

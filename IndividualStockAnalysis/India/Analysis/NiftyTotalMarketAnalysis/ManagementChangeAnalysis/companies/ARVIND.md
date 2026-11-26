@@ -65,17 +65,6 @@ The filing's own profile: “Punit Lalbhai, Vice Chairman, Arvind Limited is ste
 |---|---|---|---|
 | Vice Chairman | Arvind Limited (ARVIND) | — | — |
 
-Results of **The Anup Engineering Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 733 | 822 | +12.1% a year over 1 year |
-| Operating profit (₹ cr) | 168 | 174 | +3.6% a year over 1 year |
-| PAT (₹ cr) | 118 | 110 | -6.8% a year over 1 year |
-| Operating profit margin (%) | 22.9 | 21.2 | -1.7 pts |
-| ROE (%) | 19.3 | 15.9 | -3.4 pts |
-| Borrowings (₹ cr) | 32.0 | 110 | +78 |
-
 Results of **Deepak Nitrite Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2026):
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |

@@ -63,18 +63,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 |---|---|---|---|
 | Chairman & Managing Director | BEML Limited (BEML) | — | — |
 
-Results of **BEML Ltd.** while they were Chairman there (annual reports on file show the seat FY2023–FY2024):
-
-| Mar 2022 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 4,337 | 4,054 | -3.3% a year over 2 years |
-| Operating profit (₹ cr) | 325 | 445 | +17.0% a year over 2 years |
-| PAT (₹ cr) | 129 | 282 | +47.9% a year over 2 years |
-| Operating profit margin (%) | 7.5 | 11.0 | +3.5 pts |
-| ROCE (%) | 9.0 | 15.0 | +6.0 pts |
-| ROE (%) | 5.5 | 10.6 | +5.1 pts |
-| Borrowings (₹ cr) | 832 | 71.0 | -761 |
-
 ### 5. On the calls
 
 5 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

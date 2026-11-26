@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Hari Mohan Gupta** — Chairman & Managing Director (CMD), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Hari Mohan Gupta** — Chairman & Managing Director (CMD), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -67,18 +67,6 @@ The filing's own profile: “Shri Saleem Ahmad holds a degree in Civil Engineeri
 | Director (Project) | NBCC (India) Ltd. (NBCC) | — | — |
 | Executive Director (Civil) | Delhi Metro Rail Corporation Ltd. | — | — |
 | — | Mumbai Port Trust | — | — |
-
-Results of **Rail Vikas Nigam Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 19,923 | 20,412 | +2.5% a year over 1 year |
-| Operating profit (₹ cr) | 1,125 | 767 | -31.8% a year over 1 year |
-| PAT (₹ cr) | 1,282 | 871 | -32.1% a year over 1 year |
-| Operating profit margin (%) | 5.6 | 3.8 | -1.8 pts |
-| ROCE (%) | 11.0 | — | — |
-| ROE (%) | 13.4 | 8.9 | -4.5 pts |
-| Borrowings (₹ cr) | 5,419 | 4,818 | -601 |
 
 ### 5. On the calls
 

@@ -9,14 +9,14 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) and Key Managerial Personnel of the Company** | Piyush Lakhani (resignation; last day 2026-10-30) | Vibha Thakkar (external; from 2026-10-31) | effective | 2026-10-28 |
-| **Managing Director** | Hetal Gogri Gala (moved to another role in the company or group) | Rashesh C. Gogri (internal; from 2026-10-01) | effective | 2026-09-22 |
+| **Managing Director of the Company** | Hetal Gogri Gala (moved to another role in the company or group; last day 2026-09-30) | Rashesh C. Gogri (internal; from 2026-10-01) | effective | 2026-09-22 |
 
 - **Why Piyush Lakhani is leaving, in the filing's words:** “Resignation from the position of Chief Financial Officer and Key Managerial Personnel of the Company to pursue an alternate career opportunity outside the organization.”
-- In the documents: “Appointment of Smt. Vibha Thakkar as the Chief Financial Officer (CFO) and Key Managerial Personnel of the Company w.e.f October 31, 2026 upon the recommendation of the Nomination and Remuneration Committee and Audit Committee .” — [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · +1 more
-- **Why Hetal Gogri Gala is leaving, in the filing's words:** “Smt. Hetal Gogri Gala (DIN: 00005499) be re-designated from Managing Director to Whole-time Director of the Company with effect from October 1, 2026” Stays on as: Whole-time Director of the Company with effect from October 1, 2026 (also Vice Chairperson).
-- In the documents: “Shri. Rashesh C. Gogri (DIN:00066291) be appointed as the Managing Director of the Company pursuant to ch ange in his designation from Non -Executive Director to Managing Director , with effect from October 1, 2026 .” — [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · +1 more
+- In the documents: “Appointment of Smt. Vibha Thakkar as the Chief Financial Officer (CFO) and Key Managerial Personnel of the Company w.e.f October 31, 2026 upon the recommendation of the Nomination and Remuneration Committee and Audit Committee.” — [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · +1 more
+- **Why Hetal Gogri Gala is leaving, in the filing's words:** “Change in designation of Smt. Hetal Gogri Gala (DIN: 00005499) from Managing Director to Whole-time Director of the Company with effect from October 1, 2026” Stays on as: Whole-time Director of the Company.
+- In the documents: “Shri. Rashesh C. Gogri (DIN:00066291) be appointed as the Managing Director of the Company pursuant to change in his designation from Non-Executive Director to Managing Director, with effect from October 1, 2026.” — [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-10-28 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIPHARM_ROID_102254_KMP_Doc.zip) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_22092026173037_Reg_30_Proceeding_AGM_finalsd.pdf)
+*All 7 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-10-28 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIPHARM_ROID_102254_KMP_Doc.zip) · [2026-10-28 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026215648_Outcomefinalclearsigned.pdf) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Piyush Lakhani** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Piyush Lakhani** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since at least FY2023 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2022 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -58,9 +58,9 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 8.8 | 8.2 | -0.6 pts |
 | Borrowings (₹ cr) | 338 | 754 | +416 |
 
-**Hetal Gogri Gala** — Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Hetal Gogri Gala** — Managing Director of the Company, in the seat since at least FY2023 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2022 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -74,7 +74,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Vibha Thakkar** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company. from: external; experience: over 18 years; qualifications: qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI); Bachelors Degree in Commerce; General Management Program from the Indian School of Business (ISB).
+**Vibha Thakkar** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company. from: external; experience: over 18 years; qualifications: a qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI); holds a Bachelors Degree in Commerce and has completed the General Management Program from the Indian School of Business (ISB).
 
 The filing's own profile: “Smt. Vibha Thakkar is a qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI). She has over 18 years of rich and progressive experience across finance functions in diverse industry verticals including Speciality chemicals, FMCG, Automotive, Pharmaceuticals and Big4 consultings. She most recently served as AVP - Finance & Accounts at NOCIL Limited. Prior to that she held senior leadership and key financial roles at renowned organizations including VIP Industries Limited, Greaves Cotton Limited, Sandoz Private Limited, KPMG. She holds a Bachelors Degree in Commerce and has completed the General Management Program from the Indian School of Business (ISB). She was also featured under the '40 Under 40' category by Tradeflock in 2025.”
 
@@ -86,7 +86,9 @@ The filing's own profile: “Smt. Vibha Thakkar is a qualified Chartered Account
 | senior leadership and key financial roles | Sandoz Private Limited | — | — |
 | senior leadership and key financial roles | KPMG | — | — |
 
-**Rashesh C. Gogri** — Managing Director. from: internal.
+**Rashesh C. Gogri** — Managing Director of the Company. from: internal.
+
+The filing's own profile: “Not Applicable (since it is change in role and not a new appointment)”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

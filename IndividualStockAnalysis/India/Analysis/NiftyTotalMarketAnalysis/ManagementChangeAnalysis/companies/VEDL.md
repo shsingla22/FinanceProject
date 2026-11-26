@@ -2,23 +2,9 @@
 
 ## VEDL — Vedanta Ltd.
 
-**Large stake change, same controller · CEO / MD change**
+**CEO / MD change**
 
 ### 1. What is changing
-
-**Ownership — Large stake change, same controller.** Promoter entity Twin Star Holdings Ltd sold 65,072,990 shares in the June 2026 quarter, cutting its stake from 40.02% to 38.35%; promoter group fell 56.38% to 54.72% (Ankit Agarwal also sold out of 36,300 shares). Same promoter group retains majority control.
-
-| | Who | Kind | Stake before | Stake after |
-|---|---|---|---|---|
-| Outgoing | Twin Star Holdings Ltd (part of the Promoter and Promoter Group of Vedanta Limited); Mr. Ankit Agarwal (Promoter Group) | corporate parent | 56.38% (promoter & promoter group); TSHL 40.02% | 54.72% (promoter & promoter group); TSHL 38.35% |
-| Incoming | — | — | — | — |
-
-- control does not change
-- Dates: other 2026-06-30; other 2026-09-30
-- In the documents: “During the Quarter ended June 30, 2026, Twin Star Holdings Ltd (TSHL) (part of the Promoter and Promoter Group of Vedanta Limited) has sold 65,072,990 equity shares.”
-
-**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 56.38% (2025-09-30) → 56.38% (2025-12-31) → 56.38% (2026-03-31) → 54.72% (2026-06-30) → 54.72% (2026-09-30)
-**Reg 29 disclosures in the window:** promoters sold 0.0% and bought 0.0%; outside acquirers at 10% or more: GLAS Agency (Hong Kong) Limited (as security trustee for the holders of the Bonds) 54.72% (2026-07-16); Citicorp International Limited (as trustee for the holders of the Bonds) 51.93% (2026-09-28); GLAS Agency (Hong Kong) Limited (as trustee and security agent for the holders of the Tap Bonds) 54.72% (2026-09-28).
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -26,8 +12,9 @@
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “The Board of Directors, on recommendation of Nomination and Remuneration Committee of the Company, on July 30, 2026, have considered and approved the re-appointment of Mr. Arun Misra (DIN: 01835605) as an Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company for a term of 01 (one) year effective from August 01, 2026 to July 31, 2027, subject to approval of the shareholders of the Company.” — [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151513_VEDLSEIntimationOtherMatterssigned.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
-*All 9 filing(s) read for the seats:* [2026-10-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_01102026161742_SEIntimationVotingResultsScrutinizerReportfinalsigned.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_31082026145553_VEDLPostalBallotNoticeSep26-signed.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151513_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151655_VEDLSEIntimationOtherMatterssigned.pdf) · +3 more
+*All 10 filing(s) read for the seats:* [2026-10-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_01102026161742_SEIntimationVotingResultsScrutinizerReportfinalsigned.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_31082026145553_VEDLPostalBallotNoticeSep26-signed.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151513_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151655_VEDLSEIntimationOtherMatterssigned.pdf) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -51,23 +38,23 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/VEDL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹284.55 on 2026-06-29 (the close before) → ₹259.68 on 2026-11-13: **-8.7%**; Nifty 500 +3.2% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹264.50 on 2026-07-29 (the close before) → ₹259.68 on 2026-11-13: **-1.8%**; Nifty 500 +1.6% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Twin Star Holdings Ltd (part of the Promoter and Promoter Group of Vedanta Limited); Mr. Ankit Agarwal (Promoter Group)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 56.38% (promoter & promoter group); TSHL 40.02% → 54.72% (promoter & promoter group); TSHL 38.35%.
+No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Arun Misra** — Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: 35 years of rich and diverse experience in Tata Steel; qualifications: After graduating with a bachelor's degree in electrical engineering from IIT, Kharagpur, Mr. Misra took a Diploma in Mining and Beneficiation from the University of New South Wales Sydney, and another Diploma in General Management from CEDEP, France..
+**Arun Misra** — Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: a formidable 35 years of rich and diverse experience in Tata Steel; qualifications: After graduating with a bachelor's degree in electrical engineering from IIT, Kharagpur, Mr. Misra took a Diploma in Mining and Beneficiation from the University of New South Wales Sydney, and another Diploma in General Management from CEDEP, France..
 
-The filing's own profile: “Mr. Arun Misra was appointed as an Executive Director w.e.f. August 01, 2023. Mr. Misra has also been the CEO of Hindustan Zinc Limited ("HZL"), a subsidiary of the Company, overseeing the operations and growth of HZL. Mr. Misra was appointed as Deputy CEO, HZL on November 20, 2019 and was elevated to CEO & WTD, HZL with effect from August 01, 2020 till July 31, 2026. He is the 1st ever Indian Chairperson of the International Zinc Association. He is also the Vice President of the Indian Institute of Mineral Engineers. He is also present Vice Chairman of CII, Rajasthan. Mr. Misra was awarded 'CEO of the Year' in the Business Leader of the Year awards.”
+The filing's own profile: “Mr. Arun Misra was appointed as an Executive Director w.e.f. August 01, 2023. Mr. Misra has also been the CEO of Hindustan Zinc Limited ("HZL"), a subsidiary of the Company, overseeing the operations and growth of HZL. Mr. Misra was appointed as Deputy CEO, HZL on November 20, 2019 and was elevated to CEO & WTD, HZL with effect from August 01, 2020 till July 31, 2026. He is the 1st ever Indian Chairperson of the International Zinc Association. He is also the Vice President of the Indian Institute of Mineral Engineers. He is also present Vice Chairman of CII, Rajasthan.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director | Vedanta Limited (VEDL) | 2023 | — |
-| Deputy CEO | Hindustan Zinc Limited ("HZL"), a subsidiary of the Company | 2019 | 2020 |
 | CEO & WTD | Hindustan Zinc Limited ("HZL"), a subsidiary of the Company | 2020 | 2026 |
+| Deputy CEO | Hindustan Zinc Limited (HINDZINC) | 2019 | 2020 |
 | Vice President - Raw Materials Division | Tata Steel (TATASTEEL) | — | — |
 | Maintenance Head (Electrical), West Bokaro Coal Washery | Tata Steel (TATASTEEL) | 1988 | — |
 

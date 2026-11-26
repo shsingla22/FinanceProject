@@ -61,7 +61,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | -52.2 | 30.8 | +83.0 pts |
 | Borrowings (₹ cr) | 261 | 289 | +28 |
 
-**Pushkar Patwardhan** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Pushkar Patwardhan** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -86,18 +86,6 @@ The company's results while they held the seat (the year before they took it, to
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Chairman | SML Mahindra Limited (SMLMAH) | — | — |
-
-Results of **SML Mahindra Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,399 | 2,838 | +18.3% a year over 1 year |
-| Operating profit (₹ cr) | 235 | 278 | +18.3% a year over 1 year |
-| PAT (₹ cr) | 122 | 160 | +31.1% a year over 1 year |
-| Operating profit margin (%) | 9.8 | 9.8 | +0.0 pts |
-| ROCE (%) | 27.0 | 31.0 | +4.0 pts |
-| ROE (%) | 31.9 | 30.8 | -1.1 pts |
-| Borrowings (₹ cr) | 327 | 289 | -38 |
 
 **Manaswini Goel** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer (interim). from: group company; qualifications: She holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, University of Delhi, and is a Chartered Accountant, being an associate of the Institute of Chartered Accountants of India (ICAI) and the Institute of Chartered Accountants in England and Wales (ICAEW)..
 

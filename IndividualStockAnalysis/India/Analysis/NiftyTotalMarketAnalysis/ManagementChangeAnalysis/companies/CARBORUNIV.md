@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer & KMP** | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 |
+| **Chief Financial Officer** | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Mr. Sriram Seshadri has been appointed as the Chief Financial Officer of the Company effective 7th September 2026.” — [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf)
+- In the documents: “Mr. Sriram Seshadri has been appointed as the Chief Financial Officer & KMP by the Board of Directors based on the recommendation of the Nomination and Remuneration Committee and Audit Committee.” — [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) · [2026-06-26 Resignation](https://nsearchives.nseindia.com/corporate/CARBORUNIV_26062026181127_Intimation-sd.pdf) · [2026-06-26 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CARBORUNIV_ROID_90541_KMP_Doc.zip)
 
@@ -45,9 +45,9 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Sriram Seshadri** — Chief Financial Officer & KMP. from: external; age 55 years; experience: over 30 years; qualifications: A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI).
+**Sriram Seshadri** — Chief Financial Officer. from: external; age 55 years; experience: over 30 years of experience; qualifications: A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI).
 
-The filing's own profile: “Mr. Sriram Seshadri, aged 55 years is a seasoned finance professional with over 30 years of experience across leading automotive and industrial manufacturing organisations. A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI), he has held several CFO and senior finance leadership positions including most recently as Vice President – Business Controller at Endurance Technologies. He was previously the CFO of Woco India and Delphi TVS Technologies, and Director Finance at Tenneco India. His expertise spans strategic finance, business partnering, treasury, financial planning & analysis, ERP transformation, compliance, taxation and stakeholder management, with a strong track record of driving profitability, cash flow improvement, business transformation and governance initiatives.”
+The filing's own profile: “Mr. Sriram Seshadri, aged 55 years is a seasoned finance professional with over 30 years of experience across leading automotive and industrial manufacturing organisations. A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI), he has held several CFO and senior finance leadership positions including most recently as Vice President – Business Controller at Endurance Technologies. He was previously the CFO of Woco India and Delphi TVS Technologies, and Director Finance at Tenneco India.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

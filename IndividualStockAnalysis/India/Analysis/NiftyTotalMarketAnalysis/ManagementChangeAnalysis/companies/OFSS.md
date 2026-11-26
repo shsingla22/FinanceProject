@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Makarand Padalkar** — Managing Director and Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Makarand Padalkar** — Managing Director and Chief Executive Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 25.7 | 33.7 | +8.0 pts |
 | Borrowings (₹ cr) | 70.0 | 32.0 | -38 |
 
-**Avadhut Ketkar** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Avadhut Ketkar** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -81,18 +81,6 @@ The filing's own profile: “Mr. Avadhut (Vinay) Ketkar serves as the Chief Fina
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Oracle Financial Services Software Limited (OFSS) | — | 2026 |
-
-Results of **Oracle Financial Services Software Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,698 | 6,847 | +9.6% a year over 2 years |
-| Operating profit (₹ cr) | 2,471 | 3,076 | +11.6% a year over 2 years |
-| PAT (₹ cr) | 1,806 | 2,380 | +14.8% a year over 2 years |
-| Operating profit margin (%) | 43.4 | 44.9 | +1.5 pts |
-| ROCE (%) | 35.0 | 41.0 | +6.0 pts |
-| ROE (%) | 24.2 | 28.5 | +4.3 pts |
-| Borrowings (₹ cr) | 69.0 | 46.0 | -23 |
 
 **Manish Bhandari** — Chief Financial Officer (Key Managerial Personnel). from: internal; experience: over three decades of experience across diverse finance disciplines; qualifications: He is an Associate Member of the Institute of Chartered Accountants of India..
 

@@ -13,7 +13,7 @@
 - **Why the holder is leaving, in the filing's words:** “The company is taking all necessary steps for filling up the vacancy.”
 - In the documents: “We wish to inform you that Mr. Ajai Kumar Shukla (DIN:11358498), has assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of the Company with effect from today i.e. December 18, 2025.” — [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf)
+*All 5 filing(s) read for the seats:* [2026-03-13 General Updates](https://nsearchives.nseindia.com/corporate/PNBHOUSING_13032026190254_SE_Intimation_Postal_Ballot_13032026.pdf) · [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf)
 
 ### 2. Financials — the last three years
 
@@ -41,15 +41,15 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA.
+**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA; holds a post graduate degree in Finance from CSJM University, Kanpur, and has completed his Bachelors in Science from Kanpur University.
 
 The filing's own profile: “Mr. Ajai Kumar Shukla is aged 52 years. He is an MBA and possesses over 30 years of experience in Housing and Mortgage Lending business. He has been working with TATA Capital Housing Finance Limited for last 16 years. He is currently working with Tata Capital Housing Finance Limited as the Chief Business Officer. He has also headed Credit, Risk, Valuation, Digital Transformation and Affordable Housing Finance in TATA Capital. Prior to TATA Capital, he had worked with ICICI Bank in Mortgage business for more than 7 years in various roles & responsibilities across various regions. Mr Ajai had started his career with LIC Housing Finance Limited and worked there for 7 years.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Business Officer | Tata Capital Housing Finance Limited | — | — |
-| Mortgage business | ICICI Bank (ICICIBANK) | — | — |
-| started his career | LIC Housing Finance Limited (LICHSGFIN) | — | — |
+| Chief Business Officer | TATA Capital Housing Finance Limited | — | — |
+| Mortgage business for more than 7 years in various roles & responsibilities across various regions | ICICI Bank (ICICIBANK) | — | — |
+| started his career with LIC Housing Finance Limited and worked there for 7 years | LIC Housing Finance Limited (LICHSGFIN) | — | — |
 
 ### 5. On the calls
 

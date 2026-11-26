@@ -11,9 +11,9 @@
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Narasimhan Raghunathan (resignation; last day 2026-01-31) | Chintan Shah (external; from 2026-04-15) | effective | 2026-01-08 |
 
 - **Why Narasimhan Raghunathan is leaving, in the filing's words:** “on account of his personal or family commitments”
-- In the documents: “has noted and approved the resignation of Mr. Narasimhan Raghunathan as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 31st January, 2026, on account of his personal or family commitments.” — [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · +1 more
+- In the documents: “has noted and approved the resignation of Mr. Narasimhan Raghunathan as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 31st January, 2026, on account of his personal or family commitments.” — [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_15042026140754_OutcomeBM15042026_signed.pdf) · [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Management](https://nsearchives.nseindia.com/corporate/ELECON2_15042026144122_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · [2026-01-08 Resignation](https://nsearchives.nseindia.com/corporate/ELECON2_08012026180414_OutcomeBM08012026.pdf)
+*All 6 filing(s) read for the seats:* [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_15042026140754_OutcomeBM15042026_signed.pdf) · [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Management](https://nsearchives.nseindia.com/corporate/ELECON2_15042026144122_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · [2026-01-08 Resignation](https://nsearchives.nseindia.com/corporate/ELECON2_08012026180414_OutcomeBM08012026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Narasimhan Raghunathan** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Narasimhan Raghunathan** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -59,7 +59,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Chintan Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: external; experience: nearly 19 years.
 
-The filing's own profile: “Mr. Chintan Shah brings nearly 19 years of extensive experience in Finance and Accounts, having played a pivotal role in driving financial strategy, managing risk, overseeing project monitoring, ensuring listing compliance and building strong relationships with investors and stakeholders, alongwith contributing to strategic initiatives. He is a seasoned finance leader with a proven track record of enabling growth across multinational and multicultural organizations spanning Big4 Consulting, IT services, Engineering Industries, Medical Device Industries and chemical industries.”
+The filing's own profile: “Mr. Chintan Shah brings nearly 19 years of extensive experience in Finance and Accounts, having played a pivotal role in driving financial strategy, managing risk, overseeing project monitoring, ensuring listing compliance and building strong relationships with investors and stakeholders, alongwith contributing to strategic initiatives. He is a seasoned finance leader with a proven track record of enabling growth across multinational and multicultural organizations spanning Big4 Consulting, IT services, Engineering Industries, Medical Device Industries and chemical industries. He is widely recognized for his expertise in business controlling, financial strategy execution, integrated system implementation and cross-functional leadership.”
 
 ### 5. On the calls
 

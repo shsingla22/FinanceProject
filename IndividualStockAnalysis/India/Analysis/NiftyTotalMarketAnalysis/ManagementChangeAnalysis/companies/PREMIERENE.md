@@ -6,18 +6,20 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter Surenderpal Singh Saluja sold 5.33% of the capital in the open market, disclosed on 2026-05-29. Promoter-and-group holding fell from 63.94% to 58.49%. No buyer took control and no new promoter arrived; the same promoter group still holds a majority.
+**Ownership — Large stake change, same controller.** Promoter Surenderpal Singh Saluja sold 5.33% of the capital in the open market in May 2026. Promoter-and-group holding fell from 63.94% to 58.49%, still a clear majority. No new promoter arrived; the Saluja promoter group continues to control the company.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Surenderpal Singh Saluja | founder family | — | — |
-| Incoming | — | — | — | — |
+| Outgoing | Surenderpal Singh Saluja (promoter) | founder family | promoter and group 63.94% | promoter and group 58.49% (Reg 29 disclosure states 58.61% held after the sale) |
+| Incoming | — | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Dates: other 2026-05-29
+- Dates: block deal 2026-05-29
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 63.94% (2025-09-30) → 63.94% (2025-12-31) → 63.94% (2026-03-31) → 58.49% (2026-06-30) → 58.49% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 5.33% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_04112026182631_Outcome_Q2_FY_2026-27_Signed.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_04112026184950_BM_Outcome_Q2_FY27_Financial_Results.pdf)
 
 ### 2. Financials — the last three years
 
@@ -45,7 +47,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Surenderpal Singh Saluja** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved — → —.
+**Surenderpal Singh Saluja (promoter)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved promoter and group 63.94% → promoter and group 58.49% (Reg 29 disclosure states 58.61% held after the sale).
 
 ### 4. Track record — the incoming management
 

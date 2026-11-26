@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Alok Gupta** — Managing Director & KMP of the Company, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Alok Gupta** — Managing Director & KMP of the Company, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -84,18 +84,6 @@ The filing's own profile: “Mr. Amar Sinha is a seasoned industry professional 
 | Managing Director | Whyte & Mackay India | — | — |
 | executive positions | Herbertsons (UB Group) | — | — |
 
-Results of **Allied Blenders and Distillers Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,520 | 3,923 | +11.4% a year over 1 year |
-| Operating profit (₹ cr) | 431 | 542 | +25.8% a year over 1 year |
-| PAT (₹ cr) | 195 | 220 | +12.8% a year over 1 year |
-| Operating profit margin (%) | 12.2 | 13.8 | +1.6 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 12.6 | 13.2 | +0.6 pts |
-| Borrowings (₹ cr) | 905 | 1,151 | +246 |
-
 **Ramakrishnan Ramaswamy** — Chief Financial Officer (“CFO”). from: internal; experience: over 3 decades of experience; qualifications: Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI).
 
 The filing's own profile: “Ramki holds a Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI). With over 3 decades of experience, he has held the position of Chief Financial Officer since 2003 across multiple organizations, including Allied Blenders from 2010 to 2024, bringing deep institutional knowledge and strategic financial expertise. Post September 2024, in recognition of his significant contribution and institutional knowledge, he was retained in a senior management advisory role.”
@@ -106,18 +94,6 @@ The filing's own profile: “Ramki holds a Bachelor’s degree in Commerce from 
 | senior management advisory role | Allied Blenders and Distillers Limited (ABDL) | 2024 | — |
 | Chief Financial Officer | Jubilant Oil & Gas Private Limited | — | — |
 | Vice President – Finance (Global) | Essel Propack Limited | — | — |
-
-Results of **Allied Blenders and Distillers Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,147 | 3,520 | +5.8% a year over 2 years |
-| Operating profit (₹ cr) | 186 | 431 | +52.2% a year over 2 years |
-| PAT (₹ cr) | 2.0 | 195 | +887.4% a year over 2 years |
-| Operating profit margin (%) | 5.9 | 12.2 | +6.3 pts |
-| ROCE (%) | 16.0 | 18.0 | +2.0 pts |
-| ROE (%) | 0.5 | 12.6 | +12.1 pts |
-| Borrowings (₹ cr) | 793 | 905 | +112 |
 
 ### 5. On the calls
 

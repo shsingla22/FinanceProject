@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | George Alexander Muthoot (moved to another role in the company or group; last day 2026-09-30) | Alexander George (promoter family; from 2026-10-01) | effective | 2026-08-01 |
-| **Chief Executive Officer (CEO)** | — (new seat) | K. R. Bijimon (internal; from 2026-10-01) | effective | 2026-08-01 |
+| **Managing Director** | George Alexander Muthoot (moved to another role in the company or group) | Alexander George (promoter family; from 2026-10-01) | effective | 2026-08-01 |
+| **Chief Executive Officer (CEO)** | — (new seat) | K R Bijimon (internal; from 2026-10-01) | effective | 2026-08-01 |
 
-- **Why George Alexander Muthoot is leaving, in the filing's words:** “Every institution must prepare its next generation of leadership, and I believe this is the right time to hand over the baton to the next generation to take the journey forward.” Stays on as: Executive Vice Chairman (Vice Chairman and Whole Time Director), effective October 1, 2026.
-- In the documents: “The Board of Directors of Muthoot Finance Limited has recommended the appointment of Mr. Alexander George as the Managing Director of the Company, effective October 1, 2026.” — [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · +1 more
+- **Why George Alexander Muthoot is leaving, in the filing's words:** “Every institution must prepare its next generation of leadership, and I believe this is the right time to hand over the baton to the next generation to take the journey forward.” Stays on as: Executive Vice Chairman / Vice Chairman and Whole Time Director, with effect from October 1, 2026 till March 31, 2031.
+- In the documents: “The Board of Directors of Muthoot Finance Limited has recommended the appointment of Mr. Alexander George as the Managing Director of the Company, effective October 1, 2026.” — [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · [2026-08-01 General Updates](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026151303_Outcome.pdf) · +1 more
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Shri. K.R. Bijimon, Executive Director, has been elevated to the position of Chief Executive Officer (CEO) effective from October 01,2026.” — [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-08-01 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026173519_PressReleaseBoardChangessd.pdf)
+- In the documents: “Approved the elevation of Mr. K R Bijimon as the Chief Executive Officer of the Company with effect from October 01, 2026;” — [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · [2026-08-01 General Updates](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026151303_Outcome.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181354_Appointment_of_Directors_SD.pdf) · [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-01 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026173519_PressReleaseBoardChangessd.pdf)
+*All 8 filing(s) read for the seats:* [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181354_Appointment_of_Directors_SD.pdf) · [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -40,9 +40,9 @@
 
 ### 3. Track record — the outgoing management
 
-**George Alexander Muthoot** — Managing Director, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**George Alexander Muthoot** — Managing Director, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -54,17 +54,18 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Alexander George** — Managing Director. from: promoter family; qualifications: advanced diploma in business administration from Florida International University and an MBA from Thunderbird University in the USA.
+**Alexander George** — Managing Director. from: promoter family; qualifications: an advanced diploma in business administration from Florida International University and an MBA from Thunderbird University in the USA.
 
 The filing's own profile: “Mr. Alexander George brings a strong educational foundation with an advanced diploma in business administration from Florida International University and an MBA from Thunderbird University in the USA. Having started his journey in the family business as a manager, he worked his way up through the ranks to his current leadership position. Mr. Alexander George has been associated with the company since 2006. As a Whole-Time Director, he has led the Company's operations across North, East and West India and played a pivotal role in expanding the branch network, strengthening customer reach and driving business growth across these markets.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Whole-Time Director | Muthoot Finance Limited (MUTHOOTFIN) | 2006 | — |
+| Whole-Time Director, leading the Company's operations across North, East and West India | Muthoot Finance Limited (MUTHOOTFIN) | 2006 | 2026 |
+| manager | the family business | — | — |
 
-**K. R. Bijimon** — Chief Executive Officer (CEO). from: internal; experience: has been a strong pillar at Muthoot for the last 3 decades; qualifications: A Chartered Accountant by profession.
+**K R Bijimon** — Chief Executive Officer (CEO). from: internal; experience: has been a strong pillar at Muthoot for the last 3 decades; qualifications: A Chartered Accountant by profession.
 
-The filing's own profile: “The Board has also recommended the elevation of Mr. K. R. Bijimon as Chief Executive Officer (CEO). He currently serves as the Company's Executive Director & Chief Operating Officer. Stepping into the newly defined role of CEO, Mr. Bijimon brings an unparalleled depth of institutional knowledge and financial acumen. A Chartered Accountant by profession, Mr. Bijimon has been a strong pillar at Muthoot for the last 3 decades. Serving most recently as Executive Director & Chief Operating Officer, his meticulous approach to financial governance and operational efficiency has been instrumental in the company's sustained profitability. His elevation to CEO underscores the promoter directors' commitment to institutionalizing professional management at the highest levels of the company.”
+The filing's own profile: “He currently serves as the Company's Executive Director & Chief Operating Officer. Stepping into the newly defined role of CEO, Mr. Bijimon brings an unparalleled depth of institutional knowledge and financial acumen. A Chartered Accountant by profession, Mr. Bijimon has been a strong pillar at Muthoot for the last 3 decades. Serving most recently as Executive Director & Chief Operating Officer, his meticulous approach to financial governance and operational efficiency has been instrumental in the company's sustained profitability. His elevation to CEO underscores the promoter directors' commitment to institutionalizing professional management at the highest levels of the company.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

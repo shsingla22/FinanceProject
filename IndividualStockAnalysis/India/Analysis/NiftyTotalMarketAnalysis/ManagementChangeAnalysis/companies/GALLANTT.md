@@ -64,9 +64,9 @@
 
 **Individual Agrawal family members and HUFs — Chandra Prakash Agrawal, Prem Prakash Agrawal, Santosh Kumar Agrawal, Madhu Agrawal, Mayank Agrawal, Ashutosh Agrawal, Priyanka Gupta, Chandra Prakash Agrawal & Sons HUF, Santosh Kumar Agrawal HUF, Prem Prakash Agrawal HUF, Dinesh R. Agarwal** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Chandra Prakash Agrawal 37.09% (35.967% post-Dec-2025 gifts); Prem Prakash Agrawal 5.35%; Santosh Kumar Agrawal 7%; Madhu Agrawal 8.36% → Chandra Prakash Agrawal 0%; Prem Prakash Agrawal 0%; Santosh Kumar Agrawal 0% (later 1.916% via Nov 2026 transfer); Madhu Agrawal 0.25%.
 
-**Sandip Kumar Agarwal** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Sandip Kumar Agarwal** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -105,18 +105,6 @@ The filing's own profile: “Mr. Amit Jalan is a seasoned finance leader with mo
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Accounts Officer (CAO) | Gallantt Ispat Limited (GALLANTT) | — | 2026 |
-
-Results of **Gallantt Ispat Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,007 | 3,017 | +199.6% a year over 1 year |
-| Operating profit (₹ cr) | 111 | 296 | +166.7% a year over 1 year |
-| PAT (₹ cr) | 81.0 | 176 | +117.3% a year over 1 year |
-| Operating profit margin (%) | 11.0 | 9.8 | -1.2 pts |
-| ROCE (%) | 16.0 | 10.0 | -6.0 pts |
-| ROE (%) | 11.0 | 8.4 | -2.6 pts |
-| Borrowings (₹ cr) | 114 | 387 | +273 |
 
 ### 5. On the calls
 

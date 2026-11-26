@@ -14,7 +14,7 @@
 - **Why Rajeev Srivastava is leaving, in the filing's words:** “not stated”
 - In the documents: “This is to inform that the Board of Directors of ITI Limited in its Meeting held on 13th February 2026, appointed Shri Prasad Barre (General Manager- Corporate Finance) as the Chief Financial Officer and Key Managerial Personnel of the Company in place of Shri Rajeev Srivastava.” — [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_13022026155254_SE_Intimation_CFO_Appointment_Signed.pdf)
 - **Why Prasad Barre is leaving, in the filing's words:** “Shri Prasad Barre., General Manager -Corporate Finance & Chief Financial Officer, has tendered his resignation on personal grounds.”
-- In the documents: “Accordingly, He was relieved from the services of the Company with effect from the close of business hours on April 30, 2026, and consequently will cease to be a Key Managerial Personnel of the Company.” — [2026-10-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_15102026120847_Signed_DF_Ext_.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · +1 more
+- In the documents: “Accordingly, He was relieved from the services of the Company with effect from the close of business hours on April 30, 2026, and consequently will cease to be a Key Managerial Personnel of the Company.” — [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +1 more
 
 *All 10 filing(s) read for the seats:* [2026-11-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ITI_04112026183149_SE_AGM_Proceedings_Signed.pdf) · [2026-10-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_15102026120847_Signed_DF_Ext_.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_28052026215658_DrHr_addtl_charge.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +4 more
 
@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Rajeev Srivastava** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Rajeev Srivastava** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|

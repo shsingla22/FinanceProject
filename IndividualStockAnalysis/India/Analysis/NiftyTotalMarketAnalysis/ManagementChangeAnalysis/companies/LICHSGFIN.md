@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**T Adhikari** — Managing Director & Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**T Adhikari** — Managing Director & Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -64,16 +64,6 @@ The filing's own profile: “Shri Sandeep Kumar commenced his career with Life I
 | Senior Divisional Manager In-charge | LIC of India, Nadiad Division and Delhi-III Division | — | — |
 | Secretary (Marketing), Northern Zone and Chief Personnel | LIC of India, Northern Zone / Central Office | — | — |
 | Director & CEO | LIC HFL Financial Services Limited, Mumbai | 2025 | — |
-
-Results of **Power Finance Corporation Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 91,508 | 107,106 | +17.0% a year over 1 year |
-| Financing profit (₹ cr) | 33,573 | 38,603 | +15.0% a year over 1 year |
-| PAT (₹ cr) | 26,461 | 30,514 | +15.3% a year over 1 year |
-| Financing profit margin (%) | 36.7 | 36.0 | -0.7 pts |
-| ROE (%) | 26.2 | 25.9 | -0.3 pts |
 
 ### 5. On the calls
 

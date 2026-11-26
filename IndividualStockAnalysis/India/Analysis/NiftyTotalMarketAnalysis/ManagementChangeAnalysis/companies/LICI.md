@@ -28,6 +28,7 @@
 - In the documents: “Shri Sunil Agrawal, Chief Financial Officer and Key Managerial Personnel, Life Insurance Corporation of India (“the Corporation”) vide letter dated June 24, 2026, has resigned to pursue better prospects.” — [2026-07-28 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_28072026135207_28062026_CRO_CFO_appointment.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LICI_ROID_90414_KMP_Doc.zip) · [2026-06-24 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_24062026200820_REV-Resignation_KMP_CFO.pdf) · +1 more
 - **Why Shatmanyu Shrivastava is leaving, in the filing's words:** “will be superannuating w.e.f. September 30, 2026, after the close of office hours”
 - In the documents: “Ms. Sonija M. S., Chief (I/C), Finance & Accounts as Chief Financial Officer of the Corporation w.e.f. November 26, 2026.” — [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-09-30 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_30092026153311_Final_Disc_Cess_KMP_300926.pdf) · [2026-07-31 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_31072026191205_Earning_call_31072026.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 21 filing(s) read for the seats:* [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163053_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163126_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163150_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163215_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163306_Final_Dis_Int_App_ID_07102026.pdf) · +15 more
 
@@ -58,7 +59,7 @@
 
 **President of India, acting through the Ministry of Finance, Government of India** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 96.5% → 90.0%.
 
-**Sunil Agrawal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sunil Agrawal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

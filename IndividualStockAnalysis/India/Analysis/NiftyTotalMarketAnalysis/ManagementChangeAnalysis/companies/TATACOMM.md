@@ -58,7 +58,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 1,089 | 28.9 | -1059.8 pts |
 | Borrowings (₹ cr) | 11,394 | 12,249 | +855 |
 
-**Kabir Ahmed Shakir** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Kabir Ahmed Shakir** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

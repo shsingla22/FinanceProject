@@ -58,9 +58,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 20.7 | 9.0 | -11.7 pts |
 | Borrowings (₹ cr) | 4.0 | 85.0 | +81 |
 
-**Abhishek Bansal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Abhishek Bansal** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2024 | At the start | At the end | Change |
 |---|---:|---:|---|

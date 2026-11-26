@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Vartika Shukla** — Chairman & Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Vartika Shukla** — Chairman & Managing Director, in the seat since at least FY2023 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2022 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|

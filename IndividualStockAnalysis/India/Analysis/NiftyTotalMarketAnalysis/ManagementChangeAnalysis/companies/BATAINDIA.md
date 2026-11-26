@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Gunjan Shah** — Managing Director [designated as Managing Director & CEO], in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gunjan Shah** — Managing Director [designated as Managing Director & CEO], in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -66,18 +66,6 @@ The filing's own profile: “Mr. Rao brings more than two decades of retail and 
 | Senior Director, Nike Retail, overseeing the France and Benelux markets | Nike | — | — |
 | played a pivotal role in establishing Zara's business in India through its joint venture with the Tata Group; subsequently held senior leadership positions across India, South Asia and China | Inditex | — | — |
 | Country Director for Guess in France | Guess | — | — |
-
-Results of **Healthcare Global Enterprises Ltd.** while they were Chairman there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,009 | 1,395 | +38.3% a year over 1 year |
-| Operating profit (₹ cr) | 122 | 234 | +91.8% a year over 1 year |
-| PAT (₹ cr) | -221 | 39.0 | loss to profit |
-| Operating profit margin (%) | 12.1 | 16.8 | +4.7 pts |
-| ROCE (%) | -1.0 | 5.0 | +6.0 pts |
-| ROE (%) | -31.7 | 4.5 | +36.2 pts |
-| Borrowings (₹ cr) | 977 | 915 | -62 |
 
 ### 5. On the calls
 

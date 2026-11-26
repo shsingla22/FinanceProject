@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Jagdish Bajaj** — Chief Financial Officer (“CFO”) & KMP of the Company, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Jagdish Bajaj** — Chief Financial Officer (“CFO”) & KMP of the Company, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

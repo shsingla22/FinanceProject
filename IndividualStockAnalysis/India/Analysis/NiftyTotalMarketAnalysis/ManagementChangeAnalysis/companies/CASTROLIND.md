@@ -82,18 +82,6 @@ The filing's own profile: “Mr. Saugata Basuray is currently the Wholetime Dire
 | Wholetime Director and Head-B2C Business | Castrol India Limited (CASTROLIND) | — | — |
 | Whole time Director & Interim Chief Executive Officer | Castrol India Limited (CASTROLIND) | — | 2026 |
 
-Results of **Castrol India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2025):
-
-| Dec 2022 → Dec 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 4,774 | 5,722 | +6.2% a year over 3 years |
-| Operating profit (₹ cr) | 1,111 | 1,348 | +6.7% a year over 3 years |
-| PAT (₹ cr) | 815 | 950 | +5.2% a year over 3 years |
-| Operating profit margin (%) | 23.3 | 23.6 | +0.3 pts |
-| ROCE (%) | 61.0 | 60.0 | -1.0 pts |
-| ROE (%) | 43.2 | 50.0 | +6.8 pts |
-| Borrowings (₹ cr) | 50.0 | 63.0 | +13 |
-
 ### 5. On the calls
 
 4 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.

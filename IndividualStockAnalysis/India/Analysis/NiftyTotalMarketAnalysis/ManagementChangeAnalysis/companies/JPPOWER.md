@@ -28,15 +28,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Managing Director & CEO)** | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 |
+| **Managing Director & CEO** | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 |
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | R. K. Porwal (retirement; last day 2026-09-30) | Jigar Dalal (from 2026-11-01) | effective | 2026-09-30 |
 
 - **Why Suren Jain is leaving, in the filing's words:** “Change in Management”
 - In the documents: “Resignation of Shri Suren Jain (DIN: 00011026) as the Director (Managing Director & CEO) of the Company, vide his Resignation Letter dated 22nd May, 2026, with immediate effect.” — [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf)
 - **Why R. K. Porwal is leaving, in the filing's words:** “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.”
-- In the documents: “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf)
+- In the documents: “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.” — [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf) · [2026-07-06 Resignation](https://nsearchives.nseindia.com/corporate/JPPOWER_06072026152143_Disclosure-Resignation_of_Sh_Manoj_Gaur.pdf) · [2026-07-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_91169_KMP_Doc.zip) · [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · +1 more
+*All 8 filing(s) read for the seats:* [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf) · [2026-07-06 Resignation](https://nsearchives.nseindia.com/corporate/JPPOWER_06072026152143_Disclosure-Resignation_of_Sh_Manoj_Gaur.pdf) · [2026-07-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_91169_KMP_Doc.zip) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -66,7 +66,7 @@
 
 **Jaiprakash Associates Limited (JAL)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 24% → 0%.
 
-**Suren Jain** — Director (Managing Director & CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Suren Jain** — Managing Director & CEO, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Whole-time Director (Finance) / Chief Financial Officer (Key Managerial Personnel)** | Sipan Kumar Garg (interim holder replaced; last day 2026-03-19) | Parthajit De (government appointee; from 2026-03-19) | effective | 2026-03-19 |
+| **Whole-time Director (Finance)** | Sipan Kumar Garg (interim holder replaced; last day 2026-03-19) | Parthajit De (government appointee; from 2026-03-19) | effective | 2026-03-19 |
 
-- **Why Sipan Kumar Garg is leaving, in the filing's words:** “It is also informed that consequent to the above, Shri Sipan Kumar Garg (DIN: 10746205), ceases to hold the additional charge of the post of Director (Finance) and Chief Financial Officer of the Company.” Stays on as: Director (Finance), THDC India Limited, and additional charge of Chairman & Managing Director (CMD) of THDC India Limited.
-- In the documents: “It is also informed that consequent to the above, Shri Sipan Kumar Garg (DIN: 10746205), ceases to hold the additional charge of the post of Director (Finance) and Chief Financial Officer of the Company.” — [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_10042026144020_cfo.pdf) · [2026-03-19 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_19032026134709_2.pdf) · [2026-02-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_26022026161113_Disclosure26022026.pdf) · +1 more
+- **Why Sipan Kumar Garg is leaving, in the filing's words:** “It is also informed that consequent to the above, Shri Sipan Kumar Garg (DIN: 10746205), cease s to hold the additional charge of the post of Director (Finance) and Chief Financial Officer of the Company .” Stays on as: Director (Finance), THDC India Limited and holder of additional charge of Chairman & Managing Director (CMD) of THDC India Limited.
+- In the documents: “In compliance with Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you that the Ministry of Power vide order No. 15/23/2024 -H.II (271755) dated March 18, 2026, has appointed Shri Parthajit De (DIN: 11219972 ) as Whole -time Director (Finance) on the Board of the Company for a period of five years with effect from the date of assumption of charge i.e., 19.03.2026, or until further orders, whichever is earlier.” — [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_10042026144020_cfo.pdf) · [2026-03-19 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_19032026134709_2.pdf) · [2026-02-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_26022026161113_Disclosure26022026.pdf) · +1 more
 
 *All 12 filing(s) read for the seats:* [2026-09-18 Updates](https://nsearchives.nseindia.com/corporate/SJVN_18092026121106_2.pdf) · [2026-09-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_10092026175656_1.pdf) · [2026-07-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_30072026172635_bg.pdf) · [2026-07-14 Updates](https://nsearchives.nseindia.com/corporate/SJVN_14072026165159_1__2_.pdf) · [2026-06-12 General Updates](https://nsearchives.nseindia.com/corporate/SJVN_12062026142605_Disclosure12062026.pdf) · [2026-04-24 Updates](https://nsearchives.nseindia.com/corporate/SJVN_24042026171533_reply.pdf) · +6 more
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sipan Kumar Garg** — Whole-time Director (Finance) / Chief Financial Officer (Key Managerial Personnel), date of taking the seat not on file.
+**Sipan Kumar Garg** — Whole-time Director (Finance), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,15 +57,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Parthajit De** — Whole-time Director (Finance) / Chief Financial Officer (Key Managerial Personnel). from: government appointee; experience: almost 30 years of post-qualification experience; qualifications: He is a Fellow Member of the Institute of Cost Accountants of India (ICMAI) with almost 30 years of post-qualification experience. He is also a Chartered Financial Analyst and has completed CGMA from Chartered Institute of Management Accountants, UK..
+**Parthajit De** — Whole-time Director (Finance). from: government appointee; experience: almost 30 years of post -qualification experience; qualifications: He is a Fellow Member of the Institute of Cost Accountants of India (ICMAI) with almost 30 years of post -qualification experience. He is also a Chartered Financial Analyst and has completed CGMA from Chartered Institute of Management Accountants, UK..
 
-The filing's own profile: “Shri Parthajit De, Director (Finance) of SJVN Limited, a "Navratna" Company of the Government of India under the Ministry of Power, has been appointed as Chief Financial Officer (KMP) of the Company with effect from April 10, 2026. Prior to his appointment as Director (Finance), SJVN Ltd., he was in-charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office, NHPC Limited and was a nominee Director on the Board of Loktak Downstream Hydroelectric Corporation Ltd., (a wholly owned Subsidiary of NHPC Ltd.). He is a Fellow Member of the Institute of Cost Accountants of India (ICMAI) with almost 30 years of post-qualification experience.”
+The filing's own profile: “Shri Parthajit De has assumed the charge of Director (Finance) of SJVN Limited, a "Navratna" Company of the Government of India under the Ministry of Power, on 19th March, 2026. Prior to his appointment as Director (Finance), SJVN Ltd., he was in -charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office, NHPC Limited and was a nominee Director on the Board of Loktak Downstream Hydroelectric Corporation Ltd., (a wholly owned Subsidiary of NHPC Ltd.).”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| in-charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office | NHPC Limited (NHPC) | — | 2026 |
-| Trainee Officer (Finance) | NHPC Limited (NHPC) | 1998 | — |
-| nominee Director on the Board | Loktak Downstream Hydroelectric Corporation Ltd. | — | — |
+| in -charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office | NHPC Limited (NHPC) | 1998 | — |
+| nominee Director on the Board | Loktak Downstream Hydroelectric Corporation Ltd. (a wholly owned Subsidiary of NHPC Ltd.) | — | — |
 
 ### 5. On the calls
 

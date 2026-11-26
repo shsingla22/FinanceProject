@@ -60,9 +60,9 @@
 
 **Santosh Kumar Yadav, Anju Devi, Manohar Lal and members of promoter group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 70.79% (2026-03-31); 67.22% after QIP allotment on 2026-06-01 → 65.69% (2026-06-30 and 2026-09-30).
 
-**Sonu Gupta** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sonu Gupta** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|

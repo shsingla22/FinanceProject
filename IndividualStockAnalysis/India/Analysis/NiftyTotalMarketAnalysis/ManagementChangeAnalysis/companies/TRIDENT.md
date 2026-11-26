@@ -47,7 +47,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Samir Prabodhchandra Joshipura** — Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Samir Prabodhchandra Joshipura** — Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -61,7 +61,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 10.5 | 7.9 | -2.6 pts |
 | Borrowings (₹ cr) | 1,442 | 1,829 | +387 |
 
-**Avneesh Barua** — Chief Financial Officer (Key Managerial Personnel & Senior Management Personnel), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Avneesh Barua** — Chief Financial Officer (Key Managerial Personnel & Senior Management Personnel), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -75,7 +75,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 21.7 | 7.9 | -13.8 pts |
 | Borrowings (₹ cr) | 1,597 | 1,829 | +232 |
 
-**Rahul Roongta** — Group Chief Financial Officer (Senior Management Personnel), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Rahul Roongta** — Group Chief Financial Officer (Senior Management Personnel), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -101,18 +101,6 @@ The filing's own profile: “Mr. Amit Gupta is a Qualified Chartered Accountant 
 |---|---|---|---|
 | various leadership roles | Trident Group | — | — |
 | — | other reputed organizations | — | — |
-
-Results of **Vishal Mega Mart Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 8,912 | 10,716 | +20.2% a year over 1 year |
-| Operating profit (₹ cr) | 1,276 | 1,564 | +22.6% a year over 1 year |
-| PAT (₹ cr) | 462 | 632 | +36.8% a year over 1 year |
-| Operating profit margin (%) | 14.3 | 14.6 | +0.3 pts |
-| ROCE (%) | 13.0 | 15.0 | +2.0 pts |
-| ROE (%) | 8.2 | 9.9 | +1.7 pts |
-| Borrowings (₹ cr) | 1,483 | 1,729 | +246 |
 
 ### 5. On the calls
 

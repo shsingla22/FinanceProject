@@ -6,146 +6,161 @@ Two kinds of management change: the **promoters / owners** of the company changi
 
 | | Count |
 |---|---:|
-| Companies with a management change | **349** |
+| Companies with a management change | **343** |
 | …ownership: change of control, completed | 14 |
 | …ownership: change of control, in progress | 2 |
-| …ownership: large stake change, same controller | 70 |
-| …ownership: within the promoter family / group | 27 |
-| …chief executive changes (CEO / MD) | 182 at 161 companies |
-| …CFO changes | 227 at 190 companies |
-| Filings whose text was read | 37,549 |
-| Companies the mechanical read put to the judge | 553 for the seats, 192 for the ownership |
+| …ownership: large stake change, same controller | 65 |
+| …ownership: within the promoter family / group | 29 |
+| …chief executive changes (CEO / MD) | 178 at 157 companies |
+| …CFO changes | 221 at 184 companies |
+| Filings whose text was read | 39,616 |
+| Companies the mechanical read put to the judge | 550 for the seats, 214 for the ownership |
 
 ## List 1 — the promoters / owners changing
 
-113 companies. A change of control first (completed, then in progress), then large stake changes under the same controller, then moves inside the promoter family. Every row was read from the documents and the exchange's own registers.
+110 companies, in three groups. Every row was read from the documents and the exchange's own registers.
 
-| Company | What | Outgoing owner | Incoming owner | Promoter holding (register) | Mode | First shown | Sources |
+### 1a. Change of control
+
+16 companies. A new promoter or controlling owner has arrived, or the old one has left — completed, or agreed and in progress.
+
+| Company | What | Outgoing / selling | Incoming / buying | Promoter holding (register) | Mode | First shown | Sources |
 |---|---|---|---|---|---|---|---|
-| **AADHARHFC** — Aadhar Housing Finance Ltd. | **Change of control — completed.** Blackstone-affiliated promoter BCP Topco VII Pte. Ltd. sold its entire 75.19% stake — 28,20,52,121 shares to BCP Asia II Holdco VII Pte. Ltd. at ₹425 and 4,41,39,236 sha… | BCP Topco VII Pte. Ltd. (with promoter grou… | BCP Asia II Holdco VII Pte. Ltd. (along wit… | 75.32% → 64.51% | share purchase agreement | 2025-07-25 | [2026-02-26 General Updates](https://nsearchives.nseindia.com/corporate/AHFL2021_26022026181610_Reg_30-_Completion_of_transactions.pdf) · [2026-02-26 General Updates](https://nsearchives.nseindia.com/corporate/AHFL2021_26022026182757_SD_Reg_31A_with_annexure.pdf) · +15 more |
-| **ASTERDM** — Aster DM Quality Care Ltd. | **Change of control — completed.** The scheme of amalgamation of Quality Care India Limited into Aster DM Healthcare became effective 1 July 2026. Shares issued under the scheme made BCP Asia II Topco IV… | Azad Moopen Mandayapurath and the existing… | BCP Asia II Topco IV Pte. Limited | 40.39% → 53.79% | scheme of arrangement | 2026-07-01 | [2026-07-01 General Updates](https://nsearchives.nseindia.com/corporate/ASTERDM2_01072026175016_Effective_Date_sign.pdf) |
-| **AWL** — AWL Agri Business Ltd. | **Change of control — completed.** Adani group exited as promoter: Adani Commodities LLP sold its remaining stake (7% then 13%) and the Adani entities applied on 27 November 2025 to be reclassified from p… | Adani Commodities LLP, Adani Enterprises Li… | Lence Pte. Ltd. | 63.94% → 56.94% | other | 2025-11-27 | [2025-11-27 General Updates](https://nsearchives.nseindia.com/corporate/AWL_27112025204444_SE_Intimation_REg_30_Nov_27_2025.pdf) |
-| **CASTROLIND** — Castrol India Ltd. | **Change of control — completed.** BP p.l.c. sold 100% of Castrol Group Holdings Ltd — parent of Castrol Limited, the 51% promoter of Castrol India — to Motion JVCo Limited (Stonepeak Infrastructure Fund… | BP p.l.c. (indirect 100% holding company of… | Motion JVCo Limited, with Stonepeak Motion… | 51.0% → 51.0% | share purchase agreement | 2025-12-24 | [2026-11-09 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_09112026123942_castrol.zip) · [2025-12-24 Agreements](https://nsearchives.nseindia.com/corporate/CASTROLINDIA_24122025150558_Reg_30_and_30A_Disclosure.pdf) · +2 more |
-| **EPL** — EPL Ltd. | **Change of control — completed.** Promoter Epsilon Bidco Pte. Ltd. (Blackstone vehicle, ultimate beneficial owner Sun Yiming) sold its entire 26.37% holding in EPL on 1 September 2026 through on-market/b… | Epsilon Bidco Pte. Ltd. (ultimate beneficia… | Open-market buyers — Bandhan Mutual Fund, P… | 26.4% → 0.0% | block or bulk deal | 2026-09-03 | [2026-10-23 Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23102026184938_SubmissionOfReclassificationApplicationSd.pdf) · [2026-10-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_21102026174411_OutcomeOfBMReclassificationSd.pdf) · +1 more |
-| **IIFLCAPS** — IIFL Capital Services Ltd. | **Change of control — completed.** Fairfax's FIH Mauritius Investments Ltd subscribed to a ₹2,000 crore preferential issue at ₹350/share and completed a 26% open offer plus secondary purchases from the ex… | Nirmal Bhanwarlal Jain and Venkataraman Raj… | FIH Mauritius Investments Ltd (Acquirer), w… | 30.98% → 25.8% | preferential issue | 2026-05-07 | [2026-11-19 Amendment(s)](https://nsearchives.nseindia.in/corporate/IIFLSEC_19112026005808_SEintimation.pdf) · [2026-11-19 General Updates](https://nsearchives.nseindia.in/corporate/IIFLSEC_19112026210454_SEIntimationsigned.pdf) · +18 more |
-| **INDIASHLTR** — India Shelter Finance Corporation… | **Change of control — completed.** Founder promoter Anil Mehta (1.44%) and 15 promoter-group individuals/entities were reclassified out of the 'Promoter and Promoter Group' into the 'Public' category, app… | Mr. Anil Mehta (promoter); promoter group:… | WestBridge Crossover Fund, LLC and Aravali… | 47.71% → 45.91% | other | 2026-01-30 | [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_25062026184552_Intimation_of_Shareholder_Approval.pdf) · [2026-05-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_25052026194352_Intimation-Postal_Ballot_Notice_signed.pdf) · +5 more |
-| **JPPOWER** — Jaiprakash Power Ventures Ltd. | **Change of control — completed.** Promoter Jaiprakash Associates Ltd went through insolvency; NCLT approved Adani Enterprises' resolution plan. Under it JAL signed a share sale agreement on 20-05-2026 tr… | Jaiprakash Associates Limited (JAL) | Adani Power Limited (APL) | 24.0% → 24.0% | insolvency resolution | 2026-03-17 | [2026-05-23 General Updates](https://nsearchives.nseindia.com/corporate/JPPOWER_23052026131944_JPVL_Intimation_under_Reg_30A_23052026_Signed.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf) |
-| **JSWDULUX** — JSW Dulux Ltd. | **Change of control — completed.** JSW Paints Limited completed its acquisition of 60.76% of Akzo Nobel India under a share purchase agreement on 10 December 2025, after an open offer, taking 61.2%. The A… | Imperial Chemical Industries Limited and Ak… | JSW Paints Limited | 69.76% → 61.2% | share purchase agreement | 2025-12-10 | [2026-07-14 News Verification](https://nsearchives.nseindia.com/corporate/AKZOINDIA_14072026101326_JSWDuluxNewsClarification_14Jul26_NSE.pdf) · [2025-12-12 General Updates](https://nsearchives.nseindia.com/corporate/AKZOINDIA_12122025182231_AkzoIndiaRegulation7_2_Disclosure_ICI_12Dec2025.pdf) · +2 more |
-| **MANAPPURAM** — Manappuram Finance Ltd. | **Change of control — completed.** Bain Capital affiliates BC Asia Investments XXV and XIV subscribed to a ~Rs 4,385 crore preferential issue of shares and warrants at Rs 236, and after a mandatory open o… | V.P. Nandakumar, Sushama Nandakumar (Existi… | BC Asia Investments XXV Limited and BC Asia… | 35.25% → 41.66% | preferential issue | 2025-03-20 | [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · +9 more |
-| **RBA** — Restaurant Brands Asia Ltd. | **Change of control — completed.** Inspira Global (Aayush and Madhusudan Agrawal), through Lenexis Foodworks and affiliates, bought the entire 11.26% held by promoter QSR Asia Pte. Ltd. (Everstone) at ₹70… | QSR Asia Pte. Ltd. (majority owned by Evers… | Lenexis Foodworks Private Limited, Aayush A… | 11.27% → 41.73% | share purchase agreement | 2026-01-20 | [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · +20 more |
-| **RBLBANK** — RBL Bank Ltd. | **Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to a preferential issue of 929,134,820 new shares at INR 280, allotted 18 June 2026, giving it 60% of RBL Bank. Its mandatory ope… | Public shareholders (the Bank had no promot… | Emirates NBD Bank (P.J.S.C.) | 0.0% → 59.88% | preferential issue | 2025-10-18 | [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · +17 more |
-| **SAMMAANCAP** — Sammaan Capital Ltd. | **Change of control — completed.** Abu Dhabi's International Holding Company PJSC, through Avenir Investment RSC Ltd, subscribed to a Rs 8,850 crore preferential issue of shares and warrants and completed… | None — the Company had no promoter; erstwhi… | Avenir Investment RSC Ltd, owned and contro… | 0.0% → 33.32% | preferential issue | 2025-10-02 | [2026-08-18 Press Release](https://nsearchives.nseindia.com/corporate/IHFL_18082026180740_SCL_Press_Release_18August2026.pdf) · [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/IHFL_13082026174632_SCL_Outcome_BoardMeeting_13Aug2026.pdf) · +21 more |
-| **VIPIND** — V.I.P. Industries Ltd. | **Change of control — completed.** The Piramal-family promoter entities sold down ~26% of VIP Industries through open-market/block transactions in late December 2025, and Multiples Private Equity Fund IV… | Piramal Vibhuti Investment Ltd, DGP Securit… | Multiples Private Equity Fund IV and Multip… | 49.73% → 42.35% | block or bulk deal | 2025-12-26 | [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_15052026201134_VIP_-_Presentation_Outcome_Final.pdf) |
-| **APLAPOLLO** — APL Apollo Tubes Ltd. | **Change of control — in progress.** On 23 November 2026 promoter-group entity S Gupta Holding Pvt Ltd signed an SPA to sell 7,38,60,062 shares (26.38% fully diluted) to Tata Steel Limited at INR 2,100 per… | S Gupta Holding Private Limited (and the ot… | Tata Steel Limited | 28.3% → 28.18% | share purchase agreement | 2026-11-23 | [2026-11-23 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/APLAPOLLO_23112026075045_SE_Disclosure.pdf) · [2026-11-23 Agreements](https://nsearchives.nseindia.in/corporate/APLAPOLLO_23112026075831_SE_Disclosure.pdf) · +3 more |
-| **SCI** — Shipping Corporation of India Ltd. | **Change of control — in progress.** SCI remains selected by the Government of India for Strategic Disinvestment; auditors note the disinvestment process and related procedural aspects are still in progress… | Government of India (President of India / M… | — | 63.75% → 63.75% | other | 2026-02-06 | [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · +5 more |
-| **ADANIENSOL** — Adani Energy Solutions Ltd. | **Large stake change, same controller.** Adani promoter-group entities bought roughly 5% of the capital in open-market acquisitions. Promoter-and-group holding rose from 71.19% to about 74.71% and stood at 73.3… | — | Gelt Bery Trade and Investment Ltd, Emergin… | 71.19% → 73.39% | block or bulk deal | 2026-03-27 | exchange registers |
-| **ADANIPORTS** — Adani Ports and Special Economic… | **Large stake change, same controller.** Promoter-group entities raised their stake via open-market purchases: Carmichael Rail and Port Singapore Holding bought 6.24% and Emerging Market Investment DMCC 0.67% (… | — | Carmichael Rail and Port Singapore HOlding… | 65.89% → 66.03% | block or bulk deal | 2025-12-29 | exchange registers |
-| **AFFLE** — Affle 3i Ltd. | **Large stake change, same controller.** Promoter Affle Holdings Pte. Ltd. raised its stake by about 5.08% of capital through a preferential allotment and conversion of warrants into equity (17,04,324 shares on… | — | Affle Holdings Pte. Ltd (existing promoter)… | 54.97% → 55.82% | preferential issue | 2026-06-24 | exchange registers |
-| **AJANTPHARM** — Ajanta Pharmaceuticals Ltd. | **Large stake change, same controller.** A promoter, Ravi Agrawal as Trustee of Ravi Agrawal Trust, sold 2.76% of the capital in the open market, leaving 10.24%. Promoter-and-group holding fell from 66.25% to 6… | Ravi Agrawal, Trustee Ravi Agrawal Trust | — | 66.25% → 63.47% | block or bulk deal | 2026-06-12 | exchange registers |
-| **ALIVUS** — Alivus Life Sciences Ltd. | **Large stake change, same controller.** Promoter Nirma Limited sold 2.99% of Alivus Life Sciences in the open market (largely via block/bulk deals) on 2026-11-23, cutting its stake to 71.74%. Nirma remains the… | Nirma Limited | Bandhan Mutual Fund; Param Capital | 74.91% → 74.85% | block or bulk deal | 2026-11-23 | exchange registers |
-| **ALKEM** — Alkem Laboratories Ltd. | **Large stake change, same controller.** Promoter-group entities (Samprada & Nanhamati Singh Family Trust and Jayanti Sinha) sold about 2% of the capital in block deals, taking promoter-and-group holding from 5… | Samprada & Nanhamati Singh Family Trust; Ja… | ICICI Prudential Mutual Fund; HDFC Mutual F… | 51.2% → 49.7% | block or bulk deal | — | [2026-08-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ALKEM_14082026134526_AlkemOutcomeofBM14Aug2026.pdf) |
-| **ANTHEM** — Anthem Biosciences Ltd. | **Large stake change, same controller.** Promoter Aruna Ganesh sold 3.05% of Anthem Biosciences' capital in the open market, exiting to nil holding. Promoter-and-group holding fell from 74.68% to 71.42% between… | Aruna Ganesh | — | 74.69% → 71.4% | block or bulk deal | 2026-06-22 | exchange registers |
-| **ASKAUTOLTD** — ASK Automotive Ltd. | **Large stake change, same controller.** Promoter Kuldip Singh Rathee sold 4% of ASK Automotive's capital in the open market, cutting his holding to 30.18%. Promoter-and-group holding fell from 78.95% to 74.95%… | Kuldip Singh Rathee | — | 78.95% → 74.95% | block or bulk deal | 2025-12-04 | exchange registers |
-| **AVALON** — Avalon Technologies Ltd. | **Large stake change, same controller.** Promoter Bhaskar Srinivasan and his two family trusts sold about 6% of Avalon via block deals (settled after 30 September 2026), cutting their combined holding from 15.4… | Mr. Bhaskar Srinivasan, BBS Family Trust, K… | Bandhan AMC Limited (Investment Manager of… | 44.46% → 40.35% | block or bulk deal | 2026-10-15 | [2026-11-17 Updates](https://nsearchives.nseindia.in/corporate/AVALON2022_17112026200602_SEApplicatoin.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/AVALON2022_12112026223540_Q2BM_Outcome_Final.pdf) · +3 more |
-| **AXISCADES** — AXISCADES Technologies Ltd. | **Large stake change, same controller.** Promoter holding company Jupiter Capital Private Limited sold large blocks of AXISCADES shares — 2.35% disclosed 2026-07-08 (leaving 50.15%) and 10.86% disclosed 2026-10… | Jupiter Capital Private Limited | — | 58.08% → 44.82% | block or bulk deal | 2026-07-08 | exchange registers |
-| **BANDHANBNK** — Bandhan Bank Ltd. | **Large stake change, same controller.** Promoter Bandhan Financial Holdings Limited sold 2.06% of the Bank in the open market on 2026-05-15, cutting its holding to 37.93%; promoter-and-group holding drifted fr… | Bandhan Financial Holdings Limited | — | 40.29% → 37.0% | block or bulk deal | 2026-05-15 | exchange registers |
-| **BELRISE** — Belrise Industries Ltd. | **Large stake change, same controller.** Sumedh Tools Private Limited, a promoter group entity, sold 5,83,43,040 shares (6.56% of capital) through a block deal on 23 December 2025, cutting its stake to nil. The… | Sumedh Tools Private Limited (promoter grou… | SBI Mutual Fund under its Various Schemes (… | 73.01% → 61.15% | block or bulk deal | 2025-12-23 | [2025-12-23 General Updates](https://nsearchives.nseindia.com/corporate/BELRISE_23122025135903_Belrise_Intimation_of_sale_of_shares_by_promoter_group_23122025.pdf) |
-| **BHEL** — Bharat Heavy Electricals Ltd. | **Large stake change, same controller.** The Government of India, BHEL's promoter, sold 5% of the capital, cutting promoter-and-group holding from 63.17% to 58.17% by the 2026-03-31 quarter. The President of In… | The President of India, Ministry of Heavy I… | — | 63.17% → 58.17% | other | 2026-02-13 | exchange registers |
-| **BLACKBUCK** — Blackbuck Ltd. | **Large stake change, same controller.** Promoter founders Rajesh Kumar Naidu Yabaji and Ramasubramanian Balasubramaniam sold about 1.55% of capital in open-market sales disclosed 2025-12-18; aggregate promoter… | Rajesh Kumar Naidu Yabaji and Ramasubramani… | — | 27.19% → 24.99% | block or bulk deal | 2025-12-18 | exchange registers |
-| **BLUEJET** — Blue Jet Healthcare Ltd. | **Large stake change, same controller.** Exchange shareholding register shows promoter-and-group holding flat at 79.81% through 2026-06-30, then 73.15% at an interim 2026-07-09 pattern and unchanged at 2026-09-… | Promoter and promoter group (not named in t… | — | 79.81% → 73.15% | — | 2026-07-09 | exchange registers |
-| **CAPILLARY** — Capillary Technologies India Ltd. | **Large stake change, same controller.** Promoter Capillary Technologies International Pte Ltd sold about 4.14% of capital (disclosed 2026-08-17), cutting its holding to 44.78%. Total promoter-and-group holding… | Capillary Technologies International Pte ltd | — | 52.16% → 47.23% | other | 2026-08-17 | exchange registers |
-| **CENTRALBK** — Central Bank of India | **Large stake change, same controller.** The President of India, through the Department of Financial Services, Ministry of Finance, sold about 8.08% of the bank's capital, cutting promoter holding from 89.27% t… | President of India, acting through the Depa… | Life Insurance Corporation of India (non-pr… | 89.27% → 81.19% | other | 2026-06-01 | exchange registers |
-| **COALINDIA** — Coal India Ltd. | **Large stake change, same controller.** The Government of India, Coal India's promoter, sold 2% of equity (123,279,566 shares) through an offer for sale on the stock exchanges on 27-29 May 2026, cutting its ho… | President of India, acting through the Mini… | — | 63.13% → 61.13% | offer for sale | 2026-05-26 | [2026-06-01 General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_01062026174456_Regulation_29.pdf) |
-| **COCHINSHIP** — Cochin Shipyard Ltd. | **Large stake change, same controller.** The Government of India, through the President of India (Ministry of Ports, Shipping and Waterways), sold 4.58% of Cochin Shipyard's capital, cutting its promoter holdin… | The President of India, Ministry of Ports,… | — | 67.91% → 63.33% | other | 2026-07-10 | exchange registers |
-| **CRAFTSMAN** — Craftsman Automation Ltd. | **Large stake change, same controller.** Promoter, Chairman and Managing Director Srinivasan Ravi sold 5,25,000 shares (2.01% of capital) in the open market on 23 June 2026, cutting his holding from 40.15% to 3… | Mr. Srinivasan Ravi | PI Opportunities AIF V LLP (bulk-deal buyer… | 48.7% → 42.41% | block or bulk deal | 2026-06-25 | [2026-06-25 Updates](https://nsearchives.nseindia.com/corporate/CRAFTSMAN_25062026103552_SEintimationunderRegulation7_2_ofPITRegulationsigned.pdf) |
-| **DOMS** — DOMS Industries Ltd. | **Large stake change, same controller.** Promoter F.I.L.A. Fabbrica Italiana Lapis Ed Affini S.p.A. sold 7% of DOMS' capital on 2026-06-22, cutting its holding to 19.01%. Total promoter-group holding fell from… | F.I.L.A. Fabbrica Italiana Lapis Ed Affini… | — | 70.39% → 63.39% | other | 2026-06-22 | exchange registers |
-| **EDELWEISS** — Edelweiss Financial Services Ltd. | **Large stake change, same controller.** Co-founder and promoter Venkatachalam Ramaswamy resigned as Non-Executive Director and Vice Chairman and, with Aparna T. C., asked to be reclassified from promoter to pu… | Venkatachalam Ramaswamy (DIN: 00008509) and… | Rashesh Chandrakant Shah | 32.7% → 31.54% | block or bulk deal | 2026-11-12 | [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/EDELWEISS_12112026011239_Resignation_-_Exchange_Intimation.pdf) · [2026-11-12 Updates](https://nsearchives.nseindia.in/corporate/EDELWEISS_12112026011730_Resignation_-_Exchange_Intimation.pdf) |
-| **ELECTCAST** — Electrosteel Castings Ltd. | **Large stake change, same controller.** Existing promoter entities raised their stake from 46.21% to 54.53% by buying 8.32% in open-market/block purchases — Electrosteel Thermal Coal Ltd bought 3.32% (March 20… | India Opportunities Growth Fund Ltd - Pinew… | Electrosteel Thermal Coal Limited and Wilco… | 46.21% → 54.53% | block or bulk deal | 2026-03-23 | exchange registers |
-| **GICRE** — General Insurance Corporation of… | **Large stake change, same controller.** The President of India, acting through the Ministry of Finance, sold 5% of GIC Re's capital, cutting promoter holding from 82.4% to 77.4%. The Government of India remain… | President of India, acting through the Mini… | — | 82.4% → 77.4% | other | 2026-06-19 | exchange registers |
-| **GLAND** — Gland Pharma Ltd. | **Large stake change, same controller.** Promoter Fosun Pharma Industrial Pte. Ltd. sold 6% of Gland Pharma's capital in the open market in September 2026, cutting its holding to 45.76%; promoter-and-group hold… | Fosun Pharma Industrial Pte. Ltd. | — | 51.83% → 45.75% | block or bulk deal | 2026-09-22 | exchange registers |
-| **GODREJPROP** — Godrej Properties Ltd. | **Large stake change, same controller.** Promoter and group holding rose from 47.05% to 51.66% over the window, with promoter entity Anamudi Real Estates LLP buying 0.31% in the open market (to 3.36%) and no pr… | — | Anamudi Real Estates LLP (existing promoter) | 47.05% → 51.66% | other | 2026-03-09 | exchange registers |
-| **HINDCOPPER** — Hindustan Copper Ltd. | **Large stake change, same controller.** Promoter-and-group holding (Government of India) stayed 66.14% through 2026-06-30, then fell to 60.14% at 2026-09-30, a 6 percentage-point drop. No filing explains it; R… | Promoter and promoter group (Government of… | — | 66.14% → 60.14% | — | 2026-09-30 | exchange registers |
-| **HOMEFIRST** — Home First Finance Company India… | **Large stake change, same controller.** Promoter private-equity sponsors True North Fund V LLP and Aether (Mauritius) Ltd sold 5.34% of capital in open-market sales disclosed 2026-03-04, cutting promoter-and-g… | True North Fund V LLP (sold 2.71%, holds 4.… | FMR LLC (9.5% after), Kotak Mahindra Mutual… | 12.39% → 6.97% | block or bulk deal | 2026-03-04 | exchange registers |
-| **ICIL** — Indo Count Industries Ltd. | **Large stake change, same controller.** A non-promoter entity, Lhochhar Trust (through its trustee), disclosed acquiring 31.31% of Indo Count's capital on 2026-10-28. Promoter-and-group holding stayed flat at… | — | Lhochhar Trust (through its trustee) | 58.74% → 58.74% | other | 2026-10-28 | exchange registers |
-| **INOXGREEN** — Inox Green Energy Services Ltd. | **Large stake change, same controller.** No new owner. Promoter entity Inox Leasing and Finance Limited acquired 5.31% of capital (disclosed 30 Jan 2026), holding 60.13% after, and promoter-group holding rose f… | — | Inox Leasing and Finance Limited | 54.82% → 53.7% | other | 2026-01-30 | exchange registers |
-| **IOB** — Indian Overseas Bank | **Large stake change, same controller.** The President of India, through the Department of Financial Services, Ministry of Finance, disclosed sale of a 2.17% block in Indian Overseas Bank, taking promoter-and-g… | President of India, acting through the Depa… | — | 94.61% → 92.44% | other | 2025-12-20 | exchange registers |
-| **JAMNAAUTO** — Jamna Auto Industries Ltd. | **Large stake change, same controller.** Two promoter family members, Ranadeep Singh Jauhar and Pradeep Singh Jauhar, each sold 2.49% of capital on 2026-09-25 (4.98% combined). Promoter-group holding fell from… | Mr. Ranadeep Singh Jauhar and Mr. Pradeep S… | — | 49.94% → 44.81% | other | 2026-09-25 | exchange registers |
-| **JIOFIN** — Jio Financial Services Ltd. | **Large stake change, same controller.** Existing promoter-group entities Jamnagar Utilities & Power and Sikka Ports & Terminals acquired shares, including via preferential allotment, lifting promoter-and-group… | — | Jamnagar Utilities & Power Private Limited… | 47.12% → 50.98% | preferential issue | 2026-04-23 | exchange registers |
-| **JSFB** — Jana Small Finance Bank Ltd. | **Large stake change, same controller.** Jana Holdings Limited, a promoter of Jana Small Finance Bank, signed a Share Purchase Agreement on 18 May 2026 to sell 5,160,903 shares (~4.9% of paid-up capital) to TVS… | Jana Holdings Limited | TVS Motor Company Limited | 21.87% → 16.87% | share purchase agreement | 2026-05-18 | [2026-05-18 General Updates](https://nsearchives.nseindia.com/corporate/sanath_rao_janabank_com_18052026122233_Reg30.pdf) |
-| **JSWINFRA** — JSW Infrastructure Ltd. | **Large stake change, same controller.** JSW Infrastructure raised capital through a qualified institutions placement combined with an offer for sale by Sajjan Jindal Family Trust, the promoter selling sharehol… | Sajjan Jindal Family Trust (Sajjan Jindal a… | Qualified institutional buyers under the QI… | 83.62% → 73.93% | offer for sale | 2026-06-22 | [2026-09-10 Acquisition](https://nsearchives.nseindia.com/corporate/JSWINFRA_10092026190128_Covering_Letter.pdf) · [2026-06-22 Committee Meeting Updates](https://nsearchives.nseindia.com/corporate/JSWINFRA_22062026191206_Intimation_SE_Approval_PD.pdf) · +1 more |
-| **KFINTECH** — Kfin Technologies Ltd. | **Large stake change, same controller.** General Atlantic Singapore Fund Pte Ltd, the private-equity promoter, sold 8.76% of KFin Technologies in one transaction on 2026-08-25, cutting promoter-group holding fr… | General Atlantic Singapore Fund Pte Ltd (pr… | Public shareholders; Mirae Asset Mutual Fun… | 22.89% → 14.06% | block or bulk deal | 2026-08-25 | [2026-03-30 Updates](https://nsearchives.nseindia.com/corporate/KFINTECHNSE_30032026182445_Intimation.pdf) · [2026-03-19 Updates](https://nsearchives.nseindia.com/corporate/KFINTECHNSE_19032026182446_Intimation.pdf) · +5 more |
-| **KRN** — KRN HEAT EXCHANGER AND REFRIGERAT… | **Large stake change, same controller.** Promoters (Santosh Kumar Yadav, Anju Devi, Manohar Lal and promoter group) gave prior intimation of intent to sell up to 10,00,000 shares for personal and financial reas… | Santosh Kumar Yadav, Anju Devi, Manohar Lal… | Qualified Institutional Buyers in the QIP;… | 70.79% → 65.69% | other | 2026-05-26 | [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026164352_outcomefinancials.pdf) · [2026-10-29 Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026174522_outcomefinancials.pdf) · +8 more |
-| **LICI** — Life Insurance Corporation of Ind… | **Large stake change, same controller.** The President of India, acting through the Ministry of Finance (promoter), sold 6.5% of Life Insurance Corporation of India's capital, cutting the promoter-and-group hol… | President of India, acting through the Mini… | — | 96.5% → 90.0% | other | 2026-08-13 | exchange registers |
-| **LLOYDSENGG** — Lloyds Engineering Works Ltd. | **Large stake change, same controller.** Promoter entities (Aeon Trading LLP, Lloyds Metals & Minerals Trading LLP, Lloyds Enterprises Limited) sold about 7.15% of capital in the open market, largely picked up… | Aeon Trading LLP, Lloyds Metals & Minerals… | Thriveni Earthmovers Private Limited | 49.26% → 40.0% | block or bulk deal | 2026-02-12 | exchange registers |
-| **LLOYDSME** — Lloyds Metals And Energy Ltd. | **Large stake change, same controller.** Existing promoters Lloyds Enterprises Ltd and Sky United LLP each acquired 1.38% of capital through a preferential allotment (2.76% in total), lifting promoter-group hol… | — | Llyods Enterprises Ltd and Sky United LLP (… | 62.82% → 61.61% | preferential issue | 2026-01-05 | exchange registers |
-| **LOTUSDEV** — SRI LOTUS DEVELOPERS AND REALTY L… | **Large stake change, same controller.** Promoter Anand Kamalnayan Pandit sold shares in the open market purely to meet minimum public shareholding rules — up to 2% intimated in September 2026, taking promoter… | Mr. Anand Kamalnayan Pandit (promoter) | Public market buyers; SMALLCAP World Fund,… | 81.86% → 79.87% | block or bulk deal | 2026-09-08 | [2026-09-08 General Updates](https://nsearchives.nseindia.com/corporate/SRILOTUS_08092026152953_Intimation_MPS_Final_Sd.pdf) |
-| **MAHABANK** — Bank of Maharashtra | **Large stake change, same controller.** The President of India, acting through the Department of Financial Services, Ministry of Finance, sold 6% of Bank of Maharashtra's capital, cutting the government promot… | President Of India, acting through the Depa… | — | 79.6% → 73.6% | other | 2025-12-18 | exchange registers |
-| **MAHSEAMLES** — Maharashtra Seamless Ltd. | **Large stake change, same controller.** Promoter group entities of the D.P. Jindal Group (Haryana Capfin, Global Jindal Fin-Invest, Odd & Even Traders & Finance) bought about 3.01% of capital in the open marke… | — | Haryana Capfin Ltd, Global Jindal Fin-Inves… | 69.05% → 70.3% | block or bulk deal | 2026-02-26 | [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07082026171854_MSLBMOUTCOME.pdf) · +1 more |
-| **MPHASIS** — MphasiS Ltd. | **Large stake change, same controller.** The promoter block held by BCP Topco IX Pte. Ltd. (Blackstone) was sold down by about 9.5% of capital around 18 December 2025, taking promoter-and-group holding from 40.… | BCP Topco IX Pte. Ltd. (shares held through… | Kotak Mahindra Mutual Fund and other public… | 40.1% → 30.53% | block or bulk deal | 2025-12-18 | exchange registers |
-| **MTARTECH** — MTAR Technologies Ltd. | **Large stake change, same controller.** Across the window many MTAR promoter-family members sold small open-market tranches (3.49% sold, 1.94% bought per Reg 29), plus one 0.32% inter-se transfer. Promoter-and… | MTAR promoter group members, including K Va… | — | 31.41% → 29.23% | block or bulk deal | 2026-02-25 | exchange registers |
-| **NETWEB** — Netweb Technologies India Ltd. | **Large stake change, same controller.** In February 2026 the Lodha promoter family sold about 3.65% of the capital in the open market, taking promoter-group holding from 71.0% to 66.98%. The same family contin… | Sanjay Lodha (sold 1.58%), Navin Lodha, Nir… | Open market buyers | 71.0% → 64.16% | block or bulk deal | 2026-02-12 | [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/NETWEB1234_02072026201622_Intimation_Postal_Ballot_02072026.pdf) |
-| **NHPC** — NHPC Ltd. | **Large stake change, same controller.** The President of India (Ministry of Power), NHPC's promoter, sold about 6.01% of the capital in June 2026. Promoter-and-group holding fell from 67.4% to 61.39%. The Gove… | President of India, Ministry of Power, Gove… | Public investors; Life Insurance Corporatio… | 67.4% → 61.39% | other | 2026-06-10 | exchange registers |
-| **NLCINDIA** — NLC India Ltd. | **Large stake change, same controller.** The Government of India (President of India, Ministry of Coal), the promoter, sold 2.73% of NLC India's capital, cutting its holding from 72.2% to 69.47%. The government… | President of India, Ministry of Coal, Gover… | — | 72.2% → 69.47% | other | 2026-06-18 | exchange registers |
-| **PCJEWELLER** — PC Jeweller Ltd. | **Large stake change, same controller.** Promoter group (Balram Garg, his HUF, Pooja Garg, New Track Garments) subscribed to preferential allotments and converted warrants through 2026, buying about 13% of capi… | — | Balram Garg, Balram Garg (HUF), Pooja Garg,… | 37.6% → 39.1% | preferential issue | 2026-02-04 | exchange registers |
-| **PREMIERENE** — Premier Energies Ltd. | **Large stake change, same controller.** Promoter Surenderpal Singh Saluja sold 5.33% of the capital in the open market, disclosed on 2026-05-29. Promoter-and-group holding fell from 63.94% to 58.49%. No buyer… | Surenderpal Singh Saluja | — | 63.94% → 58.49% | block or bulk deal | 2026-05-29 | exchange registers |
-| **PRIVISCL** — Privi Speciality Chemicals Ltd. | **Large stake change, same controller.** Promoter entity Vivira Investment & Trading Private Limited sold a 9.29% block in the open market in early January 2026, cutting its holding to 29.74% and total promoter… | Vivira Investment & Trading Private Limited… | SBI Mutual Fund under its Various Schemes,… | 69.89% → 60.6% | block or bulk deal | 2026-01-02 | exchange registers |
-| **PVRINOX** — PVR INOX Ltd. | **Large stake change, same controller.** Promoter group members (Bijli family and Jain/GFL family) disclosed small sales of about 0.51% of capital in late September and early October 2026. Promoter-and-group ho… | Ajay Kumar Bijli, Sanjeev Kumar, Selena Bij… | — | 27.53% → 27.6% | other | 2026-09-30 | exchange registers |
-| **RELIGARE** — Religare Enterprises Ltd. | **Large stake change, same controller.** Control had already passed to the Burman Group in February 2025, before this window. During the window the Burman promoters only added to their stake — converting prefer… | — | Burman Group / Burman family (existing prom… | 25.83% → 31.26% | preferential issue | 2025-12-05 | [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026180805_RELUPDATE30062026.pdf) |
-| **RKFORGE** — Ramkrishna Forgings Ltd. | **Large stake change, same controller.** Promoter group company Maa Chandi Financial Advisory Services (formerly Ramkrishna Rail and Infrastructure), holding 3.57%, was reclassified from 'Promoter and Promoter… | MAA Chandi Financial Advisory Services Priv… | — | 43.13% → 40.93% | other | 2025-11-11 | [2026-09-21 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_21092026170859_ReclassificationReg30n31ADisc21Sep2026.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RKFORGE_20082026181348_Postalballotintimation200826signed.pdf) · +1 more |
-| **RUBICON** — Rubicon Research Ltd. | **Large stake change, same controller.** General Atlantic Singapore RR Pte. Ltd, a promoter-classified financial sponsor, sold 8.45% of Rubicon Research's capital on 2026-09-01, cutting its holding to 27.34%. T… | General Atlantic Singapore RR Pte. Ltd | — | 59.99% → 51.25% | other | 2026-09-01 | exchange registers |
-| **SAGILITY** — Sagility Ltd. | **Large stake change, same controller.** Promoter Sagility B.V. sold down in the open market. Promoter-group holding fell from 67.38% (Sep 2025) to 50.95% (Dec 2025), and a further 11.96% sale on 2026-11-19 lef… | Sagility B.V. (with Sagility Holdings B.V.) | — | 67.38% → 50.95% | block or bulk deal | 2026-11-19 | exchange registers |
-| **SHAILY** — Shaily Engineering Plastics Ltd. | **Large stake change, same controller.** A promoter-group member, Vanita L Nagda, sold 2.27% of the capital in the open market on 2026-06-24 and now holds nil. Promoter-and-group holding fell from 43.72% to 41.… | Vanita L Nagda (promoter) | — | 43.72% → 41.09% | block or bulk deal | 2026-06-24 | exchange registers |
-| **SIEMENS** — Siemens Ltd. | **Large stake change, same controller.** No change of control. Siemens Energy Finance B.V. transferred 4.07% of capital to fellow promoter Siemens International Holding B.V. by inter-se transfer (Dec 2025), lea… | Siemens Energy Finance B.V. (and Siemens En… | Siemens International Holding B.V. | 75.0% → 75.0% | other | 2025-12-22 | [2026-09-07 Updates](https://nsearchives.nseindia.com/corporate/SiemensRaj_07092026214059_Disclosure_Receipt_of_request_letter.pdf) |
-| **SPARC** — Sun Pharma Advanced Research Comp… | **Large stake change, same controller.** Promoter entity Shanghvi Finance Private Limited was allotted 3,85,10,000 convertible warrants at Rs.155.80 each on a preferential basis on May 19, 2026, holding 42.28%… | Certain promoter group individuals (names n… | Shanghvi Finance Private Limited | 65.67% → 65.67% | preferential issue | 2026-05-22 | [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SPARC_10082026133324_BMOutcomesigned.pdf) · [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SPARC_10082026135455_BMOutcomesigned.pdf) |
-| **TENNIND** — Tenneco Clean Air India Ltd. | **Large stake change, same controller.** Promoter entities Tenneco Mauritius Holdings Ltd and Tenneco (Mauritius) Ltd sold about 15% of capital in open-market/block sales disclosed 2026-08-18. Promoter-group ho… | Tenneco Mauritius Holdings Limited (TMHL) a… | SBI Mutual Fund under its Various Schemes | 74.79% → 59.79% | block or bulk deal | 2026-08-18 | exchange registers |
-| **THYROCARE** — Thyrocare Technologies Ltd. | **Large stake change, same controller.** The promoter group (API Holdings / Docon Technologies) sold down roughly 20% of Thyrocare in two large blocks, reportedly to repay group debt, falling from 71.06% to 51.… | Docon Technologies Private Limited / API Ho… | Public shareholders, including HSBC Mutual… | 71.06% → 51.02% | block or bulk deal | 2025-12-09 | exchange registers |
-| **VEDL** — Vedanta Ltd. | **Large stake change, same controller.** Promoter entity Twin Star Holdings Ltd sold 65,072,990 shares in the June 2026 quarter, cutting its stake from 40.02% to 38.35%; promoter group fell 56.38% to 54.72% (An… | Twin Star Holdings Ltd (part of the Promote… | — | 56.38% → 54.72% | — | 2026-06-30 | exchange registers |
-| **VIYASH** — Viyash Scientific Ltd. | **Large stake change, same controller.** Two promoter entities, CA Harbor Investments and CA Hull Investments, sold 5.67% and 5.16% of capital in open-market sales disclosed on 2026-09-01. Promoter-group holdin… | CA Harbor Investments (CA Harbor) and CA Hu… | — | 52.33% → 49.24% | block or bulk deal | 2026-09-01 | exchange registers |
-| **VMM** — Vishal Mega Mart Ltd. | **Large stake change, same controller.** Promoter entity Samayat Services LLP sold 13.97% of VMM's capital on 2026-03-02, cutting promoter-group holding from 54.09% to 40.12%. Institutions such as HDFC Mutual F… | Samayat Services LLP (promoter) | — | 54.11% → 40.02% | other | 2026-03-02 | exchange registers |
-| **WEBELSOLAR** — Websol Energy System Ltd. | **Large stake change, same controller.** Promoter entity Websol Green Projects Private Ltd acquired 2.79% of the capital (disclosed 26 May 2026), taking its holding to 7.74% and total promoter-and-group holding… | — | Websol Green Projects Private Ltd (promoter) | 27.71% → 29.72% | other | 2026-05-26 | [2026-08-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/WEBELSOLAR_10082026184421_BM_Outcome.pdf) |
-| **WELCORP** — Welspun Corp Ltd. | **Large stake change, same controller.** Promoter group entity Welspun Investments and Commercials Limited sold 2.27% of Welspun Corp's capital, leaving it with 0.29%. Promoter-and-group holding fell from 49.73… | Welspun Investments and Commercials Limited | — | 49.77% → 47.46% | other | 2026-09-01 | exchange registers |
-| **WELSPUNLIV** — Welspun Living Ltd. | **Large stake change, same controller.** Welspun Group Master Trust / Mr. Balkrishan Goenka as its trustee, part of the promoter group, sold about 3.47% of capital in two tranches (0.88% in June 2026, 2.59% in… | Welspun Group Master Trust / Mr. Balkrishan… | — | 66.24% → 63.77% | other | 2026-06-18 | exchange registers |
-| **WHIRLPOOL** — Whirlpool of India Ltd. | **Large stake change, same controller.** Promoter Whirlpool Mauritius Limited sold 11.24% of the capital in the open market on 2025-12-08, cutting promoter-and-group holding from 51.0% to 39.76%. No new promote… | Whirlpool Mauritius Limited | — | 51.0% → 39.76% | block or bulk deal | 2025-12-08 | exchange registers |
-| **YATHARTH** — Yatharth Hospital & Trauma Care S… | **Large stake change, same controller.** Promoter Dr. Neena Tyagi sold 5.85% of the capital in the open market, cutting her holding to 0.62%. Total promoter-and-group holding fell from 61.64% to 55.8%, where it… | Dr. Neena Tyagi | — | 61.64% → 55.8% | block or bulk deal | 2025-12-08 | exchange registers |
-| **ZEEL** — Zee Entertainment Enterprises Ltd. | **Large stake change, same controller.** Sunbright Mauritius Investments Limited, a promoter group entity, was allotted 233,507,071 convertible warrants at Rs.126 each on a preferential basis in August 2026, ta… | — | Sunbright Mauritius Investments Limited | 3.99% → 3.99% | preferential issue | 2026-08-27 | [2026-11-16 Public Announcement - Buyback of…](https://nsearchives.nseindia.in/corporate/ZEEL_16112026171354_SEIntimationPA16NovBBsigned.pdf) |
-| **ASHAPURMIN** — Ashapura Minechem Ltd. | **Within the promoter family / group.** Promoter individuals transferred shares to Shah-family trusts. On 2026-02-26 Chetan Navnitlal Shah moved 7.6% to Chaitali Nishit Salot Family Trust (5.85%) and Manan Che… | Chetan Navnitlal Shah; Dina Chetan Shah | Chaitali Nishit Salot Family Trust; Manan C… | 47.79% → 48.09% | other | 2026-02-26 | exchange registers |
-| **BAYERCROP** — Bayer Cropscience Ltd. | **Within the promoter family / group.** An intra-group transfer: promoter entity Bayer Cropscience Aktiengesellschaft sold 11.91% of the shares outstanding in a block deal, and Bayer AG, its parent and the gro… | Bayer Cropscience Aktiengesellschaft | Bayer AG | — | block or bulk deal | — | exchange registers |
-| **BBTC** — Bombay Burmah Trading Corporation… | **Within the promoter family / group.** Mr. Nusli Neville Wadia transferred his entire personal holding of about 10% of the capital to promoter holding company Nowrosjee Wadia and Sons Limited through a series… | Mr. Nusli Neville Wadia | Nowrosjee Wadia and Sons Limited | 74.05% → 74.05% | other | 2026-09-28 | exchange registers |
-| **BERGEPAINT** — Berger Paints India Ltd. | **Within the promoter family / group.** Promoter-group restructuring: under a sanctioned scheme of amalgamation, U.K. Paints (Overseas) Ltd and B.J.N. Holdings (I) Ltd merged into U K Paints (India) Pvt Ltd, t… | B.J.N. Holdings (I) Limited / Jenson & Nich… | U K Paints (India) Private Limited | 74.98% → 74.99% | scheme of arrangement | 2026-01-02 | exchange registers |
-| **CLEAN** — Clean Science and Technology Ltd. | **Within the promoter family / group.** Clean Science's Boob founder family restructured its holdings by gift. In Nov 2025 shares moved among individual promoters (Nilima +6.24%, Asha +8.11%, Siddhartha Sikchi… | Ashok Ramnarayan Boob, Asha Ashok Boob, Nil… | AAB Business Trust, ARB Business Trust, Smt… | 50.97% → 51.29% | gift or inheritance | 2025-11-27 | [2026-06-11 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/vipulr_11062026194539_01062026124656_Intimation2.pdf) · [2026-06-01 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026123741_Intimation.pdf) · +2 more |
-| **CPPLUS** — Aditya Infotech Ltd. | **Within the promoter family / group.** Promoter Aditya Khemka transferred 13.62% of capital by inter-se transfer on 2026-04-01 to the Aditya Khemka Business Family Trust (13.62%, holding 14.15% after) and to… | Aditya Khemka (promoter); separately Hari K… | Aditya Khemka Business Family Trust along w… | 77.12% → 71.8% | other | 2026-04-01 | [2026-02-24 Updates](https://nsearchives.nseindia.com/corporate/CPPLUS_24022026150140_mpsintimation.pdf) |
-| **DEEPAKFERT** — Deepak Fertilisers & Petrochemica… | **Within the promoter family / group.** Two promoter-group entities reshuffled a block: Robust Marketing Services Pvt Ltd transferred 5.86% of capital to SCM Commercial Pvt Ltd by inter-se transfer on 2026-04-… | Robust Marketing Services Private Limited (… | SCM Commercial Private Limited (promoter) | 45.63% → 45.63% | other | 2026-04-23 | exchange registers |
-| **ENRIN** — Siemens Energy India Ltd. | **Within the promoter family / group.** Promoter holding stayed at 75% while shares moved between Siemens group entities by inter-se transfer: Siemens AG and Siemens Metals Technologies sold about 8.98% in tot… | Siemens Aktiengesellschaft, Germany; Siemen… | Siemens Energy Holdings B.V. (with Siemens… | 75.0% → 75.0% | other | 2025-12-22 | exchange registers |
-| **GALLANTT** — Gallantt Ispat Ltd. | **Within the promoter family / group.** A family arrangement within the Agrawal promoter group: individual promoters and HUFs gifted/transferred shares off-market to other family members, then 14,98,90,556 sha… | Individual Agrawal family members and HUFs… | Gallantt Trust and CP Agrawal Daughters Tru… | 68.93% → 70.98% | gift or inheritance | 2025-12-08 | [2026-11-17 General Updates](https://nsearchives.nseindia.in/corporate/GALLANTT_17112026182928_GIL_17112026.pdf) · [2026-02-16 Updates](https://nsearchives.nseindia.com/corporate/GALLANTT_16022026170843_Gallantt_16022026.pdf) · +4 more |
-| **GMRP&UI** — GMR Power and Urban Infra Ltd. | **Within the promoter family / group.** Promoter group holding fell from 50.56% to 46.28% after a preferential allotment to a non-promoter (Synergy Industrial, Metals and Power Holdings, 4.77%, 12.74% after).… | GMR Enterprises Private Limited (GEPL), pro… | GMR Estate Management Private Limited (GEMP… | 50.56% → 46.53% | other | 2026-06-22 | exchange registers |
-| **GRANULES** — Granules India Ltd. | **Within the promoter family / group.** Promoter Dr. Krishna Prasad Chigurupati sold 6.94% of the capital, while his co-promoter wife Mrs. Chigurupati Uma Devi acquired 9.12% (open market plus preferential all… | Dr. Krishna Prasad Chigurupati | Mrs. Chigurupati Uma Devi (with Mr. Harsha… | 38.82% → 37.39% | other | 2026-09-25 | exchange registers |
-| **INOXINDIA** — INOX India Ltd. | **Within the promoter family / group.** Shares moved inside the Jain promoter family. In February 2026 Siddharth Jain, Ishita Jain and PACs acquired 5.94% with no promoter sale and group holding unchanged at 7… | Pavan Kumar Jain | Shreyasi Goenka | 75.0% → 74.73% | gift or inheritance | 2026-02-19 | [2026-11-18 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.in/corporate/team_bbodade_18112026162018_INOXINDIA10.pdf) |
-| **JKPAPER** — JK Paper Ltd. | **Within the promoter family / group.** No outside buyer. Singhania promoter group entities (YPL Enterprises 6.95%, JK Credit 5.54%, Accurate Finman 1.03%) acquired 13.52% of capital, while two Singhania HUFs… | Vikrampati Singhania HUF; Dr. Raghupati Sin… | YPL Enterprises Pvt. Ltd.; Jk Credit; Accur… | 49.63% → 52.94% | other | 2026-03-27 | exchange registers |
-| **KPITTECH** — KPIT Technologies Ltd. | **Within the promoter family / group.** Promoter and co-founder S. B. (Ravi) Pandit died on 8 May 2026. His shares and his interest in Proficient Finstock LLP (which holds 32.41% of KPIT) were transmitted to h… | Late Shashishekhar Balkrishna Pandit (Mr. S… | Nirmala Shashishekhar Pandit | 39.44% → 38.6% | gift or inheritance | 2026-06-30 | [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/MeghanaPhadnis_30042026103612_KPIT_ReclassAppln_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_02022026222621_KPIT_ReclassApplnSigned.pdf) · +4 more |
-| **NAZARA** — Nazara Technologies Ltd. | **Within the promoter family / group.** Promoter entity Mitter Infotech LLP (Mittersain side) sold 5.19% on the open market while fellow promoter Axana Estates LLP (Sacheti side) bought 3.99%, lifting it to 9.… | Mitter Infotech LLP (promoter); Mr. Nitish… | Axana Estates LLP (promoter) / Mr. Mithun P… | 35.46% → 32.0% | block or bulk deal | 2026-05-20 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · +8 more |
-| **NEOGEN** — NEOGEN CHEMICALS LTD. | **Within the promoter family / group.** On December 31, 2025 founder Haridas T. Kanani gifted 21.90% and Beena Kanani 10% of capital to their respective Kanani family trusts (managing trustee Dr. Harin Kanani)… | Haridas Thakarshi Kanani (Promoter and Chai… | Haridas Kanani Family Trust (20.00%), H T K… | 51.23% → 48.31% | gift or inheritance | 2026-01-02 | [2026-08-29 Updates](https://nsearchives.nseindia.com/corporate/NEOGEN_29082026191439_PIT.pdf) · [2026-03-17 Corrigendum](https://nsearchives.nseindia.com/corporate/NEOGEN_17032026172756_CC.pdf) · +7 more |
-| **PNCINFRA** — PNC Infratech Ltd. | **Within the promoter family / group.** Three promoter HUFs (Pradeep Kumar Jain HUF, Chakresh Kumar Jain HUF, Yogesh Kumar Jain HUF) transferred their entire holdings — 7.65% of capital in total — off-market o… | Pradeep Kumar Jain HUF, Chakresh Kumar Jain… | Meena Jain, Madhavi Jain, Chakresh Kumar Ja… | 56.07% → 56.25% | other | 2026-03-30 | exchange registers |
-| **REDTAPE** — Redtape Ltd. | **Within the promoter family / group.** Promoter Yasmin Mirza transferred her entire 22.52% stake to fellow promoter Rashid Ahmed Mirza on 2025-12-24, raising him to 35.81% and reducing her to nil. Total promo… | Yasmin Mirza | Rashid Ahmed Mirza | 71.8% → 71.83% | other | 2025-12-24 | exchange registers |
-| **SANOFI** — Sanofi India Ltd. | **Within the promoter family / group.** Sanofi Healthcare India Private Limited, a promoter-group entity, acquired 35,00,000 shares (15.20%) from Hoechst GmbH, a promoter, on 24 September 2026 via an inter-se… | Hoechst GmbH | Sanofi Healthcare India Private Limited | 60.4% → 60.4% | block or bulk deal | 2026-09-17 | [2026-09-28 Updates](https://nsearchives.nseindia.in/corporate/COSECSANOFI_28092026142958_Covering_letter_for_PIT_Regulations_-_SHIPL_-Final.pdf) · [2026-09-28 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.in/corporate/team_bbodade_28092026155021_SANOFI.pdf) · +1 more |
-| **SKFINDIA** — SKF India Ltd. | **Within the promoter family / group.** The promoter's entire 52.58% holding moved inside the SKF group: Aktiebolaget SKF transferred its full stake to SKF Interim AB, another promoter entity. Total promoter-a… | Aktiebolaget SKF | SKF Interim AB | 52.58% → 52.58% | other | 2025-12-26 | exchange registers |
-| **SOLARINDS** — Solar Industries India Ltd. | **Within the promoter family / group.** Promoters Kailash Chandra Nuwal and Indira Kailashchandra Nuwal transferred their entire 29.23% combined holding by inter-se transfer to the Sohan Devi Nand Lal Nuwal Fa… | Kailash Chandra Nuwal and Indira Kailashcha… | Sohan Devi Nand Lal Nuwal Family Trust | 73.15% → 73.15% | other | 2026-03-10 | exchange registers |
-| **STARCEMENT** — Star Cement Ltd. | **Within the promoter family / group.** Star Cement's board approved reclassifying 29 members of the 'Chamaria Group', holding 6.052% of capital, out of the Promoter/Promoter Group category into Public, and ap… | Chamaria Group (29 members, incl. Rajendra… | Bhajanka and Agarwal promoter families cont… | 57.59% → 58.11% | other | 2026-02-06 | [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140642_SCL_Outcome_Signed.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026152633_SCL-Outcome_Financial.pdf) · +3 more |
-| **STARHEALTH** — Star Health and Allied Insurance… | **Within the promoter family / group.** Shares of late promoter Rakesh Jhunjhunwala (8,28,82,958) were transmitted on June 25, 2026 under probate and IRDAI approval to family vehicle Sitara Partners LLP (13.29… | Estate of Late Mr. Rakesh Jhunjhunwala | Sitara Partners LLP (designated partners Mr… | 58.02% → 58.0% | gift or inheritance | 2026-06-29 | [2026-10-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARHEALTH_27102026205846_1BMOutcome.pdf) · [2026-10-27 Updates](https://nsearchives.nseindia.com/corporate/STARHEALTH_27102026211456_4IntimationunderRegulaion31AStitprajna.pdf) · +12 more |
-| **TEGA** — Tega Industries Ltd. | **Within the promoter family / group.** Promoter Manish Mohanka gifted 72,78,925 equity shares (9.69% of capital) off-market to MM Business Trust, a promoter-group trust with Mehul Mohanka as trustee, under a… | Manish Mohanka (Promoter) | MM Business Trust (Trustee: Mehul Mohanka) | 74.8% → 67.08% | gift or inheritance | 2026-03-24 | [2026-03-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24032026141542_Intimation_Reg_29_SEBI_SAST_without_PAN.pdf) |
-| **TRIVENI** — Triveni Engineering & Industries… | **Within the promoter family / group.** Tarun Sawhney Trust, part of the promoter group, received Rati Sawhney's 26.60% stake in promoter holding company STFL Trading and Finance Pvt Ltd (which holds 36.40% of… | Mrs. Rati Sawhney (Promoter) | Tarun Sawhney Trust | 60.98% → 60.58% | gift or inheritance | 2026-02-06 | [2026-02-06 General Updates](https://nsearchives.nseindia.com/corporate/TRIVENI_06022026191658_Regulation_30_dt_06_02_2026.pdf) |
-| **VMART** — V-Mart Retail Ltd. | **Within the promoter family / group.** No outside owner arrived. A 13.91% block moved inside the Agarwal promoter group to Lalit Agarwal (disclosed 19 Dec 2025), consistent with the dissolution of Madan Gopal… | Madan Gopal Agarwal HUF (promoter entity, d… | Lalit Agarwal | 44.18% → 44.14% | other | 2025-12-19 | [2026-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VMART_03112026164834_FinalOutcome.pdf) · [2026-11-03 Updates](https://nsearchives.nseindia.com/corporate/VMART_03112026172835_Outcome_Reclassification.pdf) · +1 more |
-| **WAAREEENER** — Waaree Energies Ltd. | **Within the promoter family / group.** Chimanlal Tribhuvandas Doshi gifted 12,69,82,903 shares (44.14%) of Waaree Energies to the C.T. Doshi Family Trust by inter se transfer on 2026-07-16, and on 2026-08-06… | Mr. Chimanlal Tribhuvandas Doshi | C.T. Doshi Family Trust | 64.22% → 64.12% | gift or inheritance | 2026-07-09 | [2026-08-07 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_07082026191945_WAAREEENER.pdf) · [2026-07-17 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_17072026192355_WAAREEENER.pdf) |
+| **AADHARHFC** — Aadhar Housing Finance Ltd. | Blackstone-affiliated promoter BCP Topco VII Pte. Ltd. sold its entire 75.19% stake — 28,20,52,121 shares to BCP Asia II Holdco VII Pte. Ltd. at ₹425 and 4,41,39,236 shares to AXDI LDII SPV… | BCP Topco VII Pte. Ltd. (with promoter grou… | BCP Asia II Holdco VII Pte. Ltd. (along wit… | 75.32% → 64.51% | share purchase agreement | 2025-07-25 | [2026-02-26 General Updates](https://nsearchives.nseindia.com/corporate/AHFL2021_26022026181610_Reg_30-_Completion_of_transactions.pdf) · [2026-02-26 General Updates](https://nsearchives.nseindia.com/corporate/AHFL2021_26022026182757_SD_Reg_31A_with_annexure.pdf) · +15 more |
+| **ASTERDM** — Aster DM Quality Care Ltd. | The scheme of amalgamation of Quality Care India Limited into Aster DM Healthcare became effective 1 July 2026. Shares issued under the scheme made BCP Asia II Topco IV Pte. Ltd. a promoter… | Azad Moopen Mandayapurath and the existing… | BCP Asia II Topco IV Pte. Limited | 40.39% → 53.79% | scheme of arrangement | 2026-07-01 | [2026-07-01 General Updates](https://nsearchives.nseindia.com/corporate/ASTERDM2_01072026175016_Effective_Date_sign.pdf) |
+| **AWL** — AWL Agri Business Ltd. | Adani group exited as promoter: Adani Commodities LLP sold its remaining stake (7% then 13%) and the Adani entities applied on 27 November 2025 to be reclassified from promoter to public. L… | Adani Commodities LLP, Adani Enterprises Li… | Lence Pte. Ltd. | 63.94% → 56.94% | other | 2025-11-27 | [2025-11-27 General Updates](https://nsearchives.nseindia.com/corporate/AWL_27112025204444_SE_Intimation_REg_30_Nov_27_2025.pdf) |
+| **CASTROLIND** — Castrol India Ltd. | BP p.l.c. sold 100% of Castrol Group Holdings Ltd — parent of Castrol Limited, the 51% promoter of Castrol India — to Motion JVCo Limited (Stonepeak Infrastructure Fund V). SPA signed 23 De… | BP p.l.c. (indirect 100% holding company of… | Motion JVCo Limited, with Stonepeak Motion… | 51.0% → 51.0% | share purchase agreement | 2025-12-24 | [2026-11-09 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_09112026123942_castrol.zip) · [2025-12-24 Agreements](https://nsearchives.nseindia.com/corporate/CASTROLINDIA_24122025150558_Reg_30_and_30A_Disclosure.pdf) · +2 more |
+| **EPL** — EPL Ltd. | Promoter Epsilon Bidco Pte. Ltd. (Blackstone vehicle, ultimate beneficial owner Sun Yiming) sold its entire 26.37% holding in EPL on 1 September 2026 through on-market/block trades, falling… | Epsilon Bidco Pte. Ltd. (ultimate beneficia… | Open-market buyers — Bandhan Mutual Fund, P… | 26.4% → 0.0% | block or bulk deal | 2026-09-03 | [2026-10-23 Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23102026184938_SubmissionOfReclassificationApplicationSd.pdf) · [2026-10-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_21102026174411_OutcomeOfBMReclassificationSd.pdf) · +1 more |
+| **IIFLCAPS** — IIFL Capital Services Ltd. | Fairfax's FIH Mauritius Investments Ltd subscribed to a ₹2,000 crore preferential issue at ₹350/share and completed a 26% open offer plus secondary purchases from the existing promoters. Th… | Nirmal Bhanwarlal Jain and Venkataraman Raj… | FIH Mauritius Investments Ltd (Acquirer), w… | 30.98% → 25.8% | preferential issue | 2026-05-07 | [2026-11-19 Amendment(s)](https://nsearchives.nseindia.in/corporate/IIFLSEC_19112026005808_SEintimation.pdf) · [2026-11-19 General Updates](https://nsearchives.nseindia.in/corporate/IIFLSEC_19112026210454_SEIntimationsigned.pdf) · +18 more |
+| **INDIASHLTR** — India Shelter Finance Corporation… | Founder-promoter Anil Mehta and the entire Mehta/Crossland promoter group were reclassified from 'Promoter & Promoter Group' to 'Public' under Reg 31A, approved by exchanges on 21 May 2026… | Mr. Anil Mehta (Promoter) with promoter-gro… | WestBridge Crossover Fund, LLC together wit… | 47.71% → 45.91% | other | 2025-12-16 | [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_25062026184552_Intimation_of_Shareholder_Approval.pdf) · [2026-05-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_25052026194352_Intimation-Postal_Ballot_Notice_signed.pdf) · +6 more |
+| **JPPOWER** — Jaiprakash Power Ventures Ltd. | Promoter Jaiprakash Associates Ltd went through insolvency; NCLT approved Adani Enterprises' resolution plan. Under it JAL signed a share sale agreement on 20-05-2026 transferring its entir… | Jaiprakash Associates Limited (JAL) | Adani Power Limited (APL) | 24.0% → 24.0% | insolvency resolution | 2026-03-17 | [2026-05-23 General Updates](https://nsearchives.nseindia.com/corporate/JPPOWER_23052026131944_JPVL_Intimation_under_Reg_30A_23052026_Signed.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf) |
+| **JSWDULUX** — JSW Dulux Ltd. | JSW Paints Limited completed its acquisition of 60.76% of Akzo Nobel India under a share purchase agreement on 10 December 2025, after an open offer, taking 61.2%. The Akzo Nobel sellers we… | Imperial Chemical Industries Limited and Ak… | JSW Paints Limited | 69.76% → 61.2% | share purchase agreement | 2025-12-10 | [2026-07-14 News Verification](https://nsearchives.nseindia.com/corporate/AKZOINDIA_14072026101326_JSWDuluxNewsClarification_14Jul26_NSE.pdf) · [2025-12-12 General Updates](https://nsearchives.nseindia.com/corporate/AKZOINDIA_12122025182231_AkzoIndiaRegulation7_2_Disclosure_ICI_12Dec2025.pdf) · +2 more |
+| **MANAPPURAM** — Manappuram Finance Ltd. | Bain Capital affiliates BC Asia Investments XXV and XIV subscribed to a ~Rs 4,385 crore preferential issue of shares and warrants at Rs 236, and after a mandatory open offer that drew nil t… | V.P. Nandakumar, Sushama Nandakumar (Existi… | BC Asia Investments XXV Limited and BC Asia… | 35.25% → 41.66% | preferential issue | 2025-03-20 | [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · +9 more |
+| **RBA** — Restaurant Brands Asia Ltd. | Inspira Global (Agrawal family), through Lenexis Foodworks and affiliates, acquired control of Restaurant Brands Asia: ₹900 crore preferential equity plus ₹600 crore warrants, purchase of Q… | QSR Asia Pte. Ltd. and F&B Asia Ventures (S… | Lenexis Foodworks Private Limited, Aayush A… | 11.27% → 41.73% | share purchase agreement | 2026-01-20 | [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_29102026170235_FinalUpload.pdf) · [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_29102026170726_FinalUpload.pdf) · +24 more |
+| **RBLBANK** — RBL Bank Ltd. | Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (INR 26,015.77 crore) on 18 June 2026, taking 60% of RBL Bank's expanded capital, and completed a mandatory 26%… | None — RBL Bank had no promoter before the… | Emirates NBD Bank (P.J.S.C.) | 0.0% → 59.88% | preferential issue | 2025-10-18 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12102026163624_BoardMeetingOutcomeQ2FY2627resultssigned.pdf) · [2026-07-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_17072026162201_BoardMeetingOutcome_Q1FY26_27Signed.pdf) · +19 more |
+| **SAMMAANCAP** — Sammaan Capital Ltd. | Avenir Investment RSC Ltd, owned and controlled by International Holding Company PJSC (IHC), Abu Dhabi, subscribed to a Rs 8,850 crore preferential issue of shares and warrants at Rs 139, c… | None in this window — company had no promot… | Avenir Investment RSC Ltd (owned and contro… | 0.0% → 33.32% | preferential issue | 2025-10-02 | [2026-08-18 Press Release](https://nsearchives.nseindia.com/corporate/IHFL_18082026180740_SCL_Press_Release_18August2026.pdf) · [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/IHFL_13082026174632_SCL_Outcome_BoardMeeting_13Aug2026.pdf) · +22 more |
+| **VIPIND** — V.I.P. Industries Ltd. | The Piramal-family promoter entities sold down ~26% of VIP Industries through open-market/block transactions in late December 2025, and Multiples Private Equity Fund IV and its Gift Fund IV… | Piramal Vibhuti Investment Ltd, DGP Securit… | Multiples Private Equity Fund IV and Multip… | 49.73% → 42.35% | block or bulk deal | 2025-12-26 | [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_15052026201134_VIP_-_Presentation_Outcome_Final.pdf) |
+| **APLAPOLLO** — APL Apollo Tubes Ltd. | **In progress.** On 23 November 2026 promoter-group entity S Gupta Holding Pvt Ltd signed an SPA to sell 7,38,60,062 shares (26.38% fully diluted) to Tata Steel Limited at INR 2,100 per share in three tranc… | S Gupta Holding Private Limited (and the ot… | Tata Steel Limited | 28.3% → 28.18% | share purchase agreement | 2026-11-23 | [2026-11-23 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/APLAPOLLO_23112026075045_SE_Disclosure.pdf) · [2026-11-23 Agreements](https://nsearchives.nseindia.in/corporate/APLAPOLLO_23112026075831_SE_Disclosure.pdf) · +3 more |
+| **SCI** — Shipping Corporation of India Ltd. | **In progress.** The Government of India's strategic disinvestment of SCI remains under way. DIPAM, with a Transaction Advisor, is running the process; the Preliminary Information Memorandum inviting expres… | Government of India (President of India / M… | — | 63.75% → 63.75% | other | 2020-12-22 | [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · +6 more |
+
+### 1b. Large stake change, same controller
+
+65 companies. The promoters or a sponsor sold or bought 2 points or more of the capital; the same people still control the company. Promoter selling first, largest fall first; then promoter buying.
+
+| Company | What | Outgoing / selling | Incoming / buying | Promoter holding (register) | Mode | First shown | Sources |
+|---|---|---|---|---|---|---|---|
+| **THYROCARE** — Thyrocare Technologies Ltd. | The promoter group (API Holdings / Docon Technologies) sold down roughly 20% of Thyrocare in two large blocks, reportedly to repay group debt, falling from 71.06% to 51.02%. Docon was then… | Docon Technologies Private Limited / API Ho… | Public shareholders, including HSBC Mutual… | 71.06% → 51.02% | block or bulk deal | 2025-12-09 | exchange registers |
+| **SAGILITY** — Sagility Ltd. | Promoter Sagility B.V. sold down in the open market. Promoter-group holding fell from 67.38% (Sep 2025) to 50.95% (Dec 2025), and a further 11.96% sale on 2026-11-19 left it at 38.99%. No n… | Sagility B.V. (with Sagility Holdings B.V.) | — | 67.38% → 50.95% | block or bulk deal | 2026-11-19 | exchange registers |
+| **TENNIND** — Tenneco Clean Air India Ltd. | Promoter entities Tenneco Mauritius Holdings Ltd and Tenneco (Mauritius) Ltd sold about 15% of capital in open-market/block sales disclosed 2026-08-18. Promoter-group holding fell from 74.7… | Tenneco Mauritius Holdings Limited (TMHL) a… | SBI Mutual Fund under its Various Schemes | 74.79% → 59.79% | block or bulk deal | 2026-08-18 | exchange registers |
+| **VMM** — Vishal Mega Mart Ltd. | Promoter entity Samayat Services LLP sold 13.97% of VMM's capital on 2026-03-02, cutting promoter-group holding from 54.09% to 40.12%. Institutions such as HDFC Mutual Fund (+2.9%) picked u… | Samayat Services LLP (promoter) | — | 54.11% → 40.02% | other | 2026-03-02 | exchange registers |
+| **AXISCADES** — AXISCADES Technologies Ltd. | Promoter holding company Jupiter Capital Private Limited sold large blocks of AXISCADES shares — 2.35% disclosed 2026-07-08 (leaving 50.15%) and 10.86% disclosed 2026-10-06 (leaving 39.29%)… | Jupiter Capital Private Limited | — | 58.08% → 44.82% | block or bulk deal | 2026-07-08 | exchange registers |
+| **BELRISE** — Belrise Industries Ltd. | Sumedh Tools Private Limited, a promoter group entity, sold 5,83,43,040 shares (6.56% of capital) through a block deal on 23 December 2025, cutting its stake to nil. The company said this w… | Sumedh Tools Private Limited (promoter grou… | SBI Mutual Fund under its Various Schemes (… | 73.01% → 61.15% | block or bulk deal | 2025-12-23 | [2025-12-23 General Updates](https://nsearchives.nseindia.com/corporate/BELRISE_23122025135903_Belrise_Intimation_of_sale_of_shares_by_promoter_group_23122025.pdf) |
+| **WHIRLPOOL** — Whirlpool of India Ltd. | Promoter Whirlpool Mauritius Limited sold 11.24% of the capital in the open market on 2025-12-08, cutting promoter-and-group holding from 51.0% to 39.76%. No new promoter or controlling own… | Whirlpool Mauritius Limited | — | 51.0% → 39.76% | block or bulk deal | 2025-12-08 | exchange registers |
+| **JSWINFRA** — JSW Infrastructure Ltd. | JSW Infrastructure raised capital through a qualified institutions placement combined with an offer for sale by Sajjan Jindal Family Trust, the promoter selling shareholder, to meet minimum… | Sajjan Jindal Family Trust (Sajjan Jindal a… | Qualified institutional buyers under the QI… | 83.62% → 73.93% | offer for sale | 2026-06-22 | [2026-09-10 Acquisition](https://nsearchives.nseindia.com/corporate/JSWINFRA_10092026190128_Covering_Letter.pdf) · [2026-06-22 Committee Meeting Updates](https://nsearchives.nseindia.com/corporate/JSWINFRA_22062026191206_Intimation_SE_Approval_PD.pdf) · +1 more |
+| **MPHASIS** — MphasiS Ltd. | The promoter block held by BCP Topco IX Pte. Ltd. (Blackstone) was sold down by about 9.5% of capital around 18 December 2025, taking promoter-and-group holding from 40.1% to 30.59%. Instit… | BCP Topco IX Pte. Ltd. (shares held through… | Kotak Mahindra Mutual Fund and other public… | 40.1% → 30.53% | block or bulk deal | 2025-12-18 | exchange registers |
+| **PRIVISCL** — Privi Speciality Chemicals Ltd. | Promoter entity Vivira Investment & Trading Private Limited sold a 9.29% block in the open market in early January 2026, cutting its holding to 29.74% and total promoter-group holding from… | Vivira Investment & Trading Private Limited… | SBI Mutual Fund under its Various Schemes,… | 69.89% → 60.6% | block or bulk deal | 2026-01-02 | exchange registers |
+| **LLOYDSENGG** — Lloyds Engineering Works Ltd. | Promoter entities (Aeon Trading LLP, Lloyds Metals & Minerals Trading LLP, Lloyds Enterprises Limited) sold about 7.15% of capital in the open market, largely picked up by Thriveni Earthmov… | Aeon Trading LLP, Lloyds Metals & Minerals… | Thriveni Earthmovers Private Limited | 49.26% → 40.0% | block or bulk deal | 2026-02-12 | exchange registers |
+| **KFINTECH** — Kfin Technologies Ltd. | General Atlantic Singapore Fund Pte Ltd, the private-equity promoter, sold 8.76% of KFin Technologies in one transaction on 2026-08-25, cutting promoter-group holding from 22.82% to 14.06%.… | General Atlantic Singapore Fund Pte Ltd (pr… | Public shareholders; Mirae Asset Mutual Fun… | 22.89% → 14.06% | block or bulk deal | 2026-08-25 | [2026-03-30 Updates](https://nsearchives.nseindia.com/corporate/KFINTECHNSE_30032026182445_Intimation.pdf) · [2026-03-19 Updates](https://nsearchives.nseindia.com/corporate/KFINTECHNSE_19032026182446_Intimation.pdf) · +5 more |
+| **RUBICON** — Rubicon Research Ltd. | General Atlantic Singapore RR Pte. Ltd., a promoter-classified financial sponsor, sold about 8.45% of Rubicon Research's capital on 2026-09-01, cutting its holding to 27.34%. Total promoter… | General Atlantic Singapore RR Pte. Ltd. | — | 59.99% → 51.25% | other | 2026-09-01 | [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/9823522970_05112026160314_RRLSEIntimationOutcomeBM05Nov2026.pdf) |
+| **CENTRALBK** — Central Bank of India | The President of India, through the Department of Financial Services, Ministry of Finance, sold about 8.08% of the bank's capital, cutting promoter holding from 89.27% to 81.19%. Life Insur… | President of India, acting through the Depa… | Life Insurance Corporation of India (non-pr… | 89.27% → 81.19% | other | 2026-06-01 | exchange registers |
+| **DOMS** — DOMS Industries Ltd. | Promoter F.I.L.A. Fabbrica Italiana Lapis Ed Affini S.p.A. sold 7% of DOMS' capital on 2026-06-22, cutting its holding to 19.01%. Total promoter-group holding fell from 70.39% to 63.39%. No… | F.I.L.A. Fabbrica Italiana Lapis Ed Affini… | — | 70.39% → 63.39% | other | 2026-06-22 | exchange registers |
+| **NETWEB** — Netweb Technologies India Ltd. | In February 2026 the Lodha promoter family sold about 3.65% of the capital in the open market, taking promoter-group holding from 71.0% to 66.98%. The same family continues to control the c… | Sanjay Lodha (sold 1.58%), Navin Lodha, Nir… | Open market buyers | 71.0% → 64.16% | block or bulk deal | 2026-02-12 | [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/NETWEB1234_02072026201622_Intimation_Postal_Ballot_02072026.pdf) |
+| **BLUEJET** — Blue Jet Healthcare Ltd. | Exchange shareholding register shows promoter-and-group holding flat at 79.81% through 2026-06-30, then 73.15% at an interim 2026-07-09 pattern and unchanged at 2026-09-30 — a 6.66 percenta… | Promoter and promoter group (not named in t… | — | 79.81% → 73.15% | — | 2026-07-09 | exchange registers |
+| **LICI** — Life Insurance Corporation of Ind… | The President of India, acting through the Ministry of Finance (promoter), sold 6.5% of Life Insurance Corporation of India's capital, cutting the promoter-and-group holding from 96.5% to 9… | President of India, acting through the Mini… | — | 96.5% → 90.0% | other | 2026-08-13 | exchange registers |
+| **CRAFTSMAN** — Craftsman Automation Ltd. | Promoter, Chairman and Managing Director Srinivasan Ravi sold 5,25,000 shares (2.01% of capital) in the open market on 23 June 2026, cutting his holding from 40.15% to 38.14%; promoter-grou… | Mr. Srinivasan Ravi | PI Opportunities AIF V LLP (bulk-deal buyer… | 48.7% → 42.41% | block or bulk deal | 2026-06-25 | [2026-06-25 Updates](https://nsearchives.nseindia.com/corporate/CRAFTSMAN_25062026103552_SEintimationunderRegulation7_2_ofPITRegulationsigned.pdf) |
+| **GLAND** — Gland Pharma Ltd. | Promoter Fosun Pharma Industrial Pte. Ltd. sold 6% of Gland Pharma's capital in the open market in September 2026, cutting its holding to 45.76%; promoter-and-group holding fell from 51.77%… | Fosun Pharma Industrial Pte. Ltd. | — | 51.83% → 45.75% | block or bulk deal | 2026-09-22 | exchange registers |
+| **NHPC** — NHPC Ltd. | The President of India (Ministry of Power), NHPC's promoter, sold about 6.01% of the capital in June 2026. Promoter-and-group holding fell from 67.4% to 61.39%. The Government remains promo… | President of India, Ministry of Power, Gove… | Public investors; Life Insurance Corporatio… | 67.4% → 61.39% | other | 2026-06-10 | exchange registers |
+| **HINDCOPPER** — Hindustan Copper Ltd. | Promoter-and-group holding (Government of India) stayed 66.14% through 2026-06-30, then fell to 60.14% at 2026-09-30, a 6 percentage-point drop. No filing explains it; Reg 29 shows no promo… | Promoter and promoter group (Government of… | — | 66.14% → 60.14% | — | 2026-09-30 | exchange registers |
+| **MAHABANK** — Bank of Maharashtra | The President of India, acting through the Department of Financial Services, Ministry of Finance, sold 6% of Bank of Maharashtra's capital, cutting the government promoter holding from 79.6… | President Of India, acting through the Depa… | — | 79.6% → 73.6% | other | 2025-12-18 | exchange registers |
+| **YATHARTH** — Yatharth Hospital & Trauma Care S… | Promoter Dr. Neena Tyagi sold 5.85% of the capital in the open market, cutting her holding to 0.62%. Total promoter-and-group holding fell from 61.64% to 55.8%, where it stayed through 2026… | Dr. Neena Tyagi | — | 61.64% → 55.8% | block or bulk deal | 2025-12-08 | exchange registers |
+| **PREMIERENE** — Premier Energies Ltd. | Promoter Surenderpal Singh Saluja sold 5.33% of the capital in the open market in May 2026. Promoter-and-group holding fell from 63.94% to 58.49%, still a clear majority. No new promoter ar… | Surenderpal Singh Saluja (promoter) | — | 63.94% → 58.49% | block or bulk deal | 2026-05-29 | [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_04112026182631_Outcome_Q2_FY_2026-27_Signed.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_04112026184950_BM_Outcome_Q2_FY27_Financial_Results.pdf) |
+| **HOMEFIRST** — Home First Finance Company India… | Promoter private-equity sponsors True North Fund V LLP and Aether (Mauritius) Ltd sold 5.34% of capital in open-market sales disclosed 2026-03-04, cutting promoter-and-group holding from 12… | True North Fund V LLP (sold 2.71%, holds 4.… | FMR LLC (9.5% after), Kotak Mahindra Mutual… | 12.39% → 6.97% | block or bulk deal | 2026-03-04 | exchange registers |
+| **JAMNAAUTO** — Jamna Auto Industries Ltd. | Two promoter family members, Ranadeep Singh Jauhar and Pradeep Singh Jauhar, each sold 2.49% of capital on 2026-09-25 (4.98% combined). Promoter-group holding fell from 49.84% to 44.81%. No… | Mr. Ranadeep Singh Jauhar and Mr. Pradeep S… | — | 49.94% → 44.81% | other | 2026-09-25 | exchange registers |
+| **KRN** — KRN HEAT EXCHANGER AND REFRIGERAT… | Promoters (Santosh Kumar Yadav, Anju Devi, Manohar Lal and promoter group) gave prior intimation of intent to sell up to 10,00,000 shares for personal and financial reasons, after a Rs 350… | Santosh Kumar Yadav, Anju Devi, Manohar Lal… | Qualified Institutional Buyers in the QIP;… | 70.79% → 65.69% | other | 2026-05-26 | [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026164352_outcomefinancials.pdf) · [2026-10-29 Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026174522_outcomefinancials.pdf) · +8 more |
+| **BHEL** — Bharat Heavy Electricals Ltd. | The Government of India, BHEL's promoter, sold 5% of the capital, cutting promoter-and-group holding from 63.17% to 58.17% by the 2026-03-31 quarter. The President of India remains majority… | The President of India, Ministry of Heavy I… | — | 63.17% → 58.17% | other | 2026-02-13 | exchange registers |
+| **GICRE** — General Insurance Corporation of… | The President of India, acting through the Ministry of Finance, sold 5% of GIC Re's capital, cutting promoter holding from 82.4% to 77.4%. The Government of India remains promoter and major… | President of India, acting through the Mini… | — | 82.4% → 77.4% | other | 2026-06-19 | exchange registers |
+| **JSFB** — Jana Small Finance Bank Ltd. | Jana Holdings Limited, a promoter of Jana Small Finance Bank, signed a Share Purchase Agreement on 18 May 2026 to sell 5,160,903 shares (~4.9% of paid-up capital) to TVS Motor Company Limit… | Jana Holdings Limited | TVS Motor Company Limited | 21.87% → 16.87% | share purchase agreement | 2026-05-18 | [2026-05-18 General Updates](https://nsearchives.nseindia.com/corporate/sanath_rao_janabank_com_18052026122233_Reg30.pdf) |
+| **CAPILLARY** — Capillary Technologies India Ltd. | Promoter Capillary Technologies International Pte Ltd sold about 4.14% of capital (disclosed 2026-08-17), cutting its holding to 44.78%. Total promoter-and-group holding fell from 52.16% to… | Capillary Technologies International Pte ltd | — | 52.16% → 47.23% | other | 2026-08-17 | exchange registers |
+| **COCHINSHIP** — Cochin Shipyard Ltd. | The Government of India, through the President of India (Ministry of Ports, Shipping and Waterways), sold 4.58% of Cochin Shipyard's capital, cutting its promoter holding from 67.91% to 63.… | The President of India, Ministry of Ports,… | — | 67.91% → 63.33% | other | 2026-07-10 | exchange registers |
+| **AVALON** — Avalon Technologies Ltd. | Promoter Bhaskar Srinivasan and his two family trusts sold about 6% of Avalon via block deals (settled after 30 September 2026), cutting their combined holding from 15.42% to 9.42%, and hav… | Mr. Bhaskar Srinivasan, BBS Family Trust, K… | Bandhan AMC Limited (Investment Manager of… | 44.46% → 40.35% | block or bulk deal | 2026-10-15 | [2026-11-17 Updates](https://nsearchives.nseindia.in/corporate/AVALON2022_17112026200602_SEApplicatoin.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/AVALON2022_12112026223540_Q2BM_Outcome_Final.pdf) · +3 more |
+| **ASKAUTOLTD** — ASK Automotive Ltd. | Promoter Kuldip Singh Rathee sold 4% of ASK Automotive's capital in the open market, cutting his holding to 30.18%. Promoter-and-group holding fell from 78.95% to 74.95% and then stayed fla… | Kuldip Singh Rathee | — | 78.95% → 74.95% | block or bulk deal | 2025-12-04 | exchange registers |
+| **ANTHEM** — Anthem Biosciences Ltd. | Promoter Aruna Ganesh sold 3.05% of Anthem Biosciences' capital in the open market, exiting to nil holding. Promoter-and-group holding fell from 74.68% to 71.42% between the March and June… | Aruna Ganesh | — | 74.69% → 71.4% | block or bulk deal | 2026-06-22 | exchange registers |
+| **BANDHANBNK** — Bandhan Bank Ltd. | Promoter Bandhan Financial Holdings Limited sold 2.06% of the Bank in the open market on 2026-05-15, cutting its holding to 37.93%; promoter-and-group holding drifted from 40.29% to 37.0% o… | Bandhan Financial Holdings Limited | — | 40.29% → 37.0% | block or bulk deal | 2026-05-15 | exchange registers |
+| **VIYASH** — Viyash Scientific Ltd. | Promoter holding rose to 61.43% in December 2025 when the Company allotted shares under the NCLT-sanctioned amalgamation of Viyash Life Sciences and others, then fell to 49.24% after promot… | CA Harbor Investments (CA Harbor) and CA Hu… | — | 52.33% → 49.24% | block or bulk deal | 2026-09-01 | [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026181457_BM_OutcomeMay2026Signed.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026182640_BM_OutcomeMay2026Signed.pdf) |
+| **AJANTPHARM** — Ajanta Pharmaceuticals Ltd. | A promoter, Ravi Agrawal as Trustee of Ravi Agrawal Trust, sold 2.76% of the capital in the open market, leaving 10.24%. Promoter-and-group holding fell from 66.25% to 63.48%. No new promot… | Ravi Agrawal, Trustee Ravi Agrawal Trust | — | 66.25% → 63.47% | block or bulk deal | 2026-06-12 | exchange registers |
+| **NLCINDIA** — NLC India Ltd. | The Government of India (President of India, Ministry of Coal), the promoter, sold 2.73% of NLC India's capital, reducing its promoter holding from 72.2% to 69.47%. The Government remains t… | President of India, Ministry of Coal, Gover… | — | 72.2% → 69.47% | other | 2026-06-18 | [2026-05-15 Updates](https://nsearchives.nseindia.com/corporate/NLCINDIA_15052026175833_FinResultsQ4-OCR_Signed.pdf) · [2026-02-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026150946_565th_BM_Outcome_Signed.pdf) · +1 more |
+| **SHAILY** — Shaily Engineering Plastics Ltd. | A promoter-group member, Vanita L Nagda, sold 2.27% of the capital in the open market on 2026-06-24 and now holds nil. Promoter-and-group holding fell from 43.72% to 41.09%. No new controll… | Vanita L Nagda (promoter) | — | 43.72% → 41.09% | block or bulk deal | 2026-06-24 | exchange registers |
+| **WELSPUNLIV** — Welspun Living Ltd. | Welspun Group Master Trust / Mr. Balkrishan Goenka as its trustee, part of the promoter group, sold about 3.47% of capital in two tranches (0.88% in June 2026, 2.59% in September 2026). Pro… | Welspun Group Master Trust / Mr. Balkrishan… | — | 66.24% → 63.77% | other | 2026-06-18 | exchange registers |
+| **WELCORP** — Welspun Corp Ltd. | Promoter group entity Welspun Investments and Commercials Limited sold 2.27% of Welspun Corp's capital, leaving it with 0.29%. Promoter-and-group holding fell from 49.73% to 47.46%. No new… | Welspun Investments and Commercials Limited | — | 49.77% → 47.46% | other | 2026-09-01 | exchange registers |
+| **BLACKBUCK** — Blackbuck Ltd. | Promoter founders Rajesh Kumar Naidu Yabaji and Ramasubramanian Balasubramaniam sold about 1.55% of capital in open-market sales disclosed 2025-12-18; aggregate promoter-group holding fell… | Rajesh Kumar Naidu Yabaji and Ramasubramani… | — | 27.19% → 24.99% | block or bulk deal | 2025-12-18 | exchange registers |
+| **RKFORGE** — Ramkrishna Forgings Ltd. | No new owner. A promoter-group company holding 3.57% (Maa Chandi Financial Advisory, formerly Ramkrishna Rail and Infrastructure) was reclassified to Public after exchange NOCs and sharehol… | Maa Chandi Financial Advisory Services Priv… | Riddhi Portfolio Private Limited (promoter)… | 43.13% → 40.93% | block or bulk deal | 2026-03-18 | [2026-09-21 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_21092026170859_ReclassificationReg30n31ADisc21Sep2026.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RKFORGE_20082026181348_Postalballotintimation200826signed.pdf) · +2 more |
+| **MTARTECH** — MTAR Technologies Ltd. | Across the window many MTAR promoter-family members sold small open-market tranches (3.49% sold, 1.94% bought per Reg 29), plus one 0.32% inter-se transfer. Promoter-and-group holding slipp… | MTAR promoter group members, including K Va… | — | 31.41% → 29.23% | block or bulk deal | 2026-02-25 | exchange registers |
+| **IOB** — Indian Overseas Bank | The President of India, through the Department of Financial Services, Ministry of Finance, disclosed sale of a 2.17% block in Indian Overseas Bank, taking promoter-and-group holding from 94… | President of India, acting through the Depa… | — | 94.61% → 92.44% | other | 2025-12-20 | exchange registers |
+| **COALINDIA** — Coal India Ltd. | The Government of India, Coal India's promoter, sold 2% of equity (123,279,566 shares) through an offer for sale on the stock exchanges on 27-29 May 2026, cutting its holding from 63.13% to… | President of India, acting through the Mini… | — | 63.13% → 61.13% | offer for sale | 2026-05-26 | [2026-06-01 General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_01062026174456_Regulation_29.pdf) |
+| **LOTUSDEV** — SRI LOTUS DEVELOPERS AND REALTY L… | Promoter Anand Kamalnayan Pandit sold shares in the open market purely to meet minimum public shareholding rules — up to 2% intimated in September 2026, taking promoter group holding from 8… | Mr. Anand Kamalnayan Pandit (promoter) | Public market buyers; SMALLCAP World Fund,… | 81.86% → 79.87% | block or bulk deal | 2026-09-08 | [2026-09-08 General Updates](https://nsearchives.nseindia.com/corporate/SRILOTUS_08092026152953_Intimation_MPS_Final_Sd.pdf) |
+| **LLOYDSME** — Lloyds Metals And Energy Ltd. | Existing promoters Lloyds Enterprises Ltd and Sky United LLP each acquired 1.38% of capital through a preferential allotment (2.76% in total), lifting promoter-group holding to 63.73% befor… | — | Llyods Enterprises Ltd and Sky United LLP (… | 62.82% → 61.61% | preferential issue | 2026-01-05 | exchange registers |
+| **EDELWEISS** — Edelweiss Financial Services Ltd. | Co-founder and promoter Venkatachalam Ramaswamy resigned as Non-Executive Director and Vice Chairman and, with Aparna T. C., asked to be reclassified from promoter to public (pending exchan… | Venkatachalam Ramaswamy (DIN: 00008509) and… | Rashesh Chandrakant Shah | 32.7% → 31.54% | block or bulk deal | 2026-11-12 | [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/EDELWEISS_12112026011239_Resignation_-_Exchange_Intimation.pdf) · [2026-11-12 Updates](https://nsearchives.nseindia.in/corporate/EDELWEISS_12112026011730_Resignation_-_Exchange_Intimation.pdf) |
+| **INOXGREEN** — Inox Green Energy Services Ltd. | No new owner. Promoter entity Inox Leasing and Finance Limited acquired 5.31% of capital (disclosed 30 Jan 2026), holding 60.13% after, and promoter-group holding rose from 54.82% to 56.12%… | — | Inox Leasing and Finance Limited | 54.82% → 53.7% | other | 2026-01-30 | exchange registers |
+| **ALIVUS** — Alivus Life Sciences Ltd. | Promoter Nirma Limited sold 2.99% of Alivus Life Sciences in the open market (largely via block/bulk deals) on 2026-11-23, cutting its stake to 71.74%. Nirma remains the controlling promote… | Nirma Limited | Bandhan Mutual Fund; Param Capital | 74.91% → 74.85% | block or bulk deal | 2026-11-23 | exchange registers |
+| **ZEEL** — Zee Entertainment Enterprises Ltd. | Sunbright Mauritius Investments Limited, a promoter group entity, was allotted 233,507,071 convertible warrants at Rs.126 each on a preferential basis in August 2026, taking promoter-group… | — | Sunbright Mauritius Investments Limited | 3.99% → 3.99% | preferential issue | 2026-08-27 | [2026-11-16 Public Announcement - Buyback of…](https://nsearchives.nseindia.in/corporate/ZEEL_16112026171354_SEIntimationPA16NovBBsigned.pdf) |
+| **PVRINOX** — PVR INOX Ltd. | Promoter group members (Bijli family and Jain/GFL family) disclosed small sales of about 0.51% of capital in late September and early October 2026. Promoter-and-group holding moved 27.53% t… | Ajay Kumar Bijli, Sanjeev Kumar, Selena Bij… | — | 27.53% → 27.6% | other | 2026-09-30 | exchange registers |
+| **ADANIPORTS** — Adani Ports and Special Economic… | Promoter-group entities raised their stake via open-market purchases: Carmichael Rail and Port Singapore Holding bought 6.24% and Emerging Market Investment DMCC 0.67% (disclosed 2025-12-29… | — | Carmichael Rail and Port Singapore HOlding… | 65.89% → 66.03% | block or bulk deal | 2025-12-29 | exchange registers |
+| **AFFLE** — Affle 3i Ltd. | Promoter Affle Holdings Pte. Ltd. raised its stake by about 5.08% of capital through a preferential allotment and conversion of warrants into equity (17,04,324 shares on 19.10.2026 and 12,7… | — | Affle Holdings Pte. Ltd (existing promoter)… | 54.97% → 55.82% | preferential issue | 2026-06-24 | exchange registers |
+| **MAHSEAMLES** — Maharashtra Seamless Ltd. | Promoter group entities of the D.P. Jindal Group (Haryana Capfin, Global Jindal Fin-Invest, Odd & Even Traders & Finance) bought about 3.01% of capital in the open market, lifting promoter-… | — | Haryana Capfin Ltd, Global Jindal Fin-Inves… | 69.05% → 70.3% | block or bulk deal | 2026-02-26 | [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07082026171854_MSLBMOUTCOME.pdf) · +1 more |
+| **PCJEWELLER** — PC Jeweller Ltd. | Promoter group (Balram Garg, his HUF, Pooja Garg, New Track Garments) subscribed to preferential allotments and converted warrants through 2026, buying about 13% of capital. Promoter-and-gr… | — | Balram Garg, Balram Garg (HUF), Pooja Garg,… | 37.6% → 39.1% | preferential issue | 2026-02-04 | exchange registers |
+| **WEBELSOLAR** — Websol Energy System Ltd. | Promoter entity Websol Green Projects Private Ltd acquired 2.79% of the capital (disclosed 26 May 2026), taking its holding to 7.74% and total promoter-and-group holding from 27.71% to 29.7… | — | Websol Green Projects Private Ltd (promoter) | 27.71% → 29.72% | other | 2026-05-26 | [2026-08-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/WEBELSOLAR_10082026184421_BM_Outcome.pdf) |
+| **ADANIENSOL** — Adani Energy Solutions Ltd. | Adani promoter group entities raised their stake in Adani Energy Solutions by about 5% through open-market purchases during 2026 (promoter-and-group holding 71.19% to 73.39%). No seller of… | — | Gelt Bery Trade and Investment Ltd, Emergin… | 71.19% → 73.39% | other | 2026-03-27 | [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_21072026135501_Outcome_results_21072026.pdf) · [2026-01-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_22012026152157_Outcome_results_22012026.pdf) · +1 more |
+| **JIOFIN** — Jio Financial Services Ltd. | Existing promoter-group entities Jamnagar Utilities & Power and Sikka Ports & Terminals acquired shares, including via preferential allotment, lifting promoter-and-group holding from 47.12%… | — | Jamnagar Utilities & Power Private Limited… | 47.12% → 50.98% | preferential issue | 2026-04-23 | exchange registers |
+| **GODREJPROP** — Godrej Properties Ltd. | Promoter and group holding rose from 47.05% to 51.66% over the window, with promoter entity Anamudi Real Estates LLP buying 0.31% in the open market (to 3.36%) and no promoter sales. Promot… | — | Anamudi Real Estates LLP (existing promoter) | 47.05% → 51.66% | other | 2026-03-09 | exchange registers |
+| **RELIGARE** — Religare Enterprises Ltd. | The Burman family, already classified as promoters after the open offer completed in February 2025, kept raising its holding — converting preferential warrants at Rs.235 (allotments on 2025… | — | Burman family / Burman Group (promoters) —… | 25.83% → 31.26% | preferential issue | 2026-03-20 | [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026201628_RELOUTCOME120820260.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · +2 more |
+| **ELECTCAST** — Electrosteel Castings Ltd. | Existing promoter entities raised their stake from 46.21% to 54.53% by buying 8.32% in open-market/block purchases — Electrosteel Thermal Coal Ltd bought 3.32% (March 2026) and Wilcox Merch… | India Opportunities Growth Fund Ltd - Pinew… | Electrosteel Thermal Coal Limited and Wilco… | 46.21% → 54.53% | block or bulk deal | 2026-03-23 | exchange registers |
+
+### 1c. Inside the promoter family or group
+
+29 companies. Control passed within the same family or group — a settlement, a generation handing over, a holding company restructured.
+
+| Company | What | Outgoing / selling | Incoming / buying | Promoter holding (register) | Mode | First shown | Sources |
+|---|---|---|---|---|---|---|---|
+| **ASHAPURMIN** — Ashapura Minechem Ltd. | Promoter individuals transferred shares to Shah-family trusts. On 2026-02-26 Chetan Navnitlal Shah moved 7.6% to Chaitali Nishit Salot Family Trust (5.85%) and Manan Chetan Shah Family Trus… | Chetan Navnitlal Shah; Dina Chetan Shah | Chaitali Nishit Salot Family Trust; Manan C… | 47.79% → 48.09% | other | 2026-02-26 | exchange registers |
+| **BAYERCROP** — Bayer Cropscience Ltd. | An intra-group transfer: promoter entity Bayer Cropscience Aktiengesellschaft sold 11.91% of the shares outstanding in a block deal, and Bayer AG, its parent and the group's ultimate owner,… | Bayer Cropscience Aktiengesellschaft | Bayer AG | — | block or bulk deal | — | exchange registers |
+| **BBTC** — Bombay Burmah Trading Corporation… | Mr. Nusli Neville Wadia transferred his entire personal holding of about 10% of the capital to promoter holding company Nowrosjee Wadia and Sons Limited through a series of inter-se promote… | Mr. Nusli Neville Wadia | Nowrosjee Wadia and Sons Limited | 74.05% → 74.05% | other | 2026-09-28 | exchange registers |
+| **BERGEPAINT** — Berger Paints India Ltd. | Promoter-group restructuring: under a sanctioned scheme of amalgamation, U.K. Paints (Overseas) Ltd and B.J.N. Holdings (I) Ltd merged into U K Paints (India) Pvt Ltd, transferring 16,87,88… | B.J.N. Holdings (I) Limited / Jenson & Nich… | U K Paints (India) Private Limited | 74.98% → 74.99% | scheme of arrangement | 2026-01-02 | exchange registers |
+| **CLEAN** — Clean Science and Technology Ltd. | Two rounds of off-market gifts inside the Boob promoter family: in Nov 2025 about 16.80% moved between family members (Asha, Nilima, Siddhartha gaining; Nidhi, Parth, Prasad, Pooja exiting)… | Ashok Ramnarayan Boob, Asha Ashok Boob, Nil… | ARB Business Trust, AAB Business Trust, Smt… | 50.97% → 51.29% | gift or inheritance | 2025-11-27 | [2026-06-26 General Updates](https://nsearchives.nseindia.com/corporate/CLEAN_26062026123656_Intimation_under_Regulation30_10_7__Signed.pdf) · [2026-06-11 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/vipulr_11062026194539_01062026124656_Intimation2.pdf) · +5 more |
+| **CPPLUS** — Aditya Infotech Ltd. | Promoter Aditya Khemka transferred 13.62% of capital by inter-se transfer on 2026-04-01 to the Aditya Khemka Business Family Trust (13.62%, holding 14.15% after) and to family members Shrad… | Aditya Khemka (promoter); separately Hari K… | Aditya Khemka Business Family Trust along w… | 77.12% → 71.8% | other | 2026-04-01 | [2026-02-24 Updates](https://nsearchives.nseindia.com/corporate/CPPLUS_24022026150140_mpsintimation.pdf) |
+| **DEEPAKFERT** — Deepak Fertilisers & Petrochemica… | Two promoter-group entities reshuffled a block: Robust Marketing Services Pvt Ltd transferred 5.86% of capital to SCM Commercial Pvt Ltd by inter-se transfer on 2026-04-23. Total promoter-a… | Robust Marketing Services Private Limited (… | SCM Commercial Private Limited (promoter) | 45.63% → 45.63% | other | 2026-04-23 | exchange registers |
+| **ENRIN** — Siemens Energy India Ltd. | Promoter holding stayed at 75% while shares moved between Siemens group entities by inter-se transfer: Siemens AG and Siemens Metals Technologies sold about 8.98% in total, which Siemens En… | Siemens Aktiengesellschaft, Germany; Siemen… | Siemens Energy Holdings B.V. (with Siemens… | 75.0% → 75.0% | other | 2025-12-22 | exchange registers |
+| **FLUOROCHEM** — Gujarat Fluorochemicals Ltd. | A composite scheme merges Inox Leasing and Finance Ltd — GFCL's own holding company — into GFCL, after demerging ILFL's other business into Inox Holdings and Investments Ltd. BSE and NSE ga… | Inox Leasing and Finance Limited (ILFL), th… | Shareholders of Inox Leasing and Finance Li… | 61.39% → 61.39% | scheme of arrangement | 2024-10-29 | [2026-08-25 General Updates](https://nsearchives.nseindia.com/corporate/FLUOROCHEM_25082026165236_GFCL_Intimation_of_newspaper_advertisement_Specialwindow.pdf) · [2026-07-10 Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/FLUOROCHEM_10072026124249_GFCL_Intimation_for_NOC_for_Scheme_of_Arrangement_10July2026.pdf) |
+| **GALLANTT** — Gallantt Ispat Ltd. | A family arrangement within the Agrawal promoter group: individual promoters and HUFs gifted/transferred shares off-market to other family members, then 14,98,90,556 shares moved to family… | Individual Agrawal family members and HUFs… | Gallantt Trust and CP Agrawal Daughters Tru… | 68.93% → 70.98% | gift or inheritance | 2025-12-08 | [2026-11-17 General Updates](https://nsearchives.nseindia.in/corporate/GALLANTT_17112026182928_GIL_17112026.pdf) · [2026-02-16 Updates](https://nsearchives.nseindia.com/corporate/GALLANTT_16022026170843_Gallantt_16022026.pdf) · +4 more |
+| **GMRP&UI** — GMR Power and Urban Infra Ltd. | Promoter group holding fell from 50.56% to 46.28% after a preferential allotment to a non-promoter (Synergy Industrial, Metals and Power Holdings, 4.77%, 12.74% after). Separately, in the J… | GMR Enterprises Private Limited (GEPL), pro… | GMR Estate Management Private Limited (GEMP… | 50.56% → 46.53% | other | 2026-06-22 | exchange registers |
+| **GRANULES** — Granules India Ltd. | Promoter Dr. Krishna Prasad Chigurupati sold 6.94% of the capital, while his co-promoter wife Mrs. Chigurupati Uma Devi acquired 9.12% (open market plus preferential allotment) and other fa… | Dr. Krishna Prasad Chigurupati | Mrs. Chigurupati Uma Devi (with Mr. Harsha… | 38.82% → 37.39% | other | 2026-09-25 | exchange registers |
+| **INOXINDIA** — INOX India Ltd. | Shares moved inside the Jain promoter family. In February 2026 Siddharth Jain, Ishita Jain and PACs acquired 5.94% with no promoter sale and group holding unchanged at 75%. In November 2026… | Pavan Kumar Jain | Shreyasi Goenka | 75.0% → 74.73% | gift or inheritance | 2026-02-19 | [2026-11-18 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.in/corporate/team_bbodade_18112026162018_INOXINDIA10.pdf) |
+| **JKPAPER** — JK Paper Ltd. | No outside buyer. Singhania promoter group entities (YPL Enterprises 6.95%, JK Credit 5.54%, Accurate Finman 1.03%) acquired 13.52% of capital, while two Singhania HUFs were dissolved and t… | Vikrampati Singhania HUF; Dr. Raghupati Sin… | YPL Enterprises Pvt. Ltd.; Jk Credit; Accur… | 49.63% → 52.94% | other | 2026-03-27 | exchange registers |
+| **KPITTECH** — KPIT Technologies Ltd. | Co-founder promoter Shashishekhar Balkrishna Pandit (S. B. Ravi Pandit) died on 8 May 2026; his shares and his interest in promoter vehicle Proficient Finstock LLP were transmitted to his w… | Shashishekhar Balkrishna Pandit (Mr. S. B.… | Nirmala Shashishekhar Pandit | 39.44% → 38.6% | gift or inheritance | 2026-06-30 | [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/MeghanaPhadnis_30042026103612_KPIT_ReclassAppln_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_02022026222621_KPIT_ReclassApplnSigned.pdf) · +5 more |
+| **NAZARA** — Nazara Technologies Ltd. | Promoter entity Mitter Infotech LLP (Mittersain side) sold 5.19% on the open market while fellow promoter Axana Estates LLP (Sacheti side) bought 3.99%, lifting it to 9.38%. Founder Nitish… | Mitter Infotech LLP (promoter); Mr. Nitish… | Axana Estates LLP (promoter) / Mr. Mithun P… | 35.46% → 32.0% | block or bulk deal | 2026-05-20 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · +8 more |
+| **NEOGEN** — NEOGEN CHEMICALS LTD. | On December 31, 2025 founder Haridas T. Kanani gifted 21.90% and Beena Kanani 10% of capital to their respective Kanani family trusts (managing trustee Dr. Harin Kanani) under a SEBI SAST e… | Haridas Thakarshi Kanani (Promoter and Chai… | Haridas Kanani Family Trust (20.00%), H T K… | 51.23% → 48.31% | gift or inheritance | 2026-01-02 | [2026-08-29 Updates](https://nsearchives.nseindia.com/corporate/NEOGEN_29082026191439_PIT.pdf) · [2026-03-17 Corrigendum](https://nsearchives.nseindia.com/corporate/NEOGEN_17032026172756_CC.pdf) · +7 more |
+| **PNCINFRA** — PNC Infratech Ltd. | Three promoter HUFs (Pradeep Kumar Jain HUF, Chakresh Kumar Jain HUF, Yogesh Kumar Jain HUF) transferred their entire holdings — 7.65% of capital in total — off-market on 2026-03-27 to indi… | Pradeep Kumar Jain HUF, Chakresh Kumar Jain… | Meena Jain, Madhavi Jain, Chakresh Kumar Ja… | 56.07% → 56.25% | other | 2026-03-30 | exchange registers |
+| **REDTAPE** — Redtape Ltd. | Promoter Yasmin Mirza transferred her entire 22.52% stake to fellow promoter Rashid Ahmed Mirza on 2025-12-24, raising him to 35.81% and reducing her to nil. Total promoter-and-group holdin… | Yasmin Mirza | Rashid Ahmed Mirza | 71.8% → 71.83% | other | 2025-12-24 | exchange registers |
+| **SANOFI** — Sanofi India Ltd. | Sanofi Healthcare India Private Limited, a promoter-group entity, acquired 35,00,000 shares (15.20%) from Hoechst GmbH, a promoter, on 24 September 2026 via an inter-se transfer through a b… | Hoechst GmbH | Sanofi Healthcare India Private Limited | 60.4% → 60.4% | block or bulk deal | 2026-09-17 | [2026-09-28 Updates](https://nsearchives.nseindia.in/corporate/COSECSANOFI_28092026142958_Covering_letter_for_PIT_Regulations_-_SHIPL_-Final.pdf) · [2026-09-28 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.in/corporate/team_bbodade_28092026155021_SANOFI.pdf) · +1 more |
+| **SIEMENS** — Siemens Ltd. | Shares moved only inside the Siemens promoter group: Siemens Energy entities transferred their holdings by inter-se transfer to Siemens International Holding B.V. (now 51.77%), and two Siem… | Siemens Energy Finance B.V., Siemens Energy… | Siemens International Holding B.V. | 75.0% → 75.0% | other | 2025-12-09 | [2026-09-07 Updates](https://nsearchives.nseindia.com/corporate/SiemensRaj_07092026214059_Disclosure_Receipt_of_request_letter.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SIEMENS_06022026135811_SL_-_Outcome_of_Board_Meeting_-_Feb_2026_Final.pdf) · +2 more |
+| **SKFINDIA** — SKF India Ltd. | Aktiebolaget SKF, the promoter, transferred its entire 52.58% holding (25,992,059 equity shares) off-market to SKF Interim AB, its wholly-owned subsidiary. An exempt inter-se promoter trans… | Aktiebolaget SKF (AB SKF) | SKF Interim AB | 52.58% → 52.58% | other | 2025-12-26 | [2025-12-26 General Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA22_26122025201331_9_SE_Intimation_Disclosure_under_Reg_10_7__of_SAST.pdf) |
+| **SOLARINDS** — Solar Industries India Ltd. | Promoters Kailash Chandra Nuwal and Indira Kailashchandra Nuwal transferred their entire 29.23% combined holding by inter-se transfer to the Sohan Devi Nand Lal Nuwal Family Trust in March… | Kailash Chandra Nuwal and Indira Kailashcha… | Sohan Devi Nand Lal Nuwal Family Trust | 73.15% → 73.15% | other | 2026-03-10 | exchange registers |
+| **STARCEMENT** — Star Cement Ltd. | Star Cement's board approved reclassifying 29 members of the 'Chamaria Group', holding 6.052% of capital, out of the Promoter/Promoter Group category into Public, and applied to the exchang… | Chamaria Group (29 members, incl. Rajendra… | Bhajanka and Agarwal promoter families cont… | 57.59% → 58.11% | other | 2026-02-06 | [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140642_SCL_Outcome_Signed.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026152633_SCL-Outcome_Financial.pdf) · +3 more |
+| **STARHEALTH** — Star Health and Allied Insurance… | Shares of late promoter Rakesh Jhunjhunwala (8,28,82,958) were transmitted on June 25, 2026 under probate and IRDAI approval to family vehicle Sitara Partners LLP (13.29%) and Mrs. Rekha Jh… | Estate of Late Mr. Rakesh Jhunjhunwala | Sitara Partners LLP (designated partners Mr… | 58.02% → 58.0% | gift or inheritance | 2026-06-29 | [2026-10-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARHEALTH_27102026205846_1BMOutcome.pdf) · [2026-10-27 Updates](https://nsearchives.nseindia.com/corporate/STARHEALTH_27102026211456_4IntimationunderRegulaion31AStitprajna.pdf) · +12 more |
+| **TEGA** — Tega Industries Ltd. | Promoter Manish Mohanka gifted 72,78,925 equity shares (9.69% of capital) off-market to MM Business Trust, a promoter-group trust with Mehul Mohanka as trustee, under a SEBI inter-se transf… | Manish Mohanka (Promoter) | MM Business Trust (Trustee: Mehul Mohanka) | 74.8% → 67.08% | gift or inheritance | 2026-03-24 | [2026-03-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24032026141542_Intimation_Reg_29_SEBI_SAST_without_PAN.pdf) |
+| **TRIVENI** — Triveni Engineering & Industries… | Tarun Sawhney Trust, part of the promoter group, received Rati Sawhney's 26.60% stake in promoter holding company STFL Trading and Finance Pvt Ltd (which holds 36.40% of Triveni) without co… | Mrs. Rati Sawhney (Promoter) | Tarun Sawhney Trust | 60.98% → 60.58% | gift or inheritance | 2026-02-06 | [2026-02-06 General Updates](https://nsearchives.nseindia.com/corporate/TRIVENI_06022026191658_Regulation_30_dt_06_02_2026.pdf) |
+| **VMART** — V-Mart Retail Ltd. | No outside owner arrived. A 13.91% block moved inside the Agarwal promoter group to Lalit Agarwal (disclosed 19 Dec 2025), consistent with the dissolution of Madan Gopal Agarwal HUF; total… | Madan Gopal Agarwal HUF (promoter entity, d… | Lalit Agarwal | 44.18% → 44.14% | other | 2025-12-19 | [2026-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VMART_03112026164834_FinalOutcome.pdf) · [2026-11-03 Updates](https://nsearchives.nseindia.com/corporate/VMART_03112026172835_Outcome_Reclassification.pdf) · +1 more |
+| **WAAREEENER** — Waaree Energies Ltd. | Chimanlal Tribhuvandas Doshi gifted 12,69,82,903 shares (44.14%) of Waaree Energies to the C.T. Doshi Family Trust by inter se transfer on 2026-07-16, and on 2026-08-06 gifted 99.9995% of W… | Mr. Chimanlal Tribhuvandas Doshi | C.T. Doshi Family Trust | 64.22% → 64.12% | gift or inheritance | 2026-07-09 | [2026-08-07 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_07082026191945_WAAREEENER.pdf) · [2026-07-17 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_17072026192355_WAAREEENER.pdf) |
 
 ## List 2 — the chief executive changing (CEO / MD / CMD / Executive Chairman)
 
-182 changes at 161 companies, newest first.
+178 changes at 157 companies, newest first.
 
 | Company | Seat | Outgoing | Incoming | Status | First said on | Sources |
 |---|---|---|---|---|---|---|
 | **KTKBANK** — Karnataka Bank Ltd. | Whole Time Director in the category of Managi… | Biji Sreekrishnavilas Sankaranarayanan (interim holder replaced) | Udaya Kumar Hebbar (external) | announced, not yet effective | 2026-11-18 | [2026-11-18 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026112025_MDAPPOINTMENTSEFiling18112026Signed.pdf) · [2026-11-18 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026190937_MDPRSD.pdf) · +2 more |
 | **KTKBANK** — Karnataka Bank Ltd. | Managing Director & Chief Executive Officer (… | Raghavendra Srinivas Bhat (end of term; last day 2026-11-15) | Biji Sreekrishnavilas Sankaranarayanan (interim; internal; from 2026-11-16) | effective | 2026-11-15 | [2026-11-16 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_16112026184718_PressRelease.pdf) · [2026-11-15 Cessation](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026222440_MDCESSATIONSigned.pdf) · +1 more |
-| **INOXWIND** — Inox Wind Ltd. | Chief Executive Officer | Sanjeev Agarwal (resignation; last day 2026-11-13) | — not named | seat vacant — no successor named | 2026-11-14 | [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) |
-| **MANORAMA** — Manorama Industries Ltd. | Chairman & Managing Director (cessation); Man… | Ashish Ramesh Saraf (resignation; last day 2026-11-12) | Deep Saraf (promoter family; from 2026-11-12) | effective | 2026-11-12 | [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201023_SignedFinaloutcome.pdf) · +2 more |
+| **INOXWIND** — Inox Wind Ltd. | Chief Executive Officer | Sanjeev Agarwal (resignation; last day 2026-11-13) | — not named | effective | 2026-11-13 | [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026175212_IWL_Results_FY2026_27_LR_2.pdf) · +1 more |
+| **MANORAMA** — Manorama Industries Ltd. | Chairman & Managing Director (outgoing); Mana… | Ashish Ramesh Saraf (resignation; last day 2026-11-12) | Deep Saraf (promoter family; from 2026-11-12) | effective | 2026-11-12 | [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193412_SignedFinaloutcome.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193916_SignedFinaloutcome.pdf) · +2 more |
 | **TATAPOWER** — Tata Power Co. Ltd. | CEO and Managing Director | — (new seat) | Sanjay Banga (internal; from 2027-05-01) | announced, not yet effective | 2026-11-11 | [2026-11-11 Appointment](https://nsearchives.nseindia.in/corporate/KSTPCL_11112026190124_MD_APPT_-_Reg_30.pdf) |
 | **VOLTAS** — Voltas Ltd. | Managing Director | Mukundan Menon C.P. (end of term; last day 2027-05-24) | Jayant Balan (internal; from 2027-05-25) | announced, not yet effective | 2026-11-06 | [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VOLTAS_RB_06112026165554_02SE_Directorssigned.pdf) · [2026-11-06 Retirement](https://nsearchives.nseindia.com/corporate/VOLTAS_RB_06112026171132_02SE_Directorssigned.pdf) · +2 more |
 | **BSOFT** — Birlasoft Ltd. | Chief Executive Officer and Managing Director | Angan Guha (resignation; last day 2026-12-07) | Madhavan Hariharan (group company; from 2026-12-08) | announced, not yet effective | 2026-11-06 | [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BSOFT_06112026181237_SEIntimationsigned.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BSOFT_ROID_104160_KMP_Doc.zip) · +2 more |
@@ -160,51 +175,51 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **NAZARA** — Nazara Technologies Ltd. | Managing Director | Nitish Mittersain (moved to another role in the company or group; last day 2026-10-12) | — not named | seat vacant — no successor named | 2026-10-12 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · +2 more |
 | **EMBDL** — Embassy Developments Ltd. | CEO & Executive Director (outgoing); re-desig… | Sachin Shah (resignation; last day 2026-12-31) | Aditya Virwani (internal; from 2027-01-01) | announced, not yet effective | 2026-10-09 | [2026-10-09 Change in Management](https://nsearchives.nseindia.com/corporate/EMBDL_09102026182830_EDL_BM_Outcome_09102026_Final.pdf) · [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/EMBDL_ROID_100143_KMP_Doc.zip) |
 | **PETRONET** — Petronet LNG Ltd. | Managing Director & CEO | — (new seat) | Sanjay Kumar (group company; from 2027-05-13) | announced, not yet effective | 2026-10-02 | [2026-10-02 Change in Management](https://nsearchives.nseindia.com/corporate/PETRONET_02102026181613_intimationappointmentsigned21026.pdf) |
-| **KPIGREEN** — KPI Green Energy Ltd. | Group Chief Executive Officer | Alok Das (resignation; last day 2026-10-01) | — not named | effective | 2026-10-01 | [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_01102026185211_40_KPI_Reg_30_Resignation_Alok_Das_To_Exchange_Signed.pdf) · [2026-10-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KPIGREEN_ROID_99653_KMP_Doc.zip) |
+| **KPIGREEN** — KPI Green Energy Ltd. | Group Chief Executive Officer | Alok Das (resignation; last day 2026-10-01) | — not named | seat vacant — no successor named | 2026-10-01 | [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_01102026185211_40_KPI_Reg_30_Resignation_Alok_Das_To_Exchange_Signed.pdf) · [2026-10-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KPIGREEN_ROID_99653_KMP_Doc.zip) |
 | **HDFCBANK** — HDFC Bank Ltd. | Managing Director and Chief Executive Officer… | Sashidhar Jagdishan (end of term; last day 2026-10-26) | Anup Bagchi (external; from 2026-10-27) | effective | 2026-10-01 | [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf) · [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HDFCBANK_07102026160736_SEIntimationPostalBallotNoticeOct2026.pdf) · +1 more |
 | **NIACL** — The New India Assurance Company L… | Chairman cum Managing Director | S Sivasankar (interim holder replaced; last day 2026-09-30) | Lavanya R Mundayur (government appointee; from 2026-09-30) | effective | 2026-09-30 | [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf) |
+| **GMDCLTD** — Gujarat Mineral Development Corpo… | Managing Director | Roopwant Singh (last day 2026-09-29) | Ajay Bhadoo (government appointee; from 2026-09-29) | effective | 2026-09-29 | [2026-09-29 Appointment](https://nsearchives.nseindia.com/corporate/GMDCLTD_29092026192940_stock_exchange_letter_ajay_bhadoo.pdf) |
 | **TRIDENT** — Trident Ltd. | Group Chief Executive Officer | Samir Prabodhchandra Joshipura (resignation; last day 2026-09-30) | — not named | effective | 2026-09-28 | [2026-09-28 Resignation](https://nsearchives.nseindia.com/corporate/TRIDENT_28092026202421_Intimation_Letter_STX.pdf) · [2026-09-28 Change in Management](https://nsearchives.nseindia.com/corporate/TRIDENT_28092026202853_Intimation_Letter_STX.pdf) · +2 more |
-| **AARTIPHARM** — Aarti Pharmalabs Ltd. | Managing Director | Hetal Gogri Gala (moved to another role in the company or group) | Rashesh C. Gogri (internal; from 2026-10-01) | effective | 2026-09-22 | [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · +2 more |
+| **AARTIPHARM** — Aarti Pharmalabs Ltd. | Managing Director of the Company | Hetal Gogri Gala (moved to another role in the company or group; last day 2026-09-30) | Rashesh C. Gogri (internal; from 2026-10-01) | effective | 2026-09-22 | [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · +2 more |
 | **360ONE** — 360 ONE WAM Ltd. | Chief Executive Officer of the Company | Karan Bhagat (moved to another role in the company or group) | Aashish Agarwal (external; from 2027-02-15) | announced, not yet effective | 2026-09-22 | [2026-09-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLWAM_22092026164333_20260922BoardOutcomeCEOandVCandMD.pdf) · [2026-09-22 Appointment](https://nsearchives.nseindia.com/corporate/IIFLWAM_22092026164952_20260922BoardOutcomeCEOandVCandMD.pdf) · +2 more |
 | **NLCINDIA** — NLC India Ltd. | Chairman cum Managing Director (CMD) | Sanoj Kumar Jha (interim holder replaced; last day 2026-09-17) | Prasanna Kumar Acharya (internal; from 2026-09-17) | effective | 2026-09-17 | [2026-09-22 General Updates](https://nsearchives.nseindia.com/corporate/NLCINDIA_22092026191155_SEIntimationDrPrasannaKumarAcharya.pdf) · [2026-09-18 Corrigendum](https://nsearchives.nseindia.com/corporate/NLCINDIA_18092026200724_SE_Intimation_-_Corrigendum_to_70th_AGM_Notice_Signed.pdf) · +2 more |
 | **BLUEDART** — Blue Dart Express Ltd. | Managing Director | Balfour Manuel (resignation; last day 2026-11-29) | Subramanian Sivarama Ramachandran (group company; from 2026-11-30) | announced, not yet effective | 2026-09-15 | [2026-09-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BLUEDART_ROID_98429_KMP_Doc.zip) · [2026-09-15 Change in Management](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_15092026193443_StockExchangeletter.pdf) · +2 more |
 | **LXCHEM** — Laxmi Organic Industries Ltd. | Managing Director & Chief Executive Officer (… | Rajan Venkatesh (resignation; last day 2026-11-13) | Harshvardhan Goenka (promoter family; from 2026-11-14) | effective | 2026-09-08 | [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · +2 more |
-| **GNFC** — Gujarat Narmada Valley Fertilizer… | Managing Director | Rajkumar Beniwal (resignation; last day 2026-09-09) | Sanjeev Kumar (interim; government appointee; from 2026-09-09) | effective | 2026-09-06 | [2026-09-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026215314_F_SE_Change_MD_SK_signed.pdf) · [2026-09-09 Resignation](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026220008_F_SE_Change_MD_SK_signed.pdf) · +2 more |
+| **GNFC** — Gujarat Narmada Valley Fertilizer… | Managing Director | Rajkumar Beniwal (resignation; last day 2026-09-09) | Sanjeev Kumar (government appointee; from 2026-09-09) | effective | 2026-09-06 | [2026-09-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026215314_F_SE_Change_MD_SK_signed.pdf) · [2026-09-09 Resignation](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026220008_F_SE_Change_MD_SK_signed.pdf) · +2 more |
 | **HEXT** — Hexaware Technologies Ltd. | Chief Executive Officer (CEO) and Whole-time… | Srikrishna Ramakarthikeyan (resignation; last day 2026-10-28) | Vivek Jetley (external; from 2026-10-28) | effective | 2026-09-02 | [2026-09-03 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HEXT_ROID_97846_KMP_Doc.zip) · [2026-09-02 Resignation](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026183321_Intimation_of_change_in_KMP.pdf) · +2 more |
 | **UJJIVANSFB** — Ujjivan Small Finance Bank Ltd. | Managing Director & Chief Executive Officer (… | Sanjeev Nautiyal (retirement; last day 2026-09-01) | Carol Furtado (interim; internal; from 2026-09-01) | effective | 2026-09-01 | [2026-11-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/UJJIVANBANK_13112026191424_117_EGM_Outcome_13112026.pdf) · [2026-10-16 Press Release](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_16102026141047_102_Intimation_Press_Release_Q2FY27.pdf) · +2 more |
 | **TVSMOTOR** — TVS Motor Company Ltd. | Director & Chief Executive Officer (D & CEO)… | K N Radhakrishnan (moved to another role in the company or group; last day 2027-01-27) | Peyman Kargar (internal; from 2027-01-27) | announced, not yet effective | 2026-08-28 | [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TVSMOTOR_22092026184830_NSEBSETVSM_PB_Intimation_Notice_sd.pdf) · [2026-08-28 Appointment](https://nsearchives.nseindia.com/corporate/TVSMOTOR_28082026101912_TVSMNSEBSEMANAGEMENTSD.pdf) · +2 more |
 | **LICHSGFIN** — LIC Housing Finance Ltd. | Managing Director & Chief Executive Officer | T Adhikari (retirement; last day 2026-08-28) | Sandeep Kumar (group company; from 2026-08-29) | effective | 2026-08-28 | [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_22092026171458_Stock_Exchange_Intimation_Postal_Ballot_Notice.pdf) · [2026-08-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026205304_Outcome_of_Meeting_28th_August2026_.PDF) · +2 more |
 | **HEGAM** — HEG Advanced Materials Ltd. | Chairman, Managing Director & Chief Executive… | Ravi Jhunjhunwala (moved to another role in the company or group; last day 2026-09-01) | Riju Jhunjhunwala (promoter family; from 2026-09-01) | effective | 2026-08-24 | [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182611_FinalOutcome24082026.pdf) · [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182755_FinalOutcome24082026.pdf) · +2 more |
 | **COLPAL** — Colgate Palmolive (India) Ltd. | Managing Director and Chief Executive Officer | Prabha Narasimhan (moved to another role in the company or group; last day 2026-09-27) | Manish Anandani (external; from 2026-09-28) | effective | 2026-08-21 | [2026-08-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/COLPALS_21082026085728_SEOutcomeAug2026.pdf) · [2026-08-21 Cessation](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090256_SEOutcomeAug2026.pdf) · +2 more |
-| **RELIGARE** — Religare Enterprises Ltd. | Managing Director | — (new seat) | Arjun Lamba (promoter family; from 2026-08-12) | effective | 2026-08-12 | [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · +1 more |
-| **SKFINDUS** — SKF India (Industrial) Ltd. | Managing Director | Mukund Vasudevan (moved to another role in the company or group; last day 2026-08-31) | Sujeeth Pai (internal; from 2026-09-01) | effective | 2026-08-11 | [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026214632_NSE.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026215236_NSE.pdf) · +2 more |
+| **SKFINDUS** — SKF India (Industrial) Ltd. | Managing Director | Mukund Vasudevan (moved to another role in the company or group; last day 2026-08-31) | Sujeeth Pai (internal; from 2026-09-01) | effective | 2026-08-11 | [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026212338_NSE.pdf) · [2026-08-11 Updates](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026213712_NSE.pdf) · +2 more |
 | **MANAPPURAM** — Manappuram Finance Ltd. | Managing Director & Chief Executive Officer a… | V. P. Nandakumar (moved to another role in the company or group; last day 2026-12-31) | Ashish Singh (external; from 2027-01-01) | announced, not yet effective | 2026-08-11 | [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · +2 more |
 | **GODREJCP** — Godrej Consumer Products Ltd. | Managing Director & Chief Executive Officer | Sudhir Sitapati (resignation; last day 2026-08-11) | Aasif Malbari (internal; from 2026-08-12) | effective | 2026-08-11 | [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · +2 more |
 | **LEMONTREE** — Lemon Tree Hotels Ltd. | Chairman and Executive Director | Patanjali Govind Keswani (end of term; last day 2027-03-31) | — not named | announced, not yet effective | 2026-08-07 | [2026-09-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/LEMONTREE_21092026211939_Intimation.pdf) · [2026-08-07 Change in Director(s)](https://nsearchives.nseindia.com/corporate/LEMONTREE_07082026214129_Outcome_Aug_2026.pdf) |
 | **CUMMINSIND** — Cummins India Ltd. | Managing Director | Shveta Arya (resignation; last day 2026-08-31) | Adegbile Adedapo Adewunmi (group company; from 2026-11-01) | effective | 2026-08-05 | [2026-10-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026181305_SEintimationBM08102026.pdf) · [2026-10-08 Appointment](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026182130_SEintimationBM08102026.pdf) · +2 more |
 | **NAZARA** — Nazara Technologies Ltd. | Chief Executive Officer (CEO) and Key Manager… | Nitish Mittersain (resignation; last day 2026-09-15) | Raymond Albaladejo Stauffer (external; from 2026-09-16) | effective | 2026-08-03 | [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_03082026215838_OutcomeofBoardMeeting.pdf) · [2026-08-03 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221421_PRIntimation.pdf) · +2 more |
-| **MUTHOOTFIN** — Muthoot Finance Ltd. | Managing Director | George Alexander Muthoot (moved to another role in the company or group; last day 2026-09… | Alexander George (promoter family; from 2026-10-01) | effective | 2026-08-01 | [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · +2 more |
-| **MUTHOOTFIN** — Muthoot Finance Ltd. | Chief Executive Officer (CEO) | — (new seat) | K. R. Bijimon (internal; from 2026-10-01) | effective | 2026-08-01 | [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-08-01 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026173519_PressReleaseBoardChangessd.pdf) |
+| **MUTHOOTFIN** — Muthoot Finance Ltd. | Managing Director | George Alexander Muthoot (moved to another role in the company or group) | Alexander George (promoter family; from 2026-10-01) | effective | 2026-08-01 | [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · +2 more |
+| **MUTHOOTFIN** — Muthoot Finance Ltd. | Chief Executive Officer (CEO) | — (new seat) | K R Bijimon (internal; from 2026-10-01) | effective | 2026-08-01 | [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · +2 more |
 | **NIACL** — The New India Assurance Company L… | Chairman cum Managing Director (CMD) | Girija Subramanian (retirement; last day 2026-07-31) | S Sivasankar (interim; internal; from 2026-08-01) | effective | 2026-07-31 | [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf) · +1 more |
 | **CENTRALBK** — Central Bank of India | Managing Director and Chief Executive Officer | — (new seat) | Kalyan Kumar | effective | 2026-07-31 | [2026-08-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_01082026163928_Final_SE_Outcome_AGM.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_31072026202046_Final_Final_SE_Outcome_AGM_2025-26.pdf) · +1 more |
 | **AARTIDRUGS** — Aarti Drugs Ltd. | Chairman, Managing Director and Chief Executi… | Prakash Moreshwar Patil (retirement; last day 2026-09-30) | Adhish Prakash Patil (internal; from 2026-10-01) | effective | 2026-07-31 | [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · [2026-09-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_26092026202957_ADL.pdf) · +2 more |
 | **VEDL** — Vedanta Ltd. | Executive Director and additionally designate… | — (new seat) | Arun Misra (internal; from 2026-08-01) | effective | 2026-07-30 | [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · +2 more |
 | **AARTIIND** — Aarti Industries Ltd. | Managing Director and Chief Executive Officer | Rajendra V. Gogri (moved to another role in the company or group; last day 2026-09-30) | Suyog K. Kotecha (internal; from 2026-10-01) | effective | 2026-07-30 | [2026-09-21 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AARTIIND_21092026184320_AARTIIND_Proceeding_2026.pdf) · [2026-07-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AARTIIND_30072026190154_AARTIIND_30_Directors.pdf) · +1 more |
-| **INFY** — Infosys Ltd. | Chief Executive Officer and Managing Director | Salil Parekh (end of term; last day 2027-03-31) | Ashiss Kumar Dash (internal; from 2027-04-01) | announced, not yet effective | 2026-07-28 | [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) |
 | **JINDALSTEL** — Jindal Steel Ltd. | Additional Director and Managing Director of… | — (new seat) | Vidya Rattan Sharma (external; from 2026-07-24) | effective | 2026-07-24 | [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026180707_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026181123_STX240626.pdf) · +2 more |
 | **HINDZINC** — Hindustan Zinc Ltd. | CEO & Whole-time Director | Arun Misra (end of term; last day 2026-07-31) | Amarendu Prakash (external; from 2026-08-01) | effective | 2026-07-24 | [2026-07-31 Cessation](https://nsearchives.nseindia.com/corporate/HINDZINCNSE_31072026181740_SE_Intimation-Cessation.pdf) · [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HINDZINCNSE_24072026142303_SE_Intimation-CEO.pdf) · +2 more |
+| **INFY** — Infosys Ltd. | Chief Executive Officer and Managing Director | Salil Parekh (end of term; last day 2027-03-31) | Ashiss Kumar Dash (internal; from 2027-04-01) | announced, not yet effective | 2026-07-23 | [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · +2 more |
 | **OFSS** — Oracle Financial Services Softwar… | Managing Director and Chief Executive Officer | Makarand Padalkar (resignation; last day 2026-07-23) | Avadhut Ketkar (internal; from 2026-07-24) | effective | 2026-07-22 | [2026-07-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/OFSS_22072026183204_Outcome_of_Board_Meeting_22072026sd.pdf) · [2026-07-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/OFSS_22072026183331_Outcome_of_Board_Meeting_22072026sd.pdf) · +2 more |
 | **GABRIEL** — Gabriel India Ltd. | Executive Director of the Company and as Grou… | — (new seat) | Mahendra K. Goyal (group company; from 2026-07-21) | effective | 2026-07-21 | [2026-07-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/GABRIEL_21072026191306_Reg_30_SE_Disclosure_Changes_in_Directors_SIGNED.pdf) |
 | **LATENTVIEW** — Latent View Analytics Ltd. | Chief Executive Officer (CEO) and Key Manager… | Rajan Sethuraman (resignation; last day 2026-07-15) | Sonal Ramrakhiani (external; from 2026-07-15) | effective | 2026-07-15 | [2026-07-15 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026184010_SE_Intimation_Leadership_change_v2signed.pdf) · [2026-07-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LATENTVIEW_ROID_91901_KMP_Doc.zip) · +2 more |
 | **UNIONBANK** — Union Bank of India | Managing Director and CEO of the Bank | — (new seat) | Asheesh Pandey | effective | 2026-07-10 | [2026-07-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/UNIONBANK_10072026232139_SE_Proceedings.pdf) |
 | **JUSTDIAL** — Justdial Ltd. | Managing Director and Chief Executive Officer | V.S.S. Mani (end of term; last day 2026-07-31) | Dinkar Ayilavarapu (external; from 2026-08-01) | effective | 2026-07-10 | [2026-07-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/chintan_10072026223347_Outcome_sd.pdf) · [2026-07-10 Change in Management](https://nsearchives.nseindia.com/corporate/chintan_10072026225634_Outcome_sd.pdf) · +2 more |
 | **MANAPPURAM** — Manappuram Finance Ltd. | Chief Executive Officer and Key Managerial Pe… | Deepak Reddy (resignation; last day 2026-12-31) | Ashish Singh (external; from 2027-01-01) | announced, not yet effective | 2026-07-03 | [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · +2 more |
-| **TVSSCS** — TVS Supply Chain Solutions Ltd. | Global Chief Executive Officer | Vikas Chadha (moved to another role in the company or group; last day 2026-06-30) | — not named | seat vacant — no successor named | 2026-07-01 | [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · +2 more |
+| **TVSSCS** — TVS Supply Chain Solutions Ltd. | Global Chief Executive Officer | Vikas Chadha (moved to another role in the company or group; last day 2026-06-30) | — not named | seat vacant — no successor named | 2026-07-01 | [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · +2 more |
 | **IREDA** — Indian Renewable Energy Developme… | Chairman & Managing Director of IREDA | Pradip Kumar Das (retirement; last day 2026-06-30) | Bijay Kumar Mohanty (interim; internal; from 2026-07-01) | effective | 2026-07-01 | [2026-10-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IREDAEQ_30102026212246_IntimationtoSEappointmentofCMDJKN.pdf) · [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/IREDAEQ_01102026214318_CMDAddCharge01102026.pdf) · +1 more |
 | **RHIM** — RHI MAGNESITA INDIA LTD. | Managing Director & Chief Executive Officer | Parmod Sagar (resignation; last day 2026-06-30) | Pankaj Malhan (external; from 2026-07-01) | effective | 2026-06-30 | [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RHIM_29092026143410_20260929OutcomeofAGM.pdf) · [2026-06-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RHIM_30062026192852_merged_ocred.pdf) · +2 more |
 | **NLCINDIA** — NLC India Ltd. | Chairman and Managing Director (CMD) | Prasanna Kumar Motupalli (retirement; last day 2026-06-30) | Sanoj Kumar Jha (interim; government appointee; from 2026-07-01) | effective | 2026-06-30 | [2026-09-17 Appointment](https://nsearchives.nseindia.com/corporate/NLCINDIA_17092026180333_CMD_Appointment_Intimation_17092026_Signed.pdf) · [2026-07-10 Appointment](https://nsearchives.nseindia.com/corporate/NLCINDIA_10072026225319_Final_Nominee_Director_Apt_Intimation-Signed.pdf) · +2 more |
 | **ENGINERSIN** — Engineers India Ltd. | Chairman & Managing Director, Engineers India… | Praveen M. Khanooja (interim holder replaced; last day 2026-06-29) | Atul Gupta (internal; from 2026-06-29) | effective | 2026-06-29 | [2026-06-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_29062026201728_covering.pdf) · [2026-06-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03062026104743_extension.pdf) · +2 more |
-| **CONCOR** — Container Corporation of India Lt… | Chairman and Managing Director (CMD)/CONCOR | Sanjay Swarup (retirement; last day 2026-07-31) | Ajit Kumar Panda (internal; from 2026-08-01) | effective | 2026-06-29 | [2026-08-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CONCOR_01082026112246_CONCOR_SE_01082026_CMD.pdf) · [2026-07-24 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_24072026183338_CONCOR_SE_CMDBOD_24072026.pdf) · +2 more |
+| **CONCOR** — Container Corporation of India Lt… | Chairman and Managing Director (CMD) | Sanjay Swarup (retirement; last day 2026-07-31) | Ajit Kumar Panda (internal; from 2026-08-01) | effective | 2026-06-29 | [2026-08-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CONCOR_01082026112246_CONCOR_SE_01082026_CMD.pdf) · [2026-07-24 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_24072026183338_CONCOR_SE_CMDBOD_24072026.pdf) · +2 more |
 | **KOTAKBANK** — Kotak Mahindra Bank Ltd. | Managing Director & Chief Executive Officer (… | Ashok Vaswani (end of term; last day 2026-12-31) | Anup Kumar Saha (internal; from 2027-01-01) | announced, not yet effective | 2026-06-27 | [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · +2 more |
 | **SYRMA** — Syrma SGS Technology Ltd. | Chief Executive Officer | Satendra Singh (moved to another role in the company or group; last day 2026-06-26) | Jaidit Singh Brar (external; from 2026-06-26) | effective | 2026-06-26 | [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYRMASGS_29072026164710_PressRelease29072026Signed.pdf) · [2026-06-26 Change in Management](https://nsearchives.nseindia.com/corporate/SYRMASGS_26062026190657_SEDisclosureCEO260626.pdf) |
 | **IRCTC** — Indian Railway Catering And Touri… | Chairman and Managing Director | Sanjay Kumar Jain (resignation; last day 2026-07-20) | Rahul Himalian (interim; internal; from 2026-07-20) | effective | 2026-06-23 | [2026-06-23 General Updates](https://nsearchives.nseindia.com/corporate/IRCTC_23062026162821_STXintimationCMD.pdf) · [2026-06-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/IRCTC_ROID_90296_KMP_Doc.zip) · +2 more |
@@ -213,22 +228,22 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **BATAINDIA** — Bata India Ltd. | Managing Director [designated as Managing Dir… | Gunjan Shah (end of term; last day 2026-09-30) | Sanjay S. Rao (external; from 2026-10-01) | effective | 2026-06-18 | [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_30092026184213_SE_Letter_Change_in_Director_Signed.pdf) · [2026-08-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_12082026223037_SE_Letter_AGMDirector_signed.pdf) · +1 more |
 | **GICRE** — General Insurance Corporation of… | Chairman-cum-Managing Director (CMD) | — (new seat) | Hitesh Rameshchandra Joshi (government appointee; from 2026-06-16) | effective | 2026-06-16 | [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_22092026151843_signedSEIntimationProceedingsof54thAGM.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_31082026233538_IntimationtoSENoticeofAGM20252026.pdf) · +2 more |
 | **SMLMAH** — SML Mahindra Ltd. | Executive Director & Chief Executive Officer | Venkataraman Srinivas (moved to another role in the company or group; last day 2026-06-30) | Vinod Kumar Sahay (interim; internal; from 2026-07-01) | effective | 2026-06-10 | [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLMAH_10062026201214_outcome_OF_BM.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLMAH_10062026202312_outcome_OF_BM.pdf) · +2 more |
-| **SKYGOLD** — SKY GOLD AND DIAMONDS Ltd. | Chief Executive Officer (CEO) | — (new seat) | Akash Talesara (from 2026-06-09) | effective | 2026-06-09 | [2026-06-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026122205_Ouctome09062026.pdf) · [2026-06-09 Appointment](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026123456_Ouctome09062026.pdf) · +1 more |
+| **SKYGOLD** — SKY GOLD AND DIAMONDS Ltd. | Chief Executive Officer (CEO) | — (new seat) | Akash Talesara (from 2026-06-09) | effective | 2026-06-09 | [2026-08-09 Press Release](https://nsearchives.nseindia.com/corporate/SKYGOLD_09082026130813_Pressrelease.pdf) · [2026-06-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026122205_Ouctome09062026.pdf) · +2 more |
 | **NEWGEN** — Newgen Software Technologies Ltd. | Chief Executive Officer (CEO) and Key Manager… | Virender Jeet (resignation; last day 2026-08-31) | Tarun Nandwani (internal; from 2026-08-01) | effective | 2026-06-09 | [2026-07-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NEWGEN2_02072026140429_Outcome_of_BM_02072026.pdf) · [2026-07-02 Appointment](https://nsearchives.nseindia.com/corporate/NEWGEN2_02072026140723_Outcome_of_BM_02072026.pdf) · +2 more |
 | **HINDCOPPER** — Hindustan Copper Ltd. | Chairman & Managing Director (CMD), Hindustan… | Sanjiv Kumar Singh | Anupam Misra (government appointee; from 2026-07-01) | effective | 2026-06-08 | [2026-08-27 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_27082026174217_AGMnotice26082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_01072026103017_Reg30-JoiningofCMD01072026.pdf) · +2 more |
 | **IGL** — Indraprastha Gas Ltd. | Managing Director | Kamal Kishore Chatiwal (moved to another role in the company or group; last day 2026-06-0… | Kumar Shanker (group company; from 2026-06-05) | effective | 2026-06-05 | [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IGL1_08072026160848_IGLPostalBallotNotice08072026.pdf) · [2026-06-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IGL1_05062026180112_IGLChangeinMD05062026.pdf) |
 | **UCOBANK** — UCO Bank | Managing Director & Chief Executive Officer (… | Ashwani Kumar (end of term; last day 2026-05-31) | Rajendra Kumar Saboo (interim; internal; from 2026-06-19) | effective | 2026-06-01 | [2026-08-25 General Updates](https://nsearchives.nseindia.com/corporate/UCOBANK_25082026195803_NSEBSEMDEXT25082026.pdf) · [2026-06-19 Appointment](https://nsearchives.nseindia.com/corporate/UCOBANK_19062026193131_MD_Appointment.pdf) · +1 more |
 | **CANBK** — Canara Bank | Managing Director & Chief Executive Officer (… | Hardeep Singh Ahluwalia (interim holder replaced) | Brajesh Kumar Singh (government appointee; from 2026-06-01) | effective | 2026-06-01 | [2026-06-01 Appointment](https://nsearchives.nseindia.com/corporate/CANBK_01062026205351_LettertoSE.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CANBK_09042026124402_LettertoexchangeSd.pdf) · +1 more |
 | **FIEMIND** — Fiem Industries Ltd | Managing Director (Key Managerial Personnel) | Jagjeevan Kumar Jain (moved to another role in the company or group; last day 2026-05-31) | Rahul Jain (promoter family; from 2026-06-01) | effective | 2026-05-30 | [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_31072026183154_FIEMIND37thAGMProcedings.pdf) · [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_08072026173633_FIEMIND37thAGMNotice.pdf) · +2 more |
-| **FINCABLES** — Finolex Cables Ltd. | Chief Executive Officer ("CEO") | — (new seat) | Mahesh Viswanathan (internal; from 2026-06-01) | effective | 2026-05-28 | [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf) |
+| **FINCABLES** — Finolex Cables Ltd. | Chief Executive Officer ("CEO") | — (new seat) | Mahesh Viswanathan (internal; from 2026-06-01) | effective | 2026-05-28 | [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · +1 more |
 | **CASTROLIND** — Castrol India Ltd. | Managing Director | — (new seat) | Saugata Basuray (internal; from 2026-06-01) | effective | 2026-05-28 | [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CASTROLINDIA_28052026150938_CIl_Outcome_of_BM_28_May_2026_Final.pdf) · [2026-05-28 Cessation](https://nsearchives.nseindia.com/corporate/CASTROLINDIA_28052026151332_CIl_Outcome_of_BM_28_May_2026_Final.pdf) · +2 more |
 | **VTL** — Vardhman Textiles Ltd. | Vice-Chairperson and Managing Director | — (new seat) | Suchita Jain (promoter family; from 2026-04-01) | effective | 2026-05-26 | [2026-06-26 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VTL_26062026144514_VTXL_sd.pdf) · [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/VTL_25062026172247_Outcome_sd.pdf) · +2 more |
 | **VTL** — Vardhman Textiles Ltd. | Managing Director | — (new seat) | Neeraj Jain (from 2026-04-01) | effective | 2026-05-26 | [2026-06-26 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VTL_26062026144514_VTXL_sd.pdf) · [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/VTL_25062026172247_Outcome_sd.pdf) · +2 more |
 | **SUMICHEM** — Sumitomo Chemical India Ltd. | Managing Director | Chetan Shah (end of term; last day 2026-08-31) | Suresh Ramachandran (internal; from 2026-09-01) | effective | 2026-05-26 | [2026-07-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_03072026104513_Final_Revised_Notice.pdf) · [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_02072026155450_Notice_of_26th_AGM_FINAL.pdf) · +2 more |
-| **TVSSCS** — TVS Supply Chain Solutions Ltd. | Managing Director | Ravi Viswanathan (resignation; last day 2026-06-30) | Vikas Chadha (internal; from 2026-07-01) | effective | 2026-05-25 | [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · +2 more |
+| **TVSSCS** — TVS Supply Chain Solutions Ltd. | Managing Director | Ravi Viswanathan (resignation; last day 2026-06-30) | Vikas Chadha (internal; from 2026-07-01) | effective | 2026-05-25 | [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · +2 more |
 | **STARCEMENT** — Star Cement Ltd. | Managing Director & Chief Executive Officer (… | — (new seat) | Tushar Bhajanka (promoter family; from 2026-05-22) | effective | 2026-05-22 | [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026135147_SCL_Outcome_Signed.pdf) · [2026-08-07 General Updates](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140308_SCL_Outcome_Signed.pdf) · +2 more |
-| **JPPOWER** — Jaiprakash Power Ventures Ltd. | Director (Managing Director & CEO) | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 | [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf) |
-| **GMMPFAUDLR** — GMM Pfaudler Ltd. | Group Chief Executive Officer (Group CEO) & K… | — (new seat) | Gregory Gelhaus (promoter family; from 2026-05-21) | effective | 2026-05-21 | [2026-08-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04082026192730_GMMPfaudlerproceedings.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162217_Reg_30_ocred.pdf) · +2 more |
+| **JPPOWER** — Jaiprakash Power Ventures Ltd. | Managing Director & CEO | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 | [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf) |
+| **GMMPFAUDLR** — GMM Pfaudler Ltd. | Group Chief Executive Officer (Group CEO) & K… | — (new seat) | Gregory Gelhaus (promoter family; from 2026-05-21) | effective | 2026-05-21 | [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026161653_OutcomeMay212026.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162217_Reg_30_ocred.pdf) · +2 more |
 | **ATGL** — Adani Total Gas Ltd. | Chief Executive Officer (Key Managerial Perso… | Suresh P. Manglani (moved to another role in the company or group; last day 2026-05-21) | Sanjay Pandita (external; from 2026-05-22) | effective | 2026-05-21 | [2026-09-03 Change in Management](https://nsearchives.nseindia.com/corporate/ATGL2024_03092026140903_ATGL_Disclosure_SE_Appt_CFO_03092026.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/ATGL2024_21052026191953_ATGL_SE_BM_Outcome_21052026.pdf) · +2 more |
 | **ABDL** — Allied Blenders and Distillers Lt… | Managing Director & KMP of the Company | Alok Gupta (resignation; last day 2026-05-31) | Amar Sinha (external; from 2026-06-01) | effective | 2026-05-21 | [2026-05-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185248_Change_in_MD_sd.pdf) · [2026-05-21 Cessation](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185302_Change_in_MD_sd.pdf) · +2 more |
 | **FIEMIND** — Fiem Industries Ltd | CEO & Whole-time Director (Key Managerial Per… | Vineet Sahni (resignation; last day 2026-05-31) | — not named | seat vacant — no successor named | 2026-05-19 | [2026-05-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163132_FIEMINDBMOutcomeMay2026.pdf) · [2026-05-30 Resignation](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163930_FIEMINDCEOResignUpdate.pdf) · +2 more |
@@ -250,7 +265,7 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **TDPOWERSYS** — TD Power Systems Ltd. | Chief Executive Officer | — (new seat) | Deepak Kumar Sinha (external; from 2026-04-03) | effective | 2026-04-02 | [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/TDPOWERSYS_02042026130604_FIANL-SG.pdf) |
 | **SAIL** — Steel Authority of India Ltd. | Chairman and Managing Director, Steel Authori… | Amarendu Prakash (resignation; last day 2026-04-01) | Krishna Kumar Singh (interim; internal; from 2026-04-02) | effective | 2026-04-02 | [2026-04-02 Resignation](https://nsearchives.nseindia.com/corporate/SAIL_02042026122818_02042026.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/SAIL_02042026123259_02042026.pdf) |
 | **POWERGRID** — Power Grid Corporation of India L… | Chairman & Managing Director (CMD) | Ravindra Kumar Tyagi (retirement; last day 2026-03-31) | Burra Vamsi Rama Mohan (internal; from 2026-04-01) | effective | 2026-04-01 | [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_06042026220329_BSENSEReg30AddCharge.pdf) · [2026-04-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01042026102949_BSENSERKTyagi.pdf) · +2 more |
-| **NEULANDLAB** — Neuland Laboratories Ltd. | Chief Executive Officer and Managing Director | Sucheth Davuluri (moved to another role in the company or group) | Saharsh Davuluri (internal; from 2026-04-01) | effective | 2026-04-01 | [2026-04-01 Press Release](https://nsearchives.nseindia.com/corporate/NEULANDLAB_01042026133750_Signed_SEIntimationPressRelease01042026.pdf) |
+| **NEULANDLAB** — Neuland Laboratories Ltd. | Chief Executive Officer and Managing Director | Sucheth Davuluri (moved to another role in the company or group; last day 2026-03-31) | Saharsh Davuluri (internal; from 2026-04-01) | effective | 2026-04-01 | [2026-04-01 Press Release](https://nsearchives.nseindia.com/corporate/NEULANDLAB_01042026133750_Signed_SEIntimationPressRelease01042026.pdf) |
 | **APLLTD** — Alembic Pharmaceuticals Ltd. | Chief Executive Officer (CEO) | Chirayu Amin (end of term; last day 2026-03-31) | — not named | seat vacant — no successor named | 2026-04-01 | [2026-04-01 Appointment](https://nsearchives.nseindia.com/corporate/APLLTD_01042026182524_APL_Intimation_Reg30_PCA_Signed.pdf) · [2026-04-01 Cessation](https://nsearchives.nseindia.com/corporate/APLLTD_01042026183655_APL_Intimation_Reg30_CRA_Signed.pdf) · +1 more |
 | **INDIGO** — InterGlobe Aviation Ltd. | Chief Executive Officer | Rahul Bhatia (interim holder replaced; last day 2026-08-03) | William Walsh (external; from 2026-08-03) | effective | 2026-03-31 | [2026-03-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_31032026151913_SE_disclosure_31032026.pdf) · [2026-03-31 Press Release](https://nsearchives.nseindia.com/corporate/Indigo1_31032026153024_SE_disclosure_31032026.pdf) · +2 more |
 | **IFBIND** — IFB Industries Ltd. | Managing Director / Chief Executive Officer | Panamanna Hariharan Narayanan (resignation; last day 2026-03-31) | Sandeep Joseph Abraham (external; from 2026-04-09) | effective | 2026-03-28 | [2026-04-09 Appointment](https://nsearchives.nseindia.com/corporate/IFBIND1_09042026185411_Outcome_Appointment.pdf) · [2026-04-09 Appointment](https://nsearchives.nseindia.com/corporate/IFBIND1_09042026185736_Outcome_Appointment.pdf) · +1 more |
@@ -281,17 +296,18 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **FACT** — Fertilisers and Chemicals Travanc… | Chairman and Managing Director | Anupam Misra (interim holder replaced) | S. Sakthimani (internal; from 2026-02-02) | effective | 2026-02-02 | [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/FACT_08062026212027_CS-RO-NSE-136-HCL.pdf) · [2026-02-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_03022026173630_037_CMD__DF_Addl_charge.pdf) · +2 more |
 | **COCHINSHIP** — Cochin Shipyard Ltd. | Chairman and Managing Director | Madhu Sankunny Nair (retirement; last day 2026-01-31) | Jose V J (interim; internal; from 2026-02-01) | effective | 2026-01-31 | [2026-06-01 Updates](https://nsearchives.nseindia.com/corporate/Aswi4739_01062026171523_SE_Intimation_SD.pdf) · [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Aswi4739_31012026171446_SE_Intimation_sd.pdf) · +2 more |
 | **UTIAMC** — UTI Asset Management Company Ltd. | Managing Director & Chief Executive Officer | Imtaiyazur Rahman (end of term; last day 2026-01-31) | Vetri Subramaniam (internal; from 2026-02-01) | effective | 2026-01-30 | [2026-01-30 General Updates](https://nsearchives.nseindia.com/corporate/CSUTIAMC_30012026175431_Intimation_under_Regulation_30_5_.pdf) · [2025-12-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CSUTIAMC_17122025142843_Intimation_of_Resignation_FM.pdf) |
-| **AMBUJACEM** — Ambuja Cements Ltd. | Managing Director | Ajay Kapur (retirement; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-30 | [2026-02-03 Resignation](https://nsearchives.nseindia.com/corporate/AMBUJACEM_03022026181911_ACL_AK_ResignationLetter.pdf) · [2026-01-31 General Updates](https://nsearchives.nseindia.com/corporate/AMBUJACEM_31012026161305_ACL_ChangeofKMPMaterial.pdf) · +2 more |
+| **AMBUJACEM** — Ambuja Cements Ltd. | Managing Director | Ajay Kapur (retirement; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-30 | [2026-01-31 General Updates](https://nsearchives.nseindia.com/corporate/AMBUJACEM_31012026161305_ACL_ChangeofKMPMaterial.pdf) · [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026142919_ACL_Outcome.pdf) · +2 more |
 | **ALOKINDS** — Alok Industries Ltd. | Chief Executive Officer and Key Managerial Pe… | Harsh Bapna (resignation; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-30 | [2026-01-30 Resignation](https://nsearchives.nseindia.com/corporate/ALOKIND_30012026155900_Reg30_Intimation_CEO_Resignation.pdf) |
 | **SOUTHBANK** — South Indian Bank Ltd. | Managing Director & Chief Executive Officer (… | P R Seshadri (end of term; last day 2026-09-30) | Mahesh Muralidhar Pai (external; from 2026-10-01) | effective | 2026-01-29 | [2026-07-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SOUTHBANK_16072026185309_SD_STT_OUTCOMEOF_BOARD_16JULY2026.pdf) · [2026-07-08 Disclosure of material issue](https://nsearchives.nseindia.com/corporate/SOUTHBANK_08072026084914_SD_STT_MDAPPOPINTMENT_08JULT2026__.pdf) · +2 more |
-| **RAINBOW** — Rainbow Childrens Medicare Ltd. | Chief Executive Officer | — (new seat) | Abrarali Dalal | effective | 2026-01-28 | [2026-10-31 Press Release (Revised)](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_31102026200311_IntimationPressreleaserev.pdf) · [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · +10 more |
+| **RAINBOW** — Rainbow Childrens Medicare Ltd. | Chief Executive Officer | — (new seat) | Abrarali Dalal | effective | 2026-01-28 | [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf) |
 | **SBFC** — SBFC Finance Ltd. | Managing Director & CEO | Aseem Dhru (resignation; last day 2026-03-31) | Mahesh Dayani (internal; from 2026-04-01) | effective | 2026-01-24 | [2026-01-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SBFC_24012026155242_OutcomeofBM.pdf) · [2026-01-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SBFC_24012026155524_OutcomeofBM.pdf) · +2 more |
 | **KIRLPNU** — Kirloskar Pneumatic Company Ltd. | Director and Managing Director (also occupyin… | K Srinivasan (end of term; last day 2026-03-31) | Aman Rahul Kirloskar (promoter family; from 2026-04-01) | effective | 2026-01-23 | [2026-03-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_24032026115415_RESULTS_OF_POSTAL_BALLOT.pdf) · [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/revatideshpande_20022026155428_KPCL_PB.pdf) · +2 more |
 | **TATACOMM** — Tata Communications Ltd. | Managing Director & Chief Executive Officer | A. S. Lakshminarayanan (retirement; last day 2026-04-13) | Ganapathi S. Lakshminarayanan (external; from 2026-05-20) | effective | 2026-01-21 | [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/TATACOMM_20052026112819_18417.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/TATACOMM_13042026180422_18396.pdf) · +2 more |
 | **ETERNAL** — Eternal Ltd. | Director, Managing Director & Chief Executive… | Deepinder Goyal (resignation; last day 2026-02-01) | Albinder Singh Dhindsa (internal; from 2026-02-01) | effective | 2026-01-21 | [2026-02-06 Cessation](https://nsearchives.nseindia.com/corporate/ZOMATO_06022026205813_Intimationsigned.pdf) · [2026-01-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026154849_Outcomesigned.pdf) · +2 more |
 | **RAYMONDLSL** — Raymond Lifestyle Ltd. | Chief Executive Officer and Key Managerial Pe… | — (new seat) | Satyaki Ghosh (external; from 2026-01-19) | effective | 2026-01-19 | [2026-05-06 Appointment](https://nsearchives.nseindia.com/corporate/RLL_06052026195701_RLLSEIntimationWTDsigned.pdf) · [2026-05-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RLL_06052026200517_RLLSEIntimationWTDsigned.pdf) · +2 more |
+| **CGCL** — Capri Global Capital Ltd. | Chief Executive Officer (‘CEO’) of the Compan… | Monu Ratra (resignation; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-19 | [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf) |
 | **ACI** — Archean Chemical Industries Ltd. | Managing Director | P Ranjit (moved to another role in the company or group) | Rampraveen Swaminathan (external; from 2026-01-22) | effective | 2026-01-19 | [2026-01-19 Change in Management](https://nsearchives.nseindia.com/corporate/ARCHEAN_19012026185801_Intimation_Sd.pdf) |
-| **TVSSCS** — TVS Supply Chain Solutions Ltd. | Global Chief Executive Officer | — (new seat) | Vikas Chadha (external; from 2026-01-22) | effective | 2026-01-14 | [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · +2 more |
+| **TVSSCS** — TVS Supply Chain Solutions Ltd. | Global Chief Executive Officer | — (new seat) | Vikas Chadha (external; from 2026-01-22) | effective | 2026-01-14 | [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · +2 more |
 | **DMART** — Avenue Supermarts Ltd. | Managing Director & CEO | Ignatius Navil Noronha (end of term; last day 2026-01-31) | Anshul Asawa (internal; from 2026-02-01) | effective | 2026-01-10 | [2026-02-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/DMART_24022026143253_ASLVotingResultIntimation24022026.pdf) · [2026-01-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DMART_10012026171417_FinalOutcomeofBM10012026.pdf) · +1 more |
 | **ARVIND** — Arvind Ltd. | Managing Director of the Company designated a… | Susheel Kaul (resignation; last day 2026-03-09) | Punit Lalbhai (internal; from 2026-04-01) | effective | 2026-01-09 | [2026-03-09 Resignation](https://nsearchives.nseindia.com/corporate/ARVIND1_09032026171039_Arvind.pdf) · [2026-01-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ARVIND1_09012026150149_Arvind.pdf) |
 | **TARIL** — Transformers And Rectifiers (Indi… | Chief Executive Officer (CEO) | Mukul Srivastava (resignation; last day 2026-01-07) | Satyen J. Mamtora (internal; from 2026-01-08) | effective | 2026-01-08 | [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144544_OutcomeBM08012026.pdf) · +2 more |
@@ -303,14 +319,12 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **CANBK** — Canara Bank | Managing Director & Chief Executive Officer | K. Satyanarayana Raju (retirement; last day 2025-12-31) | Hardeep Singh Ahluwalia (interim; government appointee; from 2026-01-01) | effective | 2025-12-31 | [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CANBK_09042026124402_LettertoexchangeSd.pdf) · [2025-12-31 Retirement](https://nsearchives.nseindia.com/corporate/CANBK_31122025184102_LettertoSE31122025Sd.pdf) · +1 more |
 | **WAAREEENER** — Waaree Energies Ltd. | Whole – Time Director and Chief Executive Off… | Amit Ashok Paithankar (resignation; last day 2026-03-20) | Jignesh Devchandbhai Rathod (internal; from 2026-03-21) | effective | 2025-12-29 | [2025-12-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WAAREE_29122025200932_OutcomeofBoardMeeting_signed.pdf) · [2025-12-29 Resignation](https://nsearchives.nseindia.com/corporate/WAAREE_29122025201548_OutcomeofBoardMeeting_signed.pdf) · +2 more |
 | **LINDEINDIA** — Linde India Ltd. | Managing Director | Abhijit Banerjee (moved to another role in the company or group; last day 2025-12-31) | Milan Sadhukhan (group company; from 2026-01-01) | effective | 2025-12-29 | [2026-01-12 Updates](https://nsearchives.nseindia.com/corporate/LINDEINDIA_12012026160339_LIL_Contact_details_of_KMP_12012026.pdf) · [2026-01-09 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LINDEINDIA_09012026163722_SE_Notice_of_Postal_Ballot.pdf) · +2 more |
-| **GNFC** — Gujarat Narmada Valley Fertilizer… | Managing Director | T. Natarajan (interim holder replaced; last day 2025-12-29) | Rajkumar Beniwal (government appointee; from 2025-12-29) | effective | 2025-12-24 | [2025-12-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183523_SE_Final_Letter_Signed_OCR.pdf) · [2025-12-29 Change in Management](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183638_SE_Final_Letter_Signed_OCR.pdf) · +2 more |
+| **GNFC** — Gujarat Narmada Valley Fertilizer… | Managing Director | T. Natarajan (resignation; last day 2025-12-29) | Rajkumar Beniwal (government appointee; from 2025-12-29) | effective | 2025-12-24 | [2025-12-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183523_SE_Final_Letter_Signed_OCR.pdf) · [2025-12-29 Change in Management](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183638_SE_Final_Letter_Signed_OCR.pdf) · +2 more |
 | **RVNL** — Rail Vikas Nigam Ltd. | Chairman & Managing Director | Sukhmal Chand Jain (last day 2025-12-23) | Saleem Ahmad (external; from 2025-12-23) | effective | 2025-12-23 | [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · +2 more |
 | **VIPIND** — V.I.P. Industries Ltd. | Managing Director of the Company | — (new seat) | Atul Jain | effective | 2025-12-19 | [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_15052026201134_VIP_-_Presentation_Outcome_Final.pdf) · [2026-03-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_10032026165912_AppointmentofRahulPoddarOCR.pdf) · +2 more |
 | **BHARTIARTL** — Bharti Airtel Ltd. | Managing Director & CEO (Airtel India) | Gopal Vittal (moved to another role in the company or group; last day 2025-12-31) | Shashwat Sharma (internal; from 2026-01-01) | effective | 2025-12-18 | [2026-02-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02022026192747_BhartiAirtelStxIntimation.pdf) · [2026-01-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02012026211243_STX_intimation_Shareholders_Notice-_Final.pdf) · +2 more |
 | **CLEAN** — Clean Science and Technology Ltd. | Managing Director of the Company | Ashok Ramnarayan Boob (moved to another role in the company or group; last day 2026-03-31) | Siddhartha Ashok Sikchi (internal; from 2026-04-01) | effective | 2025-12-17 | [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025150251_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025150734_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · +2 more |
-| **AWL** — AWL Agri Business Ltd. | Managing Director and Chief Executive Officer… | — (new seat) | Shrikant Kanhere (from 2025-11-04) | effective | 2025-12-17 | [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · +1 more |
 | **VIYASH** — Viyash Scientific Ltd. | Managing Director and Group Chief Executive O… | Rajaram Narayanan (moved to another role in the company or group) | Haribabu Bodepudi (from 2025-12-16) | effective | 2025-12-16 | [2026-07-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_17072026165704_SEAnnual_Report_Notice.pdf) · [2026-03-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_13032026194349_SEIntimationVotingResultsWTD.pdf) · +2 more |
-| **KAJARIACER** — Kajaria Ceramics Ltd. | Managing Director of the Company | Ashok Kajaria (moved to another role in the company or group; last day 2025-09-30) | Rishi Kajaria (promoter family; from 2025-10-01) | effective | 2025-12-16 | [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170557_Results.pdf) · [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170914_Results.pdf) · +1 more |
 | **SBIN** — State Bank of India | Managing Director | — (new seat) | Ravi Ranjan (government appointee; from 2025-12-15) | effective | 2025-12-15 | [2025-12-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SBIN1_15122025191758_BSE_NSE_AppointmentRR_15122025dsc.pdf) |
 | **COALINDIA** — Coal India Ltd. | Chairman-cum-Managing Director(CMD) | Sanoj Kumar Jha (interim holder replaced; last day 2025-12-15) | B. Sairam (group company; from 2025-12-15) | effective | 2025-12-15 | [2025-12-26 Appointment](https://nsearchives.nseindia.com/corporate/COALINDIA_26122025141308_NSECEO.pdf) · [2025-12-16 Press Release](https://nsearchives.nseindia.com/corporate/COALINDIA_16122025104237_letter1612signed.pdf) · +2 more |
 | **BRITANNIA** — Britannia Industries Ltd. | Chief Executive Officer and Managing Director | — (new seat) | Rakshit Hargave (external; from 2025-12-15) | effective | 2025-12-15 | [2026-03-15 General Updates](https://nsearchives.nseindia.com/corporate/BRITANNIA1_15032026235414_Intimation_Signed.pdf) · [2026-02-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_12022026002614_Intimation_Signed.pdf) · +2 more |
@@ -321,13 +335,10 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **TITAN** — Titan Company Ltd. | Managing Director | — (new seat) | Ajoy Chawla (from 2026-01-01) | effective | 2025-12-10 | [2026-01-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN_12012026162859_Cover_letter_Voting_results.pdf) · [2025-12-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN003_10122025143047_SE_Intimation_Ajoysign.pdf) |
 | **QUESS** — Quess Corp Ltd. | Chief Executive Officer and Key Managerial Pe… | Guruprasad Srinivasan (moved to another role in the company or group; last day 2025-12-31) | Lohit Bhatia (internal; from 2026-01-01) | effective | 2025-12-05 | [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · +2 more |
 | **SHRIRAMFIN** — Shriram Finance Ltd. | Managing Director & CEO | Y. S. Chakravarti (end of term; last day 2025-12-05) | Parag Sharma (internal; from 2025-12-05) | effective | 2025-12-03 | [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · +1 more |
-| **TMPV** — Tata Motors Passenger Vehicles Lt… | Managing Director and Chief Executive Officer… | — (new seat) | Shailesh Chandra (group company; from 2025-10-01) | effective | 2025-11-28 | [2026-05-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_14052026170253_NSEBSESMPPV.pdf) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TMPV_ROID_85921_KMP_Doc.zip) · +2 more |
-| **PHOENIXLTD** — Phoenix Mills Ltd. | Managing Director and Key Managerial Personnel | Shishir Shrivastava (moved to another role in the company or group; last day 2025-09-30) | — not named | seat vacant — no successor named | 2025-11-28 | [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_29122025201911_PML_Outcome_of_Postal_Ballot_29112025.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_28112025135654_PML_postalballot_28112025.pdf) |
-| **HEROMOTOCO** — Hero MotoCorp Ltd. | Chief Executive Officer | V. S. Kasbekar | Harshavardhan Chitale | effective | — |  |
 
 ## List 3 — the CFO changing
 
-227 changes at 190 companies, newest first.
+221 changes at 184 companies, newest first.
 
 | Company | Seat | Outgoing | Incoming | Status | First said on | Sources |
 |---|---|---|---|---|---|---|
@@ -337,26 +348,25 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **JUBLINGREA** — Jubilant Ingrevia Ltd. | Chief Financial Officer and Key Managerial Pe… | Varun Gupta (resignation; last day 2026-11-30) | — not named | announced, not yet effective | 2026-11-19 | [2026-11-19 Resignation](https://nsearchives.nseindia.in/corporate/JUBLINGREA_19112026113312_SE_Intimation_Resignation_of_CFO.pdf) · [2026-11-19 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/JUBLINGREA_ROID_105030_KMP_Doc.zip) |
 | **RHIM** — RHI MAGNESITA INDIA LTD. | Chief Financial Officer and Chief Investor Re… | Azim Syed (moved to another role in the company or group; last day 2026-12-31) | Abhishek Bajaj (group company; from 2027-01-01) | announced, not yet effective | 2026-11-13 | [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RHIM_13112026175630_Outcome.pdf) · [2026-11-13 Resignation](https://nsearchives.nseindia.in/corporate/RHIM_13112026180912_Outcome.pdf) · +2 more |
 | **BBTC** — Bombay Burmah Trading Corporation… | Chief Financial Officer and Key Managerial Pe… | Lalita Rajesh (resignation; last day 2026-11-13) | Manoj Agarwal (external; from 2026-11-26) | effective | 2026-11-13 | [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/Shelly_13112026134903_Outcome_BM.pdf) · [2026-11-13 Change in Management](https://nsearchives.nseindia.in/corporate/Shelly_13112026135352_Outcome_BM.pdf) · +2 more |
-| **RPOWER** — Reliance Power Ltd. | Chief Financial Officer | Neeraj Parakh (resignation; last day 2026-11-12) | Rajendra Vishwanath Pawar (from 2026-11-12) | effective | 2026-11-12 | [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip) |
+| **RPOWER** — Reliance Power Ltd. | Chief Financial Officer | Neeraj Parakh (resignation; last day 2026-11-12) | Rajendra Vishwanath Pawar (group company; from 2026-11-12) | effective | 2026-11-12 | [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RPOWER_12112026194323_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · +1 more |
 | **ZAGGLE** — Zaggle Prepaid Ocean Services Ltd. | Chief Financial Officer (CFO) (Key Managerial… | Venkatesh Ramachandran (moved to another role in the company or group; last day 2026-11-0… | Samar Vijay Pupala (external; from 2026-11-06) | effective | 2026-11-06 | [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_06112026181633_SE_Intimation_-_Change_in_Management.pdf) · [2026-11-06 Change in Management](https://nsearchives.nseindia.com/corporate/ZAGGLE_06112026182831_SE_Intimation_-_Change_in_Management.pdf) · +2 more |
 | **ANUP** — The Anup Engineering Ltd. | Chief Financial Officer (Key Managerial Perso… | Nilesh Hirapara (moved to another role in the company or group; last day 2026-11-06) | Vishal Begwani (from 2026-11-06) | effective | 2026-11-06 | [2026-11-06 Resignation](https://nsearchives.nseindia.com/corporate/ANUP_06112026123708_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Appointment](https://nsearchives.nseindia.com/corporate/ANUP_06112026124301_Reg30IntimationChangeinCFO.pdf) · +1 more |
-| **RBA** — Restaurant Brands Asia Ltd. | Group Chief Financial Officer and Chief Busin… | Sumit Zaveri (moved to another role in the company or group; last day 2026-10-31) | — not named | seat vacant — no successor named | 2026-10-29 | [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · +1 more |
 | **AARTIPHARM** — Aarti Pharmalabs Ltd. | Chief Financial Officer (CFO) and Key Manager… | Piyush Lakhani (resignation; last day 2026-10-30) | Vibha Thakkar (external; from 2026-10-31) | effective | 2026-10-28 | [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · +2 more |
 | **SYNGENE** — Syngene International Ltd. | Chief Financial Officer and Key Managerial Pe… | Deepak Jain (resignation) | — not named | announced, not yet effective | 2026-10-27 | [2026-10-27 Change in Management](https://nsearchives.nseindia.com/corporate/SYNGENE2_27102026201706_SEDisclosureSMPKMP_Signed.pdf) · [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYNGENE2_29072026180827_PRJuly292026.pdf) · +1 more |
 | **IOB** — Indian Overseas Bank | Chief Financial Officer of the Bank | Madhaw Chandra Jha | Akshit Choudhary (internal; from 2026-11-01) | effective | 2026-10-27 | [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/IOB_27102026173827_Changes_in_CFO.pdf) |
 | **BAJAJHFL** — Bajaj Housing Finance Ltd. | Chief Financial Officer (CFO) | Gaurav Kalani (resignation; last day 2027-01-31) | — not named | announced, not yet effective | 2026-10-23 | [2026-10-23 Resignation](https://nsearchives.nseindia.com/corporate/BHFL_23102026170309_BHFL_Intimation_CFO.pdf) · [2026-10-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BAJAJHFL_ROID_101368_KMP_Doc.zip) |
-| **DIACABS** — Diamond Power Infrastructure Ltd. | Chief Financial Officer | Pawan Lohiya (moved to another role in the company or group; last day 2026-10-19) | Kundip S. Thakker (external; from 2026-10-20) | effective | 2026-10-19 | [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · +2 more |
-| **AXISCADES** — AXISCADES Technologies Ltd. | Chief Financial Officer (CFO) | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 | [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf) |
+| **DIACABS** — Diamond Power Infrastructure Ltd. | Chief Financial Officer and Key Managerial Pe… | Pawan Lohiya (moved to another role in the company or group; last day 2026-10-19) | Kundip S. Thakker (external; from 2026-10-20) | effective | 2026-10-19 | [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · +2 more |
+| **AXISCADES** — AXISCADES Technologies Ltd. | Chief Financial Officer (CFO) - Designate | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 | [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf) |
 | **SMLMAH** — SML Mahindra Ltd. | Chief Financial Officer and Key Managerial Pe… | Pushkar Patwardhan (resignation; last day 2026-10-19) | Manaswini Goel (interim; group company; from 2026-10-20) | effective | 2026-10-12 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026164801_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Cessation](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165125_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · +2 more |
 | **SMLMAH** — SML Mahindra Ltd. | Chief Financial Officer and Key Managerial Pe… | Manaswini Goel (interim holder replaced; last day 2026-12-31) | Surender Kalra (group company; from 2027-01-01) | announced, not yet effective | 2026-10-12 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026164801_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Cessation](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165125_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · +2 more |
-| **NAZARA** — Nazara Technologies Ltd. | Chief Financial Officer (‘CFO’) and Key Manag… | Rakesh Shah (resignation; last day 2026-10-15) | Arun Agarwal (external; from 2026-10-16) | effective | 2026-10-12 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · +2 more |
+| **NAZARA** — Nazara Technologies Ltd. | Chief Financial Officer ('CFO') and Key Manag… | Rakesh Shah (resignation; last day 2026-10-15) | Arun Agarwal (external; from 2026-10-16) | effective | 2026-10-12 | [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · +2 more |
 | **PIDILITIND** — Pidilite Industries Ltd. | Chief Financial Officer – Designate (CFO Desi… | — (new seat) | Amit Agarwal (external; from 2026-10-09) | announced, not yet effective | 2026-10-09 | [2026-10-09 General Updates](https://nsearchives.nseindia.com/corporate/Nisha_09102026112953_SEIntimationAppointmentofSMPsigned.pdf) |
 | **TRAVELFOOD** — Travel Food Services Ltd. | Whole-time Director & Chief Financial Officer | Vikas Kapoor (resignation) | — not named | seat vacant — no successor named | 2026-10-08 | [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/TRAVELFOOD_08102026172402_TFSResignationofCFOandWTD08102026.pdf) · [2026-10-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TRAVELFOOD_ROID_99999_KMP_Doc.zip) |
 | **TI** — Tilaknagar Industries Ltd. | Chief Financial Officer | Rajesh Choudhary (resignation; last day 2026-10-08) | — not named | seat vacant — no successor named | 2026-10-08 | [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TI_ROID_100064_KMP_Doc.zip) · [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/gthakur_08102026205723_OutcomeofNRC_Oct_2026.pdf) · +2 more |
-| **APOLLOTYRE** — Apollo Tyres Ltd. | Chief Financial Officer (Key Managerial Perso… | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 | [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · +2 more |
+| **APOLLOTYRE** — Apollo Tyres Ltd. | Chief Financial Officer (Key Managerial Perso… | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 | [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · +2 more |
 | **ABB** — ABB India Ltd. | Chief Financial Officer and Key Managerial Pe… | TK Sridhar (moved to another role in the company or group) | Suneel Kumar Munaga (internal; from 2027-01-01) | announced, not yet effective | 2026-10-06 | [2026-10-06 Appointment](https://nsearchives.nseindia.com/corporate/ABB_06102026205214_Reg30disclosure06102026.pdf) · [2026-05-26 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ABB_26052026170921_Postal_ballot_Notice.pdf) · +2 more |
 | **LICI** — Life Insurance Corporation of Ind… | Chief Financial Officer (Key Managerial Perso… | Shatmanyu Shrivastava (retirement; last day 2026-09-30) | Sonija M. S. (internal; from 2026-11-26) | effective | 2026-09-30 | [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-09-30 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_30092026153311_Final_Disc_Cess_KMP_300926.pdf) · +2 more |
-| **JPPOWER** — Jaiprakash Power Ventures Ltd. | Chief Financial Officer (CFO) and Key Manager… | R. K. Porwal (retirement; last day 2026-09-30) | Jigar Dalal (from 2026-11-01) | effective | 2026-09-30 | [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · +1 more |
+| **JPPOWER** — Jaiprakash Power Ventures Ltd. | Chief Financial Officer (CFO) and Key Manager… | R. K. Porwal (retirement; last day 2026-09-30) | Jigar Dalal (from 2026-11-01) | effective | 2026-09-30 | [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · +2 more |
 | **AARTIDRUGS** — Aarti Drugs Ltd. | Chief Financial Officer | Adhish Prakash Patil (moved to another role in the company or group; last day 2026-09-30) | — not named | seat vacant — no successor named | 2026-09-30 | [2026-11-03 Press Release](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_03112026221548_ADL.pdf) · [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · +2 more |
 | **RVNL** — Rail Vikas Nigam Ltd. | Director (Finance) | Abhishek Kumar (last day 2026-09-30) | Neeti Sarkar (interim; internal; from 2026-09-30) | effective | 2026-09-29 | [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-09-29 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_29092026180956_Covering29092026.pdf) · +2 more |
 | **BRITANNIA** — Britannia Industries Ltd. | Chief Financial Officer and Key Managerial Pe… | N. Venkataraman (moved to another role in the company or group; last day 2026-09-30) | Ramamurthy Jayaraman (internal; from 2026-10-01) | effective | 2026-09-29 | [2026-09-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_29092026183649_Intimation_signed.pdf) · [2026-09-29 Change in Management](https://nsearchives.nseindia.com/corporate/BRITANNIA1_29092026184311_Intimation_signed.pdf) · +2 more |
@@ -366,8 +376,7 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **NLCINDIA** — NLC India Ltd. | Director (Finance) & CFO | Prasanna Kumar Acharya (moved to another role in the company or group; last day 2026-09-1… | Prasanna Kumar Acharya (interim; internal; from 2026-09-17) | effective | 2026-09-17 | [2026-09-22 General Updates](https://nsearchives.nseindia.com/corporate/NLCINDIA_22092026191155_SEIntimationDrPrasannaKumarAcharya.pdf) · [2026-09-18 Corrigendum](https://nsearchives.nseindia.com/corporate/NLCINDIA_18092026200724_SE_Intimation_-_Corrigendum_to_70th_AGM_Notice_Signed.pdf) · +2 more |
 | **MANYAVAR** — Vedant Fashions Ltd. | Chief Financial Officer and Key Managerial Pe… | Rahul Murarka (resignation; last day 2026-11-14) | Vineet Poddar (external; from 2026-11-23) | effective | 2026-09-15 | [2026-11-19 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANYAVAR_19112026115141_OutcomeofBM19112026.pdf) · [2026-09-16 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MANYAVAR_ROID_98448_KMP_Doc.zip) · +2 more |
 | **GMMPFAUDLR** — GMM Pfaudler Ltd. | Group Chief Financial Officer (CFO) & Key Man… | Alexander Poempner (resignation; last day 2026-11-03) | Ankit Nayyar (internal; from 2026-11-04) | effective | 2026-09-15 | [2026-09-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026164140_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Resignation](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026165021_BMOUTCOME15SEPT2026.pdf) · +2 more |
-| **CARBORUNIV** — Carborundum Universal Ltd. | Chief Financial Officer & KMP | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 | [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) |
-| **KPIGREEN** — KPI Green Energy Ltd. | Chief Financial Officer (CFO) | Salim Yahoo (resignation; last day 2026-09-02) | — not named | seat vacant — no successor named | 2026-09-02 | [2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_02092026155452_KPI_Intimation_Resignation_of_CFO_02092026_Signed.pdf) |
+| **CARBORUNIV** — Carborundum Universal Ltd. | Chief Financial Officer | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 | [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) |
 | **CANHLIFE** — Canara HSBC Life Insurance Compan… | Chief Financial Officer | Tarun Rustagi (resignation; last day 2026-11-24) | Indu Swaroop (internal; from 2026-11-25) | effective | 2026-08-31 | [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_25112026103742_Resignation_of_CFO.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133033_Appointment_of_CFO.pdf) · +2 more |
 | **BEML** — BEML Ltd. | Director (Finance) | Anil Jerath (retirement; last day 2026-08-31) | Shantanu Roy (interim; internal; from 2026-09-01) | effective | 2026-08-31 | [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf) |
 | **RAINBOW** — Rainbow Childrens Medicare Ltd. | Chief Financial Officer ("CFO") and Key Manag… | Vikas Maheshwari (resignation; last day 2026-08-31) | Sudarshan Patodia (external; from 2026-09-23) | effective | 2026-08-25 | [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · +2 more |
@@ -380,14 +389,16 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **BANKINDIA** — Bank of India | Chief Financial Officer (CFO) | B. Kumar | Vineet Srivastava (internal; from 2026-08-14) | effective | 2026-08-14 | [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/BANKINDIA5_14082026180906_CFO.pdf) |
 | **POWERGRID** — Power Grid Corporation of India L… | Director (Finance) | Yatindra Dwivedi (interim holder replaced; last day 2026-08-18) | Amol Babulal Taori (external; from 2026-08-18) | effective | 2026-08-12 | [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026133050_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-20 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026134236_BSENSEReg30dt20082026Outcome.pdf) · +2 more |
 | **LINDEINDIA** — Linde India Ltd. | Chief Financial Officer (CFO) | Ajay Kumar Sah (interim holder replaced; last day 2026-09-14) | Vikash Dokania (external; from 2026-09-15) | effective | 2026-08-11 | [2026-09-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LINDEINDIA1_10092026145308_Linde_India_Minutes_of_90th_AGM_13082026.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LINDEINDIA1_11082026183143_Outcome_of_BM_August_2026.pdf) · +2 more |
+| **KPIGREEN** — KPI Green Energy Ltd. | Chief Financial Officer & Key Managerial Pers… | Salim Yahoo (resignation; last day 2026-09-02) | Kapil Kriplani (from 2026-08-11) | effective | 2026-08-11 | [2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_02092026155452_KPI_Intimation_Resignation_of_CFO_02092026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_11082026111839_KPI_Outcome_of_BM_11082026_to_Exchange_Signed.pdf) · +1 more |
 | **GODREJCP** — Godrej Consumer Products Ltd. | Chief Financial Officer | Aasif Malbari (moved to another role in the company or group; last day 2026-08-11) | Vishal Kedia (interim; internal; from 2026-08-12) | effective | 2026-08-11 | [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · +2 more |
-| **CHOICEIN** — Choice International Ltd. | Chief Financial Officer ("CFO") and Key Manag… | Manoj Singhania (moved to another role in the company or group; last day 2026-08-10) | Ayush Sharma (from 2026-08-10) | effective | 2026-08-10 | [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf) |
+| **CHOICEIN** — Choice International Ltd. | Chief Financial Officer ("CFO") and Key Manag… | Manoj Singhania (moved to another role in the company or group; last day 2026-08-10) | Ayush Sharma (from 2026-08-10) | effective | 2026-08-10 | [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOICE_10082026202229_upload.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf) |
 | **MMTC** — MMTC Ltd. | Director (Finance) | — (new seat) | Kundan Kumar Mishra (government appointee; from 2026-08-03) | effective | 2026-08-07 | [2026-09-17 General Updates](https://nsearchives.nseindia.com/corporate/ajaymisra_17092026170159_AGMPSD.pdf) · [2026-08-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ajaymisra_24082026131157_NOTICEFILINGF.pdf) · +2 more |
+| **ELECTCAST** — Electrosteel Castings Ltd. | Whole-Time Director & Chief Financial Officer… | Ashutosh Agarwal (resignation; last day 2026-08-10) | Rajesh Daga (internal; from 2026-08-11) | effective | 2026-08-07 | [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026150303_Outcome_of_Board_Meeting_07082026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · +2 more |
 | **BECTORFOOD** — Mrs. Bectors Food Specialities Lt… | Chief Financial Officer (CFO) | Parveen Kumar Goel (moved to another role in the company or group; last day 2026-08-07) | Anshul Rastogi (external; from 2026-08-07) | effective | 2026-08-07 | [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026135149_BMOUTCOME07082026.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026141902_CHANGEINMANAGEMENT.pdf) |
 | **TEGA** — Tega Industries Ltd. | Chief Financial Officer (“CFO”) and Key Manag… | Shyama Prasad Ganguly (interim holder replaced; last day 2026-08-06) | Ravi Narayan Joshi (external; from 2026-08-06) | effective | 2026-08-06 | [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_06082026131344_Intimation_under_reg_30_app_CFO_sd.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24042026202759_Intimation_under_Reg_30_SEBI_LODR_SD.pdf) · +2 more |
-| **GODREJAGRO** — Godrej Agrovet Ltd. | Chief Financial Officer & Head – Finance & Le… | S. Varadaraj (retirement; last day 2026-09-30) | Ravishankar A. (external; from 2026-10-01) | effective | 2026-08-05 | [2026-08-05 Cessation](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153846_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026154349_BSENSEBMOUTCOME05082026.pdf) · +1 more |
+| **GODREJAGRO** — Godrej Agrovet Ltd. | Chief Financial Officer & Head – Finance & Le… | S. Varadaraj (retirement; last day 2026-09-30) | Ravishankar A. (external; from 2026-10-01) | effective | 2026-08-05 | [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153031_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153211_BSENSEBMOUTCOME05082026.pdf) · +2 more |
 | **VIPIND** — V.I.P. Industries Ltd. | Chief Financial Officer (CFO) and Key Manager… | Rahul Poddar (resignation; last day 2026-08-31) | Narayan Saraf (external; from 2026-09-01) | effective | 2026-08-03 | [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_03082026133526_SEuploadChangeinmanagement.pdf) · [2026-08-03 Change in Management](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_03082026133715_SEuploadChangeinmanagement.pdf) · +2 more |
-| **KSCL** — Kaveri Seed Company Ltd. | Chief Financial Officer and Key Managerial Pe… | K. V. Chalapathi Reddy (retirement; last day 2026-07-31) | Muppasani Bhanu Prakash (from 2026-10-28) | effective | 2026-07-30 | [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · [2026-07-30 Retirement](https://nsearchives.nseindia.com/corporate/KSCL_30072026181003_ResignationofCFO.pdf) |
+| **KSCL** — Kaveri Seed Company Ltd. | Chief Financial Officer (CFO) and Key Manager… | K. V. Chalapathi Reddy (retirement; last day 2026-07-31) | Muppasani Bhanu Prakash (from 2026-10-28) | effective | 2026-07-30 | [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KSCL_28102026134153_OUTCOME28102026.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · +1 more |
 | **AWL** — AWL Agri Business Ltd. | Chief Financial Officer | — (new seat) | Pankaj Goyal (internal; from 2026-07-31) | effective | 2026-07-30 | [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · +1 more |
 | **PFIZER** — Pfizer Ltd. | Executive Director – Finance & Chief Financia… | Amit Agarwal (resignation; last day 2026-10-08) | — not named | seat vacant — no successor named | 2026-07-27 | [2026-07-27 Change in Director(s)](https://nsearchives.nseindia.com/corporate/PFIZER_27072026164241_Stock_Exchange_Intimation_-_Resignation_of_Amit_Agarwal.pdf) |
 | **INDIGO** — InterGlobe Aviation Ltd. | Chief Financial Officer (Key Managerial Perso… | Gaurav Negi (moved to another role in the company or group; last day 2026-07-27) | Kiran Thadimarri (internal; from 2026-07-28) | effective | 2026-07-27 | [2026-07-27 Change in Management](https://nsearchives.nseindia.com/corporate/Indigo1_27072026211119_Disclosure_27072026_KMP.pdf) |
@@ -402,7 +413,7 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **TEXRAIL** — Texmaco Rail & Eng. Ltd. | Chief Financial Officer | Kishor Kumar Rajgaria (resignation; last day 2026-08-31) | Shibu Mathews (external; from 2026-09-05) | effective | 2026-07-14 | [2026-09-06 General Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_06092026000014_Intimation.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/TEXRAIL_31082026225104_KKRSIRREgn.pdf) · +2 more |
 | **SANDUMA** — Sandur Manganese & Iron Ores Ltd. | Chief Financial Officer | Uttam Kumar Bhageria (resignation; last day 2026-07-09) | Manoj Kumar Jha (internal; from 2026-07-09) | effective | 2026-07-09 | [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SANDUR_09072026164006_Ltr2SEsOutcomeofBMSigned.pdf) · [2026-07-09 Change in Management](https://nsearchives.nseindia.com/corporate/SANDUR_09072026182701_Ltr2SEsChangeinCFOSigned.pdf) · +2 more |
 | **HINDPETRO** — Hindustan Petroleum Corporation L… | Key Managerial Personnel and Chief Financial… | K Vinod | Srividya Venkataraman (internal; from 2026-07-07) | effective | 2026-07-07 | [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · +2 more |
-| **MAHSEAMLES** — Maharashtra Seamless Ltd. | Chief Financial Officer | Arup Mandal (resignation; last day 2026-07-02) | Manish Kumar Khandelwal (from 2026-11-13) | effective | 2026-07-03 | [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · +2 more |
+| **MAHSEAMLES** — Maharashtra Seamless Ltd. | Chief Financial Officer | Arup Mandal (resignation; last day 2026-07-02) | Manish Kumar Khandelwal (from 2026-11-13) | effective | 2026-07-03 | [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · +2 more |
 | **POWERGRID** — Power Grid Corporation of India L… | Director (Finance) | Ravisankar Ganesan (retirement; last day 2026-06-30) | Yatindra Dwivedi (interim; internal; from 2026-07-01) | effective | 2026-07-01 | [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026114913_BSENSEReg30Dt01072026.pdf) · +2 more |
 | **ZFCVINDIA** — ZF Commercial Vehicle Control Sys… | Chief Financial Officer (Key Managerial Perso… | Sweta Agarwal (resignation; last day 2026-06-30) | Rakesh Mishra (group company; from 2026-09-01) | effective | 2026-06-30 | [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WABCOINDIA_24072026135423_sDSEOutcomeBM.pdf) · [2026-07-24 Change in Management](https://nsearchives.nseindia.com/corporate/WABCOINDIA_24072026140208_SdSE_Regulation30_CS_Appointment.pdf) · +2 more |
 | **IRFC** — Indian Railway Finance Corporatio… | Chief Financial Officer (CFO) and Key Manager… | Randhir Sahay (interim holder replaced; last day 2026-06-30) | Deepa Kotnis (internal; from 2026-06-30) | effective | 2026-06-30 | [2026-06-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IRFC_30062026124434_SE30062026.pdf) · [2026-06-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRFC_30062026124744_SE30062026.pdf) · +2 more |
@@ -414,7 +425,7 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **NAUKRI** — Info Edge (India) Ltd. | Whole-time Director and Chief Financial Offic… | Ambarish Raghuvanshi (interim holder replaced; last day 2026-09-16) | Himanshu Agarwal (external; from 2026-09-17) | effective | 2026-06-26 | [2026-06-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026200452_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · [2026-06-26 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026201652_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · +2 more |
 | **ONGC** — Oil & Natural Gas Corporation Ltd. | Chief Financial Officer (CFO), Key Managerial… | Yogish Nayak S. (last day 2026-06-25) | Anupam Agarwal (internal; from 2026-06-25) | effective | 2026-06-25 | [2026-06-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ONGC_25062026213105_Outcome25062026.pdf) · [2026-06-25 Appointment](https://nsearchives.nseindia.com/corporate/ONGC_25062026213235_Outcome25062026.pdf) · +2 more |
 | **JSL** — Jindal Stainless Ltd. | Chief Financial Officer (“CFO”) | Tarun Kumar Khulbe (resignation; last day 2026-06-25) | Kunjal Mehta (external; from 2026-06-25) | effective | 2026-06-25 | [2026-06-25 Appointment](https://nsearchives.nseindia.com/corporate/JSL_25062026140709_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Cessation](https://nsearchives.nseindia.com/corporate/JSL_25062026140927_StockExchangeIntimation25062026sd.pdf) · +2 more |
-| **HOMEFIRST** — Home First Finance Company India… | Chief Financial Officer (“CFO”) | Nutan Gaba Patwari (resignation; last day 2026-08-31) | Rinkoo Somani | effective | 2026-06-25 | [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · +2 more |
+| **HOMEFIRST** — Home First Finance Company India… | Chief Financial Officer ("CFO") | Nutan Gaba Patwari (resignation; last day 2026-08-31) | Rinkoo Somani | effective | 2026-06-25 | [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · +2 more |
 | **SAREGAMA** — Saregama India Ltd | Chief Financial Officer ("CFO") and Key Manag… | Kuldeep Kothari (interim holder replaced; last day 2026-07-14) | Abhishek Kapoor (external; from 2026-07-15) | effective | 2026-06-24 | [2026-06-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026120745_Outcome_final1.pdf) · [2026-06-24 Change in Management](https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026120921_Outcome_final1.pdf) · +2 more |
 | **LICI** — Life Insurance Corporation of Ind… | Chief Financial Officer and Key Managerial Pe… | Sunil Agrawal (resignation; last day 2026-07-14) | Shatmanyu Shrivastava (internal; from 2026-07-28) | effective | 2026-06-24 | [2026-07-28 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_28072026135207_28062026_CRO_CFO_appointment.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LICI_ROID_90414_KMP_Doc.zip) · +2 more |
 | **HINDPETRO** — Hindustan Petroleum Corporation L… | Director – Finance | K S Shetty (interim holder replaced; last day 2026-06-24) | Srividya Venkataraman (government appointee; from 2026-06-24) | effective | 2026-06-24 | [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · +2 more |
@@ -425,10 +436,9 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **OSWALPUMPS** — Oswal Pumps Ltd. | Chief Financial Officer | Subodh Kumar (resignation; last day 2026-06-20) | Vijay Kumar Yadav (internal; from 2026-08-08) | effective | 2026-06-20 | [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026194624_SELetterReAppVGAppCFOOPL08082026.pdf) · [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026195503_SELetterReAppVGAppCFOOPL08082026.pdf) · +2 more |
 | **COHANCE** — Cohance Lifesciences Ltd. | Whole-time Director and Chief Financial Offic… | Himanshu Agarwal (resignation; last day 2026-09-13) | Abhimanyu Ojha (external; from 2026-10-12) | effective | 2026-06-17 | [2026-10-09 Appointment](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_09102026201959_Cohance_Outcome_BM_09102026.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · +1 more |
 | **BALKRISIND** — Balkrishna Industries Ltd. | Chief Financial Officer | Madhusudan Bajaj (retirement; last day 2026-06-17) | Saroj Kumar Khuntia (external; from 2026-06-18) | effective | 2026-06-17 | [2026-06-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BALKRISIND_17062026172213_Regulation_30_-CFO_SIGNED_FINAL.pdf) · [2026-06-17 Retirement](https://nsearchives.nseindia.com/corporate/BALKRISIND_17062026174638_Regulation_30_-CFO_SIGNED_FINAL.pdf) · +1 more |
-| **RBLBANK** — RBL Bank Ltd. | Chief Financial Officer ("CFO") and Key Manag… | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 | [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · +2 more |
+| **RBLBANK** — RBL Bank Ltd. | Chief Financial Officer (“CFO”) and Key Manag… | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 | [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · +2 more |
 | **CAMPUS** — Campus Activewear Ltd. | Chief Financial Officer (CFO) & Key Manageria… | Sanjay Chhabra (resignation; last day 2026-07-07) | Rakesh Thakur (external; from 2026-08-17) | effective | 2026-06-12 | [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · +2 more |
 | **IRCTC** — Indian Railway Catering And Touri… | Director (Finance) & CFO | Sudhir Kumar (interim holder replaced; last day 2026-06-15) | Rajneesh Narain (external; from 2026-07-14) | effective | 2026-06-11 | [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026185943_Revised_STXintimationsudhirkumar.pdf) · [2026-06-15 Change in Management](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190148_Revised_STXintimationsudhirkumar.pdf) · +2 more |
-| **ELECTCAST** — Electrosteel Castings Ltd. | Whole-Time Director & Chief Financial Officer… | Ashutosh Agarwal (resignation; last day 2026-08-10) | Rajesh Daga (internal; from 2026-08-11) | effective | 2026-06-11 | [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · +2 more |
 | **POWERGRID** — Power Grid Corporation of India L… | Chief Financial Officer (CFO) | Ravisankar Ganesan (retirement; last day 2026-06-30) | Venkata Subrahamanayam Vallurie (internal; from 2026-07-01) | effective | 2026-06-10 | [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026114913_BSENSEReg30Dt01072026.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_10062026194921_BSENSEReg30OutcomeDt10062026v3.pdf) · +2 more |
 | **VIJAYA** — Vijaya Diagnostic Centre Ltd. | Chief Financial Officer | Ankit Shah (resignation; last day 2026-07-24) | Narasimha Raju K A (external; from 2026-07-09) | effective | 2026-06-09 | [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VIJAYA_09072026191111_Outcome_BM_09072026.pdf) · [2026-06-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/VIJAYA_ROID_89730_KMP_Doc.zip) · +2 more |
 | **ONGC** — Oil & Natural Gas Corporation Ltd. | Director (Finance) | Manish Patil (interim holder replaced) | Anupam Agarwal (group company; from 2026-06-03) | effective | 2026-06-03 | [2026-06-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ONGC_25062026213105_Outcome25062026.pdf) · [2026-06-25 Appointment](https://nsearchives.nseindia.com/corporate/ONGC_25062026213235_Outcome25062026.pdf) · +2 more |
@@ -439,60 +449,60 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **ADANIENSOL** — Adani Energy Solutions Ltd. | Chief Financial Officer (Key Managerial Perso… | Kunjal Mehta (resignation; last day 2026-05-30) | Ashok Jagetiya (group company; from 2026-05-31) | effective | 2026-05-30 | [2026-05-30 Change in Management](https://nsearchives.nseindia.com/corporate/ADANITRANS_30052026161158_OutcomeAESL.pdf) |
 | **FACT** — Fertilisers and Chemicals Travanc… | Chief Financial Officer (CFO) | — (new seat) | Pradeepkumar C (internal; from 2026-05-29) | effective | 2026-05-29 | [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/FACT_29052026180958_CFO_appointment_129.pdf) |
 | **HGINFRA** — H.G. Infra Engineering Ltd. | Chief Financial Officer and Key Managerial Pe… | Rajeev Mishra (resignation; last day 2026-06-17) | Vikas Jain (external; from 2026-06-18) | effective | 2026-05-28 | [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HGINFRA_28052026193506_FinalOutcome.pdf) · [2026-05-28 Updates](https://nsearchives.nseindia.com/corporate/HGINFRA_28052026204401_FinalOutcome.pdf) · +2 more |
-| **FINCABLES** — Finolex Cables Ltd. | Chief Financial Officer (CFO) | Mahesh Viswanathan (moved to another role in the company or group; last day 2026-05-31) | Sachin Naik (external; from 2026-06-01) | effective | 2026-05-28 | [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf) |
-| **AVANTIFEED** — Avanti Feeds Ltd. | Chief Financial Officer | Cuddapah Ramachandra Rao (resignation; last day 2026-05-31) | Balusu Santhi Latha (internal; from 2026-06-01) | effective | 2026-05-28 | [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) |
+| **FINCABLES** — Finolex Cables Ltd. | Chief Financial Officer (CFO) | Mahesh Viswanathan (moved to another role in the company or group; last day 2026-05-31) | Sachin Naik (external; from 2026-06-01) | effective | 2026-05-28 | [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · +1 more |
+| **AVANTIFEED** — Avanti Feeds Ltd. | Chief Financial Officer | Cuddapah Ramachandra Rao (resignation; last day 2026-05-31) | Balusu Santhi Latha (internal; from 2026-06-01) | effective | 2026-05-28 | [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-29 General Updates](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_29052026145219_Revised_Outcome_Letter_29_05_2026_.pdf) · +1 more |
 | **GILLETTE** — Gillette India Ltd. | Executive Director and Chief Financial Officer | Srividya Srinivasan (moved to another role in the company or group; last day 2026-06-30) | Ashwath Rao (internal; from 2026-07-01) | effective | 2026-05-27 | [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132350_Changeinmanagement.pdf) · [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132539_Changeinmanagement.pdf) · +2 more |
-| **DIACABS** — Diamond Power Infrastructure Ltd. | Chief Financial Officer and Whole-time Direct… | Samir Naik (resignation; last day 2026-05-25) | Pawan Lohiya (internal; from 2026-05-26) | effective | 2026-05-26 | [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · +2 more |
+| **DIACABS** — Diamond Power Infrastructure Ltd. | Chief Financial Officer and Whole-time Direct… | Samir Naik (resignation; last day 2026-05-25) | Pawan Lohiya (internal; from 2026-05-26) | effective | 2026-05-26 | [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · +2 more |
 | **TRIDENT** — Trident Ltd. | Chief Financial Officer (Key Managerial Perso… | Avneesh Barua (resignation; last day 2026-05-29) | Amit Gupta (internal; from 2026-08-27) | effective | 2026-05-25 | [2026-08-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIDENT_27082026140603_Intimation_.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/TRIDENT_25052026155839_Intimation_CFO_STX.pdf) · +2 more |
 | **BALUFORGE** — Balu Forge Industries Ltd. | Chief Financial Officer (CFO) and Key Manager… | Amit Ashok Todkari (resignation; last day 2026-05-25) | Sandeep Singh Chadha (interim; from 2026-05-26) | effective | 2026-05-25 | [2026-05-26 Press Release](https://nsearchives.nseindia.com/corporate/BALUFORGE_26052026084929_Intimation.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/BALUFORGE_25052026195907_Intimation.pdf) · +1 more |
 | **JUBLPHARMA** — Jubilant Pharmova Ltd. | Chief Financial Officer (CFO) and Key Manager… | Arun Kumar Sharma (moved to another role in the company or group; last day 2026-05-22) | Ashish Mukkirwar (external; from 2026-05-23) | effective | 2026-05-22 | [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026143745_CFOSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145043_CFOSIGNEDF.pdf) · +2 more |
 | **INDUSTOWER** — Indus Towers Ltd. | Chief Financial Officer (‘CFO’) and Key Manag… | Vikas Poddar (resignation; last day 2026-08-18) | Abhishek Maheshwari (from 2026-08-19) | effective | 2026-05-22 | [2026-07-10 Appointment](https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_10072026155811_SECFOIndus10072026.pdf) · [2026-05-22 Resignation](https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_22052026182055_SEResignationCFO22052026.pdf) · +1 more |
-| **LXCHEM** — Laxmi Organic Industries Ltd. | Chief Financial Officer and Key Managerial Pe… | Harshvardhan Goenka (interim holder replaced; last day 2026-06-15) | Amit Jain (external; from 2026-06-16) | effective | 2026-05-21 | [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · +2 more |
+| **LXCHEM** — Laxmi Organic Industries Ltd. | Chief Financial Officer and Key Managerial Pe… | Harshvardhan Goenka (interim holder replaced; last day 2026-06-15) | Amit Jain (from 2026-06-16) | effective | 2026-05-21 | [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · +2 more |
 | **SAFARI** — Safari Industries (India) Ltd. | Chief Financial Officer (Key Managerial Perso… | Vineet Poddar (resignation; last day 2026-06-30) | Aditya Bhargava (external; from 2026-08-04) | effective | 2026-05-19 | [2026-08-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SAFARIIND_04082026141851_BMOutcome.pdf) · [2026-07-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SAFARIIND_10072026171924_SEIntimationAGMNoticeAR20252610Jul2026.pdf) · +2 more |
-| **HCG** — Healthcare Global Enterprises Ltd. | Chief Financial Officer and Key Managerial Pe… | Manish Mattoo (interim holder replaced; last day 2026-05-25) | Sanjeev Kumar (external; from 2026-05-25) | effective | 2026-05-19 | [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +2 more |
+| **HCG** — Healthcare Global Enterprises Ltd. | Chief Financial Officer and Key Managerial Pe… | Manish Mattoo (interim holder replaced; last day 2026-05-25) | Sanjeev Kumar (external; from 2026-05-25) | effective | 2026-05-19 | [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +2 more |
 | **JLHL** — Jupiter Life Line Hospitals Ltd. | Chief Financial Officer | Sivasis Sen (resignation; last day 2026-05-31) | Harshad Purani (from 2026-07-31) | effective | 2026-05-18 | [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026165938_Board_outcome_31-07-2026.pdf) · [2026-07-31 Appointment](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170122_Board_outcome_31-07-2026.pdf) · +2 more |
 | **IGL** — Indraprastha Gas Ltd. | Chief Financial Officer (CFO) | Sanjay Kumar (moved to another role in the company or group; last day 2026-05-21) | Manjeet Singh Gulati (internal; from 2026-05-21) | effective | 2026-05-18 | [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf) |
 | **GRWRHITECH** — Garware Hi-Tech Films Ltd. | Chief Financial Officer | Abhishek Agarwal (resignation; last day 2026-05-30) | Prashant L. Pai (interim; internal; from 2026-08-06) | effective | 2026-05-15 | [2026-08-06 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_06082026133043_Intimation_Appointment_of_CFO.pdf) · [2026-05-15 Resignation](https://nsearchives.nseindia.com/corporate/GRWRHITECH_15052026170523_GHFL__Intimation_Regl_30.pdf) · +2 more |
 | **GICRE** — General Insurance Corporation of… | Chief Financial Officer (CFO) and Key Manager… | V. Balkrishna (resignation; last day 2026-06-18) | Rajesh Laheri (internal; from 2026-06-18) | effective | 2026-05-15 | [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/GICRE_18062026182011_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/GICRE_18062026182236_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · +2 more |
 | **KRN** — KRN HEAT EXCHANGER AND REFRIGERAT… | Chief Financial Officer and Key Managerial Pe… | Sonu Gupta (resignation; last day 2026-05-14) | Pawan Nawal (from 2026-05-15) | effective | 2026-05-14 | [2026-08-13 Press Release](https://nsearchives.nseindia.com/corporate/KRNHEAT_13082026150048_pressreleasesigned.pdf) · [2026-05-16 General Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_16052026180031_covresignsonusignedd.pdf) · +2 more |
 | **ZAGGLE** — Zaggle Prepaid Ocean Services Ltd. | Group Chief Financial Officer (Key Managerial… | Rajesh Tummalaganti (interim holder replaced; last day 2026-05-17) | Venkatesh Ramachandran (external; from 2026-05-18) | effective | 2026-05-13 | [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026172203_5_Appointment__Resignation_of_CFO.pdf) · [2026-05-13 Change in Management](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026172440_5_Appointment__Resignation_of_CFO.pdf) · +2 more |
-| **SKFINDIA** — SKF India Ltd. | Chief Financial Officer (‘CFO”) / Interim Chi… | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 | [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · +2 more |
+| **SKFINDIA** — SKF India Ltd. | Interim Chief Financial Officer (Interim CFO)… | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 | [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · +2 more |
 | **RELIGARE** — Religare Enterprises Ltd. | Chief Financial Officer of REL | — (new seat) | Pratul Gupta (internal) | effective | 2026-05-12 | [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf) |
-| **NFL** — National Fertilizers Ltd. | Director (Finance); Chief Financial Officer (… | Mahesh Chander Gupta (interim holder replaced; last day 2026-05-12) | Arvind Kumar (government appointee; from 2026-05-27) | effective | 2026-05-12 | [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) |
+| **NFL** — National Fertilizers Ltd. | Director (Finance); Chief Financial Officer (… | Mahesh Chander Gupta (interim holder replaced; last day 2026-05-12) | Arvind Kumar (government appointee; from 2026-05-27) | effective | 2026-05-12 | [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · +1 more |
 | **BAJAJELEC** — Bajaj Electricals Ltd | Chief Financial Officer and Key Managerial Pe… | Suketu Shah (interim holder replaced; last day 2026-05-15) | Ashween Anand (external; from 2026-05-16) | effective | 2026-05-11 | [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026165929_ScannedOutcomeOfBMdated15052026.pdf) · [2026-05-15 Change in Management](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026172425_ScannedOutcomeOfBMdated15052026.pdf) · +2 more |
 | **SAIL** — Steel Authority of India Ltd. | Director (Finance), Steel Authority of India… | Ashok Kumar Panda (moved to another role in the company or group) | Ashok Kumar Panda (interim; internal) | effective | 2026-05-09 | [2026-05-09 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_09052026203504_Comp_090592026.pdf) |
 | **RATEGAIN** — Rategain Travel Technologies Ltd. | Chief Financial Officer and Key Managerial Pe… | Rohan P Mittal (resignation; last day 2026-05-08) | Ankit Aggarwal (interim; internal; from 2026-05-09) | effective | 2026-05-08 | [2026-09-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RATEGAIN_28092026125944_RG_Outcome_CFO_28092026.pdf) · [2026-09-28 Change in Management](https://nsearchives.nseindia.com/corporate/RATEGAIN_28092026131202_RG_Outcome_CFO_28092026.pdf) · +2 more |
 | **CHOLAHLDNG** — Cholamandalam Financial Holdings… | Chief Financial Officer (CFO) of the Company | N Ganesh (resignation; last day 2026-06-14) | Shyam Shankar (from 2026-06-15) | effective | 2026-05-08 | [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026142539_Outcome_of_BM.pdf) · [2026-05-08 Resignation](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164106_Change_in_Management.pdf) · +2 more |
-| **ACMESOLAR** — ACME Solar Holdings Ltd. | Chief Financial Officer | Rajat Kumar Singh (resignation; last day 2026-05-08) | Arun Chopra (internal) | effective | 2026-05-08 | [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip) |
+| **ACMESOLAR** — ACME Solar Holdings Ltd. | Group Chief Financial Officer (outgoing) / Ch… | Rajat Kumar Singh (resignation; last day 2026-05-08) | Arun Chopra (internal; from 2026-05-08) | effective | 2026-05-08 | [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ACMECS_08052026011036_BMoutcome.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip) |
 | **MANAPPURAM** — Manappuram Finance Ltd. | Chief Financial Officer | Bindu A.L. (moved to another role in the company or group; last day 2026-05-05) | Buvanesh Tharashankar (internal; from 2026-05-05) | effective | 2026-05-05 | [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · +1 more |
 | **LT** — Larsen & Toubro Ltd. | Chief Financial Officer | R. Shankar Raman (last day 2026-06-30) | P. Ramakrishnan (internal; from 2026-07-01) | effective | 2026-05-05 | [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026170641_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026171629_LTResultMarch2026.pdf) · +2 more |
 | **HINDZINC** — Hindustan Zinc Ltd. | Chief Financial Officer | Sandeep Modi (resignation; last day 2026-05-30) | Amit Gupta (group company; from 2026-06-01) | effective | 2026-05-04 | [2026-05-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HINDZINCNSE_29052026175435_OutcomeBM29052026.pdf) · [2026-05-04 Change in Management](https://nsearchives.nseindia.com/corporate/HINDZINCNSE_04052026164619_FinalSEIntimation.pdf) · +2 more |
-| **ITI** — ITI Ltd. | Chief Financial Officer | Prasad Barre (resignation; last day 2026-04-30) | Ramana Babu C V (internal; from 2026-05-28) | effective | 2026-05-02 | [2026-10-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_15102026120847_Signed_DF_Ext_.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · +2 more |
+| **ITI** — ITI Ltd. | Chief Financial Officer | Prasad Barre (resignation; last day 2026-04-30) | Ramana Babu C V (internal; from 2026-05-28) | effective | 2026-05-02 | [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · +2 more |
 | **ONGC** — Oil & Natural Gas Corporation Ltd. | Director (Finance) | Vivek Chandrakant Tongaonkar (retirement; last day 2026-04-30) | Manish Patil (interim; government appointee; from 2026-05-01) | effective | 2026-04-30 | [2026-05-01 Cessation](https://nsearchives.nseindia.com/corporate/ONGC_01052026163946_DFceasation01052026.pdf) · [2026-05-01 Cessation](https://nsearchives.nseindia.com/corporate/ONGC_01052026164625_DFceasation01052026.pdf) · +1 more |
 | **FEDERALBNK** — Federal Bank Ltd. | Chief Financial Officer (CFO) of the Bank | Venkatraman Venkateswaran (moved to another role in the company or group; last day 2026-0… | Manikandan M (internal; from 2026-05-01) | effective | 2026-04-29 | [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf) |
 | **TATAELXSI** — Tata Elxsi Ltd. | Chief Financial Officer | Gaurav Bajaj (resignation; last day 2026-05-29) | Nalin Rana (group company; from 2026-05-30) | effective | 2026-04-27 | [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/TELNSE_27042026085031_ChangeinKMP.pdf) · [2026-04-27 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TATAELXSI_ROID_83324_KMP_Doc.zip) |
 | **AUBANK** — AU Small Finance Bank Ltd. | Chief Financial Officer ("CFO") | — (new seat) | Gaurav Jain (internal; from 2026-04-27) | effective | 2026-04-27 | [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026162647_BM_Outcome.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026163051_BM_Outcome.pdf) · +2 more |
 | **ONGC** — Oil & Natural Gas Corporation Ltd. | Chief Financial Officer (CFO) | Vivek Chandrakant Tongaonkar (retirement; last day 2026-04-30) | Yogish Nayak S. (internal; from 2026-05-01) | effective | 2026-04-25 | [2026-05-01 Cessation](https://nsearchives.nseindia.com/corporate/ONGC_01052026163946_DFceasation01052026.pdf) · [2026-05-01 Cessation](https://nsearchives.nseindia.com/corporate/ONGC_01052026164625_DFceasation01052026.pdf) · +2 more |
 | **TEGA** — Tega Industries Ltd. | Chief Financial Officer (CFO) | Sharad Kumar Khaitan (resignation; last day 2026-05-05) | Shyama Prasad Ganguly (interim; internal; from 2026-05-06) | effective | 2026-04-24 | [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_06082026131344_Intimation_under_reg_30_app_CFO_sd.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24042026202759_Intimation_under_Reg_30_SEBI_LODR_SD.pdf) · +2 more |
-| **CONCOR** — Container Corporation of India Lt… | Principal Executive Director (Finance) & CS &… | Harish Chandra (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-22 | [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · +2 more |
+| **CONCOR** — Container Corporation of India Lt… | Principal Executive Director (Finance) & CS &… | Harish Chandra (last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-22 | [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · +2 more |
 | **CONCOR** — Container Corporation of India Lt… | Director (Finance) & Chief Financial Officer… | Pallavi Joshi (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-20 | [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · +2 more |
 | **MASTEK** — Mastek Ltd. | Chief Financial Officer | — (new seat) | Deepak Kedia | effective | 2026-04-17 | [2026-04-17 Press Release](https://nsearchives.nseindia.com/corporate/MASTEK12_17042026162827_PressRreleaseInvPresentation17042026signed.pdf) |
-| **JIOFIN** — Jio Financial Services Ltd. | Group Chief Financial Officer and Key Manager… | Abhishek Haridas Pathak (moved to another role in the company or group; last day 2026-04-… | Annapoorna Venkataramanan (external; from 2026-05-11) | effective | 2026-04-17 | [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf) |
+| **JIOFIN** — Jio Financial Services Ltd. | Group Chief Financial Officer and Key Manager… | Abhishek Haridas Pathak (moved to another role in the company or group; last day 2026-04-… | Annapoorna Venkataramanan (external; from 2026-05-11) | effective | 2026-04-17 | [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026181843_JFSLoutcome.pdf) · +2 more |
 | **TEJASNET** — Tejas Networks Ltd. | Chief Financial Officer | Sumit Dhingra (resignation; last day 2026-05-15) | AVS Prasad (internal; from 2026-05-16) | effective | 2026-04-15 | [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TEJASNET_15042026203628_Changes_in_managementsd.pdf) |
 | **JUSTDIAL** — Justdial Ltd. | Chief Financial Officer and Key Managerial Pe… | Abhishek Bansal (resignation; last day 2026-04-15) | Dinesh Taluja (internal; from 2026-07-11) | effective | 2026-04-13 | [2026-07-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/chintan_10072026223347_Outcome_sd.pdf) · [2026-07-10 Change in Management](https://nsearchives.nseindia.com/corporate/chintan_10072026225634_Outcome_sd.pdf) · +2 more |
-| **LXCHEM** — Laxmi Organic Industries Ltd. | Chief Financial Officer and Key Managerial Pe… | Mahadeo Karnik (resignation; last day 2026-04-13) | Harshvardhan Goenka (interim; internal; from 2026-04-14) | effective | 2026-04-10 | [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · +2 more |
+| **LXCHEM** — Laxmi Organic Industries Ltd. | Chief Financial Officer | Mahadeo Karnik (resignation; last day 2026-04-13) | Harshvardhan Goenka (interim; internal; from 2026-04-14) | effective | 2026-04-10 | [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · +2 more |
 | **SAATVIKGL** — Saatvik Green Energy Ltd. | Chief Financial Officer | Abani Kant Jha (resignation; last day 2026-04-07) | Rishabh Mehtta (interim; from 2026-04-23) | effective | 2026-04-08 | [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026172450_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026173053_Intimation_of_CFOCSSMPsigned.pdf) · +2 more |
-| **ZAGGLE** — Zaggle Prepaid Ocean Services Ltd. | Chief Financial Officer (Key Managerial Perso… | Venkata Aditya Kumar Grandhi (resignation; last day 2026-04-03) | Rajesh Tummalaganti (interim; internal; from 2026-04-04) | effective | 2026-04-03 | [2026-04-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200637_Zaggle_SE_intimation_030412026.pdf) · [2026-04-03 Change in Management](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200929_Zaggle_SE_intimation_030412026.pdf) · +1 more |
+| **ZAGGLE** — Zaggle Prepaid Ocean Services Ltd. | Chief Financial Officer (Key Managerial Perso… | Venkata Aditya Kumar Grandhi (resignation; last day 2026-04-03) | Rajesh Tummalaganti (interim; internal; from 2026-04-04) | effective | 2026-04-03 | [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026172203_5_Appointment__Resignation_of_CFO.pdf) · [2026-04-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200637_Zaggle_SE_intimation_030412026.pdf) · +2 more |
 | **RECLTD** — REC Ltd. | Director (Finance) and Chief Financial Office… | Jitendra Srivastava (interim holder replaced; last day 2026-04-01) | Rajesh Kumar (internal; from 2026-04-02) | effective | 2026-04-02 | [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RECLTD_15042026182242_Signed_REC_intimation_outcomeofBOD.pdf) · [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/RECLTD_02042026182412_Signed_Intimation_regarding_change_in_Board_of_Directors.pdf) · +1 more |
 | **PFC** — Power Finance Corporation Ltd. | Director (Finance) on the Board and CFO | Sandeep Kumar (retirement; last day 2026-03-31) | Rajesh Kumar Agarwal (internal; from 2026-04-23) | effective | 2026-04-01 | [2026-05-20 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_20052026162621_INTIMATIONTRANSCRIPT20052026signed.pdf) · [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_30042026162302_INTIMATIONCFODIR30042026.pdf) · +2 more |
-| **CONCOR** — Container Corporation of India Lt… | Director (Finance)/CONCOR (Additional Charge) | Anurag Kapil (last day 2026-03-31) | Pallavi Joshi (interim; government appointee; from 2026-04-09) | effective | 2026-04-01 | [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_10042026200535_SSE_DF_Appointment.pdf) · +2 more |
-| **PNCINFRA** — PNC Infratech Ltd. | Chief Financial Officer (CFO) | Devendra Kumar Agarwal (resignation; last day 2026-03-31) | Chakresh Kumar Jain (internal; from 2026-05-01) | effective | 2026-03-31 | [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · +1 more |
+| **CONCOR** — Container Corporation of India Lt… | Director (Finance) (Additional Charge) | Anurag Kapil (last day 2026-03-31) | Pallavi Joshi (interim; government appointee; from 2026-04-09) | effective | 2026-04-01 | [2026-04-15 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_15042026120445_CONCOR_SE_15042026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_10042026200535_SSE_DF_Appointment.pdf) · +2 more |
+| **PNCINFRA** — PNC Infratech Ltd. | Chief Financial Officer (CFO) | Devendra Kumar Agarwal (resignation; last day 2026-03-31) | Chakresh Kumar Jain (internal; from 2026-05-19) | effective | 2026-03-31 | [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026161006_Outcomeofboardmeeting19052026.pdf) · +2 more |
 | **GALLANTT** — Gallantt Ispat Ltd. | Chief Financial Officer (CFO) and Key Manager… | Sandip Kumar Agarwal (resignation; last day 2026-03-31) | Pradyumna Kumar Satpathy (external; from 2026-04-01) | effective | 2026-03-31 | [2026-03-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GALLANTT_31032026161509_GIL_BM_Outcome.pdf) · [2026-03-31 General Updates](https://nsearchives.nseindia.com/corporate/GALLANTT_31032026175428_GIL_CFO_Resignation.pdf) · +2 more |
 | **BIOCON** — Biocon Ltd. | Chief Financial Officer | Mukesh Kamath (resignation; last day 2026-03-31) | Kedar Narayan Upadhye (group company; from 2026-04-01) | effective | 2026-03-27 | [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115323_Outcome_of_BM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115733_OutcomeofBM27032026.pdf) · +2 more |
 | **AEQUS** — Aequs Ltd. | Chief Financial Officer | Dinesh Iyer (resignation; last day 2026-06-30) | Reenah Simon Joseph (external; from 2026-08-31) | effective | 2026-03-24 | [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_26102026162601_Press_Release_for_Financials.pdf) · [2026-08-29 Appointment](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_29082026175255_Intimation_CFO.pdf) · +1 more |
 | **ABFRL** — Aditya Birla Fashion and Retail L… | Chief Financial Officer (“CFO”) & KMP of the… | Jagdish Bajaj (retirement; last day 2026-12-31) | Nikhil Modha (group company; from 2027-01-01) | announced, not yet effective | 2026-03-24 | [2026-03-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABFRL_24032026130928_ABFRL_SE_Change_in_Management.pdf) · [2026-03-24 Appointment](https://nsearchives.nseindia.com/corporate/ABFRL_24032026131435_ABFRL_SE_Change_in_Management.pdf) · +2 more |
 | **WAAREEENER** — Waaree Energies Ltd. | Chief Financial Officer | Sonal Shrivastava (resignation; last day 2026-03-20) | Abhishek Pareek (internal; from 2026-03-21) | effective | 2026-03-20 | [2026-03-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WAAREE_20032026202628_OutcomeofBoardMeeting_signed.pdf) · [2026-03-20 Resignation](https://nsearchives.nseindia.com/corporate/WAAREE_20032026203248_OutcomeofBoardMeeting_signed.pdf) · +2 more |
-| **SJVN** — SJVN Ltd. | Whole-time Director (Finance) / Chief Financi… | Sipan Kumar Garg (interim holder replaced; last day 2026-03-19) | Parthajit De (government appointee; from 2026-03-19) | effective | 2026-03-19 | [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_10042026144020_cfo.pdf) · [2026-03-19 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_19032026134709_2.pdf) · +2 more |
+| **SJVN** — SJVN Ltd. | Whole-time Director (Finance) | Sipan Kumar Garg (interim holder replaced; last day 2026-03-19) | Parthajit De (government appointee; from 2026-03-19) | effective | 2026-03-19 | [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_10042026144020_cfo.pdf) · [2026-03-19 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_19032026134709_2.pdf) · +2 more |
 | **NSLNISP** — NMDC Steel Ltd. | Chief Financial Officer (CFO) / Director (Fin… | K Raj Shekhar (interim holder replaced; last day 2026-03-31) | Anurag Kapil (government appointee; from 2026-03-31) | effective | 2026-03-18 | [2026-03-31 Appointment](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026142524_NSLapptofDirFinance.pdf) · [2026-03-31 Cessation](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026160454_NSLcessationofCFO.pdf) · +1 more |
 | **NMDC** — NMDC Ltd. | Director (Finance) ... deemed to be Chief Fin… | G Anupama (interim holder replaced; last day 2026-03-31) | Anurag Kapil (government appointee; from 2026-03-31) | effective | 2026-03-18 | [2026-03-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_31032026133701_20260331_SEA2025089_ChangeInDirectorate_DFin.pdf) · [2026-03-31 Change in Management](https://nsearchives.nseindia.com/corporate/NMDC_31032026233234_20260331_SEA2025090_ChangeInManagement_CFO.pdf) · +1 more |
 | **GREAVESCOT** — Greaves Cotton Ltd. | Chief Financial Officer / Group Chief Financi… | Akhila Balachandar (resignation; last day 2026-03-19) | Manish Poddar (external; from 2026-03-19) | effective | 2026-03-13 | [2026-03-13 Change in Management](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026103958_Board_Meeting_Intimation.pdf) · [2026-03-13 Cessation](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026104317_Board_Meeting_Intimation.pdf) · +2 more |
@@ -501,7 +511,7 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **TARIL** — Transformers And Rectifiers (Indi… | Chief Financial Officer (Key Managerial Perso… | Chanchal Singh Satyandra Rajora (resignation; last day 2026-03-05) | Mehul Shah (from 2026-03-05) | effective | 2026-03-05 | [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf) |
 | **CYIENT** — Cyient Ltd. | Chief Financial Officer | Prabhakar Atla (moved to another role in the company or group; last day 2026-03-31) | Shrinivas Kulkarni (group company; from 2026-04-01) | effective | 2026-03-03 | [2026-03-04 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_04032026090427_PR04032026FinalSigned.pdf) · [2026-03-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CYIENT_03032026212031_ChangeinManagementSigned.pdf) · +2 more |
 | **GLAXO** — Glaxosmithkline Pharmaceuticals L… | Whole-Time Director & Chief Financial Officer… | Juby Chandy (moved to another role in the company or group; last day 2026-03-11) | Ronojit Biswas (group company; from 2026-04-01) | effective | 2026-03-02 | [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · [2026-03-07 General Updates](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026173413_PostalBallotNoticeRegulation.pdf) · +2 more |
-| **NFL** — National Fertilizers Ltd. | Director (Finance) and CFO | Hira Nand (retirement; last day 2026-02-28) | Mahesh Chander Gupta (interim; internal; from 2026-03-03) | effective | 2026-03-01 | [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf) |
+| **NFL** — National Fertilizers Ltd. | Director (Finance) and CFO | Hira Nand (retirement; last day 2026-02-28) | Mahesh Chander Gupta (interim; internal; from 2026-03-03) | effective | 2026-03-01 | [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · +1 more |
 | **BOSCHLTD** — Bosch Ltd. | Chief Financial Officer | Karin Gilges (moved to another role in the company or group; last day 2026-05-31) | Tillmann Olsen (group company; from 2026-06-01) | effective | 2026-02-17 | [2026-02-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_17022026180736_LettertoSE17022026sign.pdf) · [2026-02-17 Appointment](https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_17022026181022_LettertoSE17022026sign.pdf) · +1 more |
 | **SAGILITY** — Sagility Ltd. | Group Chief Financial Officer | — (new seat) | Srinivas Rathnam Mattapalli (external; from 2026-02-14) | effective | 2026-02-14 | [2026-02-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201032_IntimationChangeinMgt.pdf) · [2026-02-14 Appointment](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201506_IntimationChangeinMgt.pdf) |
 | **VIJAYA** — Vijaya Diagnostic Centre Ltd. | Chief Financial Officer (CFO) | S. Ramachandra Reddy (moved to another role in the company or group; last day 2026-02-13) | Ankit Shah (external; from 2026-02-13) | effective | 2026-02-13 | [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026151254_BMOutcomeWithoutUFR13022026S.pdf) · [2026-02-13 Change in Director(s)](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026151453_BMOutcomeWithoutUFR13022026S.pdf) · +2 more |
@@ -513,7 +523,7 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **DEVYANI** — Devyani International Ltd. | Chief Financial Officer | Manish Dawar (moved to another role in the company or group; last day 2026-03-31) | Anupam Kumar (internal; from 2026-04-01) | effective | 2026-02-04 | [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_15052026123413_Outcome_15052026Reg30sd.pdf) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_15052026123654_Outcome_15052026Reg30sd.pdf) · +2 more |
 | **TATACOMM** — Tata Communications Ltd. | Chief Financial Officer | Kabir Ahmed Shakir (resignation; last day 2026-04-30) | Siddhartha Mundra (group company; from 2026-05-01) | effective | 2026-02-03 | [2026-02-10 Change in Management](https://nsearchives.nseindia.com/corporate/TATACOMM_10022026200944_18364.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/TATACOMM_03022026155145_18362.pdf) |
 | **FACT** — Fertilisers and Chemicals Travanc… | Director (Finance) | S. Sakthimani (moved to another role in the company or group; last day 2026-02-02) | S. Sakthimani (interim; internal; from 2026-02-03) | effective | 2026-02-03 | [2026-02-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_03022026173630_037_CMD__DF_Addl_charge.pdf) · [2026-02-02 Appointment](https://nsearchives.nseindia.com/corporate/FACT_02022026204401_035DFCMDAPPOINTMENT.pdf) |
-| **ADANIPORTS** — Adani Ports and Special Economic… | Chief Financial Officer | D. Muthukumaran (moved to another role in the company or group; last day 2026-02-28) | Sreedhar Krishna Menon (group company; from 2026-03-01) | effective | 2026-02-03 | [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf) |
+| **ADANIPORTS** — Adani Ports and Special Economic… | Chief Financial Officer and Key Managerial Pe… | D. Muthukumaran (moved to another role in the company or group; last day 2026-02-28) | Sreedhar Krishna Menon (group company; from 2026-03-01) | effective | 2026-02-03 | [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf) |
 | **SCI** — Shipping Corporation of India Ltd. | Director (Finance) | Som Raj (interim holder replaced; last day 2026-02-23) | Nitin Khamesra (external; from 2026-02-23) | effective | 2026-02-02 | [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · [2026-02-23 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SCI_23022026181144_Signed.pdf) · +2 more |
 | **HONAUT** — Honeywell Automation India Ltd. | Chief Financial Officer of the Company and Ke… | Pulkit Goyal (resignation; last day 2026-05-20) | Satish Agarwal (group company; from 2026-06-01) | effective | 2026-02-02 | [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82792_KMP_Doc.zip) · [2026-04-20 Cessation](https://nsearchives.nseindia.com/corporate/HONAUT_20042026225135_RevSELetter20Apr26signed.pdf) · +2 more |
 | **RECLTD** — REC Ltd. | Director (Finance) and Chief Financial Office… | Harsh Baweja (retirement; last day 2026-01-31) | Jitendra Srivastava (interim; internal; from 2026-02-01) | effective | 2026-02-01 | [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/RECLTD_02042026182412_Signed_Intimation_regarding_change_in_Board_of_Directors.pdf) · [2026-02-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RECLTD_01022026151751_SignedIntimation_ChangeinDirectors.pdf) |
@@ -526,10 +536,11 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **NSLNISP** — NMDC Steel Ltd. | Director (Finance), NMDC Steel Ltd. (addition… | — (new seat) | Amitava Mukherjee (interim; internal; from 2025-12-06) | effective | 2026-01-27 | [2026-03-31 Appointment](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026142524_NSLapptofDirFinance.pdf) · [2026-01-27 General Updates](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_27012026183443_NSLAddlchargeDFtoCMD.pdf) |
 | **SRF** — SRF Ltd. | President & Chief Financial Officer | — (new seat) | Samir Kashyap (external; from 2026-01-27) | effective | 2026-01-20 | [2026-01-20 Appointment](https://nsearchives.nseindia.com/corporate/ekta_maheshwari_20012026151935_CFOAppointmentsd.pdf) |
 | **OLAELEC** — Ola Electric Mobility Ltd. | Chief Financial Officer | Harish Abichandani (resignation; last day 2026-01-19) | Deepak Rastogi (external; from 2026-01-20) | effective | 2026-01-19 | [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/OLAELECTRIC_19012026205220_Outcome_Board_Meeting_OEM.pdf) · [2026-01-19 Appointment](https://nsearchives.nseindia.com/corporate/OLAELECTRIC_19012026210129_Outcome_Board_Meeting_OEM.pdf) · +1 more |
-| **ELECON** — Elecon Engineering Co. Ltd. | Chief Financial Officer (CFO) and Key Manager… | Narasimhan Raghunathan (resignation; last day 2026-01-31) | Chintan Shah (external; from 2026-04-15) | effective | 2026-01-08 | [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · +2 more |
+| **ELECON** — Elecon Engineering Co. Ltd. | Chief Financial Officer (CFO) and Key Manager… | Narasimhan Raghunathan (resignation; last day 2026-01-31) | Chintan Shah (external; from 2026-04-15) | effective | 2026-01-08 | [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_15042026140754_OutcomeBM15042026_signed.pdf) · [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · +2 more |
 | **RAYMONDLSL** — Raymond Lifestyle Ltd. | Chief Financial Officer and Key Managerial Pe… | Vishal Raigagla (interim holder replaced; last day 2026-01-27) | Prasad Ellatch Chathuar (external; from 2026-01-27) | effective | 2026-01-05 | [2026-01-27 Change in Management](https://nsearchives.nseindia.com/corporate/RLL_27012026114804_Appointment_of_ECP_as_CFO.pdf) · [2026-01-27 Appointment](https://nsearchives.nseindia.com/corporate/RLL_27012026115052_Appointment_of_ECP_as_CFO.pdf) · +1 more |
 | **AWFIS** — Awfis Space Solutions Ltd. | Chief Financial Officer | Ravi Dugar (resignation; last day 2026-02-02) | Sumit Rochlani (internal; from 2026-02-03) | effective | 2026-01-05 | [2026-01-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162148_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Resignation](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162714_Outcome_Regulation_30_Signed.pdf) · +2 more |
 | **TRIDENT** — Trident Ltd. | Group Chief Financial Officer (Senior Managem… | Rahul Roongta (resignation; last day 2026-01-02) | — not named | seat vacant — no successor named | 2026-01-02 | [2026-01-02 Resignation](https://nsearchives.nseindia.com/corporate/TRIDENT_02012026181110_Intimation_to_Stock_Exchange.pdf) |
+| **WELSPUNLIV** — Welspun Living Ltd. | Chief Financial Officer | — (new seat) | Manish Bansal (internal; from 2026-01-01) | effective | — |  |
 | **WAKEFIT** — Wakefit Innovations Ltd. | Chief Financial Officer (Key Managerial Perso… | Navesh Gupta (resignation; last day 2025-12-31) | Parul Gupta (internal; from 2026-02-10) | effective | 2025-12-31 | [2026-02-10 Appointment](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026121601_SignedSEIntimationCIMCFO.pdf) · [2026-02-10 General Updates](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026131631_SignedDeterminationofmateriality.pdf) · +2 more |
 | **SCI** — Shipping Corporation of India Ltd. | Director (Finance) | Vikram Dingley (end of term; last day 2025-12-31) | Som Raj (interim; internal; from 2026-01-01) | effective | 2025-12-29 | [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_24092026111945_ScrutinizerReportCountersignedsd.pdf) · [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · +2 more |
 | **ATGL** — Adani Total Gas Ltd. | Interim Chief Financial Officer (Key Manageri… | — (new seat) | Preyash Jhaveri (interim; internal; from 2025-12-22) | effective | 2025-12-22 | [2026-09-03 Change in Management](https://nsearchives.nseindia.com/corporate/ATGL2024_03092026140903_ATGL_Disclosure_SE_Appt_CFO_03092026.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/ATGL2024_21052026191953_ATGL_SE_BM_Outcome_21052026.pdf) · +2 more |
@@ -547,17 +558,12 @@ Two kinds of management change: the **promoters / owners** of the company changi
 | **QUESS** — Quess Corp Ltd. | Chief Financial Officer and Key Managerial Pe… | — (new seat) | Neeraj Jain (external; from 2025-12-05) | effective | 2025-12-05 | [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) |
 | **LINDEINDIA** — Linde India Ltd. | Interim Chief Financial Officer (CFO) | Neeraj Kumar Jumrani (resignation; last day 2026-02-15) | Ajay Kumar Sah (interim; internal; from 2026-02-16) | effective | 2025-12-05 | [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LINDEINDIA_09022026174937_Linde_India_Outcome_of_BM_09022026.pdf) · [2026-01-12 Updates](https://nsearchives.nseindia.com/corporate/LINDEINDIA_12012026160339_LIL_Contact_details_of_KMP_12012026.pdf) · +2 more |
 | **RAYMOND** — Raymond Ltd. | Group Chief Financial Officer | Amit Agarwal (moved to another role in the company or group; last day 2025-12-02) | Rakesh Tiwary (external; from 2025-12-03) | effective | 2025-12-02 | [2025-12-03 Press Release](https://nsearchives.nseindia.in/corporate/RAYMOND_03122025165122_RLSEintimationpressreleasesigned.pdf) · [2025-12-02 Change in Management](https://nsearchives.nseindia.in/corporate/RAYMOND_02122025202328_RLCFOapptsigned.pdf) · +2 more |
-| **NATCOPHARM** — NATCO Pharma Ltd. | Chief Financial Officer | S.V.V.N. Appa Rao | Amit Parekh (external) | announced, not yet effective | 2025-12-02 | [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf) |
+| **NATCOPHARM** — NATCO Pharma Ltd. | Chief Financial Officer | S. V. V. N. Appa Rao (retirement; last day 2026-02-12) | Amit Parekh (internal; from 2026-02-13) | effective | 2025-12-02 | [2026-02-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NATCOPHARM_12022026143742_Outcome12022026.pdf) · [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf) |
 | **ZENTEC** — Zen Technologies Ltd. | Chief Financial Officer | Afzal Harunbhai Malkani (resignation; last day 2025-11-30) | Hari Haran Chalat (internal; from 2026-01-31) | effective | 2025-12-01 | [2026-02-02 Change in Management](https://nsearchives.nseindia.com/corporate/ZENTEC_02022026183942_SEIntimation_Change_in_Management.pdf) · [2026-01-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_31012026173109_BM_OC_UFR_Q3FY2631012026.pdf) · +1 more |
-| **HCG** — Healthcare Global Enterprises Ltd. | interim Chief Financial Officer and Key Manag… | — (new seat) | Manish Mattoo (interim; internal; from 2025-12-01) | effective | 2025-12-01 | [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +2 more |
+| **HCG** — Healthcare Global Enterprises Ltd. | interim Chief Financial Officer and Key Manag… | — (new seat) | Manish Mattoo (interim; internal; from 2025-12-01) | effective | 2025-12-01 | [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +2 more |
+| **TMPV** — Tata Motors Passenger Vehicles Lt… | Chief Financial Officer, TMPVL | Pathamadai Balachandran Balaji (moved to another role in the company or group) | Dhiman Gupta (internal) | effective | — | [2026-08-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_13082026155435_NSEBSERESULT.pdf) · [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · +1 more |
 | **TATATECH** — Tata Technologies Ltd. | Chief Financial Officer and Key Managerial Pe… | Savitha Balachandran (resignation; last day 2025-12-30) | Uttam Gujrati (internal; from 2025-12-31) | effective | 2025-11-28 | [2025-11-28 Resignation](https://nsearchives.nseindia.com/corporate/TTLNSE_28112025183628_SE_Letter_change_in_KMP_.pdf) · [2025-11-28 Appointment](https://nsearchives.nseindia.com/corporate/TTLNSE_28112025184155_SE_Letter_change_in_KMP_.pdf) |
-| **TMPV** — Tata Motors Passenger Vehicles Lt… | CFO DESIGNATE, TATA MOTORS PASSENGER VEHICLES… | P B Balaji | Dhiman Gupta | announced, not yet effective | — | [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_28112025190050_Lettertoexchangesforpostalballotfinal.pdf) |
-| **SCHNEIDER** — Schneider Electric Infrastructure… | Chief Financial Officer | — (new seat) | Omkar Prasad | effective | — |  |
-| **RRKABEL** — R R Kabel Ltd. | Chief Financial Officer | Rajesh Jain (moved to another role in the company or group) | Jigar Mehta (internal) | effective | — | [2026-05-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RRKL1995_30052026124724_Reg_30_intimation_-_Change_in_Management.pdf) |
-| **JWL** — Jupiter Wagons Ltd. | Chief Financial Officer | — (new seat) | Vinod Kumar Agrawal | effective | — |  |
-| **IDEA** — Vodafone Idea Ltd. | our new CFO | Murthy | Tejas Mehta (external) | effective | — | [2026-08-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IDEA_10082026192959_SEIntimationChangeindirectorSMP10082026signed.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/IDEA_10082026193358_SEIntimationChangeindirectorSMP10082026signed.pdf) |
-| **DELHIVERY** — Delhivery Ltd. | Chief Financial Officer | Amit Agarwal | Vivek Pabari (internal) | effective | — | [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_08082026164845_Outcome08082026_sd.pdf) · [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_08082026164912_Outcome08082026_sd.pdf) · +1 more |
-| **BAYERCROP** — Bayer Cropscience Ltd. | CFO | — (new seat) | Vinit | effective | — |  |
+
 
 ## Read and set aside
 
@@ -565,13 +571,12 @@ Candidates the judge read and found were not a change, by reason — the full li
 
 | Reason | Companies |
 |---|---:|
-| seat — not a change | 189 |
-| seat — no change in the documents | 75 |
-| ownership — No ownership change | 61 |
-| ownership — Dilution only (shares issued) | 18 |
-| seat — a name the judge gave is not in the documents | 2 |
-| seat — before the window | 2 |
-| seat — judge not run | 1 |
+| seat — not a change | 197 |
+| ownership — No ownership change | 77 |
+| seat — no change in the documents | 65 |
+| ownership — Dilution only (shares issued) | 22 |
+| seat — before the window | 11 |
+| ownership — Stake change under 2 points, same controller | 5 |
 
 ### Promoter holding moved by two points or more, not an ownership change
 
@@ -600,7 +605,7 @@ Candidates the judge read and found were not a change, by reason — the full li
 | **URBANCO** | 20.43% (2025-09-30) → 17.23% (2026-11-19) | -3.20 | not put to the judge (a move under five points with no other sign) |
 | **MANORAMA** | 54.32% (2025-09-30) → 51.38% (2026-09-30) | -2.94 | not put to the judge (a move under five points with no other sign) |
 | **PGIL** | 62.75% (2025-09-30) → 59.91% (2026-09-30) | -2.84 | not put to the judge (a move under five points with no other sign) |
-| **BORORENEW** | 58.79% (2025-10-17) → 56.02% (2026-09-30) | -2.77 | Dilution only (shares issued) — Promoter and promoter group holding fell from 58.77% to 56.02% only because the company issued fresh equity on conversion of warrants allotted earlie… |
+| **BORORENEW** | 58.79% (2025-10-17) → 56.02% (2026-09-30) | -2.77 | Dilution only (shares issued) — Promoter and group holding fell from 58.77% to 56.02% only because non-promoter warrant holders converted warrants from the February 2025 preferentia… |
 | **JSWENERGY** | 69.27% (2025-09-30) → 66.53% (2026-09-30) | -2.74 | Dilution only (shares issued) — No ownership change at JSW Energy. Promoter JTPM Metal Traders acquired 0.54% via preferential allotment (Jan 2026); promoters sold nothing. Promoter… |
 | **CREDITACC** | 66.37% (2025-09-30) → 63.83% (2026-09-30) | -2.54 | not put to the judge (a move under five points with no other sign) |
 | **RAYMONDLSL** | 57.15% (2025-09-30) → 59.62% (2026-09-30) | +2.47 | not put to the judge (a move under five points with no other sign) |
@@ -615,6 +620,7 @@ Candidates the judge read and found were not a change, by reason — the full li
 | **ADANIENT** | 73.97% (2025-09-30) → 71.97% (2026-09-30) | -2.00 | not put to the judge (a move under five points with no other sign) |
 | **BAJAJHFL** | 88.7% (2025-09-30) → 86.7% (2026-09-30) | -2.00 | not put to the judge (a move under five points with no other sign) |
 | **ICICIAMC** | 87.59% (2025-12-18) → 85.6% (2026-09-30) | -1.99 | not put to the judge (a move under five points with no other sign) |
+| **ALKEM** | 51.2% (2025-09-30) → 49.7% (2026-09-30) | -1.50 | Stake change under 2 points, same controller — Promoter-group entities (Samprada & Nanhamati Singh Family Trust and Jayanti Sinha) sold about 2% of the capital in block deals, taking promoter-and-… |
 | **ATHERENERG** | 41.22% (2025-09-30) → 42.33% (2026-09-30) | +1.11 | not put to the judge (a move under five points with no other sign) |
 
 ---
@@ -945,14 +951,14 @@ Nothing about the change in the calls on file for the window.
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) and Key Managerial Personnel of the Company** | Piyush Lakhani (resignation; last day 2026-10-30) | Vibha Thakkar (external; from 2026-10-31) | effective | 2026-10-28 |
-| **Managing Director** | Hetal Gogri Gala (moved to another role in the company or group) | Rashesh C. Gogri (internal; from 2026-10-01) | effective | 2026-09-22 |
+| **Managing Director of the Company** | Hetal Gogri Gala (moved to another role in the company or group; last day 2026-09-30) | Rashesh C. Gogri (internal; from 2026-10-01) | effective | 2026-09-22 |
 
 - **Why Piyush Lakhani is leaving, in the filing's words:** “Resignation from the position of Chief Financial Officer and Key Managerial Personnel of the Company to pursue an alternate career opportunity outside the organization.”
-- In the documents: “Appointment of Smt. Vibha Thakkar as the Chief Financial Officer (CFO) and Key Managerial Personnel of the Company w.e.f October 31, 2026 upon the recommendation of the Nomination and Remuneration Committee and Audit Committee .” — [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · +1 more
-- **Why Hetal Gogri Gala is leaving, in the filing's words:** “Smt. Hetal Gogri Gala (DIN: 00005499) be re-designated from Managing Director to Whole-time Director of the Company with effect from October 1, 2026” Stays on as: Whole-time Director of the Company with effect from October 1, 2026 (also Vice Chairperson).
-- In the documents: “Shri. Rashesh C. Gogri (DIN:00066291) be appointed as the Managing Director of the Company pursuant to ch ange in his designation from Non -Executive Director to Managing Director , with effect from October 1, 2026 .” — [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · +1 more
+- In the documents: “Appointment of Smt. Vibha Thakkar as the Chief Financial Officer (CFO) and Key Managerial Personnel of the Company w.e.f October 31, 2026 upon the recommendation of the Nomination and Remuneration Committee and Audit Committee.” — [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · +1 more
+- **Why Hetal Gogri Gala is leaving, in the filing's words:** “Change in designation of Smt. Hetal Gogri Gala (DIN: 00005499) from Managing Director to Whole-time Director of the Company with effect from October 1, 2026” Stays on as: Whole-time Director of the Company.
+- In the documents: “Shri. Rashesh C. Gogri (DIN:00066291) be appointed as the Managing Director of the Company pursuant to change in his designation from Non-Executive Director to Managing Director, with effect from October 1, 2026.” — [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-10-28 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIPHARM_ROID_102254_KMP_Doc.zip) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_22092026173037_Reg_30_Proceeding_AGM_finalsd.pdf)
+*All 7 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210128_finaloutcomesigned.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026210924_finaloutcomesigned.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026213337_finaloutcomesigned.pdf) · [2026-10-28 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIPHARM_ROID_102254_KMP_Doc.zip) · [2026-10-28 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_28102026215648_Outcomefinalclearsigned.pdf) · [2026-09-23 Updates](https://nsearchives.nseindia.com/corporate/AARTIPHARMA_23092026185218_SE_Intimation_Updatessigned.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -980,9 +986,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Piyush Lakhani** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Piyush Lakhani** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since at least FY2023 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2022 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -994,9 +1000,9 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 8.8 | 8.2 | -0.6 pts |
 | Borrowings (₹ cr) | 338 | 754 | +416 |
 
-**Hetal Gogri Gala** — Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Hetal Gogri Gala** — Managing Director of the Company, in the seat since at least FY2023 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2022 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -1010,7 +1016,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Vibha Thakkar** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company. from: external; experience: over 18 years; qualifications: qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI); Bachelors Degree in Commerce; General Management Program from the Indian School of Business (ISB).
+**Vibha Thakkar** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company. from: external; experience: over 18 years; qualifications: a qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI); holds a Bachelors Degree in Commerce and has completed the General Management Program from the Indian School of Business (ISB).
 
 The filing's own profile: “Smt. Vibha Thakkar is a qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI). She has over 18 years of rich and progressive experience across finance functions in diverse industry verticals including Speciality chemicals, FMCG, Automotive, Pharmaceuticals and Big4 consultings. She most recently served as AVP - Finance & Accounts at NOCIL Limited. Prior to that she held senior leadership and key financial roles at renowned organizations including VIP Industries Limited, Greaves Cotton Limited, Sandoz Private Limited, KPMG. She holds a Bachelors Degree in Commerce and has completed the General Management Program from the Indian School of Business (ISB). She was also featured under the '40 Under 40' category by Tradeflock in 2025.”
 
@@ -1022,7 +1028,9 @@ The filing's own profile: “Smt. Vibha Thakkar is a qualified Chartered Account
 | senior leadership and key financial roles | Sandoz Private Limited | — | — |
 | senior leadership and key financial roles | KPMG | — | — |
 
-**Rashesh C. Gogri** — Managing Director. from: internal.
+**Rashesh C. Gogri** — Managing Director of the Company. from: internal.
+
+The filing's own profile: “Not Applicable (since it is change in role and not a new appointment)”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -1082,7 +1090,7 @@ The filing's own profile: “Smt. Vibha Thakkar is a qualified Chartered Account
 
 ### 3. Track record — the outgoing management
 
-**Sachinderpalsingh Jitendrasingh Bhinder** — Managing Director & Chief Executive Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Sachinderpalsingh Jitendrasingh Bhinder** — Managing Director & Chief Executive Officer, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -1094,9 +1102,9 @@ The company's results while they held the seat (the year before they took it, to
 | Financing profit margin (%) | 36.4 | 32.5 | -3.9 pts |
 | ROE (%) | 12.6 | 13.0 | +0.4 pts |
 
-**Ghanshyam Rawat** — President and Chief Financial Officer, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Ghanshyam Rawat** — President and Chief Financial Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2024 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -1282,9 +1290,9 @@ The filing's own profile: “Mr. Suneel Kumar Munaga is a seasoned finance and b
 
 ### 3. Track record — the outgoing management
 
-**Alok Gupta** — Managing Director & KMP of the Company, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Alok Gupta** — Managing Director & KMP of the Company, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -1322,18 +1330,6 @@ The filing's own profile: “Mr. Amar Sinha is a seasoned industry professional 
 | Managing Director | Whyte & Mackay India | — | — |
 | executive positions | Herbertsons (UB Group) | — | — |
 
-Results of **Allied Blenders and Distillers Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,520 | 3,923 | +11.4% a year over 1 year |
-| Operating profit (₹ cr) | 431 | 542 | +25.8% a year over 1 year |
-| PAT (₹ cr) | 195 | 220 | +12.8% a year over 1 year |
-| Operating profit margin (%) | 12.2 | 13.8 | +1.6 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 12.6 | 13.2 | +0.6 pts |
-| Borrowings (₹ cr) | 905 | 1,151 | +246 |
-
 **Ramakrishnan Ramaswamy** — Chief Financial Officer (“CFO”). from: internal; experience: over 3 decades of experience; qualifications: Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI).
 
 The filing's own profile: “Ramki holds a Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI). With over 3 decades of experience, he has held the position of Chief Financial Officer since 2003 across multiple organizations, including Allied Blenders from 2010 to 2024, bringing deep institutional knowledge and strategic financial expertise. Post September 2024, in recognition of his significant contribution and institutional knowledge, he was retained in a senior management advisory role.”
@@ -1344,18 +1340,6 @@ The filing's own profile: “Ramki holds a Bachelor’s degree in Commerce from 
 | senior management advisory role | Allied Blenders and Distillers Limited (ABDL) | 2024 | — |
 | Chief Financial Officer | Jubilant Oil & Gas Private Limited | — | — |
 | Vice President – Finance (Global) | Essel Propack Limited | — | — |
-
-Results of **Allied Blenders and Distillers Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,147 | 3,520 | +5.8% a year over 2 years |
-| Operating profit (₹ cr) | 186 | 431 | +52.2% a year over 2 years |
-| PAT (₹ cr) | 2.0 | 195 | +887.4% a year over 2 years |
-| Operating profit margin (%) | 5.9 | 12.2 | +6.3 pts |
-| ROCE (%) | 16.0 | 18.0 | +2.0 pts |
-| ROE (%) | 0.5 | 12.6 | +12.1 pts |
-| Borrowings (₹ cr) | 793 | 905 | +112 |
 
 ### 5. On the calls
 
@@ -1413,7 +1397,7 @@ Results of **Allied Blenders and Distillers Ltd.** while they were CFO there (an
 
 ### 3. Track record — the outgoing management
 
-**Jagdish Bajaj** — Chief Financial Officer (“CFO”) & KMP of the Company, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Jagdish Bajaj** — Chief Financial Officer (“CFO”) & KMP of the Company, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -1485,9 +1469,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Snehal Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Snehal Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -1513,18 +1497,6 @@ The filing's own profile: “Mr. Keyur Shah joined on 15th May, 2023 as CFO of B
 | — | HDFC | 2005 | — |
 | — | KPMG | — | — |
 | — | Castrol India Ltd (CASTROLIND) | — | — |
-
-Results of **Aditya Birla Real Estate Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,101 | 1,219 | +10.7% a year over 1 year |
-| Operating profit (₹ cr) | 221 | 16.0 | -92.8% a year over 1 year |
-| PAT (₹ cr) | 60.0 | -157 | profit to loss |
-| Operating profit margin (%) | 20.1 | 1.3 | -18.8 pts |
-| ROCE (%) | -0.0 | -4.0 | -4.0 pts |
-| ROE (%) | 1.5 | -4.1 | -5.6 pts |
-| Borrowings (₹ cr) | 2,502 | 4,997 | +2,495 |
 
 ### 5. On the calls
 
@@ -1608,17 +1580,6 @@ The filing's own profile: “Mr. Rampraveen Swaminathan, 51 years, has over 28 y
 | Corporate Vice President / President | International Paper Co. (India Operations) | — | — |
 | Leadership roles | Cummins Inc. and Cummins India Limited | — | — |
 
-Results of **Archean Chemical Industries Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,041 | 1,081 | +3.8% a year over 1 year |
-| Operating profit (₹ cr) | 315 | 239 | -24.1% a year over 1 year |
-| PAT (₹ cr) | 162 | 105 | -35.2% a year over 1 year |
-| Operating profit margin (%) | 30.3 | 22.1 | -8.2 pts |
-| ROE (%) | 8.4 | — | — |
-| Borrowings (₹ cr) | 466 | — | — |
-
 ### 5. On the calls
 
 8 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -1640,12 +1601,12 @@ Results of **Archean Chemical Industries Ltd.** while they were Managing Directo
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Rajat Kumar Singh (resignation; last day 2026-05-08) | Arun Chopra (internal) | effective | 2026-05-08 |
+| **Group Chief Financial Officer (outgoing) / Chief Financial Officer (incoming)** | Rajat Kumar Singh (resignation; last day 2026-05-08) | Arun Chopra (internal; from 2026-05-08) | effective | 2026-05-08 |
 
-- **Why Rajat Kumar Singh is leaving, in the filing's words:** “On account of personal reasons”
-- In the documents: “Salutation: Mr. ; Name Of The Person: Rajat Kumar Singh ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-02-28 ; Effective Date Of Resignation: 2026-05-08 ; Reason Of Resignation In Brief: On account of personal reasons” — [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
+- **Why Rajat Kumar Singh is leaving, in the filing's words:** “Mr. Rajat Kumar Singh has tendered resignation from the position of Group Chief Financial Officer of the Company vide letter dated February 28, 2026 due to personal reasons.”
+- In the documents: “Pursuant to the recommendation of Nomination and Remuneration Committee and Audit Committee, the Board of Directors has appointed Mr. Arun Chopra as the Chief Financial Officer, designated as the Key Managerial Personnel and Senior Management Personnel with effect from May 08, 2026, under section 203 of the Companies Act, 2013 and applicable provisions of the SEBI Listing Regulations.” — [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ACMECS_08052026011036_BMoutcome.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
 
-*All 2 filing(s) read for the seats:* [2026-10-03 Appointment](https://nsearchives.nseindia.com/corporate/ACMECS_03102026195930_Intimation_03102026.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-10-03 Appointment](https://nsearchives.nseindia.com/corporate/ACMECS_03102026195930_Intimation_03102026.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ACMECS_08052026011036_BMoutcome.pdf) · [2026-05-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip)
 
 ### 2. Financials — the last three years
 
@@ -1673,7 +1634,7 @@ Results of **Archean Chemical Industries Ltd.** while they were Managing Directo
 
 ### 3. Track record — the outgoing management
 
-**Rajat Kumar Singh** — Chief Financial Officer, date of taking the seat not on file.
+**Rajat Kumar Singh** — Group Chief Financial Officer (outgoing) / Chief Financial Officer (incoming), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -1689,18 +1650,18 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Arun Chopra** — Chief Financial Officer. from: internal; experience: about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector; qualifications: bachelor’s degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996).
+**Arun Chopra** — Group Chief Financial Officer (outgoing) / Chief Financial Officer (incoming). from: internal; experience: about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector; qualifications: holds a bachelor's degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996).
 
-The filing's own profile: “Mr. Arun Chopra holds a bachelor’s degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996). Prior to joining ACME Group, he served as Vice President (Finance) at Rattan India Power Limited. He has also been associated with Videocon Industries Limited, Moser Baer India Limited, LG Electronics Private Limited, and Timex Watches Limited. He has about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector. … He has been associated with the Company since 2018 and presently designated as Executive Vice President (Finance & Accounts).”
+The filing's own profile: “Mr. Arun Chopra holds a bachelor's degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996). Prior to joining ACME Group, he served as Vice President (Finance) at Rattan India Power Limited. He has also been associated with Videocon Industries Limited, Moser Baer India Limited, LG Electronics Private Limited, and Timex Watches Limited. He has about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Executive Vice President (Finance & Accounts) | ACME Solar Holdings Limited (ACMESOLAR) | 2018 | 2026 |
 | Vice President (Finance) | Rattan India Power Limited | — | — |
 | — | Videocon Industries Limited | — | — |
 | — | Moser Baer India Limited | — | — |
 | — | LG Electronics Private Limited (LGEINDIA) | — | — |
 | — | Timex Watches Limited | — | — |
-| Executive Vice President (Finance & Accounts) | ACME Solar Holdings Limited (ACMESOLAR) | 2018 | — |
 
 ### 5. On the calls
 
@@ -1722,18 +1683,20 @@ The filing's own profile: “Mr. Arun Chopra holds a bachelor’s degree in comm
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Adani promoter-group entities bought roughly 5% of the capital in open-market acquisitions. Promoter-and-group holding rose from 71.19% to about 74.71% and stood at 73.39% by 2026-09-30. No new promoter arrived and none exited; the same Adani promoter group continues to control the company.
+**Ownership — Large stake change, same controller.** Adani promoter group entities raised their stake in Adani Energy Solutions by about 5% through open-market purchases during 2026 (promoter-and-group holding 71.19% to 73.39%). No seller of control, no open offer; the Adani family remains in control, with Gautam S. Adani as Chairman.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
 | Outgoing | — | — | — | — |
-| Incoming | Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoters) | other | — | 73.39% (promoter and group, 2026-09-30) |
+| Incoming | Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoter group) | other | — | 73.39% (promoter and group, 2026-09-30) |
 
-- mode: block or bulk deal · control does not change
-- Dates: other 2026-03-27; other 2026-06-17
+- mode: other · control does not change
+- Dates: block deal 2026-03-27; block deal 2026-06-17
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 71.19% (2025-09-30) → 71.19% (2025-12-31) → 72.73% (2026-03-31) → 74.71% (2026-06-30) → 73.39% (2026-07-30) → 73.39% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 5.0%.
+
+*Filings read for the ownership:* [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_21072026135501_Outcome_results_21072026.pdf) · [2026-01-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_22012026152157_Outcome_results_22012026.pdf) · [2026-01-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_22012026184454_Outcome_results_22012026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -1786,9 +1749,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoters)** (other) — the incoming owner. Holding after: 73.39% (promoter and group, 2026-09-30).
+**Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoter group)** (other) — the incoming owner. Holding after: 73.39% (promoter and group, 2026-09-30).
 
-What the documents say about them: “The documents describe them only as promoters of the company making acquisitions via the open market. Adani Infra (India) Ltd held 1.53% after its 2026-06-17 acquisition; Ardour Investment Holdings Ltd held 0.83%; Infinite Trade and Investments Ltd held 0.73%. Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC and Adani Infra (India) Limited together held 72.17% after the 2026-03-27 acquisition. Nothing further is stated about their business, size or record.”
+What the documents say about them: “Existing promoter-group entities of the Adani group; the filings identify Gautam S. Adani as Chairman of Adani Energy Solutions Limited. No further description of the acquirers is given in the documents.”
 
 **Ashok Jagetiya** — Chief Financial Officer (Key Managerial Personnel). from: group company; experience: 30 years of experience in finance and accounting disciplines; qualifications: Chartered Accountant.
 
@@ -1835,12 +1798,12 @@ The filing's own profile: “Mr. Ashok Jagetiya is a Chartered Accountant and se
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | D. Muthukumaran (moved to another role in the company or group; last day 2026-02-28) | Sreedhar Krishna Menon (group company; from 2026-03-01) | effective | 2026-02-03 |
+| **Chief Financial Officer and Key Managerial Personnel of the Company** | D. Muthukumaran (moved to another role in the company or group; last day 2026-02-28) | Sreedhar Krishna Menon (group company; from 2026-03-01) | effective | 2026-02-03 |
 
 - **Why D. Muthukumaran is leaving, in the filing's words:** “will relinquish his position as Chief Financial Officer of the Company as he will transition to a new role within the Adani's portfolio & Companies” Stays on as: a new role within the Adani's portfolio & Companies.
-- In the documents: “Mr. D. Muthukumaran, Chief Financial Officer and Key Managerial Personnel of the Company, will relinquish his position as Chief Financial Officer of the Company as he will transition to a new role within the Adani's portfolio & Companies, as more particularly explained in Annexure-A attached herewith.” — [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf)
+- In the documents: “Mr. Sreedhar Krishna Menon, who is currently serving as Chief Financial Officer of AdaniConnex, (a group Company) will assume the role of Chief Financial Officer and Key Managerial Personnel of the Company effective from March 1, 2026.” — [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf)
 
-*All 5 filing(s) read for the seats:* [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rkbhagia_30042026162506_OutcomeofBoardMeeting.pdf) · [2026-03-27 Updates](https://nsearchives.nseindia.com/corporate/rkbhagia_27032026150848_SEINTIMATION.pdf) · [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf) · [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/rkbhagia_19012026192655_SEINTIMATION.pdf)
+*All 6 filing(s) read for the seats:* [2026-04-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_30042026134205_OutcomeofBoardMeeting.pdf) · [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rkbhagia_30042026162506_OutcomeofBoardMeeting.pdf) · [2026-03-27 Updates](https://nsearchives.nseindia.com/corporate/rkbhagia_27032026150848_SEINTIMATION.pdf) · [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf) · [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/rkbhagia_19012026192655_SEINTIMATION.pdf)
 
 ### 2. Financials — the last three years
 
@@ -1868,7 +1831,7 @@ The filing's own profile: “Mr. Ashok Jagetiya is a Chartered Accountant and se
 
 ### 3. Track record — the outgoing management
 
-**D. Muthukumaran** — Chief Financial Officer, date of taking the seat not on file.
+**D. Muthukumaran** — Chief Financial Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -1888,9 +1851,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “Described in the exchange facts only as promoters of the company making acquisitions via the open market. The 2026-09-30 shareholding note identifies the significant beneficial owners as Gautambhai Shantilal Adani and Rajeshbhai Shantilal Adani (Indian) and Vinodbhai Shantilal Adani (Cypriot).”
 
-**Sreedhar Krishna Menon** — Chief Financial Officer. from: group company.
-
-The filing's own profile: “Mr. Sreedhar Krishna Menon, who is currently serving as Chief Financial Officer of AdaniConnex, (a group Company) will assume the role of Chief Financial Officer and Key Managerial Personnel of the Company effective from March 1, 2026.”
+**Sreedhar Krishna Menon** — Chief Financial Officer and Key Managerial Personnel of the Company. from: group company.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -2078,7 +2039,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Amit Kumar Jha** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Amit Kumar Jha** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -2100,16 +2061,6 @@ The filing's own profile: “Mr. Amit Dangi is a Chartered Accountant and Bachel
 |---|---|---|---|
 | — | Ernst & Young | — | — |
 | — | PricewaterhouseCoopers LLP | — | — |
-
-Results of **Authum Investment & Infrastructure Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 539 | 4,580 | +191.5% a year over 2 years |
-| Financing profit (₹ cr) | 72.0 | 4,045 | +649.5% a year over 2 years |
-| PAT (₹ cr) | 4,304 | 4,241 | -0.7% a year over 2 years |
-| Financing profit margin (%) | 13.4 | 88.3 | +74.9 pts |
-| ROE (%) | 126 | 28.9 | -97.1 pts |
 
 ### 5. On the calls
 
@@ -2227,25 +2178,9 @@ Nothing about the change in the calls on file for the window.
 
 ## ALKEM — Alkem Laboratories Ltd.
 
-**Large stake change, same controller · CEO / MD change · CFO change**
+**CEO / MD change · CFO change**
 
 ### 1. What is changing
-
-**Ownership — Large stake change, same controller.** Promoter-group entities (Samprada & Nanhamati Singh Family Trust and Jayanti Sinha) sold about 2% of the capital in block deals, taking promoter-and-group holding from 51.2% to 49.7% by 30 June 2026. Mutual funds bought. B.N. Singh continues as Executive Chairman; no new controller.
-
-| | Who | Kind | Stake before | Stake after |
-|---|---|---|---|---|
-| Outgoing | Samprada & Nanhamati Singh Family Trust; Jayanti Sinha (promoter group) | founder family | 51.2% | 49.7% |
-| Incoming | ICICI Prudential Mutual Fund; HDFC Mutual Fund (public shareholders) | public — no single owner | — | HDFC Mutual Fund 5.02%; ICICI Prudential Mutual Fund 3.12% |
-
-- mode: block or bulk deal · control does not change
-- Management changing with it: No change disclosed; B.N. Singh signs the 14 August 2026 results as Executive Chairman (DIN: 00760310).
-- Dates: other 2026-06-30
-
-**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 51.2% (2025-09-30) → 51.2% (2025-12-31) → 51.2% (2026-03-31) → 49.7% (2026-06-30) → 49.7% (2026-09-30)
-**Bulk / block deals (net, % of shares outstanding):** Jayanti Sinha sold 1.04%.
-
-*Filings read for the ownership:* [2026-08-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ALKEM_14082026134526_AlkemOutcomeofBM14Aug2026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -2285,9 +2220,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Samprada & Nanhamati Singh Family Trust; Jayanti Sinha (promoter group)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 51.2% → 49.7%.
-
-**Vikas Gupta** — Chief Executive Officer (CEO) and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Vikas Gupta** — Chief Executive Officer (CEO) and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -2303,7 +2236,7 @@ The company's results while they held the seat (the year before they took it, to
 
 - Also on file: Managing Director at PGEL (FY2021–FY2025, annual reports).
 
-**Nitin Agrawal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Nitin Agrawal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -2318,10 +2251,6 @@ The company's results while they held the seat (the year before they took it, to
 | Borrowings (₹ cr) | 1,397 | 2,047 | +650 |
 
 ### 4. Track record — the incoming management
-
-**ICICI Prudential Mutual Fund; HDFC Mutual Fund (public shareholders)** (public — no single owner) — the incoming owner. Holding after: HDFC Mutual Fund 5.02%; ICICI Prudential Mutual Fund 3.12%.
-
-*The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
 **Amrut Naik** — Chief Executive Officer (CEO) and Key Managerial Personnel. experience: 26+ years; qualifications: He holds a Ph.D. (Tech) in Pharmacology, Master's in Pharmaceutical Science and Bachelor's in Pharmaceutical Science..
 
@@ -2386,7 +2315,7 @@ The filing's own profile: “Mr. Gopal Kothari has over 24 years of experience i
 
 ### 3. Track record — the outgoing management
 
-**Harsh Bapna** — Chief Executive Officer and Key Managerial Personnel of the Company, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Harsh Bapna** — Chief Executive Officer and Key Managerial Personnel of the Company, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -2420,10 +2349,10 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 |---|---|---|---|---|
 | **Managing Director** | Ajay Kapur (retirement; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-30 |
 
-- **Why Ajay Kapur is leaving, in the filing's words:** “Mr. Ajay Kapur (DIN:03096416), Managing Director of the Company will be superannuating w.e.f. January 31, 2026”
-- In the documents: “Mr. Ajay Kapur (DIN:03096416), Managing Director of the Company will be superannuating w.e.f. January 31, 2026, and accordingly, he will be ceased to be the Managing Director, Director and KMP of the Company at the closure of business hours on January 31, 2026.” — [2026-02-03 Resignation](https://nsearchives.nseindia.com/corporate/AMBUJACEM_03022026181911_ACL_AK_ResignationLetter.pdf) · [2026-01-31 General Updates](https://nsearchives.nseindia.com/corporate/AMBUJACEM_31012026161305_ACL_ChangeofKMPMaterial.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026143638_ACL_Outcome.pdf) · +1 more
+- **Why Ajay Kapur is leaving, in the filing's words:** “superannuating w.e.f. January 31, 2026, and accordingly, he will be ceased to be the Managing Director, Director and KMP of the Company”
+- In the documents: “Mr. Ajay Kapur (DIN:03096416), Managing Director of the Company will be superannuating w.e.f. January 31, 2026, and accordingly, he will be ceased to be the Managing Director, Director and KMP of the Company at the closure of business hours on January 31, 2026.” — [2026-01-31 General Updates](https://nsearchives.nseindia.com/corporate/AMBUJACEM_31012026161305_ACL_ChangeofKMPMaterial.pdf) · [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026142919_ACL_Outcome.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026143638_ACL_Outcome.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-02-03 Resignation](https://nsearchives.nseindia.com/corporate/AMBUJACEM_03022026181911_ACL_AK_ResignationLetter.pdf) · [2026-01-31 General Updates](https://nsearchives.nseindia.com/corporate/AMBUJACEM_31012026161305_ACL_ChangeofKMPMaterial.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026143638_ACL_Outcome.pdf) · [2026-01-30 Cessation](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026144049_ACL_Outcome.pdf)
+*All 5 filing(s) read for the seats:* [2026-02-03 Resignation](https://nsearchives.nseindia.com/corporate/AMBUJACEM_03022026181911_ACL_AK_ResignationLetter.pdf) · [2026-01-31 General Updates](https://nsearchives.nseindia.com/corporate/AMBUJACEM_31012026161305_ACL_ChangeofKMPMaterial.pdf) · [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026142919_ACL_Outcome.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026143638_ACL_Outcome.pdf) · [2026-01-30 Cessation](https://nsearchives.nseindia.com/corporate/AMBUJACEM_30012026144049_ACL_Outcome.pdf)
 
 ### 2. Financials — the last three years
 
@@ -2451,7 +2380,7 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Ajay Kapur** — Managing Director, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Ajay Kapur** — Managing Director, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -2565,7 +2494,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Nilesh Hirapara** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Nilesh Hirapara** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -2726,9 +2655,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Chirayu Amin** — Chief Executive Officer (CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Chirayu Amin** — Chief Executive Officer (CEO), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -2758,12 +2687,12 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (Key Managerial Personnel / Senior Management)** | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 |
+| **Chief Financial Officer (Key Managerial Personnel/ Senior Management)** | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 |
 
 - **Why Gaurav Kumar is leaving, in the filing's words:** “to pursue new personal and professional challenges outside the organization”
-- In the documents: “Mr. Gaurav Kumar has resigned as Chief Financial Officer (KMP) of the Company with effect from the close of business hours on October 6, 2026 to pursue new personal and professional challenges outside the organization.” — [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · +1 more
+- In the documents: “With reference to our aforesaid letter dated August 6, 2026, we wish to inform you that Mr. Gaurav Kumar has resigned as Chief Financial Officer (KMP) of the Company with effect from the close of business hours on October 6, 2026 to pursue new personal and professional challenges outside the organization.” — [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · +1 more
 
-*All 8 filing(s) read for the seats:* [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · [2026-10-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/APOLLOTYRE_ROID_99856_KMP_Doc.zip) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026173839_OutcomeofBoardMeeting.pdf) · [2026-08-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026180728_OutcomeofBoardMeeting.pdf) · +2 more
+*All 10 filing(s) read for the seats:* [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161533_Outcome04112026.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · [2026-10-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/APOLLOTYRE_ROID_99856_KMP_Doc.zip) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -2791,7 +2720,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Gaurav Kumar** — Chief Financial Officer (Key Managerial Personnel / Senior Management), date of taking the seat not on file.
+**Gaurav Kumar** — Chief Financial Officer (Key Managerial Personnel/ Senior Management), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -2807,9 +2736,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ravi Kumar Shingari** — Chief Financial Officer (Key Managerial Personnel / Senior Management). from: internal; experience: over two decades of experience; qualifications: He is a Chartered Accountant and a law graduate. He holds a Bachelor of Commerce (Honours) degree from Shri Ram College of Commerce..
+**Ravi Kumar Shingari** — Chief Financial Officer (Key Managerial Personnel/ Senior Management). from: internal; experience: over two decades of experience; qualifications: He is a Chartered Accountant and a law graduate. He holds a Bachelor of Commerce (Honours) degree from Shri Ram College of Commerce..
 
-The filing's own profile: “Mr. Ravi Kumar Shingari joined the Company in 2018 and is presently designated as Vice President - Accounts, Tax, Budgeting, Finance, Legal & Investor Relations. In his current role, he has taken on progressively broader responsibilities across finance and associated corporate functions. Prior to joining Apollo Tyres, he spent over 16 years with KPMG India, where he was a Partner in Tax and Regulatory, with expertise in international and mergers and acquisitions tax. He is a seasoned finance and tax leader with over two decades of experience across corporate finance, international taxation, mergers and acquisitions tax, and regulatory advisory.”
+The filing's own profile: “Mr. Ravi Kumar Shingari joined the Company in 2018 and is presently designated as Vice President - Accounts, Tax, Budgeting, Finance, Legal & Investor Relations. In his current role, he has taken on progressively broader responsibilities across finance and associated corporate functions. Prior to joining Apollo Tyres, he spent over 16 years with KPMG India, where he was a Partner in Tax and Regulatory, with expertise in international and mergers and acquisitions tax. He is a seasoned finance and tax leader with over two decades of experience across corporate finance, international taxation, mergers and acquisitions tax, and regulatory advisory. He is a Chartered Accountant and a law graduate. He holds a Bachelor of Commerce (Honours) degree from Shri Ram College of Commerce.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -2894,17 +2823,6 @@ The filing's own profile: “Punit Lalbhai, Vice Chairman, Arvind Limited is ste
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Vice Chairman | Arvind Limited (ARVIND) | — | — |
-
-Results of **The Anup Engineering Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 733 | 822 | +12.1% a year over 1 year |
-| Operating profit (₹ cr) | 168 | 174 | +3.6% a year over 1 year |
-| PAT (₹ cr) | 118 | 110 | -6.8% a year over 1 year |
-| Operating profit margin (%) | 22.9 | 21.2 | -1.7 pts |
-| ROE (%) | 19.3 | 15.9 | -3.4 pts |
-| Borrowings (₹ cr) | 32.0 | 110 | +78 |
 
 Results of **Deepak Nitrite Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2026):
 
@@ -3106,9 +3024,9 @@ Nothing about the change in the calls on file for the window.
 
 **Azad Moopen Mandayapurath and the existing Aster promoter group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 40.39% (promoter and group, 2026-06-30) → 24.01% held by Azad Moopen Mandayapurath (continues as promoter within a 53.72% promoter group).
 
-**Mandayapurath Azad Moopen** — Managing Director and Group Chief Executive Officer, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Mandayapurath Azad Moopen** — Managing Director and Group Chief Executive Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -3234,18 +3152,6 @@ The filing's own profile: “A Graduate in Engineering (Electronics) and a Post 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Joint Managing Director | Astra Microwave Products Limited (ASTRAMICRO) | — | 2026 |
-
-Results of **Astra Microwave Products Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 816 | 909 | +11.4% a year over 1 year |
-| Operating profit (₹ cr) | 145 | 192 | +32.4% a year over 1 year |
-| PAT (₹ cr) | 70.0 | 121 | +72.9% a year over 1 year |
-| Operating profit margin (%) | 17.8 | 21.1 | +3.3 pts |
-| ROCE (%) | 17.0 | 19.0 | +2.0 pts |
-| ROE (%) | 10.9 | 12.5 | +1.6 pts |
-| Borrowings (₹ cr) | 186 | 238 | +52 |
 
 **Srinivasarao Devathi** — Chief Financial Officer and Key Managerial Personnel. experience: more than 22 years; qualifications: Chartered Accountant.
 
@@ -3489,10 +3395,10 @@ Nothing about the change in the calls on file for the window.
 |---|---|---|---|---|
 | **Chief Financial Officer** | Cuddapah Ramachandra Rao (resignation; last day 2026-05-31) | Balusu Santhi Latha (internal; from 2026-06-01) | effective | 2026-05-28 |
 
-- **Why Cuddapah Ramachandra Rao is leaving, in the filing's words:** “Due to pre-occupation with work relating to the establishment of new projects and framing of Corporate Policies of the Gruoup” Stays on as: Joint Managing Director and Company Secretary.
-- In the documents: “The Board approved the request of Mr. C. Ramachandra Rao for permitting him to relinquish his responsibilities as Chief Financial Officer (CFO) and hand over the same to Mrs. B. Santhi Latha, General Manager (Finance & Accounts) who is being designated as the CFO of the Company with effect from 01st June, 2026 as a part of succession planning.” — [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip)
+- **Why Cuddapah Ramachandra Rao is leaving, in the filing's words:** “Due to pre-occupation with work relating to the establishment of new projects and framing of Corporate Policies of the Gruoup” Stays on as: Joint Managing Director and Company Secretary (also Compliance Officer).
+- In the documents: “The Board approved the request of Mr. C. Ramachandra Rao for permitting him to relinquish his responsibilities as Chief Financial Officer (CFO) and hand over the same to Mrs. B. Santhi Latha, General Manager (Finance & Accounts) who is being designated as the CFO of the Company with effect from 01st June, 2026 as a part of succession planning.” — [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-29 General Updates](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_29052026145219_Revised_Outcome_Letter_29_05_2026_.pdf) · [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026180240_Outcome.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026200507_Outcome_-_Revised.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026203214_Outcome_-_Revised.pdf)
+*All 5 filing(s) read for the seats:* [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AVANTIFEED_ROID_89913_KMP_Doc.zip) · [2026-05-29 General Updates](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_29052026145219_Revised_Outcome_Letter_29_05_2026_.pdf) · [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026180240_Outcome.pdf) · [2026-05-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026200507_Outcome_-_Revised.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026203214_Outcome_-_Revised.pdf)
 
 ### 2. Financials — the last three years
 
@@ -3542,7 +3448,8 @@ The filing's own profile: “Smt. B. Santhi Latha, Chartered Accountant, has bee
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| General Manager (Finance & Accounts) | Avanti Feeds Limited (AVANTIFEED) | 2020 | 2026 |
+| General Manager (Finance & Accounts) | Avanti Feeds Limited (AVANTIFEED) | 2020 | — |
+| Risk & Compliance Department established under her leadership | Avanti Feeds Limited (AVANTIFEED) | 2011 | — |
 
 ### 5. On the calls
 
@@ -3590,9 +3497,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Ravi Dugar** — Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Ravi Dugar** — Chief Financial Officer, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -3630,7 +3537,7 @@ The filing's own profile: “Mr. Rochlani brings over 14 years of experience in 
 
 ## AWL — AWL Agri Business Ltd.
 
-**Change of control — completed · CEO / MD change · CFO change**
+**Change of control — completed · CFO change**
 
 ### 1. What is changing
 
@@ -3652,11 +3559,8 @@ The filing's own profile: “Mr. Rochlani brings over 14 years of experience in 
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer (CEO)** | — (new seat) | Shrikant Kanhere (from 2025-11-04) | effective | 2025-12-17 |
 | **Chief Financial Officer** | — (new seat) | Pankaj Goyal (internal; from 2026-07-31) | effective | 2026-07-30 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Shrikant Kanhere (DIN: 07185218) as Managing Director and CEO of the Company (Ordinary Resolution)” — [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · [2025-12-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_17122025183438_SE_Inti_Postal_Ballot.pdf)
 - **Why the holder is leaving, in the filing's words:** “Mr. Pankaj Goyal was serving as Interim Chief Financial Officer of the Company prior to his appointment.”
 - In the documents: “Mr. Pankaj Goyal , who has been serving as the Interim Chief Financial Officer of the Company, has been appointed as the Chief Financial Officer of the Company, categorized as Key Managerial Personnel and Senior Management Personnel with effect from 31st July 2026.” — [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf)
 
@@ -3695,20 +3599,6 @@ The filing's own profile: “Mr. Rochlani brings over 14 years of experience in 
 **Lence Pte. Ltd.** (strategic buyer) — the incoming owner. Holding after: 56.94%.
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
-
-**Shrikant Kanhere** — Managing Director and Chief Executive Officer (CEO).
-
-Results of **AWL Agri Business Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 63,672 | 74,731 | +17.4% a year over 1 year |
-| Operating profit (₹ cr) | 2,486 | 2,131 | -14.3% a year over 1 year |
-| PAT (₹ cr) | 1,226 | 1,045 | -14.8% a year over 1 year |
-| Operating profit margin (%) | 3.9 | 2.9 | -1.0 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 13.0 | 10.0 | -3.0 pts |
-| Borrowings (₹ cr) | 1,937 | 1,109 | -828 |
 
 **Pankaj Goyal** — Chief Financial Officer. from: internal; experience: over 23 years of extensive experience; qualifications: Mr. Pankaj Goyal is a Chartered Accountant by profession.
 
@@ -3831,10 +3721,10 @@ The filing's own profile: “Rajeev Mantri, age 49 years, is a seasoned financia
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 |
+| **Chief Financial Officer (CFO) - Designate** | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 |
 
 - **Why Shashidhar SK is leaving, in the filing's words:** “shall attain superannuation on December 31, 2026 and demit office as a KMP”
-- In the documents: “Mr. Shashidhar SK, who is currently serving as the Group Chief Financial Officer (KMP) of the Company, shall attain superannuation on December 31, 2026 and demit office as a KMP. Upon his superannuation, Mr. Uttam Kumar Bhageria shall assume the office of Chief Financial Officer and Key Managerial Personnel (KMP) of the Company, effective January 01, 2027.” — [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
+- In the documents: “Mr. Shashidhar SK , who is currently serving as the Group Chief Financial Officer (KMP) of the Company, shall attain superannuation on December 31, 2026 and demit office as a KMP .” — [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
 
@@ -3866,7 +3756,7 @@ The filing's own profile: “Rajeev Mantri, age 49 years, is a seasoned financia
 
 **Jupiter Capital Private Limited** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 58.08% promoter and group (2025-09-30); Jupiter Capital itself 52.50% before the July 2026 sale (50.15% + 2.35%) → 44.82% promoter and group (2026-09-30); Jupiter Capital holds 39.29% after the sale disclosed 2026-10-06.
 
-**Shashidhar SK** — Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Shashidhar SK** — Chief Financial Officer (CFO) - Designate, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -3882,7 +3772,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Uttam Kumar Bhageria** — Chief Financial Officer (CFO). experience: over two decades of experience.
+**Uttam Kumar Bhageria** — Chief Financial Officer (CFO) - Designate. experience: over two decades of experience.
 
 The filing's own profile: “A strategic and business-focused Finance leader with over two decades of experience partnering with Promoters, CEOs and Boards to shape enterprise strategy, accelerate profitable growth and maximize shareholder value across listed, multinational and promoter-led organizations. Proven track record of leading transformational initiatives including a landmark ₹3,000 Crore acquisition, 5X market capitalization growth, corporate restructuring and large-scale capital market initiatives. Brings deep expertise in enterprise strategy, capital allocation, mergers & acquisitions, treasury, governance and investor engagement, with extensive experience collaborating with BCG and McKinsey on strategic transformation and diversification initiatives.”
 
@@ -4243,10 +4133,10 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP')** | Rajeev Mantri (resignation; last day 2026-09-25) | Vinay Jain (interim; internal; from 2026-09-26) | effective | 2026-06-29 |
+| **Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') / (Interim) Chief Financial Officer ('CFO')** | Rajeev Mantri (resignation; last day 2026-09-25) | Vinay Jain (interim; internal; from 2026-09-26) | effective | 2026-06-29 |
 
-- **Why Rajeev Mantri is leaving, in the filing's words:** “This is to inform you that I am tendering my resignation today from Bandhan Bank as Executive President and Chief Financial Officer, to pursue another opportunity from career growth perspective.”
-- In the documents: “In this regard, please note that the Board, at its meeting held today, has approved the appointment of Mr. Vinay Jain, as the (Interim) CFO and KMP of the Bank, effective September 26, 2026, till March 31, 2027.” — [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/BANDHANBNK_25092026205326_SE_Disclosure_Reg30_Authorisation_Update_25092026_sd.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BANDHANBNK_21072026161339_SE_Disclosure_BM_Outcome_UFR_PressRelease_SMP_AGM_210726.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/BANDHANBNK_29062026174757_SE_Disclosure_Change_in_KMP_resignation_29062026_sd.pdf) · +1 more
+- **Why Rajeev Mantri is leaving, in the filing's words:** “to pursue another opportunity from career growth perspective”
+- In the documents: “Pursuant to the provisions of Regulation 30 and other applicable provisions, if any, of the SEBI LODR, Bandhan Bank Limited ('Bank') would like to inform that Mr. Rajeev Mantri, Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'), has tendered his resignation vide letter dated June 29, 2026 (copy enclosed), to pursue another opportunity from career growth perspective.” — [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/BANDHANBNK_25092026205326_SE_Disclosure_Reg30_Authorisation_Update_25092026_sd.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BANDHANBNK_21072026161339_SE_Disclosure_BM_Outcome_UFR_PressRelease_SMP_AGM_210726.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/BANDHANBNK_29062026174757_SE_Disclosure_Change_in_KMP_resignation_29062026_sd.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/BANDHANBNK_25092026205326_SE_Disclosure_Reg30_Authorisation_Update_25092026_sd.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BANDHANBNK_21072026161339_SE_Disclosure_BM_Outcome_UFR_PressRelease_SMP_AGM_210726.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/BANDHANBNK_29062026174757_SE_Disclosure_Change_in_KMP_resignation_29062026_sd.pdf) · [2026-06-29 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BANDHANBNK_ROID_90639_KMP_Doc.zip)
 
@@ -4274,7 +4164,7 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 **Bandhan Financial Holdings Limited** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 39.99% → 37.93%.
 
-**Rajeev Mantri** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'), date of taking the seat not on file.
+**Rajeev Mantri** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') / (Interim) Chief Financial Officer ('CFO'), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -4288,7 +4178,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vinay Jain** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') (interim). from: internal; experience: over two decades of experience; qualifications: a Chartered Accountant and commerce graduate.
+**Vinay Jain** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') / (Interim) Chief Financial Officer ('CFO') (interim). from: internal; experience: over two decades of experience; qualifications: a Chartered Accountant and commerce graduate.
 
 The filing's own profile: “Mr. Vinay Jain, a Chartered Accountant and commerce graduate, is an accomplished finance and banking professional with over two decades of experience across leading global and domestic financial institutions. As Head -Finance & Accounts, since his joining Bandhan Bank in March 2025, he plays a pivotal role in driving financial planning, performance management, strategic business analysis, and value creation initiatives for the Bank. Mr. Jain has held senior leadership positions with organizations, such as, DBS Bank, Citibank, and ICICI Bank, with extensive exposure across India and international markets, including Singapore. Throughout his career, he has demonstrated expertise in business finance, planning and analysis, portfolio management, and strategic decision-making.”
 
@@ -4431,7 +4321,7 @@ The filing's own profile: “Shri Vineet Srivastava, General Manager, aged 56 ye
 
 ### 3. Track record — the outgoing management
 
-**Gunjan Shah** — Managing Director [designated as Managing Director & CEO], in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gunjan Shah** — Managing Director [designated as Managing Director & CEO], in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -4457,18 +4347,6 @@ The filing's own profile: “Mr. Rao brings more than two decades of retail and 
 | played a pivotal role in establishing Zara's business in India through its joint venture with the Tata Group; subsequently held senior leadership positions across India, South Asia and China | Inditex | — | — |
 | Country Director for Guess in France | Guess | — | — |
 
-Results of **Healthcare Global Enterprises Ltd.** while they were Chairman there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,009 | 1,395 | +38.3% a year over 1 year |
-| Operating profit (₹ cr) | 122 | 234 | +91.8% a year over 1 year |
-| PAT (₹ cr) | -221 | 39.0 | loss to profit |
-| Operating profit margin (%) | 12.1 | 16.8 | +4.7 pts |
-| ROCE (%) | -1.0 | 5.0 | +6.0 pts |
-| ROE (%) | -31.7 | 4.5 | +36.2 pts |
-| Borrowings (₹ cr) | 977 | 915 | -62 |
-
 ### 5. On the calls
 
 8 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -4485,7 +4363,7 @@ Results of **Healthcare Global Enterprises Ltd.** while they were Chairman there
 
 ## BAYERCROP — Bayer Cropscience Ltd.
 
-**Within the promoter family / group · CFO change**
+**Within the promoter family / group**
 
 ### 1. What is changing
 
@@ -4498,15 +4376,6 @@ Results of **Healthcare Global Enterprises Ltd.** while they were Chairman there
 
 - mode: block or bulk deal · control does not change
 **Bulk / block deals (net, % of shares outstanding):** Bayer Ag bought 11.91%; Bayer Cropscience Aktiengesellschaft sold 11.91%.
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **CFO** | — (new seat) | Vinit | effective | — |
-
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “And then with Vinit , we have a new CFO in the C ompany as well , and I hope you're starting to see impact on bottom line performance with him coming to terms.”
-
-*All 0 filing(s) read for the seats:* 
 
 ### 2. Financials — the last three years
 
@@ -4540,19 +4409,9 @@ Results of **Healthcare Global Enterprises Ltd.** while they were Chairman there
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Vinit** — CFO.
-
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
-
 ### 5. On the calls
 
-1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 1 |
-
-*Every passage in full: [companies/BAYERCROP.md](companies/BAYERCROP.md).*
+Nothing about the change in the calls on file for the window.
 
 ---
 
@@ -4612,7 +4471,7 @@ Results of **Healthcare Global Enterprises Ltd.** while they were Chairman there
 
 **Mr. Nusli Neville Wadia** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 10.00% → 0.01%.
 
-**Lalita Rajesh** — Chief Financial Officer and Key Managerial Personnel of the Corporation, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Lalita Rajesh** — Chief Financial Officer and Key Managerial Personnel of the Corporation, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -4643,18 +4502,6 @@ The filing's own profile: “Mr. Manoj Agarwal is a senior finance professional 
 | — | Godrej Industries (GODREJIND) | — | — |
 | — | Edelweiss Financial Services (EDELWEISS) | — | — |
 
-Results of **Exide Industries Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 16,770 | 17,238 | +2.8% a year over 1 year |
-| Operating profit (₹ cr) | 1,823 | 1,805 | -1.0% a year over 1 year |
-| PAT (₹ cr) | 883 | 800 | -9.4% a year over 1 year |
-| Operating profit margin (%) | 10.9 | 10.5 | -0.4 pts |
-| ROCE (%) | 10.0 | 9.0 | -1.0 pts |
-| ROE (%) | 6.9 | 5.8 | -1.1 pts |
-| Borrowings (₹ cr) | 1,123 | 2,017 | +894 |
-
 Results of **Star Cement Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2023):
 
 | Mar 2020 → Mar 2023 | At the start | At the end | Change |
@@ -4666,18 +4513,6 @@ Results of **Star Cement Ltd.** while they were CFO there (annual reports on fil
 | ROCE (%) | 17.0 | 17.0 | +0.0 pts |
 | ROE (%) | 15.5 | 10.3 | -5.2 pts |
 | Borrowings (₹ cr) | 13.0 | 35.0 | +22 |
-
-Results of **Tega Industries Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 806 | 952 | +18.1% a year over 1 year |
-| Operating profit (₹ cr) | 193 | 184 | -4.7% a year over 1 year |
-| PAT (₹ cr) | 136 | 117 | -14.0% a year over 1 year |
-| Operating profit margin (%) | 23.9 | 19.3 | -4.6 pts |
-| ROCE (%) | 19.0 | 21.0 | +2.0 pts |
-| ROE (%) | 22.5 | 15.9 | -6.6 pts |
-| Borrowings (₹ cr) | 228 | 245 | +17 |
 
 ### 5. On the calls
 
@@ -4840,7 +4675,7 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Parveen Kumar Goel** — Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Parveen Kumar Goel** — Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -5008,18 +4843,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 |---|---|---|---|
 | Chairman & Managing Director | BEML Limited (BEML) | — | — |
 
-Results of **BEML Ltd.** while they were Chairman there (annual reports on file show the seat FY2023–FY2024):
-
-| Mar 2022 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 4,337 | 4,054 | -3.3% a year over 2 years |
-| Operating profit (₹ cr) | 325 | 445 | +17.0% a year over 2 years |
-| PAT (₹ cr) | 129 | 282 | +47.9% a year over 2 years |
-| Operating profit margin (%) | 7.5 | 11.0 | +3.5 pts |
-| ROCE (%) | 9.0 | 15.0 | +6.0 pts |
-| ROE (%) | 5.5 | 10.6 | +5.1 pts |
-| Borrowings (₹ cr) | 832 | 71.0 | -761 |
-
 ### 5. On the calls
 
 5 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -5137,9 +4960,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Gopal Vittal** — Managing Director & CEO (Airtel India), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gopal Vittal** — Managing Director & CEO (Airtel India), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -5178,18 +5001,6 @@ The filing's own profile: “Shashwat Sharma is currently the CEO Designate at B
 | CEO Designate | Bharti Airtel Limited (BHARTIARTL) | — | 2025 |
 | Chief Operating Officer of Airtel responsible for all Operations | Bharti Airtel Limited (BHARTIARTL) | — | — |
 | various roles across Sales, Marketing and General Management | Hindustan Unilever Limited (HINDUNILVR) | — | — |
-
-Results of **Bharti Airtel Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 172,985 | 210,973 | +22.0% a year over 1 year |
-| Operating profit (₹ cr) | 85,060 | 116,514 | +37.0% a year over 1 year |
-| PAT (₹ cr) | 37,481 | 33,823 | -9.8% a year over 1 year |
-| Operating profit margin (%) | 49.2 | 55.2 | +6.0 pts |
-| ROCE (%) | 13.0 | 18.0 | +5.0 pts |
-| ROE (%) | 33.0 | 22.7 | -10.3 pts |
-| Borrowings (₹ cr) | 213,642 | 195,412 | -18,230 |
 
 **Akhil Garg** — Chief Financial Officer (Airtel India). from: internal; experience: over two decades of experience in finance; qualifications: He holds a Master of Business Administration (MBA) and is also a qualified Chartered Accountant..
 
@@ -5271,9 +5082,9 @@ Results of **Bharti Hexacom Ltd.** while they were CFO there (annual reports on 
 
 ### 3. Track record — the outgoing management
 
-**Marut Dilawari** — Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Marut Dilawari** — Chief Executive Officer, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -5285,9 +5096,9 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 13.0 | 24.2 | +11.2 pts |
 | Borrowings (₹ cr) | 9,204 | 6,137 | -3,067 |
 
-**Akhil Garg** — Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Akhil Garg** — Chief Financial Officer, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -5937,18 +5748,6 @@ The filing's own profile: “Mr. Rakshit Hargave is a veteran of the consumer in
 | managing Maggi Noodles | Nestle India (NESTLEIND) | — | — |
 | — | Tata Motors (TMCV) | — | — |
 
-Results of **Britannia Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 17,943 | 19,152 | +6.7% a year over 1 year |
-| Operating profit (₹ cr) | 3,176 | 3,514 | +10.6% a year over 1 year |
-| PAT (₹ cr) | 2,178 | 2,537 | +16.5% a year over 1 year |
-| Operating profit margin (%) | 17.7 | 18.3 | +0.6 pts |
-| ROCE (%) | 53.0 | 56.0 | +3.0 pts |
-| ROE (%) | 50.0 | 49.7 | -0.3 pts |
-| Borrowings (₹ cr) | 1,247 | 1,380 | +133 |
-
 Results of **Grasim Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2022–FY2025):
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
@@ -6027,7 +5826,7 @@ The filing's own profile: “Mr. Ramamurthy Jayaraman is a qualified Chartered A
 
 ### 3. Track record — the outgoing management
 
-**Angan Guha** — Chief Executive Officer and Managing Director, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Angan Guha** — Chief Executive Officer and Managing Director, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -6080,7 +5879,7 @@ The filing's own profile: “Mr. Madhavan Hariharan is a seasoned professional w
 | **Chief Financial Officer (CFO) & Key Managerial Personnel (KMP)** | Sanjay Chhabra (resignation; last day 2026-07-07) | Rakesh Thakur (external; from 2026-08-17) | effective | 2026-06-12 |
 
 - **Why Sanjay Chhabra is leaving, in the filing's words:** “Due to personal reasons”
-- In the documents: “Mr. Sanjay Chhabra, Chief Financial Officer (CFO) and Key Managerial Personnel of Campus Activewear Limited ("the company"), has tendered his resignation which will be effective from the close of business hours of 7th July, 2026.” — [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · [2026-06-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CAMPUS_ROID_89864_KMP_Doc.zip) · +1 more
+- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Regulations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations"), we wish to inform you that Mr. Sanjay Chhabra, Chief Financial Officer (CFO) and Key Managerial Personnel of Campus Activewear Limited ("the company"), has tendered his resignation which will be effective from the close of business hours of 7th July, 2026.” — [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · [2026-06-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CAMPUS_ROID_89864_KMP_Doc.zip) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-08-17 Appointment](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143412_BM_Outcome_1708.pdf) · [2026-08-17 Updates](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026144605_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · [2026-06-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CAMPUS_ROID_89864_KMP_Doc.zip) · [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_25052026144751_outcome.pdf) · +1 more
 
@@ -6110,15 +5909,15 @@ The filing's own profile: “Mr. Madhavan Hariharan is a seasoned professional w
 
 ### 3. Track record — the outgoing management
 
-**Sanjay Chhabra** — Chief Financial Officer (CFO) & Key Managerial Personnel (KMP), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sanjay Chhabra** — Chief Financial Officer (CFO) & Key Managerial Personnel (KMP), in the seat since FY2024 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
 ### 4. Track record — the incoming management
 
-**Rakesh Thakur** — Chief Financial Officer (CFO) & Key Managerial Personnel (KMP). from: external; age 49 years; experience: over 22 years; qualifications: a Chartered Accountant; Commerce graduate from the University of Delhi and a qualified Chartered Accountant.
+**Rakesh Thakur** — Chief Financial Officer (CFO) & Key Managerial Personnel (KMP). from: external; age 49 years; experience: over 22 years of professional experience; qualifications: a Chartered Accountant; Commerce graduate from the University of Delhi and a qualified Chartered Accountant.
 
-The filing's own profile: “Mr. Rakesh Thakur, aged 49 years, is a Chartered Accountant with over 22 years of professional experience across leading consumer and multinational organisations. Prior to joining Campus Activewear Limited, he served as the Group Chief Financial Officer of Imagine Marketing Limited (boAt), where he worked closely with the founders, CEO, Board and leadership team and played a key role in driving the Company's financial and strategic agenda.”
+The filing's own profile: “Mr. Rakesh Thakur, aged 49 years, is a Chartered Accountant with over 22 years of professional experience across leading consumer and multinational organisations. Prior to joining Campus Activewear Limited, he served as the Group Chief Financial Officer of Imagine Marketing Limited (boAt), where he worked closely with the founders, CEO, Board and leadership team and played a key role in driving the Company's financial and strategic agenda. During his tenure, he contributed to profitable growth, improvement in EBITDA, strengthening of cash and working capital management, enhancement of governance and strengthening organization for its public market journey”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -6220,16 +6019,6 @@ The filing's own profile: “Shri. Hardeep Singh Ahluwalia, started his banking 
 | General Manager of the Recovery Department at Corporate office | Indian Bank (INDIANB) | — | — |
 | Executive Director | Canara Bank (CANBK) | — | — |
 
-Results of **Can Fin Homes Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 3,879 | 4,217 | +8.7% a year over 1 year |
-| Financing profit (₹ cr) | 1,090 | 1,319 | +21.0% a year over 1 year |
-| PAT (₹ cr) | 857 | 1,086 | +26.7% a year over 1 year |
-| Financing profit margin (%) | 28.1 | 31.3 | +3.2 pts |
-| ROE (%) | 16.9 | 18.2 | +1.3 pts |
-
 **Brajesh Kumar Singh** — Managing Director & Chief Executive Officer (MD & CEO). from: government appointee; experience: more than 30 years; qualifications: Shri Brajesh Kumar Singh is an Agriculture graduate from Allahabad Agriculture Institute and MBA Finance. He is also a Certified Associate of Indian Institute of Bankers..
 
 The filing's own profile: “Shri Brajesh Kumar Singh assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of Canara Bank on 01st June 2026. He has a vast and varied experience in the Banking industry, spanning more than 30 years. Shri Brajesh Kumar Singh was Executive Director of Indian Bank since 10th March 2024 till his appointment as MD & CEO of Canara Bank. In his capacity as Executive Director in Indian Bank, he has overseen various Verticals in Indian Bank including Retail, MSME, Recovery, Credit Monitoring, Human Resource Management, Human Development, Resources and Government Relations, Wealth Management etc.”
@@ -6261,18 +6050,6 @@ Results of **CESC Ltd.** while they were Managing Director there (annual reports
 | ROCE (%) | 11.0 | 11.0 | +0.0 pts |
 | ROE (%) | 12.8 | 11.9 | -0.9 pts |
 | Borrowings (₹ cr) | 14,263 | 17,978 | +3,715 |
-
-Results of **NTPC Green Energy Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,963 | 2,210 | +12.6% a year over 1 year |
-| Operating profit (₹ cr) | 1,745 | 1,920 | +10.0% a year over 1 year |
-| PAT (₹ cr) | 343 | 474 | +38.2% a year over 1 year |
-| Operating profit margin (%) | 88.9 | 86.9 | -2.0 pts |
-| ROCE (%) | 5.0 | 4.0 | -1.0 pts |
-| ROE (%) | 5.5 | 2.6 | -2.9 pts |
-| Borrowings (₹ cr) | 13,856 | 19,441 | +5,585 |
 
 ### 5. On the calls
 
@@ -6329,9 +6106,9 @@ Results of **NTPC Green Energy Ltd.** while they were Chairman there (annual rep
 
 ### 3. Track record — the outgoing management
 
-**Tarun Rustagi** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Tarun Rustagi** — Chief Financial Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -6434,10 +6211,10 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer & KMP** | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 |
+| **Chief Financial Officer** | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Mr. Sriram Seshadri has been appointed as the Chief Financial Officer of the Company effective 7th September 2026.” — [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf)
+- In the documents: “Mr. Sriram Seshadri has been appointed as the Chief Financial Officer & KMP by the Board of Directors based on the recommendation of the Nomination and Remuneration Committee and Audit Committee.” — [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) · [2026-06-26 Resignation](https://nsearchives.nseindia.com/corporate/CARBORUNIV_26062026181127_Intimation-sd.pdf) · [2026-06-26 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CARBORUNIV_ROID_90541_KMP_Doc.zip)
 
@@ -6471,9 +6248,9 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Sriram Seshadri** — Chief Financial Officer & KMP. from: external; age 55 years; experience: over 30 years; qualifications: A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI).
+**Sriram Seshadri** — Chief Financial Officer. from: external; age 55 years; experience: over 30 years of experience; qualifications: A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI).
 
-The filing's own profile: “Mr. Sriram Seshadri, aged 55 years is a seasoned finance professional with over 30 years of experience across leading automotive and industrial manufacturing organisations. A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI), he has held several CFO and senior finance leadership positions including most recently as Vice President – Business Controller at Endurance Technologies. He was previously the CFO of Woco India and Delphi TVS Technologies, and Director Finance at Tenneco India. His expertise spans strategic finance, business partnering, treasury, financial planning & analysis, ERP transformation, compliance, taxation and stakeholder management, with a strong track record of driving profitability, cash flow improvement, business transformation and governance initiatives.”
+The filing's own profile: “Mr. Sriram Seshadri, aged 55 years is a seasoned finance professional with over 30 years of experience across leading automotive and industrial manufacturing organisations. A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI), he has held several CFO and senior finance leadership positions including most recently as Vice President – Business Controller at Endurance Technologies. He was previously the CFO of Woco India and Delphi TVS Technologies, and Director Finance at Tenneco India.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -6570,18 +6347,6 @@ The filing's own profile: “Mr. Saugata Basuray is currently the Wholetime Dire
 | Wholetime Director and Head-B2C Business | Castrol India Limited (CASTROLIND) | — | — |
 | Whole time Director & Interim Chief Executive Officer | Castrol India Limited (CASTROLIND) | — | 2026 |
 
-Results of **Castrol India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2025):
-
-| Dec 2022 → Dec 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 4,774 | 5,722 | +6.2% a year over 3 years |
-| Operating profit (₹ cr) | 1,111 | 1,348 | +6.7% a year over 3 years |
-| PAT (₹ cr) | 815 | 950 | +5.2% a year over 3 years |
-| Operating profit margin (%) | 23.3 | 23.6 | +0.3 pts |
-| ROCE (%) | 61.0 | 60.0 | -1.0 pts |
-| ROE (%) | 43.2 | 50.0 | +6.8 pts |
-| Borrowings (₹ cr) | 50.0 | 63.0 | +13 |
-
 ### 5. On the calls
 
 4 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -6649,18 +6414,6 @@ The filing's own profile: “Mr. Vishwas Ambalal Patel is currently the Chairman
 | Joint Managing Director | Infibeam Avenues Limited | — | 2025 |
 | Chairman | Payments Council of India (PCI) | — | — |
 | practicing counsel on the original side | Bombay High Court | — | — |
-
-Results of **AvenuesAI Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,962 | 3,993 | +42.7% a year over 2 years |
-| Operating profit (₹ cr) | 175 | 316 | +34.4% a year over 2 years |
-| PAT (₹ cr) | 136 | 236 | +31.7% a year over 2 years |
-| Operating profit margin (%) | 8.9 | 7.9 | -1.0 pts |
-| ROCE (%) | 6.0 | 9.0 | +3.0 pts |
-| ROE (%) | 4.3 | 6.3 | +2.0 pts |
-| Borrowings (₹ cr) | 8.0 | 172 | +164 |
 
 ### 5. On the calls
 
@@ -6771,6 +6524,63 @@ Results of **Relaxo Footwears Ltd.** while they were Chairman there (annual repo
 
 ---
 
+## CGCL — Capri Global Capital Ltd.
+
+**CEO / MD change**
+
+### 1. What is changing
+
+| Seat | Outgoing | Incoming | Status | First said on |
+|---|---|---|---|---|
+| **Chief Executive Officer (‘CEO’) of the Company designated as a Key Managerial Personnel (KMP)** | Monu Ratra (resignation; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-19 |
+
+- **Why Monu Ratra is leaving, in the filing's words:** “He has resigned from the position of CEO of the Company pursuant to his desire to pursue an entrepreneurial path.”
+- In the documents: “His resignation as CEO (KMP) is effective from January 19, 2026 and his last working day will be at the close of business hours on January 31, 2026.” — [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf)
+
+*All 1 filing(s) read for the seats:* [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf)
+
+### 2. Financials — the last three years
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Revenue (₹ cr) | 2,313 | 3,248 | 4,731 |
+| Revenue growth (%) | 57.9 | 40.4 | 45.7 |
+| Financing profit (₹ cr) | 452 | 732 | 1,356 |
+| Financing profit margin (%) | 19.5 | 22.5 | 28.7 |
+| PAT (₹ cr) | 279 | 479 | 949 |
+| PAT growth (%) | 36.1 | 71.7 | 98.1 |
+| PAT margin (%) | 12.1 | 14.7 | 20.1 |
+| EPS (₹) | 3.4 | 5.8 | 9.9 |
+| Cash from operations (₹ cr) | -3,699 | -4,312 | -8,728 |
+| Free cash flow (₹ cr) | -3,757 | -4,361 | -8,786 |
+| ROE (%) | 7.3 | 11.1 | 13.2 |
+
+*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/CGCL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
+
+**Share price since the announcement:** ₹179.65 on 2026-01-16 (the close before) → ₹246.27 on 2026-11-13: **+37.1%**; Nifty 500 +1.1% over the same days. Unadjusted closes from the NSE bhavcopy.
+
+### 3. Track record — the outgoing management
+
+**Monu Ratra** — Chief Executive Officer (‘CEO’) of the Company designated as a Key Managerial Personnel (KMP), in the seat since FY2026 per the filing.
+
+*No tenure record: the tenure is shorter than one full fiscal year on file.*
+
+### 4. Track record — the incoming management
+
+No successor or new owner is named yet.
+
+### 5. On the calls
+
+2 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
+
+| Call | About | Passages |
+|---|---|---:|
+| Nov 2025 | the seat | 2 |
+
+*Every passage in full: [companies/CGCL.md](companies/CGCL.md).*
+
+---
+
 ## CHALET — Chalet Hotels Ltd.
 
 **CEO / MD change**
@@ -6862,10 +6672,10 @@ The filing's own profile: “Shwetank is B.Tech from IIT and MBA - Finance & Mar
 |---|---|---|---|---|
 | **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Manoj Singhania (moved to another role in the company or group; last day 2026-08-10) | Ayush Sharma (from 2026-08-10) | effective | 2026-08-10 |
 
-- **Why Manoj Singhania is leaving, in the filing's words:** “due to taking over other responsibilities within the Group” Stays on as: other responsibilities within the Group (role not specified).
-- In the documents: “The Board of Directors of the Company based on the recommendations of the Nomination and Remuneration Committee and Audit Committee have approved the appointment of Mr. Ayush Sharma as the Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company with effect from August 10, 2026.” — [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
+- **Why Manoj Singhania is leaving, in the filing's words:** “Consequent to taking over other responsibilities within the Group” Stays on as: continues with the Company in another role, taking up other responsibilities within the management.
+- In the documents: “Mr. Manoj Singhania has tendered his resignation from the position of Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company, with effect from the close of business hours on August 10, 2026 consequent to taking over other responsibilities within the Group.” — [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOICE_10082026202229_upload.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
 
-*All 1 filing(s) read for the seats:* [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
+*All 2 filing(s) read for the seats:* [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOICE_10082026202229_upload.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
 
 ### 2. Financials — the last three years
 
@@ -6893,7 +6703,7 @@ The filing's own profile: “Shwetank is B.Tech from IIT and MBA - Finance & Mar
 
 ### 3. Track record — the outgoing management
 
-**Manoj Singhania** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Manoj Singhania** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -6911,7 +6721,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Ayush Sharma** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). experience: over 14 years.
 
-The filing's own profile: “Mr. Ayush Sharma is a seasoned finance professional with over 14 years of experience in financial management, strategic planning, corporate finance, financial advisory, audit, regulatory compliance, and business finance. Over the course of his career, he has developed extensive expertise in financial reporting, accounting, taxation, internal controls, treasury management, budgeting, risk management, capital structuring, and statutory compliance. His international professional exposure in Dubai has enriched his understanding of global financial practices, governance frameworks, and regulatory standards, enabling him to implement robust financial controls and best-in-class financial management processes.”
+The filing's own profile: “Mr. Ayush Sharma is a seasoned finance professional with over 14 years of experience in financial management, strategic planning, corporate finance, financial advisory, audit, regulatory compliance, and business finance. Over the course of his career, he has developed extensive expertise in financial reporting, accounting, taxation, internal controls, treasury management, budgeting, risk management, capital structuring, and statutory compliance.”
 
 ### 5. On the calls
 
@@ -7058,9 +6868,9 @@ The filing's own profile: “A qualified Chartered Accountant and Cost Accountan
 
 ### 3. Track record — the outgoing management
 
-**Umang Vohra** — Managing Director and Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Umang Vohra** — Managing Director and Global Chief Executive Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -7095,18 +6905,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director & Global Chief Executive Officer Designate | Cipla Limited (CIPLA) | — | 2026 |
-
-Results of **Cipla Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 27,548 | 28,163 | +2.2% a year over 1 year |
-| Operating profit (₹ cr) | 7,128 | 5,883 | -17.5% a year over 1 year |
-| PAT (₹ cr) | 5,269 | 3,862 | -26.7% a year over 1 year |
-| Operating profit margin (%) | 25.9 | 20.9 | -5.0 pts |
-| ROCE (%) | 23.0 | 15.0 | -8.0 pts |
-| ROE (%) | 16.9 | 11.2 | -5.7 pts |
-| Borrowings (₹ cr) | 438 | 614 | +176 |
 
 **Dinesh Jain** — Global Chief Financial Officer. from: internal; experience: over three decades of experience; qualifications: a qualified Chartered Accountant and member of the Institute of Chartered Accountants of India.
 
@@ -7149,23 +6947,23 @@ Results of **Firstsource Solutions Ltd.** while they were CFO there (annual repo
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Clean Science's Boob founder family restructured its holdings by gift. In Nov 2025 shares moved among individual promoters (Nilima +6.24%, Asha +8.11%, Siddhartha Sikchi +2.45%); in June 2026 Ashok, Asha and Nilima Boob gifted 3.11%, 9.50% and 6.25% into ARB, AAB and Alaknanda Boob Business Trusts. Aggregate promoter holding unchanged (~51%).
+**Ownership — Within the promoter family / group.** Two rounds of off-market gifts inside the Boob promoter family: in Nov 2025 about 16.80% moved between family members (Asha, Nilima, Siddhartha gaining; Nidhi, Parth, Prasad, Pooja exiting), and in June 2026 about 18.86% was gifted into family trusts (ARB, AAB, Alaknanda). Aggregate promoter holding unchanged at ~51%; stated purpose: to streamline the family's assets and businesses.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Ashok Ramnarayan Boob, Asha Ashok Boob, Nilima Krishnakumar Boob, Prasad Krishnakumar Boob, Parth Ashok Maheshwari, Nidhi Mohunta, Pooja Vivek Navandar (individual promoter/promoter-group members) | founder family | Ashok 3.45%; Asha 9.50%; Nilima 6.33%; Prasad 3.22%; Nidhi 5.47%; Parth 2.64%+; Pooja 3.02%+ (promoter group total 50.97% at 2025-09-30) | Ashok 0.35%; Asha 0.09%; Nilima 0.09%; Prasad 0%; Nidhi 0.09%; Parth 0.09%; Pooja 0.21% (promoter group total 51.29%) |
-| Incoming | AAB Business Trust, ARB Business Trust, Smt. Alaknanda Boob Business Trust; also Nilima Krishnakumar Boob, Asha Ashok Boob, Siddhartha Ashok Sikchi (Nov 2025 leg) | founder family member | — | AAB Business Trust 9.50%; ARB Business Trust 3.11%; Smt. Alaknanda Boob Business Trust 5.46%; Asha Ashok Boob 10.38% then 0.88%; Siddhartha Ashok Sikchi 5.41% |
+| Outgoing | Ashok Ramnarayan Boob, Asha Ashok Boob, Nilima Krishnakumar Boob, Nidhi Mohunta, Parth Ashok Maheshwari, Prasad Krishnakumar Boob, Pooja Vivek Navandar | founder family | Ashok 5.90% then 3.45%; Asha 9.50%; Nilima 6.33%; Nidhi 5.47%; Parth 2.64%; Prasad 3.22%; Pooja 3.02% | Ashok 0.35%; Asha 0.09% (then 0.88% after receiving gift); Nilima 0.09%; Nidhi 0.09%; Parth 0.09%; Prasad 0%; Pooja 0.21% |
+| Incoming | ARB Business Trust, AAB Business Trust, Smt. Alaknanda Boob Business Trust, Siddhartha Ashok Sikchi, Nilima Krishnakumar Boob, Asha Ashok Boob | founder family member | — | AAB Business Trust 9.50%; Smt. Alaknanda Boob Business Trust 5.46%; ARB Business Trust 3.11%; Siddhartha Ashok Sikchi 5.41%; aggregate promoter and promoter group 51.29% |
 
-- mode: gift or inheritance · price ₹Nil, since proposed off market lnter-se transfer of Equity shares will be by way of Gift pursuant to execution of Gift Deed therefore no consideration is involved · control does not change
+- mode: gift or inheritance · price ₹Nil, since off market Inter-se transfer of shares by way of Gift pursuant to execution of Gift Deed therefore no consideration is involved · control does not change
 - Why the seller is selling, in their words: “To streamline the Family's assets and businesses.”
-- Dates: other 2025-11-26; other 2025-11-27; other 2026-06-01; completion 2026-06-06; other 2026-06-11; other 2026-06-15; other 2026-06-18
-- In the documents: “Please note that this transaction, being inter-se transfer of Equity shares amongst the Promoters group of the Company, falls within the exemption provided under Regulation 10 (1) (a) (ii) of the SEBI (SAST) Regulations, 2011.”
+- Dates: prior intimation under Reg 10(5) for first round of gifts 2025-11-19; completion of first round of inter-se gift transfers (16.80%) 2025-11-26; Reg 29 disclosures of first round 2025-11-27; Reg 10(7) report on first round filed with exchanges 2025-12-09; prior intimation under Reg 10(5) for gifts to family trusts (18.86%) 2026-06-01; completion of gifts to family trusts (on or after) 2026-06-06; Reg 10(6) / Reg 29 disclosures of trust gifts 2026-06-11; Reg 10(7) report on trust gifts filed with exchanges 2026-06-26
+- In the documents: “Please note that this transaction, being inter-se transfer of Equity shares amongst the Promoters group of the Company, falls within the exemption provided under Regulation 10 (1) (a) (ii) of the SEBI (SAST) Regulations, 2011. The Aggregate holding of Promoter and Promoter Group before and after the above inter-se transaction remains the same.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 50.97% (2025-09-30) → 50.96% (2025-12-31) → 51.29% (2026-03-31) → 51.29% (2026-06-30) → 51.29% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 35.66% and bought 54.52%.
 **Bulk / block deals (net, % of shares outstanding):** Amansa Holding Private Ltd bought 1.11%.
 
-*Filings read for the ownership:* [2026-06-11 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/vipulr_11062026194539_01062026124656_Intimation2.pdf) · [2026-06-01 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026123741_Intimation.pdf) · [2026-06-01 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026124057_Intimation1.pdf) · [2025-11-27 General Updates](https://nsearchives.nseindia.com/corporate/CLEAN_27112025182928_Intimation_under_Regulatio__29_of_SEBI_SAST_Regulations.pdf)
+*Filings read for the ownership:* [2026-06-26 General Updates](https://nsearchives.nseindia.com/corporate/CLEAN_26062026123656_Intimation_under_Regulation30_10_7__Signed.pdf) · [2026-06-11 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/vipulr_11062026194539_01062026124656_Intimation2.pdf) · [2026-06-01 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026123741_Intimation.pdf) · [2026-06-01 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026124057_Intimation1.pdf) · [2026-06-01 General Updates](https://nsearchives.nseindia.com/corporate/CLEAN_01062026145728_Intimation_under_Regulation30_SEBI_LODR_Regulations.pdf) · [2025-12-09 General Updates](https://nsearchives.nseindia.com/corporate/CLEAN_09122025155841_Intimation_under_10_7__of_SEBI_SAST_Regulations_2011.pdf) · +1 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -7202,11 +7000,11 @@ Results of **Firstsource Solutions Ltd.** while they were CFO there (annual repo
 
 ### 3. Track record — the outgoing management
 
-**Ashok Ramnarayan Boob, Asha Ashok Boob, Nilima Krishnakumar Boob, Prasad Krishnakumar Boob, Parth Ashok Maheshwari, Nidhi Mohunta, Pooja Vivek Navandar (individual promoter/promoter-group members)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Ashok 3.45%; Asha 9.50%; Nilima 6.33%; Prasad 3.22%; Nidhi 5.47%; Parth 2.64%+; Pooja 3.02%+ (promoter group total 50.97% at 2025-09-30) → Ashok 0.35%; Asha 0.09%; Nilima 0.09%; Prasad 0%; Nidhi 0.09%; Parth 0.09%; Pooja 0.21% (promoter group total 51.29%).
+**Ashok Ramnarayan Boob, Asha Ashok Boob, Nilima Krishnakumar Boob, Nidhi Mohunta, Parth Ashok Maheshwari, Prasad Krishnakumar Boob, Pooja Vivek Navandar** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Ashok 5.90% then 3.45%; Asha 9.50%; Nilima 6.33%; Nidhi 5.47%; Parth 2.64%; Prasad 3.22%; Pooja 3.02% → Ashok 0.35%; Asha 0.09% (then 0.88% after receiving gift); Nilima 0.09%; Nidhi 0.09%; Parth 0.09%; Prasad 0%; Pooja 0.21%.
 
-**Ashok Ramnarayan Boob** — Managing Director of the Company, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Ashok Ramnarayan Boob** — Managing Director of the Company, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -7220,9 +7018,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**AAB Business Trust, ARB Business Trust, Smt. Alaknanda Boob Business Trust; also Nilima Krishnakumar Boob, Asha Ashok Boob, Siddhartha Ashok Sikchi (Nov 2025 leg)** (founder family member) — the incoming owner. Holding after: AAB Business Trust 9.50%; ARB Business Trust 3.11%; Smt. Alaknanda Boob Business Trust 5.46%; Asha Ashok Boob 10.38% then 0.88%; Siddhartha Ashok Sikchi 5.41%.
+**ARB Business Trust, AAB Business Trust, Smt. Alaknanda Boob Business Trust, Siddhartha Ashok Sikchi, Nilima Krishnakumar Boob, Asha Ashok Boob** (founder family member) — the incoming owner. Holding after: AAB Business Trust 9.50%; Smt. Alaknanda Boob Business Trust 5.46%; ARB Business Trust 3.11%; Siddhartha Ashok Sikchi 5.41%; aggregate promoter and promoter group 51.29%.
 
-What the documents say about them: “Promoter-group family trusts of the Boob family: "We, AAB Business Trust, one of the promoter's group members of Clean Science and Technology Limited"; ARB Business Trust's trustee is Asha Ashok Boob, AAB Business Trust's trustee is Ashok Ramnarayan Boob, and Smt. Alaknanda Boob Business Trust's trustee is Krishnakumar Ramnarayan Boob. Each is confirmed as a promoter of the target company prior to the transaction.”
+What the documents say about them: “Family trusts and individuals of the existing promoter group. "We, ARB Business Trust, one of the promoter's group members of Clean Science and Technology Limited"; trustee of ARB Business Trust is Asha Ashok Boob; trustee of AAB Business Trust is Ashok Ramnarayan Boob; trustee of Smt. Alaknanda Boob Business Trust is Krishnakumar Ramnarayan Boob. Siddhartha Ashok Sikchi is described as "a Promoter of Clean Science and Technology Limited". The disclosures confirm acquirers were promoters of the target company prior to the transaction.”
 
 **Siddhartha Ashok Sikchi** — Managing Director of the Company. from: internal; experience: around 2 decades of experience in the speciality chemical industry; qualifications: He holds a Master's degree in Science in Organic Chemistry from University of Manitoba, Canada and a Bachelor's degree in Chemical Technology from Institute of Chemical Technology, UDCT, Mumbai..
 
@@ -7231,18 +7029,6 @@ The filing's own profile: “He holds a Master's degree in Science in Organic Ch
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Whole Time Director | Clean Science and Technology Limited (CLEAN) | — | 2026 |
-
-Results of **Clean Science and Technology Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2023):
-
-| Mar 2021 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 512 | 936 | +35.2% a year over 2 years |
-| Operating profit (₹ cr) | 260 | 403 | +24.5% a year over 2 years |
-| PAT (₹ cr) | 198 | 295 | +22.1% a year over 2 years |
-| Operating profit margin (%) | 50.8 | 43.1 | -7.7 pts |
-| ROCE (%) | 47.0 | 29.0 | -18.0 pts |
-| ROE (%) | 36.7 | 29.2 | -7.5 pts |
-| Borrowings (₹ cr) | 0.0 | 2.0 | +2 |
 
 ### 5. On the calls
 
@@ -7459,7 +7245,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Himanshu Agarwal** — Whole-time Director and Chief Financial Officer (Key Managerial Personnel) / Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Himanshu Agarwal** — Whole-time Director and Chief Financial Officer (Key Managerial Personnel) / Chief Financial Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -7473,7 +7259,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 23.7 | 3.8 | -19.9 pts |
 | Borrowings (₹ cr) | 70.0 | 400 | +330 |
 
-**Vivek Sharma** — Executive Chairman & Group CEO (Additional Director, designated as Chairman, and Group Chief Executive Officer), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Vivek Sharma** — Executive Chairman & Group CEO (Additional Director, designated as Chairman, and Group Chief Executive Officer), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -7508,17 +7294,17 @@ The filing's own profile: “Mr. Vohra is one of the most accomplished leaders i
 |---|---|---|---|
 | CEO and Managing Director | Cipla Limited (CIPLA) | — | — |
 
-Results of **Cipla Ltd.** while they were Chairman there (annual reports on file show the seat FY2022–FY2022):
+Results of **Cipla Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2025):
 
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
+| Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 19,160 | 21,763 | +13.6% a year over 1 year |
-| Operating profit (₹ cr) | 4,252 | 4,553 | +7.1% a year over 1 year |
-| PAT (₹ cr) | 2,389 | 2,547 | +6.6% a year over 1 year |
-| Operating profit margin (%) | 22.2 | 20.9 | -1.3 pts |
-| ROCE (%) | 17.0 | 17.0 | +0.0 pts |
-| ROE (%) | 13.0 | 12.2 | -0.8 pts |
-| Borrowings (₹ cr) | 2,014 | 1,056 | -958 |
+| Sales (₹ cr) | 19,160 | 27,548 | +9.5% a year over 4 years |
+| Operating profit (₹ cr) | 4,252 | 7,128 | +13.8% a year over 4 years |
+| PAT (₹ cr) | 2,389 | 5,269 | +21.9% a year over 4 years |
+| Operating profit margin (%) | 22.2 | 25.9 | +3.7 pts |
+| ROCE (%) | 17.0 | 23.0 | +6.0 pts |
+| ROE (%) | 13.0 | 16.9 | +3.9 pts |
+| Borrowings (₹ cr) | 2,014 | 438 | -1,576 |
 
 ### 5. On the calls
 
@@ -7576,7 +7362,7 @@ Results of **Cipla Ltd.** while they were Chairman there (annual reports on file
 
 ### 3. Track record — the outgoing management
 
-**Prabha Narasimhan** — Managing Director and Chief Executive Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Prabha Narasimhan** — Managing Director and Chief Executive Officer, in the seat since FY2023 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -7614,21 +7400,21 @@ The filing's own profile: “Mr. Manish Anandani brings 30 years of rich and var
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman and Managing Director (CMD)/CONCOR** | Sanjay Swarup (retirement; last day 2026-07-31) | Ajit Kumar Panda (internal; from 2026-08-01) | effective | 2026-06-29 |
-| **Director (Finance)/CONCOR (Additional Charge)** | Anurag Kapil (last day 2026-03-31) | Pallavi Joshi (interim; government appointee; from 2026-04-09) | effective | 2026-04-01 |
-| **Director (Finance) & Chief Financial Officer (CFO) of CONCOR** | Pallavi Joshi (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-20 |
-| **Principal Executive Director (Finance) & CS & CFO** | Harish Chandra (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-22 |
+| **Chairman and Managing Director (CMD)** | Sanjay Swarup (retirement; last day 2026-07-31) | Ajit Kumar Panda (internal; from 2026-08-01) | effective | 2026-06-29 |
+| **Director (Finance) (Additional Charge)** | Anurag Kapil (last day 2026-03-31) | Pallavi Joshi (interim; government appointee; from 2026-04-09) | effective | 2026-04-01 |
+| **Director (Finance) & Chief Financial Officer (CFO)** | Pallavi Joshi (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-20 |
+| **Principal Executive Director (Finance) & CS & CFO** | Harish Chandra (last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-22 |
 
-- **Why Sanjay Swarup is leaving, in the filing's words:** “has ceased to hold the office of CMD / CONCOR on his superannuation on 31.07.2026”
+- **Why Sanjay Swarup is leaving, in the filing's words:** “Shri Sanjay Swamp (DIN: 05159435) has ceased to hold the office of CMD / CONCOR on his superannuation on 31.07.2026”
 - In the documents: “Shri Ajit Kumar Panda (DIN: 08221385) has taken over the charge of the post of Chairman and Managing Director/CONCOR w.e.f. 01.08.2026.” — [2026-08-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CONCOR_01082026112246_CONCOR_SE_01082026_CMD.pdf) · [2026-07-24 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_24072026183338_CONCOR_SE_CMDBOD_24072026.pdf) · [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · +1 more
 - **Why Anurag Kapil is leaving, in the filing's words:** “Shri Anurag Kapil (DIN: 06640383) has relinquished the charge of post of Executive Director/Finance (X), Railway Board on 31.03.2026 (AN). Accordingly, he has ceased to hold the office of Director (Finance) of CONCOR w.e.f. 31.03.2026 (AN).”
-- In the documents: “Accordingly, he has ceased to hold the office of Director (Finance) of CONCOR w.e.f. 31.03.2026 (AN).” — [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_10042026200535_SSE_DF_Appointment.pdf) · [2026-04-08 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_08042026175700_CONCOR_SE_08042026.pdf) · +1 more
+- In the documents: “Accordingly, he has ceased to hold the office of Director (Finance) of CONCOR w.e.f. 31.03.2026 (AN).” — [2026-04-15 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_15042026120445_CONCOR_SE_15042026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_10042026200535_SSE_DF_Appointment.pdf) · [2026-04-08 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_08042026175700_CONCOR_SE_08042026.pdf) · +1 more
 - **Why Pallavi Joshi is leaving, in the filing's words:** “Ms. Pallavi Joshi (DIN:08117196) holding the additional charge of Director (Finance) presently ceases to hold such charge from 21.04.2026 (FN).”
 - In the documents: “In continuation to the above, we would like to inform that in terms of orders of the Ministry of Railways, the Board of Directors of CONCOR in its meeting held today on 22.04.2026, has appointed w.e.f. 21.04.2026, Shri Vivek Gupta (DIN: 11674836), as Director (Finance) & Chief Financial Officer (CFO) of CONCOR.” — [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · [2026-04-20 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_20042026163606_CONCOR_SE_20042026.pdf) · +1 more
-- **Why Harish Chandra is leaving, in the filing's words:** “In view of above appointment of CFO, Shri Harish Chandra, Principal Executive Director (Finance) & CS & CFO will cease to hold the charge of CFO w.e.f. 21.04.2026.” Stays on as: Principal Executive Director (Finance) & CS.
+- **Why Harish Chandra is leaving, in the filing's words:** “In view of above appointment of CFO, Shri Harish Chandra, Principal Executive Director (Finance) & CS & CFO will cease to hold the charge of CFO w.e.f. 21.04.2026.” Stays on as: Principal Executive Director (Finance) & Company Secretary.
 - In the documents: “In view of above appointment of CFO, Shri Harish Chandra, Principal Executive Director (Finance) & CS & CFO will cease to hold the charge of CFO w.e.f. 21.04.2026.” — [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · +1 more
 
-*All 16 filing(s) read for the seats:* [2026-08-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CONCOR_01082026112246_CONCOR_SE_01082026_CMD.pdf) · [2026-07-24 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_24072026183338_CONCOR_SE_CMDBOD_24072026.pdf) · [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · [2026-06-29 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_29062026152238_CONCOR_SE_29062026S.pdf) · [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · +10 more
+*All 17 filing(s) read for the seats:* [2026-09-23 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_23092026145731_CONCOR_SE_23092026.pdf) · [2026-08-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CONCOR_01082026112246_CONCOR_SE_01082026_CMD.pdf) · [2026-07-24 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_24072026183338_CONCOR_SE_CMDBOD_24072026.pdf) · [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · [2026-06-29 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_29062026152238_CONCOR_SE_29062026S.pdf) · [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · +11 more
 
 ### 2. Financials — the last three years
 
@@ -7656,9 +7442,9 @@ The filing's own profile: “Mr. Manish Anandani brings 30 years of rich and var
 
 ### 3. Track record — the outgoing management
 
-**Sanjay Swarup** — Chairman and Managing Director (CMD)/CONCOR, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sanjay Swarup** — Chairman and Managing Director (CMD), in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -7670,7 +7456,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 10.4 | 9.6 | -0.8 pts |
 | Borrowings (₹ cr) | 779 | 965 | +186 |
 
-**Anurag Kapil** — Director (Finance)/CONCOR (Additional Charge), in the seat since FY2025 per the filing.
+**Anurag Kapil** — Director (Finance) (Additional Charge), in the seat since FY2025 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -7684,7 +7470,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 10.7 | 9.6 | -1.1 pts |
 | Borrowings (₹ cr) | 939 | 965 | +26 |
 
-**Pallavi Joshi** — Director (Finance) & Chief Financial Officer (CFO) of CONCOR, in the seat since FY2027 per the filing.
+**Pallavi Joshi** — Director (Finance) & Chief Financial Officer (CFO), in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -7704,9 +7490,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ajit Kumar Panda** — Chairman and Managing Director (CMD)/CONCOR. from: internal; experience: career spanning three and half decades; qualifications: Degrees of BSc Engineering in Mechanical Engineering from NIT, Rourkela and M. Tech (Thermal Engineering) from IIT, Delhi.
+**Ajit Kumar Panda** — Chairman and Managing Director (CMD). from: internal; experience: career spanning three and half decades; qualifications: Degrees of BSc Engineering in Mechanical Engineering from NIT, Rourkela and M. Tech (Thermal Engineering) from IIT, Delhi.
 
-The filing's own profile: “Shri Ajit Kumar Panda holds Degrees of BSc Engineering in Mechanical Engineering from NIT, Rourkela and M. Tech (Thermal Engineering) from IIT, Delhi. He has been an Officer of Indian Railway Service of Mechanical Engineers (1990 batch). In his career spanning three and half decades, Shri Panda has acquired rich experience and expertise in Railway services, operations, logistics, productions, infrastructure, Rolling Stock and Public Private Partnerships. As Director (Projects & Services) of Container Corporation of India Limited since December, 2022, Shri Panda was in charge of CONCOR's infrastructure including setting up of Multi Modal Logistics Parks, acquisition of new Rolling Stock, Containers and handling machines and development of CONCOR's MIS and IT platforms. He has been instrumental in launching of various new business initiatives by CONCOR.”
+The filing's own profile: “Shri Ajit Kumar Panda holds Degrees of BSc Engineering in Mechanical Engineering from NIT, Rourkela and M. Tech (Thermal Engineering) from IIT, Delhi. He has been an Officer of Indian Railway Service of Mechanical Engineers (1990 batch). In his career spanning three and half decades, Shri Panda has acquired rich experience and expertise in Railway services, operations, logistics, productions, infrastructure, Rolling Stock and Public Private Partnerships. As Director (Projects & Services) of Container Corporation of India Limited since December, 2022, Shri Panda was in charge of CONCOR's infrastructure including setting up of Multi Modal Logistics Parks, acquisition of new Rolling Stock, Containers and handling machines and development of CONCOR's MIS and IT platforms.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -7716,7 +7502,7 @@ The filing's own profile: “Shri Ajit Kumar Panda holds Degrees of BSc Engineer
 | Chief Workshop Manager | East Coast Railway, Mancheswar | — | — |
 | various other positions | South Eastern Railway | — | — |
 
-**Pallavi Joshi** — Director (Finance)/CONCOR (Additional Charge) (interim). from: government appointee; experience: a career spanning more than 20 years; qualifications: gold medalist in B.A., a Junior Research Fellowship (JRF) scholar, and holds a PGDM (Executive) with specialization in Financial Management.
+**Pallavi Joshi** — Director (Finance) (Additional Charge) (interim). from: government appointee; experience: over two decades; qualifications: a gold medalist in B.A., a Junior Research Fellowship (JRF) scholar, and holds a PGDM (Executive) with specialization in Financial Management.
 
 The filing's own profile: “Smt. Pallavi Joshi, a 2004 batch officer of the Indian Railway Accounts Service (IRAS) is currently serving as Executive Director (Finance – Commercial & PPP) in the Ministry of Railways, bringing over two decades of distinguished experience in financial management within the Indian Railways. An accomplished academic, she is a gold medalist in B.A., a Junior Research Fellowship (JRF) scholar, and holds a PGDM (Executive) with specialization in Financial Management.”
 
@@ -7725,10 +7511,11 @@ The filing's own profile: “Smt. Pallavi Joshi, a 2004 batch officer of the Ind
 | Executive Director (Finance – Commercial & PPP) | Ministry of Railways | — | — |
 | Director (Finance Commercial) | Railway Board | — | — |
 | General Manager (Finance) | Dedicated Freight Corridor Corporation of India Limited (DFCCIL) | — | — |
-| Deputy Financial Advisor in the Construction Unit; Deputy Chief Vigilance Officer | Northern Railway | — | — |
 | Assistant Divisional Financial Manager | Central Railway, Mumbai Division | — | — |
+| Divisional Finance Manager | North Central Railway, Prayagraj Division | — | — |
+| Deputy Financial Advisor (Construction Unit) and Deputy Chief Vigilance Officer | Northern Railway | — | — |
 
-**Vivek Gupta** — Director (Finance) & Chief Financial Officer (CFO) of CONCOR. from: government appointee; experience: career spanning over 32 years; qualifications: B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani.
+**Vivek Gupta** — Director (Finance) & Chief Financial Officer (CFO). from: government appointee; experience: career spanning over 32 years; qualifications: B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani.
 
 The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Accounts Service (IRAS) officer. He has a B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani. Prior to joining Indian Railways, he has worked in ITI Ltd & Private Sector. He is having a distinguished experience of working in 5 Zonal Railways in various capacities in the field of Finance, IT, Business Development and General Administration including Additional DRM, Izzatnagar Division, Senior DFM at Moradabad, Jhansi, Agra and Kota Divisions of Indian Railways & FA&CAO in N.W. Railway and N.C. Railway. In his career spanning over 32 years, he has many achievements to his credit.”
 
@@ -7736,8 +7523,8 @@ The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Acc
 |---|---|---|---|
 | GGM/Finance (on deputation) | DFCCIL | — | 2026 |
 | FA&CAO | N.W. Railway and N.C. Railway | — | — |
-| Additional DRM | Indian Railways, Izzatnagar Division | — | — |
-| Senior DFM | Indian Railways (Moradabad, Jhansi, Agra and Kota Divisions) | — | — |
+| Additional DRM | Izzatnagar Division, Indian Railways | — | — |
+| Senior DFM | Moradabad, Jhansi, Agra and Kota Divisions of Indian Railways | — | — |
 | — | ITI Ltd & Private Sector | — | — |
 
 Results of **JBM Auto Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2025):
@@ -7752,33 +7539,9 @@ Results of **JBM Auto Ltd.** while they were CFO there (annual reports on file s
 | ROE (%) | 9.8 | 15.9 | +6.1 pts |
 | Borrowings (₹ cr) | 627 | 2,630 | +2,003 |
 
-Results of **Oswal Pumps Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 759 | 1,430 | +88.4% a year over 1 year |
-| Operating profit (₹ cr) | 153 | 420 | +174.5% a year over 1 year |
-| PAT (₹ cr) | 98.0 | 281 | +186.7% a year over 1 year |
-| Operating profit margin (%) | 20.2 | 29.4 | +9.2 pts |
-| ROCE (%) | 78.0 | 38.0 | -40.0 pts |
-| ROE (%) | 54.7 | 60.8 | +6.1 pts |
-| Borrowings (₹ cr) | 78.0 | 332 | +254 |
-
-Results of **United Breweries Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 7,500 | 8,123 | +8.3% a year over 1 year |
-| Operating profit (₹ cr) | 616 | 696 | +13.0% a year over 1 year |
-| PAT (₹ cr) | 305 | 411 | +34.8% a year over 1 year |
-| Operating profit margin (%) | 8.2 | 8.6 | +0.4 pts |
-| ROCE (%) | 11.0 | 13.0 | +2.0 pts |
-| ROE (%) | 7.7 | 9.8 | +2.1 pts |
-| Borrowings (₹ cr) | 16.0 | 102 | +86 |
-
 **Vivek Gupta** — Principal Executive Director (Finance) & CS & CFO. from: government appointee; experience: career spanning over 32 years; qualifications: B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani.
 
-The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Accounts Service (IRAS) officer. He has a B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani. Prior to joining Indian Railways, he has worked in ITI Ltd & Private Sector. He is having a distinguished experience of working in 5 Zonal Railways in various capacities in the field of Finance, IT, Business Development and General Administration including Additional DRM, Izzatnagar Division, Senior DFM at Moradabad, Jhansi, Agra and Kota Divisions of Indian Railways & FA&CAO in N.W. Railway and N.C. Railway.”
+The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Accounts Service (IRAS) officer. He has a B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani. Prior to joining Indian Railways, he has worked in ITI Ltd & Private Sector.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -7795,30 +7558,6 @@ Results of **JBM Auto Ltd.** while they were CFO there (annual reports on file s
 | ROCE (%) | 12.0 | 14.0 | +2.0 pts |
 | ROE (%) | 9.8 | 15.9 | +6.1 pts |
 | Borrowings (₹ cr) | 627 | 2,630 | +2,003 |
-
-Results of **Oswal Pumps Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 759 | 1,430 | +88.4% a year over 1 year |
-| Operating profit (₹ cr) | 153 | 420 | +174.5% a year over 1 year |
-| PAT (₹ cr) | 98.0 | 281 | +186.7% a year over 1 year |
-| Operating profit margin (%) | 20.2 | 29.4 | +9.2 pts |
-| ROCE (%) | 78.0 | 38.0 | -40.0 pts |
-| ROE (%) | 54.7 | 60.8 | +6.1 pts |
-| Borrowings (₹ cr) | 78.0 | 332 | +254 |
-
-Results of **United Breweries Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 7,500 | 8,123 | +8.3% a year over 1 year |
-| Operating profit (₹ cr) | 616 | 696 | +13.0% a year over 1 year |
-| PAT (₹ cr) | 305 | 411 | +34.8% a year over 1 year |
-| Operating profit margin (%) | 8.2 | 8.6 | +0.4 pts |
-| ROCE (%) | 11.0 | 13.0 | +2.0 pts |
-| ROE (%) | 7.7 | 9.8 | +2.1 pts |
-| Borrowings (₹ cr) | 16.0 | 102 | +86 |
 
 ### 5. On the calls
 
@@ -7875,7 +7614,7 @@ Results of **United Breweries Ltd.** while they were Managing Director there (an
 
 ### 3. Track record — the outgoing management
 
-**Lalit Sethi** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Lalit Sethi** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -7904,18 +7643,6 @@ The filing's own profile: “Raviraj Karia is a Chartered Accountant and senior 
 | leadership role | Gati | — | — |
 | leadership role | GVFL | — | — |
 | leadership role | Claris Lifesciences | — | — |
-
-Results of **Concord Biotech Ltd.** while they were CFO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,200 | 1,055 | -12.1% a year over 1 year |
-| Operating profit (₹ cr) | 506 | 368 | -27.3% a year over 1 year |
-| PAT (₹ cr) | 372 | 259 | -30.4% a year over 1 year |
-| Operating profit margin (%) | 42.2 | 34.9 | -7.3 pts |
-| ROCE (%) | 17.0 | — | — |
-| ROE (%) | 20.5 | 12.8 | -7.7 pts |
-| Borrowings (₹ cr) | 3.0 | 2.0 | -1 |
 
 ### 5. On the calls
 
@@ -8414,7 +8141,7 @@ No successor or new owner is named yet.
 
 ### 3. Track record — the outgoing management
 
-**Dharmender Tuteja** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Dharmender Tuteja** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -8440,42 +8167,6 @@ The filing's own profile: “Mr. Yatin Malhotra is a seasoned finance profession
 | Executive Vice President and Chief Operating Officer leading the consumer electronics own brands business | Reliance Retail | — | — |
 | CFO | ACC Limited | — | — |
 | CFO | Whirlpool of India Ltd (WHIRLPOOL) | — | — |
-
-Results of **ACC Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2021):
-
-| Dec 2020 → Dec 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 13,786 | 16,152 | +17.2% a year over 1 year |
-| Operating profit (₹ cr) | 2,355 | 2,998 | +27.3% a year over 1 year |
-| PAT (₹ cr) | 1,430 | 1,863 | +30.3% a year over 1 year |
-| Operating profit margin (%) | 17.1 | 18.6 | +1.5 pts |
-| ROCE (%) | 16.0 | 19.0 | +3.0 pts |
-| ROE (%) | 11.3 | 13.0 | +1.7 pts |
-| Borrowings (₹ cr) | 102 | 126 | +24 |
-
-Results of **Dalmia Bharat Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 14,691 | 13,980 | -4.8% a year over 1 year |
-| Operating profit (₹ cr) | 2,639 | 2,407 | -8.8% a year over 1 year |
-| PAT (₹ cr) | 853 | 699 | -18.1% a year over 1 year |
-| Operating profit margin (%) | 18.0 | 17.2 | -0.8 pts |
-| ROCE (%) | 6.0 | 8.0 | +2.0 pts |
-| ROE (%) | 5.2 | 4.0 | -1.2 pts |
-| Borrowings (₹ cr) | 4,805 | 5,702 | +897 |
-
-Results of **Whirlpool of India Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,993 | 5,900 | -1.6% a year over 1 year |
-| Operating profit (₹ cr) | 673 | 521 | -22.6% a year over 1 year |
-| PAT (₹ cr) | 490 | 352 | -28.2% a year over 1 year |
-| Operating profit margin (%) | 11.2 | 8.8 | -2.4 pts |
-| ROCE (%) | 18.0 | 10.0 | -8.0 pts |
-| ROE (%) | 19.1 | 12.3 | -6.8 pts |
-| Borrowings (₹ cr) | 0.0 | 51.0 | +51 |
 
 ### 5. On the calls
 
@@ -8592,7 +8283,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Maulik Mehta** — Executive Director & Chief Executive officer of the Company, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Maulik Mehta** — Executive Director & Chief Executive officer of the Company, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -8621,83 +8312,6 @@ No successor or new owner is named yet.
 | May 2026 | the seat | 1 |
 
 *Every passage in full: [companies/DEEPAKNTR.md](companies/DEEPAKNTR.md).*
-
----
-
-## DELHIVERY — Delhivery Ltd.
-
-**CFO change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Chief Financial Officer** | Amit Agarwal | Vivek Pabari (internal) | effective | — |
-
-- **Why Amit Agarwal is leaving, in the filing's words:** “not stated”
-- In the documents: “To discuss the results, I am pleased to welcome Mr. Sahil Barua, MD and Chief Executive Officer, Mr. Vivek Pabari, Chief Financial Officer, Ms. Vani Venkatesh, Chief Business Officer, Mr. Varun Bakshi, SVP and Head of Part Truck Load, Mr. Navneet Kumar, SV P and Head of Supply Chain Solutions, Mr. Naman Jain, Head Investor Relations and Corporate Development.”
-
-*All 3 filing(s) read for the seats:* [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_08082026164845_Outcome08082026_sd.pdf) · [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_08082026164912_Outcome08082026_sd.pdf) · [2026-08-08 Press Release](https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_08082026173352_PressReleaseKMP_sd.pdf)
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 8,142 | 8,932 | 10,508 |
-| Sales growth (%) | 12.7 | 9.7 | 17.6 |
-| Operating profit (₹ cr) | 127 | 376 | 640 |
-| Operating profit margin (%) | 1.6 | 4.2 | 6.1 |
-| PAT (₹ cr) | -249 | 162 | 153 |
-| PAT growth (%) | 75.3 | 165 | -5.6 |
-| PAT margin (%) | -3.1 | 1.8 | 1.5 |
-| EPS (₹) | -3.4 | 2.2 | 2.0 |
-| Cash from operations (₹ cr) | 472 | 567 | 911 |
-| Free cash flow (₹ cr) | 4.0 | 92.0 | -802 |
-| ROCE (%) | 2.0 | 3.0 | — |
-| ROE (%) | -2.7 | 1.7 | 1.6 |
-| Borrowings (₹ cr) | 1,169 | 1,422 | 1,463 |
-| Debt / equity (x) | 0.1 | 0.1 | 0.1 |
-| Working-capital days | 109 | 68.0 | 98.0 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/DELHIVERY.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-### 3. Track record — the outgoing management
-
-**Amit Agarwal** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,647 | 10,508 | +23.6% a year over 5 years |
-| Operating profit (₹ cr) | -123 | 640 | loss to profit |
-| PAT (₹ cr) | -416 | 153 | loss to profit |
-| Operating profit margin (%) | -3.4 | 6.1 | +9.5 pts |
-| ROCE (%) | -17.0 | — | — |
-| ROE (%) | -14.8 | 1.6 | +16.4 pts |
-| Borrowings (₹ cr) | 1,152 | 1,463 | +311 |
-
-- Also on file: Managing Director at PFIZER (FY2024–FY2025, annual reports).
-
-### 4. Track record — the incoming management
-
-**Vivek Pabari** — Chief Financial Officer. from: internal.
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| SVP and Head of Corporate Finance | Delhivery (DELHIVERY) | — | — |
-
-### 5. On the calls
-
-3 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 1 |
-| Feb 2026 | the seat | 1 |
-| May 2026 | the seat | 1 |
-
-*Every passage in full: [companies/DELHIVERY.md](companies/DELHIVERY.md).*
 
 ---
 
@@ -8745,9 +8359,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 3. Track record — the outgoing management
 
-**Virag Joshi** — Whole-time Director (President & CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Virag Joshi** — Whole-time Director (President & CEO), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -8759,7 +8373,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | -55.8 | -2.8 | +53.0 pts |
 | Borrowings (₹ cr) | 1,336 | 3,833 | +2,497 |
 
-**Manish Dawar** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Manish Dawar** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -8788,18 +8402,6 @@ The filing's own profile: “Manish, currently the CFO & Whole Time Director, br
 | — | Reebok India | — | — |
 | started his career | Hindustan Unilever Limited (HINDUNILVR) | — | — |
 
-Results of **Devyani International Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2026):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,135 | 5,611 | +37.7% a year over 5 years |
-| Operating profit (₹ cr) | 189 | 860 | +35.4% a year over 5 years |
-| PAT (₹ cr) | -63.0 | -43.0 | — |
-| Operating profit margin (%) | 16.7 | 15.3 | -1.4 pts |
-| ROCE (%) | 16.0 | — | — |
-| ROE (%) | -55.8 | -2.8 | +53.0 pts |
-| Borrowings (₹ cr) | 1,336 | 3,833 | +2,497 |
-
 **Anupam Kumar** — Chief Financial Officer. from: internal; experience: more than two decades of experience in Industry/ professional service firm; qualifications: commerce graduate, Chartered Accountant, CPA and MBA.
 
 The filing's own profile: “Mr. Kumar is a commerce graduate, Chartered Accountant, CPA and MBA with more than two decades of experience in Industry/ professional service firm. Prior to joining RJ Corp Group, he was associated with Walker Chandiok & Co LLP and Vedanta Limited.”
@@ -8809,18 +8411,6 @@ The filing's own profile: “Mr. Kumar is a commerce graduate, Chartered Account
 | EVP – Finance | Devyani International Limited (DEVYANI) | — | 2026 |
 | — | Walker Chandiok & Co LLP | — | — |
 | — | Vedanta Limited (VEDL) | — | — |
-
-Results of **Devyani International Ltd.** while they were CFO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 4,951 | 5,611 | +13.3% a year over 1 year |
-| Operating profit (₹ cr) | 839 | 860 | +2.5% a year over 1 year |
-| PAT (₹ cr) | -7.0 | -43.0 | — |
-| Operating profit margin (%) | 16.9 | 15.3 | -1.6 pts |
-| ROCE (%) | 5.0 | — | — |
-| ROE (%) | -0.6 | -2.8 | -2.2 pts |
-| Borrowings (₹ cr) | 3,188 | 3,833 | +645 |
 
 ### 5. On the calls
 
@@ -8845,15 +8435,15 @@ Results of **Devyani International Ltd.** while they were CFO there (annual repo
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Pawan Lohiya (moved to another role in the company or group; last day 2026-10-19) | Kundip S. Thakker (external; from 2026-10-20) | effective | 2026-10-19 |
+| **Chief Financial Officer and Key Managerial Personnel** | Pawan Lohiya (moved to another role in the company or group; last day 2026-10-19) | Kundip S. Thakker (external; from 2026-10-20) | effective | 2026-10-19 |
 | **Chief Financial Officer and Whole-time Director (DIN:11208141)** | Samir Naik (resignation; last day 2026-05-25) | Pawan Lohiya (internal; from 2026-05-26) | effective | 2026-05-26 |
 
-- **Why Pawan Lohiya is leaving, in the filing's words:** “Cessation as Chief Financial Officer and Key Managerial Personnel (KMP), consequent upon the appointment of Mr. Kundip S. Thakker as Chief Financial Officer. Mr. Lohiya has been re-designated as Deputy Chief Financial Officer and continues in the employment of the Company. The cessation is not on account of resignation.” Stays on as: Deputy Chief Financial Officer of the Company with effect from October 20, 2026.
-- In the documents: “approved the appointment of Mr. Kundip S. Thakker as Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 20, 2026; and noted that Mr. Pawan Lohiya shall cease to be the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours on October 19, 2026, and approved his re-designation as Deputy Chief Financial Officer of the Company with effect from October 20, 2026.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · +1 more
+- **Why Pawan Lohiya is leaving, in the filing's words:** “Cessation as Chief Financial Officer and Key Managerial Personnel (KMP), consequent upon the appointment of Mr. Kundip S. Thakker as Chief Financial Officer. … The cessation is not on account of resignation.” Stays on as: Deputy Chief Financial Officer of the Company with effect from October 20, 2026.
+- In the documents: “approved the appointment of Mr. Kundip S. Thakker as Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 20, 2026; and noted that Mr. Pawan Lohiya shall cease to be the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours on October 19, 2026” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · +1 more
 - **Why Samir Naik is leaving, in the filing's words:** “has tendered his resignation with effect from closing of business hours of May 25, 2026 due to pressing family condition (Personal Reason)”
-- In the documents: “Approved the appointment of Mr. Pawan Lohiya as the Chief Financial Officer of the Company with effect from May 26, 2026 based on the recommendation of Audit Committee and Nomination and Remuneration Committee.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · +1 more
+- In the documents: “Approved the appointment of Mr. Pawan Lohiya as the Chief Financial Officer of the Company with effect from May 26, 2026 based on the recommendation of Audit Committee and Nomination and Remuneration Committee.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · [2026-05-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_26052026142758_Outcome26052026.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · [2026-05-26 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_26052026144332_Outcome26052026.pdf)
+*All 6 filing(s) read for the seats:* [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_19102026175859_CFO_-_Appointment.pdf) · [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_19102026185040_Outcome_of_BM.pdf) · [2026-10-19 Updates](https://nsearchives.nseindia.com/corporate/DIACABS_19102026191350_To_decide_the_materiality.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DIACABS_ROID_89915_KMP_Doc.zip) · [2026-05-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DIACABS_26052026142758_Outcome26052026.pdf) · [2026-05-26 Change in Management](https://nsearchives.nseindia.com/corporate/DIACABS_26052026144332_Outcome26052026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -8881,11 +8471,11 @@ Results of **Devyani International Ltd.** while they were CFO there (annual repo
 
 ### 3. Track record — the outgoing management
 
-**Pawan Lohiya** — Chief Financial Officer, in the seat since FY2027 per the filing.
+**Pawan Lohiya** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
-**Samir Naik** — Chief Financial Officer and Whole-time Director (DIN:11208141), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Samir Naik** — Chief Financial Officer and Whole-time Director (DIN:11208141), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -8901,7 +8491,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Kundip S. Thakker** — Chief Financial Officer. from: external; experience: over 26 years; qualifications: He is a Cost and Management Accountant (member of ICMAI) and holds an MBA in Finance from TIMS, Gujarat, and a B.Com. from Gujarat University. He has also completed ICMAI's Certificate Course in Treasury and International Banking and IIM Indore's Emerging CFO Programme..
+**Kundip S. Thakker** — Chief Financial Officer and Key Managerial Personnel. from: external; experience: over 26 years of experience; qualifications: He is a Cost and Management Accountant (member of ICMAI) and holds an MBA in Finance from TIMS, Gujarat, and a B.Com. from Gujarat University. He has also completed ICMAI's Certificate Course in Treasury and International Banking and IIM Indore's Emerging CFO Programme..
 
 The filing's own profile: “Mr. Kundip S. Thakker is a finance professional with over 26 years of experience in financial management, strategic planning, corporate finance, treasury, fundraising, financial controls and business performance management across diverse industries. Most recently, he was Chief Financial Officer of Stelmec Limited, Mumbai, a medium-voltage switchgear and smart power solutions company. There he led financial strategy, controls, fundraising, investor relations and IPO preparedness, including a private equity raise of ₹175 crore in 2024.”
 
@@ -8971,9 +8561,9 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Ignatius Navil Noronha** — Managing Director & CEO, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Ignatius Navil Noronha** — Managing Director & CEO, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -8997,18 +8587,6 @@ The filing's own profile: “Mr. Anshul Asawa, an IIT Roorkee and IIM Lucknow al
 | Country Head of Unilever in Thailand | Unilever | — | — |
 | General Manager for the Home Care business unit in Greater Asia | Unilever | — | — |
 | led the digitisation efforts | HUL | — | — |
-
-Results of **Avenue Supermarts Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 59,358 | 68,821 | +15.9% a year over 1 year |
-| Operating profit (₹ cr) | 4,495 | 5,189 | +15.4% a year over 1 year |
-| PAT (₹ cr) | 2,707 | 2,970 | +9.7% a year over 1 year |
-| Operating profit margin (%) | 7.6 | 7.5 | -0.1 pts |
-| ROCE (%) | 18.0 | 17.0 | -1.0 pts |
-| ROE (%) | 12.6 | 12.1 | -0.5 pts |
-| Borrowings (₹ cr) | 820 | 2,425 | +1,605 |
 
 ### 5. On the calls
 
@@ -9148,9 +8726,9 @@ Nothing about the change in the calls on file for the window.
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Narasimhan Raghunathan (resignation; last day 2026-01-31) | Chintan Shah (external; from 2026-04-15) | effective | 2026-01-08 |
 
 - **Why Narasimhan Raghunathan is leaving, in the filing's words:** “on account of his personal or family commitments”
-- In the documents: “has noted and approved the resignation of Mr. Narasimhan Raghunathan as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 31st January, 2026, on account of his personal or family commitments.” — [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · +1 more
+- In the documents: “has noted and approved the resignation of Mr. Narasimhan Raghunathan as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 31st January, 2026, on account of his personal or family commitments.” — [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_15042026140754_OutcomeBM15042026_signed.pdf) · [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Management](https://nsearchives.nseindia.com/corporate/ELECON2_15042026144122_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · [2026-01-08 Resignation](https://nsearchives.nseindia.com/corporate/ELECON2_08012026180414_OutcomeBM08012026.pdf)
+*All 6 filing(s) read for the seats:* [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_15042026140754_OutcomeBM15042026_signed.pdf) · [2026-04-15 Appointment](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143124_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ELECON2_15042026143952_OutcomeBM15042026_signed.pdf) · [2026-04-15 Change in Management](https://nsearchives.nseindia.com/corporate/ELECON2_15042026144122_OutcomeBM15042026_signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECON2_08012026174858_OutcomeBM08012026.pdf) · [2026-01-08 Resignation](https://nsearchives.nseindia.com/corporate/ELECON2_08012026180414_OutcomeBM08012026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -9178,7 +8756,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Narasimhan Raghunathan** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Narasimhan Raghunathan** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -9196,7 +8774,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Chintan Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: external; experience: nearly 19 years.
 
-The filing's own profile: “Mr. Chintan Shah brings nearly 19 years of extensive experience in Finance and Accounts, having played a pivotal role in driving financial strategy, managing risk, overseeing project monitoring, ensuring listing compliance and building strong relationships with investors and stakeholders, alongwith contributing to strategic initiatives. He is a seasoned finance leader with a proven track record of enabling growth across multinational and multicultural organizations spanning Big4 Consulting, IT services, Engineering Industries, Medical Device Industries and chemical industries.”
+The filing's own profile: “Mr. Chintan Shah brings nearly 19 years of extensive experience in Finance and Accounts, having played a pivotal role in driving financial strategy, managing risk, overseeing project monitoring, ensuring listing compliance and building strong relationships with investors and stakeholders, alongwith contributing to strategic initiatives. He is a seasoned finance leader with a proven track record of enabling growth across multinational and multicultural organizations spanning Big4 Consulting, IT services, Engineering Industries, Medical Device Industries and chemical industries. He is widely recognized for his expertise in business controlling, financial strategy execution, integrated system implementation and cross-functional leadership.”
 
 ### 5. On the calls
 
@@ -9235,12 +8813,12 @@ The filing's own profile: “Mr. Chintan Shah brings nearly 19 years of extensiv
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Whole-Time Director & Chief Financial Officer (CFO)** | Ashutosh Agarwal (resignation; last day 2026-08-10) | Rajesh Daga (internal; from 2026-08-11) | effective | 2026-06-11 |
+| **Whole-Time Director & Chief Financial Officer (CFO)** | Ashutosh Agarwal (resignation; last day 2026-08-10) | Rajesh Daga (internal; from 2026-08-11) | effective | 2026-08-07 |
 
 - **Why Ashutosh Agarwal is leaving, in the filing's words:** “I, Ashutosh Agarwal, hereby tender my resignation from the position of Whole-Time Director & CFO of Electrosteel Castings Limited (the "Company") due to my personal reasons.”
-- In the documents: “approved the appointment of Mr. Rajesh Daga as the Chief Financial Officer of the Company effective from Tuesday, 11 August, 2026.” — [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110719_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · +1 more
+- In the documents: “approved the appointment of Mr. Rajesh Daga as the Chief Financial Officer of the Company effective from Tuesday, 11 August, 2026.” — [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026150303_Outcome_of_Board_Meeting_07082026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-11-13 Cessation](https://nsearchives.nseindia.in/corporate/ELECTCAST_13112026161659_Completion_of_Tenure_13112026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110719_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89810_KMP_Doc.zip)
+*All 7 filing(s) read for the seats:* [2026-11-13 Cessation](https://nsearchives.nseindia.in/corporate/ELECTCAST_13112026161659_Completion_of_Tenure_13112026.pdf) · [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026150303_Outcome_of_Board_Meeting_07082026.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ELECTCAST_07082026155604_Outcome_of_Board_Meeting_07082026.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ELECTCAST_ROID_89925_KMP_Doc.zip) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110636_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · [2026-06-11 Resignation](https://nsearchives.nseindia.com/corporate/ELECTCAST_11062026110719_ECLReg30_Resignation_Letter_Ashutosh_Agarwal.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -9270,7 +8848,7 @@ The filing's own profile: “Mr. Chintan Shah brings nearly 19 years of extensiv
 
 **India Opportunities Growth Fund Ltd - Pinewood Strategy; Belgrave Investment Fund (both non-promoter public shareholders)** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved — → 0.79% (Belgrave Investment Fund).
 
-**Ashutosh Agarwal** — Whole-Time Director & Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Ashutosh Agarwal** — Whole-Time Director & Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -9290,7 +8868,7 @@ The company's results while they held the seat (the year before they took it, to
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Rajesh Daga** — Whole-Time Director & Chief Financial Officer (CFO). from: internal; experience: a career spanning more than three decades; qualifications: Mr. Rajesh Daga is a Chartered Accountant and holds a Bachelor of Commerce (Honours) degree, having cleared his CA examinations in 1987 on his first attempt..
+**Rajesh Daga** — Whole-Time Director & Chief Financial Officer (CFO). from: internal; experience: a career spanning more than three decades; qualifications: Chartered Accountant and holds a Bachelor of Commerce (Honours) degree, having cleared his CA examinations in 1987 on his first attempt.
 
 The filing's own profile: “Mr. Rajesh Daga is a Chartered Accountant and holds a Bachelor of Commerce (Honours) degree, having cleared his CA examinations in 1987 on his first attempt. After completing his articleship with Singhi & Co., Chartered Accountants, he joined Electrosteel Castings Limited (ECL) in 1989. Over a career spanning more than three decades, Mr. Daga has been deeply associated with ECL, save for a four-year period (1993–1997) where he gained external professional experience before rejoining the company. Throughout his tenure, he has held key positions across diverse functions, including Finance, Accounts, Purchase and Sales. This extensive cross-functional exposure has equipped him with a comprehensive understanding of the Company's operations, financial systems, and strategic business priorities.”
 
@@ -9439,9 +9017,9 @@ The filing's own profile: “Mr. Aditya Virwani is the Managing Director of Emba
 
 ### 3. Track record — the outgoing management
 
-**Vartika Shukla** — Chairman & Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Vartika Shukla** — Chairman & Managing Director, in the seat since at least FY2023 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2022 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -9608,7 +9186,7 @@ Nothing about the change in the calls on file for the window.
 
 **Epsilon Bidco Pte. Ltd. (ultimate beneficial owner Sun Yiming; referred to on the earnings call as promoter Blackstone)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 26.37% (26.38% per shareholding register as on 2026-06-30) → 0%.
 
-**Anand Kripalu** — Managing Director & Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Anand Kripalu** — Managing Director & Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -9788,9 +9366,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Deepinder Goyal** — Director, Managing Director & Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Deepinder Goyal** — Director, Managing Director & Chief Executive Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -9875,17 +9453,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 **Munish Gupta** — Whole-time Director with functional designation of Executive Director and Chief Financial Officer.
 
-Results of **Ethos Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 789 | 1,252 | +26.0% a year over 2 years |
-| Operating profit (₹ cr) | 120 | 197 | +28.1% a year over 2 years |
-| PAT (₹ cr) | 60.0 | 96.0 | +26.5% a year over 2 years |
-| Operating profit margin (%) | 15.2 | 15.7 | +0.5 pts |
-| ROCE (%) | 15.0 | 10.0 | -5.0 pts |
-| ROE (%) | 9.5 | 9.8 | +0.3 pts |
-| Borrowings (₹ cr) | 121 | 289 | +168 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 
@@ -10034,8 +9602,8 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) of the Bank** | Venkatraman Venkateswaran (moved to another role in the company or group; last day 2026-04-30) | Manikandan M (internal; from 2026-05-01) | effective | 2026-04-29 |
 
-- **Why Venkatraman Venkateswaran is leaving, in the filing's words:** “Relieving of Mr. Venkatraman Venkateswaran as the Chief Financial Officer of the Bank with effect from the close of business hours on April 30, 2026. Mr Venkatraman Venkateswaran will continue as the Executive Director of the Bank.” Stays on as: Executive Director of the Bank.
-- In the documents: “In compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI LODR Regulations"), it is hereby informed that the Board of Directors of the Bank at its meeting held today, April 29, 2026 has approved the appointment of Mr. Manikandan M (FCA No: 234412) who is currently working as Deputy Vice President-II & Head – Financial reporting, as Chief Financial Officer and Key Managerial Personnel of the Bank with effect from Friday, May 01, 2026.” — [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
+- **Why Venkatraman Venkateswaran is leaving, in the filing's words:** “Relieving of Mr. Venkatraman Venkateswaran as the Chief Financial Officer of the Bank with effect from the close of business hours on April 30, 2026.” Stays on as: Executive Director of the Bank.
+- In the documents: “Appointment of Mr Manikandan M as the Chief Financial Officer of the Bank with effect from May 01, 2026.” — [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-08-21 General Updates](https://nsearchives.nseindia.com/corporate/FEDERALBNK_21082026184632_FBL_AGM_Appt__Reappt_210826_S.pdf) · [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
 
@@ -10075,9 +9643,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Manikandan M** — Chief Financial Officer (CFO) of the Bank. from: internal; age 35 years; experience: over 12 years of post-qualification experience in the banking sector; qualifications: a Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA).
+**Manikandan M** — Chief Financial Officer (CFO) of the Bank. from: internal; age 35; experience: over 12 years of post-qualification experience in the banking sector; qualifications: Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA).
 
-The filing's own profile: “Mr. Manikandan M, aged 35 years, is a Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA), with over 12 years of post-qualification experience in the banking sector. He has been associated with the Bank since October 2013 and currently serves as the Head of the Financial Reporting Department. During his tenure, he has demonstrated a consistent track record across financial reporting, taxation, regulatory compliance, strategic planning, and capital management. He is a Gold Medalist in Bachelor of Commerce, a Certified Associate of the Indian Institute of Banking & Finance and completed Strategic Leadership Development Programme of the Indian Institute of Management, Bangalore.”
+The filing's own profile: “Mr. Manikandan M, aged 35 years, is a Fellow Member of the Institute of Chartered Accountants of India, an Associate Member of the Institute of Company Secretaries of India, and a licensed Certified Public Accountant (USA), with over 12 years of post-qualification experience in the banking sector. He has been associated with the Bank since October 2013 and currently serves as the Head of the Financial Reporting Department. During his tenure, he has demonstrated a consistent track record across financial reporting, taxation, regulatory compliance, strategic planning, and capital management.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -10133,7 +9701,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Vineet Sahni** — CEO & Whole-time Director (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Vineet Sahni** — CEO & Whole-time Director (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -10172,18 +9740,6 @@ The filing's own profile: “Mr. Rahul Jain has been associated with the Board o
 | Joint Managing Director | Fiem Industries Limited (FIEMIND) | 2023 | 2026 |
 | Director (associated with the Board of the Company since November 14, 2004) | Fiem Industries Limited (FIEMIND) | 2004 | — |
 
-Results of **Fiem Industries Ltd** while they were Chairman there (annual reports on file show the seat FY2022–FY2026):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,221 | 2,816 | +18.2% a year over 5 years |
-| Operating profit (₹ cr) | 134 | 396 | +24.2% a year over 5 years |
-| PAT (₹ cr) | 47.0 | 256 | +40.4% a year over 5 years |
-| Operating profit margin (%) | 11.0 | 14.1 | +3.1 pts |
-| ROCE (%) | 12.0 | 29.0 | +17.0 pts |
-| ROE (%) | 8.3 | 21.1 | +12.8 pts |
-| Borrowings (₹ cr) | 77.0 | 66.0 | -11 |
-
 ### 5. On the calls
 
 5 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -10210,11 +9766,11 @@ Results of **Fiem Industries Ltd** while they were Chairman there (annual report
 | **Chief Financial Officer (CFO)** | Mahesh Viswanathan (moved to another role in the company or group; last day 2026-05-31) | Sachin Naik (external; from 2026-06-01) | effective | 2026-05-28 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Elevation of Mr. Mahesh Viswanathan currently designated as Dy. CEO & Chief Financial Officer (CFO) as Chief Executive Officer ("CEO") of the Company with effect from 1st June 2026.” — [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
+- In the documents: “Elevation of Mr. Mahesh Viswanathan currently designated as Dy. CEO & Chief Financial Officer (CFO) as Chief Executive Officer ("CEO") of the Company with effect from 1st June 2026.” — [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 - **Why Mahesh Viswanathan is leaving, in the filing's words:** “Elevation from Dy. CEO & Chief Financial Officer (CFO) to as Chief Executive Officer ("CEO") of the Company” Stays on as: Chief Executive Officer (CEO) of the Company.
-- In the documents: “Appointment of Mr. Sachin Naik as Chief Financial Officer (CFO) of the Company with effect from 1st June 2026.” — [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
+- In the documents: “Appointment of Mr. Sachin Naik as Chief Financial Officer (CFO) of the Company with effect from 1st June 2026.” — [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
+*All 3 filing(s) read for the seats:* [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 
 ### 2. Financials — the last three years
 
@@ -10242,9 +9798,9 @@ Results of **Fiem Industries Ltd** while they were Chairman there (annual report
 
 ### 3. Track record — the outgoing management
 
-**Mahesh Viswanathan** — Chief Financial Officer (CFO), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Mahesh Viswanathan** — Chief Financial Officer (CFO), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -10268,21 +9824,9 @@ The filing's own profile: “Mr. Mahesh Viswanathan is a qualified Chartered Acc
 | — | Union Carbide India Ltd | — | — |
 | — | Philips Electronics | — | — |
 
-Results of **Finolex Cables Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2025):
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,877 | 5,319 | +13.1% a year over 5 years |
-| Operating profit (₹ cr) | 384 | 543 | +7.2% a year over 5 years |
-| PAT (₹ cr) | 391 | 701 | +12.4% a year over 5 years |
-| Operating profit margin (%) | 13.3 | 10.2 | -3.1 pts |
-| ROCE (%) | 20.0 | 16.0 | -4.0 pts |
-| ROE (%) | 13.0 | 12.8 | -0.2 pts |
-| Borrowings (₹ cr) | 8.0 | 20.0 | +12 |
-
 **Sachin Naik** — Chief Financial Officer (CFO). from: external; experience: total 26 years of experience in finance; qualifications: B.com, CMA, SAP, ISB.
 
-The filing's own profile: “Mr. Sachin Naik has done B.com, CMA, SAP, ISB. He has total 26 years of experience in finance. Mr. Naik is currently working as Chief Financial Officer and Head Legal & secretarial of Shalimar Paints Limited. He is a Business Leader with 3 decades of progressive experience in Business Strategy, Investor Relations, Fundraising, Cost Reduction, Corporate Governance, Controllership, Automation & Digital Initiatives with manufacturing organizations. He also has 10 years of experience spearheading the finance function and Proven expertise in optimizing business operations, driving cost control, leading change management initiatives & enhancing efficiency to foster growth. He has previously worked with Supreme Group, UPL Ltd, Shaw Wallace, Wyeth (Pfizer) and RCF Ltd.”
+The filing's own profile: “Mr. Sachin Naik has done B.com, CMA, SAP, ISB. He has total 26 years of experience in finance. Mr. Naik is currently working as Chief Financial Officer and Head Legal & secretarial of Shalimar Paints Limited. He is a Business Leader with 3 decades of progressive experience in Business Strategy, Investor Relations, Fundraising, Cost Reduction, Corporate Governance, Controllership, Automation & Digital Initiatives with manufacturing organizations. He also has 10 years of experience spearheading the finance function and Proven expertise in optimizing business operations, driving cost control, leading change management initiatives & enhancing efficiency to foster growth.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -10304,6 +9848,69 @@ The filing's own profile: “Mr. Sachin Naik has done B.com, CMA, SAP, ISB. He h
 | Jun 2026 | the seat | 1 |
 
 *Every passage in full: [companies/FINCABLES.md](companies/FINCABLES.md).*
+
+---
+
+## FLUOROCHEM — Gujarat Fluorochemicals Ltd.
+
+**Within the promoter family / group**
+
+### 1. What is changing
+
+**Ownership — Within the promoter family / group.** A composite scheme merges Inox Leasing and Finance Ltd — GFCL's own holding company — into GFCL, after demerging ILFL's other business into Inox Holdings and Investments Ltd. BSE and NSE gave no-objection letters on 9 July 2026; NCLT approval awaited. Promoter group holding unchanged at 61.39%; Vivek Kumar Jain remains Managing Director.
+
+| | Who | Kind | Stake before | Stake after |
+|---|---|---|---|---|
+| Outgoing | Inox Leasing and Finance Limited (ILFL), the holding Company of Gujarat Fluorochemicals Limited — Demerged Company / Transferor Company | corporate parent | 61.39% (promoter and promoter group aggregate) | 61.39% (promoter and promoter group aggregate) |
+| Incoming | Shareholders of Inox Leasing and Finance Limited (promoter and promoter group); Inox Holdings and Investments Limited (IHIL) as Resulting Company for the demerged undertaking | founder family member | — | — |
+
+- mode: scheme of arrangement · control does not change
+- Management changing with it: not stated — the filings mention only that Mr. Vivek Kumar Jain, member of the Promoter Group, is Managing Director of the Company, and that the explanatory statement must disclose "details of proposed reclassification of Promoters and Promoter Group entities for GFCL; and the reasons thereof"
+- Dates: other — draft scheme intimation letters to exchanges 2024-10-29; other — further intimation on draft scheme 2024-12-26; other — transmission of 20,100 shares of late Shri Devendra Kumar Jain to Mr. Vivek Kumar Jain (Reg 29) 2026-02-19; other — ILFL and IHIL board resolutions clarifying demerged undertaking 2026-03-25; approval — SEBI comment letter on draft scheme 2026-07-08; approval — No Objection Letters from BSE and NSE 2026-07-09; other — intimation of receipt of No Objection Letters 2026-07-10
+- In the documents: “We refer to our intimation letters dated 29th October, 2024 and 26th December, 2024 in respect to the draft Composite Scheme of Arrangement between Inox Leasing and Finance Limited, the holding Company of Gujarat Fluorochemicals Limited, ("Demerged Company" or "Transferor Company" or "ILFL"), Inox Holdings and Investments Limited, ("Resulting Company" or "IHIL"), Gujarat Fluorochemicals Limited ("Transferee Company" or "GFCL") and their respective Shareholders, under the provisions of Sections 230 to 232 of the Companies Act, 2013.”
+
+**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 61.39% (2025-09-30) → 61.39% (2025-12-31) → 61.39% (2026-03-31) → 61.39% (2026-06-30) → 61.39% (2026-09-30)
+**Reg 29 disclosures in the window:** promoters sold 0.0% and bought 0.02%.
+
+*Filings read for the ownership:* [2026-08-25 General Updates](https://nsearchives.nseindia.com/corporate/FLUOROCHEM_25082026165236_GFCL_Intimation_of_newspaper_advertisement_Specialwindow.pdf) · [2026-07-10 Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/FLUOROCHEM_10072026124249_GFCL_Intimation_for_NOC_for_Scheme_of_Arrangement_10July2026.pdf)
+
+### 2. Financials — the last three years
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 4,281 | 4,737 | 4,996 |
+| Sales growth (%) | -24.7 | 10.7 | 5.5 |
+| Operating profit (₹ cr) | 915 | 1,100 | 1,290 |
+| Operating profit margin (%) | 21.4 | 23.2 | 25.8 |
+| PAT (₹ cr) | 435 | 546 | 574 |
+| PAT growth (%) | -67.1 | 25.5 | 5.1 |
+| PAT margin (%) | 10.2 | 11.5 | 11.5 |
+| EPS (₹) | 52.2 | — | — |
+| Cash from operations (₹ cr) | 626 | 545 | 961 |
+| Free cash flow (₹ cr) | -330 | -335 | -291 |
+| ROCE (%) | 10.0 | 10.0 | — |
+| ROE (%) | 7.3 | 7.5 | 7.3 |
+| Borrowings (₹ cr) | 2,096 | 2,080 | 2,290 |
+| Debt / equity (x) | 0.3 | 0.3 | 0.3 |
+| Working-capital days | 60.0 | 97.0 | 109 |
+
+*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/FLUOROCHEM.csv (consolidated, screener.in); growth, margins and ratios computed here.*
+
+**Share price since the announcement:** ₹4,074.10 on 2024-10-28 (the close before) → ₹4,712.10 on 2026-11-13: **+15.7%**; Nifty 500 +4.8% over the same days. Unadjusted closes from the NSE bhavcopy.
+
+### 3. Track record — the outgoing management
+
+**Inox Leasing and Finance Limited (ILFL), the holding Company of Gujarat Fluorochemicals Limited — Demerged Company / Transferor Company** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 61.39% (promoter and promoter group aggregate) → 61.39% (promoter and promoter group aggregate).
+
+### 4. Track record — the incoming management
+
+**Shareholders of Inox Leasing and Finance Limited (promoter and promoter group); Inox Holdings and Investments Limited (IHIL) as Resulting Company for the demerged undertaking** (founder family member) — the incoming owner.
+
+What the documents say about them: “ILFL is "the holding Company of Gujarat Fluorochemicals Limited" and an NBFC — "the ILFL shall surrender its NBFC Certificate of Registration to RBI within fifteen days of the Effective Date of the Scheme." Board resolutions of ILFL and IHIL dated March 25, 2026 clarified that "the Demerged Undertaking includes mutual fund distribution activities (and brokerage income generated thereon) being undertaken by ILFL and that such activities shall stand transferred to IHIL upon implementation of the Scheme." GFCL is "An INOX Group Company." Promoter group member Mr. Vivek Kumar Jain is Managing Director of the Company.”
+
+### 5. On the calls
+
+Nothing about the change in the calls on file for the window.
 
 ---
 
@@ -10365,18 +9972,6 @@ The filing's own profile: “Mr. Mahendra K. Goyal is a Chartered Accountant, Co
 | Group CFO | ANAND Group | 2009 | — |
 | Controller and CFO positions across multiple Group companies | ANAND Group | 1995 | — |
 
-Results of **Go Digit General Insurance Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,885 | 8,147 | +38.4% a year over 1 year |
-| Operating profit (₹ cr) | 50.0 | -269 | profit to loss |
-| PAT (₹ cr) | 36.0 | 182 | +405.6% a year over 1 year |
-| Operating profit margin (%) | 0.8 | -3.3 | -4.1 pts |
-| ROCE (%) | 5.0 | 11.0 | +6.0 pts |
-| ROE (%) | 1.5 | 6.7 | +5.2 pts |
-| Borrowings (₹ cr) | -0.0 | 350 | +350 |
-
 ### 5. On the calls
 
 Nothing about the change in the calls on file for the window.
@@ -10427,7 +10022,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Sandeep Kumar Gupta** — Chairman and Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Sandeep Kumar Gupta** — Chairman and Managing Director, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -10566,9 +10161,9 @@ Nothing about the change in the calls on file for the window.
 
 **Individual Agrawal family members and HUFs — Chandra Prakash Agrawal, Prem Prakash Agrawal, Santosh Kumar Agrawal, Madhu Agrawal, Mayank Agrawal, Ashutosh Agrawal, Priyanka Gupta, Chandra Prakash Agrawal & Sons HUF, Santosh Kumar Agrawal HUF, Prem Prakash Agrawal HUF, Dinesh R. Agarwal** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Chandra Prakash Agrawal 37.09% (35.967% post-Dec-2025 gifts); Prem Prakash Agrawal 5.35%; Santosh Kumar Agrawal 7%; Madhu Agrawal 8.36% → Chandra Prakash Agrawal 0%; Prem Prakash Agrawal 0%; Santosh Kumar Agrawal 0% (later 1.916% via Nov 2026 transfer); Madhu Agrawal 0.25%.
 
-**Sandip Kumar Agarwal** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Sandip Kumar Agarwal** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -10607,18 +10202,6 @@ The filing's own profile: “Mr. Amit Jalan is a seasoned finance leader with mo
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Accounts Officer (CAO) | Gallantt Ispat Limited (GALLANTT) | — | 2026 |
-
-Results of **Gallantt Ispat Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,007 | 3,017 | +199.6% a year over 1 year |
-| Operating profit (₹ cr) | 111 | 296 | +166.7% a year over 1 year |
-| PAT (₹ cr) | 81.0 | 176 | +117.3% a year over 1 year |
-| Operating profit margin (%) | 11.0 | 9.8 | -1.2 pts |
-| ROCE (%) | 16.0 | 10.0 | -6.0 pts |
-| ROE (%) | 11.0 | 8.4 | -2.6 pts |
-| Borrowings (₹ cr) | 114 | 387 | +273 |
 
 ### 5. On the calls
 
@@ -10865,7 +10448,7 @@ The filing's own profile: “Ashwath Rao currently leads corporate finance for P
 
 **Fosun Pharma Industrial Pte. Ltd.** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 51.76% → 45.76%.
 
-**Shyamakant Giri** — Chief Executive Officer (CEO) of the Company, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Shyamakant Giri** — Chief Executive Officer (CEO) of the Company, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -10976,18 +10559,6 @@ The filing's own profile: “Ronojit is a seasoned finance leader with over 25 y
 | Regional Controller | GSK International region | — | — |
 | Management Trainee | GSK India | 1999 | — |
 
-Results of **Glaxosmithkline Pharmaceuticals Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,454 | 3,749 | +8.5% a year over 1 year |
-| Operating profit (₹ cr) | 909 | 1,179 | +29.7% a year over 1 year |
-| PAT (₹ cr) | 590 | 928 | +57.3% a year over 1 year |
-| Operating profit margin (%) | 26.3 | 31.4 | +5.1 pts |
-| ROCE (%) | 63.0 | 61.0 | -2.0 pts |
-| ROE (%) | 30.2 | 40.9 | +10.7 pts |
-| Borrowings (₹ cr) | 10.0 | 33.0 | +23 |
-
 ### 5. On the calls
 
 3 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -11001,6 +10572,83 @@ Results of **Glaxosmithkline Pharmaceuticals Ltd.** while they were Managing Dir
 
 ---
 
+## GMDCLTD — Gujarat Mineral Development Corporation Ltd.
+
+**CEO / MD change**
+
+### 1. What is changing
+
+| Seat | Outgoing | Incoming | Status | First said on |
+|---|---|---|---|---|
+| **Managing Director** | Roopwant Singh (last day 2026-09-29) | Ajay Bhadoo (government appointee; from 2026-09-29) | effective | 2026-09-29 |
+
+- **Why Roopwant Singh is leaving, in the filing's words:** “Ceased to be the Managing Director pursuant to Notification No. AIS/35.2026/39/Ser.(I) dated 28th September, 2026 issued by the Government of Gujarat.”
+- In the documents: “Shri Ajay Bhadoo, IAS has assumed charge as Managing Director of the Company with effect from 29th September, 2026.” — [2026-09-29 Appointment](https://nsearchives.nseindia.com/corporate/GMDCLTD_29092026192940_stock_exchange_letter_ajay_bhadoo.pdf)
+
+*All 1 filing(s) read for the seats:* [2026-09-29 Appointment](https://nsearchives.nseindia.com/corporate/GMDCLTD_29092026192940_stock_exchange_letter_ajay_bhadoo.pdf)
+
+### 2. Financials — the last three years
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 2,463 | 2,851 | 2,653 |
+| Sales growth (%) | -29.6 | 15.8 | -6.9 |
+| Operating profit (₹ cr) | 609 | 637 | 443 |
+| Operating profit margin (%) | 24.7 | 22.3 | 16.7 |
+| PAT (₹ cr) | 597 | 686 | 957 |
+| PAT growth (%) | -50.4 | 14.9 | 39.5 |
+| PAT margin (%) | 24.2 | 24.1 | 36.1 |
+| EPS (₹) | 18.8 | 21.6 | 30.1 |
+| Cash from operations (₹ cr) | 110 | 1,059 | 744 |
+| Free cash flow (₹ cr) | -366 | 424 | -289 |
+| ROCE (%) | 13.0 | 14.0 | 11.0 |
+| ROE (%) | 9.8 | 10.7 | 13.5 |
+| Borrowings (₹ cr) | 3.0 | 126 | 317 |
+| Debt / equity (x) | 0.0 | 0.0 | 0.0 |
+| Working-capital days | 228 | 177 | 263 |
+
+*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/GMDCLTD.csv (consolidated, screener.in); growth, margins and ratios computed here.*
+
+**Share price since the announcement:** ₹522.25 on 2026-09-28 (the close before) → ₹488.30 on 2026-11-13: **-6.5%**; Nifty 500 +6.8% over the same days. Unadjusted closes from the NSE bhavcopy.
+
+### 3. Track record — the outgoing management
+
+**Roopwant Singh** — Managing Director, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 1,329 | 2,653 | +14.8% a year over 5 years |
+| Operating profit (₹ cr) | -6.0 | 443 | loss to profit |
+| PAT (₹ cr) | -36.0 | 957 | loss to profit |
+| Operating profit margin (%) | -0.5 | 16.7 | +17.2 pts |
+| ROCE (%) | 1.0 | 11.0 | +10.0 pts |
+| ROE (%) | -0.9 | 13.5 | +14.4 pts |
+| Borrowings (₹ cr) | 1.0 | 317 | +316 |
+
+### 4. Track record — the incoming management
+
+**Ajay Bhadoo** — Managing Director. from: government appointee; experience: over two decades of experience in public administration, policy formulation and implementation across diverse sectors; qualifications: He holds a degree in Civil Engineering and a Master's degree in Business Law from the National Law School of India University, Bengaluru..
+
+The filing's own profile: “Shri Ajay Bhadoo, IAS is an Indian Administrative Service officer of the 1999 batch of the Gujarat cadre, having over two decades of experience in public administration, policy formulation and implementation across diverse sectors. He holds a degree in Civil Engineering and a Master's degree in Business Law from the National Law School of India University, Bengaluru. Shri Bhadoo has held several senior positions during his career, including Deputy Election Commissioner at the Election Commission of India, Joint Secretary to the former President of India, Secretary to former Chief Minister of Gujarat, Vice Chairman & Chief Executive Officer of the Gujarat Maritime Board and Commissioner of Rajkot and Vadodara Municipal Corporations.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Deputy Election Commissioner | Election Commission of India | — | — |
+| Joint Secretary to the former President of India | Office of the former President of India | — | — |
+| Secretary to former Chief Minister of Gujarat | Government of Gujarat | — | — |
+| Vice Chairman & Chief Executive Officer | Gujarat Maritime Board | — | — |
+| Commissioner | Rajkot and Vadodara Municipal Corporations | — | — |
+| Additional Secretary | Department of Commerce, Government of India | — | — |
+| Chief Executive Officer | Government e Marketplace (GeM) | — | — |
+
+### 5. On the calls
+
+Nothing about the change in the calls on file for the window.
+
+---
+
 ## GMMPFAUDLR — GMM Pfaudler Ltd.
 
 **CEO / MD change · CFO change**
@@ -11009,15 +10657,15 @@ Results of **Glaxosmithkline Pharmaceuticals Ltd.** while they were Managing Dir
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP)** | Alexander Poempner (resignation; last day 2026-11-03) | Ankit Nayyar (internal; from 2026-11-04) | effective | 2026-09-15 |
 | **Group Chief Executive Officer (Group CEO) & KMP** | — (new seat) | Gregory Gelhaus (promoter family; from 2026-05-21) | effective | 2026-05-21 |
+| **Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP)** | Alexander Poempner (resignation; last day 2026-11-03) | Ankit Nayyar (internal; from 2026-11-04) | effective | 2026-09-15 |
 
-- **Why Alexander Poempner is leaving, in the filing's words:** “Having considered the next phase of my professional career, I have decided to pursue opportunities outside the GMM Pfaudler Group.” Stays on as: Will continue with the organization until December 31, 2026, to ensure an orderly handover and provide transition support..
-- In the documents: “Mr. Ankit Nayyar assumed office as Group Chief Financial Officer and Key Managerial Personnel of the Company, effective November 4, 2026, pursuant to Mr. Alexander Poempner's request for early relieving owing to personal exigencies.” — [2026-09-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026164140_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Resignation](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026165021_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026170558_BMOUTCOME15SEPT2026.pdf) · +1 more
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Gregory Gelhaus as Group Chief Executive Officer & Key Managerial Personnel (KMP) with effect from May 21, 2026, subject to ratification by shareholders at ensuing 63rd Annual General Meeting.” — [2026-08-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04082026192730_GMMPfaudlerproceedings.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162217_Reg_30_ocred.pdf) · [2026-05-21 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162422_Pressreleasemay212026signed.pdf) · +1 more
+- In the documents: “Appointment of Mr. Gregory Gelhaus as Group Chief Executive Officer & Key Managerial Personnel (KMP) with effect from May 21, 2026, subject to ratification by shareholders at ensuing 63rd Annual General Meeting.” — [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026161653_OutcomeMay212026.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162217_Reg_30_ocred.pdf) · [2026-05-21 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162422_Pressreleasemay212026signed.pdf) · +1 more
+- **Why Alexander Poempner is leaving, in the filing's words:** “Mr. Alexander Poempner’s requested for early relieving owing to personal exigencies.” Stays on as: Will continue with the organization until December 31, 2026, to ensure an orderly handover and provide transition support.
+- In the documents: “Mr. Ankit Nayyar assumed office as Group Chief Financial Officer and Key Managerial Personnel of the Company, effective November 4, 2026, pursuant to Mr. Alexander Poempner’s request for early relieving owing to personal exigencies.” — [2026-09-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026164140_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Resignation](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026165021_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026170558_BMOUTCOME15SEPT2026.pdf) · +1 more
 
-*All 18 filing(s) read for the seats:* [2026-11-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GMMPFAUDLR_20112026123923_BoardMeetingOutcomesigned.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026164915_BMOutcome.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170100_BMOutcome.pdf) · [2026-11-04 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170914_PressRelease.pdf) · [2026-11-04 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026172910_BMOutcome.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026173314_BMOutcome.pdf) · +12 more
+*All 19 filing(s) read for the seats:* [2026-11-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GMMPFAUDLR_20112026123923_BoardMeetingOutcomesigned.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026164915_BMOutcome.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170100_BMOutcome.pdf) · [2026-11-04 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170914_PressRelease.pdf) · [2026-11-04 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026172910_BMOutcome.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026173314_BMOutcome.pdf) · +13 more
 
 ### 2. Financials — the last three years
 
@@ -11061,30 +10709,30 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ankit Nayyar** — Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP). from: internal; experience: nearly two decades; qualifications: Chartered Accountant, Masters' in Accounting & Finance from Manchester Business School (UK) and B.Com from Shri Ram College of Commerce.
-
-The filing's own profile: “Ankit Nayyar was appointed Group Chief Financial Officer of GMM Pfaudler with effect from November 4, 2026. Prior to his appointment, he served as Deputy Chief Financial Officer from May 2026. Ankit brings nearly two decades of experience across pharmaceuticals, specialty chemicals, manufacturing and financial services. Most recently, as CFO of PI Health Sciences, he led global finance operations, M&A, deal structuring, and operational scaleup. He also played a key role in the Monsanto – Bayer integration, building finance capabilities and governance at Bayer & Monsanto India. Earlier, he held leadership roles at Pfizer, MSCI and Tata AIG Life Insurance.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Deputy Chief Financial Officer | GMM Pfaudler (GMMPFAUDLR) | 2026 | 2026 |
-| Chief Financial Officer | PI Health Sciences | — | — |
-| leadership role in the Monsanto–Bayer integration, building finance capabilities and governance | Bayer & Monsanto India | — | — |
-| leadership role | Pfizer (PFIZER) | — | — |
-| leadership role | MSCI | — | — |
-| leadership role | Tata AIG Life Insurance | — | — |
-
 **Gregory Gelhaus** — Group Chief Executive Officer (Group CEO) & KMP. from: promoter family; qualifications: Mr. Gelhaus holds a BBA in Accounting from the Ross School of Business at the University of Michigan and an MBA with concentrations in Finance and Marketing from the Wharton School at the University of Pennsylvania. Mr. Gelhaus is a Certified Public Accountant (CPA) in the State of New York in the United States..
 
 The filing's own profile: “Mr. Gelhaus has been the Chief Transformation Officer of GMM Pfaudler Group and SMP effective May 5, 2025, and has now been appointed as a Group Chief Executive Officer and KMP effective May 21, 2026. Prior to joining GMM Pfaudler, he served as the Chief Operating Officer for Asia Pacific and Central Europe at Global Blue, where he managed multi-country operations and served on the Executive Committee. His earlier experience includes roles at PricewaterhouseCoopers, Alvarez & Marsal, and Kirkham Group Pte Ltd.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Transformation Officer | GMM Pfaudler Group | 2025 | 2026 |
+| Chief Transformation Officer of GMM Pfaudler Group and SMP | GMM Pfaudler Group | 2025 | 2026 |
 | Chief Operating Officer for Asia Pacific and Central Europe | Global Blue | — | — |
 | — | PricewaterhouseCoopers | — | — |
 | — | Alvarez & Marsal | — | — |
 | — | Kirkham Group Pte Ltd | — | — |
+
+**Ankit Nayyar** — Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP). from: internal; experience: nearly two decades of experience; qualifications: Chartered Accountant, Masters’ in Accounting & Finance from Manchester Business School (UK) and B.Com from Shri Ram College of Commerce.
+
+The filing's own profile: “Ankit Nayyar was appointed Group Chief Financial Officer of GMM Pfaudler with effect from November 4, 2026. Prior to his appointment, he served as Deputy Chief Financial Officer from May 2026. Ankit brings nearly two decades of experience across pharmaceuticals, specialty chemicals, manufacturing and financial services. Most recently, as CFO of PI Health Sciences, he led global finance operations, M&A, deal structuring, and operational scaleup. He also played a key role in the Monsanto – Bayer integration, building finance capabilities and governance at Bayer & Monsanto India. Earlier, he held leadership roles at Pfizer, MSCI and Tata AIG Life Insurance.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Deputy Chief Financial Officer | GMM Pfaudler (GMMPFAUDLR) | 2026 | 2026 |
+| CFO | PI Health Sciences | — | — |
+| key role in the Monsanto – Bayer integration, building finance capabilities and governance | Bayer & Monsanto India | — | — |
+| leadership roles | Pfizer (PFIZER) | — | — |
+| leadership roles | MSCI | — | — |
+| leadership roles | Tata AIG Life Insurance | — | — |
 
 ### 5. On the calls
 
@@ -11150,15 +10798,15 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | T. Natarajan (interim holder replaced; last day 2025-12-29) | Rajkumar Beniwal (government appointee; from 2025-12-29) | effective | 2025-12-24 |
-| **Managing Director** | Rajkumar Beniwal (resignation; last day 2026-09-09) | Sanjeev Kumar (interim; government appointee; from 2026-09-09) | effective | 2026-09-06 |
+| **Managing Director** | T. Natarajan (resignation; last day 2025-12-29) | Rajkumar Beniwal (government appointee; from 2025-12-29) | effective | 2025-12-24 |
+| **Managing Director** | Rajkumar Beniwal (resignation; last day 2026-09-09) | Sanjeev Kumar (government appointee; from 2026-09-09) | effective | 2026-09-06 |
 
 - **Why T. Natarajan is leaving, in the filing's words:** “whereby I have been relieved from the additional charge of Managing Director, I hereby tender my resignation from the post of Managing Director of the Company, with effect from the date of relinquishment of charge” Stays on as: Nominee Director representing the Finance Department, GoG, on the Board of the Company.
 - In the documents: “Government of Gujarat (GoG) has nominated Shri Rajkumar Beniwal, IAS as Managing Director of the Company vice Dr. T. Natarajan, IAS vide its General Administration Department Order No. AIS/35.2025/56/G dated December 23, 2025.” — [2025-12-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183523_SE_Final_Letter_Signed_OCR.pdf) · [2025-12-29 Change in Management](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183638_SE_Final_Letter_Signed_OCR.pdf) · [2025-12-29 Resignation](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_29122025183846_SE_Final_Letter_Signed_OCR.pdf) · +1 more
-- **Why Rajkumar Beniwal is leaving, in the filing's words:** “Pursuant to Government of Gujarat vide General Administration Department (GAD) Notification No. AIS/35.2026/37/Ser(l) dated September 5, 2026, shri Rajkumar Beniwal has been relieved from charge of Managing Director, and thereby tendered his resignation from the post of Managing Director”
+- **Why Rajkumar Beniwal is leaving, in the filing's words:** “shri Rajkumar Beniwal has been relieved from charge of Managing Director, and thereby tendered his resignation from the post of Managing Director of the Company, with effect from the date of relinquishment of charge i.e. 9th September 2026 after office hours.”
 - In the documents: “Took note of and placed on record the cessation of Shri Rajkumar Beniwal, IAS (DIN: 07195658) as the Managing Director and as a Director of the Company with effect from September 09, 2026, consequent upon his relinquishment of charge pursuant to the aforesaid Notification of the Government of Gujarat and his resignation dated September 09, 2026.” — [2026-09-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026215314_F_SE_Change_MD_SK_signed.pdf) · [2026-09-09 Resignation](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026220008_F_SE_Change_MD_SK_signed.pdf) · [2026-09-09 Appointment](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026220245_F_SE_Change_MD_SK_signed.pdf) · +1 more
 
-*All 17 filing(s) read for the seats:* [2026-10-05 Shareholders meeting](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_05102026173211_FSEPBOCT2026_Signed.pdf) · [2026-09-16 Shareholders meeting](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_16092026170741_F_Summary_Proceedings_Signed.pdf) · [2026-09-16 Appointment](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_16092026175703_F_SE_Appointment_MD_Signed.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GNFC_ROID_98278_KMP_Doc.zip) · [2026-09-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026215314_F_SE_Change_MD_SK_signed.pdf) · [2026-09-09 Resignation](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026220008_F_SE_Change_MD_SK_signed.pdf) · +11 more
+*All 18 filing(s) read for the seats:* [2026-10-05 Shareholders meeting](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_05102026173211_FSEPBOCT2026_Signed.pdf) · [2026-09-16 Shareholders meeting](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_16092026170741_F_Summary_Proceedings_Signed.pdf) · [2026-09-16 Appointment](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_16092026175703_F_SE_Appointment_MD_Signed.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GNFC_ROID_98278_KMP_Doc.zip) · [2026-09-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026215314_F_SE_Change_MD_SK_signed.pdf) · [2026-09-09 Resignation](https://nsearchives.nseindia.com/corporate/rajeshpillai8741_09092026220008_F_SE_Change_MD_SK_signed.pdf) · +12 more
 
 ### 2. Financials — the last three years
 
@@ -11216,39 +10864,26 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Rajkumar Beniwal** — Managing Director. from: government appointee; experience: nearly two decades of distinguished public service; qualifications: He holds a B.Tech. degree in Mechanical Engineering from [IIT (BHU), Varanasi, and a Master's degree in Public Administration from Duke University, USA..
+**Rajkumar Beniwal** — Managing Director. from: government appointee; experience: nearly two decades of distinguished public service; qualifications: B.Tech. degree in Mechanical Engineering from IIT (BHU), Varanasi, and a Master's degree in Public Administration from Duke University, USA.
 
-The filing's own profile: “Shri Rajkumar Beniwal is an officer of the Indian Administrative Service (IAS), 2004 batch (Gujarat Cadre), with nearly two decades of distinguished public service. He holds a B.Tech. degree in Mechanical Engineering from [IIT (BHU), Varanasi, and a Master's degree in Public Administration from Duke University, USA. His career highlights include tenures as Collector and District Magistrate of Mehsana and Ahmedabad districts, as well as District Development Officer in Kutch. He has also successfully coordinated two Vibrant Gujarat Global Summits in 2017 and 2018. He served as the full-time Vice-Chairman and Chief Executive Officer of the Gujarat Maritime Board and worked as Managing Director of Gujarat Urban Development Company Limited, Additional Chief Executive Officer of the Gujarat Urban Development Mission, and Commissioner of Municipalities Administration.”
+The filing's own profile: “Shri Rajkumar Beniwal is an officer of the Indian Administrative Service (IAS), 2004 batch (Gujarat Cadre), with nearly two decades of distinguished public service. He holds a B.Tech. degree in Mechanical Engineering from IIT (BHU), Varanasi, and a Master's degree in Public Administration from Duke University, USA. His career highlights include tenures as Collector and District Magistrate of Mehsana and Ahmedabad districts, as well as District Development Officer in Kutch. He has also successfully coordinated two Vibrant Gujarat Global Summits in 2017 and 2018. He served as the full-time Vice-Chairman and Chief Executive Officer of the Gujarat Maritime Board and worked as Managing Director of Gujarat Urban Development Company Limited, Additional Chief Executive Officer of the Gujarat Urban Development Mission, and Commissioner of Municipalities Administration.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Collector and District Magistrate of Mehsana and Ahmedabad districts | Government of Gujarat | — | — |
-| District Development Officer | Government of Gujarat (Kutch) | — | — |
+| Collector and District Magistrate | Mehsana and Ahmedabad districts | — | — |
+| District Development Officer | Kutch | — | — |
 | full-time Vice-Chairman and Chief Executive Officer | Gujarat Maritime Board | — | — |
 | Managing Director | Gujarat Urban Development Company Limited | — | — |
 | Additional Chief Executive Officer | Gujarat Urban Development Mission | — | — |
 | Commissioner | Municipalities Administration | — | — |
 
-**Sanjeev Kumar** — Managing Director (interim). from: government appointee; experience: over 28 years of experience in public administration; qualifications: He has completed his B.Tech. (Hons.) at IIT Kharagpur and his M.P.A. at the Hubert H. Humphrey School of Public Affairs, University of Minnesota, USA..
+**Sanjeev Kumar** — Managing Director. from: government appointee; experience: over 28 years of experience in public administration; qualifications: B.Tech. (Hons.) at IIT Kharagpur and his M.P.A. at the Hubert H. Humphrey School of Public Affairs, University of Minnesota, USA.
 
-The filing's own profile: “Shri Sanjeev Kumar, IAS is currently serving as the Principal Secretary to the Chief Minister of Gujarat. He is a 1998-batch officer of the Indian Administrative Service (IAS) from the Gujarat cadre. He has completed his B.Tech. (Hons.) at IIT Kharagpur and his M.P.A. at the Hubert H. Humphrey School of Public Affairs, University of Minnesota, USA. With over 28 years of experience in public administration, he has been a key driver in promoting sustainable development across various sectors, including finance, energy, petrochemicals, and environmental governance. He has rich knowledge and wide experience of working in various Government Departments and Public Sector Undertaking.”
+The filing's own profile: “Shri Sanjeev Kumar, IAS is currently serving as the Principal Secretary to the Chief Minister of Gujarat. He is a 1998-batch officer of the Indian Administrative Service (IAS) from the Gujarat cadre. He has completed his B.Tech. (Hons.) at IIT Kharagpur and his M.P.A. at the Hubert H. Humphrey School of Public Affairs, University of Minnesota, USA. With over 28 years of experience in public administration, he has been a key driver in promoting sustainable development across various sectors, including finance, energy, petrochemicals, and environmental governance. He has served in various capacities in Panchayats, Rural Development, Finance, General Administration (Planning), Commercial Taxes, Energy & Petrochemicals, Forest & Environment, Climate change, Urban Development and Urban Housing Department and other departments, and listed state PSUs.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Principal Secretary to the Chief Minister of Gujarat | Government of Gujarat | — | — |
-| served in various capacities in Panchayats, Rural Development, Finance, General Administration (Planning), Commercial Taxes, Energy & Petrochemicals, Forest & Environment, Climate change, Urban Development and Urban Housing Department and other departments, and listed state PSUs | Government of Gujarat | — | — |
-
-Results of **Petronet LNG Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 43,169 | 59,899 | +38.8% a year over 1 year |
-| Operating profit (₹ cr) | 5,250 | 4,854 | -7.5% a year over 1 year |
-| PAT (₹ cr) | 3,438 | 3,326 | -3.3% a year over 1 year |
-| Operating profit margin (%) | 12.2 | 8.1 | -4.1 pts |
-| ROCE (%) | 26.0 | 26.0 | +0.0 pts |
-| ROE (%) | 25.2 | 21.8 | -3.4 pts |
-| Borrowings (₹ cr) | 3,438 | 3,345 | -93 |
 
 Results of **PVR INOX Ltd.** while they were Chairman there (annual reports on file show the seat FY2023–FY2025):
 
@@ -11279,9 +10914,9 @@ Nothing about the change in the calls on file for the window.
 | **Chief Financial Officer & Head – Finance & Legal** | S. Varadaraj (retirement; last day 2026-09-30) | Ravishankar A. (external; from 2026-10-01) | effective | 2026-08-05 |
 
 - **Why S. Varadaraj is leaving, in the filing's words:** “I hereby request for an early superannuation from the employment of the Company as CFO and Head Finance Legal of Godrej Agrovet Limited, with effect from close of business hours on September 30,2026, due to personal reasons.”
-- In the documents: “Upon recommendation of the Nomination and Remuneration Committee, the Board approved the appointment of Mr. Ravishankar A. as the "Chief Financial Officer – Designate" with effect from September 21, 2026 upto September 30, 2026 and as the "Chief Financial Officer" of the Company with effect from October 1, 2026.” — [2026-08-05 Cessation](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153846_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026154349_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026155840_BSENSEBMOUTCOME05082026.pdf)
+- In the documents: “Upon recommendation of the Nomination and Remuneration Committee, the Board approved the appointment of Mr. Ravishankar A. as the "Chief Financial Officer – Designate" with effect from September 21, 2026 upto September 30, 2026 and as the "Chief Financial Officer" of the Company with effect from October 1, 2026.” — [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153031_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153211_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153619_BSENSEBMOUTCOME05082026.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-08-05 Cessation](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153846_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026154349_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026155840_BSENSEBMOUTCOME05082026.pdf)
+*All 6 filing(s) read for the seats:* [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153031_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153211_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153619_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Cessation](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026153846_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026154349_BSENSEBMOUTCOME05082026.pdf) · [2026-08-05 Appointment](https://nsearchives.nseindia.com/corporate/GODREJAGRO_05082026155840_BSENSEBMOUTCOME05082026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -11327,7 +10962,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ravishankar A.** — Chief Financial Officer & Head – Finance & Legal. from: external; experience: over two decades of experience.
+**Ravishankar A.** — Chief Financial Officer & Head – Finance & Legal. from: external; experience: over two decades.
 
 The filing's own profile: “Mr. Ravishankar A. is a seasoned finance leader with over two decades of experience across business partnering, corporate finance, controllership, financial planning, investor relations and governance. Most recently, he served as Vice President – Finance for Hindustan Unilever's Beauty & Wellbeing business, leading the finance function for a €1.5 billion portfolio. He partnered closely with the business leadership to shape the division's strategic agenda, including portfolio transformation, M&A, operational excellence, and resource allocation, and supported the integration of acquisitions including Minimalist and OZiva. Previously, he was Group Finance Controller and Head of Investor Relations at Hindustan Unilever, where he strengthened financial reporting, governance and internal controls, while deepening engagement with the investment community.”
 
@@ -11358,7 +10993,7 @@ Nothing about the change in the calls on file for the window.
 - **Why Aasif Malbari is leaving, in the filing's words:** “My resignation is consequent to my proposed appointment as the Managing Director and Chief Executive Officer of the Company, subject to the requisite approvals.” Stays on as: Managing Director & Chief Executive Officer.
 - In the documents: “Upon recommendation of the Nomination and Remuneration Committee and the Audit Committee of the Board of Directors, the Board of Directors have approved appointment of Mr. Vishal Kedia as the Interim Chief Financial Officer and Key Managerial Personnel of the Company with effect from August 12, 2026.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +1 more
 
-*All 10 filing(s) read for the seats:* [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07102026195229_SE_Scrutinizer_Report_Voting_Result-Signed.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07092026231405_SE_Notice_of_Postal_Ballot_11082026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155900_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +4 more
+*All 13 filing(s) read for the seats:* [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07102026195229_SE_Scrutinizer_Report_Voting_Result-Signed.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_07092026231405_SE_Notice_of_Postal_Ballot_11082026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155900_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +7 more
 
 ### 2. Financials — the last three years
 
@@ -11418,11 +11053,11 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Aasif Malbari** — Managing Director & Chief Executive Officer. from: internal; experience: three decades in the FMCG and auto industries; qualifications: Aasif is a Chartered Accountant and Company Secretary who secured the All India First Rank in both the CA Intermediate and Final examinations. He is a graduate of Sydenham College, University of Mumbai..
 
-The filing's own profile: “Aasif has spent three decades in the FMCG and auto industries, at GCPL, Tata Motors, and Hindustan Unilever. As Global CFO, he directly oversees business strategy and has played a critical role in partnering leadership teams across geographies to advance growth and strengthen performance. Aasif has delivered an outstanding transformation of GCPL's Africa business. Prior to joining GCPL, Aasif served as Chief Financial Officer at Tata Passenger Electric Mobility and Director at Tata Motors Passenger Vehicles, where he played a key role in scaling the business significantly, including its reorganisation and a USD 1 billion fundraise in the electric vehicle business.”
+The filing's own profile: “Aasif has spent three decades in the FMCG and auto industries, at GCPL, Tata Motors, and Hindustan Unilever. As Global CFO, he directly oversees business strategy and has played a critical role in partnering leadership teams across geographies to advance growth and strengthen performance. Aasif has delivered an outstanding transformation of GCPL's Africa business. The business has rapidly grown its margin-accretive FMCG portfolio, headlined by the highly successful launch of our air care category, while strengthening the legacy Hair Fashion business. This has resulted in EBITDA margins growing significantly, from ~9% in FY24 to ~15% in FY26.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Financial Officer (Global CFO) and President Godrej Africa | Godrej Consumer Products Limited (GODREJCP) | — | 2026 |
+| Global Chief Financial Officer and President Godrej Africa | Godrej Consumer Products Limited (GODREJCP) | — | 2026 |
 | Chief Financial Officer | Tata Passenger Electric Mobility | — | — |
 | Director | Tata Motors Passenger Vehicles (TMPV) | — | — |
 | a range of finance and business roles | Hindustan Unilever (HINDUNILVR) | — | — |
@@ -11433,7 +11068,7 @@ The filing's own profile: “Mr. Vishal Kedia has been with the Godrej Group sin
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Head- Strategy, FP&A and Investor Relations | Godrej Consumer Products Limited (GODREJCP) | 2016 | — |
+| Head- Strategy, FP&A and Investor Relations | Godrej Consumer Products Limited (GODREJCP) | 2016 | 2026 |
 | — | The Boston Consulting Group | — | — |
 
 ### 5. On the calls
@@ -11491,9 +11126,9 @@ The filing's own profile: “Mr. Vishal Kedia has been with the Godrej Group sin
 
 ### 3. Track record — the outgoing management
 
-**Nadir Godrej** — Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Nadir Godrej** — Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -11521,42 +11156,6 @@ The filing's own profile: “Pirojsha Godrej is Chairperson Designate of the God
 | Chairperson; led Godrej Properties through a phase of rapid growth | Godrej Properties (GODREJPROP) | — | — |
 | Chairperson; founder | Godrej Capital | — | — |
 | Chairperson; founder | Godrej Ventures | — | — |
-
-Results of **Godrej Agrovet Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 9,383 | 10,233 | +9.1% a year over 1 year |
-| Operating profit (₹ cr) | 821 | 864 | +5.2% a year over 1 year |
-| PAT (₹ cr) | 403 | 445 | +10.4% a year over 1 year |
-| Operating profit margin (%) | 8.7 | 8.4 | -0.3 pts |
-| ROCE (%) | 17.0 | 19.0 | +2.0 pts |
-| ROE (%) | 16.9 | 21.9 | +5.0 pts |
-| Borrowings (₹ cr) | 1,396 | 1,574 | +178 |
-
-Results of **Godrej Industries Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 19,657 | 22,237 | +13.1% a year over 1 year |
-| Operating profit (₹ cr) | 2,104 | 2,242 | +6.6% a year over 1 year |
-| PAT (₹ cr) | 1,858 | 2,412 | +29.8% a year over 1 year |
-| Operating profit margin (%) | 10.7 | 10.1 | -0.6 pts |
-| ROCE (%) | 8.0 | 8.0 | +0.0 pts |
-| ROE (%) | 18.3 | 21.6 | +3.3 pts |
-| Borrowings (₹ cr) | 38,088 | 51,564 | +13,476 |
-
-Results of **Godrej Properties Ltd.** while they were Chairman there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 765 | 1,825 | +138.6% a year over 1 year |
-| Operating profit (₹ cr) | -449 | -56.0 | — |
-| PAT (₹ cr) | -189 | 351 | loss to profit |
-| Operating profit margin (%) | -58.7 | -3.1 | +55.6 pts |
-| ROCE (%) | 1.0 | 5.0 | +4.0 pts |
-| ROE (%) | -2.3 | 4.0 | +6.3 pts |
-| Borrowings (₹ cr) | 4,542 | 5,196 | +654 |
 
 ### 5. On the calls
 
@@ -11723,7 +11322,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Akhila Balachandar** — Chief Financial Officer / Group Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Akhila Balachandar** — Chief Financial Officer / Group Chief Financial Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -11788,12 +11387,12 @@ Results of **GMM Pfaudler Ltd.** while they were CFO there (annual reports on fi
 | **Chief Financial Officer** | Abhishek Agarwal (resignation; last day 2026-05-30) | Prashant L. Pai (interim; internal; from 2026-08-06) | effective | 2026-05-15 |
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Prashant L. Pai (interim holder replaced; last day 2026-11-26) | Anand H. Sharma (external; from 2026-11-26) | effective | 2026-11-26 |
 
-- **Why Abhishek Agarwal is leaving, in the filing's words:** “Mr. Abhishek Agarwal has tendered his resignation vide letter dated May 15, 2026, from the position of Chief Financial Officer of the Company to pursue career opportunities outside the Company.”
+- **Why Abhishek Agarwal is leaving, in the filing's words:** “To pursue career opportunities outside the Company”
 - In the documents: “Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI Listing Regulations, we hereby inform that Mr. Abhishek Agarwal has tendered his resignation vide letter dated May 15, 2026, from the position of Chief Financial Officer of the Company to pursue career opportunities outside the Company.” — [2026-08-06 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_06082026133043_Intimation_Appointment_of_CFO.pdf) · [2026-05-15 Resignation](https://nsearchives.nseindia.com/corporate/GRWRHITECH_15052026170523_GHFL__Intimation_Regl_30.pdf) · [2026-05-15 Change in Management](https://nsearchives.nseindia.com/corporate/GRWRHITECH_15052026170931_GHFL__Intimation_Regl_30.pdf) · +1 more
 - **Why Prashant L. Pai is leaving, in the filing's words:** “Mr. Prashant L. Pai, who was appointed as an Interim CFO (KMP), shall cease to be interim CFO (KMP) with immediate effect.”
 - In the documents: “Based on the recommendation of Nomination and Remuneration Committee and Audit Committee, the Board appointed Mr. Anand H. Sharma as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from November 26, 2026.” — [2026-11-26 Appointment](https://nsearchives.nseindia.in/corporate/GRWRHITECH_26112026113211_GHFL_Changes_in_Management_Sign.pdf) · [2026-11-26 Cessation](https://nsearchives.nseindia.in/corporate/GRWRHITECH_26112026113708_GHFL_Changes_in_Management_Sign.pdf) · [2026-08-06 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_06082026133043_Intimation_Appointment_of_CFO.pdf)
 
-*All 12 filing(s) read for the seats:* [2026-11-26 Appointment](https://nsearchives.nseindia.in/corporate/GRWRHITECH_26112026113211_GHFL_Changes_in_Management_Sign.pdf) · [2026-11-26 Cessation](https://nsearchives.nseindia.in/corporate/GRWRHITECH_26112026113708_GHFL_Changes_in_Management_Sign.pdf) · [2026-08-06 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_06082026133043_Intimation_Appointment_of_CFO.pdf) · [2026-07-10 Demise](https://nsearchives.nseindia.com/corporate/GRWRHITECH_10072026095510_GHFL_intimation.pdf) · [2026-06-24 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_24062026193318_GHFL_Intimation_CIM_MG_JTMD.pdf) · [2026-05-15 Resignation](https://nsearchives.nseindia.com/corporate/GRWRHITECH_15052026170523_GHFL__Intimation_Regl_30.pdf) · +6 more
+*All 13 filing(s) read for the seats:* [2026-11-26 Appointment](https://nsearchives.nseindia.in/corporate/GRWRHITECH_26112026113211_GHFL_Changes_in_Management_Sign.pdf) · [2026-11-26 Cessation](https://nsearchives.nseindia.in/corporate/GRWRHITECH_26112026113708_GHFL_Changes_in_Management_Sign.pdf) · [2026-08-06 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_06082026133043_Intimation_Appointment_of_CFO.pdf) · [2026-07-10 Demise](https://nsearchives.nseindia.com/corporate/GRWRHITECH_10072026095510_GHFL_intimation.pdf) · [2026-06-24 Appointment](https://nsearchives.nseindia.com/corporate/GRWRHITECH_24062026193318_GHFL_Intimation_CIM_MG_JTMD.pdf) · [2026-05-15 Resignation](https://nsearchives.nseindia.com/corporate/GRWRHITECH_15052026170523_GHFL__Intimation_Regl_30.pdf) · +7 more
 
 ### 2. Financials — the last three years
 
@@ -11821,7 +11420,7 @@ Results of **GMM Pfaudler Ltd.** while they were CFO there (annual reports on fi
 
 ### 3. Track record — the outgoing management
 
-**Abhishek Agarwal** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Abhishek Agarwal** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -11841,9 +11440,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Prashant L. Pai** — Chief Financial Officer (interim). from: internal; experience: three decades of rich experience in Accounting and Finance; qualifications: Master's degree.
+**Prashant L. Pai** — Chief Financial Officer (interim). from: internal; experience: three decades of rich experience in Accounting and Finance; qualifications: having Master's degree.
 
-The filing's own profile: “Prashant L . Pai, having Master's degree with three decades of rich experience in Accounting and Finance , has been associated with the GHFL and Group Companies since starting of his career. He has been responsible for the finalization of accounts, statutory compliance, audit coordination, cash flow management, budgeting, and ensuring adherence to applicable laws and regulations. A seasoned finance professional, he possesses strong expertise in both legacy accounting systems and SAP ERP implementation and management.”
+The filing's own profile: “Prashant L. Pai, having Master's degree with three decades of rich experience in Accounting and Finance, has been associated with the GHFL and Group Companies since starting of his career. He has been responsible for the finalization of accounts, statutory compliance, audit coordination, cash flow management, budgeting, and ensuring adherence to applicable laws and regulations. A seasoned finance professional, he possesses strong expertise in both legacy accounting systems and SAP ERP implementation and management.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -12107,15 +11706,15 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **interim Chief Financial Officer and Key Managerial Personnel of the Company** | — (new seat) | Manish Mattoo (interim; internal; from 2025-12-01) | effective | 2025-12-01 |
-| **Chief Financial Officer and Key Managerial Personnel of the Company** | Manish Mattoo (interim holder replaced; last day 2026-05-25) | Sanjeev Kumar (external; from 2026-05-25) | effective | 2026-05-19 |
+| **interim Chief Financial Officer and Key Managerial Personnel** | — (new seat) | Manish Mattoo (interim; internal; from 2025-12-01) | effective | 2025-12-01 |
+| **Chief Financial Officer and Key Managerial Personnel** | Manish Mattoo (interim holder replaced; last day 2026-05-25) | Sanjeev Kumar (external; from 2026-05-25) | effective | 2026-05-19 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Pursuant to Regulation 30 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that, based on the recommendation of the Audit Committee and the Nomination and Remuneration Committee, the Board of Directors of the Company, at its meeting held on December 01, 2025, has approved the appointment of Dr. Manish Mattoo, Executive Director and Chief Executive Officer, as the interim Chief Financial Officer and Key Managerial Personnel of the Company in accordance with Section 203 of the Companies Act, 2013.” — [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232557_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
-- **Why Manish Mattoo is leaving, in the filing's words:** “Dr. Manish Mattoo, Executive Director and Chief Executive Officer of the Company, has relinquished the additional charge of Interim Chief Financial Officer of the Company with effect from May 25, 2026.” Stays on as: Executive Director and Chief Executive Officer of the Company.
-- In the documents: “Based on the recommendation of the NRC and approval of the Audit Committee, the Board has approved the appointment of Mr. Sanjeev Kumar as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from commencement of business hours on May 25, 2026.” — [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232557_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
+- In the documents: “Pursuant to Regulation 30 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that, based on the recommendation of the Audit Committee and the Nomination and Remuneration Committee, the Board of Directors of the Company, at its meeting held on December 01, 2025, has approved the appointment of Dr. Manish Mattoo, Executive Director and Chief Executive Officer, as the interim Chief Financial Officer and Key Managerial Personnel of the Company in accordance with Section 203 of the Companies Act, 2013.” — [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
+- **Why Manish Mattoo is leaving, in the filing's words:** “Dr Manish Mattoo has stepped down from the office of Interim Chief Financial Officer of the Company with effect from May 25, 2026.” Stays on as: Executive Director and Chief Executive Officer of the Company.
+- In the documents: “Based on the recommendation of the NRC and approval of the Audit Committee, the Board has approved the appointment of Mr. Sanjeev Kumar as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from commencement of business hours on May 25, 2026.” — [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-05-25 Cessation](https://nsearchives.nseindia.com/corporate/HCG2_25052026164354_SE_Intimation-_Resignation_of_Interim_CFO.pdf) · [2026-05-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HCG_ROID_88294_KMP_Doc.zip) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232557_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232614_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
+*All 8 filing(s) read for the seats:* [2026-05-25 Cessation](https://nsearchives.nseindia.com/corporate/HCG2_25052026164354_SE_Intimation-_Resignation_of_Interim_CFO.pdf) · [2026-05-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HCG_ROID_88294_KMP_Doc.zip) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232557_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -12143,7 +11742,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Manish Mattoo** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2026 per the filing.
+**Manish Mattoo** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -12159,9 +11758,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Manish Mattoo** — interim Chief Financial Officer and Key Managerial Personnel of the Company (interim). from: internal; experience: over two decades; qualifications: distinguished alumnus of the Indian School of Business (ISB), holding an MBA with a dual major in Finance and Strategy & Leadership. He earned his MBBS and MD in Anaesthesiology from BJ Medical College, Ahmedabad.
+**Manish Mattoo** — interim Chief Financial Officer and Key Managerial Personnel (interim). from: internal; experience: over two decades of multifaceted experience; qualifications: Dr. Manish is a distinguished alumnus of the Indian School of Business (ISB), holding an MBA with a dual major in Finance and Strategy & Leadership. He earned his MBBS and MD in Anaesthesiology from BJ Medical College, Ahmedabad.
 
-The filing's own profile: “Dr. Manish Mattoo is a seasoned healthcare business leader with over two decades of multifaceted experience. He has combined his clinical knowledge and business acumen to excel in healthcare management. His repertoire includes driving growth in mature hospital systems, creating competitive advantage in complex markets, successfully managing physician practices, revitalizing underperforming hospitals, optimizing supply chains, pioneering healthcare IT solutions, and much more. He is unwavering in his commitment to delivering high-quality care efficiently, placing patient interests at the forefront and building strong high-performance teams.”
+The filing's own profile: “Dr. Manish Mattoo is a seasoned healthcare business leader with over two decades of multifaceted experience. He has combined his clinical knowledge and business acumen to excel in healthcare management. His repertoire includes driving growth in mature hospital systems, creating competitive advantage in complex markets, successfully managing physician practices, revitalizing underperforming hospitals, optimizing supply chains, pioneering healthcare IT solutions, and much more.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -12172,27 +11771,15 @@ The filing's own profile: “Dr. Manish Mattoo is a seasoned healthcare business
 | clinician | PGI, Chandigarh | — | — |
 | clinician | Civil Hospital, Ahmedabad | — | — |
 
-**Sanjeev Kumar** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: over 30 years; qualifications: He recently completed one year Fellow program at Harvard University, USA. An alumnus of Shri Ram College of Commerce, University of Delhi, Sanjeev is also a Chartered Accountant and a Company Secretary..
+**Sanjeev Kumar** — Chief Financial Officer and Key Managerial Personnel. from: external; experience: over 30 years of experience spanning telecom, travel and aviation, hospitality, and healthcare; qualifications: An alumnus of Shri Ram College of Commerce, University of Delhi, Sanjeev is also a Chartered Accountant and a Company Secretary. He recently completed one year Fellow program at Harvard University, USA..
 
 The filing's own profile: “Mr. Sanjeev Kumar is an accomplished senior leader with over 30 years of experience spanning telecom, travel and aviation, hospitality, and healthcare. He has a strong track record of working with growing organisations and driving transformation and delivering sustainable growth. With over three decades of experience in finance, Sanjeev has held key leadership roles at Bharti Airtel Limited and subsequently served as Group CFO at InterGlobe Enterprises and at Medanta – The Medicity. At Medanta, he was instrumental in leading the successful IPO of Global Health Ltd. and driving strategic and financial transformation initiatives.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| key leadership roles in finance | Bharti Airtel Limited (BHARTIARTL) | — | — |
+| key leadership roles | Bharti Airtel Limited (BHARTIARTL) | — | — |
 | Group CFO | InterGlobe Enterprises | — | — |
 | Group CFO | Medanta – The Medicity | — | — |
-
-Results of **Petronet LNG Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 43,169 | 59,899 | +38.8% a year over 1 year |
-| Operating profit (₹ cr) | 5,250 | 4,854 | -7.5% a year over 1 year |
-| PAT (₹ cr) | 3,438 | 3,326 | -3.3% a year over 1 year |
-| Operating profit margin (%) | 12.2 | 8.1 | -4.1 pts |
-| ROCE (%) | 26.0 | 26.0 | +0.0 pts |
-| ROE (%) | 25.2 | 21.8 | -3.4 pts |
-| Borrowings (₹ cr) | 3,438 | 3,345 | -93 |
 
 Results of **PVR INOX Ltd.** while they were Chairman there (annual reports on file show the seat FY2023–FY2025):
 
@@ -12260,7 +11847,7 @@ Results of **PVR INOX Ltd.** while they were Chairman there (annual reports on f
 
 ### 3. Track record — the outgoing management
 
-**Sashidhar Jagdishan** — Managing Director and Chief Executive Officer ("MD & CEO"), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sashidhar Jagdishan** — Managing Director and Chief Executive Officer ("MD & CEO"), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -12275,7 +11862,7 @@ The company's results while they held the seat (the year before they took it, to
 - Also on file: Managing Director at BSE (FY2024–FY2024, annual reports).
 - Also on file: Managing Director at JMFINANCIL (FY2023–FY2023, annual reports).
 
-**Srinivasan Vaidyanathan** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Srinivasan Vaidyanathan** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -12428,79 +12015,6 @@ The filing's own profile: “Ms. Neha Rajvanshi is a Chartered Accountant with o
 ### 5. On the calls
 
 Nothing about the change in the calls on file for the window (no transcripts on file).
-
----
-
-## HEROMOTOCO — Hero MotoCorp Ltd.
-
-**CEO / MD change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Chief Executive Officer** | V. S. Kasbekar | Harshavardhan Chitale | effective | — |
-
-- **Why V. S. Kasbekar is leaving, in the filing's words:** “not stated”
-- In the documents: “We are delighted to announce the appointment of Mr. Harshavardhan Chitale, our new Chief Executive Officer effective January '26.”
-
-*All 0 filing(s) read for the seats:* 
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 37,789 | 40,923 | 47,411 |
-| Sales growth (%) | 10.6 | 8.3 | 15.9 |
-| Operating profit (₹ cr) | 5,235 | 5,789 | 7,059 |
-| Operating profit margin (%) | 13.9 | 14.1 | 14.9 |
-| PAT (₹ cr) | 3,742 | 4,376 | 5,776 |
-| PAT growth (%) | 33.6 | 16.9 | 32.0 |
-| PAT margin (%) | 9.9 | 10.7 | 12.2 |
-| EPS (₹) | 187 | 219 | 287 |
-| Cash from operations (₹ cr) | 4,923 | 4,297 | 8,315 |
-| Free cash flow (₹ cr) | 4,146 | 3,463 | 7,227 |
-| ROCE (%) | 29.0 | 30.0 | 35.0 |
-| ROE (%) | 21.1 | 22.7 | 26.7 |
-| Borrowings (₹ cr) | 606 | 700 | 779 |
-| Debt / equity (x) | 0.0 | 0.0 | 0.0 |
-| Working-capital days | -17.0 | -11.0 | -31.0 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/HEROMOTOCO.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-### 3. Track record — the outgoing management
-
-**V. S. Kasbekar** — Chief Executive Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2022 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 29,551 | 47,411 | +12.5% a year over 4 years |
-| Operating profit (₹ cr) | 3,256 | 7,059 | +21.3% a year over 4 years |
-| PAT (₹ cr) | 2,329 | 5,776 | +25.5% a year over 4 years |
-| Operating profit margin (%) | 11.0 | 14.9 | +3.9 pts |
-| ROCE (%) | 18.0 | 35.0 | +17.0 pts |
-| ROE (%) | 14.7 | 26.7 | +12.0 pts |
-| Borrowings (₹ cr) | 605 | 779 | +174 |
-
-### 4. Track record — the incoming management
-
-**Harshavardhan Chitale** — Chief Executive Officer. experience: three decades.
-
-The filing's own profile: “Mr. Chitale is a distinguished leader who brings with him three decades of extensive global and diversified expertise across multiple sectors. His profound experience will be instrumental in shaping and guiding the next exciting chapter of Hero MotoCorp's journey. He has proven track record of c…”
-
-### 5. On the calls
-
-7 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 2 |
-| Feb 2026 | the seat | 3 |
-| May 2026 | the seat | 2 |
-
-*Every passage in full: [companies/HEROMOTOCO.md](companies/HEROMOTOCO.md).*
 
 ---
 
@@ -12720,7 +12234,7 @@ Results of **TBO Tek Ltd.** while they were CFO there (annual reports on file sh
 
 **Promoter and promoter group (Government of India, per shareholding register)** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 66.14% → 60.14%.
 
-**Sanjiv Kumar Singh** — Chairman & Managing Director (CMD), Hindustan Copper Limited (HCL), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sanjiv Kumar Singh** — Chairman & Managing Director (CMD), Hindustan Copper Limited (HCL), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -12967,18 +12481,6 @@ The filing's own profile: “Mr. Amit Gupta has been associated with Vedanta sin
 | Group Head – FP&A | Vedanta (VEDL) | — | — |
 | multiple leadership roles | Vedanta (Cairn, Vedanta Corporate, and BALCO) | 2006 | — |
 
-Results of **Vishal Mega Mart Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 8,912 | 10,716 | +20.2% a year over 1 year |
-| Operating profit (₹ cr) | 1,276 | 1,564 | +22.6% a year over 1 year |
-| PAT (₹ cr) | 462 | 632 | +36.8% a year over 1 year |
-| Operating profit margin (%) | 14.3 | 14.6 | +0.3 pts |
-| ROCE (%) | 13.0 | 15.0 | +2.0 pts |
-| ROE (%) | 8.2 | 9.9 | +1.7 pts |
-| Borrowings (₹ cr) | 1,483 | 1,729 | +246 |
-
 ### 5. On the calls
 
 19 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -13015,12 +12517,12 @@ Results of **Vishal Mega Mart Ltd.** while they were CFO there (annual reports o
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (“CFO”)** | Nutan Gaba Patwari (resignation; last day 2026-08-31) | Rinkoo Somani | effective | 2026-06-25 |
+| **Chief Financial Officer ("CFO")** | Nutan Gaba Patwari (resignation; last day 2026-08-31) | Rinkoo Somani | effective | 2026-06-25 |
 
 - **Why Nutan Gaba Patwari is leaving, in the filing's words:** “To pursue the next phase of learning and professional journey.” Stays on as: non-KMP, non-operating, time-bound advisory capacity focused on investor-relations and capital-markets.
-- In the documents: “Based on the recommendations of Audit Committee and Nomination & Remuneration Committee, approved the appointment of Ms. Rinkoo Somani as the Chief Financial Officer (“ CFO ”) of the Company [designated as Key Managerial Personnel (“KMP ”) and Senior Management Personnel (“SMP ”)].” — [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · +1 more
+- In the documents: “Based on the recommendations of Audit Committee and Nomination & Remuneration Committee, approved the appointment of Ms. Rinkoo Somani as the Chief Financial Officer ("CFO") of the Company [designated as Key Managerial Personnel ("KMP") and Senior Management Personnel ("SMP")].” — [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180540_Outcome_of_BM_merged.pdf) · [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180737_Materiality_guideline.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_90440_KMP_Doc.zip)
+*All 7 filing(s) read for the seats:* [2026-10-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026175410_Outcome_of_BM_merged.pdf) · [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180540_Outcome_of_BM_merged.pdf) · [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HOMEFIRST_27102026180737_Materiality_guideline.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_31082026190955_cessation.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HOMEFIRST_ROID_97512_KMP_Doc.zip) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/HOMEFIRST_25062026164254_Resignation_of_CFO_F.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -13044,7 +12546,7 @@ Results of **Vishal Mega Mart Ltd.** while they were CFO there (annual reports o
 
 **True North Fund V LLP (sold 2.71%, holds 4.74%) and Aether (Mauritius) Ltd (sold 2.63%, holds 2.27%)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 12.39% (promoter and group, 2025-09-30) → 6.97% (promoter and group, 2026-09-30).
 
-**Nutan Gaba Patwari** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
+**Nutan Gaba Patwari** — Chief Financial Officer ("CFO"), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -13062,7 +12564,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Rinkoo Somani** — Chief Financial Officer (“CFO”).
+**Rinkoo Somani** — Chief Financial Officer ("CFO").
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
@@ -13121,7 +12623,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 3. Track record — the outgoing management
 
-**Pulkit Goyal** — Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Pulkit Goyal** — Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -13193,9 +12695,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Unsoo Kim** — Managing Director & Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Unsoo Kim** — Managing Director & Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -13219,18 +12721,6 @@ The filing's own profile: “He possesses proven expertise in sales, marketing, 
 | Whole-time Director and Chief Operating Officer | Hyundai Motor India Limited (HYUNDAI) | — | — |
 | Executive Director of Marketing, Logistics, Parts & Accessories | Maruti Suzuki India Limited (MARUTI) | — | — |
 
-Results of **Hyundai Motor India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 69,829 | 69,193 | -0.9% a year over 1 year |
-| Operating profit (₹ cr) | 9,079 | 8,915 | -1.8% a year over 1 year |
-| PAT (₹ cr) | 6,060 | 5,640 | -6.9% a year over 1 year |
-| Operating profit margin (%) | 13.0 | 12.9 | -0.1 pts |
-| ROCE (%) | 54.0 | 38.0 | -16.0 pts |
-| ROE (%) | 56.8 | 34.6 | -22.2 pts |
-| Borrowings (₹ cr) | 833 | 850 | +17 |
-
 ### 5. On the calls
 
 5 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -13246,22 +12736,9 @@ Results of **Hyundai Motor India Ltd.** while they were Managing Director there 
 
 ## ICIL — Indo Count Industries Ltd.
 
-**Large stake change, same controller · CEO / MD change · CFO change**
+**CEO / MD change · CFO change**
 
 ### 1. What is changing
-
-**Ownership — Large stake change, same controller.** A non-promoter entity, Lhochhar Trust (through its trustee), disclosed acquiring 31.31% of Indo Count's capital on 2026-10-28. Promoter-and-group holding stayed flat at 58.74% through every quarter in the window, with promoters disclosing zero purchases or sales, so the existing promoters still control the company.
-
-| | Who | Kind | Stake before | Stake after |
-|---|---|---|---|---|
-| Outgoing | — | — | — | — |
-| Incoming | Lhochhar Trust (through its trustee) | other | — | 31.31% |
-
-- mode: other · control does not change
-- Dates: other 2026-10-28
-
-**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 58.74% (2025-09-30) → 58.74% (2025-12-31) → 58.74% (2026-03-31) → 58.74% (2026-06-30) → 58.74% (2026-09-30)
-**Reg 29 disclosures in the window:** promoters sold 0.0% and bought 0.0%; outside acquirers at 10% or more: Lhochhar Trust (through its trustee) 31.31% (2026-10-28).
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -13301,7 +12778,7 @@ Results of **Hyundai Motor India Ltd.** while they were Managing Director there 
 
 ### 3. Track record — the outgoing management
 
-**Manish Bhatia** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Manish Bhatia** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -13334,9 +12811,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Lhochhar Trust (through its trustee)** (other) — the incoming owner. Holding after: 31.31%.
-
-What the documents say about them: “not stated — the exchange record identifies it only as "Lhochhar Trust (through its trustee)", a non-promoter, whose acquisition is categorised as "Acquisition via Others" and which holds 31.31% after the transaction.”
+No successor or new owner is named yet.
 
 ### 5. On the calls
 
@@ -13349,81 +12824,6 @@ What the documents say about them: “not stated — the exchange record identif
 | Jun 2026 | the seat | 2 |
 
 *Every passage in full: [companies/ICIL.md](companies/ICIL.md).*
-
----
-
-## IDEA — Vodafone Idea Ltd.
-
-**CFO change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **our new CFO** | Murthy | Tejas Mehta (external) | effective | — |
-
-- **Why Murthy is leaving, in the filing's words:** “I also want to thank Mr. Murthy, the earlier CFO for his contributions in guiding us through a significant period of transformation.”
-- In the documents: “I'm equally delighted to welcome Mr. Tejas Mehta, as our new CFO, who joins us from Mondel■z with over 25 years of experience across In dia and international markets leading large P&Ls through periods of growth, transformation and integration.”
-
-*All 2 filing(s) read for the seats:* [2026-08-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IDEA_10082026192959_SEIntimationChangeindirectorSMP10082026signed.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/IDEA_10082026193358_SEIntimationChangeindirectorSMP10082026signed.pdf)
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 42,652 | 43,571 | 44,873 |
-| Sales growth (%) | 1.1 | 2.2 | 3.0 |
-| Operating profit (₹ cr) | 17,072 | 18,049 | 19,003 |
-| Operating profit margin (%) | 40.0 | 41.4 | 42.3 |
-| PAT (₹ cr) | -31,238 | -27,383 | 34,552 |
-| PAT growth (%) | -6.6 | 12.3 | 226 |
-| PAT margin (%) | -73.2 | -62.8 | 77.0 |
-| EPS (₹) | -6.2 | -3.8 | 3.2 |
-| Cash from operations (₹ cr) | 20,826 | 9,291 | 19,411 |
-| Free cash flow (₹ cr) | 19,296 | -931 | 8,597 |
-| ROCE (%) | -4.0 | -2.0 | -2.0 |
-| ROE (%) | 30.0 | 38.9 | -96.6 |
-| Borrowings (₹ cr) | 243,809 | 233,229 | 192,528 |
-| Debt / equity (x) | -2.3 | -3.3 | -5.4 |
-| Working-capital days | -358 | -294 | -192 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/IDEA.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-### 3. Track record — the outgoing management
-
-**Murthy** — our new CFO, date of taking the seat not on file.
-
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 41,952 | 44,873 | +1.4% a year over 5 years |
-| Operating profit (₹ cr) | 16,946 | 19,003 | +2.3% a year over 5 years |
-| PAT (₹ cr) | -44,233 | 34,552 | loss to profit |
-| Operating profit margin (%) | 40.4 | 42.3 | +1.9 pts |
-| ROCE (%) | -4.0 | -2.0 | +2.0 pts |
-| ROE (%) | 116 | -96.6 | -212.3 pts |
-| Borrowings (₹ cr) | 201,720 | 192,528 | -9,192 |
-
-### 4. Track record — the incoming management
-
-**Tejas Mehta** — our new CFO. from: external; experience: over 25 years.
-
-The filing's own profile: “I'm equally delighted to welcome Mr. Tejas Mehta, as our new CFO, who joins us from Mondel■z with over 25 years of experience across India and international markets leading large P&Ls through periods of growth, transformation and integration.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| — | Mondelez | — | — |
-
-### 5. On the calls
-
-2 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 2 |
-
-*Every passage in full: [companies/IDEA.md](companies/IDEA.md).*
 
 ---
 
@@ -13522,6 +12922,7 @@ The filing's own profile: “Mr. Sandeep Joseph Abraham, 57 years, is a bachelor
 
 - **Why Kamal Kishore Chatiwal is leaving, in the filing's words:** “Shri Kamal Kishore Chatiwal has ceased to be a Managing Director & Director of the Company w.e.f. June 05, 2026 and has been repatriated to GAIL.” Stays on as: repatriated to GAIL (India) Limited.
 - In the documents: “This is inform that Shri Kumar Shanker (DIN: 09533240) has been nominated by Promoter Company i.e. GAIL (India) Limited (GAIL) as Managing Director of Indraprastha Gas Limited.” — [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IGL1_08072026160848_IGLPostalBallotNotice08072026.pdf) · [2026-06-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IGL1_05062026180112_IGLChangeinMD05062026.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 - **Why Sanjay Kumar is leaving, in the filing's words:** “Cessation of Shri Sanjay Kumar as Chief Financial Officer (CFO) w.e.f. May 21, 2026, as he is being repatriated to BPCL, Promoter Company of IGL.” Stays on as: repatriated to BPCL, Promoter Company of IGL.
 - In the documents: “This is to inform that Board of Directors in its meeting held today i.e. May 18, 2026, has designated Shri Manjeet Singh Gulati, Vice President (Finance) of the Company, as Chief Financial Officer (CFO) w.e.f. May 21, 2026.” — [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf)
 
@@ -13553,7 +12954,7 @@ The filing's own profile: “Mr. Sandeep Joseph Abraham, 57 years, is a bachelor
 
 ### 3. Track record — the outgoing management
 
-**Kamal Kishore Chatiwal** — Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Kamal Kishore Chatiwal** — Managing Director, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -13817,22 +13218,22 @@ The filing's own profile: “As part of its leadership succession, the Board has
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Founder promoter Anil Mehta (1.44%) and 15 promoter-group individuals/entities were reclassified out of the 'Promoter and Promoter Group' into the 'Public' category, approved by the board on February 7, 2026, by NSE/BSE on May 21, 2026 and by shareholders on June 24, 2026. WestBridge Crossover Fund, LLC and Aravali Investment Holdings remain the promoters.
+**Ownership — Change of control — completed.** Founder-promoter Anil Mehta and the entire Mehta/Crossland promoter group were reclassified from 'Promoter & Promoter Group' to 'Public' under Reg 31A, approved by exchanges on 21 May 2026 and by shareholders on 24 June 2026. WestBridge Crossover Fund/Aravali Investment Holdings remain the sole promoter. No shares were sold.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Mr. Anil Mehta (promoter); promoter group: Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, Crossland group companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc. | founder family | 1.44% (Anil Mehta as on March 31, 2026); all other named members NIL | NIL as promoter — 1.44% now held in Public category |
-| Incoming | WestBridge Crossover Fund, LLC and Aravali Investment Holdings (continuing promoters) | private-equity fund | — | — |
+| Outgoing | Mr. Anil Mehta (Promoter) with promoter-group members Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, the Crossland companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc. (all nil holdings except Anil Mehta) | founder family | 1.45% (as on 30 September 2025); 1.44% as on 31 March 2026 | 1.44% — same 1,570,734 shares, now held in the Public category |
+| Incoming | WestBridge Crossover Fund, LLC together with its wholly owned subsidiary Aravali Investment Holdings (continuing promoters) | private-equity fund | — | not stated for WestBridge alone; total promoter and group holding 45.91% as on 2026-09-30 |
 
 - mode: other · control changes
-- Why the seller is selling, in their words: “"WestBridge no longer holds more than 20% of our equity share capital and accordingly, the basis for Biz2Credit being part of the promoter group of your Company no longer subsists" (reason for Anil Mehta not stated)”
-- Management changing with it: Not stated — the reclassified parties confirmed they "Do not have any representation on the board of directors (including not having a nominee director) of the Company" and "Do not have any Key Managerial Personnel in the Company"; Rupinder Singh continues as Managing Director & CEO, Ashish Gupta as CFO and Mukti Chaplot as Company Secretary.
-- Dates: other 2026-01-30; approval 2026-02-07; other 2026-02-10; approval 2026-05-21; other 2026-05-25; completion 2026-06-24
-- In the documents: “We hereby inform you that we have received approval of the Shareholders of the Company through Postal Ballot by remote e-voting, on June 24, 2026, approving reclassification of following "Promoter/ Promoter Group" to "Public Category" under Regulation 31A of SEBI (Listing Obligation and Disclosure Requirement) Regulations, 2015.”
+- Why the seller is selling, in their words: “"I am not, directly or indirectly, associated with the business of the Company and do not have any influence over the business and policy decisions made by the Company."”
+- Management changing with it: Not stated — no director or KMP change is disclosed with the reclassification; Mr. Rupinder Singh continues as Managing Director & CEO, Mr. Ashish Gupta as CFO and Ms. Mukti Chaplot as Company Secretary. The outgoing promoters confirmed they have no board representation, no nominee director and no Key Managerial Personnel in the Company.
+- Dates: other 2025-12-16; other 2026-01-30; approval 2026-02-07; other 2026-02-10; approval 2026-05-21; other 2026-05-25; completion 2026-06-24
+- In the documents: “Accordingly, I wish to reclassify myself from the 'Promoter' category to 'Public' category of shareholder of the Company.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 47.71% (2025-09-30) → 47.6% (2025-12-31) → 47.54% (2026-03-31) → 46.05% (2026-06-30) → 45.91% (2026-09-30)
 
-*Filings read for the ownership:* [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_25062026184552_Intimation_of_Shareholder_Approval.pdf) · [2026-05-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_25052026194352_Intimation-Postal_Ballot_Notice_signed.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_21052026171501_Intimation_to_Stx_for_receipt_of_NOC_for_Promoter_Reclassification.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143427_Board_meeting_outcome_intimation.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143927_Board_meeting_outcome_intimation.pdf) · [2026-02-07 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026154714_Board_meeting_outcome_intimation.pdf) · +1 more
+*Filings read for the ownership:* [2026-06-25 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_25062026184552_Intimation_of_Shareholder_Approval.pdf) · [2026-05-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_25052026194352_Intimation-Postal_Ballot_Notice_signed.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_21052026171501_Intimation_to_Stx_for_receipt_of_NOC_for_Promoter_Reclassification.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143427_Board_meeting_outcome_intimation.pdf) · [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026143927_Board_meeting_outcome_intimation.pdf) · [2026-02-07 General Updates](https://nsearchives.nseindia.com/corporate/ISFC2010_07022026154714_Board_meeting_outcome_intimation.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -13852,17 +13253,17 @@ The filing's own profile: “As part of its leadership succession, the Board has
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/INDIASHLTR.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹776.40 on 2026-01-29 (the close before) → ₹624.95 on 2026-11-13: **-19.5%**; Nifty 500 +2.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹859.65 on 2025-12-15 (the close before) → ₹624.95 on 2026-11-13: **-27.3%**; Nifty 500 +0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Mr. Anil Mehta (promoter); promoter group: Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, Crossland group companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc.** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 1.44% (Anil Mehta as on March 31, 2026); all other named members NIL → NIL as promoter — 1.44% now held in Public category.
+**Mr. Anil Mehta (Promoter) with promoter-group members Adit Mehta, Aditi Mehta, Anjali Mehta, Sanjeeva Bhargava, Shalabh Mehta, Vipula Surana, the Crossland companies, GreenCore PTE Ltd, Goldcast Inc., Biz2Credit Inc., Shoreline Labs Inc. (all nil holdings except Anil Mehta)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 1.45% (as on 30 September 2025); 1.44% as on 31 March 2026 → 1.44% — same 1,570,734 shares, now held in the Public category.
 
 ### 4. Track record — the incoming management
 
-**WestBridge Crossover Fund, LLC and Aravali Investment Holdings (continuing promoters)** (private-equity fund) — the incoming owner.
+**WestBridge Crossover Fund, LLC together with its wholly owned subsidiary Aravali Investment Holdings (continuing promoters)** (private-equity fund) — the incoming owner. Holding after: not stated for WestBridge alone; total promoter and group holding 45.91% as on 2026-09-30.
 
-What the documents say about them: “"We, WestBridge Crossover Fund, LLC, along with our wholly owned subsidiary, Aravali Investment Holdings, being promoters of the Company". WestBridge Crossover Fund, LLC is registered at Level 4, Tower A, 1 Exchange Square, Wall Street, Ebene 72201, Mauritius. The 2026-09-30 shareholding note records that "Westbridge Crossover Fund, LLC and Aravali Investment Holdings, the promoter of the Company, has furnished an undertaking to the NHB for non-disposal of its shareholding in the Company" pursuant to refinancing facilities availed from the National Housing Bank.”
+What the documents say about them: “"We, WestBridge Crossover Fund, LLC, along with our wholly owned subsidiary, Aravali Investment Holdings, being promoters of the Company" — registered at Level 4, Tower A, 1 Exchange Square, Wall Street, Ebene 72201, Mauritius. The 2026-09-30 shareholding note records that "Westbridge Crossover Fund, LLC and Aravali Investment Holdings, the promoter of the Company, has furnished an undertaking to the NHB for non-disposal of its shareholding in the Company" in connection with refinancing facilities from the National Housing Bank. WestBridge also held over 20% of Biz2Credit Inc., Shoreline Labs Inc. and Goldcast Inc. earlier, which is why those were promoter-group entities; it no longer does.”
 
 ### 5. On the calls
 
@@ -13917,7 +13318,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Pieter Elbers** — Chief Executive Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Pieter Elbers** — Chief Executive Officer, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -13945,7 +13346,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 77.5 | -34.3 | -111.8 pts |
 | Borrowings (₹ cr) | 66,810 | 77,749 | +10,939 |
 
-**Gaurav Negi** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gaurav Negi** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -13968,18 +13369,6 @@ The filing's own profile: ““Having founded and nurtured IndiGo for twenty tw
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director | InterGlobe Aviation Limited (IndiGo) | — | — |
-
-Results of **InterGlobe Aviation Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2025):
-
-| Mar 2021 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 14,641 | 80,803 | +53.3% a year over 4 years |
-| Operating profit (₹ cr) | 14.0 | 18,102 | +499.7% a year over 4 years |
-| PAT (₹ cr) | -5,806 | 7,258 | loss to profit |
-| Operating profit margin (%) | 0.1 | 22.4 | +22.3 pts |
-| ROCE (%) | -13.0 | 5.0 | +18.0 pts |
-| ROE (%) | -5,231 | 77.5 | +5308.1 pts |
-| Borrowings (₹ cr) | 29,860 | 66,810 | +36,950 |
 
 **William Walsh** — Chief Executive Officer. from: external; experience: over four decades of global aviation leadership experience.
 
@@ -14110,12 +13499,12 @@ The filing's own profile: “Mr. Maheshwari is a seasoned finance leader with ov
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Managing Director** | Salil Parekh (end of term; last day 2027-03-31) | Ashiss Kumar Dash (internal; from 2027-04-01) | announced, not yet effective | 2026-07-28 |
+| **Chief Executive Officer and Managing Director** | Salil Parekh (end of term; last day 2027-03-31) | Ashiss Kumar Dash (internal; from 2027-04-01) | announced, not yet effective | 2026-07-23 |
 
-- **Why Salil Parekh is leaving, in the filing's words:** “Salil's term comes to an end on March 31, 2027.”
-- In the documents: “And today, I am delighted to tell you that the Board has appointed his s uccessor, our new CEO, who will take over on April 1, 2027.” — [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf)
+- **Why Salil Parekh is leaving, in the filing's words:** “following the completion of Salil's second term, after over 9 years”
+- In the documents: “Further, the Board approved its intention to appoint Ashiss Kumar Dash as the Chief Executive Officer and Managing Director of the Company with effect from April 1, 2027, upon fulfilment of all statutory requirements.” — [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Infosys_23072026161911_Outcome23072026V1_1.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-10-13 Updates](https://nsearchives.nseindia.com/corporate/Infosys_13102026122634_PR_13102026.pdf) · [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · [2026-03-20 Updates](https://nsearchives.nseindia.com/corporate/Infosys_20032026152722_PR_20032026.pdf)
+*All 6 filing(s) read for the seats:* [2026-10-13 Updates](https://nsearchives.nseindia.com/corporate/Infosys_13102026122634_PR_13102026.pdf) · [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Infosys_23072026161911_Outcome23072026V1_1.pdf) · [2026-07-23 Updates](https://nsearchives.nseindia.com/corporate/Infosys_23072026164257_Outcome23072026V1_1.pdf) · [2026-03-20 Updates](https://nsearchives.nseindia.com/corporate/Infosys_20032026152722_PR_20032026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -14139,7 +13528,7 @@ The filing's own profile: “Mr. Maheshwari is a seasoned finance leader with ov
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/INFY.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹1,079.20 on 2026-07-27 (the close before) → ₹1,141.50 on 2026-11-13: **+5.8%**; Nifty 500 +2.5% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,052.10 on 2026-07-22 (the close before) → ₹1,141.50 on 2026-11-13: **+8.5%**; Nifty 500 +2.5% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -14159,13 +13548,17 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ashiss Kumar Dash** — Chief Executive Officer and Managing Director. from: internal; experience: He has worked in Infosys for 31 years..
+**Ashiss Kumar Dash** — Chief Executive Officer and Managing Director. from: internal; experience: over 3 decades of experience; qualifications: Dash is an alumnus of the Indian Institute of Technology, Kharagpur, India. He has also completed the Global Leadership Program at Stanford University and the Senior Executive Program at London Business School..
 
-The filing's own profile: “He is from Infosys. He has been somebody who is a true-blue Infoscion. He has worked in Infosys for 31 years. He has worked in every part of Infosys, be it in delivery, be it in sales, be it in account management, starting a new DC in Bhubaneswar, everything. And he is someone who I think everybody likes, respects, is an uncomplicated guy who focuses on what needs to be done. His name is Ashiss Dash. So Ashiss is based out of L.A. He has been there for some time. He will move back to India and in the next 2-3 months, he will do some CEO coaching”
+The filing's own profile: “As the Global Head for a business portfolio that comprises over twelve industry verticals, Ashiss Kumar Dash (“Dash”) is helping navigate the digital future for leading Fortune 500 and Global 2000 enterprises. A seasoned digital transformation leader with over 3 decades of experience, Dash is focused on driving transformation strategies and shaping the future of industries through the adoption of emerging technologies. Drawing from over 30 years of diverse roles and responsibilities, Dash amalgamates his varied skills into straddling delivery, operational, and financial excellence for his industry group.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Segment Head for Services Utilities Resources and Energy ('SURE') | Infosys (INFY) | — | 2026 |
+| EVP & Global Head - Services, Utilities, Resources, Energy & Enterprise Sustainability | Infosys (INFY) | — | — |
+| Chief Executive Officer Designate (“CEO Designate”) | Infosys (INFY) | 2026 | 2027 |
+| member of the Board of Directors | Infosys Public Services | — | — |
+| member of the Board of Directors | MRE Consulting LLC | — | — |
+| Trustee | Infosys Foundation USA | — | — |
 
 ### 5. On the calls
 
@@ -14311,12 +13704,12 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | Sanjeev Agarwal (resignation; last day 2026-11-13) | — not named | seat vacant — no successor named | 2026-11-14 |
+| **Chief Executive Officer** | Sanjeev Agarwal (resignation; last day 2026-11-13) | — not named | effective | 2026-11-13 |
 
-- **Why Sanjeev Agarwal is leaving, in the filing's words:** “Shri Sanjeev Agarwal has tendered his resignation from the position of Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13th November, 2026.”
-- In the documents: “Shri Sanjeev Agarwal has tendered his resignation from the position of Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13th November, 2026.” — [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip)
+- **Why Sanjeev Agarwal is leaving, in the filing's words:** “Shri Sanjeev Agarwal has tendered his resignation from the position of Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13th November, 2026.” Stays on as: Advisor providing advisory services to the Company during the transition period upto 31st December, 2026.
+- In the documents: “The Board noted the resignation tendered by Shri Sanjeev Agarwal as Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13th November, 2026.” — [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026175212_IWL_Results_FY2026_27_LR_2.pdf) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026180100_IWL_Results_FY2026_27_LR_2.pdf)
 
-*All 1 filing(s) read for the seats:* [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026175212_IWL_Results_FY2026_27_LR_2.pdf) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026180100_IWL_Results_FY2026_27_LR_2.pdf)
 
 ### 2. Financials — the last three years
 
@@ -14505,7 +13898,7 @@ The filing's own profile: “Mr. Akshit Choudhary is a Chartered Accountant with
 
 ### 3. Track record — the outgoing management
 
-**Hari Mohan Gupta** — Chairman & Managing Director (CMD), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Hari Mohan Gupta** — Chairman & Managing Director (CMD), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -14531,18 +13924,6 @@ The filing's own profile: “Shri Saleem Ahmad holds a degree in Civil Engineeri
 | Director (Project) | NBCC (India) Ltd. (NBCC) | — | — |
 | Executive Director (Civil) | Delhi Metro Rail Corporation Ltd. | — | — |
 | — | Mumbai Port Trust | — | — |
-
-Results of **Rail Vikas Nigam Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 19,923 | 20,412 | +2.5% a year over 1 year |
-| Operating profit (₹ cr) | 1,125 | 767 | -31.8% a year over 1 year |
-| PAT (₹ cr) | 1,282 | 871 | -32.1% a year over 1 year |
-| Operating profit margin (%) | 5.6 | 3.8 | -1.8 pts |
-| ROCE (%) | 11.0 | — | — |
-| ROE (%) | 13.4 | 8.9 | -4.5 pts |
-| Borrowings (₹ cr) | 5,419 | 4,818 | -601 |
 
 ### 5. On the calls
 
@@ -14600,7 +13981,7 @@ Results of **Rail Vikas Nigam Ltd.** while they were Chairman there (annual repo
 
 ### 3. Track record — the outgoing management
 
-**Sanjay Kumar Jain** — Chairman and Managing Director, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sanjay Kumar Jain** — Chairman and Managing Director, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -14703,7 +14084,7 @@ The filing's own profile: “Shri Rajneesh Narain (DIN: 09759359) has assumed th
 
 ### 3. Track record — the outgoing management
 
-**Pradip Kumar Das** — Chairman & Managing Director of IREDA, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Pradip Kumar Das** — Chairman & Managing Director of IREDA, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -14863,7 +14244,7 @@ The filing's own profile: “Ms. Deepa Kotnis, IRAS is an officer of the 1998 ba
 - **Why Rajeev Srivastava is leaving, in the filing's words:** “not stated”
 - In the documents: “This is to inform that the Board of Directors of ITI Limited in its Meeting held on 13th February 2026, appointed Shri Prasad Barre (General Manager- Corporate Finance) as the Chief Financial Officer and Key Managerial Personnel of the Company in place of Shri Rajeev Srivastava.” — [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_13022026155254_SE_Intimation_CFO_Appointment_Signed.pdf)
 - **Why Prasad Barre is leaving, in the filing's words:** “Shri Prasad Barre., General Manager -Corporate Finance & Chief Financial Officer, has tendered his resignation on personal grounds.”
-- In the documents: “Accordingly, He was relieved from the services of the Company with effect from the close of business hours on April 30, 2026, and consequently will cease to be a Key Managerial Personnel of the Company.” — [2026-10-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_15102026120847_Signed_DF_Ext_.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · +1 more
+- In the documents: “Accordingly, He was relieved from the services of the Company with effect from the close of business hours on April 30, 2026, and consequently will cease to be a Key Managerial Personnel of the Company.” — [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +1 more
 
 *All 10 filing(s) read for the seats:* [2026-11-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ITI_04112026183149_SE_AGM_Proceedings_Signed.pdf) · [2026-10-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_15102026120847_Signed_DF_Ext_.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_28052026215658_DrHr_addtl_charge.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +4 more
 
@@ -14893,9 +14274,9 @@ The filing's own profile: “Ms. Deepa Kotnis, IRAS is an officer of the 1998 ba
 
 ### 3. Track record — the outgoing management
 
-**Rajeev Srivastava** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Rajeev Srivastava** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -15085,18 +14466,6 @@ The filing's own profile: “Mr. Vidya Rattan Sharma holds a Degree in Mechanica
 | Joint Managing Director and Executive Director | Bhushan Power & Steel | — | — |
 | Executive Director | Ispat Industries | — | — |
 
-Results of **Jindal Steel Ltd.** while they were Managing Director there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 37,923 | 34,579 | -8.8% a year over 1 year |
-| Operating profit (₹ cr) | 6,831 | 13,107 | +91.9% a year over 1 year |
-| PAT (₹ cr) | -400 | 4,267 | loss to profit |
-| Operating profit margin (%) | 18.0 | 37.9 | +19.9 pts |
-| ROCE (%) | 5.0 | 17.0 | +12.0 pts |
-| ROE (%) | -1.2 | 13.4 | +14.6 pts |
-| Borrowings (₹ cr) | 36,824 | 29,910 | -6,914 |
-
 **Sandeep Modi** — Chief Financial Officer of the Company. from: external; experience: nearly two decades of experience across the metal s, mining, and power sectors; qualifications: He is a Chartered Accountant.
 
 The filing's own profile: “He is a seasoned finance leader with nearly two decades of experience across the metal s, mining, and power sectors. He brings deep expertise in strategic finance, capital management, treasury, investor relations, M&A, governance and business transformation. He is a Chartered Accountant and has over two decades of experience with the Vedanta Group, partnering with business leadership teams to drive financial performance, capital allocation, value creation and enterprise -wide transformation across large, complex organisations. In his last role, he served as CFO of Hindustan Zinc Limited and was responsible for finance, commercial, sales & marketing, legal, strategy and IT”
@@ -15140,12 +14509,12 @@ The filing's own profile: “He is a seasoned finance leader with nearly two dec
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Financial Officer and Key Managerial Personnel ("KMP")** | Abhishek Haridas Pathak (moved to another role in the company or group; last day 2026-04-20) | Annapoorna Venkataramanan (external; from 2026-05-11) | effective | 2026-04-17 |
+| **Group Chief Financial Officer and Key Managerial Personnel (“KMP”)** | Abhishek Haridas Pathak (moved to another role in the company or group; last day 2026-04-20) | Annapoorna Venkataramanan (external; from 2026-05-11) | effective | 2026-04-17 |
 
 - **Why Abhishek Haridas Pathak is leaving, in the filing's words:** “Transition to a strategic role in Reliance Industries Limited” Stays on as: a strategic role in Reliance Industries Limited.
-- In the documents: “Approved the appointment of Ms. Annapoorna Venkataramanan as a Group Chief Financial Officer and KMP of the Company, effective May 11, 2026, based on the recommendations of the Nomination and Remuneration Committee and Audit Committee.” — [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf)
+- In the documents: “Approved the appointment of Ms. Annapoorna Venkataramanan as a Group Chief Financial Officer and KMP of the Company, effective May 11, 2026, based on the recommendations of the Nomination and Remuneration Committee and Audit Committee.” — [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026181843_JFSLoutcome.pdf) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf) · +1 more
 
-*All 2 filing(s) read for the seats:* [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf)
+*All 4 filing(s) read for the seats:* [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JIOFIN_ROID_82694_KMP_Doc.zip) · [2026-04-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026181843_JFSLoutcome.pdf) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026185840_Outcome_of_Board_Meeting.pdf) · [2026-04-17 General Updates](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_17042026190105_Outcome_of_Board_Meeting.pdf)
 
 ### 2. Financials — the last three years
 
@@ -15173,7 +14542,7 @@ The filing's own profile: “He is a seasoned finance leader with nearly two dec
 
 ### 3. Track record — the outgoing management
 
-**Abhishek Haridas Pathak** — Group Chief Financial Officer and Key Managerial Personnel ("KMP"), date of taking the seat not on file.
+**Abhishek Haridas Pathak** — Group Chief Financial Officer and Key Managerial Personnel (“KMP”), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 3 fiscal years:
 
@@ -15193,9 +14562,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “The documents describe them only as promoters of the company making acquisitions: "Jamnagar Utilities & Power Private Limited (promoter) · Acquisition via Others" and "Sikka Ports & Terminals Limited (promoter) · Acquisition via Preferential Allotment". No further detail on business, size or other holdings is stated.”
 
-**Annapoorna Venkataramanan** — Group Chief Financial Officer and Key Managerial Personnel ("KMP"). from: external; experience: over 25 years of experience in Finance, Treasury and Global Markets; qualifications: She is a Chartered Accountant (All India Rank 1), Chartered Financial Analyst, and an alumnus of Harvard Business School..
+**Annapoorna Venkataramanan** — Group Chief Financial Officer and Key Managerial Personnel (“KMP”). from: external; experience: over 25 years of experience in Finance, Treasury and Global Markets; qualifications: She is a Chartered Accountant (All India Rank 1), Chartered Financial Analyst, and an alumnus of Harvard Business School..
 
-The filing's own profile: “Ms. Annapoorna Venkataramanan is an accomplished Finance Leader with over 25 years of experience in Finance, Treasury and Global Markets in manufacturing and financial services industry. Her experience spans across Project Finance, Global Treasury Centres, Enterprise-wide and Market Risk management, Mega Insurance programmes, Capex expansion oversight, International corridor management among others. Ms. Annapoorna has also spearheaded extraordinarily complex treasury process-cum-digital transformations for central treasury structures and led trade-to-FX digital product suite from concept to execution. Her most recent role was as Chief Treasury, Risk, Insurance and Capex Investments at ArcelorMittal Nippon Steel India (AMNS).”
+The filing's own profile: “Ms. Annapoorna Venkataramanan is an accomplished Finance Leader with over 25 years of experience in Finance, Treasury and Global Markets in manufacturing and financial services industry. Her experience spans across Project Finance, Global Treasury Centres, Enterprise-wide and Market Risk management, Mega Insurance programmes, Capex expansion oversight, International corridor management among others. Ms. Annapoorna has also spearheaded extraordinarily complex treasury process-cum-digital transformations for central treasury structures and led trade-to-FX digital product suite from concept to execution. Her most recent role was as Chief Treasury, Risk, Insurance and Capex Investments at ArcelorMittal Nippon Steel India (AMNS). Prior to AMNS, Ms. Annapoorna was Managing Director & Sales Head, South Asia Financial Markets at Standard Chartered Bank (SCB)”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -15278,7 +14647,7 @@ Nothing about the change in the calls on file for the window.
 |---|---|---|---|---|
 | **Chief Financial Officer** | Sivasis Sen (resignation; last day 2026-05-31) | Harshad Purani (from 2026-07-31) | effective | 2026-05-18 |
 
-- **Why Sivasis Sen is leaving, in the filing's words:** “I regret to inform you that I am resigning from the position of the Chief Financial Officer of Jupiter Life Line Hospitals Limited. The reasons behind this decision are purely personal in nature.”
+- **Why Sivasis Sen is leaving, in the filing's words:** “I regret to inform you that I am resigning from the position of the Chief Financial Officer of fupiter Life Line Hospitals Limited. The reasons behind this decision are purely personal in nature.”
 - In the documents: “Pursuant to the provisions of Regulation 30 read with Schedule III of the Listing Regulation, this is to inform you that Mr . Sivasis Sen has tendered his resignation as the Chief Financial Officer of the Company due to p ersonal commitments .” — [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026165938_Board_outcome_31-07-2026.pdf) · [2026-07-31 Appointment](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170122_Board_outcome_31-07-2026.pdf) · [2026-07-31 Adoption of new line(s) of busine…](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170658_Board_outcome_31-07-2026.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026165938_Board_outcome_31-07-2026.pdf) · [2026-07-31 Appointment](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170122_Board_outcome_31-07-2026.pdf) · [2026-07-31 Adoption of new line(s) of busine…](https://nsearchives.nseindia.com/corporate/JUPITER2023_31072026170658_Board_outcome_31-07-2026.pdf) · [2026-06-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/JUPITER2023_22062026133013_JLHL_24_AGM_NOTICE.pdf) · [2026-05-18 Resignation](https://nsearchives.nseindia.com/corporate/JUPITER2023_18052026151546_JLHL_Resignation_Sivasis_Sen.pdf)
@@ -15309,7 +14678,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Sivasis Sen** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Sivasis Sen** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -15327,17 +14696,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Harshad Purani** — Chief Financial Officer.
 
-Results of **Jupiter Life Line Hospitals Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 893 | 1,302 | +20.7% a year over 2 years |
-| Operating profit (₹ cr) | 201 | 303 | +22.8% a year over 2 years |
-| PAT (₹ cr) | 73.0 | 194 | +63.0% a year over 2 years |
-| Operating profit margin (%) | 22.5 | 23.3 | +0.8 pts |
-| ROCE (%) | 22.0 | 15.0 | -7.0 pts |
-| ROE (%) | 19.9 | 14.3 | -5.6 pts |
-| Borrowings (₹ cr) | 469 | 393 | -76 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 
@@ -15381,15 +14740,15 @@ Results of **Jupiter Life Line Hospitals Ltd.** while they were CFO there (annua
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Managing Director & CEO)** | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 |
+| **Managing Director & CEO** | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 |
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | R. K. Porwal (retirement; last day 2026-09-30) | Jigar Dalal (from 2026-11-01) | effective | 2026-09-30 |
 
 - **Why Suren Jain is leaving, in the filing's words:** “Change in Management”
 - In the documents: “Resignation of Shri Suren Jain (DIN: 00011026) as the Director (Managing Director & CEO) of the Company, vide his Resignation Letter dated 22nd May, 2026, with immediate effect.” — [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf)
 - **Why R. K. Porwal is leaving, in the filing's words:** “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.”
-- In the documents: “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.” — [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf)
+- In the documents: “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.” — [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf) · [2026-07-06 Resignation](https://nsearchives.nseindia.com/corporate/JPPOWER_06072026152143_Disclosure-Resignation_of_Sh_Manoj_Gaur.pdf) · [2026-07-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_91169_KMP_Doc.zip) · [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · +1 more
+*All 8 filing(s) read for the seats:* [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf) · [2026-07-06 Resignation](https://nsearchives.nseindia.com/corporate/JPPOWER_06072026152143_Disclosure-Resignation_of_Sh_Manoj_Gaur.pdf) · [2026-07-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_91169_KMP_Doc.zip) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -15419,7 +14778,7 @@ Results of **Jupiter Life Line Hospitals Ltd.** while they were CFO there (annua
 
 **Jaiprakash Associates Limited (JAL)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 24% → 0%.
 
-**Suren Jain** — Director (Managing Director & CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Suren Jain** — Managing Director & CEO, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -15727,7 +15086,7 @@ What the documents say about them: “Described only as "JSW Paints Limited (‘
 - **Why Pritesh Vinay is leaving, in the filing's words:** “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company”
 - In the documents: “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company, Mr. Chandrasekaran Prabhakaran has been appointed as the Chief Financial Officer and a Key Managerial Personnel of the Company with effect from 1st January, 2026.” — [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025142815_StockExchage_Intimation.pdf) · [2025-12-12 Issue of Securities](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143419_StockExchage_Intimation.pdf) · [2025-12-12 Preferential issue](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143733_StockExchage_Intimation.pdf) · +1 more
 
-*All 11 filing(s) read for the seats:* [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153953_Outcome.pdf) · [2026-01-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026174724_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2026-01-03 Preferential issue](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026175624_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2026-01-03 Issue of Securities](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026180158_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025142815_StockExchage_Intimation.pdf) · [2025-12-12 Issue of Securities](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143419_StockExchage_Intimation.pdf) · +5 more
+*All 14 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026151509_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026152656_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153404_Outcome.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153953_Outcome.pdf) · [2026-01-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026174724_NSEBSEOutcomeofEGM03012026Sd.pdf) · [2026-01-03 Preferential issue](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_03012026175624_NSEBSEOutcomeofEGM03012026Sd.pdf) · +8 more
 
 ### 2. Financials — the last three years
 
@@ -15773,14 +15132,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Chandrasekaran Prabhakaran** — Chief Financial Officer and a Key Managerial Personnel of the Company. from: group company; age 50; experience: over 26 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
+**Chandrasekaran Prabhakaran** — Chief Financial Officer and a Key Managerial Personnel of the Company. from: group company; age 50 years; experience: over 26 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
 
-The filing's own profile: “Mr. Prabhakaran, aged 50 years, is a seasoned finance leader and a qualified Chartered Accountant and Cost Accountant with over 26 years of in-depth experience in corporate finance, accounting, and governance across large listed conglomerates. He currently serves as the Deputy Chief Financial Officer at JSW Steel Limited, having been associated with the JSW Group since November 2014. He brings strong expertise in Ind AS/IFRS financial reporting, statutory compliance, internal controls, audit management, and SEBI listing and disclosure requirements. He has previously held several senior leadership roles in prominent Indian and global organizations.”
+The filing's own profile: “Mr. Prabhakaran, aged 50 years, is a seasoned finance leader and a qualified Chartered Accountant and Cost Accountant with over 26 years of in-depth experience in corporate finance, accounting, and governance across large listed conglomerates. He currently serves as the Deputy Chief Financial Officer at JSW Steel Limited, having been associated with the JSW Group since November 2014. He brings strong expertise in Ind AS/IFRS financial reporting, statutory compliance, internal controls, audit management, and SEBI listing and disclosure requirements.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Deputy Chief Financial Officer | JSW Steel Limited (JSWSTEEL) | — | — |
-| associated with the JSW Group since November 2014 | JSW Group | 2014 | — |
+| associated with the JSW Group | JSW Group | 2014 | — |
 
 ### 5. On the calls
 
@@ -16070,9 +15429,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 20.7 | 9.0 | -11.7 pts |
 | Borrowings (₹ cr) | 4.0 | 85.0 | +81 |
 
-**Abhishek Bansal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Abhishek Bansal** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2024 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -16113,158 +15472,6 @@ The filing's own profile: “Dinesh Taluja has completed his B. Tech. from IIT D
 ### 5. On the calls
 
 Nothing about the change in the calls on file for the window.
-
----
-
-## JWL — Jupiter Wagons Ltd.
-
-**CFO change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Chief Financial Officer** | — (new seat) | Vinod Kumar Agrawal | effective | — |
-
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “We are also pleased to welcome Mr. Vinod Kumar Agrawal as our Chief Financial Officer and a key managerial personnel.”
-
-*All 0 filing(s) read for the seats:* 
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 3,644 | 3,963 | 2,916 |
-| Sales growth (%) | 76.2 | 8.8 | -26.4 |
-| Operating profit (₹ cr) | 487 | 566 | 354 |
-| Operating profit margin (%) | 13.4 | 14.3 | 12.1 |
-| PAT (₹ cr) | 331 | 380 | 166 |
-| PAT growth (%) | 174 | 14.8 | -56.3 |
-| PAT margin (%) | 9.1 | 9.6 | 5.7 |
-| EPS (₹) | 8.0 | 9.0 | 4.0 |
-| Cash from operations (₹ cr) | -19.0 | 104 | 9.0 |
-| Free cash flow (₹ cr) | -143 | -403 | -524 |
-| ROCE (%) | 21.0 | 9.0 | — |
-| ROE (%) | 20.5 | 13.8 | 5.6 |
-| Borrowings (₹ cr) | 349 | 502 | 996 |
-| Debt / equity (x) | 0.2 | 0.2 | 0.3 |
-| Working-capital days | 44.0 | 62.0 | 114 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/JWL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-### 3. Track record — the outgoing management
-
-No outgoing person or owner is named (a new seat, or the documents do not say).
-
-### 4. Track record — the incoming management
-
-**Vinod Kumar Agrawal** — Chief Financial Officer.
-
-The filing's own profile: “His financial expertise and strategic insight will further strengthen our leadership team as we enter the next phase of growth.”
-
-### 5. On the calls
-
-1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 1 |
-
-*Every passage in full: [companies/JWL.md](companies/JWL.md).*
-
----
-
-## KAJARIACER — Kajaria Ceramics Ltd.
-
-**CEO / MD change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Managing Director of the Company** | Ashok Kajaria (moved to another role in the company or group; last day 2025-09-30) | Rishi Kajaria (promoter family; from 2025-10-01) | effective | 2025-12-16 |
-
-- **Why Ashok Kajaria is leaving, in the filing's words:** “The Members of the Company, through the postal ballot, have approved re-designation and appointment of Mr. Ashok Kajaria as the Chairman of the Company” Stays on as: Chairman of the Company (w.e.f. October 1, 2025 upto September 30, 2030).
-- In the documents: “The Members of the Company, through the postal ballot, have approved re-designation and appointment of Mr. Rishi Kajaria as the Managing Director of the Company for a period of five consecutive years effective from October 1, 2025 upto September 30, 2030.” — [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170557_Results.pdf) · [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170914_Results.pdf) · [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170931_Results.pdf)
-
-*All 4 filing(s) read for the seats:* [2026-09-02 Agreements](https://nsearchives.nseindia.com/corporate/KAJARIACER_02092026165754_Disclosure_SHA.pdf) · [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170557_Results.pdf) · [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170914_Results.pdf) · [2025-12-16 Appointment](https://nsearchives.nseindia.com/corporate/KAJARIACER_16122025170931_Results.pdf)
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 4,474 | 4,635 | 4,830 |
-| Sales growth (%) | 2.1 | 3.6 | 4.2 |
-| Operating profit (₹ cr) | 706 | 636 | 865 |
-| Operating profit margin (%) | 15.8 | 13.7 | 17.9 |
-| PAT (₹ cr) | 432 | 300 | 487 |
-| PAT growth (%) | 24.9 | -30.6 | 62.3 |
-| PAT margin (%) | 9.7 | 6.5 | 10.1 |
-| EPS (₹) | 26.5 | 18.5 | 30.5 |
-| Cash from operations (₹ cr) | 602 | 501 | 664 |
-| Free cash flow (₹ cr) | 323 | 305 | 563 |
-| ROCE (%) | 21.0 | 17.0 | 23.0 |
-| ROE (%) | 16.5 | 10.9 | 15.9 |
-| Borrowings (₹ cr) | 239 | 274 | 229 |
-| Debt / equity (x) | 0.1 | 0.1 | 0.1 |
-| Working-capital days | 47.0 | 42.0 | 42.0 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/KAJARIACER.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-**Share price since the announcement:** ₹1,098.30 on 2025-12-15 (the close before) → ₹1,201.90 on 2026-11-13: **+9.4%**; Nifty 500 +0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
-
-### 3. Track record — the outgoing management
-
-**Ashok Kajaria** — Managing Director of the Company, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,808 | 4,635 | +10.5% a year over 5 years |
-| Operating profit (₹ cr) | 417 | 636 | +8.8% a year over 5 years |
-| PAT (₹ cr) | 254 | 300 | +3.4% a year over 5 years |
-| Operating profit margin (%) | 14.9 | 13.7 | -1.2 pts |
-| ROCE (%) | 18.0 | 17.0 | -1.0 pts |
-| ROE (%) | 14.8 | 10.9 | -3.9 pts |
-| Borrowings (₹ cr) | 166 | 274 | +108 |
-
-### 4. Track record — the incoming management
-
-**Rishi Kajaria** — Managing Director of the Company. from: promoter family; qualifications: B.Sc. in Business Administration from Boston University, U.S.A..
-
-The filing's own profile: “Mr. Rishi Kajaria holds a B.Sc. in Business Administration from Boston University, U.S.A. He joined Kajaria Ceramics in the year 2003 and spearheads the vitrified tile vertical. Initially, he opted for trading vitrified tiles rather than joining the race of setting up capacities. After importing vitrified tiles for five years, he decided to manufacture them domestically. The first production unit for vitrified tile was started in Sikandrabad in 2010. Subsequently, Kajaria Ceramics commissioned a big expansion of vitrified tiles at Gailpur in 2011. Presently, he is the Chairman of the Indian Council of Ceramic Tiles and Sanitaryware. He is also a member of the Promoter Group of the Company.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| spearheads the vitrified tile vertical | Kajaria Ceramics Limited (KAJARIACER) | 2003 | — |
-| Chairman | Indian Council of Ceramic Tiles and Sanitaryware | — | — |
-
-Results of **Kajaria Ceramics Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2025):
-
-| Mar 2022 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,705 | 4,635 | +7.8% a year over 3 years |
-| Operating profit (₹ cr) | 612 | 636 | +1.3% a year over 3 years |
-| PAT (₹ cr) | 383 | 300 | -7.8% a year over 3 years |
-| Operating profit margin (%) | 16.5 | 13.7 | -2.8 pts |
-| ROCE (%) | 24.0 | 17.0 | -7.0 pts |
-| ROE (%) | 18.0 | 10.9 | -7.1 pts |
-| Borrowings (₹ cr) | 165 | 274 | +109 |
-
-### 5. On the calls
-
-4 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Oct 2025 | the seat | 1 |
-| Dec 2025 | the seat | 1 |
-| Feb 2026 | the seat | 1 |
-| May 2026 | the seat | 1 |
-
-*Every passage in full: [companies/KAJARIACER.md](companies/KAJARIACER.md).*
 
 ---
 
@@ -16466,17 +15673,6 @@ The filing's own profile: “Mr Aman Kirloskar (31 years), graduated in Business
 | Associate Vice President of Air Conditioning and Refrigeration Business (ACR SBU) / Head of the Air Conditioning and Refrigeration business unit | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2023 | — |
 | Vice President - ACR SBU | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2024 | 2026 |
 
-Results of **Kirloskar Pneumatic Company Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,640 | 1,787 | +9.0% a year over 1 year |
-| Operating profit (₹ cr) | 294 | 360 | +22.4% a year over 1 year |
-| PAT (₹ cr) | 211 | 254 | +20.4% a year over 1 year |
-| Operating profit margin (%) | 17.9 | 20.1 | +2.2 pts |
-| ROE (%) | 19.3 | 20.3 | +1.0 pts |
-| Borrowings (₹ cr) | 11.0 | 3.0 | -8 |
-
 ### 5. On the calls
 
 1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -16501,6 +15697,7 @@ Results of **Kirloskar Pneumatic Company Ltd.** while they were Managing Directo
 
 - **Why Ashok Vaswani is leaving, in the filing's words:** “for personal reasons, he does not wish to seek re-appointment upon completion of his current term on December 31, 2026”
 - In the documents: “We wish to inform you that Mr. Ashok Vaswani, Managing Director & CEO of the Bank, has informed the Board of the Bank that, for personal reasons, he does not wish to seek re-appointment upon completion of his current term on December 31, 2026.” — [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KOTAKBANK_ROID_98287_KMP_Doc.zip) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 11 filing(s) read for the seats:* [2026-11-16 Shareholders meeting](https://nsearchives.nseindia.in/corporate/KMBLOMKAR_16112026152623_PostalBallotNoticeSEIntimation16112026.pdf) · [2026-10-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/KMBLTAB_24102026154235_OutcomeofBM24102026MDIDSIGNED.pdf) · [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KOTAKBANK_ROID_98287_KMP_Doc.zip) · [2026-06-27 General Updates](https://nsearchives.nseindia.com/corporate/KOTAK_27062026150020_AV27062026.pdf) · +5 more
 
@@ -16580,15 +15777,15 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Salim Yahoo (resignation; last day 2026-09-02) | — not named | seat vacant — no successor named | 2026-09-02 |
-| **Group Chief Executive Officer** | Alok Das (resignation; last day 2026-10-01) | — not named | effective | 2026-10-01 |
+| **Group Chief Executive Officer** | Alok Das (resignation; last day 2026-10-01) | — not named | seat vacant — no successor named | 2026-10-01 |
+| **Chief Financial Officer & Key Managerial Personnel of the Company designated as Group Chief Financial Officer (KP Group)** | Salim Yahoo (resignation; last day 2026-09-02) | Kapil Kriplani (from 2026-08-11) | effective | 2026-08-11 |
 
-- **Why Salim Yahoo is leaving, in the filing's words:** “not stated”
-- In the documents: “Accordingly, after close of business hours on September, 2, 2026, Mr. Salim Yahoo shall cease to be CFO & KMP of the Company.” — [2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_02092026155452_KPI_Intimation_Resignation_of_CFO_02092026_Signed.pdf)
 - **Why Alok Das is leaving, in the filing's words:** “Due to personal reason”
-- In the documents: “we wish to inform you that Dr. Alok Das , has tendered his resignation from the position of Group Chief Executive Officer of the Company, with effect from the close of business hours on October 1, 2026 .” — [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_01102026185211_40_KPI_Reg_30_Resignation_Alok_Das_To_Exchange_Signed.pdf) · [2026-10-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KPIGREEN_ROID_99653_KMP_Doc.zip)
+- In the documents: “Dr. Alok Das, has tendered his resignation from the position of Group Chief Executive Officer of the Company, with effect from the close of business hours on October 1, 2026.” — [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_01102026185211_40_KPI_Reg_30_Resignation_Alok_Das_To_Exchange_Signed.pdf) · [2026-10-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KPIGREEN_ROID_99653_KMP_Doc.zip)
+- **Why Salim Yahoo is leaving, in the filing's words:** “not stated”
+- In the documents: “Upon recommendation of Nomination and Remuneration Committee and Audit Committee, approved appointment of Mr. Kapil Kriplani as Chief Financial Officer & Key Managerial Personnel of the Company designated as Group Chief Financial Officer (KP Group) with effect from August 11, 2026.” — [2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_02092026155452_KPI_Intimation_Resignation_of_CFO_02092026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_11082026111839_KPI_Outcome_of_BM_11082026_to_Exchange_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_11082026114640_KPI_Outcome_of_BM_11082026_to_Exchange_Signed.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_01102026185211_40_KPI_Reg_30_Resignation_Alok_Das_To_Exchange_Signed.pdf) · [2026-10-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KPIGREEN_ROID_99653_KMP_Doc.zip) · [2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_02092026155452_KPI_Intimation_Resignation_of_CFO_02092026_Signed.pdf)
+*All 5 filing(s) read for the seats:* [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_01102026185211_40_KPI_Reg_30_Resignation_Alok_Das_To_Exchange_Signed.pdf) · [2026-10-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KPIGREEN_ROID_99653_KMP_Doc.zip) · [2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_02092026155452_KPI_Intimation_Resignation_of_CFO_02092026_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_11082026111839_KPI_Outcome_of_BM_11082026_to_Exchange_Signed.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_11082026114640_KPI_Outcome_of_BM_11082026_to_Exchange_Signed.pdf)
 
 ### 2. Financials — the last three years
 
@@ -16612,23 +15809,9 @@ Nothing about the change in the calls on file for the window.
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/KPIGREEN.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹307.80 on 2026-09-01 (the close before) → ₹321.00 on 2026-11-13: **+4.3%**; Nifty 500 +1.7% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹369.25 on 2026-08-10 (the close before) → ₹321.00 on 2026-11-13: **-13.1%**; Nifty 500 -0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
-
-**Salim Yahoo** — Chief Financial Officer (CFO), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2022 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 230 | 2,696 | +85.0% a year over 4 years |
-| Operating profit (₹ cr) | 109 | 958 | +72.2% a year over 4 years |
-| PAT (₹ cr) | 43.0 | 509 | +85.5% a year over 4 years |
-| Operating profit margin (%) | 47.4 | 35.5 | -11.9 pts |
-| ROCE (%) | 25.0 | — | — |
-| ROE (%) | 27.9 | 16.8 | -11.1 pts |
-| Borrowings (₹ cr) | 446 | 5,197 | +4,751 |
 
 **Alok Das** — Group Chief Executive Officer, date of taking the seat not on file.
 
@@ -16644,9 +15827,25 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 18.3 | 16.8 | -1.5 pts |
 | Borrowings (₹ cr) | 240 | 5,197 | +4,957 |
 
+**Salim Yahoo** — Chief Financial Officer & Key Managerial Personnel of the Company designated as Group Chief Financial Officer (KP Group), in the seat since FY2023 per the annual reports on file.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2022 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 230 | 2,696 | +85.0% a year over 4 years |
+| Operating profit (₹ cr) | 109 | 958 | +72.2% a year over 4 years |
+| PAT (₹ cr) | 43.0 | 509 | +85.5% a year over 4 years |
+| Operating profit margin (%) | 47.4 | 35.5 | -11.9 pts |
+| ROCE (%) | 25.0 | — | — |
+| ROE (%) | 27.9 | 16.8 | -11.1 pts |
+| Borrowings (₹ cr) | 446 | 5,197 | +4,751 |
+
 ### 4. Track record — the incoming management
 
-No successor or new owner is named yet.
+**Kapil Kriplani** — Chief Financial Officer & Key Managerial Personnel of the Company designated as Group Chief Financial Officer (KP Group).
+
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 
@@ -16739,21 +15938,22 @@ The filing's own profile: “Mr. Amit Uplenchwar holds a Bachelor of Engineering
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Promoter and co-founder S. B. (Ravi) Pandit died on 8 May 2026. His shares and his interest in Proficient Finstock LLP (which holds 32.41% of KPIT) were transmitted to his wife Nirmala Shashishekhar Pandit, who now holds 12,69,306 shares and became the company's significant beneficial owner. Separately, two early founders holding 0.82% were reclassified as public.
+**Ownership — Within the promoter family / group.** Co-founder promoter Shashishekhar Balkrishna Pandit (S. B. Ravi Pandit) died on 8 May 2026; his shares and his interest in promoter vehicle Proficient Finstock LLP were transmitted to his wife Nirmala Shashishekhar Pandit, who now holds 12,69,306 shares and became the company's significant beneficial owner. Separately, two early founders holding 0.82% were reclassified from promoter to public.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Late Shashishekhar Balkrishna Pandit (Mr. S. B. (Ravi) Pandit) | founder family | 0.38% (10,30,306 shares) directly, plus interest in Proficient Finstock LLP which holds 32.41% | nil after transmission (shares reflected in his name until transmission completed) |
-| Incoming | Nirmala Shashishekhar Pandit | founder family member | — | 12,69,306 equity shares (she held 0.09% / 2,39,000 shares before), plus transmitted interest in Proficient Finstock LLP (32.41% holder); became SBO of the Company w.e.f. 8 May 2026 |
+| Outgoing | Shashishekhar Balkrishna Pandit (Mr. S. B. (Ravi) Pandit), promoter and co-founder (deceased); also Ajay Shridhar Bhagwat and Ashwini Ajay Bhagwat, reclassified out of the promoter category | founder family | Shashishekhar Balkrishna Pandit 0.38% (10,30,306 shares) direct plus interest in Proficient Finstock LLP (32.41%); Ajay Bhagwat 0.80% and Ashwini Bhagwat 0.02%, total 0.82% | Shashishekhar Pandit nil after transmission; Bhagwats' 0.82% moved from promoter to public category |
+| Incoming | Nirmala Shashishekhar Pandit | founder family member | — | 12,69,306 equity shares (approx. 0.46%) directly, plus the transmitted interest in Proficient Finstock LLP which holds 32.41%; promoter and group total 38.6% as on 2026-09-30 |
 
 - mode: gift or inheritance · control does not change
-- Management changing with it: Not linked to the transmission. Separately, on 29 January 2026 the Board appointed Mr. Parag Shah (DIN 00374944) as Additional & Independent Director w.e.f. 29 January 2026 and Mr. Anup Sable as Chief Operating Officer and Key Managerial Personnel with immediate effect. The two outgoing promoters (Ajay and Ashwini Bhagwat) "have not been members of the Board of KPIT for the past 10 years."
-- Dates: other 2026-01-17; approval 2026-01-29; other 2026-02-02; approval 2026-04-29; other 2026-05-08; completion 2026-09-30
+- Why the seller is selling, in their words: “"Outgoing Promoters were among the early founders of KPIT Technologies Limited. However, over the last two decades, they have not been associated with the day-to-day operations of the Company." (Bhagwats); Pandit transmission: "Due to the unfortunate demise"”
+- Management changing with it: Nothing in the documents links board or management change to the ownership change. Separately, on 2026-01-29 the Board appointed Mr. Parag Shah as Additional & Independent Director and Mr. Anup Sable as Chief Operating Officer and Key Managerial Personnel. On the Bhagwat reclassification the Board recorded it "will not have any impact on the Company's governance, management, or control"; the Bhagwats had "not been members of the Board of KPIT for the past 10 years."
+- Dates: other 2026-01-17; other 2026-01-29; other 2026-02-02; approval 2026-04-29; other 2026-05-08; completion 2026-09-30
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 39.44% (2025-09-30) → 39.42% (2025-12-31) → 39.42% (2026-03-31) → 38.6% (2026-06-30) → 38.6% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.02% and bought 0.81%.
 
-*Filings read for the ownership:* [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/MeghanaPhadnis_30042026103612_KPIT_ReclassAppln_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_02022026222621_KPIT_ReclassApplnSigned.pdf) · [2026-01-29 Appointment](https://nsearchives.nseindia.com/corporate/KPITTECH_29012026130743_BM_Outcome.pdf) · [2026-01-29 Change in Management](https://nsearchives.nseindia.com/corporate/KPITTECH_29012026131607_BM_Outcome.pdf) · [2026-01-18 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_18012026134704_CompanyUpdate_Signed.pdf) · [2026-01-17 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_17012026190458_AnnouncementAjayB_Signed.pdf)
+*Filings read for the ownership:* [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/MeghanaPhadnis_30042026103612_KPIT_ReclassAppln_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_02022026222621_KPIT_ReclassApplnSigned.pdf) · [2026-01-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KPITTECH_29012026122701_NSE_Full__File.pdf) · [2026-01-29 Appointment](https://nsearchives.nseindia.com/corporate/KPITTECH_29012026130743_BM_Outcome.pdf) · [2026-01-29 Change in Management](https://nsearchives.nseindia.com/corporate/KPITTECH_29012026131607_BM_Outcome.pdf) · [2026-01-18 General Updates](https://nsearchives.nseindia.com/corporate/KPITTECH_18012026134704_CompanyUpdate_Signed.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -16781,13 +15981,13 @@ The filing's own profile: “Mr. Amit Uplenchwar holds a Bachelor of Engineering
 
 ### 3. Track record — the outgoing management
 
-**Late Shashishekhar Balkrishna Pandit (Mr. S. B. (Ravi) Pandit)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 0.38% (10,30,306 shares) directly, plus interest in Proficient Finstock LLP which holds 32.41% → nil after transmission (shares reflected in his name until transmission completed).
+**Shashishekhar Balkrishna Pandit (Mr. S. B. (Ravi) Pandit), promoter and co-founder (deceased); also Ajay Shridhar Bhagwat and Ashwini Ajay Bhagwat, reclassified out of the promoter category** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Shashishekhar Balkrishna Pandit 0.38% (10,30,306 shares) direct plus interest in Proficient Finstock LLP (32.41%); Ajay Bhagwat 0.80% and Ashwini Bhagwat 0.02%, total 0.82% → Shashishekhar Pandit nil after transmission; Bhagwats' 0.82% moved from promoter to public category.
 
 ### 4. Track record — the incoming management
 
-**Nirmala Shashishekhar Pandit** (founder family member) — the incoming owner. Holding after: 12,69,306 equity shares (she held 0.09% / 2,39,000 shares before), plus transmitted interest in Proficient Finstock LLP (32.41% holder); became SBO of the Company w.e.f. 8 May 2026.
+**Nirmala Shashishekhar Pandit** (founder family member) — the incoming owner. Holding after: 12,69,306 equity shares (approx. 0.46%) directly, plus the transmitted interest in Proficient Finstock LLP which holds 32.41%; promoter and group total 38.6% as on 2026-09-30.
 
-What the documents say about them: “Named in the promoter and promoter group list as Nirmala Shashishekhar Pandit, holding 2,39,000 shares (0.09%) as on 31 December 2025; spouse of late promoter Shashishekhar Balkrishna Pandit. After the transmission "she now holds 12,69,306 equity shares and became the SBO of the Company with effect from 8 May 2026." No other details given.”
+What the documents say about them: “Nirmala Shashishekhar Pandit was already a member of the promoter group, holding 2,39,000 shares (0.09%) as on 31 December 2025. Following the demise of Shashishekhar Balkrishna Pandit, "his shareholding in the Company and interest in Proficient Finstock LLP were transmitted to Nirmala Shashishekhar Pandit. Accordingly, she now holds 12,69,306 equity shares and became the SBO of the Company with effect from 8 May 2026." No other information about her is stated.”
 
 ### 5. On the calls
 
@@ -16855,9 +16055,9 @@ Nothing about the change in the calls on file for the window.
 
 **Santosh Kumar Yadav, Anju Devi, Manohar Lal and members of promoter group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 70.79% (2026-03-31); 67.22% after QIP allotment on 2026-06-01 → 65.69% (2026-06-30 and 2026-09-30).
 
-**Sonu Gupta** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sonu Gupta** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -16901,12 +16101,12 @@ What the documents say about them: “"eligible Qualified Institutional Buyers" 
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel** | K. V. Chalapathi Reddy (retirement; last day 2026-07-31) | Muppasani Bhanu Prakash (from 2026-10-28) | effective | 2026-07-30 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | K. V. Chalapathi Reddy (retirement; last day 2026-07-31) | Muppasani Bhanu Prakash (from 2026-10-28) | effective | 2026-07-30 |
 
 - **Why K. V. Chalapathi Reddy is leaving, in the filing's words:** “Retirement from the services of the Company upon attaining the age of superannuation / retirement in accordance with the terms of his employment.”
-- In the documents: “we hereby inform that Mr. K. V. Chalapathi Reddy, Chief Financial Officer and Key Managerial Personnel of Kaveri Seed Company Limited, is retiring from the services of the Company upon attaining the age of superannuation, in accordance with the terms of his employment with effect from the close of business hours on July 31, 2026.” — [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · [2026-07-30 Retirement](https://nsearchives.nseindia.com/corporate/KSCL_30072026181003_ResignationofCFO.pdf)
+- In the documents: “Accordingly, with effect from the close of business hours on July 31, 2026, Mr. K. V. Chalapathi Reddy shall cease to be the Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KSCL_28102026134153_OUTCOME28102026.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · [2026-07-30 Retirement](https://nsearchives.nseindia.com/corporate/KSCL_30072026181003_ResignationofCFO.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · [2026-09-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KSCL_04092026171829_39thAGMNotice.pdf) · [2026-07-30 Retirement](https://nsearchives.nseindia.com/corporate/KSCL_30072026181003_ResignationofCFO.pdf)
+*All 4 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KSCL_28102026134153_OUTCOME28102026.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · [2026-09-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KSCL_04092026171829_39thAGMNotice.pdf) · [2026-07-30 Retirement](https://nsearchives.nseindia.com/corporate/KSCL_30072026181003_ResignationofCFO.pdf)
 
 ### 2. Financials — the last three years
 
@@ -16934,7 +16134,7 @@ What the documents say about them: “"eligible Qualified Institutional Buyers" 
 
 ### 3. Track record — the outgoing management
 
-**K. V. Chalapathi Reddy** — Chief Financial Officer and Key Managerial Personnel, date of taking the seat not on file.
+**K. V. Chalapathi Reddy** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -16952,7 +16152,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Muppasani Bhanu Prakash** — Chief Financial Officer and Key Managerial Personnel. experience: 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant; qualifications: He is a Chartered Accountant (ACA), a Company Secretary (ACS) and holds a Master of Commerce (M.Com) degree..
+**Muppasani Bhanu Prakash** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). experience: 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant; qualifications: He is a Chartered Accountant (ACA), a Company Secretary (ACS) and holds a Master of Commerce (M.Com) degree..
 
 The filing's own profile: “Mr. Muppasani Bhanu Prakash is an accomplished finance professional with 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant. He has worked across diverse sectors, including agriculture and seeds, cement, batteries, insurance, manufacturing and services, with professional associations including Kaveri Seed Company Limited, Kalburgi Cement Private Limited (Vicat Group), Amara Raja Batteries Limited and Cholamandalam MS General Insurance. His areas of expertise include strategic financial planning, budgeting, treasury, working capital management, taxation, financial controls, risk management, corporate governance and regulatory compliance.”
 
@@ -17266,7 +16466,7 @@ No successor or new owner is named yet.
 
 ### 3. Track record — the outgoing management
 
-**T Adhikari** — Managing Director & Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**T Adhikari** — Managing Director & Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -17293,16 +16493,6 @@ The filing's own profile: “Shri Sandeep Kumar commenced his career with Life I
 | Senior Divisional Manager In-charge | LIC of India, Nadiad Division and Delhi-III Division | — | — |
 | Secretary (Marketing), Northern Zone and Chief Personnel | LIC of India, Northern Zone / Central Office | — | — |
 | Director & CEO | LIC HFL Financial Services Limited, Mumbai | 2025 | — |
-
-Results of **Power Finance Corporation Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 91,508 | 107,106 | +17.0% a year over 1 year |
-| Financing profit (₹ cr) | 33,573 | 38,603 | +15.0% a year over 1 year |
-| PAT (₹ cr) | 26,461 | 30,514 | +15.3% a year over 1 year |
-| Financing profit margin (%) | 36.7 | 36.0 | -0.7 pts |
-| ROE (%) | 26.2 | 25.9 | -0.3 pts |
 
 ### 5. On the calls
 
@@ -17345,6 +16535,7 @@ Results of **Power Finance Corporation Ltd.** while they were Chairman there (an
 - In the documents: “Shri Sunil Agrawal, Chief Financial Officer and Key Managerial Personnel, Life Insurance Corporation of India (“the Corporation”) vide letter dated June 24, 2026, has resigned to pursue better prospects.” — [2026-07-28 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_28072026135207_28062026_CRO_CFO_appointment.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LICI_ROID_90414_KMP_Doc.zip) · [2026-06-24 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_24062026200820_REV-Resignation_KMP_CFO.pdf) · +1 more
 - **Why Shatmanyu Shrivastava is leaving, in the filing's words:** “will be superannuating w.e.f. September 30, 2026, after the close of office hours”
 - In the documents: “Ms. Sonija M. S., Chief (I/C), Finance & Accounts as Chief Financial Officer of the Corporation w.e.f. November 26, 2026.” — [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-09-30 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_30092026153311_Final_Disc_Cess_KMP_300926.pdf) · [2026-07-31 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_31072026191205_Earning_call_31072026.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 21 filing(s) read for the seats:* [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163053_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163126_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163150_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163215_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163306_Final_Dis_Int_App_ID_07102026.pdf) · +15 more
 
@@ -17375,7 +16566,7 @@ Results of **Power Finance Corporation Ltd.** while they were Chairman there (an
 
 **President of India, acting through the Ministry of Finance, Government of India** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 96.5% → 90.0%.
 
-**Sunil Agrawal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sunil Agrawal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -17481,9 +16672,9 @@ The filing's own profile: “Ms. Sonija M. S. joined the Corporation in the year
 
 ### 3. Track record — the outgoing management
 
-**Abhijit Banerjee** — Managing Director, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Abhijit Banerjee** — Managing Director, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Dec 2020 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -17495,7 +16686,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 6.8 | 11.4 | +4.6 pts |
 | Borrowings (₹ cr) | 7.0 | 42.0 | +35 |
 
-**Neeraj Kumar Jumrani** — Interim Chief Financial Officer (CFO), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Neeraj Kumar Jumrani** — Interim Chief Financial Officer (CFO), in the seat since FY2023 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -17518,18 +16709,6 @@ The company's results while they held the seat (the year before they took it, to
 **Milan Sadhukhan** — Managing Director. from: group company; age 50; experience: over 25 years; qualifications: B.Com (Hons.) Graduate, a qualified Chartered Accountant and a Cost & Management Accountant.
 
 The filing's own profile: “Mr Milan Sadhukhan, 50 years old, is a B.Com (Hons.) Graduate, a qualified Chartered Accountant and a Cost & Management Accountant. Mr Sadhukhan is presently the Head of Finance, ASEAN & South Asia and has rich experience of over 25 years in various finance roles, including Product Management, Investment Controlling and Supply-chain management across various geographies in Asia and in the UK. There is no inter-se relationship between Mr Sadhukhan and other members of the Board of Directors of the Company.”
-
-Results of **Linde India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,769 | 2,485 | -10.3% a year over 1 year |
-| Operating profit (₹ cr) | 702 | 765 | +9.0% a year over 1 year |
-| PAT (₹ cr) | 434 | 455 | +4.8% a year over 1 year |
-| Operating profit margin (%) | 25.4 | 30.8 | +5.4 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 11.4 | 10.7 | -0.7 pts |
-| Borrowings (₹ cr) | 42.0 | 79.0 | +37 |
 
 **Ajay Kumar Sah** — Interim Chief Financial Officer (CFO) (interim). from: internal; age 48; experience: about 25 years; qualifications: B.Com. (Hons.) Graduate, a qualified Chartered Financial Analyst and a Company Secretary.
 
@@ -17816,18 +16995,18 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer ("MD & CEO")** | Rajan Venkatesh (resignation; last day 2026-11-13) | Harshvardhan Goenka (promoter family; from 2026-11-14) | effective | 2026-09-08 |
-| **Chief Financial Officer and Key Managerial Personnel of the Company / Interim Chief Financial Officer** | Mahadeo Karnik (resignation; last day 2026-04-13) | Harshvardhan Goenka (interim; internal; from 2026-04-14) | effective | 2026-04-10 |
-| **Chief Financial Officer and Key Managerial Personnel of the Company** | Harshvardhan Goenka (interim holder replaced; last day 2026-06-15) | Amit Jain (external; from 2026-06-16) | effective | 2026-05-21 |
+| **Chief Financial Officer** | Mahadeo Karnik (resignation; last day 2026-04-13) | Harshvardhan Goenka (interim; internal; from 2026-04-14) | effective | 2026-04-10 |
+| **Chief Financial Officer and Key Managerial Personnel** | Harshvardhan Goenka (interim holder replaced; last day 2026-06-15) | Amit Jain (from 2026-06-16) | effective | 2026-05-21 |
+| **Managing Director & Chief Executive Officer (“MD & CEO”)** | Rajan Venkatesh (resignation; last day 2026-11-13) | Harshvardhan Goenka (promoter family; from 2026-11-14) | effective | 2026-09-08 |
 
+- **Why Mahadeo Karnik is leaving, in the filing's words:** “Resignation as Chief Financial Officer and a Key Managerial Personnel of the Company”
+- In the documents: “The Board of Directors took note of the resignation of Mr. Mahadeo Karnik from the position of Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
+- **Why Harshvardhan Goenka is leaving, in the filing's words:** “shall cease to hold such additional responsibilities with effect from the close of business hours on June 15, 2026” Stays on as: Executive Director of the Company.
+- In the documents: “The Board of Directors also approved the appointment of Mr. Amit Jain as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the commencement of business hours on June 16, 2026.” — [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
 - **Why Rajan Venkatesh is leaving, in the filing's words:** “Resignation from the position of Managing Director & Chief Executive Officer and as a Director of the Company to pursue a professional opportunity outside the Company.”
-- In the documents: “Dr. Rajan Venkatesh (DIN: 10057058), Managing Director & Chief Executive Officer ("MD & CEO") of the Company, has tendered his resignation from the position of MD & CEO and as a Director of the Company as part of the planned leadership transition and will pursue opportunities outside the Company.” — [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · +1 more
-- **Why Mahadeo Karnik is leaving, in the filing's words:** “Resignation as Chief Financial Officer and a Key Managerial Personnel of the Company.”
-- In the documents: “The Board of Directors took note of the resignation of Mr. Mahadeo Karnik from the position of Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
-- **Why Harshvardhan Goenka is leaving, in the filing's words:** “Consequent to the assumption of office by Mr. Amit Jain as Chief Financial Officer, Mr. Harshvardhan Goenka, Executive Director of the Company, who is presently discharging the responsibilities of Interim Chief Financial Officer, shall cease to hold such additional responsibilities” Stays on as: Executive Director of the Company.
-- In the documents: “The Board of Directors also approved the appointment of Mr. Amit Jain as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the commencement of business hours on June 16, 2026.” — [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
+- In the documents: “Dr. Rajan Venkatesh (DIN: 10057058), Managing Director & Chief Executive Officer (“MD & CEO”) of the Company, has tendered his resignation from the position of MD & CEO and as a Director of the Company as part of the planned leadership transition and will pursue opportunities outside the Company.” — [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · [2026-04-10 Change in Management](https://nsearchives.nseindia.com/corporate/LXCHEM_10042026181554_Resignation_of_CFO_11042026.pdf)
+*All 7 filing(s) read for the seats:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -17855,21 +17034,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Rajan Venkatesh** — Managing Director & Chief Executive Officer ("MD & CEO"), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2022 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,084 | 2,847 | -2.0% a year over 4 years |
-| Operating profit (₹ cr) | 371 | 172 | -17.5% a year over 4 years |
-| PAT (₹ cr) | 256 | 79.0 | -25.5% a year over 4 years |
-| Operating profit margin (%) | 12.0 | 6.0 | -6.0 pts |
-| ROCE (%) | 11.0 | — | — |
-| ROE (%) | 19.7 | 4.0 | -15.7 pts |
-| Borrowings (₹ cr) | 139 | 543 | +404 |
-
-**Mahadeo Karnik** — Chief Financial Officer and Key Managerial Personnel of the Company / Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Mahadeo Karnik** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -17883,56 +17048,47 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 6.7 | 4.0 | -2.7 pts |
 | Borrowings (₹ cr) | 143 | 543 | +400 |
 
-**Harshvardhan Goenka** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2027 per the filing.
+**Harshvardhan Goenka** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
+**Rajan Venkatesh** — Managing Director & Chief Executive Officer (“MD & CEO”), in the seat since FY2023 per the annual reports on file.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2022 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 3,084 | 2,847 | -2.0% a year over 4 years |
+| Operating profit (₹ cr) | 371 | 172 | -17.5% a year over 4 years |
+| PAT (₹ cr) | 256 | 79.0 | -25.5% a year over 4 years |
+| Operating profit margin (%) | 12.0 | 6.0 | -6.0 pts |
+| ROCE (%) | 11.0 | — | — |
+| ROE (%) | 19.7 | 4.0 | -15.7 pts |
+| Borrowings (₹ cr) | 139 | 543 | +404 |
+
 ### 4. Track record — the incoming management
 
-**Harshvardhan Goenka** — Managing Director & Chief Executive Officer ("MD & CEO"). from: promoter family; qualifications: He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School..
-
-The filing's own profile: “Mr. Harshvardhan Goenka has been associated with Laxmi Organic Industries Limited since 2011 and has served on its Board since November 2020. He has played a key role in shaping the Company's strategic priorities, including capital allocation, mergers and acquisitions, business diversification and sustainable growth. He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School. He is also associated with the Indian Chemical Council, Assocham and FICCI.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Executive Director | Laxmi Organic Industries Limited (LXCHEM) | — | 2026 |
-| Interim Chief Financial Officer | Laxmi Organic Industries Limited (LXCHEM) | 2026 | 2026 |
-| served on its Board | Laxmi Organic Industries Limited (LXCHEM) | 2020 | — |
-
-**Harshvardhan Goenka** — Chief Financial Officer and Key Managerial Personnel of the Company / Interim Chief Financial Officer (interim). from: internal; experience: over 13 years of experience in the chemicals industry; qualifications: Mr. Harshvardhan Goenka holds a Bachelor's degree in science from Babson College, Boston, USA..
+**Harshvardhan Goenka** — Chief Financial Officer (interim). from: internal; experience: over 13 years of experience in the chemicals industry; qualifications: holds a Bachelor's degree in science from Babson College, Boston, USA.
 
 The filing's own profile: “Mr. Harshvardhan Goenka holds a Bachelor's degree in science from Babson College, Boston, USA. With over 13 years of experience in the chemicals industry, he is responsible for driving the growth agenda and establishing new ventures at Laxmi Organic. He is an active member of the Entrepreneurs Organisation, Mumbai, and the Babson Alumni Club. Since his appointment to the Board in November 2020, Mr. Goenka has played a key role in shaping our Company's strategic direction.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director | Laxmi Organic Industries Limited (LXCHEM) | — | — |
-| Board member | Laxmi Organic Industries Limited (LXCHEM) | 2020 | — |
+| Executive Director | Laxmi Organic Industries Limited (LXCHEM) | 2020 | — |
 
-**Amit Jain** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external.
+**Amit Jain** — Chief Financial Officer and Key Managerial Personnel.
 
-Results of **EPL Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2021):
+Results of **EPL Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2023):
 
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
+| Mar 2021 → Mar 2023 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 2,761 | 3,092 | +12.0% a year over 1 year |
-| Operating profit (₹ cr) | 558 | 611 | +9.5% a year over 1 year |
-| PAT (₹ cr) | 212 | 244 | +15.1% a year over 1 year |
-| Operating profit margin (%) | 20.2 | 19.8 | -0.4 pts |
-| ROCE (%) | 16.0 | 17.0 | +1.0 pts |
-| ROE (%) | 13.8 | 14.4 | +0.6 pts |
-| Borrowings (₹ cr) | 737 | 642 | -95 |
-
-Results of **JSW Dulux Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,662 | 2,421 | -9.1% a year over 1 year |
-| Operating profit (₹ cr) | 370 | 343 | -7.3% a year over 1 year |
-| PAT (₹ cr) | 237 | 208 | -12.2% a year over 1 year |
-| Operating profit margin (%) | 13.9 | 14.2 | +0.3 pts |
-| ROCE (%) | 22.0 | 28.0 | +6.0 pts |
-| ROE (%) | 19.1 | 16.1 | -3.0 pts |
-| Borrowings (₹ cr) | 64.0 | 64.0 | +0 |
+| Sales (₹ cr) | 3,092 | 3,694 | +9.3% a year over 2 years |
+| Operating profit (₹ cr) | 611 | 575 | -3.0% a year over 2 years |
+| PAT (₹ cr) | 244 | 231 | -2.7% a year over 2 years |
+| Operating profit margin (%) | 19.8 | 15.6 | -4.2 pts |
+| ROCE (%) | 17.0 | 12.0 | -5.0 pts |
+| ROE (%) | 14.4 | 11.6 | -2.8 pts |
+| Borrowings (₹ cr) | 642 | 890 | +248 |
 
 Results of **Sanofi Consumer Healthcare India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2025):
 
@@ -17945,6 +17101,14 @@ Results of **Sanofi Consumer Healthcare India Ltd.** while they were Managing Di
 | ROCE (%) | 90.0 | — | — |
 | ROE (%) | 60.4 | 62.5 | +2.1 pts |
 | Borrowings (₹ cr) | 20.0 | 25.0 | +5 |
+
+**Harshvardhan Goenka** — Managing Director & Chief Executive Officer (“MD & CEO”). from: promoter family; qualifications: He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School..
+
+The filing's own profile: “Mr. Harshvardhan Goenka has been associated with Laxmi Organic Industries Limited since 2011 and has served on its Board since November 2020. He has played a key role in shaping the Company's strategic priorities, including capital allocation, mergers and acquisitions, business diversification and sustainable growth. He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School. He is also associated with the Indian Chemical Council, Assocham and FICCI.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Executive Director | Laxmi Organic Industries Limited (LXCHEM) | 2020 | 2026 |
 
 ### 5. On the calls
 
@@ -18040,9 +17204,9 @@ Nothing about the change in the calls on file for the window.
 | **Chief Financial Officer** | Arup Mandal (resignation; last day 2026-07-02) | Manish Kumar Khandelwal (from 2026-11-13) | effective | 2026-07-03 |
 
 - **Why Arup Mandal is leaving, in the filing's words:** “Due to personal reason”
-- In the documents: “Appointment of Mr. Manish Kumar Khandelwal as Chief Financial Officer of the Company with effect from 13th November, 2026” — [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · +1 more
+- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations"), we would like to inform you that Mr. Arup Mandal, Chief Financial Officer of the Company has tender his resignation from the position of Chief Financial Officer with effect from closure of 2nd July, 2026.” — [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · [2026-07-03 Resignation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026112215_MSLIntimationCFOResignation.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_28012026154438_BMOutcomeMSL.pdf)
+*All 6 filing(s) read for the seats:* [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · [2026-07-03 Resignation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026112215_MSLIntimationCFOResignation.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_28012026154438_BMOutcomeMSL.pdf)
 
 ### 2. Financials — the last three years
 
@@ -18141,6 +17305,7 @@ The filing's own profile: “Mr. Manish Kumar Khandelwal, aged 54 years, is Mast
 - In the documents: “Mr. Deepak Reddy has tendered his resignation from the position of Chief Executive Officer and Key Managerial Personnel of the Company, vide his resignation e-mail dated July 03, 2026, to pursue other personal and professional interests.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · +1 more
 - **Why Bindu A.L. is leaving, in the filing's words:** “change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026, pursuant to which she shall cease to be Key Managerial Personnel” Stays on as: Head, Finance Center of Excellence and AI.
 - In the documents: “Mr. Buvanesh Tharashankar with effect from May 5, 2026 will be the Chief Financial Officer of the Company and will continue as the Group Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · [2026-05-05 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026105428_Reg30final.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 13 filing(s) read for the seats:* [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026181627_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026182243_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026183026_OUTCOMEFINALsigned.pdf) · +7 more
 
@@ -18261,12 +17426,12 @@ The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman & Managing Director (cessation); Managing Director (appointment)** | Ashish Ramesh Saraf (resignation; last day 2026-11-12) | Deep Saraf (promoter family; from 2026-11-12) | effective | 2026-11-12 |
+| **Chairman & Managing Director (outgoing); Managing Director (incoming)** | Ashish Ramesh Saraf (resignation; last day 2026-11-12) | Deep Saraf (promoter family; from 2026-11-12) | effective | 2026-11-12 |
 
-- **Why Ashish Ramesh Saraf is leaving, in the filing's words:** “Cessation from the office of Chairman & Managing Director of the Company and redesignation as President - Strategic Planning and Business Development (Senior Management Personnel) of the Company.” Stays on as: President - Strategic Planning and Business Development (Senior Management Personnel).
-- In the documents: “Noted the cessation of Mr. Ashish Ramesh Saraf (DIN: 00183357) from the office of Chairman & Managing Director of the Company with effect from November 12, 2026 and consequent to his resignation and in the interest of continuity of management, the Board has, based on the recommendation of the Nomination and Remuneration Committee, approved his change in designation as President - Strategic Planning and Business Development (Senior Management Personnel) of the Company with effect from November 12, 2026.” — [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201023_SignedFinaloutcome.pdf) · [2026-11-12 Change in Director(s)](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201114_SignedFinaloutcome.pdf) · +1 more
+- **Why Ashish Ramesh Saraf is leaving, in the filing's words:** “consequent to his resignation and in the interest of continuity of management” Stays on as: President - Strategic Planning and Business Development (Senior Management Personnel).
+- In the documents: “Based on the recommendation of Nomination and Remuneration Committee, the Board has approved the appointment of Mr. Deep Saraf (DIN: 00183529) as Managing Director of the Company for a period of 5 (Five) years from November 12, 2026 to November 11, 2031 (both days inclusive), subject to approval of the members of the Company.” — [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193412_SignedFinaloutcome.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193916_SignedFinaloutcome.pdf) · [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201023_SignedFinaloutcome.pdf) · [2026-11-12 Change in Director(s)](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201114_SignedFinaloutcome.pdf) · [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201236_SignedFinaloutcome.pdf) · [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201440_SignedFinaloutcome.pdf) · [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201614_SignedFinaloutcome.pdf) · +1 more
+*All 9 filing(s) read for the seats:* [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193412_SignedFinaloutcome.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193916_SignedFinaloutcome.pdf) · [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201023_SignedFinaloutcome.pdf) · [2026-11-12 Change in Director(s)](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201114_SignedFinaloutcome.pdf) · [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201236_SignedFinaloutcome.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -18294,7 +17459,7 @@ The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 
 
 ### 3. Track record — the outgoing management
 
-**Ashish Ramesh Saraf** — Chairman & Managing Director (cessation); Managing Director (appointment), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Ashish Ramesh Saraf** — Chairman & Managing Director (outgoing); Managing Director (incoming), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it; the statements on file start later than the tenure):
 
@@ -18312,13 +17477,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Deep Saraf** — Chairman & Managing Director (cessation); Managing Director (appointment). from: promoter family; experience: over two decades.
+**Deep Saraf** — Chairman & Managing Director (outgoing); Managing Director (incoming). from: promoter family; experience: over two decades of experience.
 
 The filing's own profile: “Mr. Deep Saraf has been associated with the Company since its inception and possesses over two decades of experience in manufacturing operations, business management and strategic leadership. He has been instrumental in the Company's capacity expansion, operational excellence, product development and business growth.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| associated with the Company since its inception | Manorama Industries Limited (MANORAMA) | — | — |
 
 ### 5. On the calls
 
@@ -18531,7 +17692,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 3. Track record — the outgoing management
 
-**Ashu Shinghal** — Managing Director of the Company, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Ashu Shinghal** — Managing Director of the Company, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -18742,7 +17903,7 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Ajit Kumar Saxena** — Chairman-cum-Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Ajit Kumar Saxena** — Chairman-cum-Managing Director, in the seat since FY2023 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -18890,15 +18051,15 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | George Alexander Muthoot (moved to another role in the company or group; last day 2026-09-30) | Alexander George (promoter family; from 2026-10-01) | effective | 2026-08-01 |
-| **Chief Executive Officer (CEO)** | — (new seat) | K. R. Bijimon (internal; from 2026-10-01) | effective | 2026-08-01 |
+| **Managing Director** | George Alexander Muthoot (moved to another role in the company or group) | Alexander George (promoter family; from 2026-10-01) | effective | 2026-08-01 |
+| **Chief Executive Officer (CEO)** | — (new seat) | K R Bijimon (internal; from 2026-10-01) | effective | 2026-08-01 |
 
-- **Why George Alexander Muthoot is leaving, in the filing's words:** “Every institution must prepare its next generation of leadership, and I believe this is the right time to hand over the baton to the next generation to take the journey forward.” Stays on as: Executive Vice Chairman (Vice Chairman and Whole Time Director), effective October 1, 2026.
-- In the documents: “The Board of Directors of Muthoot Finance Limited has recommended the appointment of Mr. Alexander George as the Managing Director of the Company, effective October 1, 2026.” — [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · +1 more
+- **Why George Alexander Muthoot is leaving, in the filing's words:** “Every institution must prepare its next generation of leadership, and I believe this is the right time to hand over the baton to the next generation to take the journey forward.” Stays on as: Executive Vice Chairman / Vice Chairman and Whole Time Director, with effect from October 1, 2026 till March 31, 2031.
+- In the documents: “The Board of Directors of Muthoot Finance Limited has recommended the appointment of Mr. Alexander George as the Managing Director of the Company, effective October 1, 2026.” — [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · [2026-08-01 General Updates](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026151303_Outcome.pdf) · +1 more
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Shri. K.R. Bijimon, Executive Director, has been elevated to the position of Chief Executive Officer (CEO) effective from October 01,2026.” — [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-08-01 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026173519_PressReleaseBoardChangessd.pdf)
+- In the documents: “Approved the elevation of Mr. K R Bijimon as the Chief Executive Officer of the Company with effect from October 01, 2026;” — [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · [2026-08-01 General Updates](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026151303_Outcome.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181354_Appointment_of_Directors_SD.pdf) · [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-01 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01082026173519_PressReleaseBoardChangessd.pdf)
+*All 8 filing(s) read for the seats:* [2026-10-31 Press Release](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_31102026152912_MFIN_Press_Release_Final_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181341_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181347_Appointment_of_Directors_SD.pdf) · [2026-10-01 Appointment](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_01102026181354_Appointment_of_Directors_SD.pdf) · [2026-09-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_02092026172057_Changes_in_Directors_SD.pdf) · [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_03082026170410_Outcomefinal_SD.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -18922,9 +18083,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**George Alexander Muthoot** — Managing Director, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**George Alexander Muthoot** — Managing Director, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -18936,17 +18097,18 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Alexander George** — Managing Director. from: promoter family; qualifications: advanced diploma in business administration from Florida International University and an MBA from Thunderbird University in the USA.
+**Alexander George** — Managing Director. from: promoter family; qualifications: an advanced diploma in business administration from Florida International University and an MBA from Thunderbird University in the USA.
 
 The filing's own profile: “Mr. Alexander George brings a strong educational foundation with an advanced diploma in business administration from Florida International University and an MBA from Thunderbird University in the USA. Having started his journey in the family business as a manager, he worked his way up through the ranks to his current leadership position. Mr. Alexander George has been associated with the company since 2006. As a Whole-Time Director, he has led the Company's operations across North, East and West India and played a pivotal role in expanding the branch network, strengthening customer reach and driving business growth across these markets.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Whole-Time Director | Muthoot Finance Limited (MUTHOOTFIN) | 2006 | — |
+| Whole-Time Director, leading the Company's operations across North, East and West India | Muthoot Finance Limited (MUTHOOTFIN) | 2006 | 2026 |
+| manager | the family business | — | — |
 
-**K. R. Bijimon** — Chief Executive Officer (CEO). from: internal; experience: has been a strong pillar at Muthoot for the last 3 decades; qualifications: A Chartered Accountant by profession.
+**K R Bijimon** — Chief Executive Officer (CEO). from: internal; experience: has been a strong pillar at Muthoot for the last 3 decades; qualifications: A Chartered Accountant by profession.
 
-The filing's own profile: “The Board has also recommended the elevation of Mr. K. R. Bijimon as Chief Executive Officer (CEO). He currently serves as the Company's Executive Director & Chief Operating Officer. Stepping into the newly defined role of CEO, Mr. Bijimon brings an unparalleled depth of institutional knowledge and financial acumen. A Chartered Accountant by profession, Mr. Bijimon has been a strong pillar at Muthoot for the last 3 decades. Serving most recently as Executive Director & Chief Operating Officer, his meticulous approach to financial governance and operational efficiency has been instrumental in the company's sustained profitability. His elevation to CEO underscores the promoter directors' commitment to institutionalizing professional management at the highest levels of the company.”
+The filing's own profile: “He currently serves as the Company's Executive Director & Chief Operating Officer. Stepping into the newly defined role of CEO, Mr. Bijimon brings an unparalleled depth of institutional knowledge and financial acumen. A Chartered Accountant by profession, Mr. Bijimon has been a strong pillar at Muthoot for the last 3 decades. Serving most recently as Executive Director & Chief Operating Officer, his meticulous approach to financial governance and operational efficiency has been instrumental in the company's sustained profitability. His elevation to CEO underscores the promoter directors' commitment to institutionalizing professional management at the highest levels of the company.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -18974,12 +18136,12 @@ The filing's own profile: “The Board has also recommended the elevation of Mr.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | S.V.V.N. Appa Rao | Amit Parekh (external) | announced, not yet effective | 2025-12-02 |
+| **Chief Financial Officer** | S. V. V. N. Appa Rao (retirement; last day 2026-02-12) | Amit Parekh (internal; from 2026-02-13) | effective | 2025-12-02 |
 
-- **Why S.V.V.N. Appa Rao is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Amit Parekh as Executive Vice President – Finance and Accounts of the Company with effect from 2nd December 2025 and as part of the Company's structured succession planning; subject to necessary approvals; Mr. Amit Parekh will succeed Mr. S.V.V.N. Appa Rao, Chief Financial Officer of the Company at the Board meeting to be held in the month of February 2026.” — [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
+- **Why S. V. V. N. Appa Rao is leaving, in the filing's words:** “The Board took note of the superannuation of Mr. S. V. V. N. Appa Rao, Chief Financial Officer of the Company w.e.f. closure of the business hours of 12th February, 2026”
+- In the documents: “The appointment of Mr. Amit Parekh, Executive Vice President – Finance & Accounts as Chief Financial Officer of the Company w.e.f. 13th February, 2026” — [2026-02-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NATCOPHARM_12022026143742_Outcome12022026.pdf) · [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
 
-*All 1 filing(s) read for the seats:* [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
+*All 2 filing(s) read for the seats:* [2026-02-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NATCOPHARM_12022026143742_Outcome12022026.pdf) · [2025-12-02 Appointment](https://nsearchives.nseindia.com/corporate/NATCOPHARM_02122025123204_DisclosuretoSE02122025.pdf)
 
 ### 2. Financials — the last three years
 
@@ -19007,7 +18169,7 @@ The filing's own profile: “The Board has also recommended the elevation of Mr.
 
 ### 3. Track record — the outgoing management
 
-**S.V.V.N. Appa Rao** — Chief Financial Officer, date of taking the seat not on file.
+**S. V. V. N. Appa Rao** — Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -19030,14 +18192,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Amit Parekh** — Chief Financial Officer. from: external; experience: more than 20 years.
+**Amit Parekh** — Chief Financial Officer. from: internal; experience: more than 20 years.
 
 The filing's own profile: “Mr. Amit Parekh has more than 20 years of experience, with a proven track record of managing financial and business affairs for top Indian companies in diverse industries, including healthcare, pharma, mining and engineering, telecommunications, and chemicals. Few of his core competencies are CXO Level engagements, Investment & M&A (including in & out licencing deals in Pharma space), Cost leadership Projects, Financial Analysis and Reporting, Financial Management & Accounting (IFRS, IND AS, US GAAP) and Risk Assessment & Compliance, etc., he was previously associated with Dr. Reddy's Laboratories Limited as Head of Finance -API and Pharmaceutical Services (PSAI) and Head of Digital Transformation in Finance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Head of Finance -API and Pharmaceutical Services (PSAI) and Head of Digital Transformation in Finance | Dr. Reddy's Laboratories Limited (DRREDDY) | — | — |
-| Executive Vice President – Finance and Accounts | Natco Pharma Limited (NATCOPHARM) | 2025 | — |
+| Executive Vice President – Finance and Accounts | NATCO Pharma Limited (NATCOPHARM) | 2025 | — |
 
 ### 5. On the calls
 
@@ -19089,7 +18251,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Hitesh Oberoi** — Managing Director and Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Hitesh Oberoi** — Managing Director and Chief Executive Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -19264,18 +18426,18 @@ Nothing about the change in the calls on file for the window.
 | **Chairman & Managing Director** | Vikash Mittersain (moved to another role in the company or group; last day 2026-05-31) | — not named | seat vacant — no successor named | 2026-05-12 |
 | **Chief Executive Officer (CEO) and Key Managerial Personnel (KMP)** | Nitish Mittersain (resignation; last day 2026-09-15) | Raymond Albaladejo Stauffer (external; from 2026-09-16) | effective | 2026-08-03 |
 | **Managing Director** | Nitish Mittersain (moved to another role in the company or group; last day 2026-10-12) | — not named | seat vacant — no successor named | 2026-10-12 |
-| **Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’)** | Rakesh Shah (resignation; last day 2026-10-15) | Arun Agarwal (external; from 2026-10-16) | effective | 2026-10-12 |
+| **Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP')** | Rakesh Shah (resignation; last day 2026-10-15) | Arun Agarwal (external; from 2026-10-16) | effective | 2026-10-12 |
 
-- **Why Vikash Mittersain is leaving, in the filing's words:** “This transition reflects the Company's continued evolution as an institutionalized global gaming platform. It further ensures continuity of founder stewardship by enabling Mr. Mittersain to continue contributing through strategic guidance and long-term perspective in a non-executive capacity.” Stays on as: 'Founding Chairman' in the category of Non-Executive Non-Independent Director of the Company.
-- In the documents: “Based on the recommendation of the Nomination, Remuneration and Compensation Committee, Audit Committee and subject to the approval of the Members of the Company, the re-designation of Mr. Vikash Mittersain (DIN: 00156740), Chairman & Managing Director as ‘Founding Chairman’ in the category of Non-Executive Non-Independent Director of the Company with effect from June 01, 2026.” — [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-05-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12052026193139_BMOutcomeFinal2.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12052026194850_BMOutcomeFinal2.pdf) · +1 more
-- **Why Nitish Mittersain is leaving, in the filing's words:** “Mr. Nitish Mittersain, while continuing in his position as Managing Director of the Company, has tendered his resignation from the office of Chief Executive Officer ("CEO") of the Company, with effect from September 01, 2026” Stays on as: Managing Director, Key Managerial Personnel of the Company.
-- In the documents: “Concurrent to the assumption of office by Mr. Raymond Albaladejo Stauffer, Mr. Nitish Mittersain has ceased to hold the position of CEO of the Company with effect from the close of business hours on September 15, 2026 and continues to serve as Managing Director and KMP of the Company.” — [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_03082026215838_OutcomeofBoardMeeting.pdf) · [2026-08-03 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221421_PRIntimation.pdf) · [2026-08-03 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221836_Investorpresentation.pdf) · +1 more
-- **Why Nitish Mittersain is leaving, in the filing's words:** “As part of the Company's leadership transition, Mr. Nitish Mittersain will transition from his executive responsibilities as Managing Director to Founder and Non-Executive Director, enabling the professional leadership team to lead the Company's next phase” Stays on as: Founder and Non-Executive Director.
+- **Why Vikash Mittersain is leaving, in the filing's words:** “This transition reflects the Company's continued evolution as an institutionalized global gaming platform. It further ensures continuity of founder stewardship by enabling Mr. Mittersain to continue contributing through strategic guidance and long-term perspective in a non-executive capacity.” Stays on as: 'Founding Chairman' in the category of Non-Executive Non-Independent Director.
+- In the documents: “Based on the recommendation of the Nomination, Remuneration and Compensation Committee, Audit Committee and subject to the approval of the Members of the Company, the re-designation of Mr. Vikash Mittersain (DIN: 00156740), Chairman & Managing Director as 'Founding Chairman' in the category of Non-Executive Non-Independent Director of the Company with effect from June 01, 2026.” — [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-05-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12052026193139_BMOutcomeFinal2.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12052026194850_BMOutcomeFinal2.pdf) · +1 more
+- **Why Nitish Mittersain is leaving, in the filing's words:** “Mr. Nitish Mittersain, while continuing in his position as Managing Director of the Company, has tendered his resignation from the office of Chief Executive Officer ("CEO") of the Company, with effect from September 01, 2026” Stays on as: Managing Director, Key Managerial Personnel (Founder and Managing Director).
+- In the documents: “The Board of Directors of the Company, by way of a resolution passed through circulation today, i.e., September 16, 2026, has determined and recorded September 16, 2026 as the effective date of appointment of Mr. Raymond Albaladejo Stauffer as the CEO and KMP of the Company.” — [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_03082026215838_OutcomeofBoardMeeting.pdf) · [2026-08-03 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221421_PRIntimation.pdf) · [2026-08-03 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221836_Investorpresentation.pdf) · +1 more
+- **Why Nitish Mittersain is leaving, in the filing's words:** “As part of the Company's leadership transition, Mr. Nitish Mittersain will transition from his executive responsibilities as Managing Director to Founder and Non-Executive Director, enabling the professional leadership team to lead the Company's next phase” Stays on as: Founder and Non-Executive Director (Non-Executive Non-Independent Director); ceased to be Key Managerial Personnel with effect from October 13, 2026.
 - In the documents: “The Board has approved re-designation of Mr. Nitish Mittersain from Managing Director to Founder and Non-Executive Director effective from close of the business hours on October 12, 2026, subject to the approval of the shareholders of the Company and such other approvals as may be required under applicable laws.” — [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +1 more
-- **Why Rakesh Shah is leaving, in the filing's words:** “to pursue a career opportunity outside the Company” Stays on as: Mr. Shah would provide transition support and assistance to the Company for a period of 90 days from the effective date of his resignation.
+- **Why Rakesh Shah is leaving, in the filing's words:** “This decision has been made to enable me to pursue a career opportunity outside the Company.” Stays on as: Mr. Shah would provide transition support and assistance to the Company for a period of 90 days from the effective date of his resignation.
 - In the documents: “Based on the recommendation of the Nomination, Remuneration and Compensation Committee, the Board approved the appointment of Mr. Arun Agrawal as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 16, 2026.” — [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +1 more
 
-*All 22 filing(s) read for the seats:* [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_26102026193838_PRIntimationF.pdf) · [2026-10-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/NAZARA_ROID_100344_KMP_Doc.zip) · [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026183312_BMOutcomeFinal.pdf) · +16 more
+*All 23 filing(s) read for the seats:* [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_26102026193838_PRIntimationF.pdf) · [2026-10-26 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_26102026194240_InvestorpresentationF.pdf) · [2026-10-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/NAZARA_ROID_100344_KMP_Doc.zip) · [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +17 more
 
 ### 2. Financials — the last three years
 
@@ -19305,23 +18467,9 @@ Nothing about the change in the calls on file for the window.
 
 **Mitter Infotech LLP (promoter); Mr. Nitish Mittersain stepping back from executive roles** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 6.08% (Mitter Infotech LLP, before selling 5.19%) → 0.89% (Mitter Infotech LLP).
 
-**Vikash Mittersain** — Chairman & Managing Director, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Vikash Mittersain** — Chairman & Managing Director, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2020 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 247 | 1,829 | +39.6% a year over 6 years |
-| Operating profit (₹ cr) | -7.0 | -29.0 | — |
-| PAT (₹ cr) | -27.0 | 82.0 | loss to profit |
-| Operating profit margin (%) | -2.8 | -1.6 | +1.2 pts |
-| ROCE (%) | 2.0 | — | — |
-| ROE (%) | -5.3 | 2.4 | +7.7 pts |
-| Borrowings (₹ cr) | 8.0 | 215 | +207 |
-
-**Nitish Mittersain** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -19333,13 +18481,37 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | -5.3 | 2.4 | +7.7 pts |
 | Borrowings (₹ cr) | 8.0 | 215 | +207 |
 
-**Nitish Mittersain** — Managing Director, in the seat since FY2027 per the filing.
+**Nitish Mittersain** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-*No tenure record: the tenure is shorter than one full fiscal year on file.*
+The company's results over the part of the tenure the reports on file cover:
 
-**Rakesh Shah** — Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+| Mar 2020 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 247 | 1,829 | +39.6% a year over 6 years |
+| Operating profit (₹ cr) | -7.0 | -29.0 | — |
+| PAT (₹ cr) | -27.0 | 82.0 | loss to profit |
+| Operating profit margin (%) | -2.8 | -1.6 | +1.2 pts |
+| ROCE (%) | 2.0 | — | — |
+| ROE (%) | -5.3 | 2.4 | +7.7 pts |
+| Borrowings (₹ cr) | 8.0 | 215 | +207 |
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+**Nitish Mittersain** — Managing Director, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+
+The company's results over the part of the tenure the reports on file cover:
+
+| Mar 2020 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 247 | 1,829 | +39.6% a year over 6 years |
+| Operating profit (₹ cr) | -7.0 | -29.0 | — |
+| PAT (₹ cr) | -27.0 | 82.0 | loss to profit |
+| Operating profit margin (%) | -2.8 | -1.6 | +1.2 pts |
+| ROCE (%) | 2.0 | — | — |
+| ROE (%) | -5.3 | 2.4 | +7.7 pts |
+| Borrowings (₹ cr) | 8.0 | 215 | +207 |
+
+**Rakesh Shah** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -19359,16 +18531,16 @@ What the documents say about them: “Axana Estates LLP is disclosed in the exch
 
 **Raymond Albaladejo Stauffer** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP). from: external.
 
-The filing's own profile: “Founder and former CEO of Bluetile and BestPlay. Built the business to INR 254 crore of EBITDA in CY25 with a 65-person team. Leads day-to-day Nazara Group operations, integration, portfolio performance and shared operating capabilities, effective 1 September 2026. He brings deep experience in AI-enabled game development, product operations, user acquisition, monetisation and capital-efficient global growth.”
+The filing's own profile: “Founder and former CEO of Bluetile and BestPlay. Built the business to INR 254 crore of EBITDA in CY25 with a 65-person team. Leads day-to-day Nazara Group operations, integration, portfolio performance and shared operating capabilities, effective 1 September 2026. He brings deep experience in AI-enabled game development, product operations, user acquisition, monetisation and capital-efficient global growth. Former Trust & Safety Team Lead at Google. Leads strategy, capital allocation and operations.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Founder & CEO | Bluetile Games | — | 2026 |
-| Founder | BestPlay | — | — |
+| Founder & CEO | Bluetile Games, S.L. / Bestplay Systems, S.L. | — | — |
+| Trust & Safety Team Lead | Google | — | — |
 
-**Arun Agarwal** — Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’). from: external; experience: over two decades; qualifications: Chartered Accountant.
+**Arun Agarwal** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'). from: external; experience: over two decades; qualifications: Chartered Accountant.
 
-The filing's own profile: “Mr. Arun Agarwal is a Chartered Accountant, who brings over two decades of rich experience in finance and business strategy across global organizations. Before joining us, Arun has served as Global CFO at Ness Digital Engineering, a Global PE owned organization and at Mastek Limited, listed on an Indian stock exchange, where he played a pivotal role in driving financial growth and transforming finance into a strategic enabler for business transformation. Earlier, Arun held leadership roles at Firstsource Solutions, General Electric, Wipro, and Tata Motors.”
+The filing's own profile: “Mr. Arun Agarwal is a Chartered Accountant, who brings over two decades of rich experience in finance and business strategy across global organizations. Before joining us, Arun has served as Global CFO at Ness Digital Engineering, a Global PE owned organization and at Mastek Limited, listed on an Indian stock exchange, where he played a pivotal role in driving financial growth and transforming finance into a strategic enabler for business transformation. His expertise in structuring complex financial deals, optimizing business profitability, and ensuring operational efficiency has significantly contributed to scaling the company and achieving long-term business success.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -19378,30 +18550,6 @@ The filing's own profile: “Mr. Arun Agarwal is a Chartered Accountant, who bri
 | leadership roles | General Electric | — | — |
 | leadership roles | Wipro (WIPRO) | — | — |
 | leadership roles | Tata Motors (TMCV) | — | — |
-
-Results of **Mastek Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,055 | 3,455 | +13.1% a year over 1 year |
-| Operating profit (₹ cr) | 509 | 546 | +7.3% a year over 1 year |
-| PAT (₹ cr) | 311 | 376 | +20.9% a year over 1 year |
-| Operating profit margin (%) | 16.7 | 15.8 | -0.9 pts |
-| ROCE (%) | 18.0 | 17.0 | -1.0 pts |
-| ROE (%) | 14.9 | 15.3 | +0.4 pts |
-| Borrowings (₹ cr) | 519 | 583 | +64 |
-
-Results of **Prism Johnson Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2024):
-
-| Mar 2023 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 7,361 | 7,427 | +0.9% a year over 1 year |
-| Operating profit (₹ cr) | 374 | 497 | +32.9% a year over 1 year |
-| PAT (₹ cr) | -158 | 162 | loss to profit |
-| Operating profit margin (%) | 5.1 | 6.7 | +1.6 pts |
-| ROCE (%) | 1.0 | 3.0 | +2.0 pts |
-| ROE (%) | -13.1 | 11.7 | +24.8 pts |
-| Borrowings (₹ cr) | 2,182 | 2,243 | +61 |
 
 ### 5. On the calls
 
@@ -19632,9 +18780,9 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Managing Director** | Sucheth Davuluri (moved to another role in the company or group) | Saharsh Davuluri (internal; from 2026-04-01) | effective | 2026-04-01 |
+| **Chief Executive Officer and Managing Director** | Sucheth Davuluri (moved to another role in the company or group; last day 2026-03-31) | Saharsh Davuluri (internal; from 2026-04-01) | effective | 2026-04-01 |
 
-- **Why Sucheth Davuluri is leaving, in the filing's words:** “who has played a key role in the Company's transformation towards a CDMO-focused business model and will now assume the role of Executive Vice Chairman of the Company” Stays on as: Executive Vice Chairman of the Company.
+- **Why Sucheth Davuluri is leaving, in the filing's words:** “the role change between Sucheth and me effective April 1 was part of a preplanned transition” Stays on as: Executive Vice Chairman of the Company.
 - In the documents: “Saharsh Davuluri will assume the role of Chief Executive Officer and Managing Director, effective immediately, as the company moves into its next stage of CDMO growth.” — [2026-04-01 Press Release](https://nsearchives.nseindia.com/corporate/NEULANDLAB_01042026133750_Signed_SEIntimationPressRelease01042026.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-04-01 Press Release](https://nsearchives.nseindia.com/corporate/NEULANDLAB_01042026133750_Signed_SEIntimationPressRelease01042026.pdf)
@@ -19683,11 +18831,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Saharsh Davuluri** — Chief Executive Officer and Managing Director. from: internal; experience: more than 18 years.
 
-The filing's own profile: “Saharsh has been with the company for more than 18 years and will position the CDMO as a premier global API process development and commercial manufacturing specialist. Neuland's recent successes have been built on a growing reputation for scale-up of complex APIs and peptides, and the business has tripled its contract services revenues during the last 3-years. Saharsh has led Neuland's transformation into a new chemical entity (NCE)-focused drug substance CDMO.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| — | Neuland Laboratories Limited (NEULANDLAB) | — | 2026 |
+The filing's own profile: “Saharsh has been with the company for more than 18 years and will position the CDMO as a premier global API process development and commercial manufacturing specialist. Saharsh has led Neuland's transformation into a new chemical entity (NCE)-focused drug substance CDMO. In recent years, the company has secured a growing number of commercial manufacturing contracts with global innovator companies, reflecting rising demand for its strengths in process chemistry, scale-up, and reliable commercial supply.”
 
 ### 5. On the calls
 
@@ -19744,9 +18888,9 @@ The filing's own profile: “Saharsh has been with the company for more than 18 
 
 ### 3. Track record — the outgoing management
 
-**Virender Jeet** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Virender Jeet** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -19795,9 +18939,9 @@ The filing's own profile: “With 33 years at Newgen, Tarun Nandwani has played 
 | **Director (Finance); Chief Financial Officer (CFO) and KMP** | Mahesh Chander Gupta (interim holder replaced; last day 2026-05-12) | Arvind Kumar (government appointee; from 2026-05-27) | effective | 2026-05-12 |
 
 - **Why Hira Nand is leaving, in the filing's words:** “Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026”
-- In the documents: “In terms of Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015, it is hereby informed that Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026 and he has ceased to be a Director and CFO of NFL w.e.f. 01.03.2026.” — [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
+- In the documents: “In terms of Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015, it is hereby informed that Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026 and he has ceased to be a Director and CFO of NFL w.e.f. 01.03.2026.” — [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
 - **Why Mahesh Chander Gupta is leaving, in the filing's words:** “Shri Mahesh Chander Gupta, Director (Marketing) ceased to hold the additional charge of Director (Finance) w.e.f. 12.05.2026.” Stays on as: Director (Marketing), National Fertilizers Limited.
-- In the documents: “Shri Arvind Kumar, Director(Finance) has been appointed as Chief Financial Officer and KMP of the Company w.e.f. 27.05.2026.” — [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf)
+- In the documents: “Shri Arvind Kumar, Director(Finance) has been appointed as Chief Financial Officer and KMP of the Company w.e.f. 27.05.2026.” — [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf)
 
 *All 6 filing(s) read for the seats:* [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/NFL_27052026193837_NSEregsigned30.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-04-17 Cessation](https://nsearchives.nseindia.com/corporate/NFL_17042026173428_SignedNSEApp.pdf) · [2026-04-17 Appointment](https://nsearchives.nseindia.com/corporate/NFL_17042026173609_SignedNSEApp.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
 
@@ -19827,7 +18971,7 @@ The filing's own profile: “With 33 years at Newgen, Tarun Nandwani has played 
 
 ### 3. Track record — the outgoing management
 
-**Hira Nand** — Director (Finance) and CFO, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Hira Nand** — Director (Finance) and CFO, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -19996,7 +19140,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Girija Subramanian** — Chairman cum Managing Director (CMD), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Girija Subramanian** — Chairman cum Managing Director (CMD), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -20053,7 +19197,7 @@ The filing's own profile: “Ms. Lavanya R. Mundayur is currently the Chairman c
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** The Government of India (President of India, Ministry of Coal), the promoter, sold 2.73% of NLC India's capital, cutting its holding from 72.2% to 69.47%. The government remains the controlling promoter; no new owner arrived.
+**Ownership — Large stake change, same controller.** The Government of India (President of India, Ministry of Coal), the promoter, sold 2.73% of NLC India's capital, reducing its promoter holding from 72.2% to 69.47%. The Government remains the controlling promoter; NLCIL continues as a 'Navratna' Government of India Enterprise.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
@@ -20065,6 +19209,8 @@ The filing's own profile: “Ms. Lavanya R. Mundayur is currently the Chairman c
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 72.2% (2025-09-30) → 72.2% (2025-12-31) → 72.2% (2026-03-31) → 69.47% (2026-06-30) → 69.47% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 2.73% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-05-15 Updates](https://nsearchives.nseindia.com/corporate/NLCINDIA_15052026175833_FinResultsQ4-OCR_Signed.pdf) · [2026-02-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026150946_565th_BM_Outcome_Signed.pdf) · [2026-02-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026151211_565th_BM_Outcome_Signed.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -20109,9 +19255,9 @@ The filing's own profile: “Ms. Lavanya R. Mundayur is currently the Chairman c
 
 **President of India, Ministry of Coal, Government of India** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 72.2% → 69.47%.
 
-**Prasanna Kumar Motupalli** — Chairman and Managing Director (CMD), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Prasanna Kumar Motupalli** — Chairman and Managing Director (CMD), in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -20241,18 +19387,6 @@ The company's results while they held the seat (the year before they took it, to
 |---|---|---|---|
 | Chairman and Managing Director (CMD) | NMDC Limited (NMDC) | — | — |
 
-Results of **NMDC Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 17,667 | 23,906 | +16.3% a year over 2 years |
-| Operating profit (₹ cr) | 6,054 | 8,150 | +16.0% a year over 2 years |
-| PAT (₹ cr) | 5,601 | 6,520 | +7.9% a year over 2 years |
-| Operating profit margin (%) | 34.3 | 34.1 | -0.2 pts |
-| ROCE (%) | 29.0 | 30.0 | +1.0 pts |
-| ROE (%) | 24.8 | 22.0 | -2.8 pts |
-| Borrowings (₹ cr) | 2,128 | 4,276 | +2,148 |
-
 Results of **NMDC Steel Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2025):
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
@@ -20364,18 +19498,6 @@ Results of **NMDC Ltd.** while they were Chairman there (annual reports on file 
 | ROE (%) | 24.8 | 22.0 | -2.8 pts |
 | Borrowings (₹ cr) | 2,128 | 4,276 | +2,148 |
 
-Results of **NMDC Steel Ltd.** while they were Chairman there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 0.0 | 8,503 | loss to profit |
-| Operating profit (₹ cr) | 0.0 | -1,788 | — |
-| PAT (₹ cr) | 0.0 | -2,374 | — |
-| Operating profit margin (%) | — | -21.0 | — |
-| ROCE (%) | -9.0 | 3.0 | +12.0 pts |
-| ROE (%) | 0.0 | -18.1 | -18.1 pts |
-| Borrowings (₹ cr) | 3,842 | 5,909 | +2,067 |
-
 **Anurag Kapil** — Chief Financial Officer (CFO) / Director (Finance) on the Board. from: government appointee; experience: 26 years in Indian Railways and CPSUs; qualifications: Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.
 
 The filing's own profile: “Shri Anurag Kapil, an officer of Indian Railway Accounts Service (IRAS) of 1998 Batch, has a versatile experience of 26 years in Indian Railways and CPSUs with a blend of operational expertise & strategic vision to drive transformative changes across critical sectors. He is Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.”
@@ -20437,9 +19559,9 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Makarand Padalkar** — Managing Director and Chief Executive Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Makarand Padalkar** — Managing Director and Chief Executive Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -20451,7 +19573,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 25.7 | 33.7 | +8.0 pts |
 | Borrowings (₹ cr) | 70.0 | 32.0 | -38 |
 
-**Avadhut Ketkar** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Avadhut Ketkar** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -20474,18 +19596,6 @@ The filing's own profile: “Mr. Avadhut (Vinay) Ketkar serves as the Chief Fina
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Oracle Financial Services Software Limited (OFSS) | — | 2026 |
-
-Results of **Oracle Financial Services Software Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,698 | 6,847 | +9.6% a year over 2 years |
-| Operating profit (₹ cr) | 2,471 | 3,076 | +11.6% a year over 2 years |
-| PAT (₹ cr) | 1,806 | 2,380 | +14.8% a year over 2 years |
-| Operating profit margin (%) | 43.4 | 44.9 | +1.5 pts |
-| ROCE (%) | 35.0 | 41.0 | +6.0 pts |
-| ROE (%) | 24.2 | 28.5 | +4.3 pts |
-| Borrowings (₹ cr) | 69.0 | 46.0 | -23 |
 
 **Manish Bhandari** — Chief Financial Officer (Key Managerial Personnel). from: internal; experience: over three decades of experience across diverse finance disciplines; qualifications: He is an Associate Member of the Institute of Chartered Accountants of India..
 
@@ -20542,9 +19652,9 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Harish Abichandani** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Harish Abichandani** — Chief Financial Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -20830,9 +19940,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Subodh Kumar** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Subodh Kumar** — Chief Financial Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -21203,77 +20313,6 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ---
 
-## PHOENIXLTD — Phoenix Mills Ltd.
-
-**CEO / MD change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Managing Director and Key Managerial Personnel** | Shishir Shrivastava (moved to another role in the company or group; last day 2025-09-30) | — not named | seat vacant — no successor named | 2025-11-28 |
-
-- **Why Shishir Shrivastava is leaving, in the filing's words:** “redesignation of Mr. Shishir Shrivastava from Managing Director and Key Managerial Personnel to Non-Executive, Non-Independent Director designated as Vice - Chairman of the Company liable to retire by rotation” Stays on as: Non-Executive, Non-Independent Director designated as Vice - Chairman of the Company, liable to retire by rotation, to hold office for a period of two years with effect from October 01, 2025 to September 30, 2027.
-- In the documents: “Approval for redesignation of Mr. Shishir Shrivastava (Din 01266095) from Managing Director and Key Managerial Personnel to Non -Executive Non - Independent Director And Vice Chairman Of the Company .” — [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_29122025201911_PML_Outcome_of_Postal_Ballot_29112025.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_28112025135654_PML_postalballot_28112025.pdf)
-
-*All 2 filing(s) read for the seats:* [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_29122025201911_PML_Outcome_of_Postal_Ballot_29112025.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_28112025135654_PML_postalballot_28112025.pdf)
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 3,972 | 3,807 | 4,423 |
-| Sales growth (%) | 51.8 | -4.2 | 16.2 |
-| Operating profit (₹ cr) | 2,182 | 2,162 | 2,637 |
-| Operating profit margin (%) | 54.9 | 56.8 | 59.6 |
-| PAT (₹ cr) | 1,333 | 1,307 | 1,557 |
-| PAT growth (%) | -9.8 | -2.0 | 19.1 |
-| PAT margin (%) | 33.6 | 34.3 | 35.2 |
-| EPS (₹) | 30.8 | 27.5 | 34.2 |
-| Cash from operations (₹ cr) | 2,161 | 2,084 | 2,426 |
-| Free cash flow (₹ cr) | 488 | -532 | 1,029 |
-| ROCE (%) | 12.0 | 11.0 | 13.0 |
-| ROE (%) | 14.1 | 12.5 | 14.2 |
-| Borrowings (₹ cr) | 4,639 | 4,687 | 5,323 |
-| Debt / equity (x) | 0.5 | 0.5 | 0.5 |
-| Working-capital days | -78.0 | -112 | -11.0 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/PHOENIXLTD.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-**Share price since the announcement:** ₹1,741.00 on 2025-11-27 (the close before) → ₹2,255.00 on 2026-11-13: **+29.5%**; Nifty 500 -0.9% over the same days. Unadjusted closes from the NSE bhavcopy.
-
-### 3. Track record — the outgoing management
-
-**Shishir Shrivastava** — Managing Director and Key Managerial Personnel, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,936 | 3,807 | +14.5% a year over 5 years |
-| Operating profit (₹ cr) | 973 | 2,162 | +17.3% a year over 5 years |
-| PAT (₹ cr) | 388 | 1,307 | +27.5% a year over 5 years |
-| Operating profit margin (%) | 50.3 | 56.8 | +6.5 pts |
-| ROCE (%) | 9.0 | 11.0 | +2.0 pts |
-| ROE (%) | 10.5 | 12.5 | +2.0 pts |
-| Borrowings (₹ cr) | 4,308 | 4,687 | +379 |
-
-### 4. Track record — the incoming management
-
-No successor or new owner is named yet.
-
-### 5. On the calls
-
-1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 1 |
-
-*Every passage in full: [companies/PHOENIXLTD.md](companies/PHOENIXLTD.md).*
-
----
-
 ## PIDILITIND — Pidilite Industries Ltd.
 
 **CFO change**
@@ -21360,7 +20399,7 @@ Nothing about the change in the calls on file for the window.
 - **Why the holder is leaving, in the filing's words:** “The company is taking all necessary steps for filling up the vacancy.”
 - In the documents: “We wish to inform you that Mr. Ajai Kumar Shukla (DIN:11358498), has assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of the Company with effect from today i.e. December 18, 2025.” — [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf)
+*All 5 filing(s) read for the seats:* [2026-03-13 General Updates](https://nsearchives.nseindia.com/corporate/PNBHOUSING_13032026190254_SE_Intimation_Postal_Ballot_13032026.pdf) · [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf)
 
 ### 2. Financials — the last three years
 
@@ -21388,15 +20427,15 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA.
+**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA; holds a post graduate degree in Finance from CSJM University, Kanpur, and has completed his Bachelors in Science from Kanpur University.
 
 The filing's own profile: “Mr. Ajai Kumar Shukla is aged 52 years. He is an MBA and possesses over 30 years of experience in Housing and Mortgage Lending business. He has been working with TATA Capital Housing Finance Limited for last 16 years. He is currently working with Tata Capital Housing Finance Limited as the Chief Business Officer. He has also headed Credit, Risk, Valuation, Digital Transformation and Affordable Housing Finance in TATA Capital. Prior to TATA Capital, he had worked with ICICI Bank in Mortgage business for more than 7 years in various roles & responsibilities across various regions. Mr Ajai had started his career with LIC Housing Finance Limited and worked there for 7 years.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Business Officer | Tata Capital Housing Finance Limited | — | — |
-| Mortgage business | ICICI Bank (ICICIBANK) | — | — |
-| started his career | LIC Housing Finance Limited (LICHSGFIN) | — | — |
+| Chief Business Officer | TATA Capital Housing Finance Limited | — | — |
+| Mortgage business for more than 7 years in various roles & responsibilities across various regions | ICICI Bank (ICICIBANK) | — | — |
+| started his career with LIC Housing Finance Limited and worked there for 7 years | LIC Housing Finance Limited (LICHSGFIN) | — | — |
 
 ### 5. On the calls
 
@@ -21434,12 +20473,12 @@ The filing's own profile: “Mr. Ajai Kumar Shukla is aged 52 years. He is an MB
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Devendra Kumar Agarwal (resignation; last day 2026-03-31) | Chakresh Kumar Jain (internal; from 2026-05-01) | effective | 2026-03-31 |
+| **Chief Financial Officer (CFO)** | Devendra Kumar Agarwal (resignation; last day 2026-03-31) | Chakresh Kumar Jain (internal; from 2026-05-19) | effective | 2026-03-31 |
 
-- **Why Devendra Kumar Agarwal is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer of the Company on account of health issues, with effect from closing of business hours of March 31, 2026.”
-- In the documents: “Appointed and designated Mr. Chakresh Kumar Jain, Managing Director as Chief Financial Officer of the Company” — [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · [2026-03-31 Resignation](https://nsearchives.nseindia.com/corporate/PNCINFRA_31032026175921_ResignationofCFO31032026.pdf)
+- **Why Devendra Kumar Agarwal is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer of the Company on account of health issues, with effect from closing of business hours of March31,2026.”
+- In the documents: “Pursuant to the provisions of Regulation 30 (6) of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 this is to inform you that Mr. Devendra Kumar Agarwal, Chief Financial Officer (CFO) of the Company has resigned from his position due to health issues, which has been accepted by the Board of Directors of Company and is being relieved from the Company with effect from closing of business hours of March31,2026.” — [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026161006_Outcomeofboardmeeting19052026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · [2026-03-31 Resignation](https://nsearchives.nseindia.com/corporate/PNCINFRA_31032026175921_ResignationofCFO31032026.pdf)
+*All 4 filing(s) read for the seats:* [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_07092026141859_NoticeAnnualreport07092026.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026161006_Outcomeofboardmeeting19052026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/PNCINFRA_19052026162448_Changeinmanagement19052026.pdf) · [2026-03-31 Resignation](https://nsearchives.nseindia.com/corporate/PNCINFRA_31032026175921_ResignationofCFO31032026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -21469,7 +20508,7 @@ The filing's own profile: “Mr. Ajai Kumar Shukla is aged 52 years. He is an MB
 
 **Pradeep Kumar Jain HUF, Chakresh Kumar Jain HUF, Yogesh Kumar Jain HUF** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 7.65% combined (Pradeep Kumar Jain HUF 2.05%, Chakresh Kumar Jain HUF 3.61%, Yogesh Kumar Jain HUF 1.99%) → Nil (0%) each.
 
-**Devendra Kumar Agarwal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Devendra Kumar Agarwal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -21493,21 +20532,7 @@ What the documents say about them: “Individual members of the promoter Jain fa
 
 **Chakresh Kumar Jain** — Chief Financial Officer (CFO). from: internal.
 
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Managing Director | PNC Infratech Limited (PNCINFRA) | — | — |
-
-Results of **PNC Infratech Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2025):
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,603 | 6,769 | +3.9% a year over 5 years |
-| Operating profit (₹ cr) | 1,328 | 2,066 | +9.2% a year over 5 years |
-| PAT (₹ cr) | 550 | 815 | +8.2% a year over 5 years |
-| Operating profit margin (%) | 23.7 | 30.5 | +6.8 pts |
-| ROCE (%) | 21.0 | 14.0 | -7.0 pts |
-| ROE (%) | 21.5 | 13.6 | -7.9 pts |
-| Borrowings (₹ cr) | 3,515 | 9,364 | +5,849 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 
@@ -21654,9 +20679,9 @@ The filing's own profile: “Mr. Deepak Vijay is an accomplished finance leader 
 
 ### 3. Track record — the outgoing management
 
-**Ravindra Kumar Tyagi** — Chairman & Managing Director (CMD), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Ravindra Kumar Tyagi** — Chairman & Managing Director (CMD), in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -21773,18 +20798,20 @@ The filing's own profile: “Shri Amol Babulal Taori (DIN: 11890590) is a Charte
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter Surenderpal Singh Saluja sold 5.33% of the capital in the open market, disclosed on 2026-05-29. Promoter-and-group holding fell from 63.94% to 58.49%. No buyer took control and no new promoter arrived; the same promoter group still holds a majority.
+**Ownership — Large stake change, same controller.** Promoter Surenderpal Singh Saluja sold 5.33% of the capital in the open market in May 2026. Promoter-and-group holding fell from 63.94% to 58.49%, still a clear majority. No new promoter arrived; the Saluja promoter group continues to control the company.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Surenderpal Singh Saluja | founder family | — | — |
-| Incoming | — | — | — | — |
+| Outgoing | Surenderpal Singh Saluja (promoter) | founder family | promoter and group 63.94% | promoter and group 58.49% (Reg 29 disclosure states 58.61% held after the sale) |
+| Incoming | — | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Dates: other 2026-05-29
+- Dates: block deal 2026-05-29
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 63.94% (2025-09-30) → 63.94% (2025-12-31) → 63.94% (2026-03-31) → 58.49% (2026-06-30) → 58.49% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 5.33% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_04112026182631_Outcome_Q2_FY_2026-27_Signed.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_04112026184950_BM_Outcome_Q2_FY27_Financial_Results.pdf)
 
 ### 2. Financials — the last three years
 
@@ -21812,7 +20839,7 @@ The filing's own profile: “Shri Amol Babulal Taori (DIN: 11890590) is a Charte
 
 ### 3. Track record — the outgoing management
 
-**Surenderpal Singh Saluja** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved — → —.
+**Surenderpal Singh Saluja (promoter)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved promoter and group 63.94% → promoter and group 58.49% (Reg 29 disclosure states 58.61% held after the sale).
 
 ### 4. Track record — the incoming management
 
@@ -22093,18 +21120,6 @@ The filing's own profile: “Mr. Neeraj Jain is a Business leader with a growth 
 | — | Comviva | — | — |
 | — | Convergys | — | — |
 
-Results of **Vardhman Textiles Ltd.** while they were Managing Director there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 9,505 | 9,785 | +2.9% a year over 1 year |
-| Operating profit (₹ cr) | 973 | 1,263 | +29.8% a year over 1 year |
-| PAT (₹ cr) | 637 | 887 | +39.2% a year over 1 year |
-| Operating profit margin (%) | 10.2 | 12.9 | +2.7 pts |
-| ROCE (%) | 9.0 | 11.0 | +2.0 pts |
-| ROE (%) | 7.0 | 9.0 | +2.0 pts |
-| Borrowings (₹ cr) | 1,791 | 1,238 | -553 |
-
 ### 5. On the calls
 
 11 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -22131,7 +21146,7 @@ Results of **Vardhman Textiles Ltd.** while they were Managing Director there (a
 | **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Vikas Maheshwari (resignation; last day 2026-08-31) | Sudarshan Patodia (external; from 2026-09-23) | effective | 2026-08-25 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “The appointment of Mr. Abrarali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale-up are key.”
+- In the documents: “The appointment of Mr. Abrarali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale-up are key.” — [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf)
 - **Why Vikas Maheshwari is leaving, in the filing's words:** “due to personal reasons”
 - In the documents: “the Board of Directors of the Company, by way of a resolution passed by circulation on August 25, 2026, has noted and accepted the resignation of Mr. Vikas Maheshwari from the position of Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company, with effect from the close of business hours on August 31, 2026, due to personal reasons.” — [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · +1 more
 
@@ -22163,7 +21178,7 @@ Results of **Vardhman Textiles Ltd.** while they were Managing Director there (a
 
 ### 3. Track record — the outgoing management
 
-**Vikas Maheshwari** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Vikas Maheshwari** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -22183,17 +21198,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Abrarali Dalal** — Chief Executive Officer.
 
-Results of **Rainbow Childrens Medicare Ltd.** while they were CEO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,516 | 1,703 | +12.3% a year over 1 year |
-| Operating profit (₹ cr) | 494 | 548 | +10.9% a year over 1 year |
-| PAT (₹ cr) | 244 | 282 | +15.6% a year over 1 year |
-| Operating profit margin (%) | 32.6 | 32.2 | -0.4 pts |
-| ROCE (%) | 19.0 | 17.0 | -2.0 pts |
-| ROE (%) | 16.6 | 17.1 | +0.5 pts |
-| Borrowings (₹ cr) | 764 | 891 | +127 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 **Sudarshan Patodia** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). from: external; experience: nearly two decades of experience in finance; qualifications: Chartered Accountant and a Gold Medalist.
 
@@ -22231,6 +21236,7 @@ The filing's own profile: “Mr. Sudarshan Patodia is a Chartered Accountant and
 
 - **Why Bhaskar Swaminathan is leaving, in the filing's words:** “In view of Mr. Bhaskar Swaminathan joining another Tata company, he is being relieved from the services of the Company as the Chief Financial Officer (CFO), effective November 4, 2026.”
 - In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we wish to inform that in view of Mr. Bhaskar Swaminathan joining another Tata Company, the Board of Directors at its Meeting held today, has agreed to relieve him from the services of the Company as the Chief Financial Officer, effective November 4, 2026.” — [2026-11-04 Updates](https://nsearchives.nseindia.com/corporate/RALLIS1_04112026102035_30_5__Intimation_Signed.pdf) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026184411_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026185617_SEINTIMATION20082026SIGNED.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 7 filing(s) read for the seats:* [2026-11-04 Updates](https://nsearchives.nseindia.com/corporate/RALLIS1_04112026102035_30_5__Intimation_Signed.pdf) · [2026-10-31 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_31102026184238_SMPINTIMATION31102026Signed.pdf) · [2026-10-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RALLIS_ROID_102833_KMP_Doc.zip) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026184411_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026185617_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RALLIS_ROID_96836_KMP_Doc.zip) · +1 more
 
@@ -22340,7 +21346,7 @@ The filing's own profile: “Mr. Sridhar Radhakrishnan is a seasoned finance pro
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
-**Rohan P Mittal** — Chief Financial Officer and Key Managerial Personnel / Deputy Chief Financial Officer, who shall act as the Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Rohan P Mittal** — Chief Financial Officer and Key Managerial Personnel / Deputy Chief Financial Officer, who shall act as the Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -22500,30 +21506,6 @@ The filing's own profile: “Mr. Satyaki Ghosh is an accomplished business leade
 | leadership roles | GE Lighting | — | — |
 | leadership roles | Burns Philp | — | — |
 
-Results of **Grasim Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 76,404 | 95,701 | +25.3% a year over 1 year |
-| Operating profit (₹ cr) | 18,635 | 20,431 | +9.6% a year over 1 year |
-| PAT (₹ cr) | 6,987 | 11,206 | +60.4% a year over 1 year |
-| Operating profit margin (%) | 24.4 | 21.3 | -3.1 pts |
-| ROCE (%) | 9.0 | 9.0 | +0.0 pts |
-| ROE (%) | 10.7 | 14.8 | +4.1 pts |
-| Borrowings (₹ cr) | 79,078 | 74,744 | -4,334 |
-
-Results of **Raymond Lifestyle Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 6,177 | 6,888 | +11.5% a year over 1 year |
-| Operating profit (₹ cr) | 484 | 678 | +40.1% a year over 1 year |
-| PAT (₹ cr) | 38.0 | 46.0 | +21.1% a year over 1 year |
-| Operating profit margin (%) | 7.8 | 9.8 | +2.0 pts |
-| ROCE (%) | 4.0 | — | — |
-| ROE (%) | 0.4 | 0.5 | +0.1 pts |
-| Borrowings (₹ cr) | 2,291 | 2,186 | -105 |
-
 **Prasad Ellatch Chathuar** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: rich experience of 28 years in Consumer Industry; qualifications: Mr. Prasad is a Cost Accountant, Chartered Accountant and has done an Executive Certification Program in Finance from Harvard University..
 
 The filing's own profile: “Mr. Prasad Ellatch Chathuar is a visionary executive with rich experience of 28 years in Consumer Industry. Before joining this Company, he was Chief Financial Officer in Bajaj Electricals Limited. He has handled various roles in the organization since joining and predominantly helped the Company in Business Transformation, Business and Financial strategies including evaluation of organic and in-organic growth strategies, Treasury Management, Working Capital Management, Finance, MIS & Budgeting, Taxation, Commercial Activities, and building a Finance and Strategy team for the future. Previously, he has worked with Voltas Limited in senior position for over 17 years and also in Emami Paper Mills Limited for 5 years.”
@@ -22550,37 +21532,28 @@ The filing's own profile: “Mr. Prasad Ellatch Chathuar is a visionary executiv
 
 ## RBA — Restaurant Brands Asia Ltd.
 
-**Change of control — completed · CFO change**
+**Change of control — completed**
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Inspira Global (Aayush and Madhusudan Agrawal), through Lenexis Foodworks and affiliates, bought the entire 11.26% held by promoter QSR Asia Pte. Ltd. (Everstone) at ₹70/share, subscribed ~₹900 cr equity plus ~₹600 cr warrants, and completed a 26% open offer. Closing July 7, 2026: Acquirers became promoters; sellers reclassified public.
+**Ownership — Change of control — completed.** Inspira Global (Agrawal family), through Lenexis Foodworks and affiliates, acquired control of Restaurant Brands Asia: ₹900 crore preferential equity plus ₹600 crore warrants, purchase of QSR Asia's entire 11.26% stake at ₹70, and a 26% open offer. Completed 7 July 2026; Everstone-backed QSR Asia exited and was reclassified public.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | QSR Asia Pte. Ltd. (majority owned by Everstone Capital) and F&B Asia Ventures (Singapore) Pte. Ltd. | private-equity sponsor | 11.26% | 0% |
-| Incoming | Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal and Inspira Agro Trading LLC (Inspira Global) | strategic buyer | — | 41.78% (41.73% promoter holding at 2026-09-30; up to 48.04% on exercise of all warrants) |
+| Outgoing | QSR Asia Pte. Ltd. and F&B Asia Ventures (Singapore) Pte. Ltd. (majority owned by Everstone Capital) | private-equity sponsor | 11.26% | 0% |
+| Incoming | Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal (Acquirers) with Inspira Agro Trading LLC (PAC) — Inspira Global | strategic buyer | — | 41.73% (company: "Inspira Global owns 41.78% of the Company"; 48.04% upon exercise of all warrants) |
 
-- mode: share purchase agreement · price ₹70 per equity share (open offer ₹70 plus applicable interest of ₹0.39) · deal value total investment of ~INR 2,235 crores (SPA ~₹460 crore; preferential equity INR 8,99,99,78,960; warrants INR 5,99,99,99,950; open offer up to INR 14,64,54,64,260) · control changes
-- Open offer: price ₹70.00 per equity share along with applicable interest of ₹0.39 per share, size up to 20,80,61,717 shares, 26.00% of the Expanded Voting Share Capital, status completed
+- mode: share purchase agreement · price ₹70 per equity share (open offer ₹70 plus applicable interest of ₹0.39) · deal value total investment of ~INR 2,235 crores · control changes
+- Open offer: price ₹70.00 per equity share along with applicable interest of ₹0.39 per equity share, size up to 20,80,61,717 equity shares representing 26.00% of the Expanded Voting Share Capital, status completed
 - Why the seller is selling, in their words: “"The proposed transaction marks the complete exit of QSR Asia Pte. Ltd., in line with its planned investment lifecycle."”
-- Management changing with it: On July 7, 2026 Mr. Amit Manocha and Ms. Roshini Bakshi resigned as Non-Executive Non-Independent Directors "pursuant to the terms of the SPA and SSA" and Mr. Ajay Kaul resigned for personal reasons; Mr. Madhusudan Bhagwandas Agrawal and Mr. Aayush Madhusudan Agrawal were appointed Additional Non-Executive Non-Independent Directors "nominated by the Acquirers and IATL"; Mr. Madhusudan Agrawal became Chairman and Mrs. Tara Subramaniam stepped down as Chairperson. Mr. Rajeev Varman continued as Group CEO and Whole-time Director; on October 29, 2026 Mr. Shivakumar Dega and Mr. Anand Bathiya were appointed directors and Mr. Sumit Zaveri became CEO – India Business from November 1, 2026.
+- Management changing with it: Mr. Amit Manocha and Ms. Roshini Bakshi resigned as Non-Executive Non-Independent Directors pursuant to the terms of the SPA and SSA, and Mr. Ajay Kaul resigned for personal reasons, all effective July 7, 2026. Mr. Madhusudan Bhagwandas Agrawal and Mr. Aayush Madhusudan Agrawal were appointed Additional Non-Executive Non-Independent Directors nominated by the Acquirers and IATL; Mr. Madhusudan Agrawal became Chairman of the Board, Mrs. Tara Subramaniam stepping down as Chairperson. Both appointments were approved by members at the AGM on August 20, 2026. Mr. Rajeev Varman continued as Whole-time Director and Group CEO; the company said RBA would "continue to operate with its existing leadership team, operational structure and brand identity fully intact". On October 29, 2026 Mr. Anand Bathiya was appointed Additional Non-Executive Non-Independent Director, Mr. Shivakumar Dega as Independent Director, and Mr. Sumit Zaveri was made CEO – India Business effective November 1, 2026.
 - Dates: agreement 2026-01-20; public announcement 2026-01-20; other 2026-01-28; approval 2026-02-13; approval 2026-05-20; other 2026-06-02; open offer opens 2026-06-08; other 2026-06-19; other 2026-07-06; completion 2026-07-07
 - In the documents: “The Board also noted and took on record that on and from the Closing Date, the Acquirers and IATL have acquired control over the Company and shall be categorized as the ‘promoters’ of the Company; and the Sellers have ceased to be classified as the promoter and member of promoter group of the Company and stand re-classified to the ‘public’ category in accordance with the terms of the SPA, SSA and Regulation 31A of the SEBI Listing Regulations.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 11.27% (2025-09-30) → 11.26% (2025-12-31) → 11.26% (2026-03-31) → 9.22% (2026-06-02) → 9.22% (2026-06-30) → 41.73% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 9.22% and bought 0.0%; outside acquirers at 10% or more: CTL Trusteeship Limited acting as Common Security Trustee for the benefit of the debenture trustee(s) of the Debentures and the respective Debenture holders 16.71% (2026-07-17).
 
-*Filings read for the ownership:* [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBA_20082026162117_Finalupload.pdf) · [2026-07-09 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_09072026183122_09072026160440_RBA.pdf) · [2026-07-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_07072026213655_Finalupload.pdf) · +16 more
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Group Chief Financial Officer and Chief Business Officer** | Sumit Zaveri (moved to another role in the company or group; last day 2026-10-31) | — not named | seat vacant — no successor named | 2026-10-29 |
-
-- **Why Sumit Zaveri is leaving, in the filing's words:** “appointment of Mr. Sumit Zaveri as Chief Executive Officer for the India Business and consequent change in his designation from Group Chief Financial Officer and Chief Business Officer to ‘Chief Executive Officer – India Business’” Stays on as: Chief Executive Officer – India Business (Key Managerial Personnel, reporting to the Group Chief Executive Officer).
-- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee of the Company approved the appointment of Mr. Sumit Zaveri as Chief Executive Officer for the India Business and consequent change in his designation from Group Chief Financial Officer and Chief Business Officer to ‘Chief Executive Officer – India Business ’ with effect from November 1, 2026 .” — [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf)
-
-*All 4 filing(s) read for the seats:* [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/RBA_28072026211611_Finalupload.pdf)
+*Filings read for the ownership:* [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_29102026170235_FinalUpload.pdf) · [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBA_29102026170726_FinalUpload.pdf) · [2026-10-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBA_29102026171827_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172143_FinalUpload.pdf) · [2026-10-29 Change in Management](https://nsearchives.nseindia.com/corporate/RBA_29102026172656_FinalUpload.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBA_20082026162117_Finalupload.pdf) · +20 more
 
 ### 2. Financials — the last three years
 
@@ -22608,37 +21581,20 @@ The filing's own profile: “Mr. Prasad Ellatch Chathuar is a visionary executiv
 
 ### 3. Track record — the outgoing management
 
-**QSR Asia Pte. Ltd. (majority owned by Everstone Capital) and F&B Asia Ventures (Singapore) Pte. Ltd.** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 11.26% → 0%.
-
-**Sumit Zaveri** — Group Chief Financial Officer and Chief Business Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,004 | 2,823 | +23.0% a year over 5 years |
-| Operating profit (₹ cr) | 25.0 | 328 | +67.3% a year over 5 years |
-| PAT (₹ cr) | -282 | -204 | — |
-| Operating profit margin (%) | 2.5 | 11.6 | +9.1 pts |
-| ROCE (%) | -8.0 | — | — |
-| ROE (%) | -332 | -28.3 | +303.5 pts |
-| Borrowings (₹ cr) | 901 | 1,967 | +1,066 |
+**QSR Asia Pte. Ltd. and F&B Asia Ventures (Singapore) Pte. Ltd. (majority owned by Everstone Capital)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 11.26% → 0%.
 
 ### 4. Track record — the incoming management
 
-**Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal and Inspira Agro Trading LLC (Inspira Global)** (strategic buyer) — the incoming owner. Holding after: 41.78% (41.73% promoter holding at 2026-09-30; up to 48.04% on exercise of all warrants).
+**Lenexis Foodworks Private Limited, Aayush Agrawal Trust, Inspira Foodworks Private Limited, Mr. Aayush Madhusudan Agrawal (Acquirers) with Inspira Agro Trading LLC (PAC) — Inspira Global** (strategic buyer) — the incoming owner. Holding after: 41.73% (company: "Inspira Global owns 41.78% of the Company"; 48.04% upon exercise of all warrants).
 
-What the documents say about them: “"Inspira Global is an established Indian group, promoted by Madhusudan Agrawal and Aayush Agrawal, with diversified interests spanning real estate, food and beverage, pharmaceuticals, luxury home products and clean energy." "Lenexis Foodworks is a leading quick service food company in India... It operates a portfolio of distinct brands - Chinese Wok, The Momo Co., and Big Bowl", "owning and operating 250+ Chinese Wok restaurants across 45+ cities in India"; Aayush Agrawal is "recognised as a value-adding sponsor in the quick service restaurant business given his execution capability, partnership-driven approach and focus on sustainable growth and value creation."”
+What the documents say about them: “"Inspira Global is an established Indian group, promoted by Madhusudan Agrawal and Aayush Agrawal, with diversified interests spanning real estate, food and beverage, pharmaceuticals, luxury home products and clean energy." "Lenexis Foodworks is a leading quick service food company in India... It operates a portfolio of distinct brands - Chinese Wok, The Momo Co., and Big Bowl", "owning and operating 250+ Chinese Wok restaurants across 45+ cities in India". Aayush Agrawal "has scaled Lenexis Foodworks Private Limited... into one of India's largest homegrown quick service restaurant operators, with a network of over 250 kitchens across more than 45 cities"; recognised in Forbes 30 Under 30.”
 
 ### 5. On the calls
 
-13 passage(s) from 5 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
+7 passage(s) from 2 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
 
 | Call | About | Passages |
 |---|---|---:|
-| Nov 2025 | the seat | 3 |
-| Feb 2026 | the seat | 2 |
-| May 2026 | the seat | 1 |
 | Feb 2026 | the ownership | 2 |
 | May 2026 | the ownership | 5 |
 
@@ -22652,36 +21608,35 @@ What the documents say about them: “"Inspira Global is an established Indian g
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to a preferential issue of 929,134,820 new shares at INR 280, allotted 18 June 2026, giving it 60% of RBL Bank. Its mandatory open offer for 26% closed with nil shares tendered. Emirates NBD acquired control and became promoter of the Bank, which previously had no promoter.
+**Ownership — Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (INR 26,015.77 crore) on 18 June 2026, taking 60% of RBL Bank's expanded capital, and completed a mandatory 26% open offer in which nil shares were tendered. Emirates NBD is now promoter; the Bank is its subsidiary.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Public shareholders (the Bank had no promoter; promoter-and-group holding was 0.0%) | other | 100% (public); promoter 0.0% | 40% (public) |
-| Incoming | Emirates NBD Bank (P.J.S.C.) | strategic buyer | — | 60.00% |
+| Outgoing | None — RBL Bank had no promoter before the transaction; it was widely held by public shareholders | other | 0.0% (promoter and group holding nil at 2025-09-30, 2025-12-31 and 2026-03-31) | public shareholders fell from 100% to 40% of the expanded capital |
+| Incoming | Emirates NBD Bank (P.J.S.C.) | strategic buyer | — | 60.00% (59.88% at 2026-09-30) |
 
-- mode: preferential issue · price INR 280 (subscription price); open offer INR 282.38 incl. INR 2.38 interest · deal value Preferential issue up to INR 268,532,778,080 (approximately US $3 billion); open offer consideration INR 117,353,299,774.34 assuming full acceptance, actual Nil · control changes
-- Open offer: price INR 282.38 per share (Offer Price INR 280 plus Applicable Interest INR 2.38), size 26.00% of the Expanded Voting Share Capital (up to 415,586,443 shares), status completed — Nil shares tendered; offer opened 1 June 2026 and closed 12 June 2026
-- Why the seller is selling, in their words: “"It enables us to accelerate growth across our existing businesses" — infusion takes net worth to around INR42,000 crores and positions the Bank among the best capitalized banks in the country”
-- Management changing with it: "The Acquirer will appoint certain individuals as nominee directors on the board of directors of the Target Company upon consummation of the transactions contemplated in the Investment Agreement." RBI approval was required for appointment of identified persons as directors nominated by the Acquirer, and RBI advised revised board composition requirements requiring amendment of the Bank's articles of association; as on 22 May 2026 there were no Acquirer nominees on the Board. R. Subramaniakumar remained Managing Director (CEO) and Chandan Sinha Chairman as at 19 June 2026.
-- Dates: agreement 2025-10-18; public announcement 2025-10-18; approval 2025-11-12; approval 2026-05-14; open offer opens 2026-06-01; other 2026-06-12; completion 2026-06-18
+- mode: preferential issue · price INR 280 (subscription and offer price); open offer INR 282.38 including INR 2.38 applicable interest · deal value INR 26,015.77 crore invested through the preferential allotment; open offer size INR 117,353,299,774.34 assuming full acceptance (nil paid, as no shares were tendered) · control changes
+- Open offer: price INR 282.38 per share (Offer Price INR 280.00 plus Applicable Interest INR 2.38), size 26.00% of the Expanded Voting Share Capital (up to 415,586,443 shares), status completed — opened 1 June 2026, closed 12 June 2026, nil shares tendered or accepted
+- Management changing with it: The 17 July 2026 board meeting approved AGM items to appoint Mr. Suryanarayan Subramanian as Non-Executive Independent Director and Mr. Shayne Keith Nelson, Mr. Patrick John Sullivan, Mr. Neeraj Makin, Mr. Manoj Chawla and Mr. Marwan Mahmood Mohammad Hadi as Non-Executive Non-Independent Directors (Nominees of Emirates NBD Bank (P.J.S.C.)). RBI advised revised board composition requirements and amendment of the articles of association. R. Subramaniakumar continues as Managing Director & CEO.
+- Dates: agreement 2025-10-18; public announcement 2025-10-18; approval 2026-04-01; open offer opens 2026-06-01; other 2026-06-12; completion 2026-06-18
 - In the documents: “Pursuant to the Open Offer and the Preferential Issue, the Acquirer has acquired control over the TC and the Acquirer has become the promoter of the TC in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 0.0% (2025-09-30) → 0.0% (2025-12-31) → 0.0% (2026-03-31) → 60.0% (2026-06-18) → 60.0% (2026-06-30) → 59.88% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 60.0%.
 
-*Filings read for the ownership:* [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_19062026185147_PostOfferAdvertisementSigned.pdf) · [2026-06-15 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_15062026184953_15062026105438_RBL.pdf) · [2026-06-11 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/vipulr_11062026200242_11062026183414_RBLBANK.pdf) · [2026-06-10 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_10062026185402_RBLBANK.pdf) · +13 more
+*Filings read for the ownership:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12102026163624_BoardMeetingOutcomeQ2FY2627resultssigned.pdf) · [2026-07-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_17072026162201_BoardMeetingOutcome_Q1FY26_27Signed.pdf) · [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_19062026185147_PostOfferAdvertisementSigned.pdf) · [2026-06-15 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_15062026184953_15062026105438_RBL.pdf) · +15 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer** | Buvanesh Tharashankar (resignation; last day 2025-12-15) | Deepak Ruiya (interim; internal; from 2025-12-30) | effective | 2025-12-15 |
-| **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 |
+| **Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”)** | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 |
 
 - **Why Buvanesh Tharashankar is leaving, in the filing's words:** “has tendered his resignation in order to pursue opportunities outside the Bank”
-- In the documents: “Mr. Buvanesh Tharashankar , Chief Financial Officer , being Key Managerial Personnel and part of the Senior Management of RBL Bank Limited ("the Bank") has tendered his resignation in order to pursue opportunities outside the Bank .” — [2025-12-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152518_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152957_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Management](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025153312_OutcomeofBMandOtherDisclosure30122025.pdf) · +1 more
+- In the documents: “Resignation of Mr. Buvanesh Tharashankar as Chief Financial Officer of the Bank with effect from the close of business hours on December 15, 2025 , in order to pursue opportunities outside the Bank.” — [2025-12-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152518_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152957_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Management](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025153312_OutcomeofBMandOtherDisclosure30122025.pdf) · +1 more
 - **Why Deepak Ruiya is leaving, in the filing's words:** “Consequent to the appointment of Mr. Bhavin Lakhpatwala as CFO & KMP of the Bank, Mr. Deepak Ruiya shall cease to be the KMP of the Bank and shall continue as the Deputy CFO of the Bank.” Stays on as: Deputy CFO of the Bank.
-- In the documents: “the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Bank with effect from June 12, 2026.” — [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · +1 more
+- In the documents: “the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ( “CFO ”) and Key Managerial Personnel (“KMP”) of the Bank with effect from June 12, 2026.” — [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · +1 more
 
-*All 13 filing(s) read for the seats:* [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-06-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026185647_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-06-05 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026190241_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · [2026-02-21 General Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_21022026110330_IntimationunderReg30Signed.pdf) · +7 more
+*All 14 filing(s) read for the seats:* [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-06-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026185647_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-06-05 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026190241_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_25042026133558_BoardMeetingOutcome_Q4FY25_26Signed.pdf) · +8 more
 
 ### 2. Financials — the last three years
 
@@ -22705,7 +21660,7 @@ What the documents say about them: “"Inspira Global is an established Indian g
 
 ### 3. Track record — the outgoing management
 
-**Public shareholders (the Bank had no promoter; promoter-and-group holding was 0.0%)** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 100% (public); promoter 0.0% → 40% (public).
+**None — RBL Bank had no promoter before the transaction; it was widely held by public shareholders** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 0.0% (promoter and group holding nil at 2025-09-30, 2025-12-31 and 2026-03-31) → public shareholders fell from 100% to 40% of the expanded capital.
 
 **Buvanesh Tharashankar** — Chief Financial Officer, date of taking the seat not on file.
 
@@ -22719,7 +21674,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | -11.7 | -20.3 | -8.6 pts |
 | ROE (%) | 4.7 | 4.6 | -0.1 pts |
 
-**Deepak Ruiya** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2026 per the filing.
+**Deepak Ruiya** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”), in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -22733,11 +21688,11 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Emirates NBD Bank (P.J.S.C.)** (strategic buyer) — the incoming owner. Holding after: 60.00%.
+**Emirates NBD Bank (P.J.S.C.)** (strategic buyer) — the incoming owner. Holding after: 60.00% (59.88% at 2026-09-30).
 
-What the documents say about them: “"a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates", Regd. office Baniyas Street, Deira, Dubai; listed on Dubai Financial Market. "The Acquirer is a leading banking group in the MENATSA region, serving over 10,000,000 active customers with presence in 13 countries; and India is a key strategic market for the Acquirer, and the acquisition of the Target Company represents an opportunity to expand the Acquirer's presence in India." Earnings call: "the second largest bank in the UAE, and a leading financial group in the MENAT region will invest approximately US $3 billion through a preferential issue". It already operates an India branch network of 3 branches (Mumbai, Chennai, Gurugram), to be amalgamated into RBL Bank.”
+What the documents say about them: “"EMIRATES NBD BANK (P.J.S.C.), a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates", registered office Baniyas Street, Deira, Dubai. It carries on banking in India through "its network of 3 (three) branches in Mumbai, Chennai and Gurugram". Management described it on the October 2025 call as "the second largest bank in the UAE, and a leading financial group in the MENAT region" investing "approximately US $3 billion through a preferential issue... to acquire a 60% stake in RBL". Entitled to exercise voting rights only up to 26% under Section 12(2) of the Banking Regulation Act, 1949.”
 
-**Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
+**Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years in the banking and financial services sector; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
 
 The filing's own profile: “Mr. Deepak Ruiya is a finance professional, and his career spans over 22 years in the banking and financial services sector. He is a qualified Chartered Accountant, FRM, and CFA Level 2. He started his career at BSE as a management trainee and later joined ICICI Lombard, where he managed financial operations. He then moved to Barclays Bank, where he spent 9+ years and was last designated as Vice President – Finance (Corporate & Investment Bank). He joined RBL Bank in 2014 and is currently Deputy Chief Financial Officer.”
 
@@ -22748,14 +21703,14 @@ The filing's own profile: “Mr. Deepak Ruiya is a finance professional, and his
 | Vice President – Finance (Corporate & Investment Bank) | Barclays Bank | — | — |
 | Deputy Chief Financial Officer | RBL Bank (RBLBANK) | 2023 | — |
 
-**Bhavin Lakhpatwala** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). from: external; experience: over twenty-five years; qualifications: He is a Chartered Accountant with a strong track record in building and strengthening finance functions..
+**Bhavin Lakhpatwala** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”). from: external; experience: over twenty-five years of experience; qualifications: He is a Chartered Accountant with a strong track record in building and strengthening finance functions..
 
-The filing's own profile: “Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty-five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank–HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO's office.”
+The filing's own profile: “Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty -five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank –HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO’s office.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | part of the CFO leadership team | HDFC Bank (HDFCBANK) | — | — |
-| part of the senior management team in the CFO's office | HDFC | — | — |
+| part of the senior management team in the CFO’s office | HDFC | — | — |
 
 ### 5. On the calls
 
@@ -22927,15 +21882,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Jitendra Srivastava** — Director (Finance) and Chief Financial Officer of REC (interim). from: internal; qualifications: IAS.
 
-Results of **REC Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 47,517 | 56,369 | +18.6% a year over 1 year |
-| Financing profit (₹ cr) | 17,936 | 20,084 | +12.0% a year over 1 year |
-| PAT (₹ cr) | 14,145 | 15,884 | +12.3% a year over 1 year |
-| Financing profit margin (%) | 37.7 | 35.6 | -2.1 pts |
-| ROE (%) | 20.4 | 20.3 | -0.1 pts |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 **Rajesh Kumar** — Director (Finance) and Chief Financial Officer of the Company. from: internal; experience: over 30 years of experience; qualifications: He holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, Delhi University, complemented by dual professional qualifications as a Chartered Accountant (CA) and Cost & Management Accountant (CMA)..
 
@@ -22946,18 +21893,6 @@ The filing's own profile: “Shri Rajesh Kumar is a seasoned finance professiona
 | Executive Director (Finance) | REC Limited | — | 2026 |
 | Chief Executive Officer | REC Power Development and Consultancy Limited (RECPDCL) | — | — |
 | — | a CPSE engaged in engineering and project consultancy | — | — |
-
-Results of **RattanIndia Enterprises Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 14.0 | 4,124 | +29357.1% a year over 1 year |
-| Operating profit (₹ cr) | -22.0 | 40.0 | loss to profit |
-| PAT (₹ cr) | 554 | -286 | profit to loss |
-| Operating profit margin (%) | -157 | 1.0 | +158.1 pts |
-| ROCE (%) | 36.0 | 13.0 | -23.0 pts |
-| ROE (%) | 79.4 | -69.9 | -149.3 pts |
-| Borrowings (₹ cr) | 159 | 976 | +817 |
 
 ### 5. On the calls
 
@@ -23101,18 +22036,6 @@ The filing's own profile: “Mr. Gaurav Kumaar Dua has over 25 years of experien
 |---|---|---|---|
 | Whole time Director (WTD) | Relaxo Footwears Limited (RELAXO) | — | 2026 |
 
-Results of **Relaxo Footwears Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2024):
-
-| Mar 2022 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,653 | 2,914 | +4.8% a year over 2 years |
-| Operating profit (₹ cr) | 418 | 409 | -1.1% a year over 2 years |
-| PAT (₹ cr) | 233 | 200 | -7.4% a year over 2 years |
-| Operating profit margin (%) | 15.8 | 14.0 | -1.8 pts |
-| ROCE (%) | 18.0 | 14.0 | -4.0 pts |
-| ROE (%) | 13.2 | 10.0 | -3.2 pts |
-| Borrowings (₹ cr) | 174 | 205 | +31 |
-
 **Ritesh Dua** — Co-Chief Executive Officer (Co-CEO). from: promoter family; experience: over 26 years of experience in Finance, HR, IT & Export; qualifications: He has done MBA from Fore School of Management, Delhi.
 
 The filing's own profile: “Mr. Ritesh Dua has over 26 years of experience in Finance, HR, IT & Export. He has done MBA from Fore School of Management, Delhi and has played the key role in Company's Export, Information Technology, Human Resource and Finance to take the Company in leading manner. Mr. Ritesh Dua is son of Mr. Mukand Lal Dua & brother of Mr. Nikhil Dua, Whole Time Directors of the Company and is also part of promoter group.”
@@ -23136,38 +22059,35 @@ The filing's own profile: “Mr. Ritesh Dua has over 26 years of experience in F
 
 ## RELIGARE — Religare Enterprises Ltd.
 
-**Large stake change, same controller · CEO / MD change · CFO change**
+**Large stake change, same controller · CFO change**
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Control had already passed to the Burman Group in February 2025, before this window. During the window the Burman promoters only added to their stake — converting preferential warrants at Rs 235 (allotments December 5, 2025 and June 4, 2026) and buying in the open market — lifting promoter holding from 25.83% to 31.26%. No new controller.
+**Ownership — Large stake change, same controller.** The Burman family, already classified as promoters after the open offer completed in February 2025, kept raising its holding — converting preferential warrants at Rs.235 (allotments on 2025-12-05 and 2026-06-04) and buying in the open market. Promoter and group holding rose from 25.83% to 31.26%; control unchanged.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
 | Outgoing | — | — | — | — |
-| Incoming | Burman Group / Burman family (existing promoters; promoter group entities Puran Associates, VIC Enterprises, M.B. Finmart, Milky Investment and Trading, Gyan Enterprises, Mrs. Shivani Burman) | founder family member | — | 31.26% (promoter and group as on 2026-09-30); 30.56% as on June 04, 2026 |
+| Incoming | Burman family / Burman Group (promoters) — incl. Puran Associates Pvt Ltd, VIC Enterprises Pvt Ltd, M.B. Finmart Pvt. Ltd., Milky Investment and Trading Company, Gyan Enterprises Private Limited, Mrs. Shivani Burman | founder family member | — | 31.26% (promoter and group, 2026-09-30); 30.56% as on June 04, 2026 |
 
-- mode: preferential issue · price Rs. 235 per warrant/share on preferential warrant conversion · deal value Rs. 3,500 Lakhs received in quarter ended December 31, 2025 from four promoter group entities for conversion of 1,985,816 warrants; Rs. 14,705 Lakhs received in quarter ended June 30, 2026 from five share warrant holders for conversion of 83,43,263 warrants (part of total warrant issue of up to Rs. 14,99,99,98,770) · control does not change
-- Management changing with it: Board reconstituted in July 2025 with induction of directors representing the promoters after regulators' approval (five directors including promoter representative directors; three also inducted on RHDFCL board, where five of eight directors are common with REL). On August 12, 2026 the Board approved re-designation of Mr. Arjun Lamba (DIN: 00124804) as Managing Director (earlier Executive Director/Whole-time Director), effective August 12, 2026, subject to shareholders' approval.
-- Dates: other 2025-12-05; block deal 2026-03-30; other 2026-06-04; other 2026-08-12
+- mode: preferential issue · price Rs. 235 per warrant/share on warrant conversion; open-market purchases not stated · deal value Rs. 3,500 lakhs received from four promoter group entities for conversion of 1,985,816 warrants (allotted December 05, 2025) and Rs. 14,705 lakhs from five share warrant holders for conversion of 83,43,263 warrants (allotted June 04, 2026), out of a total preferential issue of up to 6,38,29,782 warrants aggregating up to Rs. 14,99,99,98,770 · control does not change
+- Management changing with it: Board of REL was reconstituted in July 2025 with induction of directors representing the promoters after regulators' approval (five directors including promoter representative directors, three of whom also joined RHDFCL's board). On August 12, 2026 the Board re-designated Mr. Arjun Lamba (DIN: 00124804) as Managing Director, earlier Executive Director/Whole-time Director, subject to shareholders' approval; he is not related to any other Director.
+- Dates: other 2025-08-08; other 2025-12-05; other 2026-03-20; block deal 2026-03-30; completion 2026-06-04
 - In the documents: “The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 25.83% (2025-09-30) → 26.27% (2025-12-31) → 30.27% (2026-03-31) → 30.56% (2026-06-04) → 30.56% (2026-06-30) → 31.26% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 4.09%.
 
-*Filings read for the ownership:* [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026180805_RELUPDATE30062026.pdf)
+*Filings read for the ownership:* [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026201628_RELOUTCOME120820260.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-08-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202459_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026180805_RELUPDATE30062026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | — (new seat) | Arjun Lamba (promoter family; from 2026-08-12) | effective | 2026-08-12 |
 | **Chief Financial Officer of REL** | — (new seat) | Pratul Gupta (internal) | effective | 2026-05-12 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Upon recommendation of the Nomination & Remuneration Committee, approved re-designation o f Mr. Arjun Lamba (DIN: 00124804), as Managing Director ( earlier designated as Executive Director , in the capacity of Whole -time Director ) on the same term s and conditions effective from August 12, 2026 ; subject to shareholders approvals .” — [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf)
-- **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Re-designation of Mr. Pratul Gupta as Chief Financial Officer of REL” — [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf)
 
-*All 9 filing(s) read for the seats:* [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026182502_RELCESSATION30062026.pdf) · [2026-06-25 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_25062026184936_RELUPDATE25062026.pdf) · [2026-06-23 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_23062026211509_RELUPDATE23062026.pdf) · [2026-05-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12052026221023_RELPRESS12052026.pdf) · +3 more
+*All 11 filing(s) read for the seats:* [2026-09-25 Change in Management](https://nsearchives.nseindia.com/corporate/RELIGARE_25092026170226_REL25092026.pdf) · [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026201628_RELOUTCOME120820260.pdf) · [2026-08-12 Appointment](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf) · [2026-08-12 Press Release](https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202459_RELOUTCOME120820260.pdf) · [2026-06-30 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_30062026182502_RELCESSATION30062026.pdf) · [2026-06-25 Updates](https://nsearchives.nseindia.com/corporate/RELIGARE_25062026184936_RELUPDATE25062026.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -23191,7 +22111,7 @@ The filing's own profile: “Mr. Ritesh Dua has over 26 years of experience in F
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/RELIGARE.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹235.89 on 2025-12-04 (the close before) → ₹233.93 on 2026-11-13: **-0.8%**; Nifty 500 -0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹222.42 on 2026-03-19 (the close before) → ₹233.93 on 2026-11-13: **+5.2%**; Nifty 500 +11.8% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -23199,18 +22119,9 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Burman Group / Burman family (existing promoters; promoter group entities Puran Associates, VIC Enterprises, M.B. Finmart, Milky Investment and Trading, Gyan Enterprises, Mrs. Shivani Burman)** (founder family member) — the incoming owner. Holding after: 31.26% (promoter and group as on 2026-09-30); 30.56% as on June 04, 2026.
+**Burman family / Burman Group (promoters) — incl. Puran Associates Pvt Ltd, VIC Enterprises Pvt Ltd, M.B. Finmart Pvt. Ltd., Milky Investment and Trading Company, Gyan Enterprises Private Limited, Mrs. Shivani Burman** (founder family member) — the incoming owner. Holding after: 31.26% (promoter and group, 2026-09-30); 30.56% as on June 04, 2026.
 
-What the documents say about them: “"The classification of the Burman Group (promoter family of Dabur India Limited) as promoters of Religare Enterprises Limited (REL)"; "The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025." ICRA notes "Improvement in the group's credit profile following the classification of the Burman family (promoter family of Dabur India Limited) as promoters" and "the strengthening of governance at REL, with the induction of five directors including promoter representative directors".”
-
-**Arjun Lamba** — Managing Director. from: promoter family.
-
-The filing's own profile: “Re-designation of Mr. Arjun Lamba from Non-Executive Director to Whole-Time Director and Executive Director of REL”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Executive Director, in the capacity of Whole-time Director | Religare Enterprises Limited (RELIGARE) | — | 2026 |
-| Non-Executive Director | Religare Enterprises Limited (RELIGARE) | — | — |
+What the documents say about them: “"the Burman Group (promoter family of Dabur India Limited)" classified as promoters of Religare Enterprises Limited; "the strengthening of the board and senior leadership of REL and its subsidiaries (herein referred to as Religare Group) augur well for the credit profile". "The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025." The earnings call says "we have new promoters, a new philosophy" and that "change of control happened at Religare Enterprises Limited in February 2025 with Burman Group being designated as promoters of REL post the successful completion of open offer, which was initiated in September 2023."”
 
 **Pratul Gupta** — Chief Financial Officer of REL. from: internal.
 
@@ -23218,13 +22129,13 @@ The filing's own profile: “Re-designation of Mr. Arjun Lamba from Non-Executiv
 
 ### 5. On the calls
 
-17 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
+15 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
 
 | Call | About | Passages |
 |---|---|---:|
 | Nov 2025 | the seat | 4 |
 | Feb 2026 | the seat | 3 |
-| May 2026 | the seat | 6 |
+| May 2026 | the seat | 4 |
 | Nov 2025 | the ownership | 4 |
 
 *Every passage in full: [companies/RELIGARE.md](companies/RELIGARE.md).*
@@ -23272,9 +22183,9 @@ The filing's own profile: “Re-designation of Mr. Arjun Lamba from Non-Executiv
 
 ### 3. Track record — the outgoing management
 
-**Atul Chaturvedi** — Managing Director and Chief Executive Officer (MD & CEO), in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Atul Chaturvedi** — Managing Director and Chief Executive Officer (MD & CEO), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -23348,9 +22259,9 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Parmod Sagar** — Managing Director & Chief Executive Officer, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Parmod Sagar** — Managing Director & Chief Executive Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -23390,18 +22301,6 @@ The filing's own profile: “Mr. Pankaj Malhan brings three decades of distingui
 | served on the Board | ESL Steel Limited | — | — |
 | served on the Board | Ferro Alloys Corporation Limited | — | — |
 
-Results of **Va Tech Wabag Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,979 | 2,960 | -0.6% a year over 1 year |
-| Operating profit (₹ cr) | 234 | 318 | +35.9% a year over 1 year |
-| PAT (₹ cr) | 132 | 11.0 | -91.7% a year over 1 year |
-| Operating profit margin (%) | 7.9 | 10.7 | +2.8 pts |
-| ROCE (%) | 13.0 | 20.0 | +7.0 pts |
-| ROE (%) | 8.6 | 0.7 | -7.9 pts |
-| Borrowings (₹ cr) | 436 | 219 | -217 |
-
 **Abhishek Bajaj** — Chief Financial Officer and Chief Investor Relations Officer. from: group company; experience: over two decades of diversified experience; qualifications: He is a Fellow Member of the Institute of Chartered Accountants of India (FCA) and holds a Bachelor of Commerce (Honours) degree from the University of Delhi..
 
 The filing's own profile: “Abhishek Bajaj is an accomplished finance executive with extensive experience in strategic financial leadership and corporate governance with over two decades of diversified experience spanning financial strategy, corporate finance, domestic and international taxation, treasury, capital markets, mergers & acquisitions, enterprise risk management, corporate governance, and business transformation. His professional journey encompasses leadership exposure across listed companies, multinational corporations, promoter-led enterprises, and Big Four consulting environments. He is a Fellow Member of the Institute of Chartered Accountants of India (FCA) and holds a Bachelor of Commerce (Honours) degree from the University of Delhi.”
@@ -23434,22 +22333,23 @@ The filing's own profile: “Abhishek Bajaj is an accomplished finance executive
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter group company Maa Chandi Financial Advisory Services (formerly Ramkrishna Rail and Infrastructure), holding 3.57%, was reclassified from 'Promoter and Promoter Group' to 'Public' after exchange NOCs and a postal ballot effective 19 September 2026. The Jalan family and Riddhi Portfolio remain promoters and in control; promoter holding fell 43.39% to 39.82%.
+**Ownership — Large stake change, same controller.** No new owner. A promoter-group company holding 3.57% (Maa Chandi Financial Advisory, formerly Ramkrishna Rail and Infrastructure) was reclassified to Public after exchange NOCs and shareholder approval. Separately, Riddhi Portfolio bought 17,50,000 shares (0.97%) from Naresh Jalan by inter-se transfer and took preferential allotments; Jalan family retains control.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | MAA Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited) | other | 3.57% (65,00,000 equity shares of face value Rs. 2/- each), as a member of the Promoter Group | 0% as promoter; continues to hold 3.57% in 'Public' category |
-| Incoming | — | public — no single owner | — | — |
+| Outgoing | Maa Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited) — reclassified out of promoter group; also Naresh Jalan, who sold 17,50,000 shares to Riddhi Portfolio | founder family | Maa Chandi 3.57% (65,00,000 shares) as promoter group; Naresh Jalan 2.49% (45,15,425 shares) pre-transfer | Maa Chandi 3.57% but now Public category; Naresh Jalan 1.53% (27,65,425 shares) |
+| Incoming | Riddhi Portfolio Private Limited (promoter); Chaitanya Jalan, Promoter (warrant conversion/preferential allotment) | founder family member | — | Riddhi Portfolio 34.42% after the inter-se transfer, 34.22% as per 26 November 2026 disclosure; Chaitanya Jalan 3.47% |
 
-- mode: other · control does not change
-- Management changing with it: No board or management change accompanies it; the documents show the same leadership continuing — 'Mr. Naresh Jalan, Managing Director, Mr. Chaitanya Jalan, Whole Time Director, Mr. Lalit Kumar Khetan, Whole Time Director & Chief Financial Officer, and Mr. Rajesh Mundhra, Company Secretary & Compliance Officer' were authorised to give effect to the reclassification.
-- Dates: approval 2025-11-12; other 2025-11-17; approval 2026-08-05; other 2026-08-20; completion 2026-09-19; other 2026-09-21
-- In the documents: “Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we enclose herewith a copy of the Postal Ballot Notice dated 18 August, 2026 along with the Explanatory Statement ("Postal Ballot Notice"), seeking approval of the Members, by way of an Ordinary Resolution (through remote e-voting), for the Reclassification of MAA Chandi Financial Advisory Services Private Limited (Formerly Ramkrishna Rail and Infrastructure Private Limited), a member of Promoter Group, from 'Promoter and Promoter Group' Category to 'Public' Category.”
+- mode: block or bulk deal · price Rs. 495.00 per share (Trade Price) · control does not change
+- Why the seller is selling, in their words: “The above transaction was being undertaken as an inter-se transfer of shares among Promoters of the TC, as part of an internal restructuring exercise.”
+- Management changing with it: No change disclosed; the postal ballot resolution still names Mr. Naresh Jalan as Managing Director, Mr. Chaitanya Jalan as Whole Time Director and Mr. Lalit Kumar Khetan as Whole Time Director & CFO.
+- Dates: other 2025-11-12; other 2025-11-17; other 2026-03-18; block deal 2026-03-25; other 2026-03-30; approval 2026-08-05; approval 2026-09-19; other 2026-09-24
+- In the documents: “Please note that the above transaction, being inter-se transfer of shares amongst Promoters of the Target Company falls within the exemption criteria specified under Regulation 10(1)(a)(i) of the SEBI (SAST) Regulations 2011. The aggregate holding of Promoter and Promoter Group before and after the above inter-se transfer remains the same.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 43.13% (2025-09-30) → 43.13% (2025-12-31) → 43.33% (2026-03-31) → 43.39% (2026-06-30) → 39.82% (2026-09-19) → 40.93% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 5.49%.
 
-*Filings read for the ownership:* [2026-09-21 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_21092026170859_ReclassificationReg30n31ADisc21Sep2026.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RKFORGE_20082026181348_Postalballotintimation200826signed.pdf) · [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_06082026125553_StExcReclassificationNOCIntimation6Aug2026.pdf)
+*Filings read for the ownership:* [2026-09-21 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_21092026170859_ReclassificationReg30n31ADisc21Sep2026.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RKFORGE_20082026181348_Postalballotintimation200826signed.pdf) · [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_06082026125553_StExcReclassificationNOCIntimation6Aug2026.pdf) · [2026-03-30 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_30032026184835_RKFORGE.pdf)
 
 ### 2. Financials — the last three years
 
@@ -23473,15 +22373,17 @@ The filing's own profile: “Abhishek Bajaj is an accomplished finance executive
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/RKFORGE.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹533.90 on 2025-11-10 (the close before) → ₹784.70 on 2026-11-13: **+47.0%**; Nifty 500 +0.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹541.75 on 2026-03-17 (the close before) → ₹784.70 on 2026-11-13: **+44.8%**; Nifty 500 +9.5% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**MAA Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited)** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 3.57% (65,00,000 equity shares of face value Rs. 2/- each), as a member of the Promoter Group → 0% as promoter; continues to hold 3.57% in 'Public' category.
+**Maa Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited) — reclassified out of promoter group; also Naresh Jalan, who sold 17,50,000 shares to Riddhi Portfolio** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Maa Chandi 3.57% (65,00,000 shares) as promoter group; Naresh Jalan 2.49% (45,15,425 shares) pre-transfer → Maa Chandi 3.57% but now Public category; Naresh Jalan 1.53% (27,65,425 shares).
 
 ### 4. Track record — the incoming management
 
-No successor or new owner is named yet.
+**Riddhi Portfolio Private Limited (promoter); Chaitanya Jalan, Promoter (warrant conversion/preferential allotment)** (founder family member) — the incoming owner. Holding after: Riddhi Portfolio 34.42% after the inter-se transfer, 34.22% as per 26 November 2026 disclosure; Chaitanya Jalan 3.47%.
+
+What the documents say about them: “"Riddhi Portfolio Private Limited (Acquirer), a Promoter of Ramkrishna Forgings Limited", registered office 23, Circus Avenue, Kolkata-700017 (the same address as the Company), CIN U67120WB1995PTC071066, signing director Pawan Kumar Kedia (DIN: 00375557). It held 6,05,57,039 shares (33.45%) before the transfer and 6,23,07,039 shares (34.42%) after.”
 
 ### 5. On the calls
 
@@ -23530,9 +22432,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Rajdipkumar Gupta** — Chief Executive Officer and Key Managerial Personnel of the Company, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Rajdipkumar Gupta** — Chief Executive Officer and Key Managerial Personnel of the Company, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -23577,12 +22479,12 @@ The filing's own profile: “Mr. Agnihotri, with his extensive experience in CPa
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Neeraj Parakh (resignation; last day 2026-11-12) | Rajendra Vishwanath Pawar (from 2026-11-12) | effective | 2026-11-12 |
+| **Chief Financial Officer** | Neeraj Parakh (resignation; last day 2026-11-12) | Rajendra Vishwanath Pawar (group company; from 2026-11-12) | effective | 2026-11-12 |
 
-- **Why Neeraj Parakh is leaving, in the filing's words:** “In view of the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company.” Stays on as: Executive Director, Chief Executive Officer and Key Managerial Personnel of the Company.
-- In the documents: “the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company with immediate effect. Consequent upon the aforesaid appointment, Shri Neeraj Parakh, Executive Director and Chief Executive Officer of the Company, has resigned as Interim Chief Financial Officer of the Company with immediate effect.” — [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
+- **Why Neeraj Parakh is leaving, in the filing's words:** “In view of the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company, I hereby tender my resignation from the office of Interim Chief Financial Officer of the Company with immediate effect.” Stays on as: Executive Director, Chief Executive Officer and Key Managerial Personnel of the Company.
+- In the documents: “Consequent upon the aforesaid appointment, Shri Neeraj Parakh, Executive Director and Chief Executive Officer of the Company, has resigned as Interim Chief Financial Officer of the Company with immediate effect.” — [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RPOWER_12112026194323_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
 
-*All 2 filing(s) read for the seats:* [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RPOWER_12112026194323_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/RPOWER_12112026200007_Reliance_Power_Outcome_of_BM_12112026_Final_Signed.pdf) · [2026-11-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RPOWER_ROID_104711_KMP_Doc.zip)
 
 ### 2. Financials — the last three years
 
@@ -23626,9 +22528,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rajendra Vishwanath Pawar** — Chief Financial Officer. age 54 years; experience: over two decades; qualifications: Chartered Accountant.
+**Rajendra Vishwanath Pawar** — Chief Financial Officer. from: group company; age 54 years; experience: over two decades of experience; qualifications: Chartered Accountant.
 
-The filing's own profile: “Shri Rajendra Vishwanath Pawar, aged 54 years, is a Chartered Accountant with over two decades of experience in finance, accounting, financial planning and management, fund raising, treasury management, corporate restructuring, mergers and acquisitions, taxation, regulatory compliance, statutory and internal audits, financial controls, foreign exchange risk management, financial restructuring, stakeholder engagement and implementation of ERP / MIS systems and insolvency resolution matters. He has held senior finance positions across listed companies, multinational corporations and diversified business groups, Prior to joining the Reliance Group, he served as Chief Financial Officer of MEP Infrastructure Developers Limited, GNP Group Companies and Sankalpan Infrastructure Private Limited.”
+The filing's own profile: “Shri Rajendra Vishwanath Pawar, aged 54 years, is a Chartered Accountant with over two decades of experience in finance, accounting, financial planning and management, fund raising, treasury management, corporate restructuring, mergers and acquisitions, taxation, regulatory compliance, statutory and internal audits, financial controls, foreign exchange risk management, financial restructuring, stakeholder engagement and implementation of ERP/ MIS systems and insolvency resolution matters He has held senior finance positions across listed companies, multinational corporations and diversified business groups, Prior to joining the Reliance Group, he served as Chief Financial Officer of MEP Infrastructure Developers Limited, GNP Group Companies and Sankalpan Infrastructure Private Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -23642,101 +22544,27 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ---
 
-## RRKABEL — R R Kabel Ltd.
-
-**CFO change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Chief Financial Officer** | Rajesh Jain (moved to another role in the company or group) | Jigar Mehta (internal) | effective | — |
-
-- **Why Rajesh Jain is leaving, in the filing's words:** “the leadership transition of Shri Rajesh Jain to Chief Operating Officer, following an exploring tenure as our Chief Financial Officer” Stays on as: Chief Operating Officer.
-- In the documents: “Before I start, it is honoured to announce the leadership transition of Shri Rajesh Jain to Chief Operating Officer, following an exploring tenure as our Chief Financial Officer; and Shri Jigar Mehta, previously Vice President, Finance as our Chief Financial Officer.”
-
-*All 1 filing(s) read for the seats:* [2026-05-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RRKL1995_30052026124724_Reg_30_intimation_-_Change_in_Management.pdf)
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 6,595 | 7,618 | 9,722 |
-| Sales growth (%) | 17.8 | 15.5 | 27.6 |
-| Operating profit (₹ cr) | 462 | 487 | 786 |
-| Operating profit margin (%) | 7.0 | 6.4 | 8.1 |
-| PAT (₹ cr) | 298 | 312 | 492 |
-| PAT growth (%) | 56.8 | 4.7 | 57.7 |
-| PAT margin (%) | 4.5 | 4.1 | 5.1 |
-| EPS (₹) | 26.4 | 27.6 | 43.5 |
-| Cash from operations (₹ cr) | 339 | 494 | 295 |
-| Free cash flow (₹ cr) | 152 | 129 | 7.0 |
-| ROCE (%) | 20.0 | 28.0 | — |
-| ROE (%) | 16.3 | 14.5 | 19.1 |
-| Borrowings (₹ cr) | 360 | 290 | 337 |
-| Debt / equity (x) | 0.2 | 0.1 | 0.1 |
-| Working-capital days | 40.0 | 34.0 | 41.0 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/RRKABEL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-### 3. Track record — the outgoing management
-
-**Rajesh Jain** — Chief Financial Officer, date of taking the seat not on file.
-
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,724 | 9,722 | +29.0% a year over 5 years |
-| Operating profit (₹ cr) | 232 | 786 | +27.6% a year over 5 years |
-| PAT (₹ cr) | 135 | 492 | +29.5% a year over 5 years |
-| Operating profit margin (%) | 8.5 | 8.1 | -0.4 pts |
-| ROCE (%) | 18.0 | — | — |
-| ROE (%) | 12.9 | 19.1 | +6.2 pts |
-| Borrowings (₹ cr) | 507 | 337 | -170 |
-
-### 4. Track record — the incoming management
-
-**Jigar Mehta** — Chief Financial Officer. from: internal.
-
-The filing's own profile: “Shri Jigar Mehta, previously Vice President, Finance as our Chief Financial Officer.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Vice President, Finance | R R Kabel Limited (RRKABEL) | — | — |
-
-### 5. On the calls
-
-12 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 5 |
-| Feb 2026 | the seat | 3 |
-| May 2026 | the seat | 4 |
-
-*Every passage in full: [companies/RRKABEL.md](companies/RRKABEL.md).*
-
----
-
 ## RUBICON — Rubicon Research Ltd.
 
 **Large stake change, same controller · CFO change**
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** General Atlantic Singapore RR Pte. Ltd, a promoter-classified financial sponsor, sold 8.45% of Rubicon Research's capital on 2026-09-01, cutting its holding to 27.34%. Total promoter-and-group holding fell from 59.76% to 51.25%. No new promoter or controlling owner appears in the record.
+**Ownership — Large stake change, same controller.** General Atlantic Singapore RR Pte. Ltd., a promoter-classified financial sponsor, sold about 8.45% of Rubicon Research's capital on 2026-09-01, cutting its holding to 27.34%. Total promoter-group holding fell from 59.76% to 51.25%; no new promoter or controlling owner arrived, and management continued unchanged.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | General Atlantic Singapore RR Pte. Ltd | private-equity sponsor | 35.79% | 27.34% |
+| Outgoing | General Atlantic Singapore RR Pte. Ltd. | private-equity sponsor | 35.79% | 27.34% |
 | Incoming | — | — | — | — |
 
 - mode: other · control does not change
+- Management changing with it: not stated; the November 5, 2026 results are signed by Parag Sanchetti, Director and Chief Executive Officer, with no change in directors or management disclosed
 - Dates: other 2026-09-01
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 59.99% (2025-10-15) → 59.99% (2025-12-31) → 59.86% (2026-03-31) → 59.76% (2026-06-30) → 51.25% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 16.9% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/9823522970_05112026160314_RRLSEIntimationOutcomeBM05Nov2026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -23773,7 +22601,7 @@ The filing's own profile: “Shri Jigar Mehta, previously Vice President, Financ
 
 ### 3. Track record — the outgoing management
 
-**General Atlantic Singapore RR Pte. Ltd** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.79% → 27.34%.
+**General Atlantic Singapore RR Pte. Ltd.** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.79% → 27.34%.
 
 **Nitin Jajodia** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
 
@@ -23877,7 +22705,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 17.6 | 8.9 | -8.7 pts |
 | Borrowings (₹ cr) | 5,931 | 4,818 | -1,113 |
 
-**Sukhmal Chand Jain** — Chairman & Managing Director, in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Sukhmal Chand Jain** — Chairman & Managing Director, in the seat since FY2026 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -23903,18 +22731,6 @@ The filing's own profile: “Shri Saleem Ahmad has assumed the charge of Chairma
 | Director (Project) | NBCC (India) Ltd. (NBCC) | — | — |
 | Executive Director (Civil) | Delhi Metro Rail Corporation Ltd. | — | — |
 | — | Mumbai Port Trust | — | — |
-
-Results of **Rail Vikas Nigam Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 19,923 | 20,412 | +2.5% a year over 1 year |
-| Operating profit (₹ cr) | 1,125 | 767 | -31.8% a year over 1 year |
-| PAT (₹ cr) | 1,282 | 871 | -32.1% a year over 1 year |
-| Operating profit margin (%) | 5.6 | 3.8 | -1.8 pts |
-| ROCE (%) | 11.0 | — | — |
-| ROE (%) | 13.4 | 8.9 | -4.5 pts |
-| Borrowings (₹ cr) | 5,419 | 4,818 | -601 |
 
 ### 5. On the calls
 
@@ -24049,9 +22865,9 @@ The filing's own profile: “Mr. Rishabh Mehtta is a qualified Chartered Account
 
 ### 3. Track record — the outgoing management
 
-**Vineet Poddar** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Vineet Poddar** — Chief Financial Officer (Key Managerial Personnel), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -24282,23 +23098,24 @@ Nothing about the change in the calls on file for the window.
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Abu Dhabi's International Holding Company PJSC, through Avenir Investment RSC Ltd, subscribed to a Rs 8,850 crore preferential issue of shares and warrants and completed a mandatory open offer on 14 May 2026, becoming promoter and controlling shareholder of Sammaan Capital from 15 May 2026, with board nominees appointed.
+**Ownership — Change of control — completed.** Avenir Investment RSC Ltd, owned and controlled by International Holding Company PJSC (IHC), Abu Dhabi, subscribed to a Rs 8,850 crore preferential issue of shares and warrants at Rs 139, completed a 26.05% open offer on May 14, 2026, acquired control and became promoter of the previously promoter-less company from May 15, 2026.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | None — the Company had no promoter; erstwhile promoter Mr. Sameer Gehlaut had already ceased to be promoter and divested his entire shareholding in 2023 | — | 0.0% | 0.0% |
-| Incoming | Avenir Investment RSC Ltd, owned and controlled by International Holding Company PJSC (IHC), Abu Dhabi, with IHC Capital Holding LLC as person acting in concert | strategic buyer | — | 33.32% (28.41%/28.5% immediately after preferential allotment and open offer; expected to rise to 41.24% on full exercise of warrants) |
+| Outgoing | None in this window — company had no promoter; erstwhile promoter Mr. Sameer Gehlaut had already exited | founder family | 0.0% | 0.0% |
+| Incoming | Avenir Investment RSC Ltd (owned and controlled by International Holding Company PJSC, Abu Dhabi), with IHC Capital Holding LLC as person acting in concert | strategic buyer | — | 28.41% after preferential allotment and open offer (33.32% as per Reg 29 of 2026-11-26; expected 41.24% on full warrant conversion) |
 
-- mode: preferential issue · price INR 139 per fully paid-up equity share; INR 39 per partly paid-up equity share · deal value INR 8,850 Crore total committed investment (initial tranche INR 5,652.75 Crore; balance INR 3,197.25 Crore on warrant conversion) · control changes
-- Open offer: price INR 139 per fully paid equity share and INR 39 per partly paid equity share, size 26.05% of the Expanded Voting Share Capital (up to 34,17,54,286 equity shares), status completed
-- Management changing with it: IHC "now controls the Company's board". Mr. Alwyn Dinesh Crasta (Group CFO of IHC) appointed Additional Non-Executive Non-Independent Director w.e.f. May 15, 2026 for 5 years, pursuant to RBI approval dated March 24, 2026, and approved by shareholders on August 10, 2026. H.E. Dalia Hazem Gamil Khorshid, nominated by Avenir, appointed Additional Non-Executive Non-Independent Director w.e.f. August 13, 2026. Chairman Mr. Subhash Sheoratan Mundra ceased as Non-Executive Chairman/Independent Director on completion of his second term on August 17, 2026, with Mr. Dinabandhu Mohapatra as interim Chairman from August 18, 2026; LIC nominated Mr. P. S. Negi in place of Mr. Rajiv Gupta. Mr. Gagan Banga continues as Managing Director & CEO; management described as an "acqui-hire" with the team to be "refreshed and strengthened".
-- Dates: agreement 2025-10-02; public announcement 2025-10-02; approval 2025-12-09; approval 2026-03-24; approval 2026-03-27; other 2026-03-31; open offer opens 2026-04-17; completion 2026-05-14; other 2026-05-15; other 2026-05-21
-- In the documents: “The Board noted and took on record that the mandatory open offer made by the Investor and the person acting in concert with the Investor, in accordance with Regulation 3(1) and 4 of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 ("SAST Regulations") was completed on May 14, 2026 ("Open Offer"); and accordingly, the Investor has acquired control of the Company and has become 'promoter' of the Company on and from May 15, 2026 in accordance with the terms of the share subscription agreement executed between the Company and the Investor on October 2, 2025, and the provisions of the Listing Regulations.”
+- mode: preferential issue · price INR 139 per fully paid-up equity share; INR 39 per partly paid-up equity share · deal value INR 8,850 Crore (total committed investment; INR 5,652.75 Crore infused upfront) · control changes
+- Open offer: price INR 139 per fully paid-up equity share and INR 39 per partly paid-up equity share, size 26.05% of the Expanded Voting Share Capital (up to 34,17,54,286 equity shares), status completed
+- Why the seller is selling, in their words: “"Since ceasing to be promoter and divesting his entire shareholding in the Company in 2023, Sammaan Capital Limited has had no connection whatsoever with its erstwhile promoter, Mr. Sameer Gehlaut."”
+- Management changing with it: Mr. Alwyn Dinesh Crasta (Group CFO of IHC) appointed Additional Non-Executive Non-Independent Director w.e.f. May 15, 2026 as Promoter Nominee Director, pursuant to RBI approval; H.E. Dalia Hazem Gamil Khorshid appointed Additional Non-Executive Non-Independent Director w.e.f. August 13, 2026 "Following the nomination of Her Excellency Dalia Khorshid by Avenir"; Mr. Subhash Sheoratan Mundra ceased as Non-Executive Chairman/Independent Director on August 17, 2026 with Mr. Dinabandhu Mohapatra as interim Chairman; LIC nominated Mr. P. S. Negi in place of Mr. Rajiv Gupta. The Company states IHC "now controls the Company's board." Management team continues under MD & CEO Mr. Gagan Banga.
+- Dates: agreement 2025-10-02; public announcement 2025-10-02; approval 2025-12-09; approval 2026-03-24; approval 2026-03-27; other 2026-03-31; open offer opens 2026-04-16; completion 2026-05-14; other 2026-05-15
+- In the documents: “The Board noted and took on record that the mandatory open offer made by the Investor and the person acting in concert with the Investor, in accordance with Regulation 3(1) and 4 of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 ("SAST Regulations") was completed on May 14, 2026 ("Open Offer"); and accordingly, the Investor has acquired control of the Company and has become 'promoter' of the Company on and from May 15, 2026.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 0.0% (2025-09-30) → 0.0% (2025-12-31) → 0.0% (2026-03-31) → 28.34% (2026-06-30) → 28.34% (2026-09-30) → 33.32% (2026-10-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 6.94%; outside acquirers at 10% or more: Avenir Investment RSC Ltd 28.4% (2026-04-06).
 
-*Filings read for the ownership:* [2026-08-18 Press Release](https://nsearchives.nseindia.com/corporate/IHFL_18082026180740_SCL_Press_Release_18August2026.pdf) · [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/IHFL_13082026174632_SCL_Outcome_BoardMeeting_13Aug2026.pdf) · [2026-05-22 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_22052026112845_Sammaan.zip) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/IHFL_15052026075104_SCL_Board_Outcome__15_May_2026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/IHFL_15052026075712_SCL_Board_Outcome__15_May_2026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/IHFL_15052026090600_Sammaan_Classification_of_IHC_as_Promoter_15May2026.pdf) · +17 more
+*Filings read for the ownership:* [2026-08-18 Press Release](https://nsearchives.nseindia.com/corporate/IHFL_18082026180740_SCL_Press_Release_18August2026.pdf) · [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/IHFL_13082026174632_SCL_Outcome_BoardMeeting_13Aug2026.pdf) · [2026-05-22 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_22052026112845_Sammaan.zip) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/IHFL_15052026075104_SCL_Board_Outcome__15_May_2026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/IHFL_15052026075712_SCL_Board_Outcome__15_May_2026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/IHFL_15052026090600_Sammaan_Classification_of_IHC_as_Promoter_15May2026.pdf) · +18 more
 
 ### 2. Financials — the last three years
 
@@ -24322,13 +23139,13 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**None — the Company had no promoter; erstwhile promoter Mr. Sameer Gehlaut had already ceased to be promoter and divested his entire shareholding in 2023** (owner) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 0.0% → 0.0%.
+**None in this window — company had no promoter; erstwhile promoter Mr. Sameer Gehlaut had already exited** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 0.0% → 0.0%.
 
 ### 4. Track record — the incoming management
 
-**Avenir Investment RSC Ltd, owned and controlled by International Holding Company PJSC (IHC), Abu Dhabi, with IHC Capital Holding LLC as person acting in concert** (strategic buyer) — the incoming owner. Holding after: 33.32% (28.41%/28.5% immediately after preferential allotment and open offer; expected to rise to 41.24% on full exercise of warrants).
+**Avenir Investment RSC Ltd (owned and controlled by International Holding Company PJSC, Abu Dhabi), with IHC Capital Holding LLC as person acting in concert** (strategic buyer) — the incoming owner. Holding after: 28.41% after preferential allotment and open offer (33.32% as per Reg 29 of 2026-11-26; expected 41.24% on full warrant conversion).
 
-What the documents say about them: “"IHC is one of the world's largest listed investment companies, with a market capitalisation of approximately USD 232 billion and total assets of USD 117 billion, with a presence across 100+ countries." "IHC's commitment to sustainability, innovation, and economic diversification spans over 1,300 subsidiaries, driving growth across 4 key sectors: Technology, Infrastructure, Financial Services and Consumer." "India is one of IHC's top two global strategic markets, and Sammaan Capital is the anchor of Avalora Holdings, IHC's dedicated international financial services platform." The acquirer Avenir is "a special purpose vehicle incorporated for the purpose of the Proposed Combination. It belongs to the IHC group." The investment is "one of the largest foreign direct investments / equity infusions in the Indian NBFC sector."”
+What the documents say about them: “"IHC is one of the world's largest listed investment companies, with a market capitalisation of approximately USD 232 billion and total assets of USD 117 billion, with a presence across 100+ countries." "Established in 1999, IHC has become the most valuable holding company in the Middle East... over 1,300 subsidiaries, driving growth across 4 key sectors: Technology, Infrastructure, Financial Services and Consumer." "India is one of IHC's top two global strategic markets, and Sammaan Capital is the anchor of Avalora Holdings, IHC's dedicated international financial services platform." Avenir is "a special purpose vehicle incorporated for the purpose of the Proposed Combination."”
 
 ### 5. On the calls
 
@@ -24514,7 +23331,7 @@ Nothing about the change in the calls on file for the window (no transcripts on 
 
 ### 3. Track record — the outgoing management
 
-**Pankaj Mahesh Chaturvedi** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Pankaj Mahesh Chaturvedi** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -24549,18 +23366,6 @@ The filing's own profile: “Mr. Abhishek Kapoor is a seasoned finance leader wi
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Sula Vineyards Limited | — | — |
-
-Results of **Puravankara Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2021):
-
-| Mar 2020 → Mar 2021 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,128 | 963 | -54.7% a year over 1 year |
-| Operating profit (₹ cr) | 447 | 282 | -36.9% a year over 1 year |
-| PAT (₹ cr) | 88.0 | -4.0 | profit to loss |
-| Operating profit margin (%) | 21.0 | 29.3 | +8.3 pts |
-| ROCE (%) | 10.0 | 8.0 | -2.0 pts |
-| ROE (%) | 4.6 | -0.2 | -4.8 pts |
-| Borrowings (₹ cr) | 2,670 | 2,835 | +165 |
 
 ### 5. On the calls
 
@@ -24614,9 +23419,9 @@ Results of **Puravankara Ltd.** while they were CFO there (annual reports on fil
 
 ### 3. Track record — the outgoing management
 
-**Aseem Dhru** — Managing Director & CEO, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Aseem Dhru** — Managing Director & CEO, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -24628,9 +23433,9 @@ The company's results while they held the seat (the year before they took it, to
 
 - Also on file: Chairman at SAFARI (FY2025–FY2026, annual reports).
 
-**Narayan Barasia** — Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Narayan Barasia** — Chief Financial Officer, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -24752,18 +23557,6 @@ Results of **Godfrey Phillips India Ltd.** while they were CFO there (annual rep
 | ROE (%) | 14.6 | 20.9 | +6.3 pts |
 | Borrowings (₹ cr) | 396 | 345 | -51 |
 
-Results of **Jindal Steel Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 51,166 | 53,212 | +4.0% a year over 1 year |
-| Operating profit (₹ cr) | 15,559 | 9,942 | -36.1% a year over 1 year |
-| PAT (₹ cr) | 6,766 | 3,974 | -41.3% a year over 1 year |
-| Operating profit margin (%) | 30.4 | 18.7 | -11.7 pts |
-| ROCE (%) | 24.0 | 14.0 | -10.0 pts |
-| ROE (%) | 19.0 | 10.3 | -8.7 pts |
-| Borrowings (₹ cr) | 13,502 | 13,046 | -456 |
-
 Results of **Life Insurance Corporation of India** while they were CFO there (annual reports on file show the seat FY2024–FY2026):
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
@@ -24799,16 +23592,6 @@ The filing's own profile: “Shri Ravi Ranjan is presently the Managing Director
 | Chief General Manager (CGM), SBI Chennai Circle | State Bank of India (SBIN) | — | — |
 | President and Chief Operating Officer (COO) | SBICAPS, Mumbai | — | — |
 
-Results of **State Bank of India** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 490,313 | 514,933 | +5.0% a year over 1 year |
-| Financing profit (₹ cr) | -62,674 | -78,853 | — |
-| PAT (₹ cr) | 80,523 | 86,666 | +7.6% a year over 1 year |
-| Financing profit margin (%) | -12.8 | -15.3 | -2.5 pts |
-| ROE (%) | 16.5 | 14.5 | -2.0 pts |
-
 ### 5. On the calls
 
 3 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -24823,74 +23606,13 @@ Results of **State Bank of India** while they were Managing Director there (annu
 
 ---
 
-## SCHNEIDER — Schneider Electric Infrastructure Ltd.
-
-**CFO change**
-
-### 1. What is changing
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **Chief Financial Officer** | — (new seat) | Omkar Prasad | effective | — |
-
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “I am your company's CFO. This is my first earnings call with all of you, and I am really privileged and excited to give you the insights on the financials for Q2 and H1.”
-
-*All 0 filing(s) read for the seats:* 
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 2,207 | 2,637 | 2,891 |
-| Sales growth (%) | 24.2 | 19.5 | 9.6 |
-| Operating profit (₹ cr) | 296 | 383 | 371 |
-| Operating profit margin (%) | 13.4 | 14.5 | 12.8 |
-| PAT (₹ cr) | 172 | 268 | 213 |
-| PAT growth (%) | 38.7 | 55.8 | -20.5 |
-| PAT margin (%) | 7.8 | 10.2 | 7.4 |
-| EPS (₹) | 7.2 | 11.2 | 8.9 |
-| Cash from operations (₹ cr) | 189 | 308 | 224 |
-| Free cash flow (₹ cr) | 132 | 245 | 120 |
-| ROCE (%) | 38.0 | 41.0 | 30.0 |
-| ROE (%) | 81.1 | 56.1 | 27.5 |
-| Borrowings (₹ cr) | 575 | 606 | 548 |
-| Debt / equity (x) | 2.7 | 1.3 | 0.7 |
-| Working-capital days | 47.0 | 42.0 | 44.0 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/SCHNEIDER.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-### 3. Track record — the outgoing management
-
-No outgoing person or owner is named (a new seat, or the documents do not say).
-
-### 4. Track record — the incoming management
-
-**Omkar Prasad** — Chief Financial Officer.
-
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
-
-### 5. On the calls
-
-10 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-| Call | About | Passages |
-|---|---|---:|
-| Nov 2025 | the seat | 3 |
-| Feb 2026 | the seat | 3 |
-| Jun 2026 | the seat | 4 |
-
-*Every passage in full: [companies/SCHNEIDER.md](companies/SCHNEIDER.md).*
-
----
-
 ## SCI — Shipping Corporation of India Ltd.
 
 **Change of control — in progress · CFO change**
 
 ### 1. What is changing
 
-**Ownership — Change of control — in progress.** SCI remains selected by the Government of India for Strategic Disinvestment; auditors note the disinvestment process and related procedural aspects are still in progress, alongside the demerger of non-core assets to SCI Land and Assets Ltd. Government promoter holding unchanged at 63.75% through 2026-09-30. No buyer, price or completion disclosed.
+**Ownership — Change of control — in progress.** The Government of India's strategic disinvestment of SCI remains under way. DIPAM, with a Transaction Advisor, is running the process; the Preliminary Information Memorandum inviting expressions of interest was issued and due diligence by qualified interested parties continues in the virtual data room. Government promoter holding unchanged at 63.75% throughout.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
@@ -24898,13 +23620,13 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 | Incoming | — | — | — | — |
 
 - mode: other · control does not change
-- Management changing with it: not stated — board changes disclosed are routine: re-appointment of Capt. Som Raj by rotation, and appointments of Shri Nitin Khamesra as Whole-Time Director (Finance), Shri Mukesh Mangal as Government Nominee Director, Capt. Chandran Durai Daniel as Whole-Time Director (Bulk Carriers & Tankers) and Smt. Bharati Raman Gotarna as Non-official (Independent) Director; Capt. B. K. Tyagi continues as Chairman & Managing Director
-- Dates: other 2026-02-06; other 2026-05-08; other 2026-09-23
-- In the documents: “Note 9 regarding selection of the Company for Strategic Disinvestment process by the Government of India. The disinvestment process and the procedural aspects in relation to the same are in progress.”
+- Management changing with it: not stated — directors were appointed/re-appointed at the 76th AGM (Capt. Som Raj re-appointed by rotation; Shri Nitin Khamesra as Whole-Time Director (Finance); Shri Mukesh Mangal as Government Nominee Director; Capt. Chandran Durai Daniel as Whole-Time Director (Bulk Carriers & Tankers); Smt. Bharati Raman Gotarna as Independent Director), but the documents do not link these to any ownership change
+- Dates: public announcement 2020-12-22; other 2026-02-06; other 2026-05-08; other 2026-08-06; other 2026-09-23
+- In the documents: “The proposed strategic disinvestment of SCI is being handled by Department of Investment and Public Asset Management (DIPAM) with the engagement of Transaction Advisor.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 63.75% (2025-09-30) → 63.75% (2025-12-31) → 63.75% (2026-03-31) → 63.75% (2026-06-30) → 63.75% (2026-09-30)
 
-*Filings read for the ownership:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI1_08052026200611_Finalsd.pdf) · [2026-05-08 Updates](https://nsearchives.nseindia.com/corporate/SCI_08052026210819_Finalsd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026203220_Binder1sd.pdf) · +1 more
+*Filings read for the ownership:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06082026191038_Finalsd.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI1_08052026200611_Finalsd.pdf) · [2026-05-08 Updates](https://nsearchives.nseindia.com/corporate/SCI_08052026210819_Finalsd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · +2 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -24939,8 +23661,6 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 | Working-capital days | -42.0 | 77.0 | 146 |
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/SCI.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-**Share price since the announcement:** ₹224.90 on 2025-12-26 (the close before) → ₹270.58 on 2026-11-13: **+20.3%**; Nifty 500 -0.2% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -25064,6 +23784,7 @@ Nothing about the change in the calls on file for the window.
 - In the documents: “In furtherance to our intimation dated October 31, 2025 regarding appointment/re-appointment/re-designation of Directors, Key Managerial Personnel & Senior Management of the Company, we inform you that Mr. Y. S. Chakravarti (DIN 00052308) has completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company with effect from today i.e. December 5, 2025.” — [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Mr. Sunder Subramanian Joint Managing Director & Chief Financial Officer” — [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 3 filing(s) read for the seats:* [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 
@@ -25107,15 +23828,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Parag Sharma** — Managing Director & CEO. from: internal.
 
-Results of **Shriram Finance Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2026):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 17,422 | 48,135 | +22.5% a year over 5 years |
-| Financing profit (₹ cr) | 3,402 | 13,947 | +32.6% a year over 5 years |
-| PAT (₹ cr) | 2,499 | 10,024 | +32.0% a year over 5 years |
-| Financing profit margin (%) | 19.5 | 29.0 | +9.5 pts |
-| ROE (%) | 11.5 | 15.2 | +3.7 pts |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 **Sunder Subramanian** — Joint Managing Director & Chief Financial Officer.
 
@@ -25138,25 +23851,27 @@ Results of **Shriram Finance Ltd.** while they were Managing Director there (ann
 
 ## SIEMENS — Siemens Ltd.
 
-**Large stake change, same controller**
+**Within the promoter family / group**
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** No change of control. Siemens Energy Finance B.V. transferred 4.07% of capital to fellow promoter Siemens International Holding B.V. by inter-se transfer (Dec 2025), leaving it with 0.93% and Siemens International Holding at 51.77%. Total promoter holding stayed 75%. Two Siemens Energy entities holding nil shares later sought reclassification to public.
+**Ownership — Within the promoter family / group.** Shares moved only inside the Siemens promoter group: Siemens Energy entities transferred their holdings by inter-se transfer to Siemens International Holding B.V. (now 51.77%), and two Siemens Energy companies, holding nil shares, asked to be reclassified from promoter to public. Promoter total stayed 75%.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Siemens Energy Finance B.V. (and Siemens Energy Holdco B.V., Siemens Energy Holding B.V., which hold nil shares and seek reclassification to public) | corporate parent | 5.00% | 0.93% |
-| Incoming | Siemens International Holding B.V. | other | — | 51.77% |
+| Outgoing | Siemens Energy Finance B.V., Siemens Energy Holding B.V., Siemens Energy Holdco B.V. (promoters) | corporate parent | Siemens Energy Finance B.V. 5.00% (sold 4.07%); Siemens Energy Holding B.V. 1.00%; Siemens Energy Holdco B.V. 5.00% | Siemens Energy Finance B.V. 0.93%; Siemens Energy Holding B.V. Nil; Siemens Energy Holdco B.V. Nil |
+| Incoming | Siemens International Holding B.V. | strategic buyer | — | 51.77% (48.70% stated after the 1.00% inter-se purchase; 51.77% after the 4.07% inter-se transfer) |
 
-- mode: other · control does not change
-- Dates: block deal 2025-12-22; other 2026-09-07
-- In the documents: “this is to inform you that the Company has today received a letter dated 7th September 2026 ("Request Letter") from the following persons seeking reclassification from the "promoter" category to the "public" category in terms of Regulation 31A of the Listing Regulations”
+- mode: other · price INR 3,203.37 per equity share (for the 1.00% tranche) · deal value An aggregate consideration of approximately INR (Indian Rupees) 11,407,868,584.23 for 35,61,203 equity shares (1.00%) · control does not change
+- Why the seller is selling, in their words: “The transaction is being undertaken as a part of an inter-se transfer of shareholding among the promoters of the Target Company.”
+- Management changing with it: not stated (Sunil Mathur continues as Managing Director and Chief Executive Officer)
+- Dates: public announcement 2025-12-09; other 2025-12-17; completion 2025-12-22; other 2026-09-07
+- In the documents: “The transaction is being undertaken as a part of an inter-se transfer of shareholding among the promoters of the Target Company.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 75.0% (2025-09-30) → 75.0% (2025-12-31) → 75.0% (2026-03-31) → 75.0% (2026-06-30) → 75.0% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 4.07% and bought 4.07%.
 
-*Filings read for the ownership:* [2026-09-07 Updates](https://nsearchives.nseindia.com/corporate/SiemensRaj_07092026214059_Disclosure_Receipt_of_request_letter.pdf)
+*Filings read for the ownership:* [2026-09-07 Updates](https://nsearchives.nseindia.com/corporate/SiemensRaj_07092026214059_Disclosure_Receipt_of_request_letter.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SIEMENS_06022026135811_SL_-_Outcome_of_Board_Meeting_-_Feb_2026_Final.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SiemensRaj_06022026140524_Outcome.pdf) · [2025-12-09 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_09122025184520_SIEMENS.pdf)
 
 ### 2. Financials — the last three years
 
@@ -25180,17 +23895,17 @@ Results of **Shriram Finance Ltd.** while they were Managing Director there (ann
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/SIEMENS.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹3,111.60 on 2025-12-19 (the close before) → ₹3,660.00 on 2026-11-13: **+17.6%**; Nifty 500 +0.2% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹3,204.20 on 2025-12-08 (the close before) → ₹3,660.00 on 2026-11-13: **+14.2%**; Nifty 500 +0.9% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Siemens Energy Finance B.V. (and Siemens Energy Holdco B.V., Siemens Energy Holding B.V., which hold nil shares and seek reclassification to public)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 5.00% → 0.93%.
+**Siemens Energy Finance B.V., Siemens Energy Holding B.V., Siemens Energy Holdco B.V. (promoters)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Siemens Energy Finance B.V. 5.00% (sold 4.07%); Siemens Energy Holding B.V. 1.00%; Siemens Energy Holdco B.V. 5.00% → Siemens Energy Finance B.V. 0.93%; Siemens Energy Holding B.V. Nil; Siemens Energy Holdco B.V. Nil.
 
 ### 4. Track record — the incoming management
 
-**Siemens International Holding B.V.** (other) — the incoming owner. Holding after: 51.77%.
+**Siemens International Holding B.V.** (strategic buyer) — the incoming owner. Holding after: 51.77% (48.70% stated after the 1.00% inter-se purchase; 51.77% after the 4.07% inter-se transfer).
 
-What the documents say about them: “not stated — the documents identify it only as a promoter of Siemens Limited that acquired 4.07% of the capital via inter-se transfer and holds 51.77% after.”
+What the documents say about them: “"Siemens International Holding B.V. ('Acquirer')" — "Yes, the Acquirer is a promoter of the Target Company." It is a Netherlands company (corporate seat 's-Gravenhage, Prinses Beatrixlaan 800, Commercial Register 27044420) within the Siemens group; the promoter group also includes Siemens Aktiengesellschaft, Germany (18.00%) and Siemens Metals Technologies Vermogensverwaltungs GmbH (3.30%). "Each of the Acquirer and the Seller has been named as promoters in the shareholding pattern filed by the Target Company ... for more than three years."”
 
 ### 5. On the calls
 
@@ -25206,10 +23921,10 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Whole-time Director (Finance) / Chief Financial Officer (Key Managerial Personnel)** | Sipan Kumar Garg (interim holder replaced; last day 2026-03-19) | Parthajit De (government appointee; from 2026-03-19) | effective | 2026-03-19 |
+| **Whole-time Director (Finance)** | Sipan Kumar Garg (interim holder replaced; last day 2026-03-19) | Parthajit De (government appointee; from 2026-03-19) | effective | 2026-03-19 |
 
-- **Why Sipan Kumar Garg is leaving, in the filing's words:** “It is also informed that consequent to the above, Shri Sipan Kumar Garg (DIN: 10746205), ceases to hold the additional charge of the post of Director (Finance) and Chief Financial Officer of the Company.” Stays on as: Director (Finance), THDC India Limited, and additional charge of Chairman & Managing Director (CMD) of THDC India Limited.
-- In the documents: “It is also informed that consequent to the above, Shri Sipan Kumar Garg (DIN: 10746205), ceases to hold the additional charge of the post of Director (Finance) and Chief Financial Officer of the Company.” — [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_10042026144020_cfo.pdf) · [2026-03-19 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_19032026134709_2.pdf) · [2026-02-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_26022026161113_Disclosure26022026.pdf) · +1 more
+- **Why Sipan Kumar Garg is leaving, in the filing's words:** “It is also informed that consequent to the above, Shri Sipan Kumar Garg (DIN: 10746205), cease s to hold the additional charge of the post of Director (Finance) and Chief Financial Officer of the Company .” Stays on as: Director (Finance), THDC India Limited and holder of additional charge of Chairman & Managing Director (CMD) of THDC India Limited.
+- In the documents: “In compliance with Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you that the Ministry of Power vide order No. 15/23/2024 -H.II (271755) dated March 18, 2026, has appointed Shri Parthajit De (DIN: 11219972 ) as Whole -time Director (Finance) on the Board of the Company for a period of five years with effect from the date of assumption of charge i.e., 19.03.2026, or until further orders, whichever is earlier.” — [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_10042026144020_cfo.pdf) · [2026-03-19 Appointment](https://nsearchives.nseindia.com/corporate/SJVN_19032026134709_2.pdf) · [2026-02-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_26022026161113_Disclosure26022026.pdf) · +1 more
 
 *All 12 filing(s) read for the seats:* [2026-09-18 Updates](https://nsearchives.nseindia.com/corporate/SJVN_18092026121106_2.pdf) · [2026-09-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_10092026175656_1.pdf) · [2026-07-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SJVN_30072026172635_bg.pdf) · [2026-07-14 Updates](https://nsearchives.nseindia.com/corporate/SJVN_14072026165159_1__2_.pdf) · [2026-06-12 General Updates](https://nsearchives.nseindia.com/corporate/SJVN_12062026142605_Disclosure12062026.pdf) · [2026-04-24 Updates](https://nsearchives.nseindia.com/corporate/SJVN_24042026171533_reply.pdf) · +6 more
 
@@ -25239,7 +23954,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Sipan Kumar Garg** — Whole-time Director (Finance) / Chief Financial Officer (Key Managerial Personnel), date of taking the seat not on file.
+**Sipan Kumar Garg** — Whole-time Director (Finance), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -25255,15 +23970,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Parthajit De** — Whole-time Director (Finance) / Chief Financial Officer (Key Managerial Personnel). from: government appointee; experience: almost 30 years of post-qualification experience; qualifications: He is a Fellow Member of the Institute of Cost Accountants of India (ICMAI) with almost 30 years of post-qualification experience. He is also a Chartered Financial Analyst and has completed CGMA from Chartered Institute of Management Accountants, UK..
+**Parthajit De** — Whole-time Director (Finance). from: government appointee; experience: almost 30 years of post -qualification experience; qualifications: He is a Fellow Member of the Institute of Cost Accountants of India (ICMAI) with almost 30 years of post -qualification experience. He is also a Chartered Financial Analyst and has completed CGMA from Chartered Institute of Management Accountants, UK..
 
-The filing's own profile: “Shri Parthajit De, Director (Finance) of SJVN Limited, a "Navratna" Company of the Government of India under the Ministry of Power, has been appointed as Chief Financial Officer (KMP) of the Company with effect from April 10, 2026. Prior to his appointment as Director (Finance), SJVN Ltd., he was in-charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office, NHPC Limited and was a nominee Director on the Board of Loktak Downstream Hydroelectric Corporation Ltd., (a wholly owned Subsidiary of NHPC Ltd.). He is a Fellow Member of the Institute of Cost Accountants of India (ICMAI) with almost 30 years of post-qualification experience.”
+The filing's own profile: “Shri Parthajit De has assumed the charge of Director (Finance) of SJVN Limited, a "Navratna" Company of the Government of India under the Ministry of Power, on 19th March, 2026. Prior to his appointment as Director (Finance), SJVN Ltd., he was in -charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office, NHPC Limited and was a nominee Director on the Board of Loktak Downstream Hydroelectric Corporation Ltd., (a wholly owned Subsidiary of NHPC Ltd.).”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| in-charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office | NHPC Limited (NHPC) | — | 2026 |
-| Trainee Officer (Finance) | NHPC Limited (NHPC) | 1998 | — |
-| nominee Director on the Board | Loktak Downstream Hydroelectric Corporation Ltd. | — | — |
+| in -charge of Corporate Accounts & Policy Section, Corporate Tax Cell and Employment Benefit Trusts at Corporate Office | NHPC Limited (NHPC) | 1998 | — |
+| nominee Director on the Board | Loktak Downstream Hydroelectric Corporation Ltd. (a wholly owned Subsidiary of NHPC Ltd.) | — | — |
 
 ### 5. On the calls
 
@@ -25284,27 +23998,30 @@ The filing's own profile: “Shri Parthajit De, Director (Finance) of SJVN Limit
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** The promoter's entire 52.58% holding moved inside the SKF group: Aktiebolaget SKF transferred its full stake to SKF Interim AB, another promoter entity. Total promoter-and-group holding stayed 52.58% across every quarter, so no outside party gained control. SKF Interim AB now holds the promoter block.
+**Ownership — Within the promoter family / group.** Aktiebolaget SKF, the promoter, transferred its entire 52.58% holding (25,992,059 equity shares) off-market to SKF Interim AB, its wholly-owned subsidiary. An exempt inter-se promoter transfer; total promoter holding stayed 52.58% and ultimate control remains with AB SKF. SKF Interim AB now holds the stake directly.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Aktiebolaget SKF | corporate parent | 52.58% | 0% |
+| Outgoing | Aktiebolaget SKF (AB SKF) | corporate parent | 52.58% | 0% |
 | Incoming | SKF Interim AB | other | — | 52.58% |
 
 - mode: other · control does not change
 - Dates: other 2025-12-26
+- In the documents: “SKF India Limited (the “Company”) has received the enclosed report along with supporting documents from SKF Interim AB pursuant to Regulation 10(7) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (“SEBI SAST Regulations”), in relation to the off-market inter-se transfer of 25,992,059 (Twenty Five Million Nine Hundred and Ninety Two Thousand and Fifty Nine) equity shares of the Company from Aktiebolaget SKF (AB SKF), the promoter of the Company, to SKF Interim AB.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 52.58% (2025-09-30) → 52.58% (2025-12-31) → 52.58% (2026-03-31) → 52.58% (2026-06-30) → 52.58% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 52.58% and bought 52.58%.
 
+*Filings read for the ownership:* [2025-12-26 General Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA22_26122025201331_9_SE_Intimation_Disclosure_under_Reg_10_7__of_SAST.pdf)
+
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (‘CFO”) / Interim Chief Financial Officer (Interim CFO)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
+| **Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
 
-- **Why Aashi Arora is leaving, in the filing's words:** “Ms. Aashi Arora resigned due to conclusion of her interim assignment and change in role in the organization.” Stays on as: continues to be part of SKF India Limited ("However, I will continue to be part of SKF India Limited.") — new role not stated.
-- In the documents: “Mr. Mayank Holani is appointed as the Chief Financial Officer (‘CFO”) of the Company in place of Ms. Aashi Arora (current CFO) who resigned, due to conclusion of interim assignment and change in role in the organization.” — [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
+- **Why Aashi Arora is leaving, in the filing's words:** “Ms. Aashi Arora resigned due to conclusion of her interim assignment and change in role in the organization.” Stays on as: continues to be part of SKF India Limited in a changed role in the organization (role not stated).
+- In the documents: “Mr. Mayank Holani is appointed as the Chief Financial Officer (‘CFO”) of the Company in place of Ms. Aashi Arora (current CFO) who resigned, due to conclusion of interim assignment and change in role in the organization.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · [2026-05-13 Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235726_NSE.pdf)
+*All 7 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -25332,9 +24049,9 @@ The filing's own profile: “Shri Parthajit De, Director (Finance) of SJVN Limit
 
 ### 3. Track record — the outgoing management
 
-**Aktiebolaget SKF** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 52.58% → 0%.
+**Aktiebolaget SKF (AB SKF)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 52.58% → 0%.
 
-**Aashi Arora** — Chief Financial Officer (‘CFO”) / Interim Chief Financial Officer (Interim CFO), date of taking the seat not on file.
+**Aashi Arora** — Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -25352,32 +24069,20 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **SKF Interim AB** (other) — the incoming owner. Holding after: 52.58%.
 
-What the documents say about them: “not stated — the exchange facts identify SKF Interim AB only as a promoter of SKF India Ltd. that acquired 52.58% of the capital via 'Others' on 2025-12-26 and holds 52.58% after.”
+What the documents say about them: “"SKF Interim AB is a wholly-owned subsidiary of AB SKF." The documents say nothing further about its business, size or other holdings.”
 
-**Mayank Holani** — Chief Financial Officer (‘CFO”) / Interim Chief Financial Officer (Interim CFO). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
+**Mayank Holani** — Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
 
-The filing's own profile: “Mr. Mayank Holani is a seasoned professional with more than 23 years’ experience (including 6 years as CFO) working with diverse businesses in both Indian and multinational companies in diverse areas of finance and accounting including project management, finance transformation, business turnaround, profitability improvement, internal audit, digitization & automation, joint venture management, M&A, compliances, etc. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan where he was responsible for end-to-end finance & accounts including finance strategy & operations, digitization, risk management, etc. Prior to this, he worked for 12 years with Schneider Electric India.”
+The filing's own profile: “Mr. Mayank Holani is a fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan where he was responsible for end-to-end finance & accounts including finance strategy & operations, digitization, risk management, etc. Prior to this, he worked for 12 years with Schneider Electric India, performing various diverse roles including FP&A, Controlling, Finance Business Partner along with being CFO for the listed entity Schneider Electric Infrastructure Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer (CFO) | Indian Synthetic Rubber Private Limited (ISRPL) | — | — |
 | various diverse roles including FP&A, Controlling, Finance Business Partner | Schneider Electric India | — | — |
-| CFO for the listed entity | Schneider Electric Infrastructure Limited (SCHNEIDER) | — | — |
+| CFO | Schneider Electric Infrastructure Limited (SCHNEIDER) | — | — |
 | — | Cairn India Limited | — | — |
 | — | Chambal Fertilisers & Chemicals Limited | — | — |
 | — | JK Tyres & Industries Limited | — | — |
-
-Results of **Schneider Electric Infrastructure Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,297 | 1,530 | +18.0% a year over 1 year |
-| Operating profit (₹ cr) | 64.0 | 86.0 | +34.4% a year over 1 year |
-| PAT (₹ cr) | -1.0 | 28.0 | loss to profit |
-| Operating profit margin (%) | 4.9 | 5.6 | +0.7 pts |
-| ROCE (%) | 12.0 | 14.0 | +2.0 pts |
-| ROE (%) | 1.2 | -58.3 | -59.5 pts |
-| Borrowings (₹ cr) | 629 | 590 | -39 |
 
 ### 5. On the calls
 
@@ -25401,10 +24106,11 @@ Results of **Schneider Electric Infrastructure Ltd.** while they were CFO there 
 |---|---|---|---|---|
 | **Managing Director** | Mukund Vasudevan (moved to another role in the company or group; last day 2026-08-31) | Sujeeth Pai (internal; from 2026-09-01) | effective | 2026-08-11 |
 
-- **Why Mukund Vasudevan is leaving, in the filing's words:** “I hereby submit my resignation as the Managing Director and member of board committees of SKF India (Industrial) Limited with effect from the closure of business hours of 31st August 2026 on account of change in my role within SKF Group.” Stays on as: Non-Executive, Non-Independent Director of the Company with effect from 1st September 2026; and President for the Industrial Region covering India, Southeast Asia & Middle East within the SKF Group.
-- In the documents: “Change in designation of Mr. Sujeeth Pai from Whole-Time Director to Managing Director of the Company in place of Mr. Mukund Vasudevan (current Managing Director) who resigned due to internal role change within SKF Group.” — [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026214632_NSE.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026215236_NSE.pdf) · [2026-08-11 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026215716_NSE.pdf) · +1 more
+- **Why Mukund Vasudevan is leaving, in the filing's words:** “Resignation pursuant to change in Mr. Mukund Vasudevan's role within SKF Group.” Stays on as: Non-Executive, Non-Independent Director of the Company w.e.f. 1st September 2026; and President for the Industrial Region covering India, Southeast Asia & Middle East within the SKF Group.
+- In the documents: “we wish to inform change in designation of Mr. Sujeeth Pai (DIN: 07763929) from Whole-Time Director to Managing Director of the Company with effect from 1st September 2026, subject to the approval of the shareholders.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026212338_NSE.pdf) · [2026-08-11 Updates](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026213712_NSE.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026214632_NSE.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
-*All 10 filing(s) read for the seats:* [2026-10-15 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_15102026204646_NSE.pdf) · [2026-10-15 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_15102026211945_NSE.pdf) · [2026-09-01 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026121640_NSE.pdf) · [2026-09-01 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026122810_NSE.pdf) · [2026-09-01 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026123358_NSE.pdf) · [2026-08-13 Press Release](https://nsearchives.nseindia.com/corporate/SKFINDUS25_13082026200249_NSE.pdf) · +4 more
+*All 12 filing(s) read for the seats:* [2026-10-15 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_15102026204646_NSE.pdf) · [2026-10-15 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_15102026211945_NSE.pdf) · [2026-09-01 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026121640_NSE.pdf) · [2026-09-01 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026122810_NSE.pdf) · [2026-09-01 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026123358_NSE.pdf) · [2026-08-13 Press Release](https://nsearchives.nseindia.com/corporate/SKFINDUS25_13082026200249_NSE.pdf) · +6 more
 
 ### 2. Financials — the last three years
 
@@ -25455,7 +24161,7 @@ The filing's own profile: “Sujeeth brings over four years of leadership experi
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Whole-Time Director | SKF India (Industrial) Limited (SKFINDUS) | — | 2026 |
-| key sales and operations roles across the organization (over four years of leadership experience within SKF) | SKF | — | — |
+| key sales and operations roles across the organization | SKF | — | — |
 | led the Sales and Service business | Danfoss Drives India | — | — |
 | senior positions | Tektronix | — | — |
 | senior positions | Fluke | — | — |
@@ -25483,7 +24189,7 @@ The filing's own profile: “Sujeeth brings over four years of leadership experi
 | **Chief Executive Officer (CEO)** | — (new seat) | Akash Talesara (from 2026-06-09) | effective | 2026-06-09 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “The appointment of Mr. Akash Talesara as the Chief Executive Officer (CEO) of the Company with effect from 9th June 2026, based on the recommendations of the Nomination and Remuneration Committee and the Audit Committee of the Company.” — [2026-06-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026122205_Ouctome09062026.pdf) · [2026-06-09 Appointment](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026123456_Ouctome09062026.pdf) · [2026-06-09 General Updates](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026124403_Ouctome09062026.pdf)
+- In the documents: “The appointment of Mr. Akash Talesara as the Chief Executive Officer (CEO) of the Company with effect from 9th June 2026, based on the recommendations of the Nomination and Remuneration Committee and the Audit Committee of the Company.” — [2026-08-09 Press Release](https://nsearchives.nseindia.com/corporate/SKYGOLD_09082026130813_Pressrelease.pdf) · [2026-06-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026122205_Ouctome09062026.pdf) · [2026-06-09 Appointment](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026123456_Ouctome09062026.pdf) · +1 more
 
 *All 6 filing(s) read for the seats:* [2026-09-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKYGOLD_05092026120929_OutcomeBM.pdf) · [2026-08-09 Press Release](https://nsearchives.nseindia.com/corporate/SKYGOLD_09082026130813_Pressrelease.pdf) · [2026-06-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026122205_Ouctome09062026.pdf) · [2026-06-09 Appointment](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026123456_Ouctome09062026.pdf) · [2026-06-09 General Updates](https://nsearchives.nseindia.com/corporate/SKYGOLD_09062026124403_Ouctome09062026.pdf) · [2026-05-09 Press Release](https://nsearchives.nseindia.com/corporate/SKYGOLD_09052026171037_RPR.pdf)
 
@@ -25595,7 +24301,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | -52.2 | 30.8 | +83.0 pts |
 | Borrowings (₹ cr) | 261 | 289 | +28 |
 
-**Pushkar Patwardhan** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Pushkar Patwardhan** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -25620,18 +24326,6 @@ The company's results while they held the seat (the year before they took it, to
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Chairman | SML Mahindra Limited (SMLMAH) | — | — |
-
-Results of **SML Mahindra Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,399 | 2,838 | +18.3% a year over 1 year |
-| Operating profit (₹ cr) | 235 | 278 | +18.3% a year over 1 year |
-| PAT (₹ cr) | 122 | 160 | +31.1% a year over 1 year |
-| Operating profit margin (%) | 9.8 | 9.8 | +0.0 pts |
-| ROCE (%) | 27.0 | 31.0 | +4.0 pts |
-| ROE (%) | 31.9 | 30.8 | -1.1 pts |
-| Borrowings (₹ cr) | 327 | 289 | -38 |
 
 **Manaswini Goel** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer (interim). from: group company; qualifications: She holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, University of Delhi, and is a Chartered Accountant, being an associate of the Institute of Chartered Accountants of India (ICAI) and the Institute of Chartered Accountants in England and Wales (ICAEW)..
 
@@ -25883,68 +24577,6 @@ The filing's own profile: “Mr. Mahesh Muralidhar Pai (DIN: 09164982), aged 50 
 
 ---
 
-## SPARC — Sun Pharma Advanced Research Company Ltd.
-
-**Large stake change, same controller**
-
-### 1. What is changing
-
-**Ownership — Large stake change, same controller.** Promoter entity Shanghvi Finance Private Limited was allotted 3,85,10,000 convertible warrants at Rs.155.80 each on a preferential basis on May 19, 2026, holding 42.28% after. Promoter-group holding stayed 65.67% throughout; certain promoter-group individuals were approved for reclassification to public. Same promoters retain control.
-
-| | Who | Kind | Stake before | Stake after |
-|---|---|---|---|---|
-| Outgoing | Certain promoter group individuals (names not stated) | founder family | — | — |
-| Incoming | Shanghvi Finance Private Limited | other | — | 42.28% |
-
-- mode: preferential issue · price Rs.155.80 per warrant (25% i.e. Rs.38.95 paid upfront; balance Rs.116.85 on conversion) · control does not change
-- Management changing with it: not stated; Dilip S. Shanghvi continues to sign the results as Chairman. The Board on August 10, 2026 approved requests for reclassification of certain promoter group individuals from "Promoter Group" to "Public", subject to approvals under Regulation 31A.
-- Dates: other 2026-05-19; other 2026-05-22; other 2026-07-27; approval 2026-08-10
-- In the documents: “On May 19, 2026, the Company has allotted 3,85,10,000 warrants, each convertible into one equity share, on preferential basis to Shanghvi Finance Private Limited at an issue price of ?155.80 each, upon receipt of 25% of the issue price (i.e. ?38.95 per warrant) as warrant subscription money.”
-
-**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 65.67% (2025-09-30) → 65.67% (2025-12-31) → 65.67% (2026-03-31) → 65.67% (2026-05-19) → 65.67% (2026-06-30) → 65.67% (2026-09-30)
-
-*Filings read for the ownership:* [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SPARC_10082026133324_BMOutcomesigned.pdf) · [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SPARC_10082026135455_BMOutcomesigned.pdf)
-
-### 2. Financials — the last three years
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 76.0 | 72.0 | 1,879 |
-| Sales growth (%) | -68.2 | -5.3 | 2,510 |
-| Operating profit (₹ cr) | -402 | -323 | 1,599 |
-| Operating profit margin (%) | -529 | -449 | 85.1 |
-| PAT (₹ cr) | -387 | -343 | 1,553 |
-| PAT growth (%) | -73.5 | 11.4 | 553 |
-| PAT margin (%) | -509 | -476 | 82.7 |
-| EPS (₹) | -11.9 | -10.6 | 47.9 |
-| Cash from operations (₹ cr) | -429 | -360 | -239 |
-| Free cash flow (₹ cr) | -455 | -370 | -262 |
-| ROCE (%) | -279 | 164 | — |
-| ROE (%) | -310 | 158 | 116 |
-| Borrowings (₹ cr) | 61.0 | 269 | 559 |
-| Debt / equity (x) | 0.5 | -1.2 | 0.4 |
-| Working-capital days | -738 | -1,780 | 215 |
-
-*Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/SPARC.csv (consolidated, screener.in); growth, margins and ratios computed here.*
-
-**Share price since the announcement:** ₹180.33 on 2026-05-21 (the close before) → ₹205.84 on 2026-11-13: **+14.1%**; Nifty 500 +5.0% over the same days. Unadjusted closes from the NSE bhavcopy.
-
-### 3. Track record — the outgoing management
-
-**Certain promoter group individuals (names not stated)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved — → —.
-
-### 4. Track record — the incoming management
-
-**Shanghvi Finance Private Limited** (other) — the incoming owner. Holding after: 42.28%.
-
-What the documents say about them: “Described in the documents only as an existing promoter: "Shanghvi Finance Private Ltd (promoter)", allotted "3,85,10,000 warrants, each convertible into one equity share, on preferential basis", holding 42.28% after the allotment. No further description of its business, size or record is given.”
-
-### 5. On the calls
-
-Nothing about the change in the calls on file for the window.
-
----
-
 ## SRF — SRF Ltd.
 
 **CFO change**
@@ -26036,6 +24668,7 @@ Nothing about the change in the calls on file for the window.
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “In terms of recommendation of the Nomination & Remuneration Committee, the Board of Directors of the Company, has approved the change in designation of Mr. Tushar Bhajanka (DIN: 09179632) from Deputy Managing Director to Managing Director & Chief Executive Officer (CEO) of the Company with immediate effect and re-appointed him for a further period of 3 (three) years with effect from 22nd May, 2026 up to 21st May, 2029, subject to approval of the members of the Company at the General Meeting and other applicable approvals, if required with revised terms and conditions.” — [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026135147_SCL_Outcome_Signed.pdf) · [2026-08-07 General Updates](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140308_SCL_Outcome_Signed.pdf) · [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026151955_SCL-Outcome_Financial.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 6 filing(s) read for the seats:* [2026-08-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_10082026190936_SCL_Outcome_PostalBallot.pdf) · [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026135147_SCL_Outcome_Signed.pdf) · [2026-08-07 General Updates](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140308_SCL_Outcome_Signed.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140642_SCL_Outcome_Signed.pdf) · [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026151955_SCL-Outcome_Financial.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026152633_SCL-Outcome_Financial.pdf)
 
@@ -26168,6 +24801,7 @@ Nothing about the change in the calls on file for the window.
 
 - **Why Chetan Shah is leaving, in the filing's words:** “Mr. Chetan Shah, presently Managing Director whose tenure as MD concludes on 31st August, 2026” Stays on as: Non-Executive Non-Independent Director of the Company with effect from 01 September 2026, and advisor (advisory fees, commission and sitting fees approved for 01 September 2026 to 31 August 2027).
 - In the documents: “At the Meeting of the Board of Directors of the Company held today i.e. on 26th May, 2026, the Board has decided to promote Dr. Suresh Ramachandran, Deputy Managing Director of the Company , to the position of Managing Director of the Company with effect from 1st September, 2026.” — [2026-07-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_03072026104513_Final_Revised_Notice.pdf) · [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_02072026155450_Notice_of_26th_AGM_FINAL.pdf) · [2026-06-30 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_30062026112824_Notice_of_26th_AGM_FINAL.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 5 filing(s) read for the seats:* [2026-07-27 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_27072026164742_AGM_Proceedings_2025_26_signed.pdf) · [2026-07-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_03072026104513_Final_Revised_Notice.pdf) · [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_02072026155450_Notice_of_26th_AGM_FINAL.pdf) · [2026-06-30 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_30062026112824_Notice_of_26th_AGM_FINAL.pdf) · [2026-05-26 Change in Management](https://nsearchives.nseindia.com/corporate/SUMICHEM_26052026171907_Promotion_of_DSR_signed.pdf)
 
@@ -26197,9 +24831,9 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Chetan Shah** — Managing Director, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Chetan Shah** — Managing Director, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -26226,18 +24860,6 @@ The filing's own profile: “Dr. Suresh Ramachandran (57) has done his B. Sc. (A
 | Chief Commercial Officer | Sumitomo Chemical India Limited (SUMICHEM) | 2021 | 2023 |
 | various managerial and leadership positions | Dow AgroSciences India | — | — |
 | various managerial and leadership positions | Indofil Industries Limited | — | — |
-
-Results of **Sumitomo Chemical India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2026):
-
-| Mar 2023 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,511 | 3,238 | -2.7% a year over 3 years |
-| Operating profit (₹ cr) | 667 | 671 | +0.2% a year over 3 years |
-| PAT (₹ cr) | 502 | 543 | +2.7% a year over 3 years |
-| Operating profit margin (%) | 19.0 | 20.7 | +1.7 pts |
-| ROCE (%) | 20.0 | — | — |
-| ROE (%) | 21.1 | 16.0 | -5.1 pts |
-| Borrowings (₹ cr) | 34.0 | 63.0 | +29 |
 
 ### 5. On the calls
 
@@ -26293,7 +24915,7 @@ Results of **Sumitomo Chemical India Ltd.** while they were Managing Director th
 
 ### 3. Track record — the outgoing management
 
-**J.P. Chalasani** — Chief Executive Officer and a Key Managerial Personnel of the Company, to act as the Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**J.P. Chalasani** — Chief Executive Officer and a Key Managerial Personnel of the Company, to act as the Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -26389,7 +25011,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 14.4 | 6.6 | -7.8 pts |
 | Borrowings (₹ cr) | 893 | 458 | -435 |
 
-**Deepak Jain** — Chief Financial Officer and Key Managerial Personnel (KMP), in the seat since FY2026 per the annual reports on file (the person may have held the seat earlier).
+**Deepak Jain** — Chief Financial Officer and Key Managerial Personnel (KMP), in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -26495,7 +25117,7 @@ Results of **Biocon Limited** while they were President & Chief Financial Office
 
 ### 3. Track record — the outgoing management
 
-**Satendra Singh** — Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Satendra Singh** — Chief Executive Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -26615,18 +25237,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 |---|---|---|---|
 | Managing Director | Transformers and Rectifiers (India) Limited (TARIL) | — | — |
 
-Results of **Transformers And Rectifiers (India) Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2022):
-
-| Mar 2020 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 701 | 1,158 | +28.5% a year over 2 years |
-| Operating profit (₹ cr) | 51.0 | 74.0 | +20.5% a year over 2 years |
-| PAT (₹ cr) | 1.0 | 14.0 | +274.2% a year over 2 years |
-| Operating profit margin (%) | 7.3 | 6.4 | -0.9 pts |
-| ROCE (%) | 8.0 | 10.0 | +2.0 pts |
-| ROE (%) | 0.3 | 3.9 | +3.6 pts |
-| Borrowings (₹ cr) | 308 | 325 | +17 |
-
 **Mehul Shah** — Chief Financial Officer (Key Managerial Personnel). experience: over 26 years; qualifications: Chartered Accountant.
 
 The filing's own profile: “Mr. Shah is a Chartered Accountant and a seasoned finance professional with over 26 years of experience in Strategic Accounting, Financial Operations, Fund Management, Budgeting, Compliance, Taxation, and Corporate Governance. He has worked with reputed organisations such as Nirma Limited, Adani Enterprises Limited, Reliance Logistics Private Limited, Arvind Smart Spaces Limited, Gujarat Ambuja Exports Limited, and Asian Granito India Limited, managing key finance and business responsibilities.”
@@ -26712,7 +25322,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 1,089 | 28.9 | -1059.8 pts |
 | Borrowings (₹ cr) | 11,394 | 12,249 | +855 |
 
-**Kabir Ahmed Shakir** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Kabir Ahmed Shakir** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -26807,7 +25417,7 @@ The filing's own profile: “Mr. Siddhartha Mundra has over 22 years of diversif
 
 ### 3. Track record — the outgoing management
 
-**Gaurav Bajaj** — Chief Financial Officer, in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gaurav Bajaj** — Chief Financial Officer, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -26964,18 +25574,6 @@ The company's results while they held the seat (the year before they took it, to
 
 The filing's own profile: “Mr. Uttam Gujrati is a seasoned finance leader with over 20 years of experience in strategic finance, M&A, pricing, and business transformation across global engineering and technology services. In his current role, he heads global business finance and strategy, drove IPO readiness, pricing governance, digital finance modernization, and enterprise-wide margin expansion. He has previously served in CXO-level roles, including as a Chief Financial Officer, where he built governance foundations, led multi-cycle audit readiness, and enabled global scale-up and investment preparedness. Earlier, he partnered with global engineering businesses, leading large-deal pricing, financial integration, and strategic programs across multiple regions. Recognized with multiple national awards for finance leadership excellence, he is widely regarded for his data-driven, disciplined, and growth-oriented operating style, and is a trusted strategic partner to CEOs and boards.”
 
-Results of **Tata Technologies Ltd.** while they were CFO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 5,168 | 5,506 | +6.5% a year over 1 year |
-| Operating profit (₹ cr) | 934 | 853 | -8.7% a year over 1 year |
-| PAT (₹ cr) | 677 | 547 | -19.2% a year over 1 year |
-| Operating profit margin (%) | 18.1 | 15.5 | -2.6 pts |
-| ROCE (%) | 21.0 | — | — |
-| ROE (%) | 18.9 | 13.9 | -5.0 pts |
-| Borrowings (₹ cr) | 237 | 938 | +701 |
-
 ### 5. On the calls
 
 8 passage(s) from 4 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -27030,9 +25628,9 @@ Results of **Tata Technologies Ltd.** while they were CFO there (annual reports 
 
 ### 3. Track record — the outgoing management
 
-**Vikas Jain** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Vikas Jain** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -27115,18 +25713,6 @@ The filing's own profile: “Mr. Deepak Kumar Sinha, holds a Bachelor's degree i
 | Chief Executive and Whole-time Director | L&T-MHI Power Turbine Generators Private Limited (LMTG) | — | — |
 | senior leadership roles in management, technology and operations | GE Power | — | — |
 
-Results of **TD Power Systems Ltd.** while they were CEO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,279 | 1,856 | +45.1% a year over 1 year |
-| Operating profit (₹ cr) | 235 | 335 | +42.6% a year over 1 year |
-| PAT (₹ cr) | 175 | 239 | +36.6% a year over 1 year |
-| Operating profit margin (%) | 18.4 | 18.0 | -0.4 pts |
-| ROCE (%) | 30.0 | 34.0 | +4.0 pts |
-| ROE (%) | 20.3 | 22.3 | +2.0 pts |
-| Borrowings (₹ cr) | 12.0 | 18.0 | +6 |
-
 ### 5. On the calls
 
 1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -27202,7 +25788,7 @@ Results of **TD Power Systems Ltd.** while they were CEO there (annual reports o
 
 **Manish Mohanka (Promoter)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 9.69% of total paid up capital (72,78,925 equity shares gifted) → —.
 
-**Sharad Kumar Khaitan** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sharad Kumar Khaitan** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -27571,12 +26157,12 @@ The filing's own profile: “Shibu Mathews is a Chartered Accountant with 26 yea
 | **Chief Financial Officer** | Abhinav Gupta (moved to another role in the company or group; last day 2026-01-27) | Rajesh Choudhary (internal; from 2026-01-27) | effective | 2026-01-27 |
 | **Chief Financial Officer** | Rajesh Choudhary (resignation; last day 2026-10-08) | — not named | seat vacant — no successor named | 2026-10-08 |
 
-- **Why Abhinav Gupta is leaving, in the filing's words:** “Consequent to transition to a new role as Chief of Internal Audit, Mr. Abhinav Gupta, Chief Financial Officer has relinquished his position as Chief Financial Officer of the Company.” Stays on as: Chief of Internal Audit; remains a Senior Management Personnel (SMP) of the Company.
+- **Why Abhinav Gupta is leaving, in the filing's words:** “Consequent to transition to a new role as Chief of Internal Audit, Mr. Abhinav Gupta, Chief Financial Officer has relinquished his position as Chief Financial Officer of the Company.” Stays on as: Chief of Internal Audit; remains Senior Management Personnel (SMP) of the Company.
 - In the documents: “Mr. Rajesh Choudhary, presently serving as Senior Vice President - Finance & Accounts is appointed as Chief Financial Officer of the Company, a Key Managerial Personnel (KMP) and a Senior Management Personnel (SMP), with immediate effect.” — [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/gthakur_08102026205723_OutcomeofNRC_Oct_2026.pdf) · [2026-10-08 Change in Management](https://nsearchives.nseindia.com/corporate/gthakur_08102026210810_OutcomeofNRC_Oct_2026.pdf) · [2026-01-27 Change in Management](https://nsearchives.nseindia.com/corporate/gthakur_27012026132824_TIIntimationJan272026.pdf) · +1 more
-- **Why Rajesh Choudhary is leaving, in the filing's words:** “tendered his resignation from the position of Chief Financial Officer of the Company with immediate effect in pursuit of external career opportunities” Stays on as: He shall continue to remain in employment of the Company (no designation stated).
-- In the documents: “With reference to the captioned subject, we would like to inform you that Mr. Rajesh Choudhary, has, vide letter dated October 08, 2026, tendered his resignation from the position of Chief Financial Officer of the Company with immediate effect in pursuit of external career opportunities.” — [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TI_ROID_100064_KMP_Doc.zip) · [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/gthakur_08102026205723_OutcomeofNRC_Oct_2026.pdf) · [2026-10-08 Change in Management](https://nsearchives.nseindia.com/corporate/gthakur_08102026210810_OutcomeofNRC_Oct_2026.pdf) · +1 more
+- **Why Rajesh Choudhary is leaving, in the filing's words:** “tendered his resignation from the position of Chief Financial Officer of the Company with immediate effect in pursuit of external career opportunities” Stays on as: He shall continue to remain in employment of the Company.
+- In the documents: “Mr. Rajesh Choudhary, has, vide letter dated October 08, 2026, tendered his resignation from the position of Chief Financial Officer of the Company with immediate effect in pursuit of external career opportunities.” — [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TI_ROID_100064_KMP_Doc.zip) · [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/gthakur_08102026205723_OutcomeofNRC_Oct_2026.pdf) · [2026-10-08 Change in Management](https://nsearchives.nseindia.com/corporate/gthakur_08102026210810_OutcomeofNRC_Oct_2026.pdf) · +1 more
 
-*All 8 filing(s) read for the seats:* [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TI_ROID_100064_KMP_Doc.zip) · [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/gthakur_08102026205723_OutcomeofNRC_Oct_2026.pdf) · [2026-10-08 Change in Management](https://nsearchives.nseindia.com/corporate/gthakur_08102026210810_OutcomeofNRC_Oct_2026.pdf) · [2026-05-29 Appointment](https://nsearchives.nseindia.com/corporate/gthakur_29052026202216_TIBMoutcomeMay292026.pdf) · [2026-05-29 Appointment](https://nsearchives.nseindia.com/corporate/gthakur_29052026202744_TIBMoutcomeMay292026.pdf) · [2026-05-29 Appointment](https://nsearchives.nseindia.com/corporate/gthakur_29052026203449_TIBMoutcomeMay292026.pdf) · +2 more
+*All 9 filing(s) read for the seats:* [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TI_ROID_100064_KMP_Doc.zip) · [2026-10-08 Resignation](https://nsearchives.nseindia.com/corporate/gthakur_08102026205723_OutcomeofNRC_Oct_2026.pdf) · [2026-10-08 Change in Management](https://nsearchives.nseindia.com/corporate/gthakur_08102026210810_OutcomeofNRC_Oct_2026.pdf) · [2026-05-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/gthakur_29052026195451_TIBMoutcomeMay292026.pdf) · [2026-05-29 Appointment](https://nsearchives.nseindia.com/corporate/gthakur_29052026202216_TIBMoutcomeMay292026.pdf) · [2026-05-29 Appointment](https://nsearchives.nseindia.com/corporate/gthakur_29052026202744_TIBMoutcomeMay292026.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -27604,7 +26190,7 @@ The filing's own profile: “Shibu Mathews is a Chartered Accountant with 26 yea
 
 ### 3. Track record — the outgoing management
 
-**Abhinav Gupta** — Chief Financial Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Abhinav Gupta** — Chief Financial Officer, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -27700,7 +26286,7 @@ The filing's own profile: “Mr. Rajesh Choudhary is a senior finance and busine
 
 ### 3. Track record — the outgoing management
 
-**Hari Nair** — Chief Executive Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Hari Nair** — Chief Executive Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -27797,21 +26383,20 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ## TMPV — Tata Motors Passenger Vehicles Ltd.
 
-**CEO / MD change · CFO change**
+**CFO change**
 
 ### 1. What is changing
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer (hereinafter referred to as 'MD & CEO')** | — (new seat) | Shailesh Chandra (group company; from 2025-10-01) | effective | 2025-11-28 |
-| **CFO DESIGNATE, TATA MOTORS PASSENGER VEHICLES LIMITED** | P B Balaji | Dhiman Gupta | announced, not yet effective | — |
+| **Chief Financial Officer, TMPVL** | Pathamadai Balachandran Balaji (moved to another role in the company or group) | Dhiman Gupta (internal) | effective | — |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “the consent of the Members be and is hereby accorded to the appointment and terms of remuneration of Mr Shailesh Chandra (DIN: 07593905) as the Managing Director and Chief Executive Officer (hereinafter referred to as ‘MD & CEO’) , w.e.f., from October 1, 2025, on such terms and conditions of appointment and remuneration gist of which is mentioned hereunder , including his continuation as the Managing Director and Key Managerial Personnel of Tata Passenger Electric Mobility Limited, a wholly -owned subsidiary of the Company” — [2026-05-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_14052026170253_NSEBSESMPPV.pdf) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TMPV_ROID_85921_KMP_Doc.zip) · [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · +1 more
-- **Why P B Balaji is leaving, in the filing's words:** “not stated”
-- In the documents: “Today we have with us Mr. P B Balaji, Group CFO , Tata Motors Passenger Vehicles Group; Mr. Shailesh Chandra, MD and CEO Tata Motors Passenger Vehicles Limited; Mr. Adrian Mardell, CEO Jaguar Land Rover; Mr. Dhiman Gupta, CFO Designate Tata Motors Passenger Vehicles Limited; Mr. Richard Molyneux, CFO Jaguar Land Rover.” — [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_28112025190050_Lettertoexchangesforpostalballotfinal.pdf)
+- **Why Pathamadai Balachandran Balaji is leaving, in the filing's words:** “not stated” Stays on as: Chief Executive Officer, Jaguar Land Rover; Non-Executive Director of the Company.
+- In the documents: “Today we have with us Mr. P B Balaji, Group CFO , Tata Motors Passenger Vehicles Group; Mr. Shailesh Chandra, MD and CEO Tata Motors Passenger Vehicles Limited; Mr. Adrian Mardell, CEO Jaguar Land Rover; Mr. Dhiman Gupta, CFO Designate Tata Motors Passenger Vehicles Limited; Mr. Richard Molyneux, CFO Jaguar Land Rover.” — [2026-08-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_13082026155435_NSEBSERESULT.pdf) · [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_28112025190050_Lettertoexchangesforpostalballotfinal.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
+  > Date: the date of the filing that names them.
 
-*All 4 filing(s) read for the seats:* [2026-05-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_14052026170253_NSEBSESMPPV.pdf) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TMPV_ROID_85921_KMP_Doc.zip) · [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_28112025190050_Lettertoexchangesforpostalballotfinal.pdf)
+*All 5 filing(s) read for the seats:* [2026-08-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_13082026155435_NSEBSERESULT.pdf) · [2026-05-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_14052026170253_NSEBSESMPPV.pdf) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TMPV_ROID_85921_KMP_Doc.zip) · [2025-12-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_29122025204453_NSEBSEPOSTALBALLOTRESULTSPV.pdf) · [2025-11-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_28112025190050_Lettertoexchangesforpostalballotfinal.pdf)
 
 ### 2. Financials — the last three years
 
@@ -27839,7 +26424,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 3. Track record — the outgoing management
 
-**P B Balaji** — CFO DESIGNATE, TATA MOTORS PASSENGER VEHICLES LIMITED, date of taking the seat not on file.
+**Pathamadai Balachandran Balaji** — Chief Financial Officer, TMPVL, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -27853,39 +26438,21 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | -24.2 | 73.7 | +97.9 pts |
 | Borrowings (₹ cr) | 142,131 | 79,109 | -63,022 |
 
-- Also on file: Managing Director at APTUS (FY2024–FY2024, annual reports).
-
 ### 4. Track record — the incoming management
 
-**Shailesh Chandra** — Managing Director and Chief Executive Officer (hereinafter referred to as 'MD & CEO'). from: group company.
+**Dhiman Gupta** — Chief Financial Officer, TMPVL. from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Managing Director and Key Managerial Personnel | Tata Passenger Electric Mobility Limited | — | — |
-
-Results of **Tata Motors Passenger Vehicles Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 249,795 | 278,454 | +11.5% a year over 1 year |
-| Operating profit (₹ cr) | 32,287 | 24,720 | -23.4% a year over 1 year |
-| PAT (₹ cr) | -13,395 | -11,309 | — |
-| Operating profit margin (%) | 12.9 | 8.9 | -4.0 pts |
-| ROCE (%) | 6.0 | 1.0 | -5.0 pts |
-| ROE (%) | -24.2 | -25.4 | -1.2 pts |
-| Borrowings (₹ cr) | 142,131 | 146,449 | +4,318 |
-
-**Dhiman Gupta** — CFO DESIGNATE, TATA MOTORS PASSENGER VEHICLES LIMITED.
-
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+| CFO Designate | Tata Motors Passenger Vehicles Limited (TMPV) | 2025 | — |
 
 ### 5. On the calls
 
-36 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
+31 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
 
 | Call | About | Passages |
 |---|---|---:|
-| Nov 2025 | the seat | 12 |
+| Nov 2025 | the seat | 7 |
 | Feb 2026 | the seat | 12 |
 | Jun 2026 | the seat | 12 |
 
@@ -28085,7 +26652,7 @@ No successor or new owner is named yet.
 
 ### 3. Track record — the outgoing management
 
-**Samir Prabodhchandra Joshipura** — Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Samir Prabodhchandra Joshipura** — Group Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -28099,7 +26666,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 10.5 | 7.9 | -2.6 pts |
 | Borrowings (₹ cr) | 1,442 | 1,829 | +387 |
 
-**Avneesh Barua** — Chief Financial Officer (Key Managerial Personnel & Senior Management Personnel), in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Avneesh Barua** — Chief Financial Officer (Key Managerial Personnel & Senior Management Personnel), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -28113,7 +26680,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 21.7 | 7.9 | -13.8 pts |
 | Borrowings (₹ cr) | 1,597 | 1,829 | +232 |
 
-**Rahul Roongta** — Group Chief Financial Officer (Senior Management Personnel), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Rahul Roongta** — Group Chief Financial Officer (Senior Management Personnel), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -28139,18 +26706,6 @@ The filing's own profile: “Mr. Amit Gupta is a Qualified Chartered Accountant 
 |---|---|---|---|
 | various leadership roles | Trident Group | — | — |
 | — | other reputed organizations | — | — |
-
-Results of **Vishal Mega Mart Ltd.** while they were CFO there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 8,912 | 10,716 | +20.2% a year over 1 year |
-| Operating profit (₹ cr) | 1,276 | 1,564 | +22.6% a year over 1 year |
-| PAT (₹ cr) | 462 | 632 | +36.8% a year over 1 year |
-| Operating profit margin (%) | 14.3 | 14.6 | +0.3 pts |
-| ROCE (%) | 13.0 | 15.0 | +2.0 pts |
-| ROE (%) | 8.2 | 9.9 | +1.7 pts |
-| Borrowings (₹ cr) | 1,483 | 1,729 | +246 |
 
 ### 5. On the calls
 
@@ -28306,18 +26861,19 @@ Nothing about the change in the calls on file for the window.
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | Ravi Viswanathan (resignation; last day 2026-06-30) | Vikas Chadha (internal; from 2026-07-01) | effective | 2026-05-25 |
 | **Global Chief Executive Officer** | — (new seat) | Vikas Chadha (external; from 2026-01-22) | effective | 2026-01-14 |
+| **Managing Director** | Ravi Viswanathan (resignation; last day 2026-06-30) | Vikas Chadha (internal; from 2026-07-01) | effective | 2026-05-25 |
 | **Global Chief Executive Officer** | Vikas Chadha (moved to another role in the company or group; last day 2026-06-30) | — not named | seat vacant — no successor named | 2026-07-01 |
 
-- **Why Ravi Viswanathan is leaving, in the filing's words:** “the board, at its meeting held today, took note of the resignation of Ravi Viswanathan, who will step down from the role of Managing Director with effect from June 30, 2026”
-- In the documents: “Appointment of Mr. Vikas Chadha (DIN: 06624266), currently Global Chief Executive Officer of the Company, based on the recommendation of the Nomination & Remuneration Committee, as Additional Director and Managing Director of the Company effective July 1, 2026, for a period of five years commencing from July 1, 2026, subject to approval of shareholders.” — [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · +1 more
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform that based on the recommendations of the Nomination & Remuneration Committee, the Board of Directors of TVS Supply Chain Solutions Limited ("Company") has appointed Mr. Vikas Chadha as Global Chief Executive Officer of the Company with effect from January 22, 2026.” — [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-01-14 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_14012026185919_SE_Intimation_Appointment_of_CEO.pdf) · +1 more
-- **Why Vikas Chadha is leaving, in the filing's words:** “Accordingly, Mr. Vikas Chadha is no longer the Global Chief Executive Officer of the Company.” Stays on as: Managing Director.
-- In the documents: “Accordingly, Mr. Vikas Chadha is no longer the Global Chief Executive Officer of the Company.” — [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · +1 more
+- In the documents: “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform that based on the recommendations of the Nomination & Remuneration Committee, the Board of Directors of TVS Supply Chain Solutions Limited ("Company") has appointed Mr. Vikas Chadha as Global Chief Executive Officer of the Company with effect from January 22, 2026.” — [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-01-14 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_14012026185919_SE_Intimation_Appointment_of_CEO.pdf) · +1 more
+- **Why Ravi Viswanathan is leaving, in the filing's words:** “Resignation of Mr. Ravi Viswanathan as Director of the Company and stepping down as Managing Director of the Company, with effect from June 30, 2026.”
+- In the documents: “Appointment of Mr. Vikas Chadha (DIN: 06624266), currently Global Chief Executive Officer of the Company, based on the recommendation of the Nomination & Remuneration Committee, as Additional Director and Managing Director of the Company effective July 1, 2026, for a period of five years commencing from July 1, 2026, subject to approval of shareholders.” — [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · +1 more
+- **Why Vikas Chadha is leaving, in the filing's words:** “he has assumed office as the Managing Director with effect from July 01, 2026, for a period of five years, subject to the approval of the shareholders.” Stays on as: Managing Director.
+- In the documents: “Accordingly, Mr. Vikas Chadha is no longer the Global Chief Executive Officer of the Company.” — [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
-*All 6 filing(s) read for the seats:* [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Press Release](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026203751_Press_Release_-_Q4_FY26.pdf) · [2026-01-14 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_14012026185919_SE_Intimation_Appointment_of_CEO.pdf) · [2026-01-14 Press Release](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_14012026190743_SE_Intimation_Appointment_of_CEO.pdf)
+*All 7 filing(s) read for the seats:* [2026-07-01 Updates](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_01072026181103_SE___GCEO___General_Disclosure_sd.pdf) · [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026200611_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026201937_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026202843_Outcome_of_BM_Q4_revised_Signed.pdf) · [2026-05-25 Press Release](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_25052026203751_Press_Release_-_Q4_FY26.pdf) · [2026-01-14 Appointment](https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_14012026185919_SE_Intimation_Appointment_of_CEO.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -28345,7 +26901,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Ravi Viswanathan** — Managing Director, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Ravi Viswanathan** — Managing Director, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -28375,21 +26931,21 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Vikas Chadha** — Managing Director. from: internal; experience: 30+ years; qualifications: an MBA from the Indian School of Business, Hyderabad and an Electronics and Communications Engineer.
+**Vikas Chadha** — Global Chief Executive Officer. from: external; experience: 30+ years of progressive leadership experience; qualifications: Mr. Vikas is an MBA from the Indian School of Business, Hyderabad and an Electronics and Communications Engineer.
 
 The filing's own profile: “Mr. Vikas Chadha is an accomplished C-Suite executive with 30+ years of progressive leadership experience driving $1B+ P&L operations across diverse industries and geographies. He has a proven track record of delivering transformational growth, operational excellence, and shareholder value through strategic vision, digital innovation, and organizational transformation. Prior to this, Mr. Vikas was CEO of a leading conglomerate based out of Dubai. Mr. Vikas has varied experience and held several leadership positions in Multinational companies and an Indian public listed Company. Mr. Vikas is an MBA from the Indian School of Business, Hyderabad and an Electronics and Communications Engineer.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Global Chief Executive Officer | TVS Supply Chain Solutions Limited (TVSSCS) | 2026 | 2026 |
 | CEO | a leading conglomerate based out of Dubai | — | — |
 
-**Vikas Chadha** — Global Chief Executive Officer. from: external; experience: over three decades; qualifications: He is an Electronics and Communications Engineer from Delhi College of Engineering and holds an MBA from the Indian School of Business, Hyderabad..
+**Vikas Chadha** — Managing Director. from: internal; experience: over three decades of leadership experience across multinational organisations; qualifications: Mr. Vikas is an MBA from the Indian School of Business, Hyderabad and an Electronics and Communications Engineer.
 
 The filing's own profile: “Mr. Chadha brings over three decades of leadership experience across multinational organisations, with a strong track record in strategy execution and managing large, geographically diverse operations. He is an Electronics and Communications Engineer from Delhi College of Engineering and holds an MBA from the Indian School of Business, Hyderabad.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Global Chief Executive Officer | TVS Supply Chain Solutions Limited (TVSSCS) | 2026 | 2026 |
 | CEO | a leading conglomerate based out of Dubai | — | — |
 
 ### 5. On the calls
@@ -28517,7 +27073,7 @@ The filing's own profile: “Shri Rajendra Kumar Saboo assumed the charge as Exe
 
 ### 3. Track record — the outgoing management
 
-**Sanjeev Nautiyal** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sanjeev Nautiyal** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -28623,18 +27179,6 @@ The filing's own profile: “Mr. Jayant Dua is a seasoned leader with 37 years o
 | multiple P&L and CEO responsibilities across Insulators, Insurance, Century Cement and Chlor-Alkali | Aditya Birla Group | — | — |
 | Business Head – Renewables and Textiles | Aditya Birla Group | 2023 | — |
 | Managing Director (Designate) and Senior Management Personnel | UltraTech Cement Limited (ULTRACEMCO) | 2026 | — |
-
-Results of **Grasim Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2022–FY2022):
-
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 76,404 | 95,701 | +25.3% a year over 1 year |
-| Operating profit (₹ cr) | 18,635 | 20,431 | +9.6% a year over 1 year |
-| PAT (₹ cr) | 6,987 | 11,206 | +60.4% a year over 1 year |
-| Operating profit margin (%) | 24.4 | 21.3 | -3.1 pts |
-| ROCE (%) | 9.0 | 9.0 | +0.0 pts |
-| ROE (%) | 10.7 | 14.8 | +4.1 pts |
-| Borrowings (₹ cr) | 79,078 | 74,744 | -4,334 |
 
 ### 5. On the calls
 
@@ -28786,17 +27330,6 @@ The company's results while they held the seat (the year before they took it, to
 |---|---|---|---|
 | MD and CEO Designate | UTI Asset Management Company Limited (UTIAMC) | — | 2026 |
 
-Results of **UTI Asset Management Company Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,851 | 1,705 | -7.9% a year over 1 year |
-| Operating profit (₹ cr) | 1,102 | 816 | -26.0% a year over 1 year |
-| PAT (₹ cr) | 813 | 472 | -41.9% a year over 1 year |
-| Operating profit margin (%) | 59.5 | 47.9 | -11.6 pts |
-| ROE (%) | 17.7 | 10.5 | -7.2 pts |
-| Borrowings (₹ cr) | 142 | 141 | -1 |
-
 ### 5. On the calls
 
 4 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
@@ -28813,23 +27346,9 @@ Results of **UTI Asset Management Company Ltd.** while they were Managing Direct
 
 ## VEDL — Vedanta Ltd.
 
-**Large stake change, same controller · CEO / MD change**
+**CEO / MD change**
 
 ### 1. What is changing
-
-**Ownership — Large stake change, same controller.** Promoter entity Twin Star Holdings Ltd sold 65,072,990 shares in the June 2026 quarter, cutting its stake from 40.02% to 38.35%; promoter group fell 56.38% to 54.72% (Ankit Agarwal also sold out of 36,300 shares). Same promoter group retains majority control.
-
-| | Who | Kind | Stake before | Stake after |
-|---|---|---|---|---|
-| Outgoing | Twin Star Holdings Ltd (part of the Promoter and Promoter Group of Vedanta Limited); Mr. Ankit Agarwal (Promoter Group) | corporate parent | 56.38% (promoter & promoter group); TSHL 40.02% | 54.72% (promoter & promoter group); TSHL 38.35% |
-| Incoming | — | — | — | — |
-
-- control does not change
-- Dates: other 2026-06-30; other 2026-09-30
-- In the documents: “During the Quarter ended June 30, 2026, Twin Star Holdings Ltd (TSHL) (part of the Promoter and Promoter Group of Vedanta Limited) has sold 65,072,990 equity shares.”
-
-**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 56.38% (2025-09-30) → 56.38% (2025-12-31) → 56.38% (2026-03-31) → 54.72% (2026-06-30) → 54.72% (2026-09-30)
-**Reg 29 disclosures in the window:** promoters sold 0.0% and bought 0.0%; outside acquirers at 10% or more: GLAS Agency (Hong Kong) Limited (as security trustee for the holders of the Bonds) 54.72% (2026-07-16); Citicorp International Limited (as trustee for the holders of the Bonds) 51.93% (2026-09-28); GLAS Agency (Hong Kong) Limited (as trustee and security agent for the holders of the Tap Bonds) 54.72% (2026-09-28).
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -28837,8 +27356,9 @@ Results of **UTI Asset Management Company Ltd.** while they were Managing Direct
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “The Board of Directors, on recommendation of Nomination and Remuneration Committee of the Company, on July 30, 2026, have considered and approved the re-appointment of Mr. Arun Misra (DIN: 01835605) as an Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company for a term of 01 (one) year effective from August 01, 2026 to July 31, 2027, subject to approval of the shareholders of the Company.” — [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151513_VEDLSEIntimationOtherMatterssigned.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
-*All 9 filing(s) read for the seats:* [2026-10-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_01102026161742_SEIntimationVotingResultsScrutinizerReportfinalsigned.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_31082026145553_VEDLPostalBallotNoticeSep26-signed.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151513_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151655_VEDLSEIntimationOtherMatterssigned.pdf) · +3 more
+*All 10 filing(s) read for the seats:* [2026-10-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_01102026161742_SEIntimationVotingResultsScrutinizerReportfinalsigned.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VEDL_31082026145553_VEDLPostalBallotNoticeSep26-signed.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151439_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151459_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151513_VEDLSEIntimationOtherMatterssigned.pdf) · [2026-07-30 Appointment](https://nsearchives.nseindia.com/corporate/VEDL_30072026151655_VEDLSEIntimationOtherMatterssigned.pdf) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -28862,23 +27382,23 @@ Results of **UTI Asset Management Company Ltd.** while they were Managing Direct
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/VEDL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹284.55 on 2026-06-29 (the close before) → ₹259.68 on 2026-11-13: **-8.7%**; Nifty 500 +3.2% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹264.50 on 2026-07-29 (the close before) → ₹259.68 on 2026-11-13: **-1.8%**; Nifty 500 +1.6% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Twin Star Holdings Ltd (part of the Promoter and Promoter Group of Vedanta Limited); Mr. Ankit Agarwal (Promoter Group)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 56.38% (promoter & promoter group); TSHL 40.02% → 54.72% (promoter & promoter group); TSHL 38.35%.
+No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Arun Misra** — Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: 35 years of rich and diverse experience in Tata Steel; qualifications: After graduating with a bachelor's degree in electrical engineering from IIT, Kharagpur, Mr. Misra took a Diploma in Mining and Beneficiation from the University of New South Wales Sydney, and another Diploma in General Management from CEDEP, France..
+**Arun Misra** — Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: a formidable 35 years of rich and diverse experience in Tata Steel; qualifications: After graduating with a bachelor's degree in electrical engineering from IIT, Kharagpur, Mr. Misra took a Diploma in Mining and Beneficiation from the University of New South Wales Sydney, and another Diploma in General Management from CEDEP, France..
 
-The filing's own profile: “Mr. Arun Misra was appointed as an Executive Director w.e.f. August 01, 2023. Mr. Misra has also been the CEO of Hindustan Zinc Limited ("HZL"), a subsidiary of the Company, overseeing the operations and growth of HZL. Mr. Misra was appointed as Deputy CEO, HZL on November 20, 2019 and was elevated to CEO & WTD, HZL with effect from August 01, 2020 till July 31, 2026. He is the 1st ever Indian Chairperson of the International Zinc Association. He is also the Vice President of the Indian Institute of Mineral Engineers. He is also present Vice Chairman of CII, Rajasthan. Mr. Misra was awarded 'CEO of the Year' in the Business Leader of the Year awards.”
+The filing's own profile: “Mr. Arun Misra was appointed as an Executive Director w.e.f. August 01, 2023. Mr. Misra has also been the CEO of Hindustan Zinc Limited ("HZL"), a subsidiary of the Company, overseeing the operations and growth of HZL. Mr. Misra was appointed as Deputy CEO, HZL on November 20, 2019 and was elevated to CEO & WTD, HZL with effect from August 01, 2020 till July 31, 2026. He is the 1st ever Indian Chairperson of the International Zinc Association. He is also the Vice President of the Indian Institute of Mineral Engineers. He is also present Vice Chairman of CII, Rajasthan.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director | Vedanta Limited (VEDL) | 2023 | — |
-| Deputy CEO | Hindustan Zinc Limited ("HZL"), a subsidiary of the Company | 2019 | 2020 |
 | CEO & WTD | Hindustan Zinc Limited ("HZL"), a subsidiary of the Company | 2020 | 2026 |
+| Deputy CEO | Hindustan Zinc Limited (HINDZINC) | 2019 | 2020 |
 | Vice President - Raw Materials Division | Tata Steel (TATASTEEL) | — | — |
 | Maintenance Head (Electrical), West Bokaro Coal Washery | Tata Steel (TATASTEEL) | 1988 | — |
 
@@ -29049,9 +27569,9 @@ The filing's own profile: “Mr. Narasimha Raju K A is a Chartered Accountant an
 
 ### 3. Track record — the outgoing management
 
-**Krishna Kumar Maskara** — Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Krishna Kumar Maskara** — Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -29077,18 +27597,6 @@ The filing's own profile: “Mr. Sameer Nagpal is the Chief Executive Officer of
 | key leadership roles | Ingersoll Rand | — | — |
 | key leadership roles | Zicom | — | — |
 | key leadership roles | Carrier Air Conditioning | — | — |
-
-Results of **Vikram Solar Ltd.** while they were Chairman there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,415 | 4,803 | +40.6% a year over 1 year |
-| Operating profit (₹ cr) | 491 | 916 | +86.6% a year over 1 year |
-| PAT (₹ cr) | 139 | 469 | +237.4% a year over 1 year |
-| Operating profit margin (%) | 14.4 | 19.1 | +4.7 pts |
-| ROCE (%) | 31.0 | — | — |
-| ROE (%) | 11.0 | 14.8 | +3.8 pts |
-| Borrowings (₹ cr) | 272 | 617 | +345 |
 
 ### 5. On the calls
 
@@ -29182,7 +27690,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | -11.2 | -117 | -105.8 pts |
 | Borrowings (₹ cr) | 751 | 738 | -13 |
 
-**Manish Desai** — Chief Financial Officer and Key Managerial Personnel (part of the Senior Management Team), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Manish Desai** — Chief Financial Officer and Key Managerial Personnel (part of the Senior Management Team), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -29252,18 +27760,20 @@ Nothing about the change in the calls on file for the window.
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Two promoter entities, CA Harbor Investments and CA Hull Investments, sold 5.67% and 5.16% of capital in open-market sales disclosed on 2026-09-01. Promoter-group holding fell from 61.31% to 49.24% by 2026-09-30. No new promoter or acquirer appears; both sellers remain large promoter shareholders.
+**Ownership — Large stake change, same controller.** Promoter holding rose to 61.43% in December 2025 when the Company allotted shares under the NCLT-sanctioned amalgamation of Viyash Life Sciences and others, then fell to 49.24% after promoters CA Harbor Investments and CA Hull Investments sold 10.83% of capital in the open market. They still hold about 46.75%; no new controller.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull) | private-equity sponsor | CA Harbor 30.14%; CA Hull 27.44% (combined 57.58%); promoter group 61.31% | CA Harbor 24.47%; CA Hull 22.28% (combined 46.75%); promoter group 49.24% |
+| Outgoing | CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull) | private-equity sponsor | promoter and group 61.31% (CA Harbor 30.14%, CA Hull 27.44% implied from Reg 29) | promoter and group 49.24% (CA Harbor 24.47%, CA Hull 22.28%) |
 | Incoming | — | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Dates: block deal 2026-09-01; other 2026-09-30
+- Dates: approval 2025-11-18; other 2025-12-16; block deal 2026-09-01
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 52.33% (2025-09-30) → 61.43% (2025-12-16) → 61.41% (2025-12-31) → 61.31% (2026-03-31) → 61.31% (2026-06-30) → 49.24% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 10.83% and bought 0.0%.
+
+*Filings read for the ownership:* [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026181457_BM_OutcomeMay2026Signed.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026182640_BM_OutcomeMay2026Signed.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -29301,7 +27811,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved CA Harbor 30.14%; CA Hull 27.44% (combined 57.58%); promoter group 61.31% → CA Harbor 24.47%; CA Hull 22.28% (combined 46.75%); promoter group 49.24%.
+**CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved promoter and group 61.31% (CA Harbor 30.14%, CA Hull 27.44% implied from Reg 29) → promoter and group 49.24% (CA Harbor 24.47%, CA Hull 22.28%).
 
 **Rajaram Narayanan** — Managing Director and Group Chief Executive Officer, in the seat since FY2023 per the filing.
 
@@ -29611,17 +28121,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 **Neeraj Jain** — Managing Director.
 
-Results of **Vardhman Textiles Ltd.** while they were Managing Director there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 9,505 | 9,785 | +2.9% a year over 1 year |
-| Operating profit (₹ cr) | 973 | 1,263 | +29.8% a year over 1 year |
-| PAT (₹ cr) | 637 | 887 | +39.2% a year over 1 year |
-| Operating profit margin (%) | 10.2 | 12.9 | +2.7 pts |
-| ROCE (%) | 9.0 | 11.0 | +2.0 pts |
-| ROE (%) | 7.0 | 9.0 | +2.0 pts |
-| Borrowings (₹ cr) | 1,791 | 1,238 | -553 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 
@@ -29700,9 +28200,9 @@ Results of **Vardhman Textiles Ltd.** while they were Managing Director there (a
 
 **Mr. Chimanlal Tribhuvandas Doshi** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 45.78% → 1.63%.
 
-**Amit Ashok Paithankar** — Whole – Time Director and Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Amit Ashok Paithankar** — Whole – Time Director and Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -29714,9 +28214,9 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 31.2 | 20.3 | -10.9 pts |
 | Borrowings (₹ cr) | 553 | 1,199 | +646 |
 
-**Sonal Shrivastava** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sonal Shrivastava** — Chief Financial Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -29972,7 +28472,7 @@ Nothing about the change in the calls on file for the window.
 
 ## WELSPUNLIV — Welspun Living Ltd.
 
-**Large stake change, same controller**
+**Large stake change, same controller · CFO change**
 
 ### 1. What is changing
 
@@ -29988,6 +28488,15 @@ Nothing about the change in the calls on file for the window.
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 66.24% (2025-09-30) → 66.24% (2025-12-31) → 66.24% (2026-03-31) → 66.36% (2026-06-30) → 63.77% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 3.47% and bought 0.0%.
+
+| Seat | Outgoing | Incoming | Status | First said on |
+|---|---|---|---|---|
+| **Chief Financial Officer** | — (new seat) | Manish Bansal (internal; from 2026-01-01) | effective | — |
+
+- **Why the holder is leaving, in the filing's words:** “not stated”
+- In the documents: “Before I conclude, I'm pleased to share that the Board has appointed Mr. Manish Ban sal as the new Chief Financial Officer of Welspun Living, effective 1 January 2026.”
+
+*All 0 filing(s) read for the seats:* 
 
 ### 2. Financials — the last three years
 
@@ -30011,7 +28520,7 @@ Nothing about the change in the calls on file for the window.
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/WELSPUNLIV.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹146.65 on 2026-06-17 (the close before) → ₹250.14 on 2026-11-13: **+70.6%**; Nifty 500 +2.7% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹130.57 on 2025-12-31 (the close before) → ₹250.14 on 2026-11-13: **+91.6%**; Nifty 500 -0.6% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -30019,11 +28528,25 @@ Nothing about the change in the calls on file for the window.
 
 ### 4. Track record — the incoming management
 
-No successor or new owner is named yet.
+**Manish Bansal** — Chief Financial Officer. from: internal; experience: over 15 years.
+
+The filing's own profile: “Manish has been with us for over 15 years and has led leadership roles across our Indian retail, U.K. and U.S. Businesses . His extensive experience across geographies and deep understanding of operations and financial strategy make it exceptionally well -placed to lead our”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| leadership roles across our Indian retail, U.K. and U.S. Businesses | Welspun Living (WELSPUNLIV) | — | — |
 
 ### 5. On the calls
 
-Nothing about the change in the calls on file for the window.
+5 passage(s) from 3 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
+
+| Call | About | Passages |
+|---|---|---:|
+| Nov 2025 | the seat | 3 |
+| Feb 2026 | the seat | 1 |
+| May 2026 | the seat | 1 |
+
+*Every passage in full: [companies/WELSPUNLIV.md](companies/WELSPUNLIV.md).*
 
 ---
 
@@ -30068,7 +28591,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Hrushit Shah** — Chief Financial Officer (CFO), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Hrushit Shah** — Chief Financial Officer (CFO), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -30253,7 +28776,7 @@ Nothing about the change in the calls on file for the window.
 
 ### 3. Track record — the outgoing management
 
-**Prashant Kumar** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Prashant Kumar** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2022 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -30307,7 +28830,7 @@ The filing's own profile: “Mr. Vinay M. Tonse was Managing Director (Retail Bu
 | **Chief Financial Officer (CFO) (Key Managerial Personnel and Senior Management)** | Venkatesh Ramachandran (moved to another role in the company or group; last day 2026-11-05) | Samar Vijay Pupala (external; from 2026-11-06) | effective | 2026-11-06 |
 
 - **Why Venkata Aditya Kumar Grandhi is leaving, in the filing's words:** “Resigned as Chief Financial Officer of the Company”
-- In the documents: “Taken note of the resignation of Mr. Venkata Aditya Kumar Grandhi, Chief Financial Officer of the Company (Key Managerial Personnel and Senior Management) w.e.f close of the business hours on April 03, 2026.” — [2026-04-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200637_Zaggle_SE_intimation_030412026.pdf) · [2026-04-03 Change in Management](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200929_Zaggle_SE_intimation_030412026.pdf) · [2026-04-03 Resignation](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026204500_Zaggle_CFO_Resignation_03042026.pdf)
+- In the documents: “Taken note of the resignation of Mr. Venkata Aditya Kumar Grandhi, Chief Financial Officer of the Company (Key Managerial Personnel and Senior Management) w.e.f close of the business hours on April 03, 2026.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026172203_5_Appointment__Resignation_of_CFO.pdf) · [2026-04-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200637_Zaggle_SE_intimation_030412026.pdf) · [2026-04-03 Change in Management](https://nsearchives.nseindia.com/corporate/ZAGGLE_03042026200929_Zaggle_SE_intimation_030412026.pdf) · +1 more
 - **Why Rajesh Tummalaganti is leaving, in the filing's words:** “Ceased to be Interim Chief Financial Officer (Key Managerial personnel and Senior Management) of the Company consequent upon the appointment of a new Chief Financial Officer of the Company” Stays on as: Deputy Chief Financial Officer of the Company.
 - In the documents: “the Board of Directors of the Zaggle Prepaid Ocean Services Limited (Company) at its meeting held today i.e. May 13, 2026, has, inter alia, approved the appointment of Mr. Venkatesh Ramachandran as Group Chief Financial Officer (Key Managerial Personnel and Senior Management) of the Company with effect from May 18, 2026, on the recommendation of Nomination and Remuneration Committee and Audit Committee.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026172203_5_Appointment__Resignation_of_CFO.pdf) · [2026-05-13 Change in Management](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026172440_5_Appointment__Resignation_of_CFO.pdf) · [2026-05-13 Cessation](https://nsearchives.nseindia.com/corporate/ZAGGLE_13052026173053_5_Appointment__Resignation_of_CFO.pdf) · +1 more
 - **Why Venkatesh Ramachandran is leaving, in the filing's words:** “Mr. Venkatesh Ramachandran has been elevated as the Group Chief Strategy and Transformation Officer of the Company effective from November 6, 2026” Stays on as: Group Chief Strategy and Transformation Officer.
@@ -30605,9 +29128,9 @@ The filing's own profile: “Mr. Hari, a Chartered Accountant, brings over 20 ye
 
 ### 3. Track record — the outgoing management
 
-**Sweta Agarwal** — Chief Financial Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sweta Agarwal** — Chief Financial Officer (Key Managerial Personnel), in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2023 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|

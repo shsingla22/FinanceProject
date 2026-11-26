@@ -63,7 +63,7 @@
 
 **Manish Mohanka (Promoter)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 9.69% of total paid up capital (72,78,925 equity shares gifted) → —.
 
-**Sharad Kumar Khaitan** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Sharad Kumar Khaitan** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

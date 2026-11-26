@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sanjeev Nautiyal** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Sanjeev Nautiyal** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

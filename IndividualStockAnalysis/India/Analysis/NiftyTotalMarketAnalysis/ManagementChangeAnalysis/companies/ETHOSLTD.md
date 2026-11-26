@@ -47,17 +47,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 **Munish Gupta** — Whole-time Director with functional designation of Executive Director and Chief Financial Officer.
 
-Results of **Ethos Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 789 | 1,252 | +26.0% a year over 2 years |
-| Operating profit (₹ cr) | 120 | 197 | +28.1% a year over 2 years |
-| PAT (₹ cr) | 60.0 | 96.0 | +26.5% a year over 2 years |
-| Operating profit margin (%) | 15.2 | 15.7 | +0.5 pts |
-| ROCE (%) | 15.0 | 10.0 | -5.0 pts |
-| ROE (%) | 9.5 | 9.8 | +0.3 pts |
-| Borrowings (₹ cr) | 121 | 289 | +168 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 

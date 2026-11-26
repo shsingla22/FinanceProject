@@ -12,7 +12,7 @@
 | **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Vikas Maheshwari (resignation; last day 2026-08-31) | Sudarshan Patodia (external; from 2026-09-23) | effective | 2026-08-25 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “The appointment of Mr. Abrarali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale-up are key.”
+- In the documents: “The appointment of Mr. Abrarali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale-up are key.” — [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf)
 - **Why Vikas Maheshwari is leaving, in the filing's words:** “due to personal reasons”
 - In the documents: “the Board of Directors of the Company, by way of a resolution passed by circulation on August 25, 2026, has noted and accepted the resignation of Mr. Vikas Maheshwari from the position of Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company, with effect from the close of business hours on August 31, 2026, due to personal reasons.” — [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · +1 more
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Vikas Maheshwari** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Vikas Maheshwari** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -64,17 +64,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Abrarali Dalal** — Chief Executive Officer.
 
-Results of **Rainbow Childrens Medicare Ltd.** while they were CEO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,516 | 1,703 | +12.3% a year over 1 year |
-| Operating profit (₹ cr) | 494 | 548 | +10.9% a year over 1 year |
-| PAT (₹ cr) | 244 | 282 | +15.6% a year over 1 year |
-| Operating profit margin (%) | 32.6 | 32.2 | -0.4 pts |
-| ROCE (%) | 19.0 | 17.0 | -2.0 pts |
-| ROE (%) | 16.6 | 17.1 | +0.5 pts |
-| Borrowings (₹ cr) | 764 | 891 | +127 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 **Sudarshan Patodia** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). from: external; experience: nearly two decades of experience in finance; qualifications: Chartered Accountant and a Gold Medalist.
 

@@ -6,18 +6,20 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Adani promoter-group entities bought roughly 5% of the capital in open-market acquisitions. Promoter-and-group holding rose from 71.19% to about 74.71% and stood at 73.39% by 2026-09-30. No new promoter arrived and none exited; the same Adani promoter group continues to control the company.
+**Ownership — Large stake change, same controller.** Adani promoter group entities raised their stake in Adani Energy Solutions by about 5% through open-market purchases during 2026 (promoter-and-group holding 71.19% to 73.39%). No seller of control, no open offer; the Adani family remains in control, with Gautam S. Adani as Chairman.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
 | Outgoing | — | — | — | — |
-| Incoming | Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoters) | other | — | 73.39% (promoter and group, 2026-09-30) |
+| Incoming | Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoter group) | other | — | 73.39% (promoter and group, 2026-09-30) |
 
-- mode: block or bulk deal · control does not change
-- Dates: other 2026-03-27; other 2026-06-17
+- mode: other · control does not change
+- Dates: block deal 2026-03-27; block deal 2026-06-17
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 71.19% (2025-09-30) → 71.19% (2025-12-31) → 72.73% (2026-03-31) → 74.71% (2026-06-30) → 73.39% (2026-07-30) → 73.39% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 5.0%.
+
+*Filings read for the ownership:* [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_21072026135501_Outcome_results_21072026.pdf) · [2026-01-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_22012026152157_Outcome_results_22012026.pdf) · [2026-01-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ADANITRANS_22012026184454_Outcome_results_22012026.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -70,9 +72,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoters)** (other) — the incoming owner. Holding after: 73.39% (promoter and group, 2026-09-30).
+**Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC, Adani Infra (India) Limited, Ardour Investment Holdings Ltd, Infinite Trade and Investments Ltd (existing promoter group)** (other) — the incoming owner. Holding after: 73.39% (promoter and group, 2026-09-30).
 
-What the documents say about them: “The documents describe them only as promoters of the company making acquisitions via the open market. Adani Infra (India) Ltd held 1.53% after its 2026-06-17 acquisition; Ardour Investment Holdings Ltd held 0.83%; Infinite Trade and Investments Ltd held 0.73%. Gelt Bery Trade and Investment Ltd, Emerging Market Investment DMCC and Adani Infra (India) Limited together held 72.17% after the 2026-03-27 acquisition. Nothing further is stated about their business, size or record.”
+What the documents say about them: “Existing promoter-group entities of the Adani group; the filings identify Gautam S. Adani as Chairman of Adani Energy Solutions Limited. No further description of the acquirers is given in the documents.”
 
 **Ashok Jagetiya** — Chief Financial Officer (Key Managerial Personnel). from: group company; experience: 30 years of experience in finance and accounting disciplines; qualifications: Chartered Accountant.
 

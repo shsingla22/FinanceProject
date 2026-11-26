@@ -2,7 +2,7 @@
 
 ## BAYERCROP — Bayer Cropscience Ltd.
 
-**Within the promoter family / group · CFO change**
+**Within the promoter family / group**
 
 ### 1. What is changing
 
@@ -15,15 +15,6 @@
 
 - mode: block or bulk deal · control does not change
 **Bulk / block deals (net, % of shares outstanding):** Bayer Ag bought 11.91%; Bayer Cropscience Aktiengesellschaft sold 11.91%.
-
-| Seat | Outgoing | Incoming | Status | First said on |
-|---|---|---|---|---|
-| **CFO** | — (new seat) | Vinit | effective | — |
-
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “And then with Vinit , we have a new CFO in the C ompany as well , and I hope you're starting to see impact on bottom line performance with him coming to terms.”
-
-*All 0 filing(s) read for the seats:* 
 
 ### 2. Financials — the last three years
 
@@ -57,17 +48,7 @@
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Vinit** — CFO.
-
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
-
 ### 5. On the calls
 
-1 passage(s) from 1 call(s) in the window, oldest first — each question with every answer to it, as the transcript prints it.
-
-#### Nov 2025 — about the seat
-
-**From the prepared remarks**
-
-> **End Time:** And I appreciate that probably we're not where you want us to be yet . So we're happy to take further feedback. But as Sunil said, having some questions in advance might have helped us also to get the slides to be a bit more relevant . And then with Vinit , we have a new CFO in the C ompany as well , and I hope you're starting to see impact on bottom line performance with him coming to terms. − In any case, we have our slogan up here, “Health for all, hunger for none .” I've spent more than 7 years in the C ountry now and more than 25 years in the C ompany . And very often when I come across this 2 slogan again, I so much have to relate it to this Country and realize how relevant it is. And if you go through some of the wording there, while we all agree that India has overcome hunger with the green revolution over the time, we are also aware that this is really a calorie topic . And you hear it more and more also in the disperse in the news, in the government deliberations , that the topic of nutrition and the nutrition's sufficiency for 1.4 billion people is really, really the driver of what we need to do as a C ountry to really reach also Viksit Bharat by 2047. − And that is where sustainability comes in, where availability comes in .
+Nothing about the change in the calls on file for the window.
 

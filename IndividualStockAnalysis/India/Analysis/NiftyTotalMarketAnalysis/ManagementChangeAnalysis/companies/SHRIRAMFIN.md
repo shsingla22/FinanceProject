@@ -15,6 +15,7 @@
 - In the documents: “In furtherance to our intimation dated October 31, 2025 regarding appointment/re-appointment/re-designation of Directors, Key Managerial Personnel & Senior Management of the Company, we inform you that Mr. Y. S. Chakravarti (DIN 00052308) has completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company with effect from today i.e. December 5, 2025.” — [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Mr. Sunder Subramanian Joint Managing Director & Chief Financial Officer” — [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 3 filing(s) read for the seats:* [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 
@@ -58,15 +59,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Parag Sharma** — Managing Director & CEO. from: internal.
 
-Results of **Shriram Finance Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2026):
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 17,422 | 48,135 | +22.5% a year over 5 years |
-| Financing profit (₹ cr) | 3,402 | 13,947 | +32.6% a year over 5 years |
-| PAT (₹ cr) | 2,499 | 10,024 | +32.0% a year over 5 years |
-| Financing profit margin (%) | 19.5 | 29.0 | +9.5 pts |
-| ROE (%) | 11.5 | 15.2 | +3.7 pts |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 **Sunder Subramanian** — Joint Managing Director & Chief Financial Officer.
 

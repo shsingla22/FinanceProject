@@ -53,18 +53,6 @@ The filing's own profile: “Mr. Vishwas Ambalal Patel is currently the Chairman
 | Chairman | Payments Council of India (PCI) | — | — |
 | practicing counsel on the original side | Bombay High Court | — | — |
 
-Results of **AvenuesAI Ltd.** while they were Managing Director there (annual reports on file show the seat FY2024–FY2025):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,962 | 3,993 | +42.7% a year over 2 years |
-| Operating profit (₹ cr) | 175 | 316 | +34.4% a year over 2 years |
-| PAT (₹ cr) | 136 | 236 | +31.7% a year over 2 years |
-| Operating profit margin (%) | 8.9 | 7.9 | -1.0 pts |
-| ROCE (%) | 6.0 | 9.0 | +3.0 pts |
-| ROE (%) | 4.3 | 6.3 | +2.0 pts |
-| Borrowings (₹ cr) | 8.0 | 172 | +164 |
-
 ### 5. On the calls
 
 Nothing about the change in the calls on file for the window.

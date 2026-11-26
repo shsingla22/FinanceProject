@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sandeep Kumar Gupta** — Chairman and Managing Director, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Sandeep Kumar Gupta** — Chairman and Managing Director, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

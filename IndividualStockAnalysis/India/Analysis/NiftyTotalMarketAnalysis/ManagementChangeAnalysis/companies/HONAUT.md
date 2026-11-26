@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Pulkit Goyal** — Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Pulkit Goyal** — Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

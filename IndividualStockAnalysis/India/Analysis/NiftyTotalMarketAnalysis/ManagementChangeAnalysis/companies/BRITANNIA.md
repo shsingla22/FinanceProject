@@ -73,18 +73,6 @@ The filing's own profile: “Mr. Rakshit Hargave is a veteran of the consumer in
 | managing Maggi Noodles | Nestle India (NESTLEIND) | — | — |
 | — | Tata Motors (TMCV) | — | — |
 
-Results of **Britannia Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 17,943 | 19,152 | +6.7% a year over 1 year |
-| Operating profit (₹ cr) | 3,176 | 3,514 | +10.6% a year over 1 year |
-| PAT (₹ cr) | 2,178 | 2,537 | +16.5% a year over 1 year |
-| Operating profit margin (%) | 17.7 | 18.3 | +0.6 pts |
-| ROCE (%) | 53.0 | 56.0 | +3.0 pts |
-| ROE (%) | 50.0 | 49.7 | -0.3 pts |
-| Borrowings (₹ cr) | 1,247 | 1,380 | +133 |
-
 Results of **Grasim Industries Ltd.** while they were CEO there (annual reports on file show the seat FY2022–FY2025):
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |

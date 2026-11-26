@@ -44,9 +44,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Gopal Vittal** — Managing Director & CEO (Airtel India), in the seat since FY2022 per the annual reports on file (the person may have held the seat earlier).
+**Gopal Vittal** — Managing Director & CEO (Airtel India), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -85,18 +85,6 @@ The filing's own profile: “Shashwat Sharma is currently the CEO Designate at B
 | CEO Designate | Bharti Airtel Limited (BHARTIARTL) | — | 2025 |
 | Chief Operating Officer of Airtel responsible for all Operations | Bharti Airtel Limited (BHARTIARTL) | — | — |
 | various roles across Sales, Marketing and General Management | Hindustan Unilever Limited (HINDUNILVR) | — | — |
-
-Results of **Bharti Airtel Ltd.** while they were Managing Director there (annual reports on file show the seat FY2026–FY2026):
-
-| Mar 2025 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 172,985 | 210,973 | +22.0% a year over 1 year |
-| Operating profit (₹ cr) | 85,060 | 116,514 | +37.0% a year over 1 year |
-| PAT (₹ cr) | 37,481 | 33,823 | -9.8% a year over 1 year |
-| Operating profit margin (%) | 49.2 | 55.2 | +6.0 pts |
-| ROCE (%) | 13.0 | 18.0 | +5.0 pts |
-| ROE (%) | 33.0 | 22.7 | -10.3 pts |
-| Borrowings (₹ cr) | 213,642 | 195,412 | -18,230 |
 
 **Akhil Garg** — Chief Financial Officer (Airtel India). from: internal; experience: over two decades of experience in finance; qualifications: He holds a Master of Business Administration (MBA) and is also a qualified Chartered Accountant..
 

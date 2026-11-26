@@ -71,18 +71,6 @@ The filing's own profile: “Mr. Gaurav Kumaar Dua has over 25 years of experien
 |---|---|---|---|
 | Whole time Director (WTD) | Relaxo Footwears Limited (RELAXO) | — | 2026 |
 
-Results of **Relaxo Footwears Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2024):
-
-| Mar 2022 → Mar 2024 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,653 | 2,914 | +4.8% a year over 2 years |
-| Operating profit (₹ cr) | 418 | 409 | -1.1% a year over 2 years |
-| PAT (₹ cr) | 233 | 200 | -7.4% a year over 2 years |
-| Operating profit margin (%) | 15.8 | 14.0 | -1.8 pts |
-| ROCE (%) | 18.0 | 14.0 | -4.0 pts |
-| ROE (%) | 13.2 | 10.0 | -3.2 pts |
-| Borrowings (₹ cr) | 174 | 205 | +31 |
-
 **Ritesh Dua** — Co-Chief Executive Officer (Co-CEO). from: promoter family; experience: over 26 years of experience in Finance, HR, IT & Export; qualifications: He has done MBA from Fore School of Management, Delhi.
 
 The filing's own profile: “Mr. Ritesh Dua has over 26 years of experience in Finance, HR, IT & Export. He has done MBA from Fore School of Management, Delhi and has played the key role in Company's Export, Information Technology, Human Resource and Finance to take the Company in leading manner. Mr. Ritesh Dua is son of Mr. Mukand Lal Dua & brother of Mr. Nikhil Dua, Whole Time Directors of the Company and is also part of promoter group.”

@@ -40,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Pradip Kumar Das** — Chairman & Managing Director of IREDA, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Pradip Kumar Das** — Chairman & Managing Director of IREDA, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 

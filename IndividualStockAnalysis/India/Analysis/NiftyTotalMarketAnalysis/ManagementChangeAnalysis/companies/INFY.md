@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Managing Director** | Salil Parekh (end of term; last day 2027-03-31) | Ashiss Kumar Dash (internal; from 2027-04-01) | announced, not yet effective | 2026-07-28 |
+| **Chief Executive Officer and Managing Director** | Salil Parekh (end of term; last day 2027-03-31) | Ashiss Kumar Dash (internal; from 2027-04-01) | announced, not yet effective | 2026-07-23 |
 
-- **Why Salil Parekh is leaving, in the filing's words:** “Salil's term comes to an end on March 31, 2027.”
-- In the documents: “And today, I am delighted to tell you that the Board has appointed his s uccessor, our new CEO, who will take over on April 1, 2027.” — [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf)
+- **Why Salil Parekh is leaving, in the filing's words:** “following the completion of Salil's second term, after over 9 years”
+- In the documents: “Further, the Board approved its intention to appoint Ashiss Kumar Dash as the Chief Executive Officer and Managing Director of the Company with effect from April 1, 2027, upon fulfilment of all statutory requirements.” — [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Infosys_23072026161911_Outcome23072026V1_1.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-10-13 Updates](https://nsearchives.nseindia.com/corporate/Infosys_13102026122634_PR_13102026.pdf) · [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · [2026-03-20 Updates](https://nsearchives.nseindia.com/corporate/Infosys_20032026152722_PR_20032026.pdf)
+*All 6 filing(s) read for the seats:* [2026-10-13 Updates](https://nsearchives.nseindia.com/corporate/Infosys_13102026122634_PR_13102026.pdf) · [2026-08-24 Change in Management](https://nsearchives.nseindia.com/corporate/INFY_24082026215249_SE_24082026.pdf) · [2026-07-28 Updates](https://nsearchives.nseindia.com/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Infosys_23072026161911_Outcome23072026V1_1.pdf) · [2026-07-23 Updates](https://nsearchives.nseindia.com/corporate/Infosys_23072026164257_Outcome23072026V1_1.pdf) · [2026-03-20 Updates](https://nsearchives.nseindia.com/corporate/Infosys_20032026152722_PR_20032026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/INFY.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹1,079.20 on 2026-07-27 (the close before) → ₹1,141.50 on 2026-11-13: **+5.8%**; Nifty 500 +2.5% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,052.10 on 2026-07-22 (the close before) → ₹1,141.50 on 2026-11-13: **+8.5%**; Nifty 500 +2.5% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -57,13 +57,17 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ashiss Kumar Dash** — Chief Executive Officer and Managing Director. from: internal; experience: He has worked in Infosys for 31 years..
+**Ashiss Kumar Dash** — Chief Executive Officer and Managing Director. from: internal; experience: over 3 decades of experience; qualifications: Dash is an alumnus of the Indian Institute of Technology, Kharagpur, India. He has also completed the Global Leadership Program at Stanford University and the Senior Executive Program at London Business School..
 
-The filing's own profile: “He is from Infosys. He has been somebody who is a true-blue Infoscion. He has worked in Infosys for 31 years. He has worked in every part of Infosys, be it in delivery, be it in sales, be it in account management, starting a new DC in Bhubaneswar, everything. And he is someone who I think everybody likes, respects, is an uncomplicated guy who focuses on what needs to be done. His name is Ashiss Dash. So Ashiss is based out of L.A. He has been there for some time. He will move back to India and in the next 2-3 months, he will do some CEO coaching”
+The filing's own profile: “As the Global Head for a business portfolio that comprises over twelve industry verticals, Ashiss Kumar Dash (“Dash”) is helping navigate the digital future for leading Fortune 500 and Global 2000 enterprises. A seasoned digital transformation leader with over 3 decades of experience, Dash is focused on driving transformation strategies and shaping the future of industries through the adoption of emerging technologies. Drawing from over 30 years of diverse roles and responsibilities, Dash amalgamates his varied skills into straddling delivery, operational, and financial excellence for his industry group.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Segment Head for Services Utilities Resources and Energy ('SURE') | Infosys (INFY) | — | 2026 |
+| EVP & Global Head - Services, Utilities, Resources, Energy & Enterprise Sustainability | Infosys (INFY) | — | — |
+| Chief Executive Officer Designate (“CEO Designate”) | Infosys (INFY) | 2026 | 2027 |
+| member of the Board of Directors | Infosys Public Services | — | — |
+| member of the Board of Directors | MRE Consulting LLC | — | — |
+| Trustee | Infosys Foundation USA | — | — |
 
 ### 5. On the calls
 

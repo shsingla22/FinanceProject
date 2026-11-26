@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Himanshu Agarwal** — Whole-time Director and Chief Financial Officer (Key Managerial Personnel) / Chief Financial Officer, in the seat since FY2024 per the annual reports on file (the person may have held the seat earlier).
+**Himanshu Agarwal** — Whole-time Director and Chief Financial Officer (Key Managerial Personnel) / Chief Financial Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 23.7 | 3.8 | -19.9 pts |
 | Borrowings (₹ cr) | 70.0 | 400 | +330 |
 
-**Vivek Sharma** — Executive Chairman & Group CEO (Additional Director, designated as Chairman, and Group Chief Executive Officer), in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Vivek Sharma** — Executive Chairman & Group CEO (Additional Director, designated as Chairman, and Group Chief Executive Officer), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -93,17 +93,17 @@ The filing's own profile: “Mr. Vohra is one of the most accomplished leaders i
 |---|---|---|---|
 | CEO and Managing Director | Cipla Limited (CIPLA) | — | — |
 
-Results of **Cipla Ltd.** while they were Chairman there (annual reports on file show the seat FY2022–FY2022):
+Results of **Cipla Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2025):
 
-| Mar 2021 → Mar 2022 | At the start | At the end | Change |
+| Mar 2021 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 19,160 | 21,763 | +13.6% a year over 1 year |
-| Operating profit (₹ cr) | 4,252 | 4,553 | +7.1% a year over 1 year |
-| PAT (₹ cr) | 2,389 | 2,547 | +6.6% a year over 1 year |
-| Operating profit margin (%) | 22.2 | 20.9 | -1.3 pts |
-| ROCE (%) | 17.0 | 17.0 | +0.0 pts |
-| ROE (%) | 13.0 | 12.2 | -0.8 pts |
-| Borrowings (₹ cr) | 2,014 | 1,056 | -958 |
+| Sales (₹ cr) | 19,160 | 27,548 | +9.5% a year over 4 years |
+| Operating profit (₹ cr) | 4,252 | 7,128 | +13.8% a year over 4 years |
+| PAT (₹ cr) | 2,389 | 5,269 | +21.9% a year over 4 years |
+| Operating profit margin (%) | 22.2 | 25.9 | +3.7 pts |
+| ROCE (%) | 17.0 | 23.0 | +6.0 pts |
+| ROE (%) | 13.0 | 16.9 | +3.9 pts |
+| Borrowings (₹ cr) | 2,014 | 438 | -1,576 |
 
 ### 5. On the calls
 

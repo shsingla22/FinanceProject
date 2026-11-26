@@ -40,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sachinderpalsingh Jitendrasingh Bhinder** — Managing Director & Chief Executive Officer, in the seat since FY2023 per the annual reports on file (the person may have held the seat earlier).
+**Sachinderpalsingh Jitendrasingh Bhinder** — Managing Director & Chief Executive Officer, in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -52,9 +52,9 @@ The company's results while they held the seat (the year before they took it, to
 | Financing profit margin (%) | 36.4 | 32.5 | -3.9 pts |
 | ROE (%) | 12.6 | 13.0 | +0.4 pts |
 
-**Ghanshyam Rawat** — President and Chief Financial Officer, in the seat since FY2021 per the annual reports on file (the person may have held the seat earlier).
+**Ghanshyam Rawat** — President and Chief Financial Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2020 → Mar 2024 | At the start | At the end | Change |
 |---|---:|---:|---|

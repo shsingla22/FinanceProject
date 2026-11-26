@@ -40,9 +40,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Unsoo Kim** — Managing Director & Chief Executive Officer, in the seat since FY2025 per the annual reports on file (the person may have held the seat earlier).
+**Unsoo Kim** — Managing Director & Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
+The company's results over the part of the tenure the reports on file cover:
 
 | Mar 2024 → Mar 2025 | At the start | At the end | Change |
 |---|---:|---:|---|
@@ -65,18 +65,6 @@ The filing's own profile: “He possesses proven expertise in sales, marketing, 
 | Head of Sales, Service & Marketing | Hyundai Motor India Limited (HYUNDAI) | — | — |
 | Whole-time Director and Chief Operating Officer | Hyundai Motor India Limited (HYUNDAI) | — | — |
 | Executive Director of Marketing, Logistics, Parts & Accessories | Maruti Suzuki India Limited (MARUTI) | — | — |
-
-Results of **Hyundai Motor India Ltd.** while they were Managing Director there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 69,829 | 69,193 | -0.9% a year over 1 year |
-| Operating profit (₹ cr) | 9,079 | 8,915 | -1.8% a year over 1 year |
-| PAT (₹ cr) | 6,060 | 5,640 | -6.9% a year over 1 year |
-| Operating profit margin (%) | 13.0 | 12.9 | -0.1 pts |
-| ROCE (%) | 54.0 | 38.0 | -16.0 pts |
-| ROE (%) | 56.8 | 34.6 | -22.2 pts |
-| Borrowings (₹ cr) | 833 | 850 | +17 |
 
 ### 5. On the calls
 

@@ -68,15 +68,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Jitendra Srivastava** — Director (Finance) and Chief Financial Officer of REC (interim). from: internal; qualifications: IAS.
 
-Results of **REC Ltd.** while they were Chairman there (annual reports on file show the seat FY2025–FY2025):
-
-| Mar 2024 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 47,517 | 56,369 | +18.6% a year over 1 year |
-| Financing profit (₹ cr) | 17,936 | 20,084 | +12.0% a year over 1 year |
-| PAT (₹ cr) | 14,145 | 15,884 | +12.3% a year over 1 year |
-| Financing profit margin (%) | 37.7 | 35.6 | -2.1 pts |
-| ROE (%) | 20.4 | 20.3 | -0.1 pts |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 **Rajesh Kumar** — Director (Finance) and Chief Financial Officer of the Company. from: internal; experience: over 30 years of experience; qualifications: He holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, Delhi University, complemented by dual professional qualifications as a Chartered Accountant (CA) and Cost & Management Accountant (CMA)..
 
@@ -87,18 +79,6 @@ The filing's own profile: “Shri Rajesh Kumar is a seasoned finance professiona
 | Executive Director (Finance) | REC Limited | — | 2026 |
 | Chief Executive Officer | REC Power Development and Consultancy Limited (RECPDCL) | — | — |
 | — | a CPSE engaged in engineering and project consultancy | — | — |
-
-Results of **RattanIndia Enterprises Ltd.** while they were Managing Director there (annual reports on file show the seat FY2023–FY2023):
-
-| Mar 2022 → Mar 2023 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 14.0 | 4,124 | +29357.1% a year over 1 year |
-| Operating profit (₹ cr) | -22.0 | 40.0 | loss to profit |
-| PAT (₹ cr) | 554 | -286 | profit to loss |
-| Operating profit margin (%) | -157 | 1.0 | +158.1 pts |
-| ROCE (%) | 36.0 | 13.0 | -23.0 pts |
-| ROE (%) | 79.4 | -69.9 | -149.3 pts |
-| Borrowings (₹ cr) | 159 | 976 | +817 |
 
 ### 5. On the calls
 

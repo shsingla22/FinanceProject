@@ -6,22 +6,23 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter group company Maa Chandi Financial Advisory Services (formerly Ramkrishna Rail and Infrastructure), holding 3.57%, was reclassified from 'Promoter and Promoter Group' to 'Public' after exchange NOCs and a postal ballot effective 19 September 2026. The Jalan family and Riddhi Portfolio remain promoters and in control; promoter holding fell 43.39% to 39.82%.
+**Ownership — Large stake change, same controller.** No new owner. A promoter-group company holding 3.57% (Maa Chandi Financial Advisory, formerly Ramkrishna Rail and Infrastructure) was reclassified to Public after exchange NOCs and shareholder approval. Separately, Riddhi Portfolio bought 17,50,000 shares (0.97%) from Naresh Jalan by inter-se transfer and took preferential allotments; Jalan family retains control.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | MAA Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited) | other | 3.57% (65,00,000 equity shares of face value Rs. 2/- each), as a member of the Promoter Group | 0% as promoter; continues to hold 3.57% in 'Public' category |
-| Incoming | — | public — no single owner | — | — |
+| Outgoing | Maa Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited) — reclassified out of promoter group; also Naresh Jalan, who sold 17,50,000 shares to Riddhi Portfolio | founder family | Maa Chandi 3.57% (65,00,000 shares) as promoter group; Naresh Jalan 2.49% (45,15,425 shares) pre-transfer | Maa Chandi 3.57% but now Public category; Naresh Jalan 1.53% (27,65,425 shares) |
+| Incoming | Riddhi Portfolio Private Limited (promoter); Chaitanya Jalan, Promoter (warrant conversion/preferential allotment) | founder family member | — | Riddhi Portfolio 34.42% after the inter-se transfer, 34.22% as per 26 November 2026 disclosure; Chaitanya Jalan 3.47% |
 
-- mode: other · control does not change
-- Management changing with it: No board or management change accompanies it; the documents show the same leadership continuing — 'Mr. Naresh Jalan, Managing Director, Mr. Chaitanya Jalan, Whole Time Director, Mr. Lalit Kumar Khetan, Whole Time Director & Chief Financial Officer, and Mr. Rajesh Mundhra, Company Secretary & Compliance Officer' were authorised to give effect to the reclassification.
-- Dates: approval 2025-11-12; other 2025-11-17; approval 2026-08-05; other 2026-08-20; completion 2026-09-19; other 2026-09-21
-- In the documents: “Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we enclose herewith a copy of the Postal Ballot Notice dated 18 August, 2026 along with the Explanatory Statement ("Postal Ballot Notice"), seeking approval of the Members, by way of an Ordinary Resolution (through remote e-voting), for the Reclassification of MAA Chandi Financial Advisory Services Private Limited (Formerly Ramkrishna Rail and Infrastructure Private Limited), a member of Promoter Group, from 'Promoter and Promoter Group' Category to 'Public' Category.”
+- mode: block or bulk deal · price Rs. 495.00 per share (Trade Price) · control does not change
+- Why the seller is selling, in their words: “The above transaction was being undertaken as an inter-se transfer of shares among Promoters of the TC, as part of an internal restructuring exercise.”
+- Management changing with it: No change disclosed; the postal ballot resolution still names Mr. Naresh Jalan as Managing Director, Mr. Chaitanya Jalan as Whole Time Director and Mr. Lalit Kumar Khetan as Whole Time Director & CFO.
+- Dates: other 2025-11-12; other 2025-11-17; other 2026-03-18; block deal 2026-03-25; other 2026-03-30; approval 2026-08-05; approval 2026-09-19; other 2026-09-24
+- In the documents: “Please note that the above transaction, being inter-se transfer of shares amongst Promoters of the Target Company falls within the exemption criteria specified under Regulation 10(1)(a)(i) of the SEBI (SAST) Regulations 2011. The aggregate holding of Promoter and Promoter Group before and after the above inter-se transfer remains the same.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 43.13% (2025-09-30) → 43.13% (2025-12-31) → 43.33% (2026-03-31) → 43.39% (2026-06-30) → 39.82% (2026-09-19) → 40.93% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 5.49%.
 
-*Filings read for the ownership:* [2026-09-21 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_21092026170859_ReclassificationReg30n31ADisc21Sep2026.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RKFORGE_20082026181348_Postalballotintimation200826signed.pdf) · [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_06082026125553_StExcReclassificationNOCIntimation6Aug2026.pdf)
+*Filings read for the ownership:* [2026-09-21 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_21092026170859_ReclassificationReg30n31ADisc21Sep2026.pdf) · [2026-08-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RKFORGE_20082026181348_Postalballotintimation200826signed.pdf) · [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/RKFORGE_06082026125553_StExcReclassificationNOCIntimation6Aug2026.pdf) · [2026-03-30 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_30032026184835_RKFORGE.pdf)
 
 ### 2. Financials — the last three years
 
@@ -45,15 +46,17 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/RKFORGE.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹533.90 on 2025-11-10 (the close before) → ₹784.70 on 2026-11-13: **+47.0%**; Nifty 500 +0.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹541.75 on 2026-03-17 (the close before) → ₹784.70 on 2026-11-13: **+44.8%**; Nifty 500 +9.5% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**MAA Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited)** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 3.57% (65,00,000 equity shares of face value Rs. 2/- each), as a member of the Promoter Group → 0% as promoter; continues to hold 3.57% in 'Public' category.
+**Maa Chandi Financial Advisory Services Private Limited (formerly Ramkrishna Rail and Infrastructure Private Limited) — reclassified out of promoter group; also Naresh Jalan, who sold 17,50,000 shares to Riddhi Portfolio** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Maa Chandi 3.57% (65,00,000 shares) as promoter group; Naresh Jalan 2.49% (45,15,425 shares) pre-transfer → Maa Chandi 3.57% but now Public category; Naresh Jalan 1.53% (27,65,425 shares).
 
 ### 4. Track record — the incoming management
 
-No successor or new owner is named yet.
+**Riddhi Portfolio Private Limited (promoter); Chaitanya Jalan, Promoter (warrant conversion/preferential allotment)** (founder family member) — the incoming owner. Holding after: Riddhi Portfolio 34.42% after the inter-se transfer, 34.22% as per 26 November 2026 disclosure; Chaitanya Jalan 3.47%.
+
+What the documents say about them: “"Riddhi Portfolio Private Limited (Acquirer), a Promoter of Ramkrishna Forgings Limited", registered office 23, Circus Avenue, Kolkata-700017 (the same address as the Company), CIN U67120WB1995PTC071066, signing director Pawan Kumar Kedia (DIN: 00375557). It held 6,05,57,039 shares (33.45%) before the transfer and 6,23,07,039 shares (34.42%) after.”
 
 ### 5. On the calls
 
