@@ -265,8 +265,10 @@ def load_filings(today: dt.date, days: int = WINDOW_DAYS) -> list[dict]:
         if not (start <= r["date"] <= end) or r.get("read_status") != "read":
             continue
         seen.add(r["ann_id"])
+        # a large board outcome or press release read here is still a general filing: only its opening counts for a seat
+        origin = "store" if r["category"] in MF.BIG_CATEGORIES else "mgmt"
         out.append({**{k: r[k] for k in ("date", "symbol", "company", "category", "headline", "attachment", "ann_id")},
-                    "text_path": str(DATA / r["text_file"]), "origin": "mgmt"})
+                    "text_path": str(DATA / r["text_file"]), "origin": origin})
     for r in DR.load_all().values():
         if not (start <= r["date"] <= end) or r["ann_id"] in seen:
             continue

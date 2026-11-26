@@ -87,6 +87,10 @@ MGMT_CATEGORIES = {
 ALSO_READ = {"Public Announcement-Open Offer", "Open Offer", "Demise", "Offer for sale",
              "Change in Company Secretary/Compliance Officer"}
 
+# the all-filings store skips attachments over 8 MB — and a board outcome that carries the results is often
+# larger. A new CEO or CFO announced only there would be missed, so the big ones of these categories are read here
+BIG_CATEGORIES = {"Outcome of Board Meeting", "Press Release", "Updates", "General Updates"}
+
 FILING_FIELDS = ["date", "symbol", "company", "category", "headline", "attachment", "ann_id",
                  "file_size", "read_status", "text_file", "pages", "chars", "method"]
 # scans in these categories are not put through OCR: the same disclosures arrive structured in the Reg 29 feed
@@ -367,7 +371,8 @@ def read_filings(today: dt.date, days: int = 365, workers: int = WORKERS, retry_
     for r in store.values():
         if r["date"] < start or r["date"] > today.isoformat() or r["ann_id"] in mine:
             continue
-        want = r["category"] in MGMT_CATEGORIES or (r["category"] in ALSO_READ and r.get("read_status") != "read")
+        want = (r["category"] in MGMT_CATEGORIES or (r["category"] in ALSO_READ and r.get("read_status") != "read")
+                or (r["category"] in BIG_CATEGORIES and (r.get("read_status") or "").startswith(("skipped", "failed"))))
         if want:
             mine[r["ann_id"]] = {k: r.get(k, "") for k in FILING_FIELDS[:8]} | {
                 "read_status": "", "text_file": "", "pages": "", "chars": ""}
