@@ -1,0 +1,1221 @@
+LTM/SE/STAT/2026-27/52
+
+July 11, 2026
+
+National Stock Exchange of India Limited,
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (E),
+Mumbai - 400 051
+
+The BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+
+NSE Symbol: LTM
+
+BSE Scrip Code: 540005
+
+Dear Sir(s)/Madam,
+Subject: Outcome of Board meeting
+Financial Results
+In continuation to our letter bearing reference no. LTM/SE/STAT/2026-27/46 dated June 30,
+2026, this is to inform you that pursuant to Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (‘SEBI Listing Regulations’), the Board of Directors at
+its meeting held today have inter-alia approved the unaudited standalone and consolidated
+financial results for the quarter ended June 30, 2026 and have taken note of the Limited Review
+Reports issued by M/s. Deloitte Haskins & Sells, Chartered Accountants LLP (‘Statutory Auditor’),
+on the aforementioned financial results.
+A copy of the aforementioned financial results, the Limited Review Reports issued by the
+Statutory Auditor, the earnings release & fact sheet and the investor presentation are enclosed
+herewith.
+Reclassification of Nabha Power Limited
+In continuation to our intimation bearing reference no. LTM/SE/STAT/2026-27/45 dated June 27,
+2026, where we had informed the stock exchanges on receipt of a letter from Nabha Power
+Limited (‘NPL’) seeking re-classification from the ‘Promoter Group’ category to the ‘Public’
+category, we wish to inform you that the Board of Directors at their meeting held today have
+approved the above request, subject to requisite approvals, as per the extant SEBI Listing
+Regulations. This intimation is being submitted in compliance with Regulation 31A(8)(b).
+
+LTM Limited
+(Formerly LTIMindtree Limited)
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.
+T: +91 92402 97500
+
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693
+
+
+The meeting commenced at 4:30 p.m. and concluded at 6:45 p.m.
+Kindly take the above intimation on record.
+Thanking you,
+Yours faithfully,
+For LTM Limited
+Digitally signed by
+
+Angna
+Angna Anish Arora
+2026.07.11
+Anish Arora Date:
+18:58:12 +05'30'
+
+Angna Arora
+Company Secretary & Compliance Officer
+
+LTM Limited
+(Formerly LTIMindtree Limited)
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.
+T: +91 92402 97500
+
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693
+
+
+Deloitte
+Haskins & Sells
+Chartered Accountants LLP
+
+Chartered Accountants
+19th floor, Shapath-V
+S.G. Highway
+Ahmedabad-380 015
+Gujarat, India
+Tel: +91 796 682 7300
+Fax: +91 796 682 7400
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM STANDALONE FINANCIAL
+RESULTS
+TO THE BOARD OF DIRECTORS OF LTM LIMITED (Formerly known as LTIMindtree Limited}
+
+1.
+
+We have reviewed the accompanying Statement of Unaudited Standalone Financial Results of LTM Limited
+(Formerly known as LTIMindtree Limited} ("the Company") for the quarter ended June 30, 2026 ("the
+Statement"), being submitted by the Company pursuant to the requirement of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the Listing
+Regulations").
+
+2.
+
+This Statement, which is the responsibility of the Company's Management and approved by the Company's
+Board of Directors, has been prepared in accordance with the recognition and measurement principles laid
+down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under
+Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our
+responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410 'Review of Interim Financial Information Performed by the Independent Auditor of the Entity', issued
+by the Institute of Chartered Accountants of India (ICAI). A review of interim financial information consists
+of making inquiries, primarily of the Company's personnel responsible for financial and accounting matters,
+and applying analytical and other review procedures. A review is substantially less in scope than an audit
+conducted in accordance with Standards on Auditing specified under section 143(10) of the Companies
+Act, 2013 and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+4.
+
+Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement, prepared in accordance with the recognition and
+measurement principles laid down in the aforesaid Indian Accounting Standard and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended, including the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+For DELOITTE HASKINS & SELLS
+CHARTERED ACCOUNTANTS LLP
+Chartered Accountants
+(Firm's Regist rar
+No. 117364W/W-100739)
+)
+
+Gurvinder Singh
+Partner
+(Membership No. 110128)
+UDIN: 26110128TZXFMQ6107
+
+Place :
+Date :
+
+Mumbai
+July 11, 2026
+
+Regd. Office: 19th floor, Shapath-V, S.G . Highway, Ahmedabad-380 015, Gujarat, India .
+Deloitte Haskins & Sells. (FRN .117364W), a Partnership Firm, was converted into Deloitte Haskins & Sells Chartered Accountants LLP
+(LLP Identification No. AAX-2454), a limited liability partnership, with effect from 2 June 2021
+
+
+LTM
+LTM Limited
+
+(formerly known as LTIMindtree Limited)
+
+Registered office: L&T House, Ballard Estate, Mumbai -400 001
+CIN: L72900MH1996PLC104693
+Statement of Standalone Financial Results for the quarter June 30, 2026
+
+'< in million, except per share data
+Quarter ended
+
+SI.
+No
+
+Particulars
+
+Year ended
+
+June 30, 2026
+
+March 31, 2026
+
+June 30, 2025
+
+March 31, 2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+1 Income
+Revenue from operations
+Other income
+Total income
+2 Expenses
+a) Employee benefits expense
+b) Sub-contracting expenses
+c) Finance costs
+d) Depreciation and amortization expense
+e) Other expenses
+Total expenses
+3 Profit before tax and exceptional items (1-2)
+4 Exceptional items
+Impact of new Labour Codes (Refer note 4)
+5 Profit before tax (3-4)
+6 Tax expense
+a) Current tax
+b) Deferred tax
+Total tax expense
+
+7 Net profit after tax (5-6)
+8 Other comprehensive income/(loss)
+a) Items that will not be reclassified to profit or loss (net of tax)
+b) Items that will be reclassified to profit or loss (net of tax)
+Total other comprehensive income/(loss)
+9 Total comprehensive income (7+8)
+
+10 Paid up equity share capital
+(Face value:'< 1 per share)
+11 Other equity
+12 Earnings per share (Refer note 5):
+a) Basic (in '<)
+b) Diluted (in'<)
+
+109,883
+509
+110,392
+
+107,819
+1,774
+109,593
+
+94,211
+4,787
+98,998
+
+404,822
+11,787
+416,609
+
+62,619
+13,791
+734
+2,400
+14,041
+93,585
+16,807
+
+62,767
+11,621
+633
+2,488
+14,870
+92,379
+17,214
+
+57,986
+8,597
+708
+2,257
+11,927
+81,475
+17,523
+
+238,813
+42,148
+2,659
+9,732
+51,583
+344,935
+71,674
+
+-
+
+(622)
+17,836
+
+-
+
+16,807
+
+17,523
+
+5,281
+66,393
+
+4,351
+45
+4,396
+12,411
+
+4,821
+(202)
+4,619
+13,217
+
+4,455
+94
+4,549
+12,974
+
+17,679
+(623)
+17,056
+49,337
+
+346
+5,871
+6,217
+18,628
+
+376
+(11,581)
+(11,205)
+2,012
+
+(97)
+(194)
+(291)
+12,683
+
+548
+(20,000)
+(19,452)
+29,885
+
+296
+
+296
+
+296
+
+296
+228,389
+
+41.86
+41.83
+
+44.59
+44.55
+
+43.79
+43.73
+
+166.48
+166.29
+
+
+Select explanatory notes to the Statement of Unaudited Standalone Financial Results for the quarter ended June 30, 2026
+1. The standalone financial results of LTM Limited (formerly LTIMindtree Limited) ('the Company') for the quarter ended June 30, 2026 have been subjected to limited
+review by the statutory auditors. The results have been reviewed by the Audit Committee of the Board and approved by the Board of Directors at its meeting held on
+July 11, 2026.
+2.
+
+Results for the quarter ended June 30, 2026 are in compliance with the Indian Accounting Standards (Ind AS) notified by the Ministry of Corporate Affairs as
+prescribed under section 133 of the Companies Act, 2013.
+
+3
+
+The Board of Directors had recommended a final dividend of~ 53/- per equity share of face value~ 1/- each for the financial year ended March 31, 2026 which was
+approved by the shareholders at the Annual General Meeting held on June 1, 2026 and accordingly paid before end of the quarter.
+
+4.
+
+Effective November 21, 2025, the Government of India consolidated 29 existing labour regulations into four Labour codes, namely, The Code on Wages, 2019, The
+Industrial Relations Code, 2020, The Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, collectively referred to
+as the 'New Labour Codes'. Based on the requirements of New Labour Codes and relevant Accounting Standards, the Company has estimated the liability for
+employee benefits, which has resulted in an incremental expense on account of recognition of past service costs. Considering the material, one-time nature of the
+incremental amount, the Company has presented the same as an 'Exceptional Item' in the Statement of Standalone Financial Results during the previous year.
+
+5.
+
+Earnings per share for the interim periods are not annualised ,
+
+6.
+
+In accordance with Ind AS 108 'Operating Segment', the Company has disclosed Segment information on consolidated basis for the quarter ended June 30, 2026
+which is available as part of the unaudited consolidated financial results of the Company on its website (www.ltm.com), on the websites of BSE (www.bseindia.com)
+and NSE (www.nseindia.com).
+
+7.
+
+Figures for the earlier period(s) have been regrouped, wherever necessary.
+For LTM Limited
+
+Mumbai, India
+July 11, 2026
+
+Vipul Chandra
+Chief Financial Officer &
+Whole-time Director
+
+Lil?)
+
+16ufifil
+CJ
+.....
+
+•P\J'J llt;,)
+
+
+Deloitte
+Haskins & Sells
+Chartered Accountants LLP
+
+Chartered Accountants
+19th floor, Shapath-V
+S.G. Highway
+Ahmedabad-380 015
+Gujarat, India
+Tel: +91 796 682 7300
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM CONSOLIDATED FINANCIAL
+RESULTS
+TO THE BOARD OF DIRECTORS OF LTM LIMITED (Formerly known as LTIMindtree Limited)
+
+1.
+
+We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of LTM
+Limited (Formerly known as LTIMindtree Limited) ("the Parent") and its subsidiaries (the Parent
+and its subsidiaries together referred to as "the Group"), for the quarter ended June 30, 2026 ("the
+Statement") being submitted by the Parent pursuant to the requirement of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the Listing
+Regulations").
+
+2.
+
+This Statement, which is the responsibility of the Parent's Management and approved by the Parent's Board
+of Directors, has been prepared in accordance with the recognition and measurement principles laid down
+in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section
+133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting principles
+generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our
+responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410 "Review of Interim Financial Information Performed by the Independent Auditor of the Entity", issued
+by the Institute of Chartered Accountants of India (!CAI). A review of interim financial information consists
+of making inquiries, primarily of Parent's personnel responsible for financial and accounting matters, and
+applying analytical and other review procedures. A review is substantially less in scope than an audit
+conducted in accordance with Standards on Auditing specified under Section 143(10) of the Companies
+Act, 2013 and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33(8)
+of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, to the
+extent applicable.
+
+4.
+
+The Statement includes the interim financial information of the entities listed in Attachment A.
+
+5.
+
+Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement, prepared in accordance with the recognition and
+measurement principles laid down in the aforesaid Indian Accounting Standard and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended, including the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+For DELOITTE HASKINS & SELLS
+CHARTERED ACCOUNTANTS LLP
+Chartered Accou n ~
+
+(F/7"°'
+
+No. 117364W/W-100739)
+
+Gurvinder Singh
+Partner
+(Membership No. 110128)
+UDIN: 26110128IDHOAM8887
+Place: Mumbai
+Date: July 11, 2026
+
+Regd , Office: 19th floor, Shapath-V, S.G. Highway, Ahmedabad-380 015, Gujarat, India.
+Deloitte Haskins & Sells. (FRN .117364W), a Partnership Firm, was converted into Deloitte Haskins & Sells Chartered Accountants LLP
+(LLP Identification No. AAX-2454), a limited liability partnership, with effect from 2 June 2021
+
+
+Deloitte
+Haskins & Sells
+Chartered Accountants LLP
+
+Attachment A
+
+Sr No
+A
+
+B
+
+1
+2
+3
+
+4
+5
+6
+7
+8
+9
+10
+11
+
+12
+13
+
+14
+15
+16
+
+Name of Entities
+Parent
+LTM Limited (formerly known as "LTIMindtree Limited")
+Subsidiaries
+LTIMindtree GmbH
+LTIMindtree Canada Limited
+LTIMindtree Financial Services Technologies Inc.
+LTM South Africa (Pty) Ltd. (Formerly known as LTIMindtree South Africa (Pty) Limited)
+LTIMindtree Information Technoloqy Services (Shanqhai) Co., Ltd .
+LTIMindtree Sociedad De Responsabilidad Limitada De Capital Variable
+LTIMindtree S.A.
+LTIMindtree PSF S.A.
+LTIMindtree Norge AS
+LTIMindtree Switzerland AG
+LTIMindtree (Thailand) Limited
+LTM USA Inc. (Formerly known as LTIMindtree USA Inc.)
+LTM UK & Ireland Limited (Formerly known as LTIMindtree UK Limited)
+LTIMindtree Middle East FZ-LLC
+LTIMindtree Consultinq Brazil Ltda.
+LTIM Aramco Digital Solutions for Information Technoloqv Comoanv
+
+
+LTM
+
+LTM Limited
+(formerly known as LTIMindtree Limited)
+Registered office: L&T House, Ballard Estate, Mumbai - 400 001
+CIN: L72900MH1996PLC104693
+
+Statement of Consolidated Financial Results for the quarter ended June 30, 2026
+~ in million, except per share data
+
+Quarter ended
+
+SI.
+No
+
+1
+
+Pa rticu la rs
+
+March 31, 2026
+
+June 30, 2025
+
+March 31, 2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+{Audited)
+
+Income
+
+Revenue from operations
+Other income (Refer note S)
+Total income
+2
+
+Year ended
+
+June 30, 2026
+
+Expenses
+a) Employee benefits expense
+b) Sub-contracting expenses
+c) Finance costs
+d) Depreciation and amortization expense
+
+116,080
+2,554
+
+112,917
+
+98,406
+
+423,076
+
+1,747
+
+118,634
+
+114,664
+
+3,921
+102,327
+
+434, 020
+
+69,618
+11,134
+763
+
+63,805
+6,254
+724
+2,429
+11,853
+85,065
+
+10,541
+52, 286
+360,828
+
+17,262
+
+73,192
+
+e) Other expenses
+Total expenses
+
+2,613
+14,722
+98,850
+
+68,896
+9,333
+653
+2,636
+14,958
+96,476
+
+3
+
+Profit before tax and exceptional items (1-2)
+
+19,784
+
+18,188
+
+4
+
+Exceptional items
+Profit before tax (3-4)
+
+6
+
+Tax expense
+a) Current tax
+b) Deferred tax
+Total tax expense
+Net profit after tax {S-6)
+
+7
+8
+
+.
+
+5,281
+
+19,784
+
+18,810
+
+17,262
+
+67,911
+
+4,645
+
+5,112
+(175)
+
+4,605
+111
+4,716
+12,546
+
+18,523
+(439)
+
+5,098
+
+4,937
+13,873
+
+346
+5,708
+
+376
+(10,888)
+
+Total other comprehensive income/{loss)
+
+6,054
+
+Total comprehensive income {7+8)
+
+20,740
+
+14,663
+
+b) It ems that will be reclassified to profit or loss (net of tax)
+9
+
+453
+14,686
+
+Other comprehensive income/(loss)
+a) Items that will not be reclassified to profit or loss (net of tax)
+
+262,869
+32,369
+2,763
+
+(622)
+
+Impact of new Labour Code (Refer note 3)
+5
+
+10,944
+
+18,084
+49,827
+
+(97)
+614
+
+548
+(17, 858)
+
+{10,512)
+
+517
+
+{17,310)
+
+3, 361
+
+13,063
+
+32,517
+
+13,923
+(SO)
+
+12,541
+5
+
+50,181
+(354)
+
+20,713
+27
+
+3,370
+
+13,055
+
+32,808
+
+(9)
+
+8
+
+(291)
+
+296
+
+296
+
+296
+
+296
+240,781
+
+Profit for the period attributable to:
+
+Shareholders of the Company
+Non-controlling interests
+Total comprehensive income attributable to :
+Shareholders of the Company
+Non-controlling interests
+10 Paid-up equity share capital
+(Fa ce value: ~ 1 per share)
+11 Other equity (Including Non-controlling interests)
+12
+
+23
+
+Earnings per share {Refer note 8):
+a) Basic {in ~)
+b) Diluted (in~)
+
+49.46
+
+46.97
+
+42.33
+
+169.33
+
+49.42
+
+46.93
+
+42.28
+
+169.13
+
+-\~ u
+
+•" LTM
+•P\J'J
+
+
+Consolidated Segment Information for the quarter ended June 30, 2026
+'11:in million
+Quarter ended
+Particulars
+
+Year ended
+
+June 30, 2026
+
+March 31, 2026
+
+June 30, 2025
+
+March 31,2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited}
+
+(Audited)
+
+Segment revenue
+
+Financial Services
+
+39,509
+30,868
+
+37,169
+
+36,344
+
+148,978
+
+Consumer
+
+30,419
+
+23,747
+
+Technology & Services
+
+23,158
+
+21,890
+
+19,011
+
+108,664
+79,956
+
+Production
+
+22,545
+
+23,439
+
+19,304
+
+85,478
+
+Revenue from operations
+
+116,080
+
+112,917
+
+98,406
+
+423,076
+
+5,139
+5,464
+
+6,080
+
+25,168
+
+3,917
+3,616
+
+19,265
+16,411
+
+Segment results
+
+Financial Services
+
+5,937
+
+Consumer
+
+5,577
+
+Technology & Services
+
+4,926
+
+Production
+
+5,145
+3, 947
+
+4,201
+
+2,881
+
+14,708
+
+Segment results
+
+20,606
+
+19,730
+
+16,494
+
+75,552
+
+Add :
+Other income
+
+2,554
+
+1,747
+
+3,921
+
+10,944
+
+Less:
+
+Finance costs
+
+763
+
+653
+
+724
+
+2,763
+
+Depreciation and amortization expense
+Exceptional items (Refer note 3)
+
+2,613
+
+.
+
+2,636
+(622)
+
+2,429
+
+10,541
+
+Profit before tax
+
+19,784
+
+18,810
+
+17,262
+
+5.281
+67,911
+
+I.
+
+.
+
+Segments have been identified in accordance with the Indian Accounting Standard ('Ind AS' ) 108 on Operating Segments, considering the risk or return profiles of the
+business. As required under Ind AS 108, the Chief Operating Decision Maker evaluates the performance of and allocates resources to segments based on analysis of
+various performance indicators Accordingly, information has been presented for the Group's operating segments.
+
+II,
+
+During the quarter ended June 30, 2026, the Company reorganised and renamed its reportable segments to better align with customer industry segments. As a result,
+the reportable segments are now classified as: (i) Financial Services, (ii) Consumer, (iii) Technology & Services, and (iv) Production .
+The erstwhile Banking, Financial Services & Insurance (BFS I) segment has been renamed Financial Services. Erstwhile Consumer Business has been renamed as Consumer.
+The Media & Entertainment business has been carved out from the erstwhile Technology, Media & Communications segment and Healthcare, Life Sciences & Public
+Services businesses are now part of Consumer. The remaining businesses within the erstwhile Technology, Media & Communications segment have been renamed
+Technology & Services and the erstwhile Manufacturing & Resources segment has been renamed Production. Accordingly, the Company has presented its segment
+results based on the revised reportable segment structure. Comparative segment information for prior periods has been restated to reflect these changes and to
+facilitate meaningful period-to-period comparability.
+
+Ill ,
+
+Other income and finance costs relate to the Group as a whole and are not identifiable with/allocable to segments.
+
+IV.
+
+Assets and liabilities used in the Group's business are not identified to any of the reportable segment as these are used interchangeably,
+
+
+Select explanatory notes to the Statement of Unaudited Consolidated Financial Results for the quarter ended June 30, 2026
+1.
+
+The consolidated financial results of LTM Limited (formerly known as LTIMindtree Limited) ('the Company') for the quarter ended June 30, 2026 have been subjected
+to limited review by the statutory auditors The results have been reviewed by the Audit Committee of the Board and approved by the Board of Directors at its
+meeting held on Julv 11. 2026.
+
+2.
+
+Results for the quarter ended June 30, 2026 are in compliance with the Indian Accounting Standards (Ind AS) notified by the Ministry of Corporate Affairs as
+prescribed under section 133 of the Companies Act, 2013.
+
+3.
+
+Effective November 21, 2025, the Government of India consolidated 29 existing labour regulations into four Labour codes, namely, The Code on Wages, 2019, The
+Industrial Rela tions Code, 2020, The Code on Social Securi ty, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, collectively referred to as
+the ' New Labour Codes' . Based on the requirements of New Labour Codes and relevant Accounting Standards, the Group has estimated the liability for employee
+benefits, which has resulted in an incremental expense on account of recognition of past service costs. Considering the material, one-time nature of the incremental
+amount, the Group has presented the same as an 'Exceptional Item' in the Statement of Consolidated Financial Results during the previous year.
+
+4.
+
+During the quarter ended June 30, 2026, the Company, through its wholly owned subsidiary LTM UK & IRELAND Limited (formerly known as LTIMindtree UK Limited),
+entered into a Put Option Deed with Randstad N.V. (Netherlands), Randstad Digital Holdings Pty Ltd (Australia) and Randstad France SASU (France) (collectively, the
+"Randstad Entities") in relation to the proposed acquisit'1on of their subsidiaries in the Netherlands, Australia and France, along with step-down subsidiaries in
+Belgium, Luxembourg, Portugal, Romania and Germany at an Enterprise Valuation of up to EUR 160 million on a cash-free, debtfree basis, subject to customary
+valuation adjustments on closure The transaction remains subject to execution of definitive agreements and requisite regulatory approvals. As at 30 June 2026, the
+transaction has not been concluded and, accordingly, no impact has been recognised in the Consolidated Financial Results.
+
+5.
+
+During the quarter ended June 30, 2026, the Group has recognised a fair value gain of U ,978 million as a part of 'Other Income' in the Consolidated Financial Results,
+in respect of the convertible instruments held in Voicing.Al, Inc., which were measured at fair value through profit or loss. Further, the Group has converted the said
+convertible instruments into equity instruments during the quarter.
+
+6. The standalone financial results are available on the Company' s website viz www ltm,com , on the websites of BSE (www.bseindia com) and NSE (www nseindia com).
+The specified items of the standalone financial results of the Company for the quarter ended June 30, 2026 are given below:
+tin million
+Quarter ended
+Particulars
+Total ·income
+Profit before tax
+Profit after tax
+7.
+
+June 30, 2026
+
+March 31, 2026
+
+(Unaudited)
+
+(Unaudited)
+
+110,392
+16,807
+12,411
+
+Year ended
+June 30. 2025
+(Unaudited)
+
+109,593
+17,836
+13,217
+
+98,998
+17,523
+12,974
+
+March 31, 2026
+(Audited)
+416,609
+66,393
+49,337
+
+The Board of Directors had recommended a final dividend oft 53/- per equity share of face value ~ 1/- each for the financial year ended March 31, 2026 which was
+approved by the shareholders at the Annual General Meeting held on June 1, 2026 and accordingly paid before end of the quarter,
+
+8.
+
+Earnings per share for the interim periods are not annualised.
+
+9.
+
+Figures for the earlier period(s) have been regrouped, wherever necessary.
+For LTM limited
+
+Mumbai, India
+July 11, 2026
+
+Vipul Chandra
+Chief Financial Officer &
+Whole-time Director
+
+
+First Quarter, Fiscal 2027
+Investor Release
+July 11, 2026
+
+©LTM | Q1 FY27 Investor Release
+
+1
+
+
+Table of Contents
+Company Overview
+
+4- 7
+
+Q1 FY27 Performance
+
+8 - 17
+
+Business Highlights
+
+18 - 24
+
+Annexures
+
+25 - 30
+
+©LTM | Q1 FY27 Investor Release
+
+2
+
+
+Safe Harbor
+Certain statements in this release concerning future prospects are forward
+- looking statements.
+These statements, by their nature, involve risks and uncertainties that could cause the actual
+results to differ materially from such forward
+- looking statements. LTM assumes no obligation to
+revise or update any forward
+- looking statements that may be made from time to time by or on
+behalf of LTM.
+
+©LTM | Q1 FY27 Investor Release
+
+3
+
+
+Company Overview
+
+©LTM | Q1 FY27 Investor Release
+
+4
+
+
+LTM: At a Glance
+$4.83 Bn
+
+15.6%
+
+12.7%*
+
+$1.59 Bn
+
+Revenue
+
+EBIT Margin
+
+PAT Margin
+
+Cash and
+Investments
+
+TTM
+
+TTM
+
+TTM
+
+As of 30 th June, 2026
+
+$6.65 Bn
+
+700+
+
+29.8%
+
+22.0%
+
+Return on Capital
+Employed
+
+Return on Equity
+
+As of 31
+2026
+30 stth March
+June, 2026
+
+As of 30 th June, 2026
+
+Order Inflow
+
+TTM
+TTM: Trailing twelve months
+
+World’s largest
+enterprises are
+our active clients
+
+*Excluding exceptional item
+©LTM | Q1 FY27 Investor Release
+
+5
+
+

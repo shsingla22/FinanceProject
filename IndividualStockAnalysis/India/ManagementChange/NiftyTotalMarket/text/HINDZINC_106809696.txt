@@ -1,0 +1,2015 @@
+HZL/2026-27/SECY/89
+
+October 07, 2026
+
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street, Fort
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor Plot No., C/l, G Block
+Bandra-Kurla Complex, Bandra (East),
+Mumbai – 400 051
+
+Kind Attn: General Manager – Department
+of Corporate Services
+
+Kind Attn: Head Listing & Corporate
+Communication
+
+Scrip Code: 500188
+
+Trading Symbol: HINDZINC
+
+Dear Sir/Madam,
+Sub: Climate Action Report for the financial year 2025-26
+Please find enclosed herewith the Climate Action Report for the financial year 2025-26 of the
+Company.
+The aforesaid report is being made available on the Company's website and can be accessed at
+https://www.hzlindia.com/
+This is for your information and records.
+Thanking You.
+Yours faithfully,
+For Hindustan Zinc Limited
+Digitally signed by
+
+V
+AASHHIMA AASHHIMA
+KHANNA
+Date:
+2026.10.07
+V KHANNA
+14:39:30 +05'30'
+
+Aashhima V Khanna
+Company Secretary & Compliance Officer
+Encl: as above
+
+Sensitivity: Public (C4)
+
+
+Hindustan Zinc Limited
+Climate Action Report 2025-26
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+CONTENTS
+EXECUTIVE SUMMARY
+ABOUT THIS REPORT
+MESSAGE FROM THE CHAIRPERSON
+MESSAGE FROM THE CEO
+KEY HIGHLIGHTS FY2025-26
+GOVERNANCE
+CLIMATE GOVERNANCE AND ACCOUNTABILITY
+CLIMATE SCENARIO ANALYSIS AND STRATEGIC RESILIENCE
+PHYSICAL CLIMATE RISKS ACROSS OUR SITES
+TRANSITION CLIMATE RISKS AND OPPORTUNITIES
+FINANCIAL QUANTIFICATION
+TRANSITION PLAN AND DECARBONISATION PATHWAY
+VALUE CHAIN RISK ASSESSMENT
+SUPPLIER RISK ASSESSMENT
+SUSTAINABILITY THROUGH SUPPLIER COLLABORATION
+CUSTOMER RISK ASSESSMENT
+ECOZEN: LOW-CARBON ZINC
+AVOIDED EMISSIONS AND CUSTOMER DECARBONISATION
+RISK MANAGEMENT
+CLIMATE RISK REGISTER
+INTERNAL CARBON PRICING
+METRICS AND TARGETS
+WATER, WASTE AND CIRCULARITY PERFORMANCE
+NATURE, BIODIVERSITY AND CLIMATE INTERLINKAGES
+CLIMATE POLICY ENGAGEMENT AND INDUSTRY PARTICIPATION
+CLIMATE-RELATED EFFECTS ON STRATEGY AND FINANCIAL PLANNING
+WAY FORWARD
+FORWARD LOOKING STATEMENT
+IFRS S2 ALIGNMENT INDEX
+APPENDIX A - PHYSICAL CLIMATE RISK ASSESSMENT METHODOLOGY
+ASSURANCE STATEMENT
+
+EXECUTIVE SUMMARY
+1
+2
+4
+6
+8
+10
+12
+14
+15
+18
+22
+23
+24
+25
+26
+27
+28
+28
+30
+32
+34
+36
+40
+40
+41
+44
+47
+48
+49
+50
+52
+
+Hindustan Zinc continued to strengthen its position as a global
+sustainability leader, retaining its Global No. 1 Ranking in the
+S&P Global Corporate Sustainability Assessment (CSA) 2025
+for the third consecutive year by advancing decarbonisation,
+water stewardship, circular economy, climate governance,
+and climate-related disclosure maturity. As one of the world’s
+leading integrated zinc producers and a key supplier of metals
+critical to the low-carbon transition, the Company recognises
+that climate change is both a material business risk and a
+strategic opportunity. Its approach therefore combines
+risk mitigation, operational resilience, capital deployment,
+low-carbon product innovation, and long-term business
+transformation.
+The Company’s climate ambition remains anchored in its
+Science-based Targets initiative-aligned pathway: to reduce
+Scope 1 and Scope 2 emissions by 50% and Scope 3 emissions
+by 25% by 2030, from the FY2020 baseline, and to achieve Net
+Zero by 2050 or sooner.
+Considering HZL’s planned expansion to reach 2 million tonnes
+of metal capacity by 2030, achieving the SBTi near-term target
+may be challenging from a Scope 1 and Scope 2 perspective
+due to the associated increase in absolute energy demand
+and emissions accounting complexity. However, HZL remains
+firmly committed to achieving its SBTi-approved targets and
+is actively addressing these transition challenges through a
+robust decarbonisation roadmap. Key interventions include
+shifting from the State Transmission Utility model to the Central
+Transmission Utility model to improve power procurement
+efficiency and reduce transmission losses, along with adding
+990 MW of battery energy storage capacity to support green
+power demand for both existing and expanded capacity. With
+these measures, HZL is well placed to manage growth-related
+
+emissions while continuing to progress toward its climate
+commitments.
+In FY2025-26, HZL reported combined Scope 1 and Scope 2
+emissions of 5.02 million tCO2e and Scope 3 emissions of 1.47
+million tCO2e. The year also saw a meaningful increase in
+renewable power utilisation, with 892 MU of renewable power
+consumed, contributing to an estimated 0.83 million tCO2e
+reduction. The Pantnagar Metal Plant continued to operate on
+100% renewable power.
+Beyond operational decarbonisation, HZL further strengthened
+its market positioning through low-carbon and sustainabilitylinked value creation. EcoZen, Asia’s first low-carbon zinc
+product, continued to demonstrate how climate action
+can create product differentiation and support customers’
+downstream Scope 3 reduction goals. On water stewardship,
+HZL remained 3.32x water positive, reduced freshwater use by
+13% against the FY2020 baseline, and continued scaling treated
+sewage water use and recycling. On circularity, the Company
+generated significant value through reuse and beneficial
+utilisation of waste streams, contributing both to environmental
+outcomes and business performance.
+Governance oversight of climate-related matters continued
+through Board and management structures, including the
+Sustainability & ESG Committee and enterprise-level risk
+oversight processes. Climate-related issues are considered
+in strategic planning, investment decisions, risk assessment,
+and remuneration-linked sustainability performance. The
+Company continues to improve the quality and consistency
+of its climate disclosures. This report provides a clearer and
+more comprehensive overview of its climate-related approach,
+aligned with IFRS S2 and informed by leading CDP disclosure
+practices.
+
+1
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+ABOUT THIS REPORT
+This Climate Action Report presents Hindustan Zinc Limited’s climate-related
+governance, strategy, risk management, metrics, targets, and progress for FY2025-26.
+The report is intended to provide investors, customers, lenders, employees, regulators,
+communities, and other stakeholders with decision-useful information on how climaterelated risks and opportunities affect the Company’s business model, strategy, value
+chain, financial planning, and long-term resilience.
+This report is structured to align with the four pillars of IFRS
+S2 Climate-related Disclosures—Governance, Strategy, Risk
+Management, and Metrics & Targets—and is designed to embed
+the climate change-related disclosure requirements beyond
+governance oversight, transition planning, scenario analysis,
+climate-related financial impacts, value chain engagement,
+emissions performance, targets, internal carbon pricing, and
+
+assurance, this report includes disclosures on organisational
+boundaries, time horizons, substantive effect assessments,
+and the processes used to identify and manage climate-related
+dependencies, impacts, risks, and opportunities. It also presents
+metrics that support an understanding of the Company’s
+climate-related exposure and resilience.
+
+Reporting
+Period:
+Reporting period: April 01, 2025 to March 31, 2026, aligned with
+Hindustan Zinc Limited’s (HZL) financial reporting year.
+
+Reporting
+Boundary:
+The reporting boundary for this Climate Action Report is aligned
+with Hindustan Zinc Limited’s financial statement boundary and
+remains unchanged from the boundary applied in the previous
+reporting year. Accordingly, the report covers Hindustan
+Zinc Limited’s consolidated operations and, where relevant,
+upstream and downstream value-chain interfaces considered
+for climate risk, opportunity and Scope 3 assessment.
+
+Consolidation Approach for
+Climate Data:
+Greenhouse gas emissions and operational performance
+indicators are reported using the operational control approach,
+consistent with the previous reporting year. It has been retained
+for FY2025-26, and accordingly the approach to Scope 1 and
+Scope 2 accounting, as well as Scope 3 reporting and valuechain coverage, remains unchanged. The operational control
+approach is applied to ensure that the organisation accountable
+for emissions can effectively manage and reduce them, with
+clear assignment of responsibility for emissions management
+and mitigation efforts.
+
+2
+
+Time Horizons used
+in this Report:
+HZL defines short term, medium term and long term horizons
+for use across governance, risk management, strategy and
+metrics sections. Short term is defined as up to 2 years, Medium
+term as 3–5 years, and Long term is 6-20 years. Accordingly,
+2030 is considered within the medium-term planning horizon,
+while longer-dated strategic ambitions such as 2050 are
+considered long-term.
+
+Frameworks
+Referenced:
+IFRS S2, GHG Protocol, Science-based Targets initiative,
+Integrated Reporting principles, relevant GRI disclosures, and
+CDP-aligned disclosure expectations, IFRS S2 incorporated
+TCFD recommendations across governance, strategy, risk
+management and metrics & targets, hence this report also
+addresses TCFD recommendations.
+
+Assurance
+Status:
+We safeguard the quality of information contained in this
+report through a robust assurance process. The content and
+data disclosed in this report have been externally assured by
+S.R. Batliboi & Co LLP in accordance with the requirement
+of the Assurance Standard ISAE 3000 (Revised) ‘Assurance
+Engagements other than Audits or Reviews of Historical
+Financial Information.
+
+3
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+MESSAGE FROM THE
+CHAIRPERSON
+At Hindustan Zinc,
+we believe climate
+strategy must extend
+beyond emissions
+management. It must
+shape how we allocate
+capital, manage risk,
+engage our value chain,
+design products and
+strengthen the resilience
+of our operations and
+surrounding ecosystems.
+
+Dear Stakeholders,
+Climate resilience is becoming one of the defining
+measures of industrial leadership. At Hindustan Zinc,
+climate action is not a separate sustainability agenda. It
+is integral to how we strengthen operational resilience,
+improve competitiveness, and create long-term value.
+As global demand accelerates for the critical metals
+that enable electrification, renewable energy, corrosion
+protection, and industrial decarbonisation, we recognise
+both the responsibility and the opportunity that come
+with our leadership. Our focus is not only on supplying
+the materials that power the energy transition, but on
+producing them through transparent, resilient, and
+future-ready operations.
+FY2025-26 marked another year of meaningful progress
+on our journey towards Net Zero by 2050. Climate
+considerations continued to shape strategic decisionmaking as we advanced renewable energy integration,
+strengthened climate governance, enhanced water
+stewardship, expanded circularity initiatives, and
+accelerated the transition to lower-carbon mobility. Our
+continued recognition by leading global sustainability
+benchmarks reflects the steady progress we are making.
+Our commitment to responsible mining was further
+strengthened with Hindustan Zinc becoming the first
+Indian company to join the International Council on
+Mining and Metals (ICMM). During the year, two of our
+operating sites also achieved Zinc Mark certification,
+reinforcing our commitment to internationally recognised
+standards of responsible production. These milestones
+
+4
+
+strengthen our long-term competitiveness in a world
+where resilience, resource efficiency, and embedded
+carbon are becoming increasingly important.
+At Hindustan Zinc, an effective climate strategy extends
+beyond reducing emissions. It influences how we allocate
+capital, manage risk, engage our value chain, develop
+products, and strengthen the resilience of our operations.
+That is why our climate roadmap is closely linked with
+progress in renewable power, water positivity, waste
+valorisation, biodiversity restoration, and innovation
+through lower-carbon products such as EcoZen.
+This report reflects our commitment to transparent
+climate disclosure, aligned with the four pillars of IFRS
+S2 and informed by global leading practices. It provides
+stakeholders with a clear understanding of how climaterelated risks and opportunities shape our strategy,
+operations, financial planning, and long-term ambitions.
+The transition to a low-carbon economy presents one of
+the defining opportunities of our time. Hindustan Zinc
+remains committed to contributing to that transition
+by producing the critical metals the world needs
+while continuously reducing the footprint with which
+we produce them. Through disciplined execution,
+innovation, and responsible stewardship, we will continue
+strengthening resilience and creating sustainable value for
+our stakeholders and for the society.
+Warm regards,
+Priya Agarwal Hebbar
+Chairperson
+Hindustan Zinc Limited
+
+5
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+MESSAGE FROM THE CEO
+A major focus
+area remained the
+renewable energy
+transition. During the
+year, we increased
+green power
+consumption and
+continued to
+integrate renewable
+electricity into our
+operational footprint.
+
+Dear Stakeholders,
+At Hindustan Zinc, we believe climate action is
+fundamental to building a resilient, future-ready business.
+As the world accelerates toward a low-carbon economy,
+sustainability continues to shape how we operate, invest
+and create value. Guided by our ambition to become
+a climate-resilient, low-carbon metals company, we
+continue to embed sustainability into our strategy,
+operations and investment decisions, creating value for
+our stakeholders while contributing to a more sustainable
+future.
+FY2025-26 marked another year of meaningful progress
+as we advanced our decarbonisation and resilience
+journey through renewable energy adoption, operational
+efficiency, low-carbon logistics, water stewardship,
+circularity and the development of low-carbon products.
+Together, these initiatives form a focused transition plan
+to reduce climate-related risks, improve efficiency and
+strengthen long-term business resilience.
+A key milestone in our transition journey has been the
+continued acceleration of renewable energy adoption.
+During the year, we increased green power consumption
+and continued to integrate renewable electricity into
+our operational footprint, while maintaining 100%
+renewable power sourcing at Pantnagar Metal Plant. This
+progress reinforces our commitment to source 70% of our
+electricity requirements from renewable sources by 2028
+and plays a critical role in reducing our Scope 1 and Scope
+2 emissions.
+Beyond our operations, we continued to advance
+decarbonisation across the value chain. The expanded
+deployment of LNG and electric vehicles within our
+logistics network demonstrates how targeted operational
+interventions can contribute meaningfully to Scope 3
+emissions reduction while enhancing efficiency across our
+supply chain.
+
+6
+
+We also continued to strengthen the business case for
+climate action through innovation and resource efficiency.
+EcoZen, our low-carbon zinc product, and Zinc Mark
+certification demonstrate our commitment to delivering
+responsibly produced, lower-carbon zinc solutions that
+support customers in advancing their sustainability
+objectives and reducing value chain emissions. These
+initiatives position Hindustan Zinc to strengthen
+its competitive advantage and capture emerging
+opportunities in evolving low-carbon markets.
+Our commitment extends beyond emissions reduction.
+Progress in water positivity, increased use of treated
+water, resource recovery and circular economy initiatives
+demonstrates how environmental stewardship can
+go hand in hand with operational excellence. Beyond
+mitigation, we are strengthening climate adaptation
+and resilience by enhancing water security, preparing
+for physical climate risks, and building the long-term
+resilience of our operations and host communities,
+ensuring sustained value creation in a changing climate.
+Looking ahead, we will continue integrating climate
+considerations into strategy, capital allocation, risk
+management and governance while strengthening our
+transition plan and climate-related disclosures. As the
+first Indian company to join the International Council
+on Mining and Metals (ICMM), we remain committed to
+aligning with the highest global standards of responsible
+mining and climate accountability.
+The transition to a low-carbon economy is one of the
+defining opportunities of our time. At Hindustan Zinc, we
+remain committed to leading this transition responsibly,
+creating enduring value for our stakeholders while
+contributing to a more resilient and sustainable future.
+Best Wishes,
+Arun Misra
+CEO & Whole Time Director
+Hindustan Zinc Limited
+
+7
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+KEY HIGHLIGHTS
+FY2025-26
+FY2025-26 marked another year of strong progress in Hindustan Zinc’s climate journey,
+with continued advancement on renewable energy adoption, low-carbon product
+positioning, water stewardship, circularity, and climate governance. The Company
+maintained its leadership in sustainability performance while further operationalising its
+transition pathway toward Net Zero by 2050 or sooner.
+
+Climate targets remain
+unchanged and ambitious:
+50% reduction in Scope 1 and Scope 2 emissions, and 25%
+reduction in Scope 3 emissions by 2030 from the FY2020
+baseline, with Net Zero by 2050 or sooner.
+
+Absolute GHG emissions
+for FY2025-26:
+Scope 1 emissions of 4.78 mn. tCO2e, Scope 2 emissions of 0.24
+mn. tCO2e, and combined Scope 1+2 emissions of
+5.02 mn. tCO2e; Scope 3 emissions of 1.47 mn. tCO2e.
+
+Water leadership continued:
+HZL remained 3.32x water positive, achieved a 13% reduction in
+freshwater use versus FY2020, used 47% municipal treated sewage
+water in smelting, and reached 49% water recycling.
+
+Circular economy outcomes improved:
+6.04 million tonnes of material were recycled, reused, or recovered;
+863 kt of smelting waste was gainfully utilised; 654 kt of jarosite/
+jarofix was repurposed; and waste circularity contributed an
+estimated INR 320 crore revenue.
+
+Global sustainability leadership was
+reinforced:
+HZL remained ranked #1 globally in the metals and mining sector in
+the S&P Global Corporate Sustainability Assessment for the third
+consecutive year and became the first Indian company to join ICMM.
+
+Renewable energy transition
+accelerated:
+519 MU of renewable power was received from the power
+purchase agreement with Serentica and total green power
+consumed reached 892 MU, contributing to an estimated
+0.83 million tCO2e reduction.
+
+Pantnagar Metal Plant continued at
+100% renewable power sourcing:
+supporting annual emissions reduction of more than
+30,000 tCO2e.
+
+EcoZen:
+Asia’s first low-carbon zinc product, continued to strengthen
+HZL’s low-carbon product proposition with a carbon footprint of
+less than 1 tCO2e per tonne of zinc.
+
+8
+
+Low-carbon logistics scaled further:
+The fleet reached 180 LNG vehicles and 52 EVs, with additional
+deployment commitments for EV and LNG trucks.Furthering its
+sustainable mobility initiatives, HZL deployed EV buses for employee
+transportation and signed a contract to induct 41 buses.
+
+Limited assurance and
+disclosure maturity
+We safeguard the quality of information contained in this report
+through a robust assurance process. The content and data disclosed
+in this report have been externally assured by S.R. Batliboi & Co LLP
+in accordance with the requirement of the Assurance Standard ISAE
+3000 (Revised) ‘Assurance Engagements other than Audits or Reviews
+of Historical Financial Information’.
+
+9
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+GOVERNANCE
+Climate change governance is embedded within Hindustan Zinc’s broader sustainability
+and enterprise risk governance architecture. The Board of Directors retains oversight of
+climate-related risks and opportunities, recognising climate change as a strategic issue
+that can affect business continuity, operational resilience, capital allocation, long-term
+competitiveness, and stakeholder confidence. Board oversight is supported by formal
+committees and management structures responsible for translating climate ambition
+into action.
+The Sustainability & ESG Committee of the Board provides dedicated oversight of ESG and climate matters. For FY2025-26,
+the Committee was chaired by Ms. Priya Agarwal Hebbar, with Mr. Arun Misra and Mr. Anoop Kumar Mittal as members. The
+Committee met during the year with full attendance and continued to provide strategic direction on decarbonisation, environmental
+performance, natural resource stewardship, material ESG topics, ESG ratings, and the review of progress against the Company’s
+2030 sustainability goals. It also reviewed greenhouse gas performance, climate-related priorities, and broader sustainabilitylinked actions requiring Board visibility. The Audit and Risk Management Committee, chaired by an Independent Director, supports
+Board oversight through the review of enterprise risks, including climate-related physical and transition risks, and monitors the
+effectiveness of associated controls, mitigation measures, and risk management processes.
+
+Board Oversight
+
+Board Sustainability &
+ESG Committee
+
+Audit & Risk
+Management Committee
+
+At the Management level, implementation is driven through
+dedicated sustainability communities that support execution,
+monitoring, and continual improvement. The Energy & Carbon
+Community, chaired by the Head of the Power Business,
+serves as the principal management committee for assessing
+and managing climate-related risks and opportunities,
+including renewable energy deployment, energy efficiency,
+electrification initiatives, emissions reduction projects, climate
+data management, and carbon accounting. The Community
+monitors progress against decarbonisation targets and reports
+performance to the Executive Sustainability Committee. The
+Executive Sustainability Committee is chaired by the CEO and
+meets monthly. It includes the Executive Committee of SBU
+CEOs, and the chairpersons of 12 sustainability communities
+and is responsible for setting strategy, goals and targets,
+allocating resources, tracking project implementation, and
+reviewing performance against the Company’s sustainability
+agenda, including climate priorities. In addition, SBU ESG
+
+10
+
+Energy & Carbon
+Community Chaired by CEO,
+Power Business
+
+SBU-level ESG
+Committee Chaired by
+SBU CEO
+
+To support effective oversight, members of the Sustainability
+& ESG Committee and senior leadership continue to receive
+focused exposure to emerging sustainability topics through
+internal and external learning engagements. These have
+included themes such as climate change, risk management,
+responsible mining, health and safety, asset integrity,
+and evolving global frameworks including ICMM-related
+expectations. This continuous capability-building supports
+informed decision-making on climate strategy, performance,
+and risk oversight.
+
+Executive Level
+Sustainability Communities
+
+Energy and Carbon
+Community
+
+Water Management
+Community
+
+Waste to Wealth
+Community
+
+Biodiversity
+Community
+
+Central OH &
+Safety Council
+
+Finance
+Community
+
+Management Oversight
+
+Executive Sustainability
+Committee Chaired by CEO
+
+Committees, chaired by SBU CEOs and meeting monthly,
+support execution at the business and site level by identifying,
+analysing, mitigating and monitoring ESG and climate-related
+risks and actions. Climate and sustainability performance are
+further embedded into management accountability through
+periodic review mechanisms, enterprise risk oversight, and
+remuneration-linked sustainability performance.
+
+Sustainability
+Community
+
+Communication
+Community
+
+Supply Chain
+Community
+
+People
+Community
+
+CSR
+Community
+
+Social Performance
+Community
+
+Tailings Management
+Community
+
+11
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+CLIMATE GOVERNANCE
+AND ACCOUNTABILITY
+Hindustan Zinc’s climate governance is anchored in a three-tier structure that links Board oversight, executive accountability and
+business-level implementation. At the Board level, the Sustainability & ESG Committee provides focused oversight of climate
+strategy, decarbonisation performance, resource stewardship and wider sustainability priorities, while the Audit and Risk
+Management Committee oversees the integration of climate-related matters within the enterprise risk framework. At the executive
+level, the CEO-chaired Sustainability Committee serves as the primary management forum for translating Board direction into
+action, including approval and monitoring of climate initiatives, resource allocation and progress review. At the business level,
+SBU ESG Committees and cross-functional sustainability communities support implementation across operations and functions.
+The 12 sustainability communities currently cover Energy & Carbon, Waste to Wealth, Biodiversity, Water Management, Central
+Occupational Health & Safety Council, People, CSR, Supply Chain, Communication, Finance, Social Performance Management
+Committee, and Tailings Community, helping to embed climate and sustainability considerations into day-to-day decision-making.
+
+TIER 1
+
+Hindustan Zinc’s Climate Governance
+Component
+
+Scope /
+Applicability
+
+Mechanism
+
+Climate / ESG-linked
+Parameters
+
+Weighting /
+Structure
+
+Key Notes
+
+Annual
+Performance
+Bonus
+
+Employees
+including CEO,
+Executive
+Committee,
+senior
+management,
+and relevant
+business heads
+(e.g., Chief
+HSE&S, Power
+Business Head)
+
+Balanced
+scorecardbased annual
+variable pay
+
+Financial, operational,
+sustainability and strategic
+metrics; climate-linked
+parameters include absolute
+emissions reduction,
+energy consumption,
+water consumption, waste
+generation, sustainabilityrelated training, delivery
+of sustainability goals,
+low-carbon products,
+and climate-related index
+performance
+
+Illustrative
+performance split:
+Organisational
+parameters 60%,
+HSE parameters
+15%, People metrics
+5%, Individual
+performance 20%;
+Sustainability
+performance
+(as a part of HSE
+parameters) 10%
+of annual bonus
+outcomes
+
+Accountability
+linked to SAP scores;
+CEO ESG KPIs are
+cascaded through the
+Executive Committee
+and organisation;
+business heads’ KPIs
+include Net Zerolinked performance
+parameters
+
+HSE /
+Sustainabilitylinked annual
+bonus focus
+
+Relevant
+leaders and
+business heads
+
+Annual bonus
+/ performance
+management
+
+Health, safety and
+sustainability outcomes
+
+Embedded within
+Short-Term Incentive
+Plan framework
+(STIP)
+
+The employees and
+leaders are held
+accountable for the
+Company’s success
+in health, safety
+and sustainability
+through SAP-linked
+performance measures
+
+LTIP / ESOS
+
+Employees
+covered under
+long-term
+incentive
+structure
+
+Employee
+Stock Option
+Scheme (ESOS)
+with 36-month
+vesting
+
+Sustainability and climate
+goals; ESG / carbon
+footprint; energy efficiency;
+water efficiency; emission
+reduction targets; supply
+chain engagement; GHG
+transition; water positivity
+
+Climate change
+considerations
+(ESG / carbon
+footprint) 15% of
+ESG performance
+parameters
+
+Long-term incentives
+reward performance
+against predetermined criteria
+plus continued
+employment during
+vesting period
+
+Carbonfootprint
+performance
+within LTIP
+
+Long-Term
+Incentive
+Plan (LTIP)
+participants
+
+ESOS
+performance
+criteria
+
+Absolute emissions
+reduction; innovative
+technologies to reduce
+dependence on nonrenewable energy; improved
+energy efficiency
+
+Included within
+15% ESG / carbon
+footprint component
+
+Intended to align longterm remuneration
+with net-zero
+pathway delivery and
+broader sustainability
+outcomes
+
+Additional
+recognition
+/ non-core
+incentives
+
+Employees /
+Teams
+
+Recognition
+awards and
+internal
+incentives
+
+Innovative projects that
+reduce emissions and energy
+consumption; sustainability
+initiatives; EV uptake
+
+In addition to the
+formal remuneration
+weighting
+
+Includes examples
+such as Kaizen / FIP,
+Star of the Month,
+Chairman Award, and
+EV incentives
+
+Sustainability and ESG Committee of the Board
+
+TIER 2
+Sustainability Committee at Executive Level
+
+TIER 3
+SBU ESG Committee
+
+At the management level, execution is driven through the
+Executive Sustainability Committee and business-level ESG
+mechanisms that meet regularly to monitor implementation
+across energy and carbon, water, waste to wealth, tailings,
+supply chain, finance and operations. This structure supports
+clear ownership of climate-related actions, from renewable
+power integration and operational decarbonisation to climate
+data management and assurance readiness. Accountability is
+reinforced through sustainability-linked KPIs embedded into
+the performance evaluation of leadership, including CXOs and
+relevant business heads.
+Climate-related accountability is embedded within
+Hindustan Zinc’s remuneration framework. For FY2025-26,
+annual performance incentives, including those of the CEO,
+incorporated sustainability parameters through a balanced
+scorecard covering financial, operational, sustainability and
+strategic metrics, with appropriate weightage assigned to
+
+12
+
+organisational, people and individual performance. In addition,
+long-term incentive structures continued to consider broader
+ESG and carbon footprint objectives, supporting alignment with
+the Company’s climate commitments and wider sustainability
+goals.
+Every employee, including the CEO and relevant business heads
+such as the Chief HSE&S, Power business head & SBU CEO’s
+is eligible for incentive plans and is held accountable for the
+Company’s success in health, safety and sustainability through
+the Sustainability Assurance Programme (SAP) scores under
+HZL’s performance-based compensation structure. Further,
+the CEO’s ESG-related KPIs are cascaded to the Executive
+Committee and ultimately across the organisation, while
+the individual performance criteria of business heads also
+include KPIs linked to HZL’s Net Zero commitments and wider
+sustainability goals.
+
+Hindustan Zinc’s climate governance supports the identification
+and management of climate-related dependencies, impacts,
+risks and opportunities across direct operations and relevant
+parts of the value chain. Through Board committees, executive
+forums, sustainability communities and enterprise risk processes,
+HZL reviews how climate-related matters may affect operations,
+communities, natural resources, supply chains, customers and
+financial performance. Governance oversight therefore extends
+beyond emissions management alone to include scenario analysis,
+water and waste performance, transition planning, compliance
+obligations, external disclosure expectations, and progress
+against climate-related goals.
+
+Within this governance framework, management and oversight
+forums consider both climate-related dependencies and climaterelated impacts as inputs to risk and opportunity assessment.
+This includes how the Company depends on reliable energy
+access, water availability, ecosystem services, logistics continuity,
+workforce health and safety, and supply-chain stability, as well
+as how HZL’s operations and value chain may contribute to or
+influence emissions, natural resource use, waste generation,
+community outcomes and other environmental or social effects
+linked to climate change. These considerations are reviewed
+alongside scenario analysis, operational data, stakeholder
+inputs and enterprise risk processes to inform the identification,
+assessment and prioritisation of climate-related risks and
+opportunities.
+
+13
+
+
+Hindustan Zinc Limited
+
+CLIMATE SCENARIO
+ANALYSIS AND
+STRATEGIC RESILIENCE
+Hindustan Zinc’s climate strategy is designed to respond to the material risks and
+opportunities identified through the process detailed below while supporting
+long-term resilience and value creation. As a producer of zinc, lead and silver,
+metals with relevance to renewable energy systems, corrosion protection, energy
+storage and industrial transformation, the Company’s strategic approach rests on
+two complementary propositions: first, that climate-related risks must be actively
+managed across operations, infrastructure, supply chains and markets; and second,
+that sustainability leadership, low-carbon product innovation and resource-efficient
+operations can strengthen commercial resilience and long-term competitiveness in the
+transition to a lower-carbon economy.
+Climate scenario analysis remains an important input to HZL’s strategic planning and resilience assessment. The Company assesses climaterelated risks across both transition and physical pathways over short-, medium- and long-term horizons, where short term is up to 2 years,
+medium term is 3–5 years, and long term 6-20 years. In this context, 2030 is considered a medium-term reference point, while 2050 is
+treated as a long-term reference point. Management’s approach combines scenario analysis, sensitivity testing and stress-testing methods
+to understand how policy changes, energy transition dynamics, carbon constraints, water stress, extreme heat and weather-related
+disruption could affect operations, value creation and capital deployment.
+
+14
+
+Climate Action Report 2025-26
+
+PHYSICAL CLIMATE RISKS
+ACROSS OUR SITES
+A site-level physical climate risk assessment was undertaken for all
+of HZL’s operating locations using baseline hazard screening and
+future climate projections. The assessment covered water stress,
+drought, urban flooding / extreme rainfall, landslide, earthquake,
+extreme heat, and cyclone and wind hazards, and considered
+baseline conditions together with future projections for 2030 and
+2050 under SSP1-2.6, SSP2-4.5 and SSP5-8.5.
+Shared Socioeconomic Pathways (SSPs) are commonly used climate
+scenarios that combine assumptions about future socioeconomic
+development with associated greenhouse gas concentration
+pathways to test how climate-related risks may evolve over time.
+
+For this assessment, HZL considered SSP1-2.6, which is a Paris
+Aligned below 2 degrees scenario, SSP2-4.5, which represents an
+intermediate business-as-usual pathway with moderate mitigation
+and warming outcomes, and SSP5-8.5, which represents a higheremissions pathway associated with more severe warming and
+physical climate impacts. Under the SSP1-2.6, the physical impact
+is much lower than the other two scenarios and hence, we have
+prepared our adaptation strategy using the other two scenarios
+which helped the Company in assessing physical risk exposure
+under both a more moderate and a more severe climate future.
+
+The data sources for each hazard category are shown in the table below.
+
+Hazard
+
+Data Source
+
+Freshwater Scarcity
+
+WRI Aqueduct 4.0 Water Risk Atlas
+
+Drought
+
+WRI Aqueduct 4.0 Water Risk Atlas
+
+Urban Flooding
+
+Think Hazard
+
+Landslide
+
+The World Bank Data Catalogue
+
+Extreme Heat
+
+IPCC WGI Interactive Atlas
+
+Cyclone and Wind
+
+Building Materials and Technology Promotion Council (BMTPC)
+
+Earthquake
+
+Building Materials and Technology Promotion Council (BMTPC)
+
+15
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+The baseline table shows the current hazard profile by site and hazard type, while the future table summarises the overall outlook
+by site across future scenarios and timeframes. In these tables, green indicates low or no material hazard increase, amber indicates
+moderate concern or moderate increase, red indicates high hazard or significant increase, and grey indicates not applicable or
+projection not available.
+
+Risk
+Area
+
+Principal
+Climate Drivers
+
+Possible Implications Across Scenarios
+and Time Horizons
+
+Financial Metrics
+Potentially Affected
+
+Material
+supply
+
+Chronic water stress,
+rising temperatures /
+heat stress, extreme
+rainfall events and
+related logistics
+disruption. These drivers
+are relevant across most
+Rajasthan sites, where
+baseline water stress
+and extreme heat are
+already high, with future
+concern increasing
+further by 2050 under
+both SSP2-4.5 and SSP58.5.
+
+In the short to medium term, supply pressures may arise from
+tighter water availability, heat-related operating constraints and
+weather-related interruption to inbound movement of critical
+inputs, fuel and consumables. In the medium to long term,
+especially under higher-warming and higher-rainfall variability
+scenarios, there may be increased risk of supply disruption,
+reduced reliability of upstream material flows, higher cooling and
+water-management requirements, and greater infrastructure
+vulnerability affecting continuity of mining and smelting inputs.
+
+Revenue, production
+volumes, operating
+costs, input and logistics
+costs, working capital,
+EBITDA and cash flow.
+
+Operational
+disruption  
+
+Water stress, extreme
+heat, extreme rainfall /
+urban flooding
+
+In the short term, operational disruption may arise from heatrelated slowdowns, water shortages, power and equipment
+stress, and temporary weather-related interruptions which
+may cause damages and outages of critical electrical (motors,
+generators, cooling systems) and power (substations,
+transformers, transmission lines) infrastructure leading to
+operational downtime and damage to equipment In the
+medium term, the need for adaptation capex and resilience
+measures is expected to increase, including cooling systems,
+water infrastructure, drainage and site resilience. In the long
+term, particularly under SSP5-8.5 and 2050 conditions, higher
+temperatures and more severe rainfall variability could increase
+downtime, maintenance burdens, damage to site infrastructure,
+and constraints on production continuity across mining and
+smelting operations.
+
+Production, operating
+expenditure,
+maintenance cost,
+capital expenditure,
+asset integrity / asset
+value, EBITDA and
+insurance-related cost
+exposure.
+
+Market
+disruption
+
+Indirect effects of
+physical climate
+events on customers,
+logistics networks,
+downstream demand
+patterns and regional
+economic activity,
+combined with weatherrelated interruption to
+transport corridors and
+distribution channels.
+
+In the short term, extreme weather events may temporarily affect
+customer demand, product movement, dispatch schedules and
+demand forecasting. Additionally it could also lead to disruption
+to transport routes (maritime, rail, air and road access) and supply
+chain (supplies and critical spares and access to direct customers).
+In the medium to long term, under more severe physical-risk
+scenarios, greater disruption to transport infrastructure, regional
+industrial demand and downstream operations could affect sales
+timing, customer offtake patterns and market reliability. These
+effects may be more pronounced where physical events affect
+broader industrial ecosystems or export logistics.
+
+Revenue, sales volumes,
+realised margins,
+demand forecasting
+accuracy, receivables
+and cash flow timing.
+
+Workforce
+impacts
+
+Direct exposure to rising
+temperatures, heat
+waves and associated
+electricity demand
+for cooling. Extreme
+heat is already a high
+baseline hazard across
+all principal sites,
+with future concern
+worsening further by
+2050.
+
+In the short term, high temperatures can reduce labour
+productivity, increase fatigue, dehydration and heat-stress
+risk, and raise electricity use for cooling. In the medium term,
+prolonged heat exposure may require additional safety protocols,
+shift redesign, cooling investment and productivity management.
+In the long term, especially under higher-warming scenarios,
+rising temperatures in Rajasthan and other operating regions
+could contribute to higher attrition, reduced availability of skilled
+labour, increased workforce-related costs and pressure on
+operational continuity.
+
+Labour productivity,
+personnel costs, energy
+costs, health and safetyrelated expenditure,
+operating costs,
+production efficiency
+and EBITDA.
+
+Tailings
+Storage
+Facility
+(TSF)
+
+Extreme rainfall and
+flooding could impact
+the operations.
+
+Containment breach/failure due to extreme rainfall or flooding
+may cause erosion or geotechnical instability, potentially resulting
+in containment failure or breach.
+
+There may be negative
+financial consequences
+(operating expenditure,
+maintenance cost)
+catastrophic liability,
+loss of life, fines, legal
+damages in case of
+breach of tailings dam.
+
+Baseline
+Site
+
+Water
+Stress
+
+Wildfire
+
+Urban / Extreme
+Rainfall Flooding
+
+Landslide
+
+Extreme
+Heat
+
+Cyclone
+and Wind
+
+Zinc Smelter Debari (ZSD)
+Zawar Mine (ZM)
+Dariba Smelting Complex (DSC)
+Sindesar Khurd Mine (SKM)
+Rajpura Dariba Mine (RDM)
+Chanderia Lead Zinc Smelter (CLZS)
+Rampura Agucha Mine (RAM)
+Kayad Mine (KYD)
+Pantnagar Metal Plant (PMP)
+
+No Hazard - no material baseline hazard identified;
+Low - low baseline hazard / lower concern;
+
+ edium / Moderate - moderate concern
+M
+or moderate increase;
+High - high hazard or significant increase;
+
+Future
+Site
+
+SSP1-2.6
+2030
+
+SSP1-2.6
+2050
+
+SSP2-4.5
+2030
+
+SSP2-4.5
+2050
+
+SSP5-8.5
+2030
+
+SSP5-8.5
+2050
+
+Zinc Smelter Debari (ZSD)
+Zawar Mines (ZM)
+Dariba Smelting Complex (DSC)
+Sindesar Khurd Mine (SKM)
+Rajpura Dariba Mine (RDM)
+Chanderia Lead Zinc Smelter (CLZS)
+Rampura Agucha Mine (RAM)
+Kayad Mine (KYD)
+Pantnagar Metal Plant (PMP)
+
+No Hazard - no material baseline hazard identified;
+
+High - high hazard or significant increase;
+
+Low - low baseline hazard / lower concern;
+
+- not applicable or no data available;
+
+ edium / Moderate - moderate concern
+M
+or moderate increase;
+Note: In the future table, the traffic-signal summary reflects the highest overall level of physical climate concern at each site for
+the stated timeframe and scenario, based on projected change in hazard intensity and the site’s baseline risk context. Across most
+Rajasthan sites, water stress and extreme heat are already high under baseline conditions, while future concern increases are driven
+primarily by projected increases in extreme rainfall and heat, especially by 2050.
+
+16
+
+17
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+TRANSITION CLIMATE RISKS
+AND OPPORTUNITIES
+In addition to physical climate hazards, HZL faces a distinct set of transition-related risks and opportunities arising from policy
+change, technology evolution, energy-system decarbonisation, market expectations and stakeholder scrutiny. For a metals and
+mining business, these transition dynamics can affect cost competitiveness, capital requirements, product demand, customer
+relationships and long-term strategic positioning in different ways under different pathways. The assessment below therefore
+considers how major transition issues may evolve for HZL across relevant sites and operations under the IEA STEPS and NZE
+scenarios over medium- and longer-term horizons, while also highlighting where the same transition trend may create both risk and
+opportunity depending on the speed of response and the strength of HZL’s low-carbon positioning.
+
+1. Stated Policies Scenario (STEPS)
+The Stated Policies Scenario (STEPS) is an exploratory roadmap
+that models where the global energy system is actually heading
+based on currently enacted laws, industrial targets, and firm
+government plans rather than vague, aspirational promises.
+Under this realistic outlook, global demand for coal, oil, and
+natural gas all peak before or around 2030, driven by a rapid
+acceleration of clean energy tech like electric vehicles and
+solar power. However, because current global policies lack the
+aggressive enforcement needed for a deep climate transition,
+greenhouse gas emissions decline far too slowly after their peak,
+setting the world on a trajectory toward an estimated global
+temperature rise of roughly 2.5°C by 2100.
+
+2. Net Zero Emissions by 2050
+Scenario (NZE)
+The Net Zero Emissions by 2050 Scenario (NZE) is a strict, goaloriented roadmap that works backward from a specific target
+to outline a narrow but technically feasible pathway for limiting
+long-term global warming to 1.5°C. To achieve net-zero CO2
+emissions across the global energy sector by mid-century, this
+pathway demands an immediate, unprecedented structural shift
+where global fossil fuel demand plummets by 80% by 2050 and
+no new unabated coal plants or oil and gas fields are approved.
+It requires a massive surge in clean energy investment to triple
+global renewable capacity by 2030, double energy efficiency
+improvements, and rapidly deploy carbon-removal technologies
+to correct a minor mid-century temperature overshoot.
+
+Transition Risk / Opportunity Area
+
+Operational Relevance / Principal
+Sites
+
+Carbon pricing, CBAM and policy
+compliance risk :
+Policy and legal transition risk linked
+to EU / UK CBAM, possible domestic
+carbon pricing and tighter disclosure
+expectations.
+
+Indirectly relevant across all operations
+supplying export-linked or globally
+exposed value chains, including zinc
+and silver production and marketing
+activities.
+
+Renewable procurement and energy
+transition compliance :
+Risk and opportunity linked to
+Renewable Purchase Obligations, clean
+electricity sourcing and electricitysystem decarbonisation.
+
+Relevant across all sites, with greatest
+operational importance for smelters
+and power-intensive facilities such as
+CLZS, DSC, ZSD and PMP.
+
+Low-carbon technology adoption :
+Technology transition risk linked to
+future adoption of CCUS, hydrogen,
+biofuels, storage and process redesign
+options for residual emissions
+abatement.
+
+Relevant across all mining and smelting
+operations, with medium- to long-term
+implications for power, process heat
+and hard-to-abate emissions sources.
+
+Coal availability and fossil-fuel cost
+exposure :
+Market transition risk linked to coalmarket tightening, fuel price volatility
+and higher-cost fossil dependence
+under a changing energy system.
+
+Most relevant to captive power
+operations and energy-intensive sites
+with residual coal dependence.
+
+18
+
+IEA STEPS
+2030
+
+IEA STEPS
+2050
+
+IEA NZE
+2030
+
+IEA NZE
+2050
+
+Transition Risk / Opportunity Area
+
+Operational Relevance /
+Principal Sites
+
+Customer shift toward low-carbon
+materials :
+Market risk and opportunity linked
+to rising customer preference for
+low-carbon products and embeddedcarbon transparency.
+
+Relevant across all zinc and silver
+operations, especially product lines and
+customer segments exposed to lowcarbon procurement requirements.
+
+Climate action expectations and
+reputation :
+Reputational risk linked to stakeholder
+expectations for climate action, target
+delivery, transparency and responsible
+mining performance.
+
+Relevant across all operations and
+corporate functions, including investor,
+customer, lender and communityfacing interfaces.
+
+Low-carbon zinc and differentiated
+product opportunity :
+Product and service opportunity linked
+to EcoZen and broader demand for
+lower-carbon metals in customer value
+chains.
+
+Most relevant to zinc production and
+downstream customer-facing product
+strategy.
+
+Water and resource-efficiency
+opportunity :
+Operational opportunity linked to
+ZLD, dry tailings, recycling, rainwater
+harvesting and water positivity
+performance.
+
+Relevant across all sites, with particular
+resilience value in Rajasthan operations
+facing chronic water stress.
+
+Renewable energy transition
+opportunity :
+Energy-source opportunity linked to
+the 530 MW RE-RTC arrangement,
+lower emissions intensity and reduced
+long-term energy-cost exposure.
+
+Relevant across all sites, with especially
+strong implications for power-intensive
+smelting and refining operations.
+
+Metal demand growth from clean
+energy markets :
+Market opportunity linked to rising
+demand for zinc and silver in solar,
+wind, storage, electrification and
+corrosion-protection applications.
+
+Relevant to all zinc and silver
+production, with upside for commercial
+positioning and long-term demand
+growth.
+
+IEA STEPS
+2030
+
+IEA STEPS
+2050
+
+IEA NZE
+2030
+
+IEA NZE
+2050
+
+For opportunity rows, green means stronger opportunity; for risk rows, green means lower risk.
+moderate, mixed or emerging exposure;
+higher risk exposure, stronger urgency or more material transition pressure
+
+Note: The transition traffic-light assessment is directional and is intended to show how the relative importance of major transition
+risks and opportunities may evolve for HZL under the IEA’s Stated Policies Scenario (STEPS) and Net Zero Emissions by 2050 Scenario
+(NZE), as described in the World Energy Outlook (https://www.iea.org/reports/world-energy-outlook-2025) Under STEPS, current
+policy settings continue to tighten gradually and support ongoing electrification, renewable growth and moderate fossil-fuel decline,
+while under NZE, faster policy action, stronger carbon constraints, lower fossil-fuel demand and faster clean-energy deployment
+create both higher transition pressure and stronger low-carbon market opportunity for HZL. In this table, red indicates relatively
+higher transition risk exposure or urgency, amber indicates moderate or mixed exposure, and green indicates lower risk or stronger
+opportunity positioning depending on the item assessed. The IEA’s scenarios are scenario pathways rather than forecasts, but they
+provide a useful basis for testing strategic resilience, energy-cost exposure and market positioning over time.
+
+19
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+Risk and Implications
+Risk area
+
+Principal
+climate drivers
+
+Possible implications across scenarios
+and time horizons
+
+Financial metrics
+potentially affected
+
+Carbon policy,
+CBAM and
+disclosure
+compliance
+
+Carbon pricing, border
+adjustment mechanisms,
+tighter regulatory
+requirements, cleanenergy mandates and
+rising expectations for
+emissions transparency
+and product-level carbon
+data.
+
+In the short to medium term, HZL may face higher
+compliance, disclosure and data-management
+requirements, particularly in export-linked or globally
+exposed value chains. Under IEA STEPS, these effects are
+expected to build progressively over time, while under
+IEA NZE they could accelerate more quickly and create
+stronger cost pressure, competitive differentiation and
+customer scrutiny by 2030 and beyond. In the long term,
+exposure may extend to carbon-cost pass-through, product
+competitiveness and the ability to maintain market access
+where embedded-carbon transparency becomes a baseline
+expectation. For India, IEA recommended Carbon Price
+by 2035 under NZE is $1251 hence decarbonisation will
+become increasingly important to gain a social license to
+operate new greenfield projects and for existing operations
+to remain profitable.
+
+Operating costs,
+compliance
+costs, realised
+margins, export
+competitiveness,
+revenue, EBITDA and
+working capital.
+
+Energy transition
+and coal / power
+cost exposure
+
+Renewable Purchase
+Obligations, power-system
+decarbonisation, changing
+fossil-fuel economics,
+coal availability and price
+volatility, and shifting
+cost competitiveness
+between conventional
+and renewable energy
+sources.
+
+In the short term, HZL may face compliance and
+procurement costs associated with renewable power
+sourcing as well as cost volatility from residual coal
+dependence in power-intensive operations. In the medium
+term, renewable procurement and system integration
+can become a source of cost resilience, especially as the
+530 MW RE-RTC arrangement scales. Under IEA NZE, the
+pace of energy-system transition increases, which may
+intensify the cost disadvantage of fossil-based power while
+strengthening the long-term financial case for renewable
+integration. In the long-term, sites that remain more
+exposed to carbon-intensive power or fossil-fuel volatility
+could face higher operating-cost pressure than sites
+benefitting from lower-cost clean electricity.
+
+Energy costs, fuel
+costs, operating
+expenditure, capital
+expenditure, margin
+resilience, EBITDA
+and cash flow.
+
+Technology
+transition and
+abatement
+investment
+
+Need for emerging
+technologies such as
+CCUS, hydrogen, biofuels,
+storage, process redesign
+and other hard-to-abate
+emissions solutions as the
+transition deepens.
+
+Near-term implications are likely to be limited to
+evaluation, pilots and strategic readiness, but medium- and
+long-term implications could become more material as
+residual emissions reduction becomes harder and customer
+or policy expectations increase. Under STEPS, the need
+for deployment may emerge gradually over the longer
+term; under NZE, faster decarbonisation pressure could
+accelerate the timing of investment decisions, technology
+partnerships and process upgrades. The transition
+may therefore create both risk, through higher capital
+requirements, and opportunity, through innovation-led
+competitiveness and lower future compliance exposure.
+
+Capital expenditure,
+R&D expenditure,
+asset life
+assumptions,
+operating costs,
+emissions
+abatement cost and
+long-term margin
+profile.
+
+Global Energy and Climate Model
+
+1
+
+Risk area
+
+Principal
+climate drivers
+
+Possible implications across scenarios
+and time horizons
+
+Financial metrics
+potentially affected
+
+Market positioning,
+customer
+preference and
+reputation
+
+Growing demand for
+low-carbon materials,
+customer preference
+shifts, embeddedcarbon scrutiny, investor
+and stakeholder
+expectations, and
+pressure to demonstrate
+credible climate action
+and responsible mining
+performance.
+
+In the short term, these drivers may affect brand
+perception, customer engagement and disclosure
+expectations. In the medium term, HZL’s ability to
+demonstrate credible progress through EcoZen, low-carbon
+logistics, renewable energy integration and ICMM-aligned
+responsible mining positioning may influence customer
+retention and market differentiation. Under IEA NZE,
+low-carbon product demand and embedded-emissions
+expectations are expected to strengthen more rapidly,
+which may create higher upside for differentiated products
+but also greater downside for producers unable to show
+progress. In the long term, market share, pricing power
+and strategic relevance in cleaner industrial value chains
+may increasingly depend on the strength of HZL’s transition
+narrative and product offering.
+
+Revenue, realised
+price / premium
+potential, market
+share, customer
+retention, brand
+value and EBITDA.
+
+Transition
+opportunities
+in low-carbon
+products, resource
+efficiency and
+clean-energy
+markets
+
+Growing clean-energy
+demand for zinc and
+silver, low-carbon product
+differentiation through
+EcoZen, renewable
+power integration,
+water recycling and
+conservation, circularity,
+and rising demand for
+resource-efficient, lowercarbon materials.
+
+In the short to medium term, opportunities arise from
+premium or preferred positioning for EcoZen, cost savings
+from renewable energy and water efficiency, and stronger
+market relevance in low-carbon procurement contexts. In
+the medium to long term, HZL may benefit from structural
+growth in demand for zinc and silver used in solar,
+wind, storage, electrification and corrosion protection
+applications. Under STEPS, opportunity growth may be
+progressive but moderate; under NZE, faster clean-energy
+deployment and stronger decarbonisation commitments
+could amplify demand, expand addressable markets and
+strengthen the value of HZL’s low-carbon and resourceefficient operating model. These opportunity pathways
+may become increasingly strategic by 2030 and beyond,
+particularly if combined with continued improvement in
+emissions intensity and product transparency.
+
+Revenue growth,
+premium realisation,
+operating-cost
+savings, margin
+expansion, EBITDA,
+return on capital and
+long-term enterprise
+value.
+
+The scenario analysis described in this report is used not only
+to understand climate resilience, but also to inform strategic
+decision-making, capital planning and risk prioritisation.
+Under transition-aligned scenarios, HZL focuses on renewable
+power integration, low-carbon product positioning, cleaner
+logistics, energy efficiency and future technology readiness.
+Under higher physical-risk scenarios, HZL prioritises water
+resilience, infrastructure robustness, workforce protection and
+adaptation-related investment. These scenario outputs are
+intended to help management evaluate the extent to which the
+Company’s strategy and business model remain resilient under
+climate-related uncertainty and to guide the sequencing of
+mitigation and adaptation actions.
+HZL’s climate strategy is also opportunity-led. The Company
+sees a structural increase in demand for metals that support
+electrification, renewable energy infrastructure, corrosion
+protection, and energy storage. This strengthens the strategic
+
+20
+
+relevance of zinc and silver in particular. HZL is therefore
+positioning climate action not merely as risk management,
+but as a source of competitive advantage through lowercarbon products, stronger sustainability credentials, resource
+efficiency, and differentiated customer partnerships.
+EcoZen remains a flagship example of this positioning. As Asia’s
+first low-carbon zinc product, with a carbon footprint of less
+than 1 tCO2e per tonne of zinc and approximately 75% lower
+than the global average, EcoZen helps customers decarbonise
+downstream value chains and prepare for increasing market
+scrutiny around embedded emissions. The reported commercial
+adoption through companies in India illustrates how climatelinked product innovation can support growth, customer
+relevance, and pricing or positioning advantages. HZL also
+continues to grow its broader value-added portfolio and pursue
+opportunities linked to zinc-based energy storage technologies
+and low-carbon industrial applications.
+
+21
+
+
+Hindustan Zinc Limited
+
+Climate Action Report 2025-26
+
+FINANCIAL QUANTIFICATION
+HZL undertook a quantitative assessment of one transition
+opportunity, and one physical risk to understand their potential
+financial implications under different climate scenarios. The
+transition opportunity assessed was the growing market
+demand for HZL's low-carbon zinc product, EcoZen, while the
+physical risk evaluated was water stress across operating
+facilities.
+The analysis was conducted using two International Energy
+Agency (IEA) climate scenarios: the Stated Policies Scenario
+(STEPS), representing a business-as-usual pathway, and the
+Net Zero Emissions by 2050 Scenario (NZE), representing a
+low-carbon transition pathway. Impacts were assessed across
+short-, medium-, and long-term time horizons.
+
+Under the STEPS scenario, where limited global decarbonisation
+occurs, HZL's production is projected to grow steadily over the
+forecast period, reaching its planned long-term production
+capacity, after which output is expected to remain relatively
+stable through the end of the assessment horizon.
+Under the NZE scenario, if HZL does not implement its planned
+carbon reduction initiatives, the average impact on EBITDA
+across the assessed time horizons corresponds to a Low Risk
+rating under the Enterprise Risk Management (ERM) framework.
+However, when carbon reduction initiatives are considered,
+the impact on EBITDA becomes negligible, demonstrating the
+effectiveness of HZL's decarbonisation strategy in mitigating
+transition-related financial risks.
+
+TRANSITION PLAN AND
+DECARBONISATION PATHWAY
+The Company’s transition plan is anchored in a mix of renewable energy procurement, operational efficiency, fuel switching,
+electrification, process optimisation, circularity, low-carbon logistics, product innovation, and future enabling technologies.
+The 530 MW renewable energy arrangement remains central to this pathway and is intended to materially reduce dependence
+on carbon-intensive power sources. During FY2025-26, 892 MU of renewable power was consumed, contributing to an estimated
+emissions reduction of 0.83 million tCO2e. The Company continues to target 70% renewable power by FY2028.
+
+2030
+Scope 1 & 2: 50% reduction
+
+Net Zero GHG emissions
+
+Scope 3: 25% reduction
+
+• Achieve 100% firm, round-the-clock renewable electricity
+
+• Integrate low-carbon zinc products into the portfolio by
+capitalising on growth in renewable energy markets.
+• Source 70% of electricity from renewable sources by FY2028,
+reducing power-related GHG, SOₓ and NOₓ emissions.
+
+Physical Risk Assessment –
+Water Stress
+
+Water stress was assessed using SSP2-4.5 and SSP5-8.5
+physical-climate projections for 2030 and 2050. SSP2-4.5
+represents a moderate pathway, while SSP5-8.5 reflects
+a severe physical-risk scenario. Based on projected
+water-stress conditions and site-level exposure, based on
+the assessment, the potential impact on EBITDA before
+adaptation measures is classified as Low Risk in accordance
+with the ERM framework. Following implementation of
+measures such as treated water use, water recycling, Zero
+Liquid Discharge, filtered tailings, rainwater harvesting, and
+water infrastructure improvements, the residual EBITDA
+impact is expected to be negligible.
+
+Transition Opportunity –
+EcoZen
+
+HZL continues to strengthen its commitment to the
+production and promotion of EcoZen, its low-carbon zinc
+product. As global economies transition towards a lowcarbon future, demand for low-carbon metals is expected
+to increase significantly. Under the NZE scenario, EcoZen is
+projected to experience substantial market growth, as more
+and more customer demand for low carbon products, as
+compared to BAU STEPS scenario. This positions EcoZen as a
+strategic growth opportunity for HZL, enabling the Company
+to capitalise on evolving customer preferences and growing
+demand for sustainable materials in a decarbonising
+economy.
+
+2050
+
+• Implement energy-efficiency measures to reduce energy
+consumption.
+• Drive product innovation to enhance recyclability and reduce
+emissions during product use.
+• Establish India’s first zinc tailings reprocessing plant at Rampura
+Agucha to recover zinc and silver from historical tailings.
+• Engage suppliers to reduce emissions from purchased goods.
+
+across all sites.
+• Transition completely to electric or hydrogen-powered
+vehicles.
+• Use green hydrogen as a substitute for coke as a reducing
+agent.
+• Increase the use of secondary materials in production.
+• Offset residual GHG emissions.
+• Deploy Direct Air Capture and CCUS technologies to capture
+residual emissions.
+• Collaborate with battery manufacturers to advance zinc-based
+batteries.
+
+• Deploy electric and alternate-fuel vehicles, including LNG, for
+logistics and finished goods transportation.
+• Increase renewable energy reliance to reduce Scope 3 Category
+3 emissions.
+• Engage value-chain partners committed to achieving Net Zero.
+– Growth in value-added and low-carbon products such
+as EcoZen and solutions that support customers’ own
+decarbonisation pathways
+
+22
+
+23
+
+
+Hindustan Zinc Limited
+
+VALUE CHAIN
+RISK ASSESSMENT
+This value chain assessment builds on the scenario-based analysis by considering how
+climate-related physical and transition pressures may affect suppliers, logistics partners
+and customers beyond HZL’s owned operations. It also complements the climate risk
+register by highlighting where upstream and downstream exposures, dependencies and
+opportunities may require management attention, collaboration or targeted response
+across the broader value chain.
+
+Climate Action Report 2025-26
+
+SUPPLIER RISK ASSESSMENT
+As part of its broader climate-related value chain assessment, HZL considers the resilience and climate performance of key upstream
+categories relevant to operations, emissions and procurement continuity. The upstream value chain is particularly important
+because purchased goods and services, fuel- and energy-related activities, transportation and distribution, and critical operational
+inputs can all influence Scope 3 emissions, cost exposure and business resilience. Consistent with the logic applied in the previous
+Climate Action Report, HZL integrates climate-related considerations into its supplier assessment and due diligence processes to
+identify suppliers exposed to climate-related risks. Through sustainability assessments, supplier engagement, and environmental
+performance disclosures, HZL evaluates climate resilience across its supply chain. These assessments help strengthen supply
+chain resilience in support of HZL's climate ambitions. The assessment covers 14 critical upstream suppliers and their sites, each
+contributing 2% or more to total spend.
+HZL methodology to assess supplier risks: HZL used the WWF’s Biodiversity risk filter to identify climate-related impact and
+dependencies of our suppliers. Using the said filter, we were able to sort the suppliers based in terms of different risk factors on
+overall very high-risk, high-risk, medium-risk, low-risk and very low-risk
+
+Number of Supplier Sites Under Different Risk Level
+9
+
+Reputational Risk
+
+5
+
+1
+
+Pollution
+
+13
+2
+
+Cyclones
+
+1
+
+Flooding
+
+10
+
+4
+
+Extreme Heat
+
+10
+
+4
+
+3
+
+Wildfire Hazard
+
+8
+14
+
+Landslides
+Air Quality
+
+7
+
+Water Availability
+
+Low ·
+
+7
+11
+
+Water Condition
+
+Very Low ·
+
+3
+
+1
+
+Medium ·
+
+3
+12
+
+High ·
+
+1
+
+Very High
+
+Note: The total may not equal 14 across all risks, as certain risks may not be applicable to every site. Accordingly, the number of risks
+identified and assessed may vary by site.
+We are currently in the process of evaluating the impact of the
+identified climate-related risk and opportunities of our supply
+chain. Having a diverse set of operations, we are working
+towards creating a synergy with our value chain partners on
+decarbonisation.
+Suppliers identified under the High and Very High risk categories
+are prioritised for enhanced engagement and due diligence. HZL
+works closely with these suppliers to understand the underlying
+
+24
+
+risk drivers, communicate sustainability and responsible
+sourcing expectations, and develop time-bound corrective
+action plans.
+Persistent non-compliance or failure to demonstrate
+improvement may result in escalation measures in line with
+HZL’s Supplier Code of Conduct and procurement governance
+framework.
+
+25
+
+

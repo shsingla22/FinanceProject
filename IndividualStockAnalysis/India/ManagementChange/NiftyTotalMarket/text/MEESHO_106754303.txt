@@ -1,0 +1,1517 @@
+MEESHO LIMITED
+(Formerly known as “Meesho Private Limited” and “Fashnear Technologies Private Limited”)
+
+CIN: L74900KA2015PLC082263
+Registered Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village,
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103
+T: +91 9108021923 | E: cs@meesho.com | W: www.meesho.com
+
+August 24, 2026
+To,
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (East), Mumbai - 400 051
+Symbol: MEESHO
+
+To,
+Department of Corporate Services
+BSE Limited
+Phiroze Jeejeebhoy Towers, Dalal Street,
+Mumbai - 400 001
+Scrip Code: 544632
+
+Dear Sir / Madam,
+Subject: Notice of 11th Annual General Meeting and Annual Report for Financial Year 2025-26
+Ref: Disclosure under Regulation 30 and 34(1) of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 as amended (“SEBI Listing Regulations”)
+Pursuant to Regulations 30 and 34(1) of the SEBI Listing Regulations, we wish to inform you that the 11th Annual General
+Meeting (“AGM”) of the Meesho Limited (the “Company”) is scheduled to be held on Friday, September 18, 2026, at 12:00
+noon (IST) through Video Conferencing /Other Audio-Visual Means (“VC/OAVM”), in accordance with the applicable
+circulars issued by the Ministry of Corporate Affairs and the Securities and Exchange Board of India.
+In this regard, please find enclosed the Annual Report of the Company for the Financial Year 2025-26, including the Notice
+convening of the 11th AGM and other statutory reports.
+The Notice of the AGM and the Annual Report are being sent through electronic mode to those Members whose names appear
+in the Register of Members/List of Beneficial Owners as on Friday, August 21, 2026, and whose e-mail addresses are registered
+with the Company/KFin Technologies Limited, the Registrar and Transfer Agent (“KFin” or “RTA”)/Depository
+Participant(s) (“DPs”)/Depositories.
+Further, in accordance with Regulation 36(1)(b) of the SEBI Listing Regulations, the Company is also sending a letter to those
+Members whose e-mail addresses are not registered with the Company/RTA/DPs/Depositories, providing the web-link and
+QR code to access the Annual Report and Notice of the AGM on the Company's website.
+The Company has engaged KFin as the agency for providing the e-voting facility. The Company is providing the facility of
+remote e-voting and e-voting during the AGM to its Members in respect of all the resolutions set forth in the Notice of the
+AGM. The Notice, inter alia, contains detailed instructions for remote e-voting, attending the AGM through VC/OAVM and
+registration of e-mail addresses by the Members.
+Members holding shares as on Friday, September 11, 2026, (“Cut-off date”), shall be entitled to cast their votes
+electronically on the resolutions set out in the Notice of the AGM. The remote e-voting shall commence from 9:00 A.M.
+(IST) on Sunday, September 13, 2026, and shall remain open till 5:00 P.M. (IST) on Thursday, September 17, 2026.
+The aforesaid information including the Notice of the AGM and the Annual Report for the Financial Year 2025-26 will also
+be made available on the Company’s website at: https://investor.meesho.com/
+You are requested to take the above information on record.
+Thanking you,
+For Meesho Limited
+(Formerly known as Meesho Private Limited and Fashnear Technologies Private Limited)
+Digitally signed by
+
+RAHUL
+RAHUL BHARDWAJ
+2026.08.24
+BHARDWAJ Date:
+15:20:11 +05'30'
+
+Rahul Bhardwaj
+Company Secretary and Compliance Officer
+Membership No.: A41649
+Encl: As above
+
+
+
+Particulars of Index
+Corporate Overview & Meesho’s Business
+
+Statutory Reports
+
+Financial Statements
+
+What we
+are building...........02
+
+Our Transaction
+Model.......................11
+
+Key
+Metrics.....................19
+
+Management Discussion
+and Analysis............................................ 30
+
+Independent Auditor’s
+Report on Consolidated
+Financial Statements....................... 150
+
+Our
+Ecosystem..............05
+
+CEO’s
+Letter........................12
+
+Board of
+Directors.................24
+
+Board’s Report
+and its Annexures................................ 36
+
+Consolidated
+Financial Statements........................ 158
+
+Our
+Platform..................09
+
+CTO’s
+Letter........................16
+
+Corporate
+Governance Report............................ 70
+
+Independent Auditor’s
+Report on Standalone
+Financial Statements........................ 241
+
+Business Responsibility and
+Sustainability Report (BRSR)..... 100
+
+Standalone
+Financial Statements....................... 252
+Notice of the Annual
+General Meeting................................333
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Statutory Reports
+
+Financial Statements
+
+What We Are Building
+Who we are
+We are a multi-sided technology platform driving e-commerce in India,
+connecting four key stakeholders.
+Consumers
+
+Sellers
+
+Our platform is built to make e-commerce affordable,
+accessible, and engaging for all consumer segments,
+anchored on ‘Everyday Low Prices’. Technology-first
+operations and platform scale enable low-cost fulfilment
+for sellers, and combined with our zero-commission model,
+allow us to offer a wide assortment from unbranded and
+regional products to national brands at affordable prices.
+Our Artificial Intelligence/Machine Learning (AI/ML)-led
+algorithms power a personalised, discovery-led shopping
+experience that mirrors offline window shopping, making
+online shopping easy and engaging.
+
+reliability, scalability, and efficiency. Every interaction
+generates data that feeds our AI systems, powering
+hyper-personalised recommendations, dynamic pricing,
+automated cataloguing, transaction risk management, and
+logistics optimisation.
+We monetise through services provided to sellers from
+order fulfilment, advertising to data insights while
+charging no commission to sellers and no platform fees
+to consumers.
+
+Technology is the backbone of our platform, enabling
+e-commerce at population scale across India. Our modular
+architecture orchestrates stakeholder interactions with
+
+Logistics Partners
+02
+
+Content Creators
+03
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Statutory Reports
+
+Financial Statements
+
+Our Ecosystem
+Our Mission
+Our mission is to democratise internet commerce for everyone.
+For us, that means removing the barriers that have
+historically limited participation in e-commerce. We
+believe access to e-commerce should not be determined
+by income levels, geography, language, or technical
+expertise. A consumer in a rural village should have the
+same depth of choice as one in the large city, rather than
+being limited to whatever the local market happens to
+stock. A business owner should be able to reach
+customers across India without significant upfront
+investment. A logistics entrepreneur or content creator
+should be able to participate in the growth of e-commerce
+regardless of scale. Each barrier we remove brings more
+people into the market, and over time that grows the
+market itself.
+
+Technology is the foundation that makes this possible.
+An accessible and affordable platform brings consumers,
+sellers, logistics partners and content creators into a single
+ecosystem where each participant strengthens the value
+proposition for the others; a new seller widens the choice
+a consumer sees, a new consumer enlarges the market
+a seller can reach, and a denser logistics network makes
+serving both cheaper and more reliable. Today, Meesho
+connects over 264 million Annual Transacting Users
+with more than 961k active sellers, supported by over
+18k logistics partners, and 63k content creators across
+India. Together, they form one of the largest e-commerce
+ecosystems in the country and advance our mission of
+democratising internet commerce for everyone.
+
+Consumers
+Consumers are the starting point of the
+Meesho ecosystem.
+As more users transact on the platform, sellers gain
+access to a larger demand base, logistics partners benefit
+from higher volumes, and content creators find greater
+opportunities to engage and influence purchase decisions.
+Meesho remains India’s most downloaded shopping
+app, driven by our continued focus on accessibility and
+affordability for Bharat. Our Annual Transacting User
+base grew 33.0% YoY to 264 million in FY26, continuing a
+multi-year trend of accelerating user growth. A significant
+proportion of these users come from Tier 2+ markets,
+many of whom are participating in e-commerce for the
+first time.
+
+Our technology-led discovery experience,
+personalised recommendations, and content
+commerce ecosystem help consumers find
+relevant products, while our broad assortment
+spanning unbranded products, regional brands,
+and national brands through Meesho Mall ensures
+wide choice across price points. Combined
+with our focus on everyday low prices, this
+makes online commerce more accessible to
+Indians consumers.
+
+04
+
+Annual Transacting Users
+(in million)
+
+33.0%
+
+27.7%
+14.1%
+
+136
+
+264
+
+199
+
+156
+
+As trust in the platform grows, consumers
+expand into more categories and transact more
+frequently over time. This deepening engagement
+drives demand across the marketplace and
+advances our mission of democratising internet
+commerce for everyone.
+
+05
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Sellers
+Our active seller base grew 87.0% YoY to 961k in FY26,
+reflecting the increasing attractiveness of Meesho as a
+platform for entrepreneurs across India. These sellers span
+a diverse range of categories including apparel, footwear
+and accessories, home, kitchen and furnishings, kids and
+baby products, and beauty and personal care.
+
+Our platform simplifies the selling journey, with
+AI-powered cataloguing, demand intelligence,
+and automated advertising solutions which help
+sellers improve discovery of their products and
+grow their business. Sellers also benefit from
+access to our creator ecosystem, which drives
+content-led product discovery and incremental
+demand for their listings.
+
+06
+
+Statutory Reports
+
+Financial Statements
+
+Logistics Partners
+We pioneered a zero-commission model that enables
+sellers to participate in e-commerce without the
+commission structures traditionally charged by online
+marketplaces. Combined with low-cost order fulfilment,
+this makes Meesho one of the most economical
+platforms to sell on in India and lowers the barriers to
+entrepreneurship for businesses of all sizes.
+
+Our logistics ecosystem comprises first and last mile
+delivery partners, sorting centres, truck operators, and
+end-to-end logistics providers. As order volumes on the
+platform continue to grow, logistics partners benefit from
+access to a large and expanding pool of e-commerce
+demand across India.
+Orders on Meesho are fulfilled either through Valmo,
+our proprietary technology platform that orchestrates
+fulfilment across a multi-partner logistics network,
+or directly through end-to-end logistics partners. By
+aggregating demand and intelligently routing shipments
+across multiple participants, Valmo improves asset
+utilisation and enables efficient fulfilment at scale.
+
+As more sellers join the platform, assortment
+expands, consumer choice improves, and the
+marketplace becomes increasingly relevant to a
+wider set of shopping needs.
+Importantly, Valmo lowers barriers to participation
+by allowing logistics providers without end-toend capabilities to participate in the growth of
+e-commerce. This expands earning opportunities
+for a broader set of logistics entrepreneurs while
+increasing network capacity, coverage, and
+resilience for the platform.
+
+As the logistics network grows, fulfilment
+becomes more efficient, delivery reach expands,
+and service quality improves for both consumers
+and sellers.
+
+07
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Statutory Reports
+
+Financial Statements
+
+Our Platform
+Content Creators
+
+Our platform is built on multiple scaled self-reinforcing flywheels
+orchestrating transactions amongst our four key stakeholders.
+
+As shopping becomes increasingly discovery-led, content
+has emerged as a powerful bridge between consumers
+and products. Rather than searching for a specific item,
+consumers are increasingly discovering products through
+videos, recommendations, and demonstrations that help
+build trust and purchase intent.
+
+Commerce Flywheel
+At the core of our platform is our commerce flywheel.
+Consumers transact on Meesho because of the wide
+assortment of products that are available at affordable
+prices. As more consumers transact and order volumes
+increase, more sellers are attracted to Meesho. This
+encourages sellers to list more products on Meesho and
+price their products competitively.
+
+Logistics Flywheel
+
+Meesho enables this shift through its growing
+creator ecosystem. Content creators produce
+short-form videos on both the Meesho app
+and third-party platforms, helping consumers
+discover, evaluate, and purchase products in a
+more engaging and immersive manner. In turn,
+creators are able to monetise their influence by
+earning commissions on sales generated through
+their content.
+
+As order volumes on Meesho increase, it helps logistics
+partners better utilise their capacity, improve the density
+of fulfilment, and reduce the price of their services on
+a per-order basis. On Valmo (the technology of which
+is housed in our Company), logistics partners who may
+not have been able to service e-commerce orders
+because they did not have end-to-end capabilities, can
+come together to jointly service e-commerce orders.
+With reducing fulfilment costs, we are able to reduce
+the average cost charged to sellers, enabling them
+to price their products more competitively and list
+lower-value products on Meesho, which in turn attracts
+more consumers.
+
+In FY26, we enabled 63,213 Active Content
+Creators who generated over 1.4 million pieces of
+order-generating content on a cumulative basis.
+As our creator ecosystem expands, consumers
+benefit from richer product discovery experiences
+while sellers gain new channels to reach and
+convert potential customers.
+
+Content Commerce Flywheel
+We have activated a content commerce flywheel that
+enhances product discovery and engagement on
+Meesho. Content creators are attracted to Meesho as
+we offer them an avenue to monetise their creativity by
+promoting our sellers’ products. With increasing content
+volumes on Meesho, product discovery becomes better,
+further increasing order volumes and reinforcing the
+commerce flywheel.
+
+08
+
+09
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Content
+Commerce
+Flywheel
+
+Commerce
+Flywheel
+
+Better Pricing and
+Assortments
+
+More
+Sellers
+
+Better
+Discovery
+
+Consumers pay via prepaid or cash on delivery, with no
+platform fees charged, consistent with our goal of making
+e-commerce affordable and accessible. We charge sellers
+no commissions, only fees for services such as order
+fulfilment, returns, and advertisements. Logistics partners
+handle pickup, transportation, and last-mile delivery, with
+fulfilment fees collected from sellers (reported under
+
+Annual Transacting
+Users
+
+961k
+
+Annual Transacting
+Sellers
+
+63k
+
+Active Content
+Creators
+10
+
+Revenue from operations – Marketplace) and paid out
+based on parcel weight, distance, and payment mode.
+Content creators drive product discovery and conversion
+for sellers, who pay us a content service fee reported
+under the same revenue line, while payments to creators
+— based on orders generated — are reported under
+advertising and sales promotion expenses.
+
+More Orders
+
+Logistics
+Flywheel
+
+More
+Logistics
+Partners
+
+Sellers
+
+Checkout Value Less
+(i) Fee For Services Provided
+(ii) Applicable Tax
+
+Checkout Value1
+
+120k
+
+Valmo Delivery
+Agents
+
+Fee For Services
+Provided
+
+18k
+
+(Order Fulfilment,
+Advertisements, Content
+Commerce and Others)
+
+Active Logistics
+Providers
+
+Consumers
+
+Order Fulfilment Costs
+Based On Order Parameters2
+
+Low Cost
+
+264 Mn
+
+Financial Statements
+
+Our Transaction Model
+
+More Creators
+and Content
+
+More
+Consumers
+
+Statutory Reports
+
+5
+
+Logistics
+Partners
+
+Content Related Costs
+As % Of NMV Generated
+
+End-to-End
+Logistics Partners
+Note: (1) Checkout value on aggregate is
+NMV; (2) Factors such as weight of parcel,
+distance, mode of payment, among others.
+
+Content
+Creators
+
+11
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Statutory Reports
+
+Financial Statements
+
+CEO Letter
+Dear Shareholders,
+This year is close to my heart. It was our first year as a
+public listed company.
+While much attention naturally goes to metrics such
+as users, orders, and NMV, I have always believed that
+numbers are outputs. The real work is the platform
+itself, and if the platform becomes more useful for
+consumers, more productive for sellers, more efficient for
+logistics partners , and more rewarding for creators, the
+numbers follow.
+By that measure, FY26 was one of our strongest years,
+and it was also a year in which we chose to invest
+heavily for the future. What began as a vision is now an
+identity. Meesho stands for something distinct in Indian
+e-commerce. We built a platform not only for those who
+were already online, but also for those who had never
+been. Our mission has always been simple: Democratise
+internet commerce for everyone.
+When people talk about the future of Indian e-commerce,
+the conversation often centres on market size. We think
+about it differently. The opportunity is not defined by
+how many people already use e-commerce. It is defined
+by how many barriers still remain between people and
+e-commerce. Those barriers take many forms. A consumer
+may not know how to navigate online shopping. A seller
+may not know how to start selling online. A logistics
+entrepreneur may not have the scale or know-how to
+participate in e-commerce networks. A creator may not
+have a way to monetise his creativity. Our experience over
+the last decade has reinforced a simple belief: the market
+expands in proportion to the barriers we remove.
+
+Foundation of our Success
+As we have grown, we have worked hard to preserve
+the principles that carried us through our hardest
+decisions. Our ‘Meesho Mantras’ are operating principles,
+not posters.
+Our ‘User First’ mantra sends teams to spend time with
+consumers, sellers, and logistics partners before proposing
+solutions through programmes such as ‘Listen or Die’.
+‘Problem First Mindset’ shapes how we organise: we build
+teams around the largest barriers our stakeholders face
+rather than around products or functions. Whether the
+challenge is improving trust, lowering the cost of trial,
+increasing relevance, or simplifying onboarding, the focus
+remains on solving the underlying problem rather than
+optimising individual functions.
+‘Lightspeed’, ‘Company over Team over Individual’, and
+‘Extreme Ownership’ let small cross-functional pods own a
+problem end-to-end and decide close to the user, which is
+where most of our best work has come from. ‘Think Long
+Term’ governs how we allocate capital. Whether investing
+in technology, logistics capabilities, or user acquisition,
+we evaluate opportunities through the lens of long-term
+value creation rather than quarterly optics.
+Technology is what lets us remove barriers at scale, and
+increasingly it lets us remove ones we could not before.
+
+For much of its history, e-commerce was built around a
+simple assumption: consumers knew what they wanted.
+They searched for it, compared options, and completed
+a transaction. That model worked well in markets where
+shopping was already organised around shopping
+aisles. Much of India, however, has traditionally shopped
+differently through recommendations: whether from a
+shopkeeper, a family member, a friend, or a local market.
+Meesho is built around this reality. Instead of requiring
+consumers to learn new behaviours, we use technology
+to make digital commerce feel more intuitive, more
+conversational and more aligned with how people already
+discover and evaluate products.
+This shift is important because it expands participation.
+Consumers who may not arrive with a specific purchase
+intent can still discover relevant products, while firsttime online shoppers can navigate commerce through
+recommendations, content, and conversational
+experiences. As internet penetration increases and
+technology continues to reduce barriers around discovery,
+language, and trust, the addressable opportunity for
+e-commerce expands.
+The progress we made during FY26 reflects this.
+
+Our endeavour is to find those barriers before anyone else
+does and to remove them quickly. We do that through two
+things: Culture and Technology.
+
+12
+
+13
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Performance Snapshot
+
+Capital Allocation
+
+Annual Transacting Users grew 33.0% to 264 million, while
+Marketplace NMV grew 38.6% to ₹41,560 Cr. Meesho
+remained India’s most downloaded shopping app and
+the country’s largest e-commerce platform by Annual
+Transacting Users and Placed Orders.
+
+Now to the investments in this year and what they cost.
+During FY26 we deliberately increased spending on user
+acquisition and on technology. The conditions for adding
+users efficiently were extremely good, and that the right
+response was to lean in. That choice had a cost, and I want
+to be plain about it. Contribution margin and free cash
+flow both stepped back this year as we funded consumer
+acquisition and built capability ahead of the revenue it
+will generate. Every rupee of this investment was tested
+against the same long-term return thresholds we apply to
+everything else, and we held back wherever the maths did
+not clear them. We expect these investments to compound
+into a larger, more engaged, and lower-cost-to-serve user
+base over the coming years. We have already begun to see
+the benefits through lower friction across the user journey,
+stronger engagement, and improved acquisition efficiency.
+
+These outcomes were supported by meaningful
+improvements across the ecosystem. Our active seller base
+grew 87.0% to 961k sellers as we continued to simplify
+onboarding and improve seller success on the platform.
+Our creator ecosystem generated over 1.4 million pieces
+of order-generating content, making product discovery
+richer, and more engaging. Our logistics ecosystem
+expanded to over 18k active logistics partners, improving
+reach, efficiency, and resilience across the network.
+
+Statutory Reports
+
+Financial Statements
+
+Looking Ahead
+
+14
+
+One question we are often asked is how much further we
+can grow. Our answer remains unchanged. India remains
+one of the largest and most underpenetrated e-commerce
+opportunities in the world. Millions of consumers have
+still never transacted online, millions of entrepreneurs
+have still never sold online and a great deal of logistics
+capacity and creative talent still sits outside the digital
+economy. The task ahead is to keep expanding the market
+itself. That is a larger ambition than just winning share,
+and it is the one that has always driven us. As long as
+barriers to participation in e-commerce exist, our work
+remains unfinished.
+
+towards our mission - Democratising internet commerce
+for everyone. Our Initial Public Offering (IPO) was well
+received, and we were amazed by the response from
+thousands of shareholders who placed their trust in us. I
+would also like to thank our consumers, sellers, logistics
+partners, content creators, employees, and shareholders
+for being part of this journey. We are committed to
+build a platform that becomes more accessible, more
+affordable, and more useful with every passing year,
+and doing the patient, long-term work that real market
+expansion requires.
+
+I would like to end this letter with a big thank you from the
+entire Meesho team to our shareholders who believe in our
+story. This year was a stepping stone among the hundreds
+of milestones we anticipate ahead, as we make progress
+
+Mr. Vidit Aatrey,
+
+Yours sincerely,
+
+Chairman, Managing Director
+and Chief Executive Officer
+
+15
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Statutory Reports
+
+Financial Statements
+
+Letter from CTO
+The Real Barrier to Commerce
+
+Making Commerce Conversational
+
+When Vidit and I were working out what Meesho could
+be, the problem we cared about was making e-commerce
+accessible to people who had been historically left out.
+
+That belief led to Vaani, our voice AI shopping agent. What
+began as a small experiment quickly revealed something
+important: when users could interact with commerce
+in a way that felt natural, participation increased. More
+than 1.5 million consumers engaged with Vaani in its first
+month. Users who adopted the experience demonstrated
+meaningfully higher conversion rates, while many firsttime shoppers who had previously abandoned the
+platform were able to complete purchases successfully.
+
+Over the last decade, we have come to believe that the
+biggest barrier to participation in commerce is expertise
+and not access to the internet. Consumers have to know
+how to search, compare, and navigate digital platforms;
+sellers have to master cataloguing, pricing, and advertising;
+logistics providers are expected to build sophisticated
+operational networks and technology to deliver
+e-commerce parcels. Participation often requires learning
+systems that were never designed for most people.
+
+Personalisation at Scale
+
+Technology is changing that.
+
+The same idea extends far beyond voice.
+
+For much of history, e-commerce rewarded expertise; now
+software is making it increasingly optional, shifting from
+giving tools to doing tasks for them.
+
+Many consumers arrive not with a specific product in mind,
+but with a need, a budget, or simply curiosity. Legacy
+e-commerce assumes intent exists before discovery but
+in offline shopping in India, intent has always followed
+discovery. No two users are the same, so no two should
+see the same shopping aisle. As our understanding of
+users improves, the platform becomes increasingly
+personalised to the individual.
+
+The implications are large. When participation
+becomes easier, more consumers transact online, more
+entrepreneurs start selling, more logistics providers join
+fulfillment networks, and more creators can monetise
+influence. The market grows because the barriers fall, not
+because the population changes.
+
+Learning from Bharat
+We saw this most clearly as we moved into smaller towns
+and rural India.
+
+Today, more than 75% of orders on Meesho originate from
+personalised feeds rather than search. PRISM (Personalised
+Ranking and Intent Signal Module), our recommendation
+system, combines long-term user preferences with realtime behavioural signals to help consumers discover
+products they may never have actively searched for.
+
+Many first-time internet users were not struggling with the
+products available on Meesho; what they struggled with was
+the interface.
+We often watched users hesitate after opening the app
+- they knew what they wanted, but translating that into
+search queries and filters didn’t come naturally. Offline
+shopping is conversational: you describe what you need
+and get recommendations. Digital commerce instead
+expects users to learn an entirely new behaviour. We
+became convinced that e-commerce had to adapt to them,
+not the other way around.
+
+16
+
+Empowering Sellers through AI
+The same shift is reaching sellers.
+AI is increasingly powering core seller functions from
+cataloguing, pricing, advertising, and demand forecasting
+on their behalf. Through AI-powered cataloguing, demand
+intelligence, and GenAI voice agents, we are taking
+operational complexity off from sellers and allowing
+them to focus on their products rather than on platform
+mechanics. Lowering the expertise required to succeed
+online is one of the most powerful ways to expand
+participation in commerce.
+
+17
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Building for Indian Realities
+Technology also has to fit the realities of India. Many of the
+systems that power legacy e-commerce were designed
+for environments very different from our own. Consider
+addresses. In many parts of India, asking someone for
+their address rarely results in a street name and house
+number. Directions are often given relative to temples,
+schools, markets, and local landmarks. For millions of
+consumers, this works perfectly well in everyday life but
+not for software.
+Technology should adapt to how people actually live
+rather than expecting people to adapt to technology.
+GeoIndia LLM was built on that principle. Trained on
+millions of delivery traces across thousands of pin codes,
+it translates unstructured addresses into precise delivery
+coordinates, improving routing accuracy and reducing
+fulfilment friction. More broadly, it reflects how we
+approach engineering here: start with the reality of the
+user and build technology around it.
+
+The Foundation
+Beneath all this sits BharatML Stack, our in-house
+AI platform. It powers intelligence across discovery,
+advertising, fraud prevention, cataloguing, and customer
+support while significantly reducing inference costs.
+By standardising how machine learning systems are
+developed and deployed, it allows teams to innovate
+faster and scale intelligence across the platform..
+
+Statutory Reports
+
+Financial Statements
+
+Key Metrics
+Metrics
+
+FY 2024
+
+FY 2025
+
+FY 2026
+
+Annual Transacting Users
+
+156 Mn
+YoY 14%
+
+199 Mn
+YoY 28%
+
+264 Mn
+YoY 33%
+
+Placed Orders
+
+1,342 Mn
+YoY 31%
+
+1,834 Mn
+YoY 37%
+
+2,668 Mn
+YoY 45%
+
+₹23,241 Cr
+YoY 21%
+
+₹29,988 Cr
+YoY 29%
+
+₹41,560 Cr
+YoY 39%
+
+Contribution Margin as % of NMV
+
+5.6%
+
+4.9%
+
+3.5%
+
+Adjusted EBITDA Marketplace as %
+of NMV
+
+(0.6%)
+
+(0.4%)
+
+(2.8%)
+
+LTM Free Cash Flow
+
+₹200 Cr
+
+₹591 Cr
+
+(₹633 Cr)
+
+LTM Free Cash Flow to Equity
+
+₹432 Cr
+
+₹1,032 Cr
+
+(₹264 Cr)
+
+₹3,499 Cr
+
+₹6,593 Cr
+
+₹6,750 Cr
+
+Net Merchandise Value
+
+Cash Balance
+
+Looking Ahead
+We are still in the early stages of this transition. The platforms that matter most over the next decade will do more than
+help people work efficiently; they will remove the need for expertise altogether. That is the goal we are focused on: not
+better software for its own sake, but building e-commerce that is intuitive for consumers, simple for sellers, and open
+to anyone with an internet connection. We are building towards a future where technology fades into the background
+and participation becomes the default, where consumers do not need to learn e-commerce and sellers do not need
+specialised expertise to succeed. That future is still being built. We are excited to help shape it.
+Yours sincerely,
+
+Mr. Sanjeev Kumar,
+
+Whole-Time Director
+and Chief Technology Officer
+
+18
+
+19
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Net Merchandise Value
+(in million)
+
+33.0%
+
+27.7%
+14.1%
+
+136
+
+264
+
+I Cr
+
+38.6%
+
+199
+20.8%
+
+41,560
+
+FCF FY2026
+
+FCF FY2025
+
+% of NMV from our Marketplace
+
+% of NMV from our Marketplace
+
+3.5%
+4.9%
+
+29,988
+
+29.0%
+
+156
+
+(2.4%)
+
+23,241
+
+(1.6%)
+2.0%
+
+(1.4%)
+
+19,233
+
+(1.5%)
+
+(1.5%)
+(1.9%)
+
+Fiscal 2023
+
+Fiscal 2024
+
+Fiscal 2025
+
+Fiscal 2026
+
+Fiscal 2023
+
+Fiscal 2024
+
+Fiscal 2025
+
+Fiscal 2026
+
+In FY26, Annual Transacting Users increased from 199
+million to 264 million, while purchase frequency grew from
+9.2 to 10.1 orders per user. Together, these trends drove
+Placed Orders up 45.5% YoY to 2,668 million.
+
+discover products through recommendations and
+demonstrations rather than relying solely on search. For
+many users, shopping increasingly begins with inspiration
+rather than intent.
+
+The growth was driven not just by more consumers joining
+the platform, but by existing consumers returning more
+often. As trust in the platform increased, prepaid adoption
+continued to rise through initiatives such as Shareable UPI,
+on-app UPI integration, and Pay Before Delivery, making
+transactions more seamless and convenient.
+
+Through Meesho Mall, expanded FMCG and challenger
+brand presence deepened consumer engagement,
+turning e-commerce into a habit rather than an occasional
+purchase, reflected in continued growth in user
+engagement and order frequency during FY26.
+
+Discovery also became increasingly engaging. Content
+creators generated over 1.4 million pieces of ordergenerating content during the year, helping consumers
+
+As a result, Marketplace NMV grew 38.6% YoY to ₹416
+billion in FY26, reflecting deeper consumer engagement
+and continued penetration into value-conscious, highfrequency consumption categories.
+
+Contribution Advertising
+Margin
+and Sales
+Promotion
+
+Employee
+Benefit
+Expenses
+(excluding
+ESOP)
+
+Server and
+Software
+Expenses
+
+(0.6%)
+
+(2.8%)
+
+Other
+Indirect
+Cost
+
+Adj EBITDA
+Marketplace
+
+(0.4%)
+(1.8%)
+LTM FCF
+
+FCF FY2024
+
+Contribution Advertising
+Margin
+and Sales
+Promotion
+
+4.9%
+
+3.5%
+
+2.9%
+
+1,303
+
+1,484
+
+1,443
+
+Fiscal 2025
+
+Fiscal 2026
+
+Other
+Indirect
+Cost
+
+Adj EBITDA
+Marketplace
+
+(0.9%)
+
+(8.3%)
+
+LTM FCF
+
+2.9%
+
+(1.7%)
+
+(4.6%)
+(2.9%)
+0.9%
+
+(2.9%)
+
+(0.6%)
+
+I Cr
+
+5.6%
+
+Server and
+Software
+Expenses
+
+% of NMV from our Marketplace
+
+5.6%
+
+Our Contribution Margin - Marketplace
+Contribution Margin - Marketplace was ₹14,431 million
+in FY26, versus ₹14,837 million in FY25, driven by rapid
+Valmo network scale-up in Q2-Q3 FY26 following
+industry-wide 3PL consolidation. Onboarding partners
+and nodes quickly, enabled by Valmo’s asset-light model,
+created temporary inefficiencies that weighed on margins,
+though seller fees were not revised. These headwinds
+have since subsided through node optimisation and route
+efficiency gains, with Q4 FY26 exit Contribution Margin
+recovering to 4.0%.
+
+Employee
+Benefit
+Expenses
+(excluding
+ESOP)
+
+(0.4%)
+
+FCF FY2023
+
+% of NMV from our Marketplace
+
+(1.9%)
+
+CAGR: 36.6%
+
+Financial Statements
+
+Free Cash Flows
+Net Merchandise Value (NMV)
+from our Marketplace
+
+Annual Transacting Users
+
+Statutory Reports
+
+(2.3%)
+Contribution Advertising
+Margin
+and Sales
+Promotion
+
+Employee
+Benefit
+Expenses
+(excluding
+ESOP)
+
+Server and
+Software
+Expenses
+
+(12.2%)
+
+(0.4%)
+Other
+Indirect
+Cost
+
+Adj EBITDA
+Marketplace
+
+LTM FCF
+
+Contribution Advertising
+Margin
+and Sales
+Promotion
+
+Employee
+Benefit
+Expenses
+(excluding
+ESOP)
+
+Server and
+Software
+Expenses
+
+Other
+Indirect
+Cost
+
+Adj EBITDA
+Marketplace
+
+LTM FCF
+
+566
+
+Fiscal 2023
+
+20
+
+Fiscal 2024
+
+21
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+For the last three years, we have scaled Placed Orders
+by approximately 1.9x without consuming capital in the
+normal course of business. As the platform grows, it
+generates cash and the benefits of increasing returns to
+scale become more pronounced.
+
+Statutory Reports
+
+Financial Statements
+
+flowed through Free Cash Flow immediately, which is
+precisely why we prefer the metric.
+
+LTM Free Cash Flow for FY26 was -₹633 Cr, or -1.5% of
+Marketplace NMV, compared to +₹591 Cr, or +2.0% of
+Marketplace NMV, in FY25. This reflects deliberate choices.
+During FY26, we increased investments in user acquisition
+and growth initiatives while simultaneously navigating
+temporary logistics-related headwinds. Both decisions
+
+The underlying economics of the business remain
+unchanged. Capital expenditure remains low irrespective
+of growth, and the working capital float continues to
+expand as the platform scales. As this investment cycle
+normalises, those structural characteristics support a
+return to strong cash generation, which is why Free Cash
+Flow remains our measure of record, and why we are
+comfortable putting it forward as the truest read on how
+we are doing.
+
+Placed Orders
+
+Free Cash Flow to Equity (FCFE)
+
+(in million)
+
+(₹ Cr)
+45.47%
+
+2,668.45
+
+(
+
+(11.32%)
+
+% of NMV - Marketplace)
+1.9%
+
+3.44%
+
+(0.64%)
+
+1,032.00
+36.70%
+31.01%
+
+1,834.40
+
+432.00
+
+1,341.94
+
+1,024.34
+
+We believe Free Cash Flow (FCF) is the most relevant
+metric for evaluating Meesho because it captures what
+ultimately matters: how much cash a business generates
+after funding the investments required to grow.
+Many consumer and commerce companies report EBITDA
+as their headline metric while deploying significant
+capital into warehouses, fulfilment centres, logistics
+infrastructure, and inventory. Those investments consume
+real cash, but much of that cash outflow sits below
+EBITDA. As a result, businesses with very different capital
+intensity can appear similar on an EBITDA basis, despite
+having fundamentally different return profiles.
+We judge ourselves by Free Cash Flow, it is the hardest
+metric to flatter and the one that tells the real story.
+It captures capital intensity, working capital, and
+reinvestment together, the factors that ultimately drive
+long-term value and ROIC. Comparing our EBITDA to nonplatform businesses is flawed, as it ignores fundamental
+differences in ROIC profiles.
+
+Our model is structurally built to generate cash efficiently.
+As a consumer tech platform, we scale primarily by
+leveraging existing capabilities rather than building new
+ones keeping capex low. Our negative working capital
+cycle means growth is funded by the platform’s natural
+operations, not incremental capital. Unlike capitalintensive models, our investments show up in reported
+results as they happen, not amortised over time.
+This is the core difference between a platform and a linear
+business. In a linear business, serving twice the demand
+takes nearly twice the infrastructure - cost and capital rise
+with volume, so profitability doesn’t structurally improve
+with scale. In a platform business, each additional unit of
+demand costs less to serve, converting more growth into
+cash as it scales, true increasing returns to scale. Many
+businesses call themselves platforms, but few actually
+have these mechanics; most have digitised the customer
+experience while keeping a cost base that still scales with
+volume. Meesho is structurally one of the few in India that
+does, and that’s what underpins our confidence in longterm cash generation.
+
+(263.99)
+
+(2,177.49)
+Fiscal 2023
+
+Fiscal 2024
+
+Fiscal 2025
+
+Fiscal 2026
+
+Cash Balance
+
+Fiscal 2023
+
+We ended FY26 with a cash balance of ₹6,750 Cr, up
+from ₹6,593 Cr in FY25. This mainly reflects ₹4,125 Cr
+in IPO proceeds, largely offset by ₹3,344 Cr in one-time
+restructuring costs and related taxes.
+Cash balance was also impacted by moderation in
+LTM Free Cash Flow, as we stepped up investment in
+user acquisition and growth during FY26, investments
+we believe strengthen our long-term position while
+preserving a strong balance sheet.
+
+Fiscal 2025
+
+Fiscal 2026
+
+6,593
+
+6,750
+
+Fiscal 2025
+
+Fiscal 2026
+
+(₹ Cr)
+
+3,088
+
+Fiscal 2023
+
+22
+
+Fiscal 2024
+
+3,499
+
+Fiscal 2024
+
+23
+
+
+Meesho Limited | Annual Report 2025-26
+
+Corporate Overview
+
+Board Of Directors
+Mr. Vidit Aatrey
+
+Chairman, Managing Director, and Chief Executive Officer
+Vidit Aatrey is the Promoter, Chairman, Managing Director, and CEO
+of our Company, and has served on the Board since August 13, 2015.
+An alumnus of the Indian Institute of Technology, Delhi, he holds a
+Bachelor of Technology degree in Electrical Engineering. At the helm of
+the executive management team, he shapes the Company’s strategic
+direction, spearheads key growth initiatives, and drives operational
+excellence across the organisation. Prior to founding the Company, he
+built his early career at ITC Limited and InMobi Technology Services
+Private Limited. His entrepreneurial journey has been widely recognised,
+with features in Forbes Asia’s 30 under 30 (2018), Forbes India’s 30
+under 30 (2018), Entrepreneur Magazine’s 35 under 35 (2019), and
+Fortune India’s 40 under 40 (2021, 2024, and 2025).
+
+Statutory Reports
+
+Financial Statements
+
+Mr. Rohit Bhagat
+
+Non-Executive Independent Director
+Rohit Bhagat serves as our Lead Independent Director and has been
+on the Board of our Company (and the erstwhile holding company,
+Meesho Inc.) since June 2023. He has significant corporate governance
+experience, and has served on the Boards of several public and private
+tech-enabled services and financial services companies. During his
+executive career, he served as Chairman, Asia Pacific for BlackRock and
+as Global Chief Operating Officer for Barclays Global Investors. Prior to
+that he was a Senior Partner at The Boston Consulting Group. He holds
+an MBA from the Kellogg School, Northwestern University, an MSE from
+The University of Texas at Austin and a B.Tech from the Indian Institute of
+Technology, Delhi. He has completed the Stanford Directors Consortium
+program and has been a member of the Young Presidents Organization.
+
+Mr. Hari Shanker Bhartia
+
+Non-Executive Independent Director
+Hari Shanker Bhartia has served as an Independent Director of our
+Company since June 16, 2025, having previously held the same role
+with our erstwhile holding company, Meesho Inc., since July 8, 2024.
+He holds a Bachelor of Technology degree in Chemical Engineering
+from the Indian Institute of Technology, Delhi. He is the co-founder and
+co-chairman of the Jubilant Bhartia Group acting as the co-chairman of
+Jubilant Pharmova Limited and Jubilant FoodWorks Limited and the cochairman and whole time director of Jubilant Ingrevia Limited.
+
+Mr. Sanjeev Kumar
+
+Whole-Time Director and Chief Technology Officer
+Sanjeev Kumar is the Promoter, Whole-Time Director, and Chief
+Technology Officer of our Company, and has served on the Board since
+August 13, 2015. An alumnus of the Indian Institute of Technology, Delhi,
+he holds a Bachelor of Technology degree in Electrical Engineering.
+He is responsible for executing the Company’s overall technology
+vision, ensuring the scalability, security, and efficiency of its technology
+infrastructure. Prior to founding the Company, he was associated with
+Sony Corporation. His contributions have been widely recognised, with
+features in Forbes Asia’s 30 under 30 (2018), Forbes India’s 30 under 30
+(2018), Fortune India’s 40 under 40 (2021 and 2024), and the economic
+times 40 under 40 (2024).
+
+Mr. Surojit Chatterjee
+
+Non-Executive Independent Director
+Surojit Chatterjee has served as an Independent Director of our Company
+since June 16, 2025, having previously held the same role with our
+erstwhile holding company, Meesho Inc., since March 31, 2024. His
+academic credentials include a Bachelor of Technology (Honours) in
+Computer Science and Engineering from the Indian Institute of Technology,
+Kharagpur, a Master’s degree in Computer Science from the State University
+of New York at Buffalo, and an MBA from the Massachusetts Institute
+of Technology. He is the founder and Chief Executive Officer of EMA
+Unlimited Inc., and brings prior leadership experience from Coinbase Global
+Inc., Flipkart Internet Private Limited, Oracle Corporation, and Symantec
+Corporation. He also serves as an Independent Director at Atos.net.
+
+24
+
+25
+
+

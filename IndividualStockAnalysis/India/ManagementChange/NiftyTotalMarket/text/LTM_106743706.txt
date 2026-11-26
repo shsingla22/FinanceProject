@@ -1,0 +1,1020 @@
+LTM/SE/STAT/2026-27/73
+
+August 14, 2026
+
+National Stock Exchange of India Limited,
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (E),
+Mumbai - 400 051
+
+The BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+
+NSE Symbol: LTM
+
+BSE Scrip Code: 540005
+
+Dear Sir(s)/Madam,
+Subject: Submission of Sustainability Report for FY 2025-26
+We are enclosing herewith a copy of the Sustainability Report for FY 2025-26 along with the Chief Financial Officer &
+Whole-time Director’s message for our investors.
+Please take the same on your records.
+Thanking You,
+Yours faithfully,
+For LTM Limited
+signed
+Angna Digitally
+by Angna Anish
+Arora
+Anish Date:
+2026.08.14
+Arora 11:31:32 +05'30'
+Angna Arora
+Company Secretary & Compliance Officer
+Encl.: As above
+
+LTM Limited
+(Formerly LTIMindtree Limited)
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072,
+Maharashtra, India.
+T: +91 92402 97500
+
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693
+
+
+LTM Sustainability Report FY2025–26:
+
+Outcreating Sustainable Progress
+with Purpose
+Dear Investors,
+I am pleased to share LTM's Sustainability Report for FY2025–26, titled "Outcreate Sustainable
+Progress with Purpose."
+Sustainability remains integral to how we create long-term value at LTM. As technological
+disruption accelerates and stakeholder expectations continue to evolve, we are focused on
+building a resilient, responsible, and future-ready enterprise that drives sustainable growth for
+all stakeholders.
+Our environmental journey continued to advance during the year. Renewable energy
+accounted for 72.23% of our total energy consumption. We maintained our 2.8x water-positive
+status, achieved 94.39% waste recycling, and strengthened our climate commitments through
+the Science Based Targets initiative (SBTi) as we progress toward our Net Zero 2040 vision.
+We also continued to create meaningful social impact. Our CSR initiatives positively impacted
+nearly 1.2 million beneﬁciaries during the year, taking our cumulative reach to over 3.5 million
+lives. At the same time, we sustained our commitment to an inclusive workforce, with women
+representing 30.87% of our global talent pool, and the representation of women in leadership
+roles increased to 9.53%. Our corporate governance strengthened with 67% Independent
+Directors in Board.
+LTM's sustainability performance continues to earn global recognition. We were ranked among
+the Top 3 in the IT & Digital Services sector and Top 15 overall in Businessworld India's Most
+Sustainable Companies 2025. Our FY25 Sustainability Report received multiple international
+awards — a testament to the rigor and transparency of our disclosures.
+The progress highlighted in this report demonstrates that we embed sustainability across our
+strategy, operations, and decision-making to drive meaningful and lasting impact for all our
+stakeholders. I invite you to explore the report and learn more about how LTM is Outcreating
+Sustainable Progress with Purpose.
+Thank you for your continued trust and conﬁdence in our journey.
+Regards,
+Vipul Chandra
+Chief Financial Officer and Whole-time Director
+LTM
+
+
+Outcreate
+Sustainable
+Progress with
+Purpose
+
+Sustainability Report
+FY2025-26
+
+
+Table of Contents
+About this Report							3
+Leadership Reflections						4
+Purpose in Action							6
+• Outcreating Sustainable Progress with Purpose			
+
+6
+
+• Sustainability Momentum						7
+
+Sustainability Vision & ESG Ambitions				
+
+10
+
+• Purpose Driven ESG: Commitments & Long Term Targets		
+
+10
+
+• Progress Review: From Commitment to Measured Execution 		
+
+11
+
+Embedding ESG into Enterprise					13
+• ESG Strategy & Governance					13
+• Stakeholder & Materiality Lens					14
+
+Environmental Transformation					21
+• Climate Action & Net Zero Pathway					
+
+21
+
+• Renewable Energy & Resilience					23
+• Water Positive Journey						25
+• Waste Circularity & Stewardship					26
+• Biodiversity and Nature-Positive Actions				
+
+27
+
+People, Communities & Culture					29
+• Talent Strategy & Workforce Evolution				
+
+29
+
+• Learning, Skills & Performance					30
+• Diversity, Equity, and Inclusion Acceleration 				
+
+31
+
+• Health, Safety & Well-being						33
+• Community & Social Impact						36
+
+Trust, Ethics & Resilience						39
+• Ethical Governance and Compliance					39
+• Responsible AI, Data Protection & Cybersecurity			
+
+41
+
+• Risk Management & Business Continuity				
+
+42
+
+• Supplier Sustainability						43
+
+Innovation and Growth						45
+• Green IT & Cloud Sustainability					
+
+45
+
+• Client Sustainability							45
+
+Measuring What Matters						47
+• ESG Policies & Codes Index 						
+
+47
+
+• ESG Impacts Scorecard						48
+
+Reporting Frameworks, Standards & Disclosures			
+
+66
+
+Assurance Statement							80
+Glossary								83
+
+
+About this Report
+The theme ‘Outcreate Sustainable Progress
+with Purpose’ reflects LTM’s commitment to
+embedding sustainability at the core of its
+strategy and operations.
+This Sustainability Report presents LTM’s ESG
+performance and initiatives, reflecting the
+organization’s continued focus on responsible
+growth and long-term value creation. Prepared
+in accordance with the GRI Universal Standards
+2021, the report outlines key environmental,
+social, and governance disclosures from April 1,
+2025, to March 31, 2026.
+The report brings together quantitative
+performance data and qualitative insights across
+material ESG topics, offering stakeholders
+a transparent view of how sustainability
+considerations are embedded into LTM’s
+strategy, governance practices, and operations.
+It highlights LTM’s approach to managing
+sustainability related risks and opportunities
+while delivering value to clients, employees,
+communities, and other stakeholders.
+Aligned with LTM’s ESG vision and material
+priorities, the report incorporates inputs from
+stakeholder engagement processes and
+draws alignment with globally recognized
+frameworks, including the United Nations
+Global Compact (UNGC), the Sustainable
+Development Goals (SDGs), the National
+
+LTM | Sustainability Report FY2025-26
+
+Guidelines on Responsible Business
+Conduct (NGRBC), the Taskforce on Climate
+related Financial Disclosures (TCFD), and
+the Taskforce on Nature related Financial
+Disclosures (TNFD). Together, these
+frameworks provide a comprehensive view of
+LTM’s sustainability performance and forward
+looking commitments.
+The report has been prepared on a
+consolidated basis of LTM global entities.
+Environmental disclosures cover India
+and International facilities where we have
+operational controls which represent
+the largest concentration of employees
+and environmental impacts while TNFD
+assessments and disclosures continue to
+focus on LTM’s global locations. Social and
+economic disclosures encompass our global
+operations including key subsidiaries.
+This report has been reviewed and endorsed
+by LTM’s leadership. BDO India Services
+Private Limited (BDO India), an independent
+third-party, has provided reasonable and
+limited assurance, according to GRI Reporting,
+ISAE 3000 Revised, and international
+assurance best practices. Please see page
+80 for the assurance statement.
+
+3
+
+
+Message from the
+CEO and Managing Director
+Venu Lambu
+
+“
+
+CEO & Managing Director
+
+Our approach to sustainability is holistic—encompassing
+environmental stewardship, social responsibility, and governance
+excellence. By weaving these elements together, we aim to create
+a resilient tapestry that not only strengthens our business but also
+contributes to the well-being of our planet and society.”
+
+At LTM, our journey in FY2025–26 was guided by
+a defining belief: It’s time to Outcreate. This theme
+reflects not only how we innovate and deliver
+superior value but also how we shape a more resilient,
+responsible, and future-ready enterprise in an everevolving business landscape. It also underpins this
+year’s Sustainability Report theme — Outcreate
+Sustainable Progress with Purpose — recognizing that
+sustainable progress requires organizations to pursue
+growth, innovation, and responsibility together.
+Today, enterprises are navigating a world shaped
+by accelerated AI adoption, evolving stakeholder
+expectations, geopolitical complexity, and intensifying
+climate imperatives. In this environment, the ability
+to innovate with purpose while remaining agile and
+resilient has become critical to long-term success.
+We believe the path forward requires not just
+transformation at scale, but transformation that is
+intentional, measurable, and built to endure. Our
+Sustainability Report FY2025–26 reflects how we are
+advancing ESG maturity through transparent metrics,
+intelligent systems, disciplined execution, and
+long-term thinking — embedding sustainability into
+the way we operate, innovate, and create value for all
+our stakeholders.
+As a Business Creativity Partner, we help clients realize
+their sustainability and transformation ambitions by
+combining technology-led innovation and domain
+expertise to solve complex challenges and create
+measurable impact. Through responsible AI and
+data governance practices, support for low-carbon
+operations, and initiatives that foster inclusion and
+continuous learning, we empower organizations to
+navigate change, build resilience, and deliver
+long-term value.
+Equally important is the progress we continue to make
+within our own enterprise. Over the course of the
+year, we strengthened our operational sustainability
+
+LTM | Sustainability Report FY2025-26
+
+agenda, with renewable energy adoption exceeding
+72%, supported by our LEED Platinum-certified
+campuses and continued focus on responsible resource
+management. As part of our commitment to building
+future-ready talent, we welcomed over 6,700 freshers
+during the year, a 40% increase over FY25. We also
+accelerated AI-led transformation by deploying more
+than 1,500 AI agents across the organization, leveraging
+intelligent systems to augment human potential,
+improve decision-making, and enhance operational
+agility and efficiency at scale. Our Corporate Social
+Responsibility (CSR) initiatives positively impacted
+nearly 1.2 million beneficiaries in FY26.
+Our commitment to responsible growth and
+governance was further reinforced through our strong
+financial performance, a client satisfaction score of 5.89
+on a 7-point scale, and continued global recognition for
+ESG leadership and transparency. During the year, LTM
+achieved multiple ESG accolades, including prestigious
+global awards for our sustainability report, ranking third
+in the IT & Digital Services sector and fifteenth across
+sectors in the Top 200 companies in Businessworld
+India’s Most Sustainable Companies 2025. As a
+signatory to the United Nations Global Compact, we
+remain committed to advancing responsible business
+practices aligned with globally recognized principles
+and stakeholder expectations.
+Looking ahead, the convergence of AI, digital
+transformation, and sustainability is creating new
+possibilities for businesses to innovate at scale while
+driving meaningful impact. As we navigate this evolving
+landscape, our journey will continue to be guided by a
+simple yet powerful belief: progress is most meaningful
+when it is inclusive, responsible, and built to endure.
+Together, we will continue to Outcreate Sustainable
+Progress with Purpose for our clients, our people, our
+communities, and the future we collectively share.
+
+4
+
+
+Message from the
+Global Head
+
+ESG and Sustainability
+
+Archana Sahay
+Global Head – ESG and Sustainability
+
+“
+
+Our journey in the FY2025-26 has been marked by significant strides in ESG and
+sustainability, as we align with global frameworks, move towards achieving our ambitious
+targets for Net Zero emissions, renewable energy, and water positivity, all while fostering
+diversity and community empowerment.”
+
+At LTM, sustainability continues to evolve from
+a focused function into an enterprise-wide
+capability, embedded across strategy, operations,
+governance, and culture. FY2025-26 was a year of
+disciplined execution and meaningful progress as we
+strengthened the integration of ESG priorities into the
+way we create long-term value for stakeholders.
+Guided by our vision to Outcreate sustainable
+progress with purpose, we continued advancing our
+commitments across climate action, responsible
+business conduct, inclusive growth, and community
+impact while strengthening the governance systems
+and operational frameworks necessary to sustain
+long-term transformation.
+Our environmental agenda remains anchored in
+measurable action and science-aligned ambition.
+During the year, we continued progressing toward
+our Net Zero target for 2040 through focused
+decarbonization initiatives across operations. We
+achieved a 70% reduction in Scope 1 emissions
+intensity and a 55% reduction in Scope 2 emissions
+intensity per employee over the FY19 baseline.
+Renewable energy adoption also continued to scale—
+with overall renewable energy usage exceeding 72%.
+Alongside emissions management, we continued
+strengthening resource efficiency and water
+stewardship practices across our campuses. Our
+efforts enabled a 55% reduction in water consumption
+intensity from the FY19 baseline—while maintaining
+our 2.8x water positive status. Circularity initiatives also
+progressed steadily with over 94% waste recycling
+achieved during the reporting period—as we move
+toward our target of 100% waste recycling by 2030.
+As a global technology organization, we recognize
+that sustainable progress must be deeply connected
+to people, culture, and equitable opportunity. We
+therefore continued investing in programs that foster
+inclusion, accessibility, and workforce resilience.
+
+LTM | Sustainability Report FY2025-26
+
+Women represented 30.87% of our workforce during
+the year, while the representation of women in
+leadership roles increased to 9.53%. We also continued
+advancing representation across LGBTQ+, persons with
+disabilities, veterans, and multicultural talent groups
+to strengthen a more inclusive and globally diverse
+workplace. Building future-ready talent capabilities
+remained another strategic priority.
+Beyond operational priorities, we continued driving
+positive community outcomes through focused CSR
+interventions across education, environment, health,
+nutrition, empowerment, and livelihood development.
+Our cumulative community impact reached over
+3.53 million beneficiaries, reinforcing our belief
+that technology-led growth must also contribute
+meaningfully to societal progress.
+Throughout the year, we strengthened ESG oversight
+mechanisms, advanced disclosure maturity, and
+continued aligning our reporting practices with globally
+recognized sustainability frameworks and stakeholder
+expectations. These efforts are helping us build greater
+transparency, accountability, and consistency in how
+sustainability performance is measured and managed
+across the organization.
+While we are encouraged by the progress achieved,
+we remain equally focused on the work ahead. The
+sustainability landscape continues to evolve rapidly,
+bringing new expectations, opportunities, and
+responsibilities for global businesses. At LTM, we remain
+committed to advancing this journey with integrity,
+measurable action, and long-term perspective.
+The progress reflected in this report is the result of
+collective effort enabled by our employees, clients,
+partners, communities, and leadership teams who
+continue to champion responsible growth and shared
+value creation. Together, we will continue to strengthen
+our ESG foundations while Outcreating sustainable
+progress with purpose for generations to come.
+5
+
+
+Purpose in Action
+Outcreating Sustainable Progress with Purpose
+Company Overview
+LTM is a global technology services company with a strong AI focus, serving as a Business
+Creativity partner to some of the world’s largest and most dynamic enterprises.
+As a Larsen & Toubro company, LTM combines the strength of a trusted Indian multinational with
+the agility and innovation required in a rapidly evolving digital economy.
+
+Purpose
+Solve to unleash
+possibilities
+
+Vision
+Enabling businesses and
+communities to flourish in
+a hyperconnected world
+
+Core Values
+• Be driven by purpose
+
+• Be future-ready
+
+• Act with compassion
+
+• Deliver impact
+
+We combine human insight with intelligent technologies to help clients unlock greater value at
+the convergence of domain expertise and digital innovation. Our capabilities span integrated
+operations, digital transformation, and business AI empowering, new ways of working, boosting
+productivity, and creating innovative avenues for value generation across industries.
+With a global workforce of over 87,000 employees across 42 countries and a robust ecosystem of
+technology and alliance partners, LTM delivers comprehensive solutions with scalable business
+LTM | Sustainability Report FY2025-26
+
+6
+
+
+outcomes. Our approach is grounded in responsible innovation, people centric growth, and long
+term value creation for all stakeholders.
+Through a strong commitment to operational excellence, ethical governance, and sustainable
+business practices, LTM supports clients in outperforming the market, and continuously
+innovating and Outcreating it.
+Triple Bottom Line Performance Snapshot
+FY26 marked a year of continued progress in LTM’s sustainability journey, with focused actions
+across environmental stewardship, people centric practices, and responsible governance. During
+the year, LTM strengthened the integration of sustainability into business operations, advanced
+key ESG initiatives, and enhanced transparency in line with global reporting standards.
+
+People
+
+Planet
+
+Profit
+
+Talent Pool
+
+GHG Emissions
+
+Revenue
+
+Women in Talent Pool
+
+Energy Consumption
+
+Profit
+
+New Hire
+
+Renewable Energy
+
+EBIT
+
+87,950
+
+30.87%
+22,905
+
+152,455 tCO2e
+290,074 GJ
+72.23%
+
+INR 423,076 Million
+INR 49,827 Million
+15.4%
+
+Renewable Electricity
+
+73.93%
+Average Learning Hours
+
+Waste Recycled
+
+Order Book Value
+
+104.11
+
+94.39%
+
+CSR Spend
+
+Water Consumption
+
+Active Clients
+
+CSR Threshold Limit
+
+Environmental Capex Spend
+
+Customer Satisfaction
+Rating (On a Scale of 1-7)
+
+INR 960 Million
+
+378,792 KL
+
+USD 6.6 Billion
+751
+
+INR 957 Million
+
+INR 59 Million
+
+CSR Beneficiaries
+
+Certified Green Buildings
+offices in India
+
+USD 50 Million+ Clients: 14
+
+Trees planted - 150,000
+
+Global Presence
+
+1,199,584
+
+Total procurement spent
+on diverse suppliers
+
+70%
+
+6.5%
+
+5.89
+
+USD 100 Million+ Clients: 2
+
+42 countries
+
+Sustainability Momentum
+The awards and recognitions received during the year reflect LTM’s continued commitment
+to excellence, responsible business practices, and sustainable value creation. These honors
+underscore the collective efforts of our teams and the trust placed in us by clients, partners,
+and stakeholders.
+LTM | Sustainability Report FY2025-26
+
+7
+
+
+Sustainability
+• United Nations Global Compact: Continued as a signatory, earned our Business Participant
+certificate, and submitted the Communication on Progress (CoP) for FY26.
+• FTSE Russell ESG Performance: Achieved a strong ESG score of 4.6 out of 5, outperforming subsector, sector, and country averages.
+• EcoVadis Ranking: Scored 71/100, placing LTM in the 86th global percentile—Top 15% across all
+sectors and Top 8% in Computer Services worldwide.
+• Businessworld Sector Leader: Ranked Top 3 in IT & Digital Services and Top 15 across all sectors
+among 200 companies in Businessworld India’s Most Sustainable Companies 2025.
+• Achilles ‘Excellent’ Grade: Scored 82/100, earning an ‘Excellent’ grade and ranking in the Top 5% of
+over 200,000 companies assessed by Achilles.
+• CRISIL ESG Leadership: Received an overall score of 80 (Leadership) for ESG and score of 73
+(Leadership) for sustainability disclosures.
+• NSE Analytics Benchmark: Achieved an ESG score of 78, ranking among the best in the Indian
+IT sector.
+• ESG Risk.ai Rating: Secured a score of 78 (Excellent), placing LTM in the highest rating category.
+• Stakeholder Empowerment Services: Earned 79/100 in the ESG Ratings Index, placing LTM in the
+upper quadrant among the Top 200 Indian companies.
+• Travel Smart Yearbook: Ranked among India’s Top 15 companies for business travel emissions
+reduction in FY25.
+• TNFD Early Adopter: The only Indian IT company recognized as a Taskforce on Nature-related
+Financial Disclosures (TNFD) Early Adopter; FY25 Sustainability Report featured among 50 global
+pioneers and two IT benchmarks worldwide.
+• Global ESG Transparency Award: Won ‘Excellence Class’ with an 87.67% score for the FY25
+Sustainability Report.
+• LACP Platinum Award: Received the Platinum Award for the FY25 Sustainability Report from
+LACP (League of American Communications Professional), the only recipient in the Technology – IT
+Services sector.
+• LACP Global Ranking: Ranked 6th worldwide in the Top 100 LACP report winners across all sectors.
+• LACP Technical Achievement: Scored 99/100 and won the ‘Worldwide Best In-House Report
+(Technical Achievement) award.
+
+Environment
+• Platinum Award: for Excellence in Energy Management from iNFHRA (Chennai)
+• Platinum Award: for OHS&E (Occupational Health, Safety and Environment) services from World 		
+Safety Organization (Hyderabad)
+• Platinum Award: for Water Stewardship from iNFHRA (Mumbai)
+• Gold Award: for EHS excellence from CII (Hyderabad)
+• Platinum Award: for ESG Leader of the Year 2025-26 from iNFHRA (Bengaluru)
+• Diamond Award: for employee wellbeing from iNFHRA (Mumbai)
+• National Award: for Excellence in Energy Management from CII (Pune)
+• Gold Award: for OHS&E service from International Business Conferences (Hyderabad)
+
+LTM | Sustainability Report FY2025-26
+
+8
+
+
+Social
+• National HR Excellence Awards: LTM was recognized in March 2026 by CII for ‘Significant
+Achievement in HR Excellence,’ highlighting strong HR practices aligned with business goals.
+• Brandon Hall HCM Excellence Awards: Won six Golds, including AI for Business Impact and
+Employee Engagement, plus two Silvers for Leadership Development and Talent Management
+Technology in 2025.
+• Financial Express HR Awards: Received Gold for DEI Strategy and Silver for Remote & Hybrid Work
+and HR Technology in 2025, reflecting our inclusive, flexible, tech-driven HR approach.
+• AmbitionBox Employee Choice Awards: Named Top-rated Company for Women, IT/ITES, and
+Mega Company in 2025 for fostering an inclusive, high-performance workplace.
+• Economic Times Exceptional Employee Experience Awards: Recognized in 2025 for delivering a
+standout employee-centric workplace in the large-scale industry category.
+• The Great Managers Awards: Named one of India’s Top Companies with Great Managers in 2025 for
+people-first leadership.
+• SHRM HR Excellence Awards: Awarded for Excellence in Leveraging HR Technology in 2025.
+• Annual HR Awards: Won four awards at L&T Group’s 2026 HR Conclave across Talent Acquisition,
+Digital Transformation, and Talent Engagement.
+• Human Resource Excellence Model: Recognized as an Emerging Leader in HR Excellence (2025-26)
+by L&T Group across key HR dimensions.
+• Avtar & Seramount: Recognized as one of India’s Best IT Companies for Women in 2025,
+highlighting our commitment to gender diversity and inclusion.
+• DEI100: Featured in India’s first structured DEI index in 2025 by Team Marksmen Network,
+acknowledging our ongoing progress in diversity, equity, and inclusion.
+• AICONIC Summit and Awards: Won Gold for Best Use of AI in Human Resources at the 2026
+Financial Express AICONIC Awards.
+• India Workplace Equity Index: Named a Top Employer (Silver Category) in 2025 for LGBTQ+
+inclusion, reflecting our dedication to an equitable workplace.
+• Economic Times Human Capital Awards: For the second year, earned multiple awards in 2026,
+including Gold for AI in Talent Management Strategy, Silver for AI in Talent Acquisition, and Bronze
+for Flexible Work Models and HR Digital Transformation.
+• Global CSR & ESG Awards 2025: Honored with Best Two ESG Initiatives of the Year, recognizing our
+strong commitment to impactful environmental, social, and governance programs.
+• Indian CSR Awards 2025: Won two categories—Best Women Empowerment Initiative and Most
+Impactful CSR Project (Education Initiatives)—at the Indian CSR Awards by Brand Honchos.
+• Rotary National CSR Awards: Received Best Project Award in Community & Skill Development
+(Mega Enterprise Category) for our IVDP (Integrated Village Development Programme) program in
+Odisha, selected among four mega enterprises from 746 applicants.
+
+Governance
+• Golden Peacock Award 2025: Received from the Institute of Directors (IOD) for Excellence in
+Enterprise Risk Management, recognized as one of the most prestigious global awards in this domain.
+• Brandon Hall Group Technology Excellence Awards 2025: Won two Silver Awards for Best Advance
+in Technology for Crisis Management and Best Advance for Leading Under a Crisis, highlighting the
+impact of an AI-driven system that ensures safety and operational resilience.
+• Disaster Recovery Institute International Awards of Excellence 2026: Earned global recognition for
+strengthening business continuity and enterprise resilience to protect critical operations worldwide.
+
+LTM | Sustainability Report FY2025-26
+
+9
+
+
+Sustainability Vision
+& ESG Ambitions
+Purpose Driven ESG: Commitments & Long Term Targets
+SOC
+IA
+L
+
+LTM’s ESG vision is anchored in well-defined goals, targets, roadmaps, and timelines, reflecting
+our commitment to driving a positive impact and helping us catapult into the global top leadership
+league of ESG.
+
+40% women in workforce & 15%
+women in leadership by 2030
+~100% waste
+recycling by 2030
+Net Zero by 2040
+85%+ Renewable
+Energy use by 2030
+
+Water Positive
+by 2030
+
+Scale up of Green Tech
+offerings to clients
+
+LTM | Sustainability Report FY2025-26
+
+Promote and create an
+ecosystem of diverse
+suppliers; 10% supplier
+base to be minority
+owned businesses
+
+Impact 4Mn+ lives
+positively in the
+community by 2030
+Become Employer of Choice
+for PwD, LGBTQ+, Veterans
+and Great Place to work for
+all ; 50%+ local nationalities
+in major countries of
+business by 2030
+
+Diversify our board
+(across Gender and
+Background)
+Maintain robust
+compliance, integrity
+practices, and key
+certifications
+
+Continue to train 100%
+associates, partners, and
+suppliers on business
+ethics & data privacy
+Link ESG to executive
+compensation
+
+10
+
+
+Progress Review: From Commitment to Measured Execution
+LTM has defined clear, time bound environmental goals to guide its transition towards more
+sustainable operations. Progress against these goals is driven by a combination of operational
+efficiency initiatives, responsible resource management, and continuous improvement across
+facilities and delivery locations.
+
+ESG Vision
+
+Progress in FY2025-26
+•
+
+Net-Zero by 2040
+
+Scope 1: Reduction by 70% to 0.021 tons CO2e/ employee
+(over baseline value of FY19)
+
+•
+
+Scope 2: Reduction by 55% to 0.401 tons CO2e/ employee
+(over baseline value of FY19)
+
+85% + Renewable
+
+•
+
+Renewable Energy–72.23%
+
+Energy use by 2030
+
+•
+
+Renewable Electricity–73.93%
+
+100% waste
+recycling by 2030
+
+94.39% waste recycled
+
+Water-positive
+
+•
+
+2.8x water positive
+
+by 2030
+
+•
+
+55% reduction to 4.587 kl/employee (over baseline value of FY19)
+
+Scale up of Green
+Tech offerings to
+clients
+
+40% women in
+workforce
+
+15% women in
+leadership by 2030
+
+Engaged with 50+ customers
+
+30.87% women in workforce
+
+9.53% women in leadership
+
+Become employer of
+choice for LGBTQ, PwD
+and veterans and Great
+place to work for all;
+50% + local nationalities
+in major countries of
+business by 2030
+
+•
+•
+•
+•
+•
+•
+•
+
+0.18% self-identified PwDs
+0.21% self- identified LGBTQ+
+0.12% self-identified Veterans in workforce
+24.80% local nationalities (outside India)
+Brandon Hall HCM Excellence Awards 2025
+Best Leadership Development for Women (Silver)
+Best IT Companies for Women in India by Avtar & Seramount 2025
+
+Diversify our board (across
+
+•
+
+67% Independent Directors
+
+gender and background)
+
+•
+
+1 Woman on the Board
+
+LTM | Sustainability Report FY2025-26
+
+11
+
+
+•
+
+inclusivity and equal opportunity by prioritizing procurement from
+
+Promote and create
+
+marginalized and vulnerable groups.
+
+an ecosystem
+
+Also, we actively track procurement spending associated with
+diverse suppliers.
+
+of diverse suppliers;
+10% supplier
+
+•
+
+This initiative engages diverse suppliers/ subcontractors, with a
+special focus on women-owned/ minority-owned, and small
+
+base to be minority
+owned businesses
+
+We identify diverse suppliers within our database to promote
+
+business enterprises to create positive social impact.
+•
+
+Total diverse spend value of USD 38 million, constituting 6.5% of the
+total procurement spend.
+
+Impact 4 million plus lives
+positively in the
+
+Community impact of 11,99,584 in FY26, 3.53 million (cumulative)
+
+community by 2030
+
+Link ESG to executive
+compensation
+
+Continue to train 100%
+
+ESG-linked KPIs under review
+
+•
+
+100% of associates trained on business ethics and data privacy.
+
+•
+
+During FY2025–26, we continued supplier engagement initiatives
+through our Vendor Meet Program to reinforce compliance
+
+associates, partners
+
+expectations on business ethics and data privacy. These topics are
+
+and suppliers on
+
+formally covered in Vendor Meet program, where suppliers are oriented
+
+business ethics and
+
+on LTM policies including Whistleblower policy, Anti-Bribery policy,
+
+data privacy
+
+Code of Conduct, Data Privacy requirements, and ethical business
+practices, and their acknowledgement recorded during meetings.
+
+Maintain robust
+compliance, integrity
+practices and key
+certifications
+
+LTM | Sustainability Report FY2025-26
+
+•
+
+Leveraged emerging national and global sustainability reporting
+frameworks and standards.
+
+•
+
+Achieved strong recognition across global ESG awards, ratings,
+and rankings.
+
+12
+
+
+Embedding ESG
+into Enterprise
+ESG Strategy & Governance
+Our approach to ESG is anchored in delivering tangible outcomes, balancing business
+performance with environmental responsibility, and social impact. We continue to evolve our
+priorities to address emerging risks and opportunities across the value chain.
+Our ESG strategy is aligned with leading global frameworks such as UNGC, SDGs, TCFD, TNFD,
+GRI, CDP, and SBTi, enabling us to enhance transparency, track progress, and continuously
+improve performance.
+We drive our ESG agenda through four key pillars:
+
+Environmental
+Stewardship
+
+Employer of
+Choice
+
+Social
+Responsibility
+
+Ethical
+Governance
+
+Advancing
+decarbonization,
+scaling renewable
+energy adoption,
+and strengthening
+resource efficiency
+and climate
+resilience.
+
+Building an inclusive,
+future-ready
+workplace through
+strong DEI
+practices, talent
+development, and
+employee
+well-being.
+
+Enabling inclusive
+growth through
+focused
+interventions in
+education,
+livelihoods, health,
+and environmental
+sustainability.
+
+Upholding high
+standards of
+governance through
+transparency,
+accountability, board
+diversity, and
+ESG-linked
+leadership priorities.
+
+Climate Governance (Climate Risk & Opportunities)
+The Board of Directors retains ultimate oversight of climate-related risks and opportunities,
+exercised through structured reporting from its sub-committees, particularly the Risk
+Management Committee and Corporate Social Responsibility (CSR) Committee. These
+committees regularly review climate matters and escalate key insights to the Board.
+
+LTM | Sustainability Report FY2025-26
+
+13
+
+

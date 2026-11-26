@@ -1,0 +1,1217 @@
+July 20, 2026
+The General Manager
+BSE Limited
+Corporate Relationship Department
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai- 400 001
+
+The Manager
+National Stock Exchange of India Limited
+Listing Department
+Exchange Plaza, 5th Floor, Plot No. C-1, Block-G
+Bandra-Kurla Complex, Bandra(E)
+Mumbai-400 051
+
+BSE Scrip Code: 532281
+
+NSE Scrip Code: HCLTECH
+
+Subject: Business Responsibility and Sustainability Report (FY 2025-26)
+Dear Sir/Madam,
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, we are enclosing herewith the Business Responsibility and
+Sustainability Report for FY 2025-26, which forms part of the Company’s Annual Report for FY 2025-26.
+This is for your information and records.
+Yours Sincerely,
+For HCL Technologies Limited
+MANISH
+ANAND
+
+Digitally signed by
+MANISH ANAND
+Date: 2026.07.20 19:45:10
++05'30'
+
+Manish Anand
+Company Secretary
+Encl.: a/a
+
+HCL Technologies Ltd.
+Technology Hub, Special Economic Zone
+Plot No. 3A, Sector 126, NOIDA– 201304, UP, India
+t: +91 120 4306000
+
+Corporate Identity Number: L74140DL1991PLC046369
+Registered Office:
+806 Siddharth, 96, Nehru Place, New Delhi -110019, India
+
+
+July 20, 2026
+The General Manager
+BSE Limited
+Corporate Relationship Department
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai- 400 001
+
+The Manager
+National Stock Exchange of India Limited
+Listing Department
+Exchange Plaza, 5th Floor, Plot No. C-1, Block-G
+Bandra-Kurla Complex, Bandra(E)
+Mumbai-400 051
+
+BSE Scrip Code: 532281
+
+NSE Scrip Code: HCLTECH
+
+Subject: Clarifications w.r.t. Business Responsibility and Sustainability Report (“BRSR”) filing under
+Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“LODR Regulations”)
+Dear Sir/ Madam,
+This is with reference to the BRSR filing by HCL Technologies Limited for the financial year ended March 31,
+2026 (“FY 2025–26”), in PDF format as well as in XBRL as per the circulars issued by BSE Limited and
+National Stock Exchange of India Limited.
+We would like to inform you that while filing the XBRL, we were not able to mention some information exactly
+in the manner that we had mentioned in the PDF document. The main reasons for the same are given here
+under:
+1. Certain data points need an explanation note and XBRL does not have any provision for the same.
+The respective note is mentioned in the text box available at the end of each spreadsheet.
+2. Some of the cells were pre-populated, not allowing users to edit the data. There were cases, where
+headcount was to be edited, to include only eligible headcount. In view of this, for the following
+Principle / Question, we would request you to refer our response as stated in our PDF document of
+BRSR submitted with you.
+Reference
+Section C,
+Principle 3
+
+Question
+No.
+9
+
+Particulars
+Details of performance and career development reviews of employees
+and workers.
+
+This is for your information and records.
+Yours Sincerely,
+For HCL Technologies Limited
+signed by
+MANISH Digitally
+MANISH ANAND
+Date: 2026.07.20
+ANAND 19:46:03 +05'30'
+Manish Anand
+Company Secretary
+Encl.: a/a
+
+HCL Technologies Ltd.
+Technology Hub, Special Economic Zone
+Plot No. 3A, Sector 126, NOIDA– 201304, UP, India
+t: +91 120 4306000
+
+Corporate Identity Number: L74140DL1991PLC046369
+Registered Office:
+806 Siddharth, 96, Nehru Place, New Delhi -110019, India
+
+
+Integrated
+
+Annual Report
+
+2025-26
+
+
+Corporate
+Overview
+
+Our Businesses
+
+Message from the
+Chairperson
+
+Engineering the Future with AI
+
+Message from the
+CEO & Managing Director
+
+Engineering and R&D Services
+
+Founder and
+Board of Directors
+
+- Digital Business Services
+- Digital Foundation Services
+- Business Process Operations
+- Career Shaper™
+
+IT and Business Services
+
+Leadership Team
+Another Year of Steady
+Growth and Value Creation
+
+HCLSoftware
+
+Global Presence
+Awards and Recognitions
+
+01
+Table of Contents
+
+18
+
+
+Approach to
+Value Creation
+Value Creation Model
+Business Strategy
+Financial Capital
+Human Capital
+Intellectual Capital
+Social and Relationship Capital
+- India CSR
+- Global CSR
+
+Natural Capital
+
+79
+
+Management Discussion
+and Analysis (MDA)
+
+126
+
+Directors’ Report
+
+181
+
+Corporate Governance Report
+
+207
+
+CEO and CFO Certificates
+
+208
+
+Business Responsibility and
+Sustainability Report (BRSR)
+
+285
+
+Financial Performance
+
+285
+363
+452
+
+Standalone Financial Statements
+Consolidated Financial Statements
+Statement under Section 129
+
+52
+HCLTech’s Integrated Annual Report for FY26
+provides a comprehensive overview of the
+company’s performance over the past year.
+The report has been prepared in accordance
+with the International <IR> Framework,
+January 2021. The statutory sections of this
+report meet the requirements of the Companies
+Act, 2013 and the applicable SEBI Regulations.
+Also read our Sustainability Report FY26,
+which has been prepared in accordance with
+the GRI Standards (2021).
+
+Scan the QR code
+to view the digital copy
+of the HCLTech Annual
+Report 2025-26
+
+
+Message from the
+
+Chairperson
+Dear Shareholders,
+
+This year, we celebrate the 50th anniversary of the
+HCL Group. What began as our founder Shiv Nadar’s
+determination to make India self-sufficient in technology
+is today a global institution and a proud representative of
+the nation’s technology sector on the world stage. From
+giving India its first indigenous 8-bit personal computer
+to the many industry-firsts delivered through HCLTech,
+ours has been a story of grit, conviction and resilience.
+That resilience was tested in FY26. Against a backdrop
+of cautious technology services spending, macroeconomic uncertainty and geopolitical volatility,
+HCLTech delivered a solid operational performance.
+For the third consecutive year, we recorded the fastest
+revenue growth in constant currency among our
+comparable peers, a result achieved in a muted demand
+environment and one that reflects the strength of our
+differentiated portfolio, our ability to execute at scale
+and the commitment of our people. More importantly,
+we ended the year with $620 million in Advanced AI
+revenue, a measure of our fast-maturing AI play.
+On shareholder value, sentiment across our sector has
+been cautious, and near-term prices do not always reflect
+the fundamentals we are building. The underlying health
+of the business, be it our order book, client relationships
+and deal pipeline, remains strong. We continue to reward
+shareholders, distributing 97.6% of net income this year as
+dividend, which is one of the highest yields in the industry.
+The technology industry is undergoing a tectonic shift as
+AI reshapes how work gets done, with its promise of agility
+and productivity. At HCLTech, we have always treated
+disruption not as a threat but as a catalyst for reinvention
+and growth. We see AI and its adjacent technologies as a
+powerful tailwind, one that will open larger opportunities
+and accelerate our growth.
+We have set ourselves an ambitious goal: to be the world’s
+best AI solutions provider. Our core engineering DNA,
+our early investments in intellectual property through
+HCLSoftware and our disciplined build-out of a full-stack
+AI portfolio alongside our services offerings position us
+well to pursue it. We are doubling down on this emerging
+play with conviction.
+We will not reach this goal without our people, who have
+always been our greatest advantage. AI will multiply their
+1
+
+HCLTech Integrated Annual Report 2025-26
+
+capabilities and creativity, giving them a wider canvas
+to do more for our clients. We are committed to
+upskilling our people to transform HCLTech into an
+AI-native organization, energized by our growing base
+of Gen Z talent.
+Doing business responsibly and with high standards of
+governance remains central to who we are. We continue
+to be among the highest investors in employee welfare
+in our industry, and we are proud to have one of the most
+gender-diverse boards in India, with over 50% women
+directors. On sustainability, we met our 2030 Scope 1 and
+Scope 2 reduction targets four years ahead of schedule
+and now replenish 51 times more water than we consume
+across our operations. Through the HCLFoundation,
+our cumulative community investment in India stands
+at ₹1,984 crores, touching over eight million lives.
+More details on these commitments are set out in our
+Sustainability and ESG reports.
+Our industry has been through disruptions before and has
+emerged stronger every time. This cycle will probably be
+the most transformative and rewarding. At HCLTech, we
+remain optimistic about the road ahead and remain fully
+invested in our growth strategy backed by one of the best
+leadership teams.
+In closing, as we look back with gratitude on 50 years of
+HCL and look ahead with optimism to the next 50, I thank
+our clients, all HCLTechies, my fellow Board members and
+our shareholders for their trust and support.
+Regards
+
+Roshni Nadar Malhotra
+
+
+“
+
+The technology industry is undergoing
+a tectonic shift as AI reshapes how
+work gets done, with its promise of
+agility and productivity. At HCLTech,
+we have always treated disruption
+not as a threat but as a catalyst for
+reinvention and growth. We see AI
+and its adjacent technologies as a
+powerful tailwind, one that will open
+larger opportunities and accelerate
+our growth.”
+
+
+Message from the
+
+CEO & Managing Director
+
+Dear Shareholders,
+In 2026, the HCL Group marks its 50th
+anniversary, a proud moment not only for
+HCLTech, but for Indian industry and the nation
+at large. Half a century ago, our founder, Shiv
+Nadar, pioneered the “art of the possible,” and
+founded HCL with a radical idea that India could
+build world-class technology. As we step into the
+AI era, we carry that same founding instinct into
+our next 50 years.
+AI is creating enormous opportunities through
+entirely new business propositions, even as it
+quietly reshapes much of the old. The companies
+that define the next decade will be those that can
+do both, pursue the opportunity AI creates while
+absorbing the disruption it brings.
+FY26 was the year HCLTech proved it can do
+both. We became the first large-cap, Indiaheadquartered technology services company to
+report Advanced AI revenue—a category spanning
+AI Factory, Physical AI, Robotics, AI Engineering
+and Custom Silicon, and distinct from Classical
+AI and usage of AI in traditional services—and
+reaching annualized Advanced AI revenue of
+$620 million. For the third straight year, HCLTech
+outperformed its comparable peers in FY26,
+with the fastest constant currency overall revenue
+growth. These two milestones reflect both the
+growing adoption and maturity of our full-stack
+offerings and our ability to offset AI-led deflation
+with new revenue streams.
+
+
+“
+
+We became the first large-cap, India-headquartered technology
+services company to report Advanced AI revenue. For the third
+straight year, HCLTech outperformed its comparable peers in
+FY26, with the fastest constant currency overall revenue growth.
+These two milestones reflect both the growing adoption and
+maturity of our full-stack offerings and our ability to offset
+AI-led deflation with new revenue streams.”
+
+Ready for the AI Era
+FY26 was a pivotal year in HCLTech’s growth journey.
+We laid a strong foundation for the AI era, moving
+proactively to turn disruption into opportunity and to
+build a differentiated AI portfolio. Our ambition is clear:
+to be the best AI solutions provider in the world.
+Our AI-led growth strategy is built around five
+broad vectors:
+The first vector is AI-led service transformation. We are
+proactively transforming our services and offerings with
+our flagship platform AI Force and enabling our clients
+to leverage this cutting-edge platform to accelerate
+their AI deployment. AI Force is now deployed across 75
+of our clients and is translating into large and strategic
+contract wins that demonstrate the tangible value of our
+AI capabilities. We are also deploying AI rapidly within our
+own organization: LUMI, our enterprise AI agent, delivers
+instant resolution of employee queries, while Talent
+Navigator, our talent acquisition platform, improves
+hiring quality and velocity.
+The second vector is building differentiated IP
+and repeatable solutions across IT, SDLC services,
+engineering services and BPO services, as well as
+industry-specific use cases that enable enterprises to
+unlock the intelligence layer offered by hyperscalers and
+technology OEMs. AI Force and VisionX, our multimodal
+AI solution for physical operations, are excellent proof
+points on this vector.
+The third vector is unlocking new AI-led growth
+opportunities. These include:
+• AI Advisory: AI consulting across the enterprise
+value chain, from blueprint to POCs to responsible
+deployment.
+
+• AI Engineering: Physical AI, focused on embedding
+intelligence into physical systems and environments,
+and Kinetic AI, focused on robotics and automation.
+• AI Factory: Comprehensive cognitive infrastructure
+spanning AI data center design, build and operate
+services.
+Sovereign AI: In addition to governments, adopting
+sovereign AI is becoming a key priority for enterprises in
+heavily regulated sectors such as banking, healthcare
+and public sector organizations. Enterprises are looking
+to firms like ours to help them develop, deploy and
+govern AI systems using infrastructure, data and models
+entirely controlled within their firms.
+The fourth vector is strong partnerships with all key
+stakeholders across the AI value chain and ecosystem.
+HCLTech was the first India-based technology company
+to partner with OpenAI to accelerate enterprise AI
+adoption. We are also a key partner to NVIDIA, whose
+CEO named HCLTech as a key Physical AI and Robotics
+partner in his CES keynote. And we are partnering with
+leading institutions such as MIT to advance AI research.
+The fifth vector is upskilling and transforming our people
+into AI natives. Our focus is not to replace people with AI
+but to amplify their potential and drive innovation and
+productivity across the organization. We have classified
+our people into three categories: AI Builders, who build
+solutions and work with large and small models; AI
+Super Users, who leverage AI in everything they do to
+dramatically enhance productivity; and Human-inthe-Loop AI Decision Makers, who apply AI in the right
+context for daily tasks. We are investing in training
+across all three cohorts. In FY26, we trained over 144,000
+employees in GenAI, including 11,800 certified AI Builders
+and more than 700 certified blackbelts.
+Corporate Overview
+
+4
+
+
+Sustained best-in-class performance
+For the third straight year, HCLTech outperformed its
+comparable peers in FY26, with the fastest constant
+currency revenue growth of 3.9% YoY, which was
+fractionally lower than our guidance. We continued to
+be a preferred digital transformation partner for G2000
+enterprises and closed the year with total contract value
+(TCV) of new bookings at $9.3 billion. What’s remarkable
+is that the performance was delivered in the face of a
+challenging business environment driven by continued
+softness in discretionary technology spending by global
+enterprises as well as geopolitical volatility.
+Revenue for the year was ₹130,144 crores, a growth of 11.2%
+YoY while net income* was ₹17,361 crores. EBIT* was at
+₹22,397 crores, at 17.2% of revenue. Services revenue was
+at ₹118,158 crores, up 12.1% YoY, while HCLSoftware revenue
+was ₹11,986 crores, up 2.9% YoY.
+The company continued to have a very healthy balance
+sheet with robust free cash flow of ₹18,553 crores, which
+is 107% of net income. In line with our capital allocation
+strategy, the Board approved a total dividend payout of
+₹60 per share, translating to 97.6% of the net income being
+returned to shareholders.
+Our consistent all-round performance, technology-led
+innovation and commitment to long-term value creation
+for all stakeholders are being recognized globally. HCLTech
+was named to Fortune magazine’s 2026 World’s Most
+Admired Companies list and was the highest-ranked
+India-headquartered technology company for the
+second consecutive year in TIME magazine’s World’s Best
+Companies list.
+
+health, livelihoods and environmental initiatives. Our
+initiatives now extend beyond India to enable inclusive
+and lasting change across communities worldwide. This
+includes the HCLTech Grant for Climate Action in the
+Americas, through which we have already announced $3
+million in grants as part of the $5 million commitment.
+
+“
+
+We remain confident in our ability
+to execute our AI growth strategy
+and to continue creating longterm shareholder value, even
+as we recognize the headwinds
+that may arise from technology
+transformation and geopolitical
+uncertainty. We are optimistic
+about the AI-led opportunities
+ahead. The task before us is
+clear: to execute with speed and
+discipline and to earn our place
+among the winners in a market of
+this scale.”
+
+Growth with purpose
+
+Looking ahead
+
+Sustainability is integral to how we build resilience and
+long term value. During the year, we further embedded
+sustainability, ethics and social responsibility into
+decision making and execution. We have achieved 55.84%
+reduction in Scope 1 and 2 emissions from the baseline
+year 2020, four years ahead of the target year 2030.
+Thanks to these focused efforts, HCLTech was included
+in TIME magazine’s World’s Most Sustainable Companies
+2025 list. Our sustained ESG efforts helped us earn Gold
+rating from EcoVadis for the second consecutive year and
+‘AA’ rating from MSCI ESG Ratings during FY26.
+
+We remain confident in our ability to execute our AI growth
+strategy and to continue creating long-term shareholder
+value, even as we recognize the headwinds that may
+arise from technology transformation and geopolitical
+uncertainty. We are optimistic about the AI-led
+opportunities ahead. The task before us is clear: to execute
+with speed and discipline and to earn our place among the
+winners in a market of this scale.
+
+We also released our Responsible AI Transparency Report,
+the first among global system integrators, outlining the
+progress we have made in embedding responsible AI
+across our organization and client engagements. This
+deep commitment to guardrails is not confined only to AI
+and spans everything we do at HCLTech. Led by our culture
+of strong adherence to governance and accountability,
+we were named by Ethisphere as one of the World’s Most
+Ethical Companies in 2026, for the third straight year.
+Through HCLFoundation, we continued to deliver
+meaningful impact in our local communities in India,
+reaching 8.4 million people till date through education,
+5
+
+HCLTech Integrated Annual Report 2025-26
+
+I want to thank all 227,000+ HCLTechies, whose
+commitment makes us shine every day. And on behalf
+of everyone at HCLTech, I extend my gratitude to our
+clients, partners, my fellow Board members and to our
+shareholders for their continued trust.
+Best regards,
+
+C Vijayakumar
+
+*Excluding the one-time impact of New Labour Codes: ₹956 Crores
+
+
+Founder
+
+Board of Directors
+
+C
+
+Shiv Nadar
+
+Founder, HCL Group;
+Chairman Emeritus
+and Strategic Advisor
+to the Board
+
+Roshni Nadar
+Malhotra
+
+C Vijayakumar
+
+Shikhar Malhotra
+
+Chief Executive
+Officer &
+Managing Director
+
+Chairperson,
+Non-Executive,
+Non-Independent
+
+Director,
+Non-Executive,
+Non-Independent
+
+Non-Executive, Independent Directors
+
+C C
+
+Amitabh Kant
+Director
+
+Bhavani
+Balasubramanian
+
+Deepak Kapoor
+
+Kimsuka
+Narsimhan
+
+Director
+
+Director
+
+Director
+
+C
+
+Lee Fang Chew
+Director
+
+Nishi Vasudeva
+Director
+
+C
+
+C
+
+Simon John
+England
+
+Vanitha Narayanan
+Director
+
+Director
+
+Key to board
+committee
+membership
+
+Audit Committee
+
+Risk Management Committee
+
+Corporate Social Responsibility Committee
+Nomination and Remuneration Committee
+
+ESG and Diversity Equity Inclusion Committee
+C
+
+Respective Chair of each Committee
+
+Stakeholders’ Relationship Committee
+
+Corporate Overview
+
+6
+
+
+Leadership Team
+
+C Vijayakumar
+
+Chief Executive Officer &
+Managing Director
+
+Ajay Bahl
+
+Anil Ganjoo
+
+Arjun A. Sethi
+
+Ashish Kumar Gupta
+
+Avishek Chattopadhyay
+
+Hari Sadarahalli
+
+Jagadeshwar Gattu
+
+Jill Kouri
+
+Kalyan Kumar
+
+Kevin McGee
+
+Kristina Rogers
+
+Nidhi Pundhir
+
+Chief Growth Officer and
+Global Head, Energy and
+Manufacturing
+
+Chief Information Officer
+
+President,
+HCLSoftware
+
+7
+
+Chief Growth Officer and
+Global Head, Telecom, Media,
+Publishing & Entertainment
+and Technology
+
+Corporate Vice President
+and Global Head,
+Engineering and
+R&D Services
+
+Chief Risk Officer
+
+HCLTech Integrated Annual Report 2025-26
+
+Chief Growth Officer and
+Global Head, Public
+Sector, Aerospace &
+Defense and PE Practice
+
+President,
+Digital Foundation
+Services
+
+Chief Growth Officer
+and Global Head, Retail
+and CPG
+
+Global Head,
+New Business
+Incubation Group
+
+Chief Marketing Officer
+
+Senior Vice President and
+Global Head, CSR
+
+
+Pankaj Tagra
+
+Chief Growth Officer and
+Global Head, Mobility
+
+Raj Ramachandran
+
+Corporate Vice President
+and Chief of Staff to the
+CEO & Managing Director
+
+Pawan Vadapalli
+
+Corporate Vice President
+and Global Head,
+Digital Business Services
+
+Rajiv Shesh
+
+Chief Revenue Officer,
+HCLSoftware
+
+Raghu Raman
+Lakshmanan
+
+Rahul Singh
+
+Ramachandran
+Sundararajan
+
+Sandeep Kumar Saxena
+
+General Counsel
+
+Chief People Officer
+
+Chief Operating Officer,
+Corporate Functions
+
+Chief Growth Officer,
+Growth Markets 2: India,
+Middle East and Africa,
+France, Iberia, Italy
+
+Shiv Walia
+
+Shrikanth Shetty
+
+Srimathi Shivashankar
+
+Srinivasan Seshadri
+
+Sriram Hariharan
+
+Swapan Johri
+
+Upjit Ghuman
+
+Vijay Guntur
+
+Chief Financial Officer
+
+Corporate Vice President
+and Global Head,
+Strategy and Corporate
+Development
+
+Chief Growth Officer
+and Global Head,
+Life Sciences and
+Healthcare Industries
+
+President,
+Growth Markets
+
+Corporate Vice President
+and Global Head,
+EdTech Business
+
+Executive Vice President
+and Global Head,
+Business Process
+Operations (BPO)
+
+Chief Growth Officer
+and Global Head,
+Financial Services
+
+Chief Technology Officer
+and Head of Ecosystems
+
+Corporate Overview
+
+8
+
+
+Another Year of Steady Growth and Value Creation
+Revenue
+
+$
+
+Segment revenue* (₹ Cr)
+
+14.7B
+
+96,095
+
+6.0% YoY
+
+₹
+
+17%
+
+22,063
+
+130,144Cr
+
+Engineering and
+R&D Services
+
+11.2% YoY
+
+HCLSoftware
+
+Earnings before
+other income, tax
+and finance cost**
+
+9.2%
+
+IT and
+Business Services
+
+12,397
+
+₹22,397Cr
+
+Profit after tax (PAT)
+(attributable to owners
+of the company)
+
+4.6% YoY
+
+Total increase in $100M+
+clients over five FYs
+
+1.4x
+
+New deal total
+contract value (TCV)
+
+73.8%
+
+₹16,642Cr
+4.3% YoY
+
+Free
+cash flow
+
+$9.3B
+
+Free Cash Flow (FCF)/Net Income (NI) Ratio
+and Dividend Payout Ratio (DPR)
+Dividend (₹ Cr)
+
+FCF/NI
+
+DPR
+
+FY26
+
+111%
+
+87.8%
+
+14,618
+
+FY25
+
+122%
+
+93.4%
+
+16,250
+
+FY24
+
+136%
+
+89.6%
+
+14,073
+
+FY23
+
+110%
+
+87.5%
+
+12,995
+
+FY22
+
+113%
+
+84.4%
+
+11,389
+
+9
+
+HCLTech Integrated Annual Report 2025-26
+
+Net income (₹ Cr)
+
+Free cash flow (₹ Cr)
+
+16,642
+
+18,553
+
+17,390
+
+21,153
+
+15,702
+
+14,851
+
+13,499
+
+21,400
+
+16,348
+
+15,255
+
+₹18,553Cr
+
+
+Revenue
+
+from operations
+(₹ Cr)
+
+CAGR 11.0%
+
+Profit after
+tax
+
+(attributable to
+owners of the
+company) (₹ Cr)
+
+CAGR 5.4%
+
+FY26
+
+130,144
+
+FY25
+
+117,055
+
+FY24
+
+109,913
+
+FY23
+
+101,456
+
+FY22
+
+85,651
+
+FY26
+
+16,642
+
+FY25
+
+17,390
+
+FY24
+
+15,702
+
+FY23
+
+14,851
+
+FY22
+
+13,499
+
+Earnings
+
+before other
+income, tax and
+finance cost
+(₹ Cr)
+
+CAGR 8.4%
+
+Diluted
+earnings
+per share
+(₹)
+
+CAGR 5.4%
+
+Client Category (Number of clients)
+
+FY26**
+
+22,397
+
+FY25
+
+21,420
+
+FY24
+
+20,027
+
+FY23
+
+18,483
+
+FY22
+
+16,204
+
+FY26
+
+61.36
+
+FY25
+
+64.09
+
+FY24
+
+57.86
+
+FY23
+
+54.79
+
+FY22
+
+49.77
+
+Total People Count
+
+$100M+
+
+16
+
+19
+
+22
+
+22
+
+23
+
+$50M+
+
+43
+
+46
+
+46
+
+52
+
+60
+
+$20M+
+
+118
+
+131
+
+137
+
+138
+
+149
+
+$10M+
+
+208
+
+229
+
+254
+
+251
+
+277
+
+$5M+
+
+349
+
+375
+
+395
+
+399
+
+429
+
+$1M+
+
+882
+
+939
+
+951
+
+948
+
+976
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+FY26
+
+Freshers added
+
+FY26
+
+227,181
+
+11,744
+
+FY25
+
+223,420
+
+7,829
+
+FY24
+
+227,481
+
+12,141
+
+FY23
+
+225,944
+
+26,734
+
+FY22
+
+208,877
+
+23,000
+
+29.6%
+
+Women in workforce
+
+31%
+
+Gen Z employees
+
+*Includes inter-segment revenue of ₹411 Crores
+**Excluding the one-time impact of New Labour Codes: ₹956 Crores
+
+Corporate Overview
+
+10
+
+

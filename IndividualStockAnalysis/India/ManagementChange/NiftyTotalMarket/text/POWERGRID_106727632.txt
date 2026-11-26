@@ -1,0 +1,2419 @@
+--- - q ldi! Fcil S
+-==~ POWERGRID
+,,dt~
+
+QRR f.tg ~ 3ffi:5 ~ ~
+('l'lffif'ffl1t>R<fj"f~)
+
+POWER GRID CORPORATION OF INDIA LIMITED
+(A Government of India Enterprise)
+
+05th August, 2026
+To
+The General Manager (Listing),
+National Stock Exchange of India Limited,
+Exchange Plaza, C 1/G Block,
+Bandra-Kurla Complex,
+Bandra (East), Mumbai.
+Reference:
+Sub.:
+
+To
+The General Manager (Listing),
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai.
+
+NSE-SCRIP ID: POWERGRID; BSE Scrip Code: 532898
+EQ – ISIN: INE752E01010
+
+Outcome of Board Meeting held on 05th August, 2026 – Unaudited Financial
+Results for the First Quarter ended 30th June, 2026 (FY 2026-27)
+
+Dear Sir,
+In pursuance of Regulation 30, 33(3)(a) and 52(1) SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended (“SEBI LODR”), the Board of
+Directors of POWERGRID (“the Company”), at its meeting held today i.e., Wednesday,
+05th August, 2026, has inter-alia considered and approved the Unaudited Financial Results
+(Standalone and Consolidated) of the Company for the first quarter ended 30 th June, 2026
+along with the Limited Review Report of the Auditors (copy enclosed as Annexure-A).
+The Board Meeting commenced at 7:40 P.M. (IST) and concluded at 9:00 P.M. (IST).
+Please take the above information on record.
+Thanking You,
+Yours faithfully,
+
+Anjana
+Luthra
+
+Digitally signed by
+Anjana Luthra
+Date: 2026.08.05
+22:22:00 +05'30'
+
+(Anjana Luthra)
+Company Secretary &
+Compliance Officer
+Encl.: As above
+
+के ीय कायालय: "सौदािमनी", ॉट नंबर 2, से र -29, गु ाम -122001, (ह रयाणा) दू रभाष: 0124-2822999 & 2822000
+Corporate Office: “Saudamini”, Plot No. 2, Sector-29, Gurugram-122001, (Haryana) Tel.: 0124-2822999 & 2822000
+पंजीकृत कायालय: बी -9, कुतुब इं ी ूशनल ए रया, कटवा रया सराय, नई िद ी -110 016. दू रभाष: 011-26560112, 26560115 & 26560193, CIN: L40101DL1989GOI038121
+Registered Office: B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110 016. Tel: 011-26560112, 26560115 & 26560193,
+CIN : L40101DL1989GOI038121
+Website: www.powergrid.in
+
+
+Qldi!fcils Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+
+POWERC',RID
+
+CIN : L40101DL1989GOI038121
+B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+Statement of Unaudited Standalone Financial Results for the quarter ended 30 June 2026
+(" in Crore)
+
+SI.
+No.
+
+Quarter ended
+Particulars
+
+Year ended
+
+30.06.2026
+
+31.03.2026
+
+30.06.2025
+
+31.03.2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+Income
+
+I
+II
+Ill
+IV
+
+V
+VI
+
+Revenue From Operations
+Other Income
+
+9,795.40
+1,574.64
+
+9,971.09
+1,983.61
+
+9,928.23
+1,328.65
+
+40,904.20
+6,091.68
+
+Total Income (1+11)
+
+11,370.04
+
+11,954.70
+
+11,256.88
+
+46,995.88
+
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses
+
+666.14
+2,514.78
+2,924.96
+1,017.84
+
+692.77
+2,614.27
+3,096.47
+1,777.45
+
+633.91
+2,304.45
+2,969.75
+1,176.50
+
+2,643.92
+10,050.43
+12,329.79
+5,212.64
+
+Total Expenses (IV)
+
+7,123.72
+4,246.32
+
+8,180.96
+3,773.74
+
+7,084.61
+4,172.27
+
+30,236.78
+16,759.10
+
+768.27
+(39.27)
+
+687.48
+0.02
+(5,284.10)
+
+722.78
+10.54
+
+2,943.33
+0.02
+(4,928.86)
+
+729.00
+
+(4,596.60)
+
+733.32
+
+(1,985.51)
+
+3,517.32
+
+8,370.34
+
+3,438.95
+
+18,744.61
+
+(106.37)
+
+(3,817.54)
+
+214.28
+
+(2,823.61)
+
+3,410.95
+
+4,552.80
+
+3,653.23
+
+15,921.00
+
+64.35
+(24.28)
+
+21.97
+(27.60)
+
+189.71
+
+-
+
+173.38
+(27.60)
+
+Expenses
+
+Profit before Tax and Regulatory Deferral Account Balances (Ill-IV)
+Tax expense:
+
+Current tax - Current Year
+- Earlier Years
+Deferred tax
+
+VII
+
+Profit for the period before Regulatory Deferral Account Balances (V-VI)
+
+VIII
+
+Net movement in Regulatory
+lncome/(Expenses) (net of tax)
+
+IX
+X
+
+Profit for the period (Vll+VIII)
+
+Deferral
+
+Account
+
+Balances
+
+-
+
+Other Comprehensive Income
+
+Items that will not be reclassified to profit or loss (net of tax)
+Items that will be reclassified to profit or loss (net of tax)
+XI
+
+Total Comprehensive Income for the period (IX+X)
+
+3,451.02
+
+4,547.17
+
+3,842.94
+
+16,066.78
+
+XII
+
+Paid up Equity Share Capital
+(Face value of share : if; 10/- each)
+
+9,300.60
+
+9,300.60
+
+9,300.60
+
+9,300.60
+
+XIII
+
+Earnings per equity share (Face value of ff.10/- each)
+
+3.67
+
+4.90
+
+3.93
+
+17.12
+
+3.78
+
+9.00
+
+3.70
+
+20.15
+
+including movement in Regulatory Deferral Account Balances : Basic &
+Diluted (In~) *
+excluding movement in Regulatory Deferral Account Balances : Basic &
+Diluted (In ~l •
+Refer accompanying notes to the financial results .
+(*) Figures for the quarters have not been annualized
+
+
+~~
+
+14)
+
+.J;- =~i
+
+Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+CIN : L40101DL1989GOI038121
+B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+Statement of Standalone Segment wise Revenue, Results, Assets and Liabilities
+for the quarter ended 30 June 2026
+
+SI.
+No.
+
+A.
+
+Particulars
+
+30.06.2026
+
+31.03.2026
+
+30.06.2025
+
+31.03.2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+Segment Revenue (Including allocable Other Income)
+
+40,407.31
+
+- Transmission
+
+9,704.30
+
+9,715.68
+
+9,883.65
+
+- Consultancy
+
+226.66
+
+524.40
+
+198.03
+
+1,248.22
+
+9,930.96
+
+10,240.08
+
+10,081.68
+
+41,655.53
+
+Total Revenue including allocable Other Income
+
+B.
+
+(" in Crore)
+Year ended
+
+Quarter ended
+
+Other unallocated income
+
+1,439.08
+
+1,714.62
+
+1,175.20
+
+5,340.35
+
+Total Income
+
+11,370.04
+
+11,954.70
+
+11,256.88
+
+46,995.88
+
+- Transmission
+
+5,316.20
+
+5,174.56
+
+5,667.18
+
+23,075.46
+
+- Consultancy
+
+0.79
+5,316.99
+
+198.92
+
+2.28
+
+261.83
+
+5,373.48
+
+5,669.46
+
+23,337.29
+
+Other unallocated income
+
+1,439.08
+
+1,714.62
+
+1,175.20
+
+5,340.35
+
+Less:
+Unallocated interest and finance charges
+
+2,514.78
+
+2,614.27
+
+2,304.45
+
+119.20
+
+39.51
+
+118.78
+
+10,050.43
+358.07
+
+4,122.09
+
+4,434.32
+
+4,421.43
+
+18,269.14
+
+Less: Tax expense as per P&L
+
+729.00
+
+(1,985.51)
+
+(57.13)
+
+(4,596.60)
+(808.22)
+
+733.32
+
+Less: Tax Impact on regulatory deferral account balances
+
+45.36
+
+(597.79)
+
+Add: Regulatory Deferred account-Deferred Tax-lncome/(Expenses) [Refer
+
+(39.27)
+
+(5,286.34)
+
+10.48
+
+(4,931.44)
+
+note SJ
+Profit after tax
+
+3,410.95
+
+4,552.80
+
+3,653.23
+
+15,921.00
+
+Segment Assets
+- Transmission
+
+1,90,289.81
+
+Segment Results
+Profit before Interest and Tax
+
+Total Profit before Interest and Tax
+Add:
+
+Unallocated Expenses
+Profit before Tax [including Regulatory Deferral Account BalancesOperating]
+
+C.
+
+1,85,067.76
+
+1,90,289.81
+
+1,90,658.21
+
+- Consultancy
+
+1,902.42
+
+1,855.53
+
+1,390.44
+
+1,855.53
+
+Unallocated Assets
+
+93,525.08
+214.51
+
+87,075.05
+
+69,499.55
+143.52
+
+87,075.05
+
+2,80,709.77
+
+214.51
+2,79,434.90
+
+2,61,691.72
+
+214.51
+2,79,434.90
+
+- Transmission
+
+12,356.19
+
+12,343.11
+
+11,840.51
+
+12,343.11
+
+- Consultancy
+
+2,534.45
+
+2,514.87
+
+2,320.58
+
+2,514.87
+
+1,62,427.40
+
+1,64,648.31
+
+1,64,648.31
+
+1,77,318.04
+
+1,79,506.29
+
+1,51,472.04
+1,65,633.13
+
+Assets Classified as Held for Sale (refer note 3 & 4)
+Total Assets
+
+D.
+
+Segment Liabilities
+
+Unallocated Liabilities
+Total Liabilities
+Notes:
+
+The operations of the Company are mainly carried out within the country and therefore, geographical segments are not applicable.
+
+1,79,506.29
+
+
+§j~
+
+f4I
+
+Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+
+-[~ = ~
+
+CIN: L40101DL1989GOI038121
+B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+
+•~
+
+Additional Information on Standalone basis pursuant to Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended as at and for the quarter ended 30 June 2026
+
+(5' in Crore)
+Quarter ended
+
+SI.
+No.
+
+Particulars
+
+.
+
+1 Reserves (excluding Revaluation Reserve) as per balance sheet
+2 Net Worth
+3 Total Borrowings
+4 Bonds Redemption Reserve
+
+5 Debt Equity Ratio
+
+Year ended
+
+30.06.2026
+
+31.03.2026
+
+30.06.2025
+
+31.03.2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+94,091.13
+1,03,391. 73
+
+90,628.01
+99,928.61
+1,48,009.01
+2,721.31
+
+96,058.59
+1,30,645.77
+3,032.86
+
+1.48
+
+1.36
+
+90,628.01
+99,928.61
+1,48,009.01
+2,721.31
+1.48
+
+1.36
+
+2.11
+
+1.04
+
+1.54
+
+3.52
+
+4.13
+
+4.00
+
+3.93
+
+0.60
+
+0.70
+
+0.92
+
+0.70
+
+18.71
+
+17.96
+
+12.33
+
+17.96
+
+-
+
+-
+
+-
+
+-
+
+0.21
+
+0.23
+
+0.17
+
+0.23
+
+0.52
+
+0.53
+
+0.50
+
+0.53
+
+3.86
+
+3.77
+
+4.96
+
+4.40
+
+25.93
+
+28.44
+
+28.74
+
+28.95
+
+97%
+
+100%
+
+97%
+
+98%
+
+35%
+
+46%
+
+37%
+
+39%
+
+1,45,586.45
+2,573.82
+1.41
+
+86,757.99
+
+{Total Borrowings/Shareholder's Equity]
+6 Debt Service Coverage Ratio (DSCR)
+{(Profit for the period + Depreciation and amortisation expense + Finance
+costs + FERV + Net Loss on Sale of Fixed Assets)/(Finance costs + lease
+Payments + Principal Repayments)]
+7 Interest Service Coverage Ratio (ISCR)
+{(Profit for the period + Depreciation and amortisation expense + Finance
+costs+ FERV + Net loss on Sale of Fixed Assets)/{Finance costs)]
+
+8 Current Ratio
+[Current Assets/Current Liabilities]
+9 Long Term Debt to Working Capital
+{(Non-Current Borrowings+Current Maturities of Long-term Borrowings)/
+(Current Assets-Current Liabilities excluding Current Maturities of Long-term
+Borrowings)]
+10 Bad debts to Account Receivable Ratio
+[Bad debts/Average Trade Receivables]
+11 Current Lia bi Iity Ratio
+[Current liabilities/Total liabilities]
+12 Total Debts to Total Assets
+[Total Borrowings/Total Assets]
+13 Debtors Turnover
+[Annualised Revenue from Operations/Average Trade Receivables]
+14 Inventory Turnover
+[Annualised Revenue from Operations/Average Inventory]
+15 Operating Margin (%)
+[Earnings before Interest, depreciation, Tax/Revenue from Operations]
+
+16 Net Profit Margin {%)
+{Profit for the Periad/Revenue from Operations]
+Note: All ratios are calculated including assets classified as held for sale.
+
+~
+
+
+,§~~
+
+__
+
+POWERGRID
+
+Notes to Standalone financial results:
+
+1) (a) In exercise of powers u/s 178 of the Electricity Act 2003, Central Electricity Regulatory Commission
+(CERC) has notified "CERC (Terms and Conditions of Tariff) Regulations, 2024" vide notification dated 15
+March, 2024 for the determination of transmission tariff for the block period 2024-29.
+(b) The company has recognised transmission income during the quarter ended 30 June 2026 as per the
+·following:
+(i)
+
+, 9,019.03 crore for the quarter (corresponding previous quarter, 8,821.48 crore) as per tariff
+
+orders issued by CERC.
+(ii) , 497.05 crore for the quarter (corresponding previous quarter , 603.83 crore) provisionally as
+per CERC Tariff Regulations in respect of transmission assets for which tariff orders are yet to be
+issued.
+(c) Consequent to the final order issued by CERC, transmission income includes, 21.56 crore (decrease)
+for the quarter (corresponding previous quarter, 7.82 crore (increase)) pertaining to earlier years.
+2) The Board of Directors of the Company in their meeting held on 19 March 2026 had approved the
+schemes of arrangement for merger/ amalgamation (here in after called as "Schemes") ofa) Wholly owned subsidiaries of the company namely, Powergrid Kudankulam Transmission
+Limited, Powergrid Barmer I Transmission Limited, Powergrid Bikaner IV Transmission Limited,
+Powergrid
+
+Siwani
+
+Transmission
+
+Limited,
+
+Powergrid
+
+Fatehgarh
+
+Barmer
+
+Augmentation
+
+Transmission Limited, Powergrid Ramgarh Transmission Limited, Powergrid Bhadla Transmission
+Limited, Powergrid Fatehgarh Transmission Limited , Powergrid Bikaner Transmission System
+Limited, Powergrid Narela Transmission Limited, Powergrid Khetri Transmission System Limited,
+Powergrid Ajmer Phagi Transmission Limited, Powergrid Varanasi Transmission System Limited,
+Powergrid Neemuch Transmission System Limited, Powergrid Mithilanchal Transmission Limited
+, Powergrid Medinipur Jeerat Transmission Limited, Powergrid Mahan Rewa Transmission
+Limited (collectively "Transferor Companies") with wholly owned subsidiary namely Powergrid
+Ghiror Transmission Limited ("Transferee Company") and
+b) Wholly owned subsidiaries of the company namely Powergrid Sirohi Transmission Limited,
+Powergrid Mandsaur Transmission Limited, Powergrid Mewar Transmission Limited, Powergrid
+Beawar-Mandsaur Transmission Limited, Powergrid Kurawar Transmission Limited, Powergrid
+Sirohi Khandwa Transmission Limited, Powergrid ER NER Transmission Limited, Powergrid
+Chitradurga Bellary Transmission Limite_d, Powergrid Kurnool-I11 CPETA Transmission Limited,
+Powergrid Jam Khambhaliya Transmission Limited, Powergrid Banaskantha Augmentation
+Transmission Limited (collectively "Transferor Companies") with wholly owned subsidiary
+namely Powergrid South Olpad Transmission Limited ("Transferee Company'')
+under section 230 to 233 of the Companies Act, 2013 and other statutory provisions as per the terms
+and conditions mentioned in the Schemes of Arrangement for merger/ amalgamation.
+3) The Board of Directors in their meeting have accorded in principle approval for sale of entire stake in
+Joint Ventures (JVs) of the Company namely Torrent P w r Grid Limit
+
+ceased to be JV w.e.f 30 May
+
+-'
+
+: --J
+
+;\c
+
+'
+
+.
+
+
+=1=-
+
+~
+
+J~ = =s
+
+2025) & Sikkim Power Transmission Limited on 19 May 2025 and Parbati Koldam Transmission Company
+Limited on 30 July 2025. Accordingly, investment in these JV Companies is classified as "Asset classified
+as held for sale" in line with Ind AS 105.
+4) The Board of Directors in their meeting held on 09 March 2026 have accorded in principle approval for
+divestment of entire equity stake in Central Transmission Utility of India Limited (CTUIL) a Wholly owned
+subsidiary of the parent company to Grid Controller of India Limited (GRID-INDIA). Accordingly,
+investment in CTUIL is classified as "Assets classified as held for sale" in line with Ind AS 105.
+5)
+
+Net movement in Regulatory Deferral Account Balances (net of tax) primarily comprises foreign
+exchange differences arising from settlement/translation of monetary items denominated in foreign
+currency, to the extent recoverable from or payable to the beneficiaries in subsequent periods. Further,
+deferred tax recognized during the year on transmission income is treated as "Deferred Assets against
+Deferred Tax Liability." Such deferred assets are to be reversed in subsequent periods when the
+corresponding deferred tax liability becomes part of current tax, in accordance with the provisions of
+CERC Tariff Regulations and Ind AS 114 on Regulatory Deferral Accounts.
+The detailed breakup of the same is as follows:
+(~ in Crore)
+SI
+no
+
+Particulars
+
+Quarter ended
+
+Quarter
+ended
+
+Quarter
+ended
+
+Year ended
+
+30-06-2026
+
+31-03-2026
+
+30-06-2025
+
+31-03-2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+1
+
+Deferred assets for deferred
+tax liability*
+
+(39.27)
+
+(5,286.34)
+
+10.48
+
+(4,931.44)
+
+2
+
+Foreign Currency Fluctuation
+
+{124.50)
+
+660.35
+
+248.93
+
+1,506.77
+
+3
+
+Employee Benefits and Other
+Expenses
+
+0.27
+
+0.23
+
+0.23
+
+3.27
+
+(163.50)
+
+(4,625.76)
+
+259.64
+
+(3,421.40)
+
+Tax on net movement in
+regulatory deferral account
+balances
+
+(57.13)
+
+(808.22)
+
+45.36
+
+(597.79)
+
+Total
+
+(106.37)
+
+(3,817.54)
+
+214.28
+
+(2,823.61)
+
+4
+
+*The movement in "Deferred assets against deferred Tax liability" is primarily attributable to the remeasurement of
+deferred tax balances pursuant to the enactment of the Rnance Act, 2026. In view of the Company's expected
+transition to the new tax regime under the Income-tax Act, 2025 in the near future, deferred tax balances have
+been measured using the applicable tax rates. This has resulted in a significant impact during the fourth quarter of
+FY 2025-26, which has been appropriately reflected in the Regulatory Deferral Account Balances.
+
+6)
+
+Provision for taxes, employee benefits and other provisions for contingencies have been considered on
+estimated basis.
+
+7) The above statement of Standalone financial results has been reviewed by the Audit Committee
+(consisting of two Non-executive Directors and one Executive Director (wholetime), pending
+
+·~ ·a
+
+1,
+·-
+
+_..,,.•\•l·
+
+) /
+
+./
+
+
+appointment of Independent Directors), and thereafter has been considered and approved by the Board
+of Directors in their respective meetings held on 05 August 2026.
+8) As required under regulation 33 and 52 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations 2015, as amended to the extent applicable, the Statutory Auditors have conducted a limited
+review of the Standalone financial results for the quarter ended 30June 2026.
+9)
+
+Previous period figures have been regrouped/ rearranged wherever considered necessary.
+
+For and on behalf of POWER GRID CORPORATION OF INDIA LIMITED
+
+~
+
+Dr. Yatindra Dwivedi
+Director (Finance)
+DIN: 10301390
+Place: New Delhi
+Date: 05 August 2026
+
+
+ASA & Associates LLP
+Chartered _\ccountants
+_\urobindo Tower.
+81/1 Third Floor
+_-\dchin~ _-\urobindo :\farg,
+New Delhi-110017
+
+Jain Paras Bilala & Co.
+Chartered . \ccountants
+Room no. 507. ;\farshall House
+33/1, Netaji Subhas Road,
+Kolkata, \X1est Bengal-700001
+
+Sagar & Associates
+Chartered _-\ccountants
+H. No. 6-3-244/5,
+Sarada Devi Street, Prem Nagar,
+Hyderabad-500004
+
+G. D. Apte & Co.
+Chartered _-\ccountants
+D-509, Neelkanth Busu1ess Park
+Nathani Road, Vidyavihar West,
+Mumbai---1-00086
+
+Independent Auditors' Limited Review Report on the Unaudited Standalone Financial Results for the
+quarter ended June 30, 2026 of the Company pursuant to the Regulation 33 and Regulation 52 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the
+"Listing Regulations")
+To
+The Board of Directors,
+Power Grid Corporation of India Limited
+1. We have reviewed the accompanying Statement of Unaudited Standalone Financial Results of Power Grid
+Corporation of India Limited ("the Company") for the quarter ended June 30, 2026 (hereinafter referred
+to as "the Statement"), being submitted by the Company pursuant to the requirement of Regulation 33 and
+Regulation 52 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("the Listing Regulations").
+2. This Statement which is the responsibility of the Company's Management, has been reviewed and
+approved by the Company's Board of Directors, has been prepared in accordance with the recognition and
+measurement prmciples laid down in the Indian Accounting Standard 34 "Interinl Financial Reportrng"
+(Ind AS 34), prescribed under Section 133 of the Companies Act, 2013, as amended ("the .-\ct") read with
+relevant rules issued thereunder and other accountmg principles generally accepted m India and in
+compliance with Regulation 33 and 52 of the Listing Regulations. Our responsibility is to express a
+conclusion on the Statement based on our review.
+3. We conducted our review of the statement in accordance with the Standard on Review Engagement (SRE)
+2410, "Review of Interinl Fmancial Information Performed by the Independent _-\uditor of the Entity",
+issued by the Institute of Chartered Accountants of India. This Standard requires that we plan and perform
+the review to obtain moderate assurance as to whether the Statement is free of material misstatement . •-\
+review of Interun financial Information consists of making inquiries, prunarily of persons responsible for
+financial and accounting matters, and applying analytical and other review procedures. A review is
+substantially less m scope than an audit conducted in accordance with the Standards on Auditing specified
+under section 143(10) of the .,\ct, and consequently, does not enable us to obtam assurance that we would
+become aware of all significant matters that might be identified m an audit. Accordmgly, we do not express
+an audit opmion.
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe that
+the accompanying Statement, prepared in accordance with the recognition and measurement principles laid
+down m the aforesaid Indian .-\ccounting Standards (Ind AS') specified under Section 133 of the .-\ct, read
+with relevant rules issued thereunder and other accounting prmciples generally accepted m India, has not
+disclosed the information required to be disclosed m terms of the Listing Regulations, mcluding the manner
+m which it is to be disclosed, or that it contams any material misstatement.
+
+Page 1 of2
+
+
+::>.
+
+Other Matters
+a)
+
+·n1e Statement includes the results for the quarter ended 31 March 2026 which are the balancing
+figures between the audited figures in respect of the full previous financial year and the published
+unaudited year to date figures up to the third quarter of the pre\·ious financial year, which were
+subjected to limited review, as required under the Listing Regulations.
+
+b) The Statement includes comparative figures for the corresponding quarter ended June 30, 2025.
+which have been reviewed by S. Ramanand _--\.iyar & Co., Jain Paras Bilala & Co., Sagar & _-\ssociates,
+and G.D. _-\pte & Co., where they have expressed an unmodified conclusion vi.de their report dated
+July 30, 2025 on such unaudited Standalone Financial Results.
+Our conclusion on the Statement is not modified in respect of the above matters.
+
+For ASA & Associates LLP
+Chartered Accountants
+FRN:009571N/N50006
+
+For Jain Paras Bilala & Co.
+Chartered Accountants
+FRN: 011046C
+
+~°'---~~
+Partner
+M. No. 522045
+UD IN :26522045FEDOBN7 552
+
+ParasB~
+Partner
+M. No. 400917
+UDIN: 26400917GJHLCN4956
+
+For Sagar & Associates
+Chartered Accountants
+FRN:003510S
+
+For G. D. Apte & Co.
+Chartered ~-\ccountants
+FRN: 100515\-X'
+
+,.,
+B. Nehitha
+Partner
+M. No. 292123
+UD IN: 26292123TEZBWC7 339
+
+~
+
+Anagha M. Nanivadekar
+Partner
+M. No. 121007
+UDIN: 26121007REFSPZ827
+
+Place: New Delhi
+Date: .-\ugust 05, 2026
+
+Page 2 of2
+
+
+fcil
+
+§l~
+J;....
+
+=,!
+
+--
+
+Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+
+S
+
+CIN : L40101DL1989GOI038121
+B--9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+Statement of Unaudited Consolidated Financial Results for the quarter ended 30 June 2026
+(it in Crore)
+
+SI.
+No.
+
+Quarter ended
+Particulars
+
+30.06.2026
+
+31.03.2026
+
+30.06.202S
+
+Year ended
+31.03.2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+Income
+
+I
+II
+Ill
+IV
+
+V
+
+VI
+VII
+VIII
+
+Revenue From Operations
+Other Income
+
+11,496.72
+200.00
+
+11,665.61
+305.08
+
+11,196.22
+248.20
+
+46,732.87
+951.56
+
+Total Income (1+11)
+
+11,696.72
+
+11,970.69
+
+11,444.42
+
+47,684.43
+
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses
+
+673.73
+2,022.94
+3,128.47
+1,286.52
+
+701.01
+2,174.73
+3,294.63
+1,898.99
+
+640.57
+1,934.28
+3,130.47
+1,408.91
+
+2,668.90
+8,447.58
+13,029.68
+6,084.90
+
+Total Expenses (IV)
+
+7,111.66
+
+8,069.36
+
+7,114.23
+
+30,231.06
+
+4,585.06
+
+3,901.33
+
+4,330.19
+
+17,453.37
+
+2.26
+
+16.99
+
+(44.44)
+
+(132.34)
+
+4,587.32
+
+3,918.32
+
+4,285.75
+
+17,321.03
+
+815.60
+1.13
+66.01
+
+754.00
+34.69
+(5,179.80)
+
+775.05
+92.94
+
+3,164.61
+34.69
+(4,580.61)
+
+882.74
+
+(4,391.11)
+
+867.99
+
+(1,381.31)
+
+3,704.58
+
+8,309.43
+
+3,417.76
+
+18,702.34
+
+(106.16)
+
+(3,763.10)
+
+212.82
+
+(2,774.39)
+
+3,598.42
+
+4,546.33
+
+3,630.58
+
+15,927.95
+
+Items that will not be reclassified to profit or loss (net of tax)
+Items that will be reclassified to profit or loss (net of tax)
+Share of Other Comprehensive Income of Joint Ventures accounted for
+using Equity Method
+
+64.33
+(121.79)
+
+22 .11
+33.57
+
+189.72
+
+-
+
+173.54
+93.52
+
+(13.75)
+
+(4.36)
+
+1.04
+
+(1.23)
+
+Total Comprehensive Income for the period (Xl+XII)
+
+3,527.21
+
+4,597.65
+
+3,821.34
+
+16,193.78
+
+9,300.60
+
+9,300.60
+
+.
+
+9,300.60
+
+9,300.60
+
+3.87
+
+4.89
+
+3.90
+
+17.13
+
+3.98
+
+8.94
+
+3.67
+
+20.11
+
+Expenses
+
+Profit before Share of net profits of investments in Joint Ventures
+accounted for using Equity Method, Tax and Regulatory Deferral Account
+Balances (Ill-IV)
+Share of net profits/(loss) of investments in Joint Ventures accounted for
+usini;i Equity Method
+Profit before Tax and Regulatory Deferral Account Balances (V+VI)
+
+Tax expense:
+Current tax - Current Year
+- Earlier Years
+Deferred tax
+
+IX
+
+Profit for the period before Regulatory Deferral Account Balances (VII-VIII)
+
+X
+
+Net movement in Regulatory
+lncome/(Expenses) (net of tax)
+
+XI
+XII
+
+XIII
+XIV
+
+xv
+
+XVI
+
+Deferral
+
+Account
+
+Balances
+
+-
+
+Profit for the period (IX+X)
+Other Comprehensive Income
+
+Paid up Equity Share Capital
+(Face value of share : ;i;: 10/- each)
+Earnings per equity share including movement in Regulatory Deferral
+Account Balances (Face value of U0/- each) : Basic & Diluted (In~) *
+Earnings per equity share excluding movement in Regulatory Deferral
+Account Balances (Face value of U0/- each) : Basic & Diluted (In~) *
+Refer accompanying notes to the financial results.
+(*) Figures for the quarters have not been annualized
+
+
+1f!lt§..
+
+fcil
+
+=-=d~
+Qlc:ii! s
+f= POWERGRID
+
+SI.
+No.
+A.
+
+B.
+
+C.
+
+Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+CIN : L40101DL1989GOI038121
+B-9, Qutab Institutional Area, Katwarla Sarai, New Delhi-110016
+Statement of Consolidated Segment wise Revenue, Results, Assets and Liabilities
+for the quarter ended 30 June 2026
+
+Particulars
+
+30.06.2026
+(Unaudited)
+
+Segment Revenue (including allocable Other Income)
+- Transmission
+- Consultancy
+- Telecom
+Total
+Less: Inter Segment Revenue
+Total Revenue including allocable Other Income
+Other unallocated income
+Total Income
+Segment Results
+Profit before Interest and Tax
+- Transmission
+- Consultancy
+- Telecom
+Total Profit before Interest and Tax
+Add:
+Share of net profits of investments in Joint Ventures accounted for using
+Equity Method
+Other unallocated income
+Less:
+Unallocated interest and finance charges
+Unallocated Expenses
+Profit before Tax [including Regulatory Deferral Account BalancesOperating)
+Less: Tax expense as per P&L
+Less: Tax Impact on regulatory deferral account balances
+Add: Regulatory Deferred account-Deferred Tax-lncome/(Expenses) [Refer
+Note 5)
+Profit after tax
+Segment Assets
+- Transmission
+- Consultancy
+- Telecom
+Unallocated Assets
+Assets Classified as Held for Sale (refer note 3 & 4)
+Total Assets
+
+Quarter ended
+31.03.2026
+(Unaudited)
+
+30.06.2025
+(Unaudited)
+
+(" in Crore)
+Year ended
+31.03.2026
+(Audited)
+
+251.77
+
+830.53
+315.73
+
+10,694.66
+405.92
+289.49
+
+44,082.74
+2,347.36
+1,195.07
+
+11,699.66
+
+12,011.35
+
+11,390.07
+
+47,625.17
+
+117.81
+
+152.12
+
+78.64
+
+419.23
+
+11,581.85
+
+11,859.23
+
+11,311.43
+
+47,205.94
+
+10,929.16
+518.73
+
+10,865.09
+
+114.87
+
+111.46
+
+132.99
+
+478.49
+
+11,696.72
+
+11,970.69
+
+11,444.42
+
+47,684.43
+
+6,361.20
+30.07
+
+6,328.06
+30.61
+141.67
+
+26,353.13
+
+97.97
+
+6,310.60
+240.53
+140.27
+
+6,489.24
+
+6,691.40
+
+6,500.34
+
+27,322.50
+
+2.26
+
+16.99
+
+(44.44)
+
+(132.34)
+
+114.87
+
+111.46
+
+132.99
+
+478.49
+
+2,022.94
+120.34
+
+2,174.73
+66.22
+
+1,934.28
+119.70
+
+8,447.58
+390.00
+
+4,463.09
+
+4,578.90
+
+4,534.91
+
+18,831.07
+
+882.74
+{57.10)
+(39.03)
+
+(4,391.11)
+
+867.99
+
+(796.70)
+(5,220.38)
+
+45.05
+8.71
+
+{1,381.31)
+{587.38)
+
+3,598.42
+
+4,546.33
+
+3,630.58
+
+15,927.95
+
+2,26,732.04
+4,659.78
+2,202.76
+57,315.30
+2,917.05
+
+2,30,311.08
+4,624.52
+2,122.61
+54,712.90
+2,956.15
+
+2,17,088.68
+3,384.72
+1,906.98
+
+2,30,311.08
+
+48,381.63
+205.02
+
+4,624.52
+2,122.61
+54,712.90
+2,956.15
+
+2,93,826.93
+
+2,94,727.26
+
+2,70,967.03
+
+2,94,727.26
+
+Segment Liabilities
+10,785.21
+12,910.26
+- Transmission
+10,771.36
+4,860.41
+3,958.72
+- Consultancy
+4,845.58
+1,317.69
+1,014.28
+- Telecom
+1,309.86
+1,70,304.64
+1,56,601.80
+Unallocated Liabilities
+1,74,689.55
+.
+Liabilities directly associated with Assets Classified as Held for Sale (Refer
+2,545.51
+2,602.05
+Note4)
+1,74,485.06
+Total Liabilities
+1,89,798.63
+1,94,233.23
+Notes
+The operations of the Group are mainly carried out within the country and therefore, geographical segments are not applicable.
+
+403.38
+565.99
+
+(4,871.81)
+
+D.
+
+--
+
+10,771.36
+4,860.41
+1,309.86
+1,74,689.55
+2602.05
+
+1,94,233.23
+
+
+,:ua-.:!fcils Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+POWERGRID
+
+CIN : L40101DU989GOI038121
+B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+
+Additional Information on Consolidated basis pursuant to Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended as at and for the quarter ended 30 June 2026
+(" in Crore)
+Quarter ended
+
+SI.
+No.
+
+Particulars
+
+1 Reserves (excluding Revaluation Reserve) as per balance sheet
+2 Net Worth
+3 Total Borrowings
+4 Bonds Redemption Reserve
+5 Debt Equity Ratio
+
+Year ended
+
+30.06.2026
+
+31.03.2026
+
+30.06.2025
+
+31.03.2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+91,193.43
+
+87,181.37
+96,481.97
+1,30,645.77
+
+2,573.82
+
+1,00,494.03
+1,48,009.01
+2,721.31
+
+1.40
+
+1.47
+
+1.35
+
+1,48,009.01
+2,721.31
+1.47
+
+1.46
+
+2.25
+
+1.06
+
+1.61
+
+4.32
+
+4.85
+
+4.64
+
+4.57
+
+0.57
+
+0.62
+
+0.86
+
+0.62
+
+84.84
+
+*
+
+17 .11
+
+*
+
+94,727.70
+1,04,028.30
+
+1,45,586.45
+
+3,032.86
+
+91,193.43
+1,00,494.03
+
+[Total Borrowings/Shareholder's Equity]
+6 Debt Service Coverage Ratio (DSCR)
+[(Profit for the period + Depreciation and amortisation expense + Finance
+
+costs + FERV + Net Loss on Sale of Fixed Assets)/(Finance costs + Lease
+Payments + Principal Repayments)]
+7 Interest Service Coverage Ratio (ISCR)
+[(Profit for the period + Depreciation and amortisation expense + Finance
+
+costs + FERV + Net Loss on Sale of Fixed Assets)/(Finance costs)]
+
+8 Current Ratio
+
+[Current Assets/Current Liabilities]
+9 Long Term Debt to Working Capital
+
+[(Non-Current Borrowings+Current Maturities of Long-term Borrowings)/
+(Current Assets-Current Liabilities excluding Current Maturities of Long-term
+Borrowings)]
+10 Bad debts to Account Receivable Ratio
+
+-
+
+-
+
+-
+
+-
+
+0.26
+
+0.28
+
+0.20
+
+0.28
+
+0.50
+
+0.50
+
+0.48
+
+0.50
+
+4.15
+
+3.97
+
+5.06
+
+4.61
+
+21.58
+
+23.62
+
+23.73
+
+23.78
+
+83%
+
+84%
+
+85%
+
+85%
+
+[Bad debts/Average Trade Receivables]
+11 Current Liability Ratio
+
+[Current Liabilities/Toto/ Liabilities]
+12 Total Debts to Total Assets
+
+[Toto/ Borrowings/Total Assets]
+13 Debtors Turnover
+
+[Annualised Revenue from Operations/Average Trade Receivables]
+
+14 Inventory Turnover
+[Annualised Revenue from Operations/Average Inventory]
+15 Operating Margin (%)
+
+[Earnings before Interest, depreciation, Tax/Revenue from Operations]
+
+16 Net Profit Margin (%)
+
+32%
+31%
+39%
+[Profit for the Period/Revenue f rom Operations]
+Note: All ratios are calculated including assets classified as held for sale and liabilities directly associated with assets classified as held for sale
+* Ratio cannot be calculated as denominator is negative
+
+34%
+
+
+_ qich!Fci)s Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+~
+
+POWERGAJD
+
+CIN : L40101DL1989GOI038121
+B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+
+The Subsidiaries & Joint Venture Companies considered in Unaudited Consolidated Financial Results for the quarter ended 30 June 2026
+Ownership (%)
+
+Subsidiary Companies
+Incorporated in India
+
+1 Powergrid Vemagiri Transmission Limited
+
+100%
+
+2 Powergrid NM Transmission Limited
+
+100%
+
+3 Powergrid Unchahar Transmission Limited
+
+100%
+
+4 Powergrid Southern lnterconnector Transmission System Limited
+
+100%
+
+5 Powergrid Medinipur Jeerat Transmission Limited
+
+100%
+
+6 Powergrid Mithilanchal Transmission Limited
+
+100%
+
+7 Powergrid Varanasi Transmission System Limited
+
+100%
+
+8 Powergrid Jawaharpur Firozabad Transmission Limited
+
+100%
+
+9 Powergrid Khetri Transmission System Limited
+
+100%
+
+10 Powergrid Bhuj Transmission Limited
+
+100%
+100%
+
+11 Powergrid Bhind Guna Transmission Limited
+12 Powergrid Ajmer Phagi Transmission Limited
+13 Powergrid Fatehgarh Transmission Limited
+
+100%
+100%
+
+14 Powergrid Rampur Sambhal Transmission Limited
+
+100%
+
+15 Powergrid Meerut Simbhavali Transmission Limited
+
+100%
+
+16 Central Transmission Utility of India Limited
+
+100%
+
+17 Powergrid Ramgarh Transmission Limited
+18 Powergrid Himachal Transmission Limited
+
+100%
+
+19 Powergrid Bikaner Transmission System Limited
+
+100%
+
+20 Powergrid Sikar Transmission Limited
+
+100%
+
+21 Powergrid Bhadla Transmission Limited
+
+100%
+
+22 Powergrid Aligarh Sikar Transmission Limited
+
+100%
+
+23 Powergrid Teleservices Limited
+
+100%
+
+24 Powergrid Energy Services Limited
+25 Powergrid Narela Transmission Limited
+
+100%
+
+26 Powergrid Gomti Yamuna Transmission Limited
+
+100%
+
+27 Powergrid Neemuch Transmission System Limited
+28 Powergrid ERNER Transmission Limited
+
+100%
+
+29 Powergrid Khavda 11-C Transmission Limited
+30 Powergrid Vataman Transmission Limited
+
+100%
+
+31 Powergrid Khavda IV-E2 Power Transmission Limited
+
+100%
+
+32 Powergrid Mandsaur Transmission Limited
+
+100%
+
+33 Powergrid Mewar Transmission Limited
+34 Powergrid Sirohi Transmission Limited
+
+100%
+
+35 Powergrid Beawar-Mandsaur Transmission Limited
+36 Powergrid Bhadla-111 Power Transmission Limited
+
+100%
+
+37 Powergrid Bhadla Bikaner Transmission Limited
+
+100%
+
+38 Powergrid South Olpad Transmission Limited
+39 Powergrid Kurawar Transmission Limited
+40 Powergrid Jam Khambhaliya Transmission Limited
+
+100%
+
+100%
+
+100%
+
+100%
+100%
+
+100%
+100%
+
+100%
+100%
+
+tt
+~-
+
+
+Qlci..!lias Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+_F
+
+POWERGRID
+
+CIN : L40101DL1989GOI038121
+B-9, Qutab Institutional Area, Katwaria Sarai, New Delhl-110016
+
+41 Powergrid Khavda PSl And 3 Transmission Limited
+
+100%
+
+42 Powergrid Barmer I Transmission Limited
+
+100%
+
+43 Powergrid Bikaner IV Transmission Limited
+
+100%
+
+44 Powergrid Siwani Transmission Limited
+
+100%
+
+45 Powergrid West Central Transmission Limited
+
+100%
+
+46 Powergrid Ghiror Transmission Limited
+
+100%
+
+47 Powergrid Kudankulam Transmission Limited
+
+100%
+
+48 Powergrid Koppal Gadag Augmentation Transmission Limited
+
+100%
+
+49 Powergrid Bidar Augmentation Transmission Limited
+
+100%
+
+so Powergrid KPS 1 and 2 Augmentation Transmission Limited
+
+100%
+
+51 Powergrid Chitradurga Bellary Transmission Limited
+
+100%
+
+52 Powergrid Fatehgarh Barmer Augmentation Transmission Limited
+
+100%
+
+53 Powergrid Banaskantha Augmentation Transmission Limited
+
+100%
+
+54 Powergrid Kurnool-lV Transmission Limited
+
+100%
+
+55 Powergrid Sirohi Khandwa Transmission Limited
+56 Powergrid Kurnool-11I CPETA Transmission Limited
+
+100%
+100%
+
+57 Powergrid Mahan Rewa Transmission Limited
+
+100%
+
+58 Powergrid Davanagere Augmentation Transmission Limited
+
+100%
+100%
+
+59 Powergrid Mandsaur Augmentation Transmission Limited
+60 Powergrid Prayagraj Transmission Limited
+61 Powergrid Parli Bidar Transmission Limited
+
+100%
+
+62 Powergrid Angul Srikakulam Transmission Limited
+
+100%
+
+63 Powergrid Bellary Davanagere Transmission Limited
+
+100%
+
+100%
+
+64 Powergrid West Maharashtra Transmission Limited (Formerly Known as NES Pune East New Transmission Limited)
+65 Powergrid Tumkur Madhugiri Transmission Limited (Formerly Known as Tumkur II RE Transmission Limted)
+66 Kakinada I Transmission Limited
+
+2
+
+100%
+100%
+100%
+
+67 WR ER Part A Power Transmission Limited
+1
+
+1
+
+3
+
+100%
+
+100% equity acquired from PFC Consulting Limited on 29.05.2026
+
+' 100% equity acquired from PFC Consulting Limited on 29.06.2026
+' 100% equity acquired from REC Power Development and Consultancy Limited on 30.06.2026
+
+Joint Ventures
+
+Ownership(%)
+
+Incorporated in India
+
+49%
+
+1 Powerlinks Transmission Limited
+2 Torrent Power Grid Limited
+
+1
+
+9.75%
+
+3 Parbati Koldam Transmission Company Limited
+
+2
+
+26%
+30.92%
+
+3
+
+4 Sikkim Power Transmission Limited
+5 North East Transmission Company Limited
+
+26%
+
+6 National High Power Test Laboratory Private Limited
+
+50%
+
+7 Bihar Grid Company Limited
+
+50%
+39.25%
+
+8 Energy Efficiencv Services Limited"
+9 Cross Border Power Transmission Company Limited
+10 RINL PowerRrid TLT Private Limited 4
+
+41.94%
+
+11 Butwal-Gorakhpur Cross Border Power Transmission Limited
+12 Rajasthan Power Grid Transmission Company Limited
+
+5
+
+50%
+50%
+74%
+
+
+q ld-i!fci}s
+
+Power Grid Corporation of India Limited (A Govt. of India Enterprise)
+
+POWERGRID
+
+CIN : L40101DU989GOI038121
+8-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016
+
+Incorporated outside India
+
+13 Power Transmission Company Nepal Limited
+
+I
+l
+
+6
+
+14 Mwanga Transmission Company Limited 7
+1
+
+26%
+
+40%
+
+POWERGRID & Torrent Power Transmission Private Ltd are the Joint venture partners in Torrent Power Grid Limited & holds 26% & 74 % equity, respectively as per
+
+Shareholding agreement. On call of additional equity by Torrent Power Grid Limited, POWERGRID has not contributed their share while the other JV partner has contributed
+their share of money. Consequently, the holding of POWERGRID decreased to 9.75% against 26% provided in shareholding agreement and ceased to be a JV of the company
+w.e.f 3D May 2025. Board of Directors have accorded In principle approval for sale of entire stake in their meeting dated 19 May 2025. Accordingly, investment in JV Company is
+classified as Asset held for sale in line with Ind AS 105.
+2
+
+Board of Directors have accorded in principle approval for sale of entire stake in their meeting dated 30 July 2025. Accordingly, investment In JV Company is classified as Asset
+
+held for sale in line with Ind AS 105.
+3
+
+Board of Directors have accorded in principle approval for sale of entire stake in their meeting dated 19 May 2025. Accordingly, investment in JV Company is classified as Asset
+held for sale in line with Ind AS 105.
+
+4
+
+POWERGRID's Board of Directors in its meeting held on 01.05.2018 accorded in principle approval to close RINL Powergrid TLT Private Limited (RPTPL) and seek consent of
+
+other JV Partner Rashtriya lspat Nigam Limited (RINL). RINL's Board of Directors in its meeting held on 08.03.2019 has agreed in principle for winding up proceedings of RPTPL &
+to seek the approval from Ministry of Steel (MoS), Government of India, for closure of RPTPL. The approval for closure of RPTPL was received on 11.07.2022 from Mos.
+Contractor for site enabling works has served notice for arbitration on 17.12.2022. Final settlement was recommended in the final conciliation meeting held on 12.04.2025. JV
+partners infused further capital towards payment of final claims and liabilities. All payments are done by 28.08.2025. Powergrid has sought approval from Ministry of Power
+(MoP) for the closure on 25.08.2025. Upon receipt of approval of Ministry of Power, with the approval of Board and Shareholders by way special resolution, RPTPL will initiate
+actions for voluntary winding up to close the company. The company is in the process of winding up.
+5
+
+Incorporated on 27.11.2024 for development of Intra-State Transmission System in the State of Rajasthan with an equity participation of 74% by the company and 26% by
+
+Rajasthan Rajya Vidyut Prasaran Nigam Limited. Being a jointly controlled entity of the Company and RRVPNL, it is considered as 'Joint Venture' of the Company
+6
+
+The Board of Directors of the company have, in its meeting held on 16 December 2023, approved the proposal for purchase of 1,30,000 no. equity shares held by IL&FS Energy
+
+Development Co Ltd in PTCN (Joint venture of the company). Presently, approvals from relevant authorities is awaited.
+7
+
+The company is incorporated as a private company under the provisions of the 'Companies Act, 2015' of Kenya. The certificate of incorporation was issued by the Registrar of
+
+companies, Kenya on 21st April 2026. There is no equity infused as on 30.06.2026
+
+# Subsidiaries of Joint Venture
+
+a)
+b)
+c)
+
+EESL EnergyPro Assets Limited*
+EESL Energy Solutions LLC*
+Convergence Energy Services Limited
+
+*incorporated outside India
+
+p
+
+.
+
+({~- /
+,·
+
+"·
+
+

@@ -1,0 +1,2072 @@
+July 17, 2026
+National Stock Exchange of India Limited
+BSE Limited
+Scrip Code –
+National Stock Exchange of India Limited: SIEMENS EQ
+BSE Limited: 500550
+Sub: Business Responsibility and Sustainability Reporting for the Financial Year 2024-26
+Dear Sir / Madam,
+Pursuant to Regulation 34(2)(f) of Securities and Exchange Board of India (Listing Obligations
+and
+
+Disclosure
+
+Requirements)
+
+Regulations,
+
+2015,
+
+please
+
+find
+
+enclosed
+
+the
+
+Business Responsibility and Sustainability Report for the Financial Year 2024-26 along with
+Independent Practitioner’s Reasonable Assurance Report on the BRSR Core Indicators, provided
+by Price Waterhouse Chartered Accountants LLP.
+The
+
+above
+
+report
+
+is
+
+also
+
+uploaded
+
+on
+
+the
+
+website
+
+of
+
+the
+
+Company
+
+viz.
+
+https://new.siemens.com/in/en/company/investor-relations/annual-reports.html.
+
+Yours faithfully,
+For Siemens Limited
+KETAN
+NANDKISHOR
+THAKER
+
+Digitally signed by KETAN
+NANDKISHOR THAKER
+DN: cn=KETAN NANDKISHOR
+THAKER, c=IN, o=PERSONAL
+Date: 2026.07.17 18:48:44 +05'30'
+
+Ketan Thaker
+Company Secretary
+Encl: a/a
+
+Siemens Limited
+Management: Sunil Mathur
+
+Dr Annie Besant Rd.
+400030 Mumbai
+INDIA
+
+Tel.: +91 22 6251 2191
+www.siemens.com
+
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030; Corporate Identity number: L28920MH1957PLC010839;
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404; Contact / Email: www.siemens.co.in/contact; Website: www.siemens.co.in.
+Sales Offices: Ahmedabad, Bengaluru, Chennai, Gurugram, Hyderabad, Kolkata, Mumbai, Nagpur, Kalwa, Puducherry, Pune, Vadodara.
+
+
+Business Responsibility and
+Sustainability Report
+Siemens Limited
+FINANCIAL YEAR 2026
+
+Siemens Limited
+
+Business Responsibility and Sustainability Report
+
+1
+
+
+Foreword
+Our technology accelerates customer transformation with industrial AI, boosting efficiency in factories,
+enhancing city livability and promoting sustainable transport solutions. Our DEGREE Sustainability
+Framework continues to anchor our purpose in all that we do. Across Decarbonization, Ethics,
+Governance, Resource Efficiency, Equity, and Employability, we are steadily moving from commitment
+to consequence.
+India is an important focus market and innovation hub of Siemens. This BRSR FY26 published reflects
+the measurable ESG strides taken by Siemens Limited during the 18 month period ending 31st March
+2026, while concurrently highlighting the rigour with which we govern our progress. The disclosure is
+a testimony to our transparency, sustainability leadership and a commitment to progress in the years
+ahead. Price Waterhouse Chartered Accountants LLP has undertaken reasonable assurance process for
+the Core indicators, and their report is attached.
+At Siemens, the measure of our work has been what that technology makes possible – for our customers,
+for India, and for a world that cannot afford to wait.
+
+Sunil Mathur 							Dr. Anantharaman Subramaniyan
+
+2
+
+Business Responsibility and Sustainability Report
+
+Siemens Limited
+
+
+SECTION A
+
+General Disclosures
+I.
+
+Details of the listed entity
+1.
+
+Corporate Identity Number (CIN) of the Company:
+
+L28920MH1957PLC010839
+
+2.
+
+Name of the Listed Entity:
+
+Siemens Limited
+
+3.
+
+Year of incorporation:
+
+1957
+
+4.
+
+Registered office address:
+
+Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant
+Road, Worli, Mumbai - 400030
+
+5.
+
+Corporate address:
+
+Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant
+Road, Worli, Mumbai - 400030
+
+6.
+
+Email:
+
+communication.in@siemens.com
+
+7.
+
+Telephone:
+
+1800 209 1800
+
+8.
+
+Website:
+
+www.siemens.co.in
+
+9.
+
+Financial year for which reporting is being done:
+
+October 1, 2024 - March 31, 2026 (18 Months Period)
+
+10.
+
+Name of the Stock Exchange(s) where shares are BSE Limited and National Stock Exchange of India Limited
+listed:
+
+11.
+
+Paid-up Capital:
+
+12.
+
+Name and contact details (telephone, email Dr. Anantharaman Subramaniyan, Head of Strategy &
+address) of the person who may be contacted in Sustainability
+case of any queries on the BRSR report:
+Phone: 1800 209 1800, as.subramaniyan@siemens.com
+
+13.
+
+Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the
+entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated
+financial statements, taken together):
+
+` 712,241,010
+
+		
+
+•
+
+The disclosures under this report are for Siemens Limited on a standalone basis. The reporting boundary
+for FY 2024 and FY 2026 also includes Permanent Establishments (PE), Right-of-Use (RoU) Assets and
+warehouses. Where actual data is not available, an area-based extrapolation has been done to arrive at
+the disclosures. Throughout the report the term “Siemens” is used for “Siemens Limited”. For references to
+Siemens AG the term “Siemens AG” is used.
+
+		
+
+•
+
+Pursuant to receipt of necessary statutory approvals and in accordance with the Scheme approved by
+the Hon’ble National Company Law Tribunal (the “NCLT”), the Holding Company (Siemens Limited) has
+demerged the Energy business effective 25 March 2025, with the appointed date being 1 March 2025
+(Refer Note 59.1 to the Audited Standalone Financial Statements of the Annual Report). Further, pursuant
+to the requirements of the Indian Accounting Standards (Ind AS), the Company’s Energy business up to the
+appointed date of demerger has been disclosed as discontinued operations. Accordingly, for the purpose of
+this reporting, the financial and operational details relating to the Energy business have been excluded with
+effect from 1 March 2025.
+
+		
+
+•
+
+The Company has approved the slump sale of its LVM business to Innomotics India Private Limited, subject to
+customary conditions and approvals, including CCI. The transaction is in the process of completion till March
+31, 2026. Accordingly, under Ind AS 105, the LVM business has been classified as discontinued operations in
+the Standalone Statement of Profit and Loss. BRSR disclosures include these discontinued operations (refer
+Note 59.2 of the Audited Standalone Financial Statements).
+
+		
+
+•
+
+The Company’s financial year has been changed to a uniform financial year commencing on 1st April of every
+year and ending on 31st March of the following year, including observing a one-time transitional financial
+year from 1st October 2024 to 31st March 2026 (18 months). Accordingly, this report will be for a period of
+18 months from 1st October 2024 to 31st March 2026.
+
+Siemens Limited
+
+Business Responsibility and Sustainability Report
+
+3
+
+
+II.
+
+14.
+
+Whether the company has undertaken reasonable assessment or assurance of the BRSR Core?: Yes
+
+15.
+
+Name of assurance provider: Price Waterhouse Chartered Accountants LLP
+
+16.
+
+Type of assurance obtained: Reasonable assurance on BRSR Core indicators
+
+Products/Services
+17. Details of business activities (accounting for 90% of the turnover):
+
+18.
+
+		
+
+S.
+No.
+
+Description of Main
+Activity
+
+1
+
+Manufacturing
+
+Description of Business Activity
+
+% of Turnover of
+the entity
+
+Manufacture of Electrical equipment, General Purpose
+and Special Purpose Machinery & Equipment, Transport
+Equipment
+
+93
+
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S.
+No.
+
+Product/Service
+
+NIC Code
+
+% of total Turnover
+contributed
+
+1
+
+Manufacture of electric motors, generators, transformers and
+electricity distribution and control apparatus
+
+271
+
+65.3
+
+2
+
+Manufacture of general-purpose machinery
+
+281
+
+9.8
+
+3
+
+Manufacture of railway locomotives and rolling stock
+
+261
+
+18.1
+
+Note: NIC Code List
+
+III. Operations
+19.
+
+Number of locations where plants and/or operations/offices of the Company are situated:
+Location
+
+Number of plants
+
+Number of offices
+
+Total
+
+National
+
+9
+
+13
+
+22
+
+International
+
+0
+
+3
+
+3
+
+		Note:
+		
+
+1.
+
+The number of factory licenses are 10
+
+		
+
+2.
+
+The above count does not include warehouses and delegate houses.
+
+		
+
+3.	The above numbers are as on March 31, 2026 and does not include plants and offices of the demerged
+entity (Siemens Energy India Limited).
+
+20.
+		
+
+Markets served by the entity:
+a.
+
+Number of locations
+Locations
+National (No. of States)
+International (No. of Countries)
+
+		
+
+b.
+
+6
+
+What is the contribution of exports as a percentage of the total turnover of the entity?
+
+			
+
+Exports contribute to 13% of the turnover of the Company.
+
+		
+
+A brief on types of customers
+
+c.
+
+Number
+28 States and 8 Union Territories
+
+			Siemens Limited, India is a leading technology company aligned with Siemens AG’s global portfolio,
+delivering solutions across digitalization, electrification, automation and mobility.
+			The company serves public and private sector customers, supporting India’s industrial and infrastructure
+transformation.
+4
+
+Business Responsibility and Sustainability Report
+
+Siemens Limited
+
+
+			
+
+Its core businesses include Digital Industries (industrial automation and industrial software), Smart
+Infrastructure (power distribution and building technologies), and Mobility (rail and intelligent transportation
+solutions).
+
+			
+
+Siemens India addresses diversified verticals such as automotive, chemicals, pharmaceuticals, oil & gas,
+utilities, renewables, metals, water, railways, ports, and data centers.
+
+			The portfolio combines global technology leadership with strong local execution, enabling higher
+productivity, sustainability and long-term competitiveness.
+
+IV. Employees
+21. Details as at the end of Financial Year:
+		
+
+a.
+
+Employees and workers (including differently abled):
+S.
+No.
+
+Particulars
+
+Total (A)
+
+Male
+
+Female
+
+No. (B)
+
+% (B / A)
+
+No. (C)
+
+% (C / A)
+
+EMPLOYEES
+1
+
+Permanent (D)
+
+4,969
+
+4,014
+
+80.8
+
+955
+
+19.2
+
+2
+
+Other than Permanent (E)#
+
+1,943
+
+1,872
+
+96.3
+
+71
+
+3.7
+
+3
+
+Total (D + E)
+
+6,912
+
+5,886
+
+85.2
+
+1,026
+
+14.8
+
+1,110
+
+1,024
+
+92.3
+
+86
+
+7.8
+
+36
+
+36
+
+100
+
+0
+
+0
+
+1,146
+
+1,060
+
+92.5
+
+86
+
+7.5
+
+WORKERS
+
+		
+
+b.
+
+4
+
+Permanent (F)
+
+5
+
+Other than Permanent (G)
+
+6
+
+Total (F + G)
+
+Differently abled employees and workers:
+S.
+No.
+
+Particulars
+
+Total (A)
+
+Male
+
+Female
+
+No. (B)
+
+% (B / A)
+
+No. (C)
+
+% (C / A)
+
+EMPLOYEES
+1
+
+Permanent (D)
+
+3
+
+3
+
+100
+
+0
+
+0
+
+2
+
+Other than Permanent (E)
+
+1
+
+1
+
+100
+
+0
+
+0
+
+3
+
+Total (D + E)
+
+4
+
+4
+
+100
+
+0
+
+0
+
+WORKERS
+4
+
+Permanent (F)
+
+3
+
+3
+
+100
+
+0
+
+0
+
+5
+
+Other than Permanent (G)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+6
+
+Total (F + G)
+
+3
+
+3
+
+100
+
+0
+
+0
+
+			 The count of other than permanent employees includes the employees on direct contract and third-party
+workforce.
+#
+
+Siemens Limited
+
+Business Responsibility and Sustainability Report
+
+5
+
+
+			
+
+The distribution is as below:
+S.
+No.
+
+Particulars
+
+Total (A)
+
+Male
+
+Female
+
+No. (B)
+
+% (B / A)
+
+No. (C)
+
+% (C / A)
+
+231
+
+225
+
+97.4
+
+6
+
+2.6
+
+Other than permanent employees
+
+22.
+
+1
+
+Direct Contract
+
+2
+
+Third-party workforce
+
+1,712
+
+1,647
+
+96.2
+
+65
+
+3.8
+
+3
+
+Total other than permanent
+employees
+
+1,943
+
+1,872
+
+96.3
+
+71
+
+3.7
+
+Participation/Inclusion/Representation of women:
+Total (A)
+
+23.
+		
+
+No. (B)
+
+% (B / A)
+
+Board of Directors
+
+9
+
+1
+
+11.1
+
+Key Management Personnel
+
+3
+
+0
+
+0
+
+Turnover rate for permanent employees and workers
+(Disclose trends for the past 3 years)
+FY 2026 (Turnover rate in
+current FY)
+
+V.
+
+No. and percentage of Females
+
+FY 2024 (Turnover rate in
+previous FY)
+
+FY 2023 (Turnover rate
+in the year prior to the
+previous FY)
+
+Male
+
+Female
+
+Total
+
+Male
+
+Female
+
+Total
+
+Male
+
+Female
+
+Total
+
+Permanent
+Employees
+
+11.7%
+
+2.3%
+
+13.9%
+
+7.5%
+
+7.9%
+
+7.6%
+
+10.6%
+
+13.9%
+
+11%
+
+Permanent
+Workers
+
+8.2%
+
+1%
+
+9.2%
+
+1.3%
+
+3.3%
+
+1.4%
+
+3.1%
+
+2.3%
+
+3.1%
+
+Holding, Subsidiary and Associate Companies (Including Joint Ventures)
+24.
+
+Names of holding / subsidiary / associate companies / joint ventures
+% of
+shares
+held by
+listed
+entity
+
+Does the entity indicated at
+column A, participate in the
+Business Responsibility initiatives
+of the listed entity? (Yes/No)
+
+Ultimate holding
+company
+
+18
+
+No
+
+Holding Company
+
+52.78
+
+No
+
+Siemens Rail Automation Subsidiary
+Private Limited
+
+100
+
+No
+
+4
+
+C&S Electric Limited
+
+Subsidiary
+
+99.22
+
+No
+
+5
+
+Sunsole Renewables
+Private Limited
+
+Associate
+
+26
+
+No
+
+S.
+No.
+
+Name of the holding/
+subsidiary/associate
+companies/joint
+ventures (A)
+
+Indicate whether
+holding/ Subsidiary/
+Associate/ Joint
+Venture
+
+1
+
+Siemens AG
+
+2
+
+Siemens International
+Holding B.V
+
+3
+
+		Note: During FY 2024-26, Siemens Energy India Limited ceased to be a subsidiary of the Company.
+
+6
+
+Business Responsibility and Sustainability Report
+
+Siemens Limited
+
+
+VI. CSR Details
+25.
+
+(i)
+
+			
+
+Whether CSR is applicable as per Section 135 of Companies Act, 2013: (Yes/No)
+Yes, CSR is applicable to Siemens Limited.
+FY 2026
+(ii) Turnover (in million `)
+
+261,074
+
+(iii) Net worth (in million `)
+
+135,255
+
+VII. TRANSPARENCY AND DISCLOSURES COMPLIANCES
+26.
+
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on
+Responsible Business Conduct:
+Stakeholder
+group from
+whom
+complaint is
+received
+
+Communities
+
+Investors
+(other than
+shareholders)
+Shareholders
+
+Grievance
+Redressal
+Mechanism in
+Place (Yes/No) (If
+Yes, then provide
+web-link for
+grievance redress
+policy)
+Yes
+
+FY 2026 Current Financial Year
+
+FY 2024 Previous Financial Year
+Number of
+complaints
+filed
+during the
+year
+
+Number of
+complaints
+pending
+resolution at
+close of year
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+129
+
+124
+
+42
+
+2
+
+0
+
+0
+
+37
+
+0
+
+915
+
+473
+
+993
+
+83
+
+3
+
+0
+
+0
+
+0
+
+22
+
+2
+
+24
+
+3
+
+Number of
+complaints
+filed
+during the
+year
+
+Number of
+complaints
+pending
+resolution at
+close of year
+
+0
+
+https://www.
+siemens.com/
+en-us/company/
+compliance/dataprivacy/
+Yes
+Yes
+
+Remarks
+
+Remarks
+
+Actions
+
+Scores Home scores.sebi.gov.in
+
+Employees
+and workers
+Customers
+
+Yes, internal
+mechanisms in place
+Yes, through toll free
+number and Email
+Yes
+
+Value chain
+partners
+Others (please Yes, complaints
+specify)
+received from
+several stakeholders
+on “Tell Us” and the
+Ombudsperson and
+Siemens Limited
+web portal
+https://www.siemens.
+com/en-us/company/
+compliance/dataprivacy/
+
+27.
+
+Overview of the entity’s material responsible business conduct issues:
+
+		Please indicate material responsible business conduct and sustainability issues pertaining to environmental and
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach
+to adapt or mitigate the risk along with its financial implications, as per the following format.
+Siemens Limited
+
+Business Responsibility and Sustainability Report
+
+7
+
+
+		
+
+Siemens AG has developed the Sustainability Target Framework as a holistic framework to drive 360-degree
+sustainable value creation across its global operations. Siemens Limited embraces this framework as the foundation
+of its sustainability agenda, driving purposeful and responsible growth in India.
+
+		
+
+In alignment with this approach, a comprehensive Double Materiality Assessment (DMA) was undertaken by the
+Company using the CSRD framework for material IROs. This framework identifies Impacts, Risks and Opportunities
+(IROs). This rigorous process evaluates sustainability matters across the value chain based on both their societal
+impact and financial materiality.
+
+		
+
+The material topics emerging from this assessment are outlined in the table below:
+S.
+No.
+
+Material issue
+identified
+
+Indicate
+whether
+risk or
+opportunity
+(R/O)
+
+Rationale for identifying the risk / In case of risk, approach
+opportunity
+to adapt or mitigate
+
+Financial
+implications
+of the risk or
+opportunity
+(Indicate positive
+or negative
+implications)
+
+1
+
+Climate Change
+
+Risk and
+Opportunity
+
+Risk: Increasingly frequent extreme
+weather may disrupt supply chains
+and project delivery. Transition risks
+stem from evolving regulations, rising
+energy costs, and shifting customer
+preferences.
+
+Positive: Expanded
+portfolio of
+sustainable tech
+
+Opportunity: Accelerating national
+climate policies drive demand
+for
+Siemens
+decarbonization,
+electrification,
+and
+smart
+infrastructure solutions
+2
+
+Resource
+Efficiency
+
+Risk and
+Opportunity
+
+Risk: Sustained dependency on virgin
+materials and high-GWP gases
+Opportunity: Optimizing natural
+resource decoupling via waste
+recovery and robust circularity
+practices
+
+3
+
+Circular Economy
+& Waste
+Management
+
+Risk and
+Opportunity
+
+Risk: Persistent reliance on plastic
+packaging and virgin metals
+contributing to downstream waste
+Opportunity: Extending product life
+cycles through Eco-Design and wasteto-energy initiatives
+
+8
+
+Business Responsibility and Sustainability Report
+
+The
+material
+issues
+identified here align with
+the Siemens sustainability
+target
+framework.
+Comprehensive
+details
+on the framework are
+available at: https://
+a s s e t s . n e w. s i e m e n s .
+com/siemens/assets/api/
+uuid:dea0c623-1ae94ef0-a69a-31d8eb7b39fb/
+sustainability-statement.
+pdf
+
+Negative:
+Increased costs
+from supply chain
+disruptions and
+energy transitions
+
+Positive: Optimized
+operational
+expenditures
+and reduced raw
+material costs
+Negative:
+Increased
+compliance costs
+for evolving
+environmental
+standards
+Positive: Cost
+savings generated
+from waste
+valorization and
+energy recovery
+Negative:
+Increased reverse
+logistics and
+Extended Producer
+Responsibility (EPR)
+compliance costs
+
+Siemens Limited
+
+
+S.
+No.
+
+4
+
+Material issue
+identified
+
+Product
+Stewardship
+
+Indicate
+whether
+risk or
+opportunity
+(R/O)
+
+Rationale for identifying the risk / In case of risk, approach
+opportunity
+to adapt or mitigate
+
+Financial
+implications
+of the risk or
+opportunity
+(Indicate positive
+or negative
+implications)
+
+Risk and
+Opportunity
+
+Risk: Gaps in end-to-end lifecycle
+management impacting downstream
+Scope 3 emissions.
+
+Positive: Premium
+product positioning
+driving revenue
+growth and
+compliance
+advantage
+
+Opportunity: Empowering customer
+decarbonization through the Eco Tech
+label and localized manufacturing
+
+5
+
+Water Stewardship
+
+Risk and
+Opportunity
+
+Risk: Growing water stress across
+operating
+regions
+threatens
+production
+continuity,
+while
+tightening regulations on water
+withdrawal and discharge elevate
+compliance costs and operational risk
+Opportunity:
+Ensuring
+water
+security via rainwater harvesting
+and maintaining zero process-water
+dependency
+
+Negative: Potential
+R&D, redesign,
+and recall costs
+if regulations are
+unmet
+Positive: Reduced
+freshwater
+dependency
+lowering long-term
+operational costs
+Negative:
+Increased
+compliance
+and potential
+alternative sourcing
+costs
+
+6
+
+Biodiversity &
+Ecosystem
+
+Risk
+
+Risk: Potential ecosystem degradation
+tied to raw material extraction and
+infrastructure projects
+
+Negative:
+Increased
+compliance costs,
+project delays,
+and potential
+substitution costs
+for virgin materials
+
+7
+
+Human Rights
+(Own Workforce &
+Value Chain)
+
+Risk
+
+Risk: Exposure to informal labor risks
+within complex, multi-tiered EPC
+subcontracting
+
+Negative:
+Regulatory
+penalties, litigation,
+and remediation
+expenses
+
+8
+
+Human Capital
+Management
+
+Risk and
+Opportunity
+
+Risk: Attrition of skilled workforce and
+talent increases recruitment costs and
+delays critical business activities
+
+Positive: Enhanced
+productivity,
+innovation, and
+reduced attrition
+costs
+
+Opportunity: A diverse, technologyskilled workforce maximizes the
+adoption of new technologies and
+improves operational efficiencies
+
+Siemens Limited
+
+Negative:
+Reliance on costly
+contractors and
+revenue loss due
+to delayed project
+executions
+
+Business Responsibility and Sustainability Report
+
+9
+
+
+Indicate
+whether
+risk or
+opportunity
+(R/O)
+
+Rationale for identifying the risk / In case of risk, approach
+opportunity
+to adapt or mitigate
+
+Financial
+implications
+of the risk or
+opportunity
+(Indicate positive
+or negative
+implications)
+
+Workforce Health,
+Safety and
+Wellbeing
+
+Risk
+
+Risk: Occupational hazards during
+high-voltage electrical at project sites
+posing direct injury risks
+
+Negative:
+Legal liabilities,
+operational
+stoppages, and
+increased insurance
+premiums
+
+10
+
+Community
+Welfare
+
+Opportunity
+
+Opportunity:
+Empowering
+marginalized communities and
+building local goodwill through
+flagship initiatives like Dual VET,
+IGnITE, and Project Asha
+
+Positive: Lowers
+social risk costs,
+and reinforces
+employer brand
+strength
+
+11
+
+Governance, Ethics Risk
+& Compliance
+
+Risk: Compliance breaches risk
+regulatory penalties and loss of
+stakeholder trust
+
+Negative: Financial
+penalties, contract
+cancellations, and
+loss of operating
+licenses
+
+12
+
+Data Privacy &
+Cybersecurity
+
+Risk
+
+Risk: Cyber threats targeting smart
+systems risking critical infrastructure
+disruption
+
+Negative: High
+remediation
+expenses,
+penalties, and
+operational
+downtime costs
+
+13
+
+Product Safety &
+Quality
+
+Risk
+
+Risk: Rare defects in high-voltage or
+rail systems risk user harm and public
+confidence erosion
+
+Negative: Costly
+product recalls,
+liquidated
+damages, and
+exclusion from
+future bids
+
+14
+
+Sustainable Supply Risk and
+Chain
+Opportunity
+
+Risk: Shortages of critical components
+and potential Tier-2 supplier noncompliance
+
+Positive: Supply
+chain efficiencies
+and reduced longterm logistics costs
+
+S.
+No.
+
+Material issue
+identified
+
+9
+
+Opportunity:
+Building
+supply
+resilience via localized sourcing and
+strong Micro, Small, and Medium
+Enterprises (MSME) partnerships
+
+10 Business Responsibility and Sustainability Report
+
+Negative:
+Increased
+operational costs
+from project
+delays and volatile
+commodity prices
+
+Siemens Limited
+
+
+SECTION B
+
+Management and process disclosures
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+
+P1
+
+P2
+
+P3
+
+P4
+
+P5
+
+P6
+
+P7
+
+P8
+
+P9
+
+Policy and management processes
+1.
+
+a.
+
+Whether your entity’s policy/policies cover
+each principle and its core elements of the
+NGRBCs. (Yes / No)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+b.
+
+Has the policy been approved by the Board?
+(Yes/No)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+c.
+
+Web-Link of the Policies, if available
+
+Please refer to Annexure I
+
+2.
+
+Whether the entity has translated the policy into
+procedures. (Yes / No)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+3.
+
+Do the enlisted policies extend to your value
+chain partners? (Yes/No)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+NA
+
+Yes
+
+Yes
+
+	While Siemens has its own policies on material local topics, all the policies of Siemens AG are also applicable to Siemens
+Limited and have been converted into procedures and reviewed through internal control mechanism.
+4.
+
+Name of the national and international codes/
+certifications/labels/ standards
+(e.g. Forest
+Stewardship Council, Fairtrade, Rainforest
+Alliance, Trust) standards (e.g. SA 8000, OHSAS,
+ISO, BIS) adopted by your Company and mapped
+to each principle
+
+Siemens policies are in line with international standards and
+practices such as ISO 14001, ISO 45001, ISO 50001: UNGC
+Guidelines, UN Human Rights Declaration and European Human
+Rights Convention, UNGC Women’s Empowerment Principles,
+UNFCCC - United Nations Framework Convention on Climate
+Change, CEO Water Mandate, CPLC (carbon), ILO Principles,
+OECD Guidelines for Multinational Enterprises, UN Convention
+against Corruption
+
+5.
+
+Specific commitments, goals and targets set by The ESG commitments, goals and targets are set globally by
+Siemens AG. Siemens AG has developed the Sustainability
+the entity with defined timelines, if any
+Target Framework to address issues identified via the materiality
+assessment of Siemens AG. The details of the Sustainability
+Target Framework is available on the link: https://assets.new.
+siemens.com/siemens/assets/api/uuid:dea0c623-1ae9-4ef0a69a-31d8eb7b39fb/sustainability-statement.pdf
+
+6.
+
+Performance of the entity against the specific The targets against the various principles are the ones
+commitments, goals and targets along with committed under the Sustainability Target Framework by
+reasons in case the same are not met.
+Siemens AG. Siemens Limited adheres to the framework and
+contributes towards achievement of the DEGREE targets. The
+current performance against targets is also available at the link
+mentioned above.
+
+Governance, Leadership and Oversight
+7.
+
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges,
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+Please refer to the Foreword
+
+Siemens Limited
+
+Business Responsibility and Sustainability Report 11
+
+
+8.
+
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility
+policy(ies)
+Mr. Sunil Mathur
+Managing Director and Chief Executive Officer
+DIN: 02261944
+
+9.
+
+Does the entity have a specified committee of the Board/ Director responsible for decision-making on sustainability
+related issues? (Yes/No) If yes, provide details
+Yes. The Managing Director and Chief Executive Officer & Executive Director and Chief Financial Officer are responsible for
+decisions on all sustainability related issues.
+
+10.
+
+Details of Review of NGRBCs by the Company:
+Subject for Review
+
+Indicate whether review was
+undertaken by Director /
+Committee of the Board / Any other
+Committee
+
+Frequency (Annually/ Half-yearly/
+Quarterly Any other – please
+specify)
+
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+
+11.
+
+Performance against above
+policies and follow-up action
+
+Director
+
+Annually
+
+Compliance with statutory
+requirements of relevance to
+the principles, and rectification
+of any non-compliances
+
+Director
+
+Quarterly
+
+Has the entity carried out independent assessment/ evaluation of
+the working of its policies by an external agency? (Yes/No) If yes,
+provide name of the agency.
+
+P1 P2 P3 P4 P5 P6 P7 P8 P9
+No
+
+While the entity has not specifically carried out an independent assessment / evaluation of the working of its policies by
+an external agency, the entity has a process of internally reviewing adherence to these policies via the Risk and Internal
+Control Process by the respective management teams and internal audit process.
+12.
+
+If answer to question (1) above is “No” i.e. not all Principles are
+covered by a policy, reasons to be stated:
+
+P1 P2 P3 P4 P5 P6 P7 P8 P9
+
+The entity does not consider the principle material to its business
+(Yes/ No)
+
+NA NA NA NA NA NA NA NA NA
+
+The entity is not at a stage where it is in a position to formulate and
+implement the policies on specified principles (Yes/ No)
+
+NA NA NA NA NA NA NA NA NA
+
+The entity does not have the financial or/human and technical
+resources available for the task (Yes/ No)
+
+NA NA NA NA NA NA NA NA NA
+
+It is planned to be done in the next financial year (Yes/ No)
+
+NA NA NA NA NA NA NA NA NA
+
+Any other reason (please specify)
+
+12 Business Responsibility and Sustainability Report
+
+NA
+
+Siemens Limited
+
+
+SECTION C
+
+Principle-wise performance disclosure
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting
+the NGRBC Principles and Core Elements.
+
+Principle 1: Businesses should conduct and govern themselves with integrity, in
+a manner that is Ethical, Transparent and Accountable.
+
+Siemens Limited operates with the highest standards of integrity, transparency, and accountability, guided by Siemens’ global
+Sustainability Target Framework, which places Governance, Ethics, and Responsible Business Conduct at the core of long-term
+value creation. The Company upholds a zero-tolerance approach to misconduct, anchored in the principle that “only clean
+business is Siemens business,” supported by a robust, risk-based compliance system and strict adherence to the Siemens
+Business Conduct Guidelines. These guidelines mandate periodic training for all employees on ethics, anti-corruption, fair
+competition, data privacy, and human rights, ensuring a strong culture of compliance. Oversight is reinforced through Boardlevel committees and alignment with global frameworks such as the UN Global Compact and OECD Anti-Bribery Convention.
+Extending beyond its operations, Siemens drives ethical practices across its value chain through supplier compliance
+requirements, strengthens digital trust through cybersecurity, and links leadership incentives to ESG performance, while
+engaging transparently in public policy collectively positioning governance as both a risk mitigant and a driver of sustainable,
+responsible growth.
+Material Topics
+
+Governance,
+ethics and
+compliance
+
+Type
+
+PI,
+NI
+
+Policies
+
+Siemens Business Conduct
+Guidelines (BCG)
+
+100% workforce trained
+every three years
+
+Anti-Corruption & AntiBribery Policy
+
+Zero tolerance for
+substantiated Violations
+
+Whistleblowing Policy
+& (“Tell Us” Hotline and
+Ombudsperson)
+
+Timely resolution of
+grievances
+
+Materiality Policy
+Related Party Transaction
+Policy
+Alignment with UNGC,
+UN Convention Against
+Corruption, OECD standards
+
+Siemens Limited
+
+Ambitions
+
+Actions
+
+Mandatory compliance &
+leadership tone-from-thetop Compliance audits,
+investigations, disciplinary
+actions
+Independent investigation,
+retaliation-free reporting
+Responsible advocacy
+aligned to sustainability
+priorities
+Board oversight, ESG
+disclosures
+Stakeholder engagement &
+responsible advocacy
+
+Business Responsibility and Sustainability Report 13
+
+
+Material Topics
+
+Type
+
+Cybersecurity and PI
+data privacy
+NI,
+R
+
+Policies
+
+Ambitions
+
+Information security & data
+privacy
+
+100% employee awareness
+& training
+
+Global Cybersecurity
+Framework
+
+100% cybersecurity
+Resilience
+
+Siemens BCG (data
+protection principles)
+
+Compliance with global data
+regulations
+
+Actions
+
+ISO/IEC‑aligned controls
+Phishing simulations
+monitoring & audits
+
+Privacy Framework (ISO
+27001 aligned)
+Sustainable
+supply chain
+
+PI,
+O,
+R
+
+Group Supplier Code of
+Conduct
+
+Supplier ESG coverage
+expansion
+
+Human Rights Policy
+Statement (Supply Chain
+Due Diligence)
+
+Compliance with BIS/IEC
+norms
+
+Supplier audits,
+corrective action, possible
+disengagement
+Audits, testing, certification,
+after‑sales support
+
+Quality & Safety
+Management Systems
+*Note: PI – Positive Impact; NI – Negative Impact; O – Opportunity; R – Risk
+
+Essential Indicators
+1.
+
+Percentage coverage by training and awareness programmes on any of the principles in the financial year:
+Segment
+
+2.
+
+Topics / principles covered under the training
+and its impact
+
+Total
+number of
+training and
+awareness
+programmes
+held
+
+% of persons
+in respective
+category covered
+by the awareness
+programmes
+
+Board of Directors
+
+1
+
+Business Conduct Guidelines
+
+100
+
+Key Managerial
+Personnel
+
+5
+
+Business Conduct Guidelines, Anti-Trust Essentials,
+Data Privacy Essential, Export Control Essential and
+Anti-Corruption Essential
+
+100
+
+Employees other
+than BoD and KMPs
+
+5
+
+Business Conduct Guidelines, Anti-Trust Essentials,
+Data Privacy Essential, Export Control Essential and
+Anti-Corruption Essential
+
+71.8
+
+Workers
+
+1
+
+Business Conduct Guidelines
+
+96.8
+
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by
+the entity or by directors / KMPs) with regulators/ law enforcement agencies / judicial institutions in the financial
+year, in the following format.
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+
+14 Business Responsibility and Sustainability Report
+
+Siemens Limited
+
+

@@ -1,0 +1,885 @@
+IDAL/2026-27/SE/48
+
+July 6, 2026
+
+National Stock Exchange of India Ltd.
+BSE Ltd.
+
+Scrip Symbol - INTELLECT
+Scrip Code - 538835
+
+Dear Sir/Madam,
+Sub: Notice convening the 15th Annual General Meeting and Annual Report for the Financial Year 2025-26
+In compliance with the provisions of the Companies Act, 2013, the rules made thereunder, and the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), as amended from time to time, we
+enclose the Annual Report of the Company for the Financial Year 2025-26 (which includes the Business Responsibility
+and Sustainability Report), together with the Notice convening the 15th Annual General Meeting (“AGM”) of the Company.
+These documents are being circulated to shareholders through electronic mode whose e-mail addresses are registered
+with the Company or their Depository Participant(s) (“DPs”).
+Further, in accordance with Regulation 36(1)(b) of the Listing Regulations, the Company will send a separate
+communication to shareholders whose e-mail addresses are not registered with the Company/DPs, providing a web link
+to access the Annual Report 2025-26 on the Company’s website.
+Information at a glance:
+Particulars
+
+Details
+
+Time, day and date of the AGM
+
+2:30 P.M. IST on Friday, July 31, 2026
+
+Mode
+
+Video conference and other audio-visual means
+
+Record date for the purpose of
+dividend
+
+Friday, July 24, 2026
+
+Dividend payment date
+
+On or before August 29, 2026
+
+Cut-off date for e-voting
+
+Friday, July 24, 2026
+
+E-voting start time and date
+
+9:00 a.m. IST on Tuesday, July 28, 2026
+
+E-voting end time and date
+
+5:00 p.m. IST on Thursday, July 30, 2026
+
+E-voting Event Number (EVEN)
+
+139855
+
+E-voting website of NSDL
+
+https://www.evoting.nsdl.com/
+
+Web-link to the Annual Report 202526
+
+https://www.intellectdesign.com/investor/annualreport/2026/IntellectAnnual-Report-FY2025-26.pdf
+
+Kindly take the above information on record.
+Yours Truly,
+For Intellect Design Arena Limited,
+Digitally signed by
+
+PRAKASH
+PRAKASH BHARADWAJ
+2026.07.06
+BHARADWAJ Date:
+16:52:49 +05'30'
+Prakash Bharadwaj
+Company Secretary and Compliance Officer
+ACS-37214
+Place: Chennai
+Encl: as above
+
+
+
+© COPYRIGHT INTELLECT DESIGN ARENA LIMITED, 2026
+NO REPRODUCTION WITHOUT PERMISSION.
+ALL RIGHTS RESERVED.
+A complete version of this report is available at www.intellectdesign.com
+
+
+
+Table of Contents
+Chapter 1: Intellect at a Glance
+
+01
+
+Chapter 2: Our BELIEF Framework
+
+03
+
+Chapter 3: Chairman's Letter to Shareholders
+
+05
+
+Chapter 4: AI-First Banking
+
+09
+
+Chapter 5: Two Innovation Engines. One Uniﬁed Vision
+
+11
+
+Chapter 6: Powering the Banking Lifecycle
+• Wholesale Banking
+
+13
+
+• Consumer Banking
+
+16
+
+• Wealth, Capital Markets & Insurance
+
+18
+
+Chapter 7: People & Culture
+
+2221
+
+Chapter 8: Our Leadership Team
+
+23
+
+Chapter 9: Global Ofﬁces
+
+25
+
+
+Annual Report 2025 - 26
+
+Chapter
+
+1
+
+Intellect at a Glance
+Every era of transformation is defined by a foundational shift. We believe
+Connected Intelligence is the defining shift of this decade.
+
+Modern ﬁnancial institutions are shifting
+away from technology that merely
+supports back-ofﬁce operations. Instead,
+they are demanding near-autonomous,
+self-learning intelligent ecosystems
+capable of algorithmic reasoning,
+context-awareness and delivering
+measurable business outcomes.
+At Intellect, we operate at the strategic
+intersection of banking, technology, and
+enterprise connected intelligence.
+
+As a pioneering AI-First Banking Technology company,
+we are structurally reimagining how financial
+institutions design, build, execute, and scale across an
+increasingly dynamic macro environment.
+
+01
+
+Built on the enduring foundations of
+Design Thinking and First Principles
+Thinking, our engineering philosophy
+begins by systematically simplifying
+complexity. We challenge conventional
+legacy assumptions, deconstruct
+operational friction into its fundamental
+components, and rebuild micro-modular
+solutions architected strictly around
+definitive target outcomes.
+Over the years, this disciplined approach
+has enabled Intellect to evolve from a
+traditional banking technology provider
+into an organisation creating
+enterprise-grade intelligent systems
+designed around scale, architectural
+agility, and compounding business
+impact.
+
+Intellect Design Arena Ltd.
+
+
+Annual Report 2025 - 26
+
+Today, our platforms, cloud-native enterprise-class products, and
+advanced intelligence capabilities empower some of the world's
+largest banks. Alongside insurers, wealth managers, credit unions,
+capital market institutions, and global corporates, we help
+modernise legacy core systems, optimise complex operations,
+accelerate real-time decisions, and orchestrate differentiated
+experiences across the entire financial services value chain.
+
+With an expansive global footprint across
+
+countries and over three
+decades of domain expertise
+in ﬁnancial services, Intellect
+continues to empower our
+customers to move beyond
+digital transformation towards
+AI-First Banking.
+
+Intellect Design Arena Ltd.
+
+02
+
+
+Annual Report 2025 - 26
+
+Chapter
+
+2
+
+Our BELIEF Framework
+Brand Capital
+
+62
+
+500+
+
+Countries
+
+30+
+
+Customers Worldwide
+
+Years in
+Financial Technology
+
+#1
+
+Rankings in
+IBSi SLT 2026 across
+8 Key Categories
+
+End Customer Capital
+
+9 of Top 15
+
+North American Banks
+
+9 of Top 15
+
+European & UK Banks
+
+16 of Top 20
+Indian Banks
+
+03
+
+18 of Top 20
+
+Middle Eastern Banks
+
+10 of Top 15
+
+APAC/ANZ Banks
+
+6 of Top 10
+African Banks
+
+Intellect Design Arena Ltd.
+
+
+Annual Report 2025 - 26
+
+Leadership Capital
+
+23
+
+Senior Leaders joined in FY26
+
+Leadership across global markets
+and businesses
+
+Intellectual Property Capital
+
+700
+
+550
+
+3,061
+
+125
+
+942
+
+2 Mn
+
+Microservices
+
+Domain-aware Agents
+
+APIs
+
+Patent Filings
+
+Events
+
+Annual R&D Hours
+
+Execution Capital
+
+91
+
+Digital
+Transformations
+
+59
+
+45+
+
+Deal Wins
+
+Purple Fabric
+Clients Live
+
+Finance Capital
+
+₹3,161 Cr
+Total Income
+
+₹703 Cr
+Consolidated EBITDA
+
+#
+
+₹343 Cr
+Consolidated PAT
+
+₹1,257 Cr
+Cash Position
+
+Consolidated EBITDA includes Other Income
+
+#
+
+Intellect Design Arena Ltd.
+
+04
+
+
+Annual Report 2025 - 26
+
+Chapter
+
+3
+
+n
+sig
+e
+D
+by
+h
+t
+w
+Gro
+
+Chairman's Letter
+to Shareholders
+Dear Shareholders,
+Every enduring institution reaches
+defining moments that validate years
+of patient investment, disciplined
+execution and unwavering conviction.
+I believe FY26 represents one such
+moment in your Company's journey.
+
+FY26 - A Year of Strong
+Execution
+Your Company delivered a Total
+Income of ₹3,161 Crore, representing
+23% year-on-year growth, while
+License-Linked Revenue grew by 34%,
+reflecting increasing customer
+confidence in your company’s
+intellectual property-led business
+model. EBITDA crossed ₹700 Crore,
+demonstrating our ability to balance
+sustained investments in innovation
+with disciplined operational
+
+05
+
+execution. At the same time, our cash and
+investments strengthened to ₹1,257
+Crore, while maintaining a debt-free
+balance sheet, providing the financial
+flexibility to continue investing in future
+growth.
+Beyond the numbers, the quality of our
+growth has been particularly encouraging.
+During FY26, 59 financial institutions
+selected Intellect as their transformation
+partner, and 91 global financial
+institutions successfully went live on our
+platforms, reflecting growing confidence
+in our differentiated technology
+platforms, deep domain expertise and
+long-term strategic vision. We also
+continued to expand platform-led
+engagements, with customers
+increasingly adopting multiple Intellect
+solutions to support broader enterprise
+transformation programmes rather than
+isolated technology initiatives. This
+
+Intellect Design Arena Ltd.
+
+
+Annual Report 2025 - 26
+
+evolution from product adoption to platform
+partnerships reinforces the resilience of our
+business model and creates stronger, longer-term
+customer relationships.
+Our financial performance is not simply the
+outcome of another successful year. It reflects years
+of investment in intellectual property, disciplined
+capital allocation, customer-centric innovation and
+execution excellence. More importantly, it
+demonstrates that our strategy continues to create
+enduring value for customers while strengthening
+your Company's long-term fundamentals.
+As we look ahead, we remain committed to
+maintaining this balance- investing boldly in the
+future while preserving the financial discipline that
+has characterised Intellect's journey.
+
+Positioned for Growth Across Global
+Markets
+Markets evolve at different speeds, shaped by
+economic cycles, regulation and technology
+adoption. Our strategy has been to build a
+diversified global franchise that participates in
+multiple transformation cycles while remaining
+resilient to regional economic and geopolitical
+shifts.
+Today, Intellect has a strong presence across the
+United States, Canada, Europe, the Middle East,
+APAC, and India & South Asia. This balanced
+geographic portfolio enables us to invest where
+long-term opportunities are strongest while reducing
+dependence on any single market.
+The United States and Canada remain among the
+world's largest financial technology markets. During
+FY26, we strengthened your company’s position
+through strategic customer engagements and
+growth through the Digital Banking business
+acquired from Central 1, significantly expanding our
+presence in Canada and reinforcing our long-term
+North American growth strategy. The US and
+Canada business accounts for 27% of your
+Company's revenue, underscoring the strength of
+our diversified global business and the increasing
+contribution of North America to our long-term
+growth.
+Europe continues to offer significant opportunities
+as financial institutions modernise their technology
+landscapes to meet evolving regulatory, open
+finance and operational resilience requirements.
+
+Intellect Design Arena Ltd.
+
+Our long-standing customer relationships continue
+to support broader platform adoption across the
+region.
+The Middle East and Africa remains one of the
+fastest-growing banking transformation markets,
+driven by national digital agendas, economic
+diversification and sustained investments in
+next-generation financial infrastructure.
+Across APAC, India & South Asia, digital public
+infrastructure, real-time payments, and rapid
+technology adoption are accelerating the shift
+towards intelligent, composable, and cloud-native
+banking platforms. India continues to demonstrate
+how digital infrastructure can drive financial
+inclusion and innovation at scale.
+Our diversified market strategy enables Intellect to
+adapt to changing market conditions, capture
+opportunities across geographies and build
+sustainable long-term growth.
+
+AI-First Banking: The Next
+Structural Shift
+Artificial Intelligence represents one of the most
+significant structural shifts in the history of banking.
+Its true potential lies not in automating isolated
+tasks, but in fundamentally transforming how
+financial institutions make decisions, manage risk,
+serve customers and create long-term value.
+At Intellect, our journey with AI began nearly a
+decade ago with the conviction that intelligence
+would eventually become intrinsic to enterprise
+banking platforms. Guided by Design Thinking and
+strengthened through First Principles Thinking,
+these long-term investments have culminated in our
+vision of AI-First Banking.
+AI-First Banking is about redesigning banking
+architecture so that intelligence becomes inherent in
+the platform itself, enabling contextual
+decision-making, intelligent automation, and highly
+personalised customer experiences while
+maintaining the governance, resilience, and trust
+expected of mission-critical financial systems.
+Our AI-First Banking vision is powered by more than
+550 domain-aware agents spanning lending,
+payments, treasury, trade finance, wealth, insurance
+and customer servicing. Together, they bring deep
+financial services knowledge into enterprise
+
+06
+
+
+Annual Report 2025 - 26
+
+workflows, enabling institutions to embed
+intelligence where it creates the greatest business
+impact.
+We believe the convergence of intelligence,
+platforms and trust will shape the future of banking.
+AI-First Banking reflects years of disciplined
+investment and positions your Company to support
+financial institutions as they navigate the next era of
+banking transformation.
+
+The eMACH.ai Phenomenon
+Three years ago, we introduced eMACH.ai as the
+world’s most comprehensive, composable, and
+intelligent Open Finance platform. Since then, we
+have systematically expanded our cloud-native
+architecture, processing capabilities, and global
+market presence. Today, with over 700
+microservices, 3,061 APIs, and 942 events,
+eMACH.ai has evolved into one of the richest
+financial technology ecosystems in the industry.
+Today, eMACH.ai has evolved into a comprehensive
+AI-First banking and financial services portfolio
+spanning Wholesale Banking, Consumer Banking,
+Wealth, Capital Markets and Insurance.
+Across Wholesale Banking, the platform powers
+Corporate Core Banking, Commercial Loan
+Origination and Management, Corporate Cards,
+Corporate Banking Exchange (CBX), Liquidity
+Management, Payments, Receivables & Collections,
+Virtual Accounts Management, Escrow Deposits,
+Trade Finance and Supply Chain Finance.
+Within Consumer Banking, it enables Consumer
+Core Banking, Islamic Banking, AI Digital Banking,
+Retail and Commercial Lending, Consumer Cards,
+Collections Management, Digital Engagement for
+Consumers and SMEs, and Treasury.
+Across Wealth, Capital Markets and Insurance, the
+portfolio delivers Wealth Management, Financial
+Advisor, Brokerage, Custody, Fund Accounting,
+Registrar & Transfer Agency, together with
+AI-powered insurance solutions including Xponent,
+Magic Submission, Magic Placement and Risk
+Analyst. Together, these platforms enable financial
+institutions to modernise the entire banking lifecycle
+on a unified, composable architecture.
+FY26 marked a significant milestone in your
+Company's global expansion as we established
+eMACH.ai’s presence in the United States with
+
+07
+
+landmark strategic wins across Core Banking,
+Payments, and Liquidity Management. Two Tier-1
+institutions selected Intellect platforms to anchor
+large-scale transformation agendas, validating both
+our future-proof architecture and our capability to
+handle enterprise-scale business complexity.
+Increasingly, we are witnessing an architectural
+multiplier effect where customers adopt multiple
+products across a common eMACH.ai fabric,
+creating compounding opportunities for long-term
+value creation.
+
+Purple Fabric: Democratising Business
+Impact AI
+During FY25, I shared with you the launch of Purple
+Fabric, our Open Business Impact AI platform. While
+the technology foundations were firmly established,
+the last fiscal year was primarily a year of market
+education, ecosystem building and demonstrating
+how enterprises can harness AI to create
+measurable business impact.
+Throughout the year, we conducted masterclasses,
+executive workshops, boot camps and value
+discovery engagements across global markets,
+helping business and technology leaders move
+beyond the prevailing narrative of AI
+experimentation towards a deeper understanding of
+enterprise-wide transformation. Our objective was
+simple: to demonstrate that AI should not be viewed
+merely as a productivity tool but as a strategic
+capability capable of reshaping business models,
+decision-making, and operational outcomes.
+Purple Fabric combines domain intelligence,
+orchestration, governance, explainability and
+execution into a unified Business Impact AI
+platform. During the year, we expanded Purple
+Fabric beyond core banking operations into
+enterprise enablement functions such as
+Technology Services, Human Resources and
+Enterprise Security, while continuing to strengthen
+its domain-aware financial services capabilities.
+Most importantly, we helped shift the enterprise AI
+conversation from experimentation to business
+outcomes. Across customer engagements and
+value discovery programmes, Purple Fabric
+demonstrated how domain-aware intelligence, when
+combined with governance frameworks, enterprise
+controls and business context, can move beyond
+productivity gains to create measurable business
+impact.
+
+Intellect Design Arena Ltd.
+
+
+Annual Report 2025 - 26
+
+We believe the market is now approaching an
+inflexion point. As enterprises move from pilots and
+experimentation towards scaled deployment, the
+need for governed, explainable, and outcome-driven
+AI platforms will become increasingly critical. Purple
+Fabric was designed precisely for this moment.
+While our journey has only begun, we remain
+confident that the platform represents one of the
+most significant long-term opportunities for value
+creation for your Company.
+
+Growth by Design
+As shareholders, many of you evaluate our trajectory
+through the lens of growth, profitability, and
+near-term financial performance. While these
+remain critical indicators, I believe it is equally vital
+to understand the proprietary thinking systems that
+shape your Company’s long-term journey.
+Over the years, our operational approach has
+evolved through four complementary disciplines:
+Design Thinking, First Principles Thinking,
+Framework Thinking, and Systems Thinking.
+Together, these formal frameworks help us simplify
+structural complexity, identify hidden patterns,
+anticipate tectonic market shifts, and build highly
+scalable architectures for the future. They also
+shape our long-term commitment to research and
+innovation, reflected in sustained investments in
+R&D, intellectual property creation, patent
+development, and the continuous evolution of our
+platforms. Today, our innovation portfolio spans
+more than 125 patent filings across AI, composable
+architecture, banking, wealth, and insurance
+domains, establishing a strong moat for future
+differentiation.
+These unique thinking systems shape not only our
+products but also our investment philosophy, giving
+us the structural conviction to invest early in
+cloud-native technologies, Artificial Intelligence, and
+advanced innovation programmes well ahead of
+market cycles. FY26 represents the inflexion point at
+which years of disciplined investments in research,
+product engineering, and intellectual property are
+beginning to lay the foundation for our next phase of
+predictable and profitable growth.
+
+Intellect Design Arena Ltd.
+
+Holistic Business Growth
+While we continue to build highly differentiated
+technologies and platforms, we remain equally
+committed to creating broader societal impact.
+We believe long-term value creation extends beyond
+financial performance to encompass the positive
+impact we have on our people, customers,
+communities, and the broader ecosystem.
+Initiatives such as Mission Samriddhi, Ullas, and
+School of Design Thinking reflect our enduring
+commitment to nurturing talent, fostering
+experiential learning, encouraging open innovation,
+and creating opportunities that contribute to
+inclusive, sustainable growth. As we scale our
+business globally, we remain intensely focused on
+building an institution that creates enduring value
+for all stakeholders.
+As shareholders, you have been vital partners in your
+company's journey of structural transformation.
+Your continued trust has enabled us to invest ahead
+of market cycles, build high-moat intellectual
+property, and construct the foundations for
+long-term value creation.
+I wish to record my deep appreciation and gratitude
+to our board members, leadership teams,
+associates, shareholders, customers, partners,
+bankers, and well-wishers for their continued trust
+and confidence. The future presents a larger canvas
+than ever before as we enter a world where
+intelligence becomes foundational infrastructure,
+and we look forward to creating many more stories
+of impact and transformation.
+
+Arun Jain
+Chairman & Managing Director
+
+08
+
+
+Annual Report 2025 - 26
+
+Chapter
+
+4
+
+AI-First Banking
+Banking technology has gone through three distinct eras. First, the
+branch era: physical infrastructure as the channel. Then, the digital era:
+mobile and internet as the interface. Now, a third era is taking hold; one
+that does not simply add a new channel, but changes what banking
+systems fundamentally do.
+
+Through every prior wave of transformation,
+technology remained a system of record
+and execution. It processed what humans
+decided. AI changes that contract. For the
+first time, the system itself can reason,
+anticipate, and act.
+
+The $451 Billion Shift
+The global AI-in-banking market stood at
+$34.6 billion in 2025. By 2035, it is
+projected to reach $451 billion, growing at
+a nearly 30% CAGR. The EY-Parthenon
+GenAI in Banking Survey found that 77%
+of banks have now actively launched
+GenAI applications, and 61% already
+report substantial business impact.
+McKinsey estimates AI will contribute
+$1.2 trillion to the banking sector’s
+bottom line by 2030.
+
+09
+
+This is not a technology trend. It is a
+structural market shift, one that will
+separate institutions that lead from those
+that are left catching up.
+
+$451B
+
+Projected global AI-in-banking
+market by 2035 (CAGR: 29.3%)1
+
+77%
+
+Banks that have actively
+launched GenAI applications
+(EY-Parthenon, 2025)2
+
+Intellect Design Arena Ltd.
+
+
+Annual Report 2025 - 26
+
+$1.2T
+
+AI’s projected contribution to
+banking’s bottom line by 2030
+(McKinsey)3
+
+is, is inherently probabilistic. That makes
+it useful for generating insights but
+insufficient for governing high-stakes
+credit, risk, or compliance decisions at an
+institutional scale.
+
+61%
+
+The question for every bank is not whether
+to adopt AI. 85% already are. The question
+is whether the AI they adopt can be trusted
+at scale. That requires domain-aware
+reasoning, enterprise governance frameworks,
+regulatory controls, and full explainability,
+not just accuracy.
+
+What AI-First Banking
+Actually Means
+
+Through eMACH.ai and Purple Fabric,
+Intellect has built the architecture that
+answers this challenge: generative
+intelligence fused with banking domain
+knowledge, compliance guardrails, and
+explainable decision-making, enabling
+institutions to move from AI
+experimentation to enterprise-grade AI
+transformation with confidence.
+
+Banks already reporting
+substantial impact from
+GenAI deployments4
+
+AI-First Banking is not a product category.
+It is an architectural philosophy. It means
+intelligence is not bolted on; it is built in.
+Every product, every workflow, every
+decision layer is designed from first
+principles around the assumption that the
+system thinks.
+In practice, this means four things:
+decisions become contextual rather than
+rule-based; operations become
+autonomous rather than manual;
+customer experiences become
+anticipatory rather than reactive; and
+outcomes become deterministic and
+auditable rather than probabilistic.
+
+The Trust Imperative
+Banking operates in environments where
+trust, compliance and explainability are
+non-negotiable. Generic AI, powerful as it
+
+The AI-First Enterprise
+Product Suite
+The result is a suite of AI-native products
+spanning full spectrum domains:
+Wholesale Banking, Consumer Banking,
+Wealth Management, Capital Markets,
+Insurance, and Digital Technology for
+Commerce.
+These are not legacy systems with AI
+dashboards added. They are an AI-First
+Banking suite conceived, engineered, and
+deployed for an intelligent world, enabling
+institutions to modernise operations,
+accelerate decision-making, and unlock
+growth that rule-based systems cannot
+reach.
+
+Reference
+1
+
+https://www.precedenceres
+earch.com/artificial-intellige
+nce-in-banking-market
+
+Intellect Design Arena Ltd.
+
+2
+
+https://www.ey.com/en_us/in
+sights/banking-capital-markets
+/ai-in-banking-ey-parthenon-ge
+nai-survey-insights
+
+3
+
+https://www.mckinsey.com/i
+ndustries/financial-services/o
+ur-insights/banking-matters/a
+gentic-ai-will-shake-up-bankin
+g-shrinking-global-profit-pools
+
+4https://www.ey.com/en_us/i
+
+nsights/banking-capital-mark
+ets/ai-in-banking-ey-partheno
+n-genai-survey-insights
+
+10
+
+

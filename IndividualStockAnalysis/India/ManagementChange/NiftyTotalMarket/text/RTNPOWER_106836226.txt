@@ -1,0 +1,1660 @@
+October 30, 2026
+Scrip Code- 533122
+
+RTNPOWER/EQ
+
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra Kurla Complex
+Bandra (East),
+Mumbai-400 051
+
+Sub: Submission of Unaudited financial results (standalone and consolidated) of
+RattanIndia Power Limited (“Company”) for the quarter and half year ended
+September 30, 2026 along with Limited Review Report of the Statutory Auditor,
+thereon.
+Dear Sir/Madam,
+Pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 read with the Schedule III thereto, we enclose hereto,
+for your information and record:
+(i)
+
+the Unaudited Standalone and Consolidated financial results of the Company for
+the quarter and half year ended September 30, 2026, duly approved by the Board
+of Directors of the Company at its meeting held today, i.e. on October 30, 2026
+(which commenced at 01:00 P.M. and concluded at 01:30 P.M.
+
+(ii)
+
+Limited Review Report dated October 30, 2026, issued by the Statutory Auditors
+of the Company, M/s. T R Chadha & Co. LLP, Chartered Accountants, on the
+aforesaid Unaudited Standalone and Consolidated financial results of the
+Company.
+
+Thanking you,
+Yours faithfully,
+For RattanIndia Power Limited
+Digitally signed by
+LALIT
+LALIT NARAYAN
+NARAYAN MATHPATI
+Date: 2026.10.30
+MATHPATI 13:46:21 +05'30'
+Lalit Narayan Mathpati
+Company Secretary & Compliance Officer
+Encl : as above
+RattanIndia Power Limited
+CIN: L40102DL2007PLC169082
+Registered Address: A-49, Ground Floor, Road No. 4, Mahipalpur, New Delhi - 110037
+Website: www.rattanindiapower.com; Email ID: ir_rpl@rattanindia.com; Phone: 011 46611666; Fax: 011 46611777
+
+
+RattanIndia
+________
+POWER
+
+Raftanlndia Power Limited
+(CIN : L40102DL2007PLC169082)
+Registered Office : A-49, Ground Floor, Road No. 4, Mahipalpur, New Delhi-110037
+Phone: 011-46611666 ; Email ID: ir_rpl@rattanindia.com ; Website: www.rattanindiapower.com
+Statement of Consolidated Unaudited Financial Results for the Quarter and Half Year Ended 30 September 2026
+
+Particulars
+1 Revenue from operations
+2 Other income
+Total income
+3 Expenses
+(a) Cost of fuel, power and water consumed
+(b) Employee benefits expense
+(c) Finance costs
+(d) Depreciation and amortisation expense
+(e) Other expenses
+Total expenses
+4 Profit/ (loss) before tax (1+2-3)
+5 Tax expenses
+(a) Current tax
+(b) Deferred tax
+Total tax expenses
+6 Profit/ (loss) for the period (4-5)
+7 Other comprehensive income
+(i) Items that will not be reclassified to profit or loss
+Income tax relating to items that will not be reclassified to profit or loss
+(ii) Items that will be reclassified to profit or loss
+Income tax relating to items that will be reclassified to profit or loss
+Other comprehensive income (net of tax)
+8 Total comprehensive income/ (loss) for the period (6+7)
+9 Profit/ (loss) for the period attributable to:
+Equity holders of the Company
+Non-controlling interest
+Other comprehensive Income attributable to
+Equity holders of the Company
+Non-controlling interest
+Total comprehensive income/ (loss) for the period attributable to:
+Equity holders of the Company
+Non-controlling interest
+10 Paid-up equity share capital (Face Value of Rs.10 per Equity Share)
+11 Other equity as per statement of assets and liabilities
+12 Earnings Per Share (EPS)
+*EPS for the quarter and half year ended are not annualised
+-Basic (Rs.)
+-Diluted (Rs.)
+(See accompanying notes to the consolidated financial results)
+
+(Rs. Crore)
+Quarter ended
+Half year ended
+Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+702.85
+798.55
+653.72
+1,501.40
+1,475.68
+2,991.36
+84.88
+67.88
+89.69
+152.76
+188.62
+354.70
+787.73
+743.41
+866.43
+1,654.16
+1,664.30
+3,346.06
+544.51
+18.48
+82.88
+61.74
+41.75
+749.36
+38.37
+
+611.07
+18.79
+85.93
+61.07
+43.72
+820.58
+45.85
+
+539.00
+17.03
+112.08
+60.86
+45.99
+774.96
+(31.55)
+
+1,155.58
+37.27
+168.81
+122.81
+85.47
+1,569.94
+84.22
+
+1,192.59
+34.60
+260.26
+121.39
+100.12
+1,708.96
+(44.66)
+
+2,314.61
+69.10
+461.43
+246.31
+202.17
+3,293.62
+52.44
+
+(31.55)
+
+-
+
+38.37
+
+45.85
+
+84.22
+
+(44.66)
+
+52.44
+
+(0.20)
+
+-
+
+0.41
+-
+
+(0.20)
+38.17
+
+45.85
+
+0.41
+(31.14)
+
+(0.20)
+(0.20)
+84.02
+
+0.41
+0.41
+(44.25)
+
+0.24
+0.24
+52.68
+
+38.37
+38.37
+
+45.85
+45.85
+
+(31.55)
+(31.55)
+
+84.22
+84.22
+
+(44.66)
+(44.66)
+
+52.44
+52.44
+
+(0.20)
+(0.20)
+
+-
+
+0.41
+0.41
+
+(0.20)
+
+0.41
+
+0.24
+
+(0.20)
+
+0.41
+
+0.24
+52.68
+
+38.17
+38.17
+5,370.11
+
+45.85
+45.85
+5,370.11
+
+(31.14)
+(31.14)
+5,370.11
+
+84.02
+84.02
+5,370.11
+
+(44.25)
+(44.25)
+5,370.11
+
+0.07*
+0.07*
+
+0.09*
+0.09*
+
+(0.06)*
+(0.06)*
+
+0.16*
+0.16*
+
+(0.08)*
+(0.08)*
+
+HA
+O
+
+(
+
+GURUGFtAM
+
+z
+4
+
+52.68
+5,370.11
+(732.40)
+
+0.10
+0.10
+
+
+1
+
+Notes to the Consolidated Financial Results :
+Consolidated Statement of Assets and Liabilities
+Particulars
+A
+
+(Rs. Crore)
+As at
+31.03.2026
+(Audited)
+
+5,802.52
+20.84
+178.63
+0.15
+
+5,920.56
+20.51
+182.20
+0.20
+
+213.57
+2.27
+1.80
+6,219.78
+
+216.50
+1.85
+2.22
+6,344.04
+
+146.65
+
+202.14
+
+2,818.64
+129.29
+70.18
+175.91
+93.69
+3,434.36
+9,654.14
+
+2,757.39
+10.25
+65.10
+174.57
+59.44
+3,268.89
+9,612.93
+
+5,370.11
+(648.38)
+4,721.73
+
+5,370.11
+(732.40)
+4,637.71
+
+2,792.19
+67.92
+0.48
+13.36
+679.32
+3,553.27
+
+2,728.39
+68.62
+0.44
+12.37
+708.66
+3,518.48
+
+870.82
+4.00
+
+909.03
+4.67
+
+123.84
+277.11
+61.86
+41.51
+1,379.14
+9,654.14
+
+153.52
+286.34
+62.21
+40.97
+1,456.74
+9,612.93
+
+ASSETS
+1 Non-current assets
+(a) Property, plant and equipment
+(b) Capital work-in-progress
+(c) Right of use
+(d) Other Intangible assets
+(e) Financial assets
+Other financial assets
+(f) Non-current tax assets
+(g) Other non-current assets
+Sub-total - Non-current assets
+2 Current assets
+(a) Inventories
+(b) Financial assets
+Trade receivables
+Cash and cash equivalents
+Bank balances other than cash and cash equivalents
+Other financial assets
+(c) Other current assets
+Sub-total - Current assets
+
+B
+
+As at
+30.09.2026
+(Unaudited)
+
+TOTAL - ASSETS
+EQUITY AND LIABILITIES
+1 Equity
+(a) Equity share capital
+(b) Other equity
+Sub-total - Equity
+2 Non-current liabilities
+(a) Financial liabilities
+Borrowings
+Lease liabilities
+Other financial liabilities
+(b) Provisions
+(c) Other non-current liabilities
+Sub-total - Non-current liabilities
+3 Current liabilities
+(a) Financial liabilities
+Borrowings
+Lease liabilities
+Trade payables
+Total outstanding dues of micro enterprises and small enterprises
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+Other financial liabilities
+(b) Other current liabilities
+(c) Provisions
+Sub-total - Current liabilities
+TOTAL - EQUITY AND LIABILITIES
+
+O
+
+(
+
+GURUGRAM
+k4\r ed Acc
+
+Z
+a
+O
+
+
+2
+
+Consolidated Statement of Cash Flows
+
+(Rs. Crore)
+Half year
+Half year
+ended
+ended
+30.09.2026 30.09.2025
+(Unaudited) (Unaudited)
+
+Particulars
+A
+
+B
+
+C
+
+D
+E
+F
+
+Cash Flows From Operating Activities
+Profit/ (loss) before tax
+
+84.22
+
+(44.66)
+
+Adjustments for:
+Interest income
+Liabilities written back
+Profit on sale of investments
+Finance costs
+Depreciation/ amortisation expense
+Loss on foreign currency transactions (net)
+Operating profit before working capital changes
+
+(9.45)
+(0.16)
+(0.02)
+168.81
+122.81
+0.00
+366.21
+
+(21.92)
+260.26
+121.39
+5.02
+320.09
+
+Movement in working capital
+Decrease! (Increase) in inventories
+Increase in other financial assets
+(Increase)/ decrease in other assets
+(Increase)/ decrease in trade and other receivables
+Increase in other financial liabilities
+Decrease in other liabilities
+Decrease in trade and other payables
+Cash generated from operating activities post working capital changes
+Income tax (paid)/ refund (net)
+Net cash generated from operating activities (A)
+
+55.49
+(1.61)
+(28.42)
+(61.26)
+1.38
+(29.63)
+(29.69)
+272.47
+(0.41)
+272.06
+
+(10.84)
+(0.86)
+71.48
+10.68
+8.99
+(30.78)
+(1.93)
+366.83
+6.95
+373.78
+
+(7.70)
+
+(73.07)
+
+0.02
+(0.58)
+6.80
+(1.46)
+
+56.03
+23.09
+6.05
+
+Cash Flows From Financing Activities
+Proceeds from short-term borrowings
+Repayment of long-term borrowings
+Finance cost paid
+Payment of lease liabilities
+Net cash (used in)/ generated from financing activities (C)
+
+(38.21)
+(46.59)
+(61.45)
+(5.31)
+(151.56)
+
+300.00
+(218.99)
+(62.53)
+(4.82)
+13.66
+
+Increase in cash and cash equivalents (A+B+C)
+Cash and cash equivalents at the beginning of the period
+Cash and cash equivalents at the end of the period (D+E)
+
+119.04
+10.25
+129.29
+
+393.49
+177.83
+571.32
+
+Cash Flows From Investing Activities
+Capital expenditure on payment towards property, plant and equipment, including capital
+advances and capital work in progress and intangible assets
+Proceeds from sale of investment (net)
+Movement in fixed deposits (net)
+Interest received
+Net cash (used in)/ generated from investing activities (B)
+
+0:-1A 4 co
+0
+(
+.2rlo
+I—
+* GURUGRAM
+•
+red Acee
+
+PO4,
+Z
+
+‘-ye,
+
+y
+01"
+
+
+3
+
+Rattanlndia Power Limited ("the Holding Company" or "RPL") and its subsidiary company are together referred to as "the Group" in the following notes. RPL
+conducts its operations along with its subsidiary company.
+4 The above consolidated financial results of the Group for the quarter and half year ended 30 September 2026 have been reviewed by the Audit Committee on
+30 October 2026 and subsequently, approved at the meeting of the Board of Directors ("the Board") held on 30 October 2026. The consolidated financial
+results have been subjected to a limited review by the Statutory Auditors of RPL. The consolidated financial results have been prepared in accordance with
+the recognition and measurement principles of Indian Accounting Standards as notified under the Companies (Indian Accounting Standards) Rules, 2015 (as
+amended) as specified in Section 133 of the Companies Act, 2013 ("the Act").
+5 RPL, under an One Time Settlement (OTS) scheme, had issued Redeemable Preference Shares (RPS) in December 2019 aggregating to Rs. 250 crores to
+the lenders of RPL, that had become due for redemption on 27 December 2021. However, in spite of having sufficient cash and cash equivalent balance, the
+redemption of such RPS could not be done due to limitations as per the provisions of section 55(2) of the Act which state that such redemption is permissible
+only out of profits earned by RPL which are otherwise available for dividend, after adjusting the accumulated losses as read with section 123 of the Act, or out
+of the proceeds of a fresh issue of shares made for the purposes of such redemption. RPL, continues to remain engaged in discussions with the RPS holders
+to evaluate and finalise other mutually acceptable options for settlement of the outstanding RPS obligation. Accordingly, the liability towards RPS has been
+presented under "current financial liabilities' in the consolidated financial results for the quarter and half year ended 30 September 2026.
+During the quarter ended 30 September 2025, the application filed under Section 7 of the IBC Code against RPL, by one of the RPS holders, holding
+28,720,978 RPS aggregating to Rs. 28.72 crore in RPL, demanding redemption of the principal amount of the RPS issued by RPL along with interest and
+dividend, had been disposed off in RPL's favor by the Hon'ble National Company Law Tribunal (NCLT) vide order dated 17 September 2025 and further, the
+application filed by the same RPS holder against the subsidiary Company, Poena Power Development Limited (PPDL) (whose shares are pledged with RPS
+holders and inter-corporate deposit of Rs. 250 crores extended by RPL remains assigned to the RPS holders, as part of the security arrangement), was also
+dismissed by the Hon'ble NCLT vide order dated 7 November 2025. Subsequently, the said RPS holder filed an appeal before the Hon'ble National Company
+Law Appellate Tribunal (NCLAT) against the NCLT order in respect of PPDL, which currently remains pending for disposal by the Hon'ble NCLAT, as at the
+reporting date. The management, based upon inputs from legal experts and relying upon relevant favorable judicial pronouncement including the favorable
+outcome in Holding Company's case, is of the view that the application filed under Section 7 of IBC Code against PPDL is not maintainable under applicable
+laws and believes that the same is not expected to have any material impact on these consolidated financial results and or on the operations and functioning
+of RPL and the subsidiary company.
+The statutory auditors have reported Emphasis of Matter in respect of above matter in their review report on these consolidated financial results.
+6 In light of the ratio laid down by the Hon'ble Supreme Court in Civil Appeal No 5399-5400 of 2016 in the matter of Energy Watchdog vs CERC vide judgment
+dated 11 April 2017 followed by judgment dated 13 November 2020 of Appellate Tribunal for Electricity (APTEL) and order dated 16 November 2021 of
+MERC, RPL has recomputed its Change in Law claims and has raised supplementary invoice on MSEDCL, as directed by MERC. Subsequently, vide interim
+Order dated 14 February 2022, the Hon'ble Supreme Court directed MSEDCL to pay 50% of the outstanding claim amount till the time the matter attains
+finality. Further, on 27 March 2023, the Hon'ble Supreme Court has dismissed the civil appeal 1805/2021 filed by MSEDCL. Accordingly, MSEDCL had paid
+Rs. 876.84 crore till date and is in the process of making balance payment, in compliance with the aforesaid order. Hence, it would not be unreasonable to
+expect the realisation of amount of compensation along with interest recorded in the books of account, in relation to the aforesaid developments.
+7 During the year ended 2010-11, RPL had entered into a contract with Bharat Heavy Electrical Limited ('BHEL') for erection and supply of certain material
+including boiler turbine generator package, for phase II of its thermal power project at Amravati. Consequent to such original contract, BHEL supplied certain
+material that were not warranted at that relevant time and there were various communication made by RPL with BHEL requesting for taking away such
+excess material from the project site. Subsequently, BHEL initiated arbitration proceedings against RPL, alleging the outstanding payment against claims
+towards supply and services, taxes thereon, loss of profit, corporate and other overheads etc., due to breach of terms of the Supply Contract and Service
+Contract.
+The Hon'ble High Court of Delhi disposed off the petition in earlier year, with the instruction to the parties that petition before Hon'ble High Court be treated as
+an application under Section 17 of the Arbitration and Conciliation Act, 1996, before the Arbitral Tribunal. The arguments have been concluded under the said
+arbitration during the previous year. The award was reserved on 01 February 2025 and subsequently pronounced on 01 October 2026, whereby the tribunal
+has awarded a sum of Rs. 171 Cr plus interest to BHEL. RPL is evaluating the award in details. There are various legal remedies available to RPL including
+challenging the award before the competent High Court and if necessary, further appellate remedies available before the Hon'ble Supreme Court.
+In April 2016, BHEL had also filed separate application under Section 31(6) of the Arbitration and Conciliation Act, 1996 Act, before the Arbitral Tribunal,
+seeking interim award of Rs. 115 crores, as part payment towards supply and services. The Hon'ble Tribunal had heard arguments of both the parties and an
+interim award of Rs. 115 crores against RPL was passed vide order dated 27 July 2017. Subsequently, RPL had filed a petition against the said interim award
+under Section 34 of the Arbitration and Conciliation Act, 1996 Act before the Hon'ble High Court of Delhi, that has been dismissed vide order dated 06 March
+2025 by the Single Bench of the Hon'ble High Court of Delhi. Pursuant to the above, RPL has filed an appeal under section 37 of the Arbitration and
+Conciliation Act, 1996, before the Division bench of the Hon'ble High Court of Delhi on 05 April 2025, that is yet to be heard and is currently pending disposal.
+In response to another application filed on 02 May 2023, the Hon'ble High Court Hon'ble High Court of Delhi vide separate order dated 08 August 2023 had
+allowed attachment of certain assets in connection with the interim award dated 27 July 2017, subject to any prior charge already created on the said assets
+in favour of third parties.
+The management, based on inputs from its legal experts and merits of the case, is of the view that RPL has strong position in the said matter and is taking all
+necessary steps to protect its interests and the likelihood of any additional liability devolving on RPL (other than those already recorded) is not probable and
+there is no additional impact, requiring any adjustment in these consolidated financial results.
+
+PQ
+
+H
+s--
+
+a
+
+oe
+
+GURU V
+co
+r ed Aco
+
+
+8
+
+During the year ended 31 March 2022, RPL had filed writ petition before Hon'ble Delhi High Court ('Delhi HC') and had sought relief and direction to Ministry of
+Power and Ministry of Coal as well as Western Coalfields Limited ('WCL') and Mahanadi Coalfields Limited ('MCL'), the subsidiaries of Coal India Limited, for
+returning of Bank Guarantees issued pursuant to Letter of Assurance (LOA), as the Fuel Supply Agreement (FSA) against this LOA was not materialized and
+RPL has not utilized this for any coal supply to the plant. Subsequently during the quarter ended 30 June 2022, RPL had received letters from WCL & MCL
+informing cancellation of LOA and invocation of bank guarantee amounting to Rs. 54.96 crore. RPL had filed an application of stay before Delhi HC and in
+response thereto, the Delhi HC had directed WCL & MCL not to take any coercive action pursuant to their letters. RPL based upon inputs from legal experts
+believes that it has a strong case and accordingly, no provision is considered necessary in these consolidated financial results at this stage.
+9 Revenue from operations on account of Change in Law events and Interest Income thereon in terms of Power Purchase Agreement ("PPA") is accounted for
+by RPL based on the best estimates, management's interpretation of the regulatory orders and various technical parameters, which may be subject to
+necessary adjustments, on account of final acknowledgement/ orders/ settlement by the respective authorities.
+10 The Chief Operating Decision Maker ("CODM") reviews the operations at the Group level. The operations of the Group fall under "power generation and allied
+activities" business, which is considered to be the only reportable segment in accordance with the provisions of Ind AS 108 — Operating Segments. Further,
+the Group derives revenue from a single external customer and currently, the Group operations are domiciled in India and all the non- current assets are
+located in India, therefore, there is no reportable geographical segment.
+
+P
+OH
+Gtr
+
+CO
+
+GURU RAM
+
+O
+
+*
+
+
+RattanIndia
+POWER
+
+Rattanlndia Power Limited
+(CIN : L40102DL2007PLC169082)
+Registered Office : A-49, Ground Floor, Road No. 4, Mahipalpur, New Delhi-110037
+Phone: 011-46611666 ; Email ID: ir_rpl@rattanindia.com ; Website: www.rattanindiapower.com
+Standalone Unaudited Financial Results for the Quarter and Half Year Ended 30 September 2026
+
+Particulars
+Revenue from operations
+Other income
+Total income
+3 Expenses
+(a) Cost of fuel, power and water consumed
+(b) Employee benefits expense
+(c) Finance costs
+(d) Depreciation and amortisation expense
+(e) Other expenses
+Total expenses
+4 Profit/ (loss) before tax (1+2-3)
+5 Tax expenses
+(a) Current tax
+(b) Deferred tax
+Total tax expenses
+6 Profit/ (loss) for the period (4-5)
+7 Other comprehensive income
+(i) Items that will not be reclassified to profit or loss
+Income tax relating to items that will not be reclassified to profit or loss
+(ii) Items that will be reclassified to profit or loss
+Income tax relating to items that will be reclassified to profit or loss
+Other comprehensive income (net of tax)
+8 Total comprehensive income/ (loss) for the period (6+7)
+9 Paid-up equity share capital (Face Value of Rs.10 per Equity Share)
+10 Other equity as per statement of assets and liabilities
+11 Earnings Per Share (EPS)
+*EPS for the quarter and half year ended are not annualised
+-Basic (Rs.)
+-Diluted (Rs.)
+(See accompanying notes to the standalone financial results)
+1
+2
+
+(Rs. Crore)
+Half year ended
+Quarter ended
+Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+653.72
+702.85
+798.55
+1,501.40
+1,475.68
+2,991.36
+94.13
+207.02
+77.03
+98.95
+171.16
+391.39
+796.98
+752.67
+1,672.56
+1,682.70
+875.58
+3,382.75
+544.51
+18.48
+82.87
+63.22
+51.00
+760.08
+36.90
+
+611.07
+18.79
+85.93
+62.56
+52.87
+831.22
+44.36
+
+539.00
+17.03
+112.08
+62.35
+55.23
+785.69
+(33.02)
+
+1,155.58
+37.27
+168.80
+125.78
+103.87
+1,591.30
+81.26
+
+1,192.59
+34.60
+260.25
+124.37
+118.51
+1,730.32
+(47.62)
+
+2,314.61
+69.10
+461.41
+252.26
+238.78
+3,336.16
+46.59
+
+36.90
+
+44.36
+
+(33.02)
+
+81.26
+
+(47.62)
+
+46.59
+
+(0.20)
+
+-
+
+(0.20)
+-
+
+0.41
+
+0.24
+-
+
+(0.20)
+81.06
+5,370.11
+
+0.41
+(47.21)
+5,370.11
+
+0.24
+46.83
+5,370.11
+(527.85)
+
+0.15*
+0.15*
+
+(0.09)*
+(0.09)*
+."::- P117;.›.
+
+(0.20)
+36.70
+5,370.11
+
+44.36
+5,370.11
+
+0.41
+0.41
+(32.61)
+5,370.11
+
+0.07*
+0.07*
+
+0.08*
+0.08*
+
+(0.06)*
+(0.06)*
+
+H
+O
+
+0
+
+GURUGRAM
+,
+4
+40 tad Acoi ll
+
+O
+
+0.09
+0.09
+
+
+Notes to the Standalone Financial Results :
+1
+
+Standalone Statement of Assets and Liabilities
+Particulars
+A
+
+(Rs. Crore)
+As at
+31.03.2026
+(Audited)
+
+5,753.89
+20.84
+178.63
+0.15
+
+5,874.90
+20.51
+182.20
+0.20
+
+0.05
+250.00
+213.57
+2.27
+1.80
+6,421.20
+
+0.05
+250.00
+216.50
+1.85
+2.22
+6,548.43
+
+146.65
+
+202.14
+
+2,818.64
+129.23
+70.18
+175.91
+93.69
+3,434.30
+9,855.50
+
+2,757.39
+10.18
+65.10
+174.57
+59.44
+3,268.82
+9,817.25
+
+5,370.11
+(446.79)
+4,923.32
+
+5,370.11
+(527.85)
+4,842.26
+
+2,792.19
+67.92
+0.48
+13.36
+679.32
+3,553.27
+
+2,728.39
+68.62
+0.44
+12.37
+708.66
+3,518.48
+
+870.71
+4.00
+
+908.92
+4.67
+
+123.84
+277.02
+61.83
+41.51
+1,378.91
+. ;fli(5PitA.
+
+153.52
+286.25
+62.18
+40.97
+1,456.51
+9,817.25
+
+ASSETS
+1 Non-current assets
+(a) Property, plant and equipment
+(b) Capital work-in-progress
+(c) Right of use
+(d) Intangible assets
+(e) Financial assets
+Investment in subsidiaries
+Loans
+Other financial assets
+(f) Non-current tax assets
+(g) Other non-current assets
+Sub-total - Non-current assets
+2 Current assets
+(a) Inventories
+(b) Financial assets
+Trade receivables
+Cash and cash equivalents
+Bank balances other than cash and cash equivalents
+Other financial assets
+(c) Other current assets
+Sub-total - Current assets
+
+B
+
+As at
+30.09.2026
+(Unaudited)
+
+TOTAL - ASSETS
+EQUITY AND LIABILITIES
+1 Equity
+(a) Equity share capital
+(b) Other equity
+Sub-total - Equity
+2 Non-current liabilities
+(a) Financial liabilities
+Borrowings
+Lease liabilities
+Other financial liabilities
+(b) Provisions
+(c) Other non-current liabilities
+Sub-total - Non-current liabilities
+3 Current liabilities
+(a) Financial liabilities
+Borrowings
+Lease liabilities
+Trade payables
+Total outstanding dues of micro enterprises and small enterprises
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+Other financial liabilities
+(b) Other current liabilities
+(c) Provisions
+Sub-total - Current liabilities
+TOTAL - EQUITY AND LIABILITIES
+
+pHA
+0
+
+(
+
+*
+
+GUR
+
+M
+
+-o
+CO
+
+r ed Acc
+
+*
+
+
+2
+
+Standalone Statement of Cash Flows
+
+(Rs. Crore)
+Half year
+Half year
+ended
+ended
+30.09.2026 30.09.2025
+(Unaudited) (Unaudited)
+
+Particulars
+A
+
+B
+
+C
+
+D
+E
+F
+
+Cash Flows From Operating Activities
+Profit/ (loss) before tax
+
+81.26
+
+(47.62)
+
+Adjustments for:
+Interest income
+Liabilities written back
+Profit on sale of investments
+Finance costs
+Depreciation/ amortisation expense
+Investment/ balances written off
+Loss on foreign currency transactions (net)
+Operating profit before working capital changes
+
+(27.85)
+(0.16)
+(0.02)
+168.80
+125.78
+18.40
+0.00
+366.21
+
+(40.32)
+260.25
+124.37
+18.40
+5.02
+320.10
+
+Movement in working capital
+Decrease/ (Increase) in inventories
+Increase in other financial assets
+(Increase)/ decrease in other assets
+(Increase)/ decrease in trade and other receivables
+Increase in other financial liabilities
+Decrease in other liabilities
+Decrease in trade and other payables
+Cash flows generated from operating activities post working capital changes
+Income tax (paid)/ refund (net)
+Net cash flows generated from operating activities (A)
+
+55.49
+(1.61)
+(28.42)
+(61.26)
+1.38
+(29.62)
+(29.69)
+272.48
+(0.41)
+272.07
+
+(10.84)
+(0.85)
+70.88
+10.68
+8.99
+(30.20)
+(1.93)
+366.83
+6.95
+373.78
+
+(7.70)
+
+(73.07)
+
+0.02
+(0.58)
+6.80
+(1.46)
+
+56.03
+23.09
+6.05
+
+Cash Flows From Financing Activities
+(Repayment)/ proceeds from short-term borrowings
+Repayment of long-term borrowings
+Finance cost paid
+Payment of lease liabilities
+Net cash (used in)/ generated from financing activities (C)
+
+(38.21)
+(46.59)
+(61.45)
+(5.31)
+(151.56)
+
+300.00
+(218.99)
+(62.53)
+(4.82)
+13.66
+
+Increase in cash and cash equivalents (A+B+C)
+Cash and cash equivalents at the beginning of the period
+Cash and cash equivalents at the end of the period (D+E)
+
+119.05
+10.18
+129.23
+
+393.49
+177.77
+571.26
+
+Cash Flows From Investing Activities
+Capital expenditure on payment towards property, plant and equipment, including capital
+advances and capital work in progress and intangible assets
+Proceeds from sale of investment (net)
+Movement in fixed deposits (net)
+Interest received
+Net cash (used in)/ generated from investing activities (B)
+
+0
+
+pH a
+G
+0
+<
+4<
+-o
+GUR,U.GRAM *
+
+I-
+
+•
+'ed Acc
+
+V
+
+
+3
+
+4
+
+The standalone financial results of Rattanlndia Power Limited ("RPL" or " the Company") for the quarter and half year ended 30 September 2026 have been
+reviewed by the Audit Committee on 30 October 2026 and subsequently, approved by the Board members at the meeting of the Board of Directors ("the
+Board") held on 30 October 2026. The standalone financial results have been subjected to a limited review by the Statutory Auditors of the Company. The
+standalone financial results have been prepared in accordance with the recognition and measurement principles of Indian Accounting Standards as notified
+under the Companies (Indian Accounting Standards) Rules, 2015 (as amended) as specified in Section 133 of the Companies Act, 2013 ("the Act").
+The Company, under an One Time Settlement (OTS) scheme, had issued Redeemable Preference Shares (RPS) in December 2019 aggregating to Rs. 250
+crores to the lenders of RPL, that had become due for redemption on 27 December 2021. However, in spite of having sufficient cash and cash equivalent
+balance, the redemption of such RPS could not be done due to limitations as per the provisions of section 55(2) of the Act which state that such redemption is
+permissible only out of profits earned by the Company which are otherwise available for dividend, after adjusting the accumulated losses as read with section
+123 of the Act, or out of the proceeds of a fresh issue of shares made for the purposes of such redemption. The Company, continues to remain engaged in
+discussions with the RPS holders to evaluate and finalise other mutually acceptable options for settlement of the outstanding RPS obligation. Accordingly, the
+liability towards RPS has been presented under "current financial liabilities' in the standalone financial results for the quarter ended 30 June 2026.
+
+During the quarter ended 30 September 2025, the application filed under Section 7 of the IBC Code against the Company, by one of the RPS holders, holding
+28,720,978 RPS aggregating to Rs. 28.72 crore in the Company, demanding redemption of the principal amount of the RPS issued by the Company along
+with interest and dividend, had been disposed off in Company's favor by the Hon'ble National Company Law Tribunal (NCLT) vide order dated 17 September
+2025 and further, the application filed by the same RPS holder against the Company's subsidiary, Poena Power Development Limited (PPDL) (whose shares
+are pledged with RPS holders and inter-corporate deposit of Rs. 250 crores extended by RPL remains assigned to the RPS holders, as part of the security
+arrangement), was also dismissed by the Hon'ble NCLT vide order dated 7 November 2025. Subsequently, the said RPS holder filed an appeal before the
+Hon'ble National Company Law Appellate Tribunal (NCLAT) against the NCLT order in respect of PPDL, which currently remains pending for disposal by the
+Hon'ble NCLAT, as at the reporting date. The management, based upon inputs from legal experts and relying upon relevant favorable judicial pronouncement
+including the favorable outcome in Holding Company's case, is of the view that the application filed under Section 7 of IBC Code against PPDL is not
+maintainable under applicable laws and believes that the same is not expected to have any material impact on these standalone financial results and or on
+the operations and functioning of the Company.
+5 In light of the ratio laid down by the Hon'ble Supreme Court in Civil Appeal No 5399-5400 of 2016 in the matter of Energy Watchdog vs CERC vide judgment
+dated 11 April 2017 followed by judgment dated 13 November 2020 of Appellate Tribunal for Electricity (APTEL) and order dated 16 November 2021 of
+MERC, RPL has recomputed its Change in Law claims and has raised supplementary invoice on MSEDCL, as directed by MERC. Subsequently, vide interim
+Order dated 14 February 2022, the Hon'ble Supreme Court directed MSEDCL to pay 50% of the outstanding claim amount till the time the matter attains
+finality. Further, on 27 March 2023, the Hon'ble Supreme Court dismissed the civil appeal 1805/2021 filed by MSEDCL. Accordingly, MSEDCL has paid Rs.
+876.84 crore till date and is in the process of making the balance payment, in compliance with the aforesaid order. Hence, it would not be unreasonable to
+expect the realization of the amount of compensation along with interest recorded in the books of account, in relation to the aforesaid developments.
+6 During the year ended 2010-11, the Company had entered into a contract with Bharat Heavy Electrical Limited ('BHEL') for erection and supply of certain
+material including boiler turbine generator package, for phase II of its thermal power project at Amravati. Consequent to such original contract, BHEL supplied
+certain material that were not warranted at that relevant time and there were various communication made by the Company with BHEL requesting for taking
+away such excess material from the project site. Subsequently, BHEL initiated arbitration proceedings against the Company, alleging the outstanding payment
+against claims towards supply and services, taxes thereon, loss of profit, corporate and other overheads etc., due to breach of terms of the Supply Contract
+and Service Contract.
+The Hon'ble High Court of Delhi disposed off the petition in earlier year, with the instruction to the parties that petition before Hon'ble High Court be treated as
+an application under Section 17 of the Arbitration and Conciliation Act, 1996, before the Arbitral Tribunal. The arguments have been concluded under the said
+arbitration during the previous year. The award was reserved on 01 February 2025 and subsequently pronounced on 01 October 2026, whereby the tribunal
+has awarded a sum of Rs. 171 Cr plus interest to BHEL. The Company is evaluating the award in details. There are various legal remedies available to the
+Company including challenging the award before the competent High Court and if necessary, further appellate remedies available before the Hon'ble
+Supreme Court.
+In April 2016, BHEL had also filed separate application under Section 31(6) of the Arbitration and Conciliation Act, 1996 Act, before the Arbitral Tribunal,
+seeking interim award of Rs. 115 crores, as part payment towards supply and services. The Hon'ble Tribunal had heard arguments of both the parties and an
+interim award of Rs. 115 crores against the Company was passed vide order dated 27 July 2017. Subsequently, the Company had filed a petition against the
+said interim award under Section 34 of the Arbitration and Conciliation Act, 1996 Act before the Hon'ble High Court of Delhi, that has been dismissed vide
+order dated 06 March 2025 by the Single Bench of the Hon'ble High Court of Delhi. Pursuant to the above, the Company has filed an appeal under section 37
+of the Arbitration and Conciliation Act, 1996, before the Division bench of the Hon'ble High Court of Delhi on 05 April 2025, that is yet to be heard and is
+currently pending disposal.
+In response to another application filed on 02 May 2023, the Hon'ble High Court Hon'ble High Court of Delhi vide separate order dated 08 August 2023 had
+allowed attachment of certain assets in connection with the interim award dated 27 July 2017, subject to any prior charge already created on the said assets
+in favour of third parties.
+The management, based on inputs from its legal experts and merits of the case, is of the view that the Company has strong position in the said matter and is
+taking all necessary steps to protect its interests and the likelihood of any additional liability devolving on the Company (other than those already recorded) is
+not probable and there is no additional impact, requiring any adjustment in these standalone financial results.
+7
+
+During the year ended 31 March 2022, the Company had filed writ petition before Hon'ble Delhi High Court ('Delhi HC') and had sought relief and direction to
+Ministry of Power and Ministry of Coal as well as Western Coalfields Limited ('WCL') and Mahanadi Coalfields Limited (`MCL'), the subsidiaries of Coal India
+Limited, for returning of Bank Guarantees issued pursuant to Letter of Assurance (LOA), as the Fuel Supply Agreement (FSA) against this LOA was not
+materialized and Company has not utilized this for any coal supply to the plant. Subsequently during the quarter ended 30 June 2022, Company had received
+letters from WCL & MCL informing cancellation of LOA and invocation of bank guarantee amounting to Rs. 54.96 crore. The Company had filed an application
+of stay before Delhi HC and in response thereto, the Delhi HC had directed WCL & MCL not to take any coercive action pursuant to their letters. The
+Company based upon inputs from legal experts believes that it has a strong case and accordingly, no provision is considered necessary in these standalone
+financial results at this stage.
+
+HA 4 0
+9f%2,)et
+GURUW. *
+O
+red *cc
+
+r
+
+
+8
+
+Revenue from operations on account of Change in Law events and Interest Income thereon in terms of Power Purchase Agreement ("PPA") is accounted for
+by the Company based on the best estimates, management's interpretation of the regulatory orders and various technical parameters, which may be subject
+to necessary adjustments, on account of final acknowledgement/ orders/ settlement by the respective authorities.
+
+9
+
+The operations of the Company fall under the "power generation and allied activities" business, which is considered to be the only reportable segment in
+accordance with the provisions of Ind AS 108 — Operating Segments. Further, the Company derives revenue from a single external customer and currently,
+the Company operations are domiciled in India and all the non- current assets are located in India, therefore, there is no reportable geographical segment.
+
+<
+
+4z-
+
+I* GUWAM
+-5
+Place : New Delhi
+Date : 30 October 2026
+
+red Acc
+
+PO
+ZI
+4
+
+For and on behalf of the Board of D'
+Rattanlndia Power Lim'
+
+Himanshu Mathur
+Whole Time Director
+DIN : 03077198
+
+tors
+
+
+T R Chadha & Co LLP
+
+CA
+INDIA
+
+Chartered
+
+Accountants
+
+Independent Auditor's Review Report on Unaudited Consolidated Quarterly Financial Results of
+Rattanlndia Power Limited for the quarter and six months ended September 30, 2026, pursuant to
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as
+amended)
+To the Board of Directors of Rattanlndia Power Limited
+INTRODUCTION
+1.
+
+We have reviewed the accompanying statement of unaudited consolidated financial results ('the
+Statement') of Rattanlndia Power Limited ('the Holding Company') and its subsidiary (the Holding
+Company and its subsidiary together referred to as `the Group') for the quarter and six months ended
+September 30, 2026, being submitted by the Holding Company pursuant to the requirements of
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as
+amended) ('Listing Regulations').
+
+2.
+
+This Statement, which is the responsibility of the Holding Company's management and approved by the
+Holding Company's Board of Directors, has been prepared in accordance with the recognition and
+measurement principles laid down in Indian Accounting Standard 34, Interim Financial Reporting ('Ind
+AS 34'), prescribed under section 133 of the Companies Act, 2013 ('the Act'), and other accounting
+principles generally accepted in India and is in compliance with the presentation and disclosure
+requirements of Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion
+on the Statement based on our review.
+
+SCOPE OF REVIEW
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, Review of Interim Financial Information Performed by the Independent Auditor of the Entity,
+issued by the Institute of Chartered Accountants of India. A review of interim financial information
+consists of making inquiries, primarily of persons responsible for financial and accounting matters, and
+applying analytical and other review procedures. A review is substantially less in scope than an audit
+conducted in accordance with the Standards on Auditing specified under section 143(10) of the Act, and
+consequently, does not enable us to obtain assurance that we would become aware of all significant
+matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33
+(8) of the Listing Regulations, to the extent applicable.
+
+CONCLUSION
+4.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above and upon
+consideration of the review report of the other auditors referred to in paragraph 7 below, nothing has
+come to our attention that causes us to believe that the accompanying Statement, prepared in
+accordance with the recognition and measurement principles laid down in Ind AS 34, prescribed under
+section 133 of the Act, and other accounting principles generally accepted in India, has not disclosed
+the information required to be disclosed in accordance with the requirements of Regulation 33 of the
+Listing Regulations, including the manner in which it is to be disclosed, or that it contains any material
+misstatement.
+
+pH
+I—
+
+O
+
+c.
+
+GURW,1
+
+0
+
+CO
+
+red Acol
+
+T R Chadha 8i. Co LLP, A limited liability partnership with LLP Identification No. AAF-3926
+Gurugram Branch Office: 76 E, Udyog Vihar Phase IV, Gurugram, Haryana 122001 I Ph: +91 124 4129900 E mail: gurgaon@trchadha.com;
+Corporate/ Reed. Office: B-30, Connaught Place, Kuthiala Building, New Delhi — 110001 I Ph: 43259900 I E-mail: delhi@trchadha.com
+Offices: Ahmedabad I Bengaluru I Chennai I Gurugram I Hyderabad I Mumbai I New Delhi I Noida I Pune I Tirupati I Vadodara
+www trrharlha rnm
+
+
+CA
+
+T R Chadha q5 Co LLP
+
+INDIA
+
+5.
+
+Chartered
+
+Accountants
+
+The Statement includes the results of the following entity:
+Serial
+No
+1.
+
+Name of the Entity
+
+Relationship
+
+Poena Power Development Limited
+
+Subsidiary
+
+EMPHASIS OF MATTER
+6.
+
+We draw attention to note 5 of the accompanying consolidated statement, which describes that
+Redeemable Preference Shares (RPS) aggregating to Rs. 250 crores issued to the lenders of the
+Holding Company had become due for redemption on December 27, 2021, however, owing to limitations
+as per the provisions of section 55(2) of the Act as further detailed in the said note, the RPS have not
+yet been redeemed.
+One of the RPS holders had filed appeals under Section 7 of the Insolvency and Bankruptcy Code,
+2016 CSC Code') against the Holding Company and the subsidiary company, Poena Power
+Development Limited ('PPDL'), demanding the redemption of the principal amount along with interest
+and dividend, which was disposed off in favour of the Holding Company and the subsidiary company by
+the Hon'ble National Company Law Tribunal (NCLT). During the quarter ended 31 March 2026, the RPS
+holder had filed an appeal before the Hon'ble National Company Law Appellate Tribunal (NCLAT)
+against the NCLT order in respect of PPDL, which remains pending for disposal by the Hon'ble NCLAT,
+as on the reporting date.
+The management, based on legal assessment, is of the view that the aforesaid application filed under
+Section 7 of IBC Code against PPDL is not maintainable under applicable laws and no material adverse
+impact is expected on the accompanying consolidated financial results and/or on the operations and
+functioning of the Group, on account of aforesaid matter.
+Our conclusion is not modified in respect of this matter.
+
+OTHER MATTER
+7.
+
+We did not review the interim financial results of one subsidiary included in the Statement, whose
+unaudited financial results reflects total assets of Rs. 216.45 crores as at September 30, 2026, total
+revenue of Rs. Nil and Rs. Nil for the quarter and six months ended September 30, 2026 respectively,
+net loss after tax of Rs. 0.004 crores and Rs. 0.009 crores for the quarter and six months ended
+September 30, 2026 respectively and total comprehensive loss of Rs. 0.004 crores and Rs. 0.009 crores
+for the quarter and six months ended September 30, 2026 respectively and net cash outflow of Rs.
+0.002 crores for the six months ended September 30, 2026, as considered in the Consolidated
+unaudited Financial Results. These interim financial results have been reviewed by other auditors whose
+review report has been furnished to us by the management, and our conclusion in so far as it relates to
+the amounts and disclosures included in respect of this subsidiary is based solely on the review report
+of such other auditors and the procedures performed by us as stated in paragraph 3 above.
+Our conclusion on the statement is not modified in respect of this matter with respect to our reliance on
+the work done by and the reports of the other auditors.
+
+HA
+O
+I-
+
+GURCAM
+ti
+
+•rte
+d
+red AGG°
+
+Page 2 of 3
+
+
+CA
+
+T R Chadha
+
+INDIA
+
+8.
+
+Chartered
+
+Co LLP
+
+Accountants
+
+_
+
+The consolidated financial results of the Group for the quarter ended June 30, 2026 and the
+corresponding quarter and six months ended September 30, 2025 and the year ended March 31, 2026,
+included in the Statement as corresponding/comparative figures, were reviewed by the predecessor
+auditor, who, vide their report dated July 24, 2026, October 31, 2025 and May 7, 2026 expressed an
+unmodified conclusion/opinion on those financial results/financial statements. Our conclusion on the
+Statement for the quarter and six months ended September 30, 2026 is not modified in respect of this
+matter.
+
+For T R Chadha & Co LLP
+Chartered Accountants
+Firm Registration No: 006711N/N500028
+
+H
+0
+GURUGRAM
+CL
+
+Aashish Gupta
+`acP
+Partner
+red AccoMembership No. 097343
+UDIN: 24., --13t13.\/ PIVL 19 -2-41
+Place: Gurugram
+Date: October 30, 2026
+
+p
+
+Page 3 of 3
+
+
+CA
+
+T R Chadha & Co LLP
+
+INDIA
+
+Chartered
+
+Accountants
+
+Independent Auditor's Review Report on Unaudited Standalone Quarterly Financial Results of
+Rattanlndia Power Limited for the quarter and six months ended September 30, 2026, pursuant to
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as
+amended)
+To the Board of Directors of Rattanlndia Power Limited
+INTRODUCTION
+1.
+
+We have reviewed the accompanying statement of unaudited standalone financial results ('the
+Statement') of Rattanlndia Power Limited ("the Company") for the quarter and six months ended
+September 30, 2026, being submitted by the Company pursuant to the requirements of Regulation 33
+of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as amended)
+("Listing Regulations").
+
+2.
+
+The Statement, which is the responsibility of the Company's management and approved by the
+Company's Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34, Interim Financial Reporting ('Ind AS 34'),
+prescribed under section 133 of the Companies Act, 2013 ('the Act'), and other accounting principles
+generally accepted in India and is in compliance with the presentation and disclosure requirements of
+Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion on the Statement
+based on our review.
+
+SCOPE OF REVIEW
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, Review of Interim Financial Information Performed by the Independent Auditor of the Entity,
+issued by the Institute of Chartered Accountants of India. A review of interim financial information
+consists of making inquiries, primarily of persons responsible for financial and accounting matters, and
+applying analytical and other review procedures. A review is substantially less in scope than an audit
+conducted in accordance with the Standards on Auditing specified under section 143(10) of the Act, and
+consequently, does not enable us to obtain assurance that we would become aware of all significant
+matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+CONCLUSION
+4.
+
+Based on our review conducted as above nothing has come to our attention that causes us to believe
+that the accompanying Statement, prepared in accordance with the recognition and measurement
+principles laid down in Ind AS 34, prescribed under section 133 of the Act, and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed in
+accordance with the requirements of Regulation 33 of the Listing Regulations, including the manner in
+which it is to be disclosed, or that it contains any material misstatement.
+
+HA
+O
+fr
+
+ft
+I-
+
+GURUGRAM
+osir
+
+r edAcc,
+
+T R Chadha & Co LLP, A limited liability partnership with LLP Identification No. AAF-3926
+Gurugram Branch Office: 76 E, Udyog Vihar Phase IV, Gurugram, Haryana 122001 I Ph: +91 124 4129900 E mail: aurciaon@trchadha.com;
+Corporate/ Read. Office: B-30, Connaught Place, Kuthiala Building, New Delhi — 110001 I Ph: 43259900 I E-mail: delhi@trchadha.com
+Offices: Ahmedabad I Bengaluru I Chennai I Gurugram I Hyderabad I Mumbai I New Delhi I Noida I Pune I Tirupati I Vadodara
+1AllARAI
+
+trrharlha rnrn
+
+

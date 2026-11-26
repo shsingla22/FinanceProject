@@ -1,0 +1,2087 @@
+HQ/CS/CL.24B/18437
+June 16, 2026
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra Kurla Complex,
+Mumbai – 400 051
+SYMBOL: TATACOMM
+
+BSE Limited
+P.J. Towers, Dalal Street,
+Mumbai – 400 001
+Scrip Code: 500483
+
+Dear Sir / Madam,
+Sub: Business Responsibility and Sustainability Report for FY 2025-26
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, we are enclosing herewith the Business Responsibility and Sustainability Report
+(‘BRSR’) for FY 2025-26 along with an Independent Reasonable Assurance Opinion Statement
+provided by M/s. BSI Group India Private Limited on BRSR Core indicators, which forms an integral part
+of the Integrated Annual Report for FY 2025-26.
+The BRSR, along with the Integrated Annual Report of the Company, is also available on the website
+of the Company at https://www.tatacommunications.com/investors/results.
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For Tata Communications Limited
+Digitally signed by
+Zubin
+Zubin Adil Patel
+2026.06.16
+Adil Patel Date:
+14:55:25 +05'30'
+
+Zubin Adil Patel
+Company Secretary and Compliance Officer
+Encl: as above
+
+Tata Communications Limited
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001
+Tel: +91 92289 18171 email: investor.relations@tatacommunications.com
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com
+
+
+Business Responsibility &
+Sustainability Report
+The Business Responsibility and Sustainability Report ('BRSR') of Tata Communications
+Limited ('the Company' or 'Tata Communications') for FY 2025-26 has been prepared in
+accordance with the framework prescribed by the Securities and Exchange Board of India
+and reflects the Company's continued commitment to responsible business conduct,
+transparent governance, sustainable value creation, and long-term stakeholder trust.
+Tata Communications continues to strengthen its position as a global commtech player by embedding sustainability considerations
+into enterprise strategy, operational resilience, customer solutions, innovation, governance frameworks, and long-term stakeholder
+value creation. The Company’s environmental, social, and governance ('ESG') approach is guided by climate transition priorities,
+responsible digital infrastructure management, ethical business conduct, cybersecurity resilience, human rights principles, and
+sustainable value chain engagement.
+This report presents an integrated and investor-focused view of the Company’s performance across ESG dimensions through the
+lens of the 9 National Guidelines on Responsible Business Conduct ('NGRBC') principles. It outlines Tata Communications’ approach
+towards integrating sustainability into business strategy, risk management, governance oversight, operations, and stakeholder
+engagement, while highlighting measurable progress against stated goals and areas of continuous improvement.
+To enhance the credibility and reliability of our disclosures, Tata Communications has undertaken independent third-party
+assurance of BRSR Core indicators in line with evolving regulatory expectations.
+
+
+Section A
+General Disclosures
+This section presents key information about our organisational profile and operations, boundary of this report along with an
+overview of our business activities, the scale of our operations, including our workforce and locations.
+Material Topics
+
+Corporate governance, ethics
+and transparency
+Economic performance
+Regulatory compliance
+Diversity and inclusion
+
+I.
+
+IR Capitals
+
+Stakeholders
+
+SDGs
+
+External: Investors,
+Suppliers,
+Community, Shareholders
+Internal: Employees
+
+Human Capital
+Risk Management
+Financial Capital
+
+Details of the listed entity1
+1.
+2.
+3.
+4.
+5.
+
+Corporate Identity Number ('CIN') of the Listed Entity
+Name of the Listed Entity
+Year of incorporation
+Registered office address
+Corporate address
+
+:
+:
+:
+:
+:
+
+6.
+7.
+8.
+9.
+10.
+
+E-mail
+Telephone
+Website
+Financial year for which reporting is being done
+Name of the Stock Exchange(s) where shares are listed
+
+:
+:
+:
+:
+:
+
+11.
+12.
+
+Paid-up Capital
+Name and contact details (telephone, email address)
+of the person who may be contacted in case of any
+queries on the BRSR report2
+
+:
+:
+
+13.
+
+Reporting boundary3- Are the disclosures under this
+report made on a standalone basis (i.e. only for
+the entity) or on a consolidated basis (i.e. for the
+entity and all the entities which form a part of its
+consolidated financial statements, taken together):
+
+L64200MH1986PLC039266
+Tata Communications Limited
+1986
+VSB, Mahatma Gandhi Road, Fort, Mumbai - 400001
+Tata Communications Limited, Tower C, Plot No. C-21 &
+C-36, G Block, Bandra Kurla Complex, Mumbai – 400 098
+investor.relations@tatacommunications.com
++91 92289 18171
+www.tatacommunications.com
+FY 2025-26
+BSE Limited ('BSE') and National Stock Exchange of India
+Limited ('NSE')
+I2,85,00,00,000
+Mr. Aman Gupta,
+Executive Vice President CSR, EOHS & Sustainability, and
+Corporate Services
+
+Email Id: eohs@tatacommunications.com
+: The reporting boundary is summarised as follows:
+
+The disclosures presented in this BRSR have been prepared using an operational control approach and are aligned with the
+requirements prescribed under the SEBI BRSR framework, applicable BRSR Core indicators, internal governance frameworks,
+and materiality considerations.
+Given the Company’s global operational footprint and diverse regulatory landscape, the reporting boundary varies across
+indicators depending on operational control, data availability, regulatory applicability, materiality of impact and nature of
+business operations.
+In addition, Tata Communications is actively reviewing and strengthening its workforce governance practices, contractor
+management systems, statutory processes, welfare measures, and compliance frameworks in alignment with the evolving
+implementation requirements of the Indian Labour Codes and applicable state-level rules. As implementation timelines and
+subordinate rules continue to evolve, workforce-related disclosures in this report have been prepared based on the applicable
+legal framework and operational practices during FY 2025–26.
+GRI 2-1,
+GRI 2-3
+3
+GRI 2-2
+1
+2
+
+2
+
+
+Business Responsibility & Sustainability Report
+
+The reporting scope for key categories is summarised below:
+Category
+
+Environmental
+Environment
+
+Social
+Human Resources
+
+Employee well-being
+& benefits
+
+Corporate Social
+Responsibility
+Value Chain Partners
+
+Indicators:
+
+Reporting Boundary
+
+Energy, Water, Waste, Emissions and
+Environmental Compliances
+
+Consolidated Basis: The disclosures relate to the
+global operations of Tata Communications Limited
+(‘Tata Communications’), unless specified otherwise.
+
+Employee Headcount, Learning and
+Development, Diversity & Inclusion,
+grievance redressal, performance reviews,
+health & safety
+Remuneration, statutory benefits,
+minimum wages, employee welfare,
+job creation, retirement benefits,
+membership association or unions
+Social impact projects, beneficiaries,
+project locations
+ESG assessments, awareness programmes,
+supplier engagement initiatives
+
+Consolidated Basis: The disclosures include global
+workforce across wholly-owned subsidiaries, unless
+specified otherwise.
+
+Spend on MSME
+Governance
+Corporate Governance Board governance, ethics, compliance,
+risk management, goals and targets
+Financial
+
+Revenue, Sales, Turnover, Paid up capital,
+Net worth
+
+Standalone Basis: These disclosures pertain exclusively
+to the India operations of Tata Communications, as
+regulatory requirements for the mentioned indicators
+vary across other global regions.
+Standalone Basis: The disclosures are specific to India
+operations of Tata Communications.
+Consolidated Basis: These disclosures cover the global
+operations of Tata Communications, unless specified
+otherwise.
+Standalone Basis: The disclosures are specific to India
+operations only.
+Consolidated Basis: The disclosures cover the global
+operations of Tata Communications, unless specified
+otherwise.
+The disclosures are presented on a consolidated
+basis, including wholly-owned subsidiaries of Tata
+Communications. Standalone figures are also provided
+wherever applicable.
+
+14. Name of assurance provider: M/s. BSI Group India Private Limited.
+15. Type of assurance obtained4: We have obtained Reasonable Assurance for BRSR Core indicators disclosed under this report.
+The assurance engagement was conducted in accordance with applicable assurance standards and covered selected ESG
+indicators, processes, and supporting data as defined within the agreed assurance scope. The assurance certificate is annexed
+to this Report.
+
+II.
+
+Products/services5
+
+16. Details of business activities (accounting for 90% of the turnover):
+Sr.
+No.
+
+Description of Main Activity
+
+Description of Business Activity
+
+% of Turnover of the
+entity
+
+1.
+
+Telecommunications services
+
+Telecommunications services
+
+96.8
+
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr.
+No.
+
+1.
+
+4
+5
+
+Product/Service
+
+Telecommunications
+
+% of total Turnover
+contributed
+
+NIC Code
+
+a. Activities of providing internet access by the operator of the
+wired infrastructure. NIC Code - 61104
+b. Other satellite telecommunications activities. NIC Code - 61309
+c. Other telecommunications activities. NIC Code - 61900
+
+96.8
+
+GRI 2-4, 2-5
+GRI 2-6
+
+Integrated Report 2025-26
+
+3
+
+
+III.
+
+Operations
+
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+For the purpose of this report, “offices” refers to major operational facilities, data centres and network infrastructure
+locations from where Tata Communications, along with its subsidiaries, conducts its global operations.
+Location
+
+Number of plants
+
+Number of offices
+
+Total
+
+National
+International
+
+Not Applicable
+
+40
+27
+
+40
+27
+
+19. Markets served by the entity:
+a.
+
+Number of locations
+
+b.
+
+Number
+
+National (No. of States)
+International (No. of Countries)
+
+Presence across 28 states and 8 Union territories
+Presence across 190+ countries and territories around the world
+
+What is the contribution of exports as a percentage of the total turnover of the entity?
+
+		
+
+The contribution of exports is 9.6% of the total turnover of the entity.
+
+c.
+
+A brief on types of customers:
+
+		
+
+IV.
+
+Locations
+
+Tata Communications works with Service Providers and Mid-Large Enterprises around the world in B2B (business to business)
+model, including several leading Fortune 500 companies. The Company’s solutions portfolio spans network connectivity,
+cloud enablement, cybersecurity, collaboration services, media solutions, IoT, and digital infrastructure services.
+
+Employees
+
+20. Details as at the end of Financial Year:
+a.
+
+Employees and workers (including differently abled):6
+
+		
+
+Tata Communications predominantly operates through a professional, technology-driven, and services-oriented
+workforce model comprising employees engaged in digital infrastructure, network management, enterprise solutions,
+technology operations, engineering services, and corporate functions. In addition to direct employees, the Company
+also engages in managed contractual personnel through third-party arrangements for specialised operational support,
+infrastructure management, field services, maintenance activities, and project-based assignments.
+Sr.
+No.
+
+Particulars
+
+1.
+2.
+3.
+4.
+
+Permanent (D)
+Other than Permanent (E)
+Other (Undisclosed Gender)
+Total employees (D + E+ Other)
+
+5.
+6.
+7.
+
+Permanent (F)
+Other than Permanent (G)
+Total workers (F + G)
+
+Total (A)
+
+Male
+
+Female
+
+No. (B)
+
+% (B / A)
+
+No. (C)
+
+% (C / A)
+
+9,121
+2,237
+11,358
+
+76
+85
+77.88
+
+2,819
+407
+3,226
+
+24
+15
+22.12
+
+EMPLOYEES
+11,940
+2,644
+1
+14,585
+WORKERS
+
+		
+
+		
+		
+
+6
+
+GRI 2-7, GRI 2-8, GRI 405-1
+
+4
+
+Please refer to the notes below
+
+
+Business Responsibility & Sustainability Report
+
+b.
+
+Differently abled employees and workers:
+Sr.
+No.
+
+Particulars
+
+Total (A)
+
+Male
+No. (B)
+
+Female
+
+% (B / A)
+
+No. (C)
+
+% (C / A)
+
+DIFFERENTLY ABLED EMPLOYEES
+Permanent (D)
+3
+3
+100
+0
+Other than Permanent (E)
+0
+0
+0
+0
+Total differently abled employees (D+E)
+3
+3
+100
+0
+DIFFERENTLY ABLED WORKERS
+Permanent (F)
+Other than Permanent (G)
+Please refer to the notes below
+Total differently abled workers (F + G)
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+0
+0
+0
+
+		Note:
+
+		1.
+
+Workforce Classification: Tata Communications classifies its entire workforce under the category of 'Employees.' This includes:
+Permanent Employees (D): Includes employees on the payroll of Tata Communications and its wholly owned
+subsidiaries globally, and the non-executives who transitioned from VSNL to Tata Communications’ payroll.
+
+Other than permanent (E): Includes contractual or third-party deployed personnel engaged through external
+service providers across global operations.
+		2.
+
+Workers (F) and (G): The classification of ‘workers’ as prescribed under the BRSR framework is not applicable in
+certain categories, as Tata Communications primarily operates as a technology and digital services organisation
+with a predominantly employee-based workforce model. Accordingly, this disclosure related to ‘number of workers’
+is reported as not applicable based on the operational structure and workforce composition of the Company.
+
+		3.
+
+Undisclosed Gender: One permanent employee chose not to disclose their gender identity during the reporting
+year. This employee has been included under the “Others” category in the relevant disclosures.
+
+		4.
+
+Differently Abled Employees: Tata Communications does not track statistics with respect to differently abled
+workers within the Company unless voluntarily disclosed by the employee. The Company encourages voluntary
+self-identification for Persons with Disabilities ('PwD') to strengthen inclusion and accessibility initiatives while
+respecting privacy and confidentiality considerations.
+
+21. Participation/Inclusion/Representation of women7
+Tata Communications continues to strengthen diversity, equity, and inclusion initiatives across recruitment, leadership
+development, capability-building, and employee engagement practices. The Company recognises diversity and inclusive
+leadership as important enablers of innovation, talent development, and long-term business sustainability.
+The Company continues to evaluate opportunities to improve gender diversity and inclusive representation across leadership
+and operational roles over the long term.
+No. and percentage of females
+
+Total (A)
+
+Board of Directors
+Key Management Personnel
+
+No. (B)
+
+7
+3
+
+% (B / A)
+
+1
+0
+
+14.29
+0
+
+Note: Key Management Personnel includes the Managing Director and Chief Executive Officer (MD & CEO), Chief Financial Officer
+(CFO) and Company Secretary (CS).
+
+22. Turnover rate for permanent employees and workers8
+Employee turnover rates disclosed below represent voluntary resignation trends for permanent employees across Tata
+Communications’ global operations. The increase in turnover rates during FY 2025–26 is being reviewed in the context of
+evolving industry talent dynamics, digital capability demand, business transformation priorities, and changing workforce
+expectations across global technology and telecom sectors. There are no categories identified as ‘workers’ in Tata
+Communications, hence no details are provided.
+7
+8
+
+GRI 405-1
+GRI 401-1
+
+Integrated Report 2025-26
+
+5
+
+
+The Company continues to strengthen talent retention, capability development, employee engagement, and leadership
+development initiatives to support long-term organisational resilience and workforce stability.
+FY 2025-2026
+(Turnover rate in current FY)
+
+Permanent Employees
+
+V.
+
+Female
+
+Total
+
+Male
+
+Female
+
+Total
+
+Male
+
+Female
+
+Total
+
+20.8
+
+21.7
+
+21
+
+10.4
+
+13
+
+11
+
+11.2
+
+13
+
+11.6
+
+Names of holding / subsidiary / associate companies / joint ventures
+
+Sr.
+No.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+
+GRI 2-2
+
+6
+
+Male
+
+Holding, Subsidiary and Associate Companies (including joint ventures)9
+
+23. (a)
+
+9
+
+FY 2023-24
+(Turnover rate in the year prior
+to the previous FY)
+
+FY 2024-2025
+(Turnover rate in previous FY)
+
+Name of the holding / subsidiary /
+associate companies / joint ventures
+(A)
+
+Tata Sons Private Limited
+Panatone Finvest Limited
+Tata Communications (Australia) Pty
+Limited
+Tata Communications (America) Inc.
+TCPoP Communications GmbH
+Tata Communications (Belgium) SRL
+TC Networks Switzerland SA
+Tata Communications SVCS Pte.
+Limited
+Tata Communications (Beijing)
+Technology Limited
+Tata Communications (Canada)
+Limited
+Tata Communications (France) SAS
+Tata Communications Deutschland
+GmbH
+Tata Communications (Guam) L.L.C.
+Tata Communications (Hong Kong)
+Limited
+Tata Communications (Hungary)
+Limited
+Tata Communications (Ireland) DAC
+Tata Communications (Italy) S.R.L
+Tata Communications (Japan) K.K.
+ITXC IP Holdings S.A.R.L.
+Tata Communications (Malaysia) Sdn.
+Bhd.
+Tata Communications (Netherlands)
+B.V.
+Tata Communications (New Zealand)
+Limited
+Tata Communications (Nordic) AS
+Tata Communications (Poland) SP.
+ZO.O
+
+Indicate whether
+holding/ subsidiary/
+associate companies/
+joint ventures
+
+% of shares
+held by listed
+entity
+
+Promoter
+Promoter
+Indirect subsidiary
+
+14.07
+44.8
+100
+
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+100
+100
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+100
+100
+100
+
+Direct subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+
+Does the entity indicated at
+column A, participate in the
+Business Responsibility initiatives
+of the listed entity? (Yes/No)
+
+Yes, need-based
+Yes, need-based
+The initiatives are driven by Tata
+Communications Limited and
+all the subsidiaries contribute
+towards such initiatives as and
+when required.
+
+
+Business Responsibility & Sustainability Report
+
+Sr.
+No.
+
+25.
+
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+
+Name of the holding / subsidiary /
+associate companies / joint ventures
+(A)
+
+Tata Communications (Portugal)
+Instalacao E Manutencao De Redes
+LDA
+Tata Communications (Portugal)
+Unipessoal LDA
+Tata Communications (Russia) LLC
+Tata Communications International
+Pte. Limited
+VSNL SNOSPV Pte. Limited
+Tata Communications Services
+(International) Pte. Limited
+Tata Communications (Spain) S.L
+Tata Communications (Sweden) AB
+Tata Communications (Switzerland)
+GmbH
+Tata Communications (Taiwan)
+Limited
+Tata Communications (Thailand)
+Limited
+Tata Communications (Middle East)
+FZ-LLC
+Tata Communications (UK) Limited
+Tata Communications Transformation
+Services Limited
+Tata Communications Collaboration
+Services Private Limited
+SEPCO Communications (Pty) Limited
+Tata Communications Lanka Limited
+Tata Communications (South Korea)
+Limited
+Tata Communications Transformation
+Services Pte. Limited
+Tata Communications Transformation
+Services (Hungary) Kft.
+Tata Communications (Brazil)
+Participacoes Limitada
+Tata Communications Transformation
+Services (US) Inc.
+Tata Communications Transformation
+Services South Africa (Pty) Limited
+Tata Communications Comunicações E
+Multimídia (Brazil) Limitada
+TCTS Senegal Limited
+Oasis Smart SIM Europe SAS
+Oasis Smart E-Sim Pte. Limited
+The Switch Enterprises, LLC
+
+Indicate whether
+holding/ subsidiary/
+associate companies/
+joint ventures
+
+% of shares
+held by listed
+entity
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+Direct subsidiary
+
+99.9
+100
+
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Direct subsidiary
+Direct subsidiary
+
+100
+100
+
+Direct subsidiary
+
+100
+
+Indirect subsidiary
+Direct subsidiary
+Indirect subsidiary
+
+73.17
+90
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+
+100
+
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+
+100
+100
+100
+100
+
+Does the entity indicated at
+column A, participate in the
+Business Responsibility initiatives
+of the listed entity? (Yes/No)
+
+Integrated Report 2025-26
+
+7
+
+
+Sr.
+No.
+
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+
+Name of the holding / subsidiary /
+associate companies / joint ventures
+(A)
+
+Tata Communications Middle East
+Technology Services LLC
+Kaleyra Inc.
+Kaleyra S.P.A.
+Solutions Infini Technologies
+(India) Private Limited
+Solutions Infini FZ-LLC
+Campaign Registry, Inc.
+Kaleyra Africa (Pty) Limited
+Kaleyra US Inc.
+Kaleyra Dominicana, S.R.L.
+Kaleyra UK Limited
+mGAGE ATHENS PC
+Novamesh Limited
+TC (Shanghai) Network Services
+Company Limited
+Commotion, Inc
+Commotion Software Solutions India
+Private Limited
+TC (Shanghai) Technology Company
+Limited
+STT Global Data Centres India Private
+Limited
+United Telecom Limited
+Smart ICT Services Private Limited
+
+Indicate whether
+holding/ subsidiary/
+associate companies/
+joint ventures
+
+% of shares
+held by listed
+entity
+
+Indirect subsidiary
+
+100
+
+Direct subsidiary
+Indirect subsidiary
+Direct subsidiary
+
+100
+100
+100
+
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Indirect subsidiary
+Direct subsidiary
+Indirect subsidiary
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+
+Indirect subsidiary
+Indirect subsidiary
+
+51
+51
+
+Indirect subsidiary
+
+100
+
+Associate
+
+26
+
+Associate
+Associate
+
+26.66
+24
+
+VI. CSR Details
+24. (i)
+
+Whether CSR is applicable as per section 135 of Companies Act, 2013:
+
+		
+
+Yes, Corporate Social Responsibility is applicable for Tata Communications.
+
+ii.
+
+Turnover (in I): 7,375.71 crore 			
+
+iii.
+
+Net worth (in I): 10,578.69 crore
+
+Note: Standalone figures are considered for CSR applicability from India operations only.
+
+8
+
+Does the entity indicated at
+column A, participate in the
+Business Responsibility initiatives
+of the listed entity? (Yes/No)
+
+
+Business Responsibility & Sustainability Report
+
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business
+Conduct:
+Tata Communications maintains formal grievance redressal and whistleblower mechanisms for employees, suppliers,
+shareholders, customers, and other stakeholders. These mechanisms are intended to support ethical conduct, workplace
+dignity, regulatory compliance, and responsible business practices.
+The Company’s grievance management approach is supported through defined governance and escalation mechanisms,
+confidential reporting channels, investigation and remediation protocols, periodic monitoring and review processes and
+protection against retaliation for genuine reporting.
+Tata Communications continues to strengthen awareness and accessibility of grievance channels through internal
+communication, policy dissemination, employee engagement initiatives, supplier outreach, and ethics awareness programmes.
+Pending complaints at the close of the reporting year primarily relate to cases under review or investigation in accordance
+with applicable internal governance procedures and principles of natural justice. The Company remains committed to ensuring
+fair, confidential, and timely resolution of grievances while maintaining appropriate due diligence and process integrity.
+
+Stakeholder
+group from
+whom
+complaint is
+received
+Communities
+
+Investors
+(other than
+shareholders)
+
+Shareholders
+
+10
+
+Grievance Redressal
+Mechanism in Place10
+(Yes/No) (If Yes, then
+provide web-link for
+grievance redress
+policy)
+Yes, grievance
+related queries on
+CSR practices are
+directed to CSR@
+tatacommunications.
+com. The same is
+listed on our website
+here.
+Yes, the process to
+register grievances
+is listed on our
+website here. The
+designated email ID:
+investor.relations@
+tatacommunications.
+com
+Yes, the process to
+register grievances
+is listed on our
+website here. The
+designated email ID:
+investor.relations@
+tatacommunications.
+com
+
+FY 2025-26
+Number of
+complaints
+filed
+during the
+year
+
+Number of
+complaints
+pending
+resolution
+at close of
+the year
+
+0
+
+FY 2024-25
+
+Remarks
+
+Number of
+complaints
+filed during
+the year
+
+Number of
+complaints
+pending
+resolution at
+close of the
+year
+
+Remarks
+
+0
+
+NIL
+
+0
+
+0
+
+NIL
+
+0
+
+0
+
+NIL
+
+0
+
+0
+
+NIL
+
+10
+
+3
+
+3 cases are
+pending for
+closure as
+of March 31,
+2026.
+
+6
+
+0
+
+All complaints
+received were
+resolved to the
+satisfaction of
+shareholders.
+
+GRI 2-16, GRI 2-25, GRI 2-26
+
+Integrated Report 2025-26
+
+9
+
+
+Stakeholder
+group from
+whom
+complaint is
+received
+
+Grievance Redressal
+Mechanism in Place10
+(Yes/No) (If Yes, then
+provide web-link for
+grievance redress
+policy)
+
+FY 2025-26
+Number of
+complaints
+filed
+during the
+year
+
+Number of
+complaints
+pending
+resolution
+at close of
+the year
+
+Employees and Yes, grievance
+workers
+redressal mechanism
+is available for all
+the employees.
+Using the channels
+available internally,
+the employees
+can register their
+grievance under
+Dignity in the
+Workplace Policy
+('DWP') and Prevention
+of Sexual Harassment
+('PoSH') Charter.
+
+Total: 31
+DWP: 26
+PoSH: 5
+
+Total: 17
+DWP: 15
+PoSH: 2
+
+Yes, customers can
+report any grievances
+through customer
+support channels
+available on our
+website here.
+Yes, suppliers can raise
+grievances through
+these channels:
+whistleblower@
+tatacommunications.
+com;
+tatacommunications@
+ethicshelp.com;
+
+0
+
+0
+
+0
+
+0
+
+Customers
+
+Value Chain
+Partners
+
+FY 2024-25
+
+Remarks
+
+DWP - 15
+cases are
+pending for
+resolution as
+on March 31,
+2026.
+
+Number of
+complaints
+filed during
+the year
+
+Number of
+complaints
+pending
+resolution at
+close of the
+year
+
+Total: 26
+DWP: 22
+PoSH: 4
+
+Total: 10
+DWP: 10
+PoSH: NIL
+
+DWP - 10
+cases were
+pending for
+closure as on
+March 31, 2025
+which were
+subsequently
+closed.
+
+0
+
+0
+
+None
+
+0
+
+0
+
+A streamlined
+system for
+monitoring the
+grievances of
+value chain
+partners has
+been set up.
+Concerns and
+grievances can
+be shared with
+responsible
+supplychain@
+tatacommuni
+cations.com
+
+PoSH - 2 cases
+are pending
+for closure as
+the
+investigation
+is in progress
+as of March
+31, 2026.
+None
+
+A streamlined
+system for
+monitoring
+the
+grievances of
+value chain
+partners has
+been set up.
+Concerns and
+grievances
+can be
+shared with
+responsible
+supplychain@
+tatacommuni
+cations.com
+
+Remarks
+
+Note: DWP cases refer to grievances raised on the grounds of discrimination, harassment, bullying and retaliation. For any
+feedback, queries or grievances related to our sustainability practices please reach out to EOHS@tatacommunications.com.
+
+10
+
+
+Business Responsibility & Sustainability Report
+
+26. Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or
+mitigate the risk along-with its financial implications, as per the following format11
+We periodically review and conduct a comprehensive materiality assessment to identify, prioritise, analyse and disclose
+key ESG issues relevant to our business and stakeholders. The process involves identifying a broad universe of sustainability
+topics, followed by stakeholder consultations with internal and external groups such as employees, customers, suppliers,
+and leadership. These issues are then evaluated based on their impact on business performance and stakeholder importance
+and mapped on a materiality matrix. The final set of material topics have been validated by senior management, ensuring
+alignment with our strategic priorities and risk management framework. We plan to undertake double materiality assessment
+for our global operations for FY 2026-27.
+
+Material issue
+identified12
+
+1.
+
+Data Privacy and Risk
+IP infringement
+
+2.
+
+11
+12
+
+Indicate
+whether risk
+Rationale for Identifying the In case of risk, approach
+or opportunity risk / opportunity13
+to adapt or mitigate14
+(R/O)
+
+Sr.
+No.
+
+Customer
+Experience,
+Loyalty and
+Privacy
+
+Risk and
+Opportunity
+
+Data privacy is identified as
+a risk due to the sensitive
+nature and scale of data
+handled across our global
+digital infrastructure. We
+process large volumes of
+customer and enterprise
+data, making robust data
+protection critical to prevent
+breaches, ensure regulatory
+compliance, and maintain
+customer trust. Any lapses
+could result in financial
+penalties, reputational
+damage, and operational
+disruptions, making data
+privacy central to our risk
+management and long-term
+business sustainability.
+From a risk perspective,
+any gaps in service quality
+or customer engagement
+can lead to dissatisfaction,
+loss of clients, reputational
+damage, and potential
+regulatory or financial
+implications. Conversely, as
+an opportunity, delivering
+superior customer
+experience, building longterm trust, and ensuring
+robust data privacy can
+enhance customer retention,
+strengthen brand credibility,
+and drive revenue growth
+through increased adoption
+of our digital solutions.
+
+Financial implications of
+the risk or opportunity15
+(Indicate positive or
+negative implications)
+
+We manage data privacy
+Negative
+risk through regular audits, Potential financial
+risk assessments, and
+implications may include:
+compliance reviews to
+• Regulatory penalties
+proactively identify and
+• Litigation and remediation
+address gaps, while also
+costs
+strengthening employee
+awareness through ongoing • Customer attrition
+training programs.
+• Reputational impact
+In parallel, we enforce
+• Increased cybersecurity
+robust third-party risk
+investments
+management practices to
+• Operational recovery costs
+ensure that vendors and
+partners adhere to our
+data protection standards,
+enabling consistent and
+secure handling of data
+across our ecosystem.
+Risks related to customer Negative financial
+experience, loyalty, and
+implications: poor service
+privacy are mitigated
+quality or data privacy lapses
+through a customer-centric can lead to loss of revenue,
+approach supported by
+regulatory penalties, and
+robust service quality
+increased costs related
+frameworks, proactive
+to issue resolution and
+monitoring, and continuous reputational recovery.
+feedback mechanisms.
+Positive financial
+Regular performance
+implications: strong customer
+reviews, service
+experience and robust
+improvements, and trust- privacy practices drive
+building initiatives help
+higher customer retention,
+ensure consistent customer increased lifetime value,
+satisfaction and long-term cross-selling opportunities,
+loyalty.
+and enhanced brand trust,
+ultimately supporting
+revenue growth and improved
+profitability.
+
+GRI 3-1
+GRI 3-2
+GRI 3-3
+
+13,14,15
+
+Integrated Report 2025-26
+
+11
+
+
+Indicate
+whether risk
+Rationale for Identifying the In case of risk, approach
+or opportunity risk / opportunity13
+to adapt or mitigate14
+(R/O)
+
+Sr.
+No.
+
+Material issue
+identified12
+
+3.
+
+Corporate
+Governance,
+Ethics and
+Transparency
+
+Risk
+
+4.
+
+Human Capital
+Development
+
+Risk and
+Opportunity
+
+It is a key risk due to its
+The risks are mitigated
+Negative financial
+fundamental role in ensuring through a robust
+implications: Weaknesses
+regulatory compliance,
+governance framework
+in corporate governance,
+ethical conduct, and
+supported by clear
+ethics, and transparency
+stakeholder trust. Any
+policies, Tata Code of
+can lead to regulatory fines,
+lapses can lead to legal and
+Conduct, and strong
+legal costs, and potential
+regulatory actions, financial oversight mechanisms. We sanctions. Such lapses may
+penalties, and significant
+ensure regular compliance also result in loss of investor
+reputational damage.
+monitoring, internal and
+confidence, decline in market
+Given our global operations
+external audits, and
+valuation, and reduced
+and diverse stakeholder
+enforce zero-tolerance
+business opportunities,
+base, maintaining strong
+for unethical practices
+along with increased
+governance frameworks and through whistleblower
+costs for remediation and
+ethical standards is critical to mechanisms and
+strengthening control
+prevent misconduct, ensure disciplinary actions.
+mechanisms.
+accountability, and sustain
+Continuous training,
+long-term business integrity. leadership accountability,
+and transparent disclosures
+further strengthen ethical
+behavior and build
+stakeholder trust.
+Human Capital development Risks related to human
+Negative financial
+is considered both a risk
+capital development
+implications: Inadequate
+and an opportunity due
+are mitigated through
+investment in skills and talent
+to its direct impact on
+structured learning and
+can lead to higher attrition,
+organisational capability and development programs,
+increased hiring and training
+long-term growth.
+continuous upskilling
+costs, reduced productivity,
+initiatives,
+and
+leadership
+and potential loss of business
+From a risk perspective, gaps
+development
+frameworks
+opportunities.
+in skills, inadequate training,
+aligned with evolving
+or inability to attract and
+Positive financial
+business needs. We
+retain talent can affect
+implications: Effective
+service delivery, innovation, focus on talent retention
+talent development and
+through competitive
+and operational efficiency,
+retention enhance employee
+benefits, career
+leading to increased
+productivity, drive innovation,
+progression pathways, and reduce recruitment costs,
+costs and competitive
+employee engagement
+disadvantage. Conversely,
+and improve operational
+initiatives, while also
+as an opportunity, investing
+efficiency, ultimately
+strengthening workforce
+in employee development,
+contributing to revenue
+planning and performance growth and long-term
+upskilling, and engagement
+enhances productivity, drives management to ensure
+profitability.
+innovation, and strengthens the availability of skilled
+talent and sustained
+talent retention, thereby
+organisational capability.
+supporting business growth
+and creating long-term value.
+
+12
+
+Financial implications of
+the risk or opportunity15
+(Indicate positive or
+negative implications)
+
+
+Business Responsibility & Sustainability Report
+
+Sr.
+No.
+
+Material issue
+identified12
+
+Indicate
+whether risk
+Rationale for Identifying the In case of risk, approach
+or opportunity risk / opportunity13
+to adapt or mitigate14
+(R/O)
+
+5.
+
+Climate Change
+
+Risk and
+Opportunity
+
+6.
+
+16, 17
+
+Economic
+Performance
+
+Opportunity
+
+Climate Change is
+considered both a risk and
+an opportunity due to its
+direct and indirect impact
+on operations, costs, and
+market expectations.
+From a risk perspective,
+climate-related factors such
+as increasing energy costs,
+regulatory requirements,
+and physical risks to
+infrastructure can disrupt
+operations and increase
+capital and operating
+expenditure. Conversely,
+as an opportunity,
+transitioning to energyefficient technologies,
+increasing use of renewable
+energy, and offering lowcarbon digital solutions
+enable cost optimisation,
+regulatory alignment, while
+strengthening our position as
+a sustainable and responsible
+service provider.
+Economic performance is
+considered an opportunity
+as it directly reflects
+the Company’s ability to
+drive growth, enhance
+profitability, and create
+long-term stakeholder
+value. It further supports
+shareholder returns, attracts
+investors, and provides the
+financial resilience needed
+to capitalise on emerging
+business opportunities in
+a rapidly evolving digital
+ecosystem.
+
+Financial implications of
+the risk or opportunity15
+(Indicate positive or
+negative implications)
+
+17
+Climate-related risks
+Negative financial
+are mitigated through
+implications: Increased
+a combination of
+energy costs, investments
+operational resilience
+required for decarbonisation,
+and decarbonisation
+regulatory compliance costs,
+initiatives. We focus
+and potential damage to
+on improving energy
+infrastructure from extreme
+efficiency across network weather events can raise
+infrastructure, increasing operational and capital
+the use of renewable
+expenditure.
+energy, and strengthening Positive financial
+infrastructure to withstand implications: Adoption of
+extreme weather events.
+energy-efficient technologies,
+Additionally, we integrate increased use of renewable
+climate risk assessments
+energy can lead to cost
+into business planning,
+savings, improved operational
+ensure compliance with
+efficiency, access to green
+evolving regulations, and
+financing, and new revenue
+implement monitoring and opportunities, thereby
+reporting mechanisms to
+enhancing long-term financial
+proactively manage and
+performance.
+reduce climate-related
+impacts.
+
+16
+
+Not Applicable
+
+Positive financial
+implications: Increased
+revenue growth, improved
+profit margins, and enhanced
+cash flows. It enables higher
+investments in infrastructure,
+innovation, and strategic
+initiatives, while also
+strengthening shareholder
+returns and market valuation.
+
+GRI 201-2
+
+Integrated Report 2025-26
+
+13
+
+
+14
+
+Indicate
+whether risk
+Rationale for Identifying the In case of risk, approach
+or opportunity risk / opportunity13
+to adapt or mitigate14
+(R/O)
+
+Sr.
+No.
+
+Material issue
+identified12
+
+7.
+
+Resource
+Risk and
+Management and Opportunity
+Environmental
+Conservation
+
+8.
+
+Health, Safety,
+and Well-being
+
+Risk
+
+Financial implications of
+the risk or opportunity15
+(Indicate positive or
+negative implications)
+
+Risks related to
+Negative financial
+resource management
+implications: Higher
+and environmental
+energy and water costs,
+conservation are mitigated regulatory penalties, and
+through efficient
+increased expenditure on
+resource optimisation and waste management and
+sustainable operational
+remediation.
+practices.
+We
+focus
+Positive financial
+From a risk perspective,
+on improving energy
+implications: Efficient
+inefficient use of resources
+and water efficiency,
+resource utilisation, adoption
+such as energy, water,
+adopting
+circular
+of sustainable practices,
+and materials can lead to
+economy
+principles
+for
+and reduced environmental
+increased operating costs,
+waste management,
+impact can lower operating
+regulatory non-compliance,
+and increasing the use
+costs, improve efficiency,
+and environmental
+of
+renewable
+resources.
+enable compliance, and
+impacts. Conversely, as
+Regular
+monitoring,
+audits,
+enhance brand value,
+an opportunity, optimising
+ultimately supporting longresource utilisation, adopting and compliance checks,
+along with implementation term profitability and cost
+sustainable practices, and
+of environmental
+savings.
+investing in environmental
+management
+systems,
+conservation initiatives
+help ensure responsible
+can reduce costs, improve
+efficiency, ensure regulatory resource utilisation and
+minimise environmental
+alignment, and enhance
+impact.
+brand reputation, thereby
+supporting sustainable
+growth and value creation.
+Health, safety, and wellRisks related to health,
+Negative financial
+being are identified as
+safety, and well-being
+implications: Workplace
+key risk areas due to their
+are mitigated through
+incidents or inadequate
+direct impact on employees comprehensive health
+safety practices can result in
+and operations. Workplace
+and safety management
+medical costs, compensation
+incidents, occupational
+systems, supported by
+claims, legal liabilities,
+health issues, or inadequate clear policies, standard
+regulatory penalties, and
+safety practices can lead
+operating procedures
+operational disruptions.
+to injuries, operational
+and periodic audits.
+disruptions, legal liabilities, We conduct regular risk
+and reputational damage.
+assessments, safety audits,
+Given the nature of
+and training programs
+infrastructure and field
+to build awareness and
+operations, ensuring a safe
+prevent incidents, while
+and healthy workplace
+ensuring proper use of
+is critical to maintaining
+protective equipment
+business continuity, and
+and safe work practices.
+workforce productivity.
+Additionally, employee
+well-being is promoted
+through health initiatives,
+support programs, and
+continuous monitoring to
+maintain a safe, healthy,
+and productive work
+environment.
+Resource management and
+environmental conservation
+are considered both a risk
+and an opportunity due to
+their impact on operational
+efficiency, compliance, and
+long-term sustainability.
+
+
