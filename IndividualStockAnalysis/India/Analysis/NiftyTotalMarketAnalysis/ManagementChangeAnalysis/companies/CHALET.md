@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and CEO** | Sanjay Sethi (end of term; last day 2026-01-31) | Shwetank Singh (internal; from 2026-02-01) | effective | 2025-12-11 |
+| **Managing Director and CEO** | Sanjay Sethi (end of term; last day 2026-01-31) | Shwetank Singh (internal; from 2026-02-01) | effective | 2025-07-31 |
 
-- **Why Sanjay Sethi is leaving, in the filing's words:** “Dr. Sanjay Sethi has today i.e. on January 31, 2026 completed his term as Managing Director and CEO of the Company and retired from the services of the Company.” Stays on as: Non-Independent Non-Executive Director of the Company with effect from February 1, 2026.
-- In the documents: “appointment of Mr. Shwetank Singh as Managing Director and CEO of the Company with effect from February 1, 2026.” — [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · +1 more
+- **Why Sanjay Sethi is leaving, in the filing's words:** “Dr. Sanjay Sethi had conveyed his intention to retire from his executive responsibilities upon the completion of his current tenure as Managing Director & CEO of the Company on January 31, 2026.” Stays on as: Non-Independent Non-Executive Director of the Company with effect from February 1, 2026.
+- In the documents: “Dr. Sanjay Sethi has today i.e. on January 31, 2026 completed his term as Managing Director and CEO of the Company and retired from the services of the Company.” — [2025-10-31 Resignation](https://nsearchives.nseindia.in/corporate/CHALET_31102025180558_Regulation30ChangeSMP31102025.pdf) · [2025-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CHALET_31072025194913_OutcomeBoardMeeting31072025.pdf) · [2025-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CHALET_31072025200805_OutcomeBoardMeeting31072025.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-08-25 Updates](https://nsearchives.nseindia.com/corporate/CHALET_25082026110800_ATHIVAPulseBrandChange25082026.pdf) · [2026-04-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_24042026114602_Regulation30_DisclosureSeasons.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/CHALET_24042026115819_Regulation30_DisclosureSeasons.pdf) · [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · +1 more
+*All 11 filing(s) read for the seats:* [2026-08-25 Updates](https://nsearchives.nseindia.com/corporate/CHALET_25082026110800_ATHIVAPulseBrandChange25082026.pdf) · [2026-04-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_24042026114602_Regulation30_DisclosureSeasons.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/CHALET_24042026115819_Regulation30_DisclosureSeasons.pdf) · [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/CHALET.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹884.95 on 2025-12-10 (the close before) → ₹824.65 on 2026-11-13: **-6.8%**; Nifty 500 +1.4% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹895.10 on 2025-07-30 (the close before) → ₹824.65 on 2026-11-13: **-7.9%**; Nifty 500 +3.0% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -65,7 +65,7 @@ The filing's own profile: “Shwetank is B.Tech from IIT and MBA - Finance & Mar
 |---|---|---|---|
 | Head of Business | Golden Sands LLC, Dubai | — | 2023 |
 | Chief Growth & Strategy Officer | Chalet Hotels Limited (CHALET) | 2023 | — |
-| Executive Director | Chalet Hotels Limited (CHALET) | — | 2026 |
+| Executive Director | Chalet Hotels Limited (CHALET) | 2024 | 2026 |
 
 ### 5. On the calls
 

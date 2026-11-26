@@ -2,18 +2,33 @@
 
 ## GODREJIND — Godrej Industries Ltd.
 
-**CEO / MD change**
+**Large stake change, same controller · CEO / MD change**
 
 ### 1. What is changing
 
+**Ownership — Large stake change, same controller.** Promoter-and-group holding in Godrej Industries rose from 71.31% (Sep 2025) to 74.64% (Dec 2025) and stayed there; the Godrej family remains in control. A new family entity, NRG Enterprise LLP, was added to the promoter group on incorporation in the June 2026 quarter. No new controller appears.
+
+| | Who | Kind | Stake before | Stake after |
+|---|---|---|---|---|
+| Outgoing | — | — | — | — |
+| Incoming | Promoter and promoter group of Godrej Industries Limited (Godrej family; includes Mr. Nadir Godrej, Mr. Burjis Godrej, Mr. Sohrab Godrej, Mr. Hormazd Godrej; NRG Enterprise LLP added to promoter group) | founder family member | — | 74.64% (2025-12-31, 2026-03-31, 2026-06-30); 74.63% (2026-09-30) |
+
+- control does not change
+- Dates: other 2025-12-31; other 2026-06-30
+- In the documents: “NRG Enterprise LLP has been added to the Promoter Group during the Quarter ended June 30, 2026, upon its in”
+
+**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 71.31% (2025-09-30) → 74.64% (2025-12-31) → 74.64% (2026-03-31) → 74.64% (2026-06-30) → 74.63% (2026-09-30)
+
+*Filings read for the ownership:* [2025-11-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJIND_11112025155446_GILBSENSEBOARDOUTCOME111125.pdf) · [2025-11-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJIND_11112025155729_GILBSENSEBOARDOUTCOME111125.pdf)
+
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman and Managing Director (outgoing) / 'Whole Time Director' of the Company, designated as 'Executive Chairperson' (incoming)** | Nadir Godrej (retirement; last day 2026-08-13) | Pirojsha Godrej (promoter family; from 2026-08-14) | effective | 2026-04-13 |
+| **'Whole Time Director' designated as 'Executive Chairperson' (succeeding the 'Chairman and Managing Director')** | Nadir Godrej (retirement; last day 2026-08-13) | Pirojsha Godrej (promoter family; from 2026-08-14) | effective | 2026-04-13 |
 
-- **Why Nadir Godrej is leaving, in the filing's words:** “I will turn 75 in August 2026, and I would Like to step down from the Board of Godrej Industries Limited.” Stays on as: Chairman Emeritus of the Company with effect from August 14, 2026, along with Mr. Adi Godrej.
+- **Why Nadir Godrej is leaving, in the filing's words:** “I am writing to share with you my intent to step down as the Chairman and Managing Director of Godrej Industries Limited and from our Board, effective close of business hours on August 13, 2026.” Stays on as: Chairman Emeritus of the Company with effect from August 14, 2026 (along with Mr. Adi Godrej).
 - In the documents: “Pursuant to the retirement of Nadir Godrej as Chair man and Managing Director of the Company, Pirojsha Godrej will succeed him as a Whole -Time Director designated as "Executive Chairperson" of the Company with effect from August 14, 2026, as a part of a planned generational transition.” — [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Anupama_13042026172937_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/Anupama_13042026173957_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Change in Management](https://nsearchives.nseindia.com/corporate/Anupama_13042026174533_BSENSEGILOUTCOMEAPRIL132026.pdf) · +1 more
 
-*All 8 filing(s) read for the seats:* [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/Anupama_13082026133751_BSENSEOTHERMATTER13082026.pdf) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/Anupama_15052026175313_BSENSOUTCOMEOTHERMATTERS150502026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/Anupama_15052026180021_BSENSOUTCOMEOTHERMATTERS150502026.pdf) · [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Anupama_13042026172937_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/Anupama_13042026173957_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Change in Management](https://nsearchives.nseindia.com/corporate/Anupama_13042026174533_BSENSEGILOUTCOMEAPRIL132026.pdf) · +2 more
+*All 9 filing(s) read for the seats:* [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/Anupama_13082026133751_BSENSEOTHERMATTER13082026.pdf) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/Anupama_15052026175313_BSENSOUTCOMEOTHERMATTERS150502026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/Anupama_15052026180021_BSENSOUTCOMEOTHERMATTERS150502026.pdf) · [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Anupama_13042026172937_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/Anupama_13042026173957_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Change in Management](https://nsearchives.nseindia.com/corporate/Anupama_13042026174533_BSENSEGILOUTCOMEAPRIL132026.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -37,11 +52,11 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/GODREJIND.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹892.05 on 2026-04-10 (the close before) → ₹1,117.15 on 2026-11-13: **+25.2%**; Nifty 500 +6.2% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹967.70 on 2025-12-30 (the close before) → ₹1,117.15 on 2026-11-13: **+15.4%**; Nifty 500 +0.3% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Nadir Godrej** — Chairman and Managing Director (outgoing) / 'Whole Time Director' of the Company, designated as 'Executive Chairperson' (incoming), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Nadir Godrej** — 'Whole Time Director' designated as 'Executive Chairperson' (succeeding the 'Chairman and Managing Director'), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -61,13 +76,17 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Pirojsha Godrej** — Chairman and Managing Director (outgoing) / 'Whole Time Director' of the Company, designated as 'Executive Chairperson' (incoming). from: promoter family; qualifications: Pirojsha graduated from the Wharton School of Business, completed a Master's in International Affairs from Columbia University, and earned an MBA from Columbia Business School..
+**Promoter and promoter group of Godrej Industries Limited (Godrej family; includes Mr. Nadir Godrej, Mr. Burjis Godrej, Mr. Sohrab Godrej, Mr. Hormazd Godrej; NRG Enterprise LLP added to promoter group)** (founder family member) — the incoming owner. Holding after: 74.64% (2025-12-31, 2026-03-31, 2026-06-30); 74.63% (2026-09-30).
 
-The filing's own profile: “Pirojsha Godrej is Chairperson Designate of the Godrej Industries Group and serves as Chairperson of Godrej Properties, Godrej Capital, and Godrej Ventures. Under his leadership, the Group continues to build on its legacy with a clear ambition for growth, combining strong performance with a deep commitment to values. He has led Godrej Properties through a phase of rapid growth, culminating in its emergence as India's largest real estate developer by sales in FY21—a position it continues to hold. He also founded Godrej Capital and Godrej Ventures.”
+What the documents say about them: “Existing promoter family and group of the company. The documents state only that voting rights of Godrej Industries Limited were acquired (without acquisition of shares) by Mr. Nadir Godrej from Mr. Burjis Godrej, Mr. Sohrab Godrej and Mr. Hormazd Godrej under a Shareholders Agreement entered on 26th March, 2020, which also imposes transfer restrictions on their shares, and that NRG Enterprise LLP was added to the Promoter Group during the quarter ended June 30, 2026 upon its incorporation.”
+
+**Pirojsha Godrej** — 'Whole Time Director' designated as 'Executive Chairperson' (succeeding the 'Chairman and Managing Director'). from: promoter family; qualifications: Pirojsha graduated from the Wharton School of Business, completed a Master's in International Affairs from Columbia University, and earned an MBA from Columbia Business School..
+
+The filing's own profile: “Pirojsha Godrej is Chairperson Designate of the Godrej Industries Group and serves as Chairperson of Godrej Properties, Godrej Capital, and Godrej Ventures. Under Pirojsha's leadership, the Godrej Industries Group has delivered strong and consistent performance, achieving over 20% compounded annual growth in both sales and net profits over the five years leading up to FY26. Prior to taking on leadership at the Godrej Industries Group, Pirojsha led Godrej Properties through a phase of rapid growth culminating in it becoming the largest real estate developer in India by residential sales in FY21, a position it continues to hold. He also founded Godrej Capital and Godrej Ventures.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chairperson Designate | Godrej Industries Group | 2026 | 2026 |
+| Chairperson-Designate | Godrej Industries Group | 2026 | 2026 |
 | Chairperson | Godrej Properties (GODREJPROP) | — | — |
 | Chairperson (founder) | Godrej Capital | — | — |
 | Chairperson (founder) | Godrej Ventures | — | — |

@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Key Managerial Personnel of the Company** | Guruprasad Srinivasan (moved to another role in the company or group; last day 2025-12-31) | Lohit Bhatia (internal; from 2026-01-01) | effective | 2025-12-05 |
-| **Chief Financial Officer and Key Managerial Personnel of the Company** | — (new seat) | Neeraj Jain (external; from 2025-12-05) | effective | 2025-12-05 |
+| **Chief Executive Officer and Key Managerial Personnel of the Company** | Guruprasad Srinivasan (moved to another role in the company or group) | Lohit Bhatia (internal; from 2026-01-01) | effective | 2025-12-05 |
+| **Chief Financial Officer and Key Managerial Personnel of the Company** | Sushanth Pai (resignation; last day 2025-10-17) | Neeraj Jain (external; from 2025-12-05) | effective | 2025-12-05 |
 
-- **Why Guruprasad Srinivasan is leaving, in the filing's words:** “Change in the designation of Mr. Guruprasad Srinivasan (DIN: 07596207) from 'Executive Director & Group Chief Executive Officer' to the 'Executive Director' of the Company w.e.f. January 01, 2026.” Stays on as: Executive Director of the Company and Key Managerial Personnel (later resigned as Executive Director w.e.f. close of business hours on May 31, 2026, to provide strategic consultancy and advisory support).
-- In the documents: “Elevation in the role of Mr. Lohit Bhatia , President -India and Global Operations, to the role of the Chief Executive Officer and Key Managerial Personnel of the Company w.e. f. January 01, 202 6.” — [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · +1 more
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Neeraj Jain , as the Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. December 05, 2025.” — [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf)
+- **Why Guruprasad Srinivasan is leaving, in the filing's words:** “Change in designation from 'Executive Director & Group Chief Executive Officer' to the 'Executive Director' of the Company.” Stays on as: Executive Director (and Key Managerial Personnel) of the Company.
+- In the documents: “The Board of Quess Corp Ltd. has elevated Mr. Lohit Bhatia, effective 1st January 2026, from his current role as President – India and Global Operations to Chief Executive Officer (CEO) and Key Managerial Personnel (KMP).” — [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · +1 more
+- **Why Sushanth Pai is leaving, in the filing's words:** “I hereby tender my resignation from the position of Chief Financial Officer and Key Managerial Personnel of the Company, due to urgent commitments to my family following a recent bereavement.”
+- In the documents: “Appointment of Mr. Neeraj Jain, as the Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. December 05, 2025.” — [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · [2025-10-10 General Updates](https://nsearchives.nseindia.in/corporate/Quesscorp_10102025193256_SE_Intimation-KL.pdf)
 
-*All 5 filing(s) read for the seats:* [2026-04-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Quesscorp_07042026184019_SE_PostalBallot_signed.pdf) · [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · [2025-12-05 Press Release](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025175433_SE_Intimation_Press_Release.pdf)
+*All 6 filing(s) read for the seats:* [2026-04-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Quesscorp_07042026184019_SE_PostalBallot_signed.pdf) · [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · [2025-12-05 Press Release](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025175433_SE_Intimation_Press_Release.pdf) · [2025-10-10 General Updates](https://nsearchives.nseindia.in/corporate/Quesscorp_10102025193256_SE_Intimation-KL.pdf)
 
 ### 2. Financials — the last three years
 
@@ -58,20 +58,32 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 11.3 | 25.8 | +14.5 pts |
 | Borrowings (₹ cr) | 1,473 | 113 | -1,360 |
 
+**Sushanth Pai** — Chief Financial Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2020 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 8,527 | 13,695 | +9.9% a year over 5 years |
+| Operating profit (₹ cr) | 459 | 237 | -12.4% a year over 5 years |
+| PAT (₹ cr) | 257 | 280 | +1.7% a year over 5 years |
+| Operating profit margin (%) | 5.4 | 1.7 | -3.7 pts |
+| ROCE (%) | 12.0 | 10.0 | -2.0 pts |
+| ROE (%) | 11.3 | 25.8 | +14.5 pts |
+| Borrowings (₹ cr) | 1,473 | 113 | -1,360 |
+
 ### 4. Track record — the incoming management
 
-**Lohit Bhatia** — Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: over 28 years of multi-industry leadership.
+**Lohit Bhatia** — Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: over 28 years.
 
 The filing's own profile: “Mr. Lohit Bhatia brings over 28 years of multi-industry leadership across Textiles, Auto Components, and Services, with deep expertise in sales, product and service strategy, business development, and large-scale manpower outsourcing, particularly managed services across sectors. Lohit joined Quess Corp in 2011 as General Manager – Sales (Staffing) and today serves as the President – India & Global Operations, leading one of the region's largest workforce and business services platforms. Over the past 15 years, he has been instrumental in scaling the Staffing business from 13,000 to over 470,000 associates, making Quess India's No. 1 staffing enterprise and the world's No. 4”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | General Manager – Sales (Staffing) | Quess Corp (QUESS) | 2011 | — |
-| President – India and Global Operations | Quess Corp (QUESS) | — | 2025 |
-| President | Indian Staffing Federation (ISF) | — | — |
-| Board Member, Southern APAC region | World Employment Confederation (WEC) | — | — |
+| President – India & Global Operations | Quess Corp (QUESS) | — | 2025 |
 
-**Neeraj Jain** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: over 2 (two) decades of diverse & rich experience; qualifications: He is a qualified Chartered Accountant and Company Secretary..
+**Neeraj Jain** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: over 2 (two) decades; qualifications: He is a qualified Chartered Accountant and Company Secretary..
 
 The filing's own profile: “Mr. Neeraj Jain is a Business leader with a growth mindset and a strong bias for execution. He is a qualified Chartered Accountant and Company Secretary. He brings over 2 (two) decades of diverse & rich experience in driving Scale and Transformation in Global and complex markets, ranging from large MNCs to startup companies in Global Tech, Services, Fintech, Mfg., and Pharma organizations. Neeraj was previously the global CFO at Startek, a NYSE-listed company, having operations across 12 countries. He was part of the Executive team driving the take-private transaction, Business Restructuring, and Transformation at Startek.”
 

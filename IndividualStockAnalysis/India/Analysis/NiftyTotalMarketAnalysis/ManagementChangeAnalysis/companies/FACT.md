@@ -8,21 +8,21 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman and Managing Director (Addl. Charge)** | S. C. Mudgerikar (end of term; last day 2026-01-01) | Anupam Misra (interim; internal; from 2026-01-05) | effective | 2026-01-01 |
-| **Chairman and Managing Director** | Anupam Misra (interim holder replaced; last day 2026-02-02) | S. Sakthimani (internal; from 2026-02-02) | effective | 2026-02-02 |
+| **Chairman and Managing Director (Addl. Charge)** | S.C. Mudgerikar (end of term; last day 2026-01-01) | Anupam Misra (interim; internal; from 2026-01-05) | effective | 2026-01-01 |
+| **Chairman and Managing Director** | Anupam Misra (interim holder replaced) | S. Sakthimani (internal; from 2026-02-02) | effective | 2026-02-02 |
 | **Director (Finance)** | S. Sakthimani (moved to another role in the company or group; last day 2026-02-02) | S. Sakthimani (interim; internal; from 2026-02-03) | effective | 2026-02-03 |
 | **Chief Financial Officer (CFO)** | — (new seat) | Pradeepkumar C (internal; from 2026-05-29) | effective | 2026-05-29 |
 
-- **Why S. C. Mudgerikar is leaving, in the filing's words:** “Completion of tenure / Superannuation.”
-- In the documents: “Shri S.C. Mudgerikar, (DIN: 03498837), has ceased to be the Chairman and Managing Director (Addl. Charge) of the Company with effect from 01.01.2026, on completion of his tenure / superannuation.” — [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/FACT_01072026104142_148_cessation_Anupam_Misra_DM.pdf) · [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/FACT_08062026212027_CS-RO-NSE-136-HCL.pdf) · [2026-01-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_05012026172240_8725_disclosure_of_assumption_of_CMD_charge.pdf) · +1 more
-- **Why Anupam Misra is leaving, in the filing's words:** “for a period of three months with effect from 5th January, 2026 or till regular incumbent joins the post or until further orders, whichever is earlier” Stays on as: Director (Marketing), FACT.
+- **Why S.C. Mudgerikar is leaving, in the filing's words:** “Completion of tenure / Superannuation.” Stays on as: Chairman & Managing Director (CMD), Rashtriya Chemicals & Fertilizers Limited (RCFL).
+- In the documents: “Shri S.C. Mudgerikar, (DIN: 03498837), has ceased to be the Chairman and Managing Director (Addl. Charge) of the Company with effect from 01.01.2026, on completion of his tenure / superannuation.” — [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/FACT_08062026212027_CS-RO-NSE-136-HCL.pdf) · [2026-01-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_05012026172240_8725_disclosure_of_assumption_of_CMD_charge.pdf) · [2026-01-01 Cessation](https://nsearchives.nseindia.com/corporate/FACT_01012026100305_cessation_of_CMD.pdf) · +1 more
+- **Why Anupam Misra is leaving, in the filing's words:** “for a period of three months with effect from 5th January, 2026 or till regular incumbent joins the post or until further orders, whichever is earlier” Stays on as: Director (Marketing).
 - In the documents: “Accordingly, Shri. S. Sakthimani, has taken over charge of the post of Chairman and Managing Director, FACT, today, the 2nd of February, 2026 (AN).” — [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/FACT_08062026212027_CS-RO-NSE-136-HCL.pdf) · [2026-02-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_03022026173630_037_CMD__DF_Addl_charge.pdf) · [2026-02-02 Appointment](https://nsearchives.nseindia.com/corporate/FACT_02022026204401_035DFCMDAPPOINTMENT.pdf) · +1 more
 - **Why S. Sakthimani is leaving, in the filing's words:** “appointed Shri. S. Sakthimani, (DIN – 07482308), Director (Finance), The Fertilisers and Chemicals Travancore Limited (FACT) as the Chairman and Managing Director, FACT” Stays on as: Chairman and Managing Director, FACT.
 - In the documents: “Pursuant to Regulation 30, read with Part A of Schedule III of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015, it is hereby informed that, the Department of Fertilizers, Ministry of Chemicals and Fertilizers, Govt. of India, vide Order No. 86/1/2016-HR-I(e-16515) dated 03rd February, 2026 has entrusted the additional charge of the post of Director (Finance) to Shri. S. Sakthimani, (DIN: 07482308), Chairman and Managing Director, FACT for a period of One year with effect from 03rd February, 2026 or till regular incumbent joins the post or until further orders, whichever is earliest, subject to the approval of DoPT (ACC).” — [2026-02-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_03022026173630_037_CMD__DF_Addl_charge.pdf) · [2026-02-02 Appointment](https://nsearchives.nseindia.com/corporate/FACT_02022026204401_035DFCMDAPPOINTMENT.pdf)
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors, at its meeting held on 29th May, 2026, has appointed Shri. Pradeepkumar C as the Chief Financial Officer (CFO) of the Company.” — [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/FACT_29052026180958_CFO_appointment_129.pdf)
+- In the documents: “Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors, at its meeting held on 29th May, 2026, has appointed Shri. Pradeepkumar C as the Chief Financial Officer (CFO) of the Company.” — [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/FACT_29052026180958_CFO_appointment_129.pdf)
 
-*All 7 filing(s) read for the seats:* [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/FACT_01072026104142_148_cessation_Anupam_Misra_DM.pdf) · [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/FACT_08062026212027_CS-RO-NSE-136-HCL.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/FACT_29052026180958_CFO_appointment_129.pdf) · [2026-02-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_03022026173630_037_CMD__DF_Addl_charge.pdf) · [2026-02-02 Appointment](https://nsearchives.nseindia.com/corporate/FACT_02022026204401_035DFCMDAPPOINTMENT.pdf) · [2026-01-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_05012026172240_8725_disclosure_of_assumption_of_CMD_charge.pdf) · +1 more
+*All 9 filing(s) read for the seats:* [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/FACT_01072026104142_148_cessation_Anupam_Misra_DM.pdf) · [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/FACT_08062026212027_CS-RO-NSE-136-HCL.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/FACT_29052026180958_CFO_appointment_129.pdf) · [2026-02-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_03022026173630_037_CMD__DF_Addl_charge.pdf) · [2026-02-02 Appointment](https://nsearchives.nseindia.com/corporate/FACT_02022026204401_035DFCMDAPPOINTMENT.pdf) · [2026-01-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FACT_05012026172240_8725_disclosure_of_assumption_of_CMD_charge.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -50,7 +50,7 @@
 
 ### 3. Track record — the outgoing management
 
-**S. C. Mudgerikar** — Chairman and Managing Director (Addl. Charge), date of taking the seat not on file.
+**S.C. Mudgerikar** — Chairman and Managing Director (Addl. Charge), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -107,12 +107,11 @@ The filing's own profile: “Shri. S Sakthimani is a Metallurgical Engineer and 
 | — | Scooters India Limited | — | — |
 | — | Engineering Projects (India) Limited | — | — |
 
-**S. Sakthimani** — Director (Finance) (interim). from: internal; qualifications: Metallurgical Engineer and a qualified Cost and Management Accountant and Company Secretary.
+**S. Sakthimani** — Director (Finance) (interim). from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chairman and Managing Director | The Fertilisers and Chemicals Travancore Limited (FACT) | 2026 | — |
-| Director (Finance) | The Fertilisers and Chemicals Travancore Limited (FACT) | — | 2026 |
 
 **Pradeepkumar C** — Chief Financial Officer (CFO). from: internal; experience: around 32 years; qualifications: a qualified Cost and Management Accountant.
 
@@ -121,7 +120,7 @@ The filing's own profile: “Shri. Pradeepkumar C is a qualified Cost and Manage
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | The Fertilisers and Chemicals Travancore Limited (FACT) | 2019 | 2019 |
-| General Manager (Corporate Finance) | The Fertilisers and Chemicals Travancore Limited (FACT) | — | 2026 |
+| General Manager (Corporate Finance) | The Fertilisers and Chemicals Travancore Limited (FACT) | — | — |
 
 ### 5. On the calls
 

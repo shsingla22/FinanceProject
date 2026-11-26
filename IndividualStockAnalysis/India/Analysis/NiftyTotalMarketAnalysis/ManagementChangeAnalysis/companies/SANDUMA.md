@@ -13,7 +13,7 @@
 - **Why Uttam Kumar Bhageria is leaving, in the filing's words:** “In line with the long-term business strategy, Uttam Kumar Bhageria is relieved from the position of Chief Financial Officer.” Stays on as: continuing to perform other roles in the Company.
 - In the documents: “Accordingly, Manoj Kumar Jha is appointed as Chief Financial Officer, forming part of Key Managerial Personnel and Senior Management Personnel of the Company, with effect from 9 July 2026.” — [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SANDUR_09072026164006_Ltr2SEsOutcomeofBMSigned.pdf) · [2026-07-09 Change in Management](https://nsearchives.nseindia.com/corporate/SANDUR_09072026182701_Ltr2SEsChangeinCFOSigned.pdf) · [2026-07-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SANDUMA_ROID_91467_KMP_Doc.zip) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SANDUR_09072026164006_Ltr2SEsOutcomeofBMSigned.pdf) · [2026-07-09 Change in Management](https://nsearchives.nseindia.com/corporate/SANDUR_09072026182701_Ltr2SEsChangeinCFOSigned.pdf) · [2026-07-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SANDUMA_ROID_91467_KMP_Doc.zip) · [2026-01-13 Change in Management](https://nsearchives.nseindia.com/corporate/SANDUR_13012026192750_Ltr2SEs_ChangeinCRO_Signed.pdf)
+*All 6 filing(s) read for the seats:* [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SANDUR_09072026164006_Ltr2SEsOutcomeofBMSigned.pdf) · [2026-07-09 Change in Management](https://nsearchives.nseindia.com/corporate/SANDUR_09072026182701_Ltr2SEsChangeinCFOSigned.pdf) · [2026-07-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SANDUMA_ROID_91467_KMP_Doc.zip) · [2026-01-13 Change in Management](https://nsearchives.nseindia.com/corporate/SANDUR_13012026192750_Ltr2SEs_ChangeinCRO_Signed.pdf) · [2025-08-26 Shareholders meeting](https://nsearchives.nseindia.in/corporate/SANDUR_26082025162751_Ltr2SEsNoticeofAGM.pdf) · [2025-08-08 Appointment](https://nsearchives.nseindia.in/corporate/SANDUR_08082025160540_Ltr2SEsReapptofBAGSigned.pdf)
 
 ### 2. Financials — the last three years
 
@@ -47,16 +47,16 @@
 
 ### 4. Track record — the incoming management
 
-**Manoj Kumar Jha** — Chief Financial Officer. from: internal; experience: more than 3 decades of experience; qualifications: Chartered Accountant.
+**Manoj Kumar Jha** — Chief Financial Officer. from: internal; experience: more than 3 decades; qualifications: Chartered Accountant.
 
 The filing's own profile: “Manoj Jha is a Chartered Accountant with more than 3 decades of experience holding global leadership positions in manufacturing, trading and distribution businesses across Africa, Europe, Asia and Americas. He has expertise in corporate governance, M & A, fund raising, treasury, risk management and cross border financial operations. He has a proven track record in scaling multi-billion-dollar businesses, optimizing capital structures and drive sustainable profitability. Prior to joining the Company, he was associated with Tata group for more than a decade working for Tata Africa Holdings SA for their Automobile Distribution business in Africa as Chief Financial Officer and for Tata International Limited for their Global Metals Trading business as Head of Finance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Risk Officer designated as Senior Vice President - Business Governance | The Sandur Manganese & Iron Ores Limited (SANDUMA) | 2026 | — |
-| Chief Financial Officer (Automobile Distribution business in Africa) | Tata Africa Holdings SA | — | — |
-| Head of Finance (Global Metals Trading business) | Tata International Limited | — | — |
-| heading Finance & Accounts function for Energy & Minerals business | Adani Enterprises Limited (ADANIENT) | — | — |
+| Chief Risk Officer designated as Senior Vice President - Business Governance (role retained) | The Sandur Manganese & Iron Ores Limited (SANDUMA) | 2026 | — |
+| Chief Financial Officer, Automobile Distribution business in Africa | Tata Africa Holdings SA | — | — |
+| Head of Finance, Global Metals Trading business | Tata International Limited | — | — |
+| heading their Finance & Accounts function for 8 years | Adani Enterprises Limited (Adani Group, Energy & Minerals business) | — | — |
 | — | Olam International | — | — |
 | — | Benckiser | — | — |
 | — | Eicher | — | — |

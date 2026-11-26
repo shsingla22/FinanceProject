@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Pradyumna Krishna Kumar (interim holder replaced; last day 2026-02-01) | Yogesh Patel (external; from 2026-02-02) | effective | 2026-01-30 |
+| **Chief Financial Officer and Key Managerial Personnel** | Pradyumna Krishna Kumar (interim holder replaced; last day 2026-02-02) | Yogesh Patel (external; from 2026-02-02) | effective | 2026-01-30 |
 
 - **Why Pradyumna Krishna Kumar is leaving, in the filing's words:** “Cessation consequent to appointment of Mr. Yogesh Patel as the Chief Financial Officer of the Company.” Stays on as: Executive Director of the Company.
 - In the documents: “Appointment of Mr. Yogesh Patel as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from February 2, 2026.” — [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026140728_Results.pdf) · [2026-01-30 Resignation](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026144606_Outcome.pdf) · [2026-01-30 Appointment](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026144845_Outcome.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026140728_Results.pdf) · [2026-01-30 Resignation](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026144606_Outcome.pdf) · [2026-01-30 Appointment](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026144845_Outcome.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026145334_Outcome.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026145555_Outcome.pdf)
+*All 8 filing(s) read for the seats:* [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026140728_Results.pdf) · [2026-01-30 Resignation](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026144606_Outcome.pdf) · [2026-01-30 Appointment](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026144845_Outcome.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026145334_Outcome.pdf) · [2026-01-30 Change in Management](https://nsearchives.nseindia.com/corporate/BRIGADE_30012026145555_Outcome.pdf) · [2025-08-22 Resignation](https://nsearchives.nseindia.in/corporate/BRIGADE_22082025200329_IntimationonChangeofCFO22082025.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -41,25 +41,15 @@
 
 ### 3. Track record — the outgoing management
 
-**Pradyumna Krishna Kumar** — Chief Financial Officer, date of taking the seat not on file.
+**Pradyumna Krishna Kumar** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 2,632 | 5,074 | +14.0% a year over 5 years |
-| Operating profit (₹ cr) | 667 | 1,421 | +16.3% a year over 5 years |
-| PAT (₹ cr) | 114 | 680 | +42.9% a year over 5 years |
-| Operating profit margin (%) | 25.3 | 28.0 | +2.7 pts |
-| ROCE (%) | 8.0 | 13.0 | +5.0 pts |
-| ROE (%) | 5.0 | 12.1 | +7.1 pts |
-| Borrowings (₹ cr) | 4,522 | 5,464 | +942 |
+*No tenure record: the tenure is shorter than one full fiscal year on file.*
 
 ### 4. Track record — the incoming management
 
-**Yogesh Patel** — Chief Financial Officer. from: external; experience: over 25 years.
+**Yogesh Patel** — Chief Financial Officer and Key Managerial Personnel. from: external; experience: over 25 years.
 
-The filing's own profile: “Mr. Yogesh Patel is a seasoned finance professional with over 25 years of experience, including the last 10 years in Chief Financial Officer roles with listed companies and large business houses and expertise in financial leadership, including leading finance function for public listed entities, driving strategic growth and operational excellence. Expertise across corporate finance, M&A, risk management, and organizational transformation, with a proven track record of driving organizational growth, and operational efficiency, investor relations and maximizing stakeholder value. Prior to this, Mr. Yogesh worked with Tata Advanced Systems Ltd, Mahindra Logistics Ltd, Healthcare Global Enterprises Limited (HCG) as Chief Financial Officer and also worked with EY, Wipro Ltd, IBM India Limited in different capacities. His last role was with Trianz Digital Consulting as Chief Financial Officer.”
+The filing's own profile: “Mr. Yogesh Patel is a seasoned finance professional with over 25 years of experience, including the last 10 years in Chief Financial Officer roles with listed companies and large business houses and expertise in financial leadership, including leading finance function for public listed entities, driving strategic growth and operational excellence. Expertise across corporate finance, M&A, risk management, and organizational transformation, with a proven track record of driving organizational growth, and operational efficiency, investor relations and maximizing stakeholder value.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

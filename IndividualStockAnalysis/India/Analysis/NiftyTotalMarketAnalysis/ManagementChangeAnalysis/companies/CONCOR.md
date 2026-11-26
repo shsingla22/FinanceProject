@@ -9,20 +9,20 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chairman and Managing Director (CMD)/CONCOR** | Sanjay Swarup (retirement; last day 2026-07-31) | Ajit Kumar Panda (internal; from 2026-08-01) | effective | 2026-06-29 |
-| **Director (Finance) (Additional Charge)** | Anurag Kapil (last day 2026-03-31) | Pallavi Joshi (interim; government appointee; from 2026-04-09) | effective | 2026-04-01 |
+| **Director (Finance) (Additional Charge)** | Anurag Kapil (end of term; last day 2026-03-31) | Pallavi Joshi (interim; government appointee; from 2026-04-09) | effective | 2026-04-08 |
 | **Director (Finance) & Chief Financial Officer (CFO)** | Pallavi Joshi (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-20 |
-| **Principal Executive Director (Finance) & CS & CFO** | Harish Chandra (moved to another role in the company or group; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-22 |
+| **Principal Executive Director (Finance) & CS & CFO** | Harish Chandra (interim holder replaced; last day 2026-04-21) | Vivek Gupta (government appointee; from 2026-04-21) | effective | 2026-04-22 |
 
 - **Why Sanjay Swarup is leaving, in the filing's words:** “Shri Sanjay Swamp (DIN: 05159435) has ceased to hold the office of CMD / CONCOR on his superannuation on 31.07.2026”
 - In the documents: “Shri Ajit Kumar Panda (DIN: 08221385) has taken over the charge of the post of Chairman and Managing Director/CONCOR w.e.f. 01.08.2026.” — [2026-08-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CONCOR_01082026112246_CONCOR_SE_01082026_CMD.pdf) · [2026-07-24 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_24072026183338_CONCOR_SE_CMDBOD_24072026.pdf) · [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · +1 more
 - **Why Anurag Kapil is leaving, in the filing's words:** “Shri Anurag Kapil (DIN: 06640383) has relinquished the charge of post of Executive Director/Finance (X), Railway Board on 31.03.2026 (AN). Accordingly, he has ceased to hold the office of Director (Finance) of CONCOR w.e.f. 31.03.2026 (AN).”
 - In the documents: “In continuation to the above, we would like to inform that in terms of orders of the Ministry of Railways, the Board of Directors of CONCOR in its meeting held today on 10.04.2026, has appointed w.e.f. 09.04.2026, Ms. Pallavi Joshi (DIN: 08117196), as Director (Finance) (additional charge) of CONCOR.” — [2026-04-15 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_15042026120445_CONCOR_SE_15042026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_10042026200535_SSE_DF_Appointment.pdf) · [2026-04-08 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_08042026175700_CONCOR_SE_08042026.pdf) · +1 more
-- **Why Pallavi Joshi is leaving, in the filing's words:** “it is also hereby informed that Ms. Pallavi Joshi (DIN:08117196) holding the additional charge of Director (Finance) presently ceases to hold such charge from 21.04.2026 (FN)”
+- **Why Pallavi Joshi is leaving, in the filing's words:** “Ms. Pallavi Joshi (DIN:08117196) holding the additional charge of Director (Finance) presently ceases to hold such charge from 21.04.2026 (FN).”
 - In the documents: “In continuation to the above, we would like to inform that in terms of orders of the Ministry of Railways, the Board of Directors of CONCOR in its meeting held today on 22.04.2026, has appointed w.e.f. 21.04.2026, Shri Vivek Gupta (DIN: 11674836), as Director (Finance) & Chief Financial Officer (CFO) of CONCOR.” — [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · [2026-04-20 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_20042026163606_CONCOR_SE_20042026.pdf) · +1 more
 - **Why Harish Chandra is leaving, in the filing's words:** “In view of above appointment of CFO, Shri Harish Chandra, Principal Executive Director (Finance) & CS & CFO will cease to hold the charge of CFO w.e.f. 21.04.2026.” Stays on as: Principal Executive Director (Finance) & Company Secretary.
 - In the documents: “In view of above appointment of CFO, Shri Harish Chandra, Principal Executive Director (Finance) & CS & CFO will cease to hold the charge of CFO w.e.f. 21.04.2026.” — [2026-07-07 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_07072026164508_CONCOR_SE_07072026.pdf) · [2026-04-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22042026173958_CONCOR_SE_DF_CFO_22042026S.pdf) · [2026-04-21 Cessation](https://nsearchives.nseindia.com/corporate/CONCOR_21042026182800_CON_SE_Dir_21042026.pdf) · +1 more
 
-*All 22 filing(s) read for the seats:* [2026-11-19 General Updates](https://nsearchives.nseindia.in/corporate/CONCOR_19112026165758_CONCOR_SE_19112026.pdf) · [2026-10-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22102026153835_CONCOR_SE_221026_AS.pdf) · [2026-09-28 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_28092026194037_CONCOR_SE_28092026__002_.pdf) · [2026-09-23 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_23092026145731_CONCOR_SE_23092026.pdf) · [2026-09-04 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_04092026150826_CONCOR_SE_04092026S.pdf) · [2026-09-01 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_01092026180931_CONCOR_SE_01092026s.pdf) · +16 more
+*All 24 filing(s) read for the seats:* [2026-11-19 General Updates](https://nsearchives.nseindia.in/corporate/CONCOR_19112026165758_CONCOR_SE_19112026.pdf) · [2026-10-22 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_22102026153835_CONCOR_SE_221026_AS.pdf) · [2026-09-28 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_28092026194037_CONCOR_SE_28092026__002_.pdf) · [2026-09-23 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_23092026145731_CONCOR_SE_23092026.pdf) · [2026-09-04 General Updates](https://nsearchives.nseindia.com/corporate/CONCOR_04092026150826_CONCOR_SE_04092026S.pdf) · [2026-09-01 Appointment](https://nsearchives.nseindia.com/corporate/CONCOR_01092026180931_CONCOR_SE_01092026s.pdf) · +18 more
 
 ### 2. Financials — the last three years
 
@@ -46,7 +46,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/CONCOR.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹425.30 on 2026-03-30 (the close before) → ₹442.15 on 2026-11-13: **+4.0%**; Nifty 500 +15.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹453.60 on 2026-04-07 (the close before) → ₹442.15 on 2026-11-13: **-2.5%**; Nifty 500 +11.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -108,18 +108,21 @@ The filing's own profile: “Shri Ajit Kumar Panda holds Degrees of BSc Engineer
 | Executive Director (Mechanical Engineering and Project Planning & Development) | Rail Vikas Nigam Limited (RVNL) | — | — |
 | Director (Production Units and Efficiency & Research) | Ministry of Railways (Railway Board) | — | — |
 | Chief Workshop Manager | East Coast Railway, Mancheswar | — | — |
+| various other positions | South Eastern Railway | — | — |
 | Officer (1990 batch) | Indian Railway Service of Mechanical Engineers | 1990 | — |
 
-**Pallavi Joshi** — Director (Finance) (Additional Charge) (interim). from: government appointee; experience: over two decades; qualifications: gold medalist in B.A., a Junior Research Fellowship (JRF) scholar, and holds a PGDM (Executive) with specialization in Financial Management.
+**Pallavi Joshi** — Director (Finance) (Additional Charge) (interim). from: government appointee; experience: over two decades / a career spanning more than 20 years; qualifications: she is a gold medalist in B.A., a Junior Research Fellowship (JRF) scholar, and holds a PGDM (Executive) with specialization in Financial Management.
 
 The filing's own profile: “Smt. Pallavi Joshi, a 2004 batch officer of the Indian Railway Accounts Service (IRAS) is currently serving as Executive Director (Finance – Commercial & PPP) in the Ministry of Railways, bringing over two decades of distinguished experience in financial management within the Indian Railways. An accomplished academic, she is a gold medalist in B.A., a Junior Research Fellowship (JRF) scholar, and holds a PGDM (Executive) with specialization in Financial Management.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director (Finance – Commercial & PPP) | Ministry of Railways (Railway Board) | — | 2026 |
+| Executive Director (Finance – Commercial & PPP) | Ministry of Railways | — | 2026 |
 | Director (Finance Commercial) | Railway Board | — | — |
 | General Manager (Finance) | Dedicated Freight Corridor Corporation of India Limited (DFCCIL) | — | — |
-| Deputy Financial Advisor (Construction Unit) and Deputy Chief Vigilance Officer | Northern Railway | — | — |
+| Deputy Financial Advisor, Construction Unit; Deputy Chief Vigilance Officer | Northern Railway | — | — |
+| Assistant Divisional Financial Manager | Central Railway, Mumbai Division | — | — |
+| Divisional Finance Manager | North Central Railway, Prayagraj Division | — | — |
 
 **Vivek Gupta** — Director (Finance) & Chief Financial Officer (CFO). from: government appointee; experience: career spanning over 32 years; qualifications: B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani.
 
@@ -128,11 +131,11 @@ The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Acc
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | GGM/Finance (on deputation) | Dedicated Freight Corridor Corporation of India Limited (DFCCIL) | — | 2026 |
-| FA&CAO | Indian Railways (N.W. Railway and N.C. Railway) | — | — |
+| FA&CAO | N.W. Railway and N.C. Railway | — | — |
 | Additional DRM | Indian Railways, Izzatnagar Division | — | — |
 | Senior DFM | Indian Railways (Moradabad, Jhansi, Agra and Kota Divisions) | — | — |
+| 1997 Batch officer | Indian Railway Accounts Service (IRAS) | 1997 | — |
 | — | ITI Ltd & Private Sector | — | — |
-| Officer, 1997 Batch (DITS: 07.09.98) | Indian Railway Accounts Service (IRAS) | 1998 | — |
 
 Results of **JBM Auto Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2025):
 
@@ -148,12 +151,12 @@ Results of **JBM Auto Ltd.** while they were CFO there (annual reports on file s
 
 **Vivek Gupta** — Principal Executive Director (Finance) & CS & CFO. from: government appointee; experience: career spanning over 32 years; qualifications: B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani.
 
-The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Accounts Service (IRAS) officer. He has a B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani. Prior to joining Indian Railways, he has worked in ITI Ltd & Private Sector. He is having a distinguished experience of working in 5 Zonal Railways in various capacities in the field of Finance, IT, Business Development and General Administration including Additional DRM, Izzatnagar Division, Senior DFM at Moradabad, Jhansi, Agra and Kota Divisions of Indian Railways & FA&CAO in N.W. Railway and N.C. Railway.”
+The filing's own profile: “Shri Vivek Gupta is a 1997 Batch Indian Railway Accounts Service (IRAS) officer. He has a B.Tech. from IIT-BHU, Varanasi and MBA in Finance from BITS Pilani. Prior to joining Indian Railways, he has worked in ITI Ltd & Private Sector.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | GGM/Finance (on deputation) | Dedicated Freight Corridor Corporation of India Limited (DFCCIL) | — | 2026 |
-| FA&CAO | Indian Railways (N.W. Railway and N.C. Railway) | — | — |
+| FA&CAO | N.W. Railway and N.C. Railway | — | — |
 
 Results of **JBM Auto Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2025):
 

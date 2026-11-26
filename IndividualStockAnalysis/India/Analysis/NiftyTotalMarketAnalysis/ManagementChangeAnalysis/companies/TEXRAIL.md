@@ -11,9 +11,9 @@
 | **Chief Financial Officer** | Kishor Kumar Rajgaria (resignation; last day 2026-08-31) | Shibu Mathews (external; from 2026-09-05) | effective | 2026-07-14 |
 
 - **Why Kishor Kumar Rajgaria is leaving, in the filing's words:** “Mr. Kishor Kumar Rajgaria has tendered his resignation due to personal reasons.”
-- In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we write to inform you that based on the recommendation of the Nomination and Remuneration Committee and approval of the Audit Committee, the Board of Directors of the Company at its Meeting held today has approved the appointment of Shri Shibu Mathews as the Chief Financial Officer of the Company w.e.f. Saturday, 05th September, 2026.” — [2026-09-06 General Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_06092026000014_Intimation.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/TEXRAIL_31082026225104_KKRSIRREgn.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEXRAIL_ROID_97555_KMP_Doc.zip) · +1 more
+- In the documents: “the Board of Directors of the Company at its Meeting held today has approved the appointment of Shri Shibu Mathews as the Chief Financial Officer of the Company w.e.f. Saturday, 05th September, 2026 .” — [2026-09-06 General Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_06092026000014_Intimation.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/TEXRAIL_31082026225104_KKRSIRREgn.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEXRAIL_ROID_97555_KMP_Doc.zip) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-09-06 General Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_06092026000014_Intimation.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/TEXRAIL_31082026225104_KKRSIRREgn.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEXRAIL_ROID_97555_KMP_Doc.zip) · [2026-07-14 Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_14072026194156_TexRailSEIntimationMrKKRResignationv1.pdf)
+*All 5 filing(s) read for the seats:* [2026-09-06 General Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_06092026000014_Intimation.pdf) · [2026-08-31 Resignation](https://nsearchives.nseindia.com/corporate/TEXRAIL_31082026225104_KKRSIRREgn.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEXRAIL_ROID_97555_KMP_Doc.zip) · [2026-07-14 Updates](https://nsearchives.nseindia.com/corporate/TEXRAIL_14072026194156_TexRailSEIntimationMrKKRResignationv1.pdf) · [2025-09-22 Updates](https://nsearchives.nseindia.in/corporate/TEXRAIL_22092025175237_Texrailoutcomeagm.pdf)
 
 ### 2. Financials — the last three years
 
@@ -57,15 +57,15 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Shibu Mathews** — Chief Financial Officer. from: external; experience: 26 years; qualifications: Chartered Accountant.
+**Shibu Mathews** — Chief Financial Officer. from: external; experience: 26 years of experience in finance leadership roles; qualifications: Chartered Accountant.
 
 The filing's own profile: “Shibu Mathews is a Chartered Accountant with 26 years of experience in finance leadership roles across large Indian and multinational organisations, including MRF Ltd., Bharti Airtel and ITC Ltd. He has extensive expertise in Corporate Treasury, Financial Planning & Strategy, Business Finance, Risk Management, Working Capital, Capital Allocation and Internal Controls. His experience also includes Manufacturing Finance, Project implementation, Supply Chain management, ERP and automation projects.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| finance leadership roles | MRF Ltd. | — | — |
-| finance leadership roles | Bharti Airtel (BHARTIARTL) | — | — |
-| finance leadership roles | ITC Ltd. | — | — |
+| — | MRF Ltd. | — | — |
+| — | Bharti Airtel (BHARTIARTL) | — | — |
+| — | ITC Ltd. | — | — |
 
 ### 5. On the calls
 

@@ -11,9 +11,9 @@
 | **Chief Executive Officer (‘CEO’) of the Company designated as a Key Managerial Personnel (KMP)** | Monu Ratra (resignation; last day 2026-01-31) | — not named | seat vacant — no successor named | 2026-01-19 |
 
 - **Why Monu Ratra is leaving, in the filing's words:** “He has resigned from the position of CEO of the Company pursuant to his desire to pursue an entrepreneurial path.”
-- In the documents: “His resignation as CEO (KMP) is effective from January 19, 2026 and his last working day will be at the close of business hours on January 31, 2026.” — [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf)
+- In the documents: “His resignation as CEO (KMP) is effective from January 19, 2026 and his last working day will be at the close of business hours on January 31, 2026.” — [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf) · [2025-10-09 Press Release](https://nsearchives.nseindia.in/corporate/CGCL_09102025180410_CL_Press_Release_CEOAppointment_Signed.pdf) · [2025-10-04 Appointment](https://nsearchives.nseindia.in/corporate/CGCL_04102025140416_Outcome_of_Board_Meeting_04Oct_25.pdf) · +1 more
 
-*All 1 filing(s) read for the seats:* [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf)
+*All 7 filing(s) read for the seats:* [2026-01-19 Resignation](https://nsearchives.nseindia.com/corporate/CGCL_19012026160631_Intimation_ResignationofCEO.pdf) · [2025-10-09 Press Release](https://nsearchives.nseindia.in/corporate/CGCL_09102025180410_CL_Press_Release_CEOAppointment_Signed.pdf) · [2025-10-04 Appointment](https://nsearchives.nseindia.in/corporate/CGCL_04102025140416_Outcome_of_Board_Meeting_04Oct_25.pdf) · [2025-10-04 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CGCL_04102025140517_Outcome_of_Board_Meeting_04Oct_25.pdf) · [2025-08-08 Updates](https://nsearchives.nseindia.in/corporate/CGCL_08082025181314_CGCL_Financials.pdf) · [2025-08-01 Resignation](https://nsearchives.nseindia.in/corporate/CGCL_01082025143834_Reg30_CFOAppt.pdf) · +1 more
 
 ### 2. Financials — the last three years
 

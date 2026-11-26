@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman & Managing Director** | Sukhmal Chand Jain (last day 2025-12-23) | Saleem Ahmad (government appointee; from 2025-12-23) | effective | 2025-12-23 |
+| **Chairman & Managing Director** | Sukhmal Chand Jain (last day 2025-12-23) | Saleem Ahmad (external; from 2025-12-23) | effective | 2025-12-23 |
 | **Director (Finance)** | Abhishek Kumar (last day 2026-09-30) | Neeti Sarkar (interim; internal; from 2026-09-30) | effective | 2026-09-29 |
 
 - **Why Sukhmal Chand Jain is leaving, in the filing's words:** “Cessation of Shri Sukhmal Chand Jain (DIN: 07564584) as Chairman & Managing Director of the Company w.e.f. 23.12.2025 (A/N).”
-- In the documents: “Shri Saleem Ahmad (DIN: 10119432), Directo r (Projects)/NBCC (India) Ltd. has assumed the charge as Ch airman & Managing Director of Rail Vikas Nigam Limited w.e.f. 23.12.2025 (A/N).” — [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/RVNL_23122025191548_ChangeinMgt23122025.pdf) · +1 more
+- In the documents: “Shri Saleem Ahmad (DIN: 10119432), Director (Projects)/NBCC (India) Ltd. has assumed the charge as Chairman & Managing Director of Rail Vikas Nigam Limited w.e.f. 23.12.2025 (A/N).” — [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/RVNL_23122025191548_ChangeinMgt23122025.pdf) · [2025-12-23 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_23122025191755_ChangeinMgt23122025.pdf) · +1 more
 - **Why Abhishek Kumar is leaving, in the filing's words:** “Therefore, Shri Abhishek Kumar ceased to be a Director (Finance) on the Board of Rail Vikas Nigam Limited w.e.f. 30.09.2026.”
-- In the documents: “Pursuant to the Ministry of Railways Order no. 2016/E(O)II/40/15 dated 29th September, 2026, Smt. Neeti Sarkar (DIN: 11978693) has assumed the additional charge of the post of Director (Finance), RVNL w.e.f. 30th September, 2026 (i.e. date of allotment of DIN) in addition to her own until further orders.” — [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-09-29 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_29092026180956_Covering29092026.pdf) · [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · +1 more
+- In the documents: “In this regard, it is to inform that in accordance with applicable provisions of Companies Act, 2013, the Board of Directors of RVNL has approved the appointment of Smt. Neeti Sarkar (DIN: 11978693) as Director (Finance) & Key Managerial Personnel (KMP) w.e.f. 30th September, 2026 (date of allotment of DIN).” — [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-09-29 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_29092026180956_Covering29092026.pdf) · [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-06 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_06102026182408_Covering06102026.pdf) · [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-09-29 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_29092026180956_Covering29092026.pdf) · [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/RVNL_23122025191548_ChangeinMgt23122025.pdf) · [2025-12-23 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_23122025191755_ChangeinMgt23122025.pdf)
+*All 10 filing(s) read for the seats:* [2026-10-06 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_06102026182408_Covering06102026.pdf) · [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RVNL_30092026164406_Covering30092026.pdf) · [2026-09-29 General Updates](https://nsearchives.nseindia.com/corporate/RVNL_29092026180956_Covering29092026.pdf) · [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_14082026182908_Covering14082026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/RVNL_23122025191548_ChangeinMgt23122025.pdf) · [2025-12-23 Appointment](https://nsearchives.nseindia.com/corporate/RVNL_23122025191755_ChangeinMgt23122025.pdf) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -44,27 +44,27 @@
 
 ### 3. Track record — the outgoing management
 
-**Sukhmal Chand Jain** — Chairman & Managing Director, in the seat since FY2026 per the annual reports on file.
+**Sukhmal Chand Jain** — Chairman & Managing Director, in the seat since FY2026 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
-**Abhishek Kumar** — Director (Finance), date of taking the seat not on file.
+**Abhishek Kumar** — Director (Finance), in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 15,404 | 20,412 | +5.8% a year over 5 years |
-| Operating profit (₹ cr) | 880 | 767 | -2.7% a year over 5 years |
-| PAT (₹ cr) | 992 | 871 | -2.6% a year over 5 years |
-| Operating profit margin (%) | 5.7 | 3.8 | -1.9 pts |
-| ROCE (%) | 16.0 | — | — |
-| ROE (%) | 17.6 | 8.9 | -8.7 pts |
-| Borrowings (₹ cr) | 5,931 | 4,818 | -1,113 |
+| Sales (₹ cr) | 19,923 | 20,412 | +2.5% a year over 1 year |
+| Operating profit (₹ cr) | 1,125 | 767 | -31.8% a year over 1 year |
+| PAT (₹ cr) | 1,282 | 871 | -32.1% a year over 1 year |
+| Operating profit margin (%) | 5.6 | 3.8 | -1.8 pts |
+| ROCE (%) | 11.0 | — | — |
+| ROE (%) | 13.4 | 8.9 | -4.5 pts |
+| Borrowings (₹ cr) | 5,419 | 4,818 | -601 |
 
 ### 4. Track record — the incoming management
 
-**Saleem Ahmad** — Chairman & Managing Director. from: government appointee; experience: over 35 years of extensive experience in the construction sector; qualifications: He holds a degree in Civil Engineering from Jamia Millia Islamia University, New Delhi.
+**Saleem Ahmad** — Chairman & Managing Director. from: external; experience: over 35 years; qualifications: He holds a degree in Civil Engineering from Jamia Millia Islamia University, New Delhi.
 
 The filing's own profile: “Shri Saleem Ahmad has assumed the charge of Chairman & Managing Director of Rail Vikas Nigam Limited on 23.12.2025. Earlier, he was working as Director (Project) at NBCC (India) Ltd. He holds a degree in Civil Engineering from Jamia Millia Islamia University, New Delhi and brings over 35 years of extensive experience in the construction sector. His background encompasses the execution of largescale infrastructure projects, with specialised expertise in bridges, tunnels, as well as residential and commercial developments. Prior to joining NBCC, Shri Saleem Ahmad served as Executive Director (Civil) at Delhi Metro Rail Corporation Ltd. and previously held a position at Mumbai Port Trust.”
 
@@ -80,10 +80,10 @@ The filing's own profile: “Smt. Neeti Sarkar is an IRAS Officer of the 1994 ex
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Principal Executive Director (Finance) | Rail Vikas Nigam Limited (RVNL) | — | — |
 | DRM, Nanded | Indian Railways | — | — |
 | Chief Executive Officer (CEO) & Project Director (PD) | NATRIP under DHI | — | — |
 | Director (Broadcast Content) | Ministry of Information & Broadcasting (MOIB) | — | — |
-| Principal Executive Director (Finance) | Rail Vikas Nigam Limited (RVNL) | — | 2026 |
 
 ### 5. On the calls
 

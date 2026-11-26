@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer** | Hitesh Oberoi (resignation; last day 2026-12-02) | Sanjeev Bikhchandani (internal; from 2026-12-03) | announced, not yet effective | 2026-10-28 |
+| **Managing Director and Chief Executive Officer (incoming designated 'Executive Vice Chairman, Managing Director and Group Chief Executive Officer')** | Hitesh Oberoi (resignation; last day 2026-12-02) | Sanjeev Bikhchandani (internal; from 2026-12-03) | announced, not yet effective | 2026-10-28 |
 | **Whole-time Director and Chief Financial Officer** | Ambarish Raghuvanshi (interim holder replaced; last day 2026-09-16) | Himanshu Agarwal (external; from 2026-09-17) | effective | 2026-06-26 |
 
-- **Why Hitesh Oberoi is leaving, in the filing's words:** “in order to devote more time to his personal interests in education, entrepreneurship, institution building, investing and philanthropy, as well as to spend more time with his family” Stays on as: Additional Director, designated as a Non-Executive, Non-Independent Director under the Promoter Category, with effect from December 3, 2026, subject to the approval of the members.
+- **Why Hitesh Oberoi is leaving, in the filing's words:** “in order to devote more time to his personal interests in education, entrepreneurship, institution building, investing and philanthropy, as well as to spend more time with his family” Stays on as: Additional Director, designated as a Non-Executive, Non-Independent Director under the Promoter Category, with effect from December 3, 2026, subject to approval of the members.
 - In the documents: “The Board has approved the appointment of Mr. Sanjeev Bikhchandani, Founder and Vice Chairman of Info Edge, as Executive Vice Chairman, Managing Director and Group Chief Executive Officer, with effect from December 3, 2026, subject to shareholders’ approval.” — [2026-10-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135116_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135445_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135727_IEIL_SE_Intimation_MD_and_CEO.pdf) · +1 more
-- **Why Ambarish Raghuvanshi is leaving, in the filing's words:** “With Mr. Himanshu Agarwal joining the Company as the Chief Financial Officer & Whole-time Director with effect from September 17, 2026, my tenure as the Interim Chief Financial Officer wi II accordingly conclude” Stays on as: Finance Advisor and Senior Management Personnel till October 31, 2026.
-- In the documents: “Mr. Himanshu Agarwal will assume office as the CFO and KMP of the Company with effect from September 17, 2026.” — [2026-06-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026200452_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · [2026-06-26 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026201652_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · [2026-06-26 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026201955_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · +1 more
+- **Why Ambarish Raghuvanshi is leaving, in the filing's words:** “my tenure as the Interim Chief Financial Officer wi II accordingly conclude with effect from the close of business hours on September 16, 2026” Stays on as: Finance Advisor and Senior Management Personnel till October 31, 2026.
+- In the documents: “Consequent to Mr. Himanshu Agarwal joining the Company as the Chief Financial Officer (KMP) and Additional Director of the Company with effect from September 17, 2026, Mr. Ambarish Raghuvanshi’s tenure as the Interim CFO and KMP of the Company will conclude with effect from the close of business hours on September 16, 2026.” — [2026-06-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026200452_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · [2026-06-26 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026201652_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · [2026-06-26 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_26062026201955_IEIL_SE_Intimation_Outcome_of_BM26062026.pdf) · +1 more
 
-*All 25 filing(s) read for the seats:* [2026-11-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/NAUKRI2_13112026131839_SE_OutcomeofPostalBallot_Nov2026.pdf) · [2026-10-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135116_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135445_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135727_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026140137_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026140414_IEIL_SE_Intimation_MD_and_CEO.pdf) · +19 more
+*All 32 filing(s) read for the seats:* [2026-11-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/NAUKRI2_13112026131839_SE_OutcomeofPostalBallot_Nov2026.pdf) · [2026-10-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135116_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135445_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026135727_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026140137_IEIL_SE_Intimation_MD_and_CEO.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/NAUKRI2_28102026140414_IEIL_SE_Intimation_MD_and_CEO.pdf) · +26 more
 
 ### 2. Financials — the last three years
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Hitesh Oberoi** — Managing Director and Chief Executive Officer, in the seat since FY2025 per the annual reports on file.
+**Hitesh Oberoi** — Managing Director and Chief Executive Officer (incoming designated 'Executive Vice Chairman, Managing Director and Group Chief Executive Officer'), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -74,27 +74,24 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Sanjeev Bikhchandani** — Managing Director and Chief Executive Officer. from: internal.
-
-The filing's own profile: ““We are pleased that Sanjeev, the Founder and Vice Chairman, has agreed to take on expanded responsibilities as Executive Vice Chairman, Managing Director and Group Chief Executive Officer. As Founder, Sanjeev brings a deep understanding of Info Edge’s businesses, culture and values, together with a strong entrepreneurial orientation and a long-term perspective on value creation. Sanjeev has played a leading role in shaping Info Edge since its inception, including in building the Company’s investment portfolio, several investments from which have subsequently grown into independent listed companies.””
+**Sanjeev Bikhchandani** — Managing Director and Chief Executive Officer (incoming designated 'Executive Vice Chairman, Managing Director and Group Chief Executive Officer'). from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Direcor and Vice-Chairman | Info Edge (India) Limited (NAUKRI) | — | 2026 |
-| Founder | Info Edge (India) Limited (NAUKRI) | — | — |
+| Founder and Vice Chairman / Executive Director and Vice-Chairman | Info Edge (India) Limited (NAUKRI) | — | 2026 |
 
 **Himanshu Agarwal** — Whole-time Director and Chief Financial Officer. from: external; experience: over three decades of experience in finance leadership; qualifications: He is a qualified Chartered Accountant, Company Secretary and Cost and Management Accountant..
 
-The filing's own profile: “Mr. Himanshu Agarwal has over three decades of experience in finance leadership, corporate governance, mergers and acquisitions, and business transformation across listed organisations in India and internationally. Mr. Agarwal has held senior finance leadership positions at ICI India Limited, AstraZeneca Pharma India Limited, AkzoNobel India Limited (where he also served as Whole Time Director), Huhtamaki Oyj (Flexible Packaging Division), Bennett, Coleman and Co. Limited (Times Group), and is currently serving as Whole Time Director and Chief Financial Officer of Cohance Lifesciences Limited. Mr. Agarwal has been recognised for his contributions to the finance profession, including being conferred the Best CFO Award by the Institute of Chartered Accountants of India and being recognised among the Top 100 India CFOs by the CFO Institute.”
+The filing's own profile: “Mr. Himanshu Agarwal has over three decades of experience in finance leadership, corporate governance, mergers and acquisitions, and business transformation across listed organisations in India and internationally. Mr. Agarwal has held senior finance leadership positions at ICI India Limited, AstraZeneca Pharma India Limited, AkzoNobel India Limited (where he also served as Whole Time Director), Huhtamaki Oyj (Flexible Packaging Division), Bennett, Coleman and Co. Limited (Times Group), and is currently serving as Whole Time Director and Chief Financial Officer of Cohance Lifesciences Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | senior finance leadership position | ICI India Limited | — | — |
 | senior finance leadership position | AstraZeneca Pharma India Limited | — | — |
-| Whole Time Director | AkzoNobel India Limited | — | — |
+| senior finance leadership position; also served as Whole Time Director | AkzoNobel India Limited | — | — |
 | senior finance leadership position | Huhtamaki Oyj (Flexible Packaging Division) | — | — |
 | senior finance leadership position | Bennett, Coleman and Co. Limited (Times Group) | — | — |
-| Whole Time Director and Chief Financial Officer | Cohance Lifesciences Limited (COHANCE) | — | — |
+| Whole Time Director and Chief Financial Officer | Cohance Lifesciences Limited (COHANCE) | — | 2026 |
 
 Results of **Cohance Lifesciences Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
 

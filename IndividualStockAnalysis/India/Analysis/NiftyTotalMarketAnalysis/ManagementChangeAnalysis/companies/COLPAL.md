@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Managing Director and Chief Executive Officer** | Prabha Narasimhan (moved to another role in the company or group; last day 2026-09-27) | Manish Anandani (external; from 2026-09-28) | effective | 2026-08-21 |
 
-- **Why Prabha Narasimhan is leaving, in the filing's words:** “pursuant to my promotion as the Executive Vice President - Marketing, Asia-Pacific Division of Colgate-Palmolive, I hereby resign from the position of Managing Director & CEO of Colgate-Palmolive (India) Limited” Stays on as: Executive Vice President - Marketing, Asia-Pacific Division of Colgate-Palmolive.
+- **Why Prabha Narasimhan is leaving, in the filing's words:** “pursuant to my promotion as the Executive Vice President - Marketing, Asia-Pacific Division of Colgate-Palmolive, I hereby resign from the position of Managing Director & CEO of Colgate-Palmolive (India) Limited with effect from close of business on September 27, 2026” Stays on as: Executive Vice President - Marketing, Asia-Pacific Division of Colgate-Palmolive.
 - In the documents: “Based on the recommendation of the Nomination and Remuneration Committee, approved the appointment of Mr. Manish Anandani (DIN: 07257875) as the Managing Director and Chief Executive Officer of the Company for a period of 5 (five) consecutive years effective September 28, 2026, in succession to Ms. Prabha Narasimhan.” — [2026-08-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/COLPALS_21082026085728_SEOutcomeAug2026.pdf) · [2026-08-21 Cessation](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090256_SEOutcomeAug2026.pdf) · [2026-08-21 Appointment](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090312_SEOutcomeAug2026.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-10-22 Resignation](https://nsearchives.nseindia.com/corporate/COLPALS_22102026165843_SubmissiontoSEocr.pdf) · [2026-10-22 Appointment](https://nsearchives.nseindia.com/corporate/COLPALS_22102026165902_SubmissiontoSEocr.pdf) · [2026-10-22 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COLPAL_ROID_101207_KMP_Doc.zip) · [2026-08-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/COLPALS_21082026085728_SEOutcomeAug2026.pdf) · [2026-08-21 Cessation](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090256_SEOutcomeAug2026.pdf) · [2026-08-21 Appointment](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090312_SEOutcomeAug2026.pdf) · +1 more
+*All 8 filing(s) read for the seats:* [2026-10-22 Resignation](https://nsearchives.nseindia.com/corporate/COLPALS_22102026165843_SubmissiontoSEocr.pdf) · [2026-10-22 Appointment](https://nsearchives.nseindia.com/corporate/COLPALS_22102026165902_SubmissiontoSEocr.pdf) · [2026-10-22 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COLPAL_ROID_101207_KMP_Doc.zip) · [2026-08-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/COLPALS_21082026085728_SEOutcomeAug2026.pdf) · [2026-08-21 Cessation](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090256_SEOutcomeAug2026.pdf) · [2026-08-21 Appointment](https://nsearchives.nseindia.com/corporate/COLPALS_21082026090312_SEOutcomeAug2026.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -47,17 +47,17 @@
 
 ### 4. Track record — the incoming management
 
-**Manish Anandani** — Managing Director and Chief Executive Officer. from: external; experience: 30 years; qualifications: Mr. Manish Anandani holds a degree in Electronics and an MBA in Marketing. Mr. Anandani also holds an Executive MBA (Leadership) from the Tuck School of Business, USA..
+**Manish Anandani** — Managing Director and Chief Executive Officer. from: external; experience: 30 years of rich and varied experience across sales, marketing, general management and senior leadership roles; qualifications: Mr. Manish Anandani holds a degree in Electronics and an MBA in Marketing. Mr. Anandani also holds an Executive MBA (Leadership) from the Tuck School of Business, USA..
 
-The filing's own profile: “Mr. Manish Anandani brings 30 years of rich and varied experience across sales, marketing, general management and senior leadership roles. Mr. Anandani joins us from Kenvue (erstwhile Johnson & Johnson Consumer Health) where he was the Managing Director for India and South Asia. An expert in enterprise strategy, digital & eCommerce transformation and market expansion across developed and emerging economies, Mr. Manish Anandani has held multiple roles within Kenvue, including Managing Director of Johnson & Johnson Philippines and VP Sales & Professional Marketing for India.”
+The filing's own profile: “Mr. Manish Anandani brings 30 years of rich and varied experience across sales, marketing, general management and senior leadership roles. Mr. Anandani joins us from Kenvue (erstwhile Johnson & Johnson Consumer Health) where he was the Managing Director for India and South Asia. An expert in enterprise strategy, digital & eCommerce transformation and market expansion across developed and emerging economies, Mr. Manish Anandani has held multiple roles within Kenvue, including Managing Director of Johnson & Johnson Philippines and VP Sales & Professional Marketing for India. Mr. Manish Anandani had originally joined Colgate-Palmolive (CP) in 2005 as Regional Manager and rose through multiple roles in India, Indochina and Corporate office before leaving CP in 2018.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director for India and South Asia | Kenvue (erstwhile Johnson & Johnson Consumer Health) | — | — |
 | Managing Director | Johnson & Johnson Philippines | — | — |
-| VP Sales & Professional Marketing for India | Johnson & Johnson | — | — |
+| VP Sales & Professional Marketing for India | Johnson & Johnson / Kenvue India | — | — |
 | Regional Manager | Colgate-Palmolive (CP) | 2005 | — |
-| World Wide Director in the Global Customer Development function | Colgate-Palmolive (CP) | — | 2018 |
+| World Wide Director, Global Customer Development function | Colgate-Palmolive (CP) | — | 2018 |
 
 ### 5. On the calls
 

@@ -21,15 +21,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman-cum-Managing Director (CMD)** | — (new seat) | Hitesh Rameshchandra Joshi (internal; from 2026-06-16) | effective | 2026-06-16 |
+| **Chairman-cum-Managing Director (CMD)** | Ramaswamy Narayanan (retirement; last day 2025-09-30) | Hitesh Rameshchandra Joshi (government appointee; from 2026-06-16) | effective | 2026-06-16 |
 | **Chief Financial Officer (CFO) and Key Managerial Person** | V. Balkrishna (resignation; last day 2026-06-18) | Rajesh Laheri (internal; from 2026-06-18) | effective | 2026-05-15 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
+- **Why Ramaswamy Narayanan is leaving, in the filing's words:** “the term of Shri Ramaswamy Narayanan in the Corporation has been completed on attaining superannuation on 30th September 2025”
 - In the documents: “The effective date of assumption of charge of Shri Hitesh Rameshchandra Joshi as CMD, GIC Re is 16th June 2026.” — [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_22092026151843_signedSEIntimationProceedingsof54thAGM.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_31082026233538_IntimationtoSENoticeofAGM20252026.pdf) · [2026-06-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/GICRE_16062026191559_SEIntimationofappointmentofCMDMrHiteshJoshiSIGNED.pdf) · +1 more
-- **Why V. Balkrishna is leaving, in the filing's words:** “I am availing voluntary retirement under the Corporation's Voluntary Retirement Scheme(VRS) due to personal reasons and hence would not be able to continue to discharge my functions as Chief Financial Officer of the Corporation.” Stays on as: part of the Senior Management in the capacity of General Manager of the Corporation.
-- In the documents: “With reference to our earlier intimation Ref. No.: GIC -HO/BOARD/SE -CFO/47/2026 -27 dated 15th May 2026, we hereby inform that, Mr. Rajesh Laheri , Deputy General Manager has taken charge as Chief Financial Officer and Key Managerial Personnel of the Corporation with effect from 18th June 2026 .” — [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/GICRE_18062026182011_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/GICRE_18062026182236_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GICRE_ROID_90090_KMP_Doc.zip) · +1 more
+- **Why V. Balkrishna is leaving, in the filing's words:** “voluntary retirement under the Corporation's Voluntary Retirement Scheme(VRS) due to personal reasons” Stays on as: General Manager of the Corporation, part of the Senior Management.
+- In the documents: “we hereby inform that, Mr. Rajesh Laheri, Deputy General Manager has taken charge as Chief Financial Officer and Key Managerial Personnel of the Corporation with effect from 18th June 2026.” — [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/GICRE_18062026182011_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/GICRE_18062026182236_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GICRE_ROID_90090_KMP_Doc.zip) · +1 more
 
-*All 11 filing(s) read for the seats:* [2026-11-20 Change in Director(s)](https://nsearchives.nseindia.in/corporate/GICRE_20112026005942_SEIntimationofDirectors191126.pdf) · [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_22092026151843_signedSEIntimationProceedingsof54thAGM.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_31082026233538_IntimationtoSENoticeofAGM20252026.pdf) · [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/GICRE_18062026182011_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/GICRE_18062026182236_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GICRE_ROID_90090_KMP_Doc.zip) · +5 more
+*All 14 filing(s) read for the seats:* [2026-11-20 Change in Director(s)](https://nsearchives.nseindia.in/corporate/GICRE_20112026005942_SEIntimationofDirectors191126.pdf) · [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_22092026151843_signedSEIntimationProceedingsof54thAGM.pdf) · [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GICRE_31082026233538_IntimationtoSENoticeofAGM20252026.pdf) · [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/GICRE_18062026182011_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/GICRE_18062026182236_EffectivedateoftakingchargeShriRajeshLaheriCFO18062026signed.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GICRE_ROID_90090_KMP_Doc.zip) · +8 more
 
 ### 2. Financials — the last three years
 
@@ -59,6 +59,20 @@
 
 **President of India, acting through the Ministry of Finance, Government of India** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 82.4% → 77.4%.
 
+**Ramaswamy Narayanan** — Chairman-cum-Managing Director (CMD), in the seat since FY2024 per the annual reports on file.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2023 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 46,638 | 49,617 | +3.1% a year over 2 years |
+| Operating profit (₹ cr) | 6,929 | 8,797 | +12.7% a year over 2 years |
+| PAT (₹ cr) | 6,907 | 7,432 | +3.7% a year over 2 years |
+| Operating profit margin (%) | 14.9 | 17.7 | +2.8 pts |
+| ROCE (%) | 20.0 | 13.0 | -7.0 pts |
+| ROE (%) | 15.3 | 12.1 | -3.2 pts |
+| Borrowings (₹ cr) | 0.0 | 0.0 | +0 |
+
 **V. Balkrishna** — Chief Financial Officer (CFO) and Key Managerial Person, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
@@ -75,14 +89,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Hitesh Rameshchandra Joshi** — Chairman-cum-Managing Director (CMD). from: internal; qualifications: post-graduate in Accountancy from Mumbai University and holds a master's degree in financial management from the Jamnalal Bajaj Institute of Management Studies. He is also a Fellow of the Insurance Institute of India.
+**Hitesh Rameshchandra Joshi** — Chairman-cum-Managing Director (CMD). from: government appointee; qualifications: post-graduate in Accountancy from Mumbai University and holds a master's degree in financial management from the Jamnalal Bajaj Institute of Management Studies. He is also a Fellow of the Insurance Institute of India.
 
 The filing's own profile: “Shri Hitesh Rameshchandra Joshi is a post-graduate in Accountancy from Mumbai University and holds a master's degree in financial management from the Jamnalal Bajaj Institute of Management Studies. He is also a Fellow of the Insurance Institute of India. Over the course of his career in Corporation, He has undertaken a diverse range of assignments across all key functions, including reinsurance (both domestic and international inward business), retrocession, finance, Enterprise Risk Management, budgetary control and strategic planning, internal audit, credit rating, investor relations, and also served as Executive Assistant to the Chairman and Managing Director of the Corporation.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director (ED) | General Insurance Corporation of India (GIC Re) | — | 2026 |
-| Executive Assistant to the Chairman and Managing Director of the Corporation | General Insurance Corporation of India (GIC Re) | — | — |
+| Executive Assistant to the Chairman and Managing Director | General Insurance Corporation of India (GIC Re) | — | — |
 
 **Rajesh Laheri** — Chief Financial Officer (CFO) and Key Managerial Person. from: internal; qualifications: Associate Member of Institute of Chartered Accountants of India, Final Pass of Institute of Company Secretaries of India and the Institute of Cost and Works Accountants of India as well as a Fellow Member of Insurance Institute of India.
 
@@ -90,8 +104,9 @@ The filing's own profile: “Mr. Rajesh Laheri joined GIC Re in April 1998 as a 
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Deputy General Manager, in charge of General Accounts and Taxation Department | General Insurance Corporation of India (GIC Re) | 1998 | 2026 |
+| Deputy General Manager, in charge of General Accounts and Taxation Department | GIC Re | — | 2026 |
 | handled Finance, IT and other functions | GIC Re's London branch | — | — |
+| Direct Recruit officer | GIC Re | 1998 | — |
 
 ### 5. On the calls
 

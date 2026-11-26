@@ -6,37 +6,37 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Bain Capital affiliates BC Asia Investments XXV and XIV subscribed to a ~Rs 4,385 crore preferential issue of shares and warrants at Rs 236, and after a mandatory open offer that drew nil tenders, acquired joint control on April 21, 2026, becoming promoters alongside the Nandakumar family; the board was reconstituted.
+**Ownership — Change of control — completed.** Bain Capital affiliates BC Asia Investments XXV and XIV subscribed to a ₹4,385 crore preferential issue of shares and warrants at ₹236, and after RBI approvals and a nil-tender open offer, acquired control on April 21, 2026, becoming promoters jointly with the Nandakumar family; six independent directors resigned and two Bain nominees joined.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | V.P. Nandakumar, Sushama Nandakumar (Existing Promoters), with Sumitha Nandan, Suhas Nandan, Sooraj Nandan (Specified Promoter and Promoter Group) | founder family | 35.25% (promoter and group, 2025-09-30) | 31.77% (promoter and group, 2026-03-31); existing promoters 28.9% on a fully diluted basis |
-| Incoming | BC Asia Investments XXV Limited and BC Asia Investments XIV Limited (affiliates of Bain Capital), with persons acting in concert including Bain Capital Asia Fund V, L.P. | private-equity fund | — | 9,29,01,373 equity shares representing 9.89% of current equity share capital, and 18.00% on a fully diluted basis; approved for up to 41.66% of paid-up equity capital |
+| Outgoing | V.P. Nandakumar, Sushama Nandakumar, Sumitha Nandan, Suhas Nandan, Sooraj Nandan (existing promoters) — remain as co-promoters, diluted | founder family | 35.25% | 28.9% on a fully diluted basis |
+| Incoming | BC Asia Investments XXV Limited and BC Asia Investments XIV Limited (affiliates of Bain Capital) | private-equity fund | — | 9,29,01,373 equity shares representing 9.89% of current equity capital; 18.00% fully diluted, and "Bain Capital will hold between 18.0% and 41.66% shareholding in the Company on a fully diluted basis" |
 
 - mode: preferential issue · price INR 236.00 · deal value approximately ₹4,385 crore · control changes
-- Open offer: price INR236 (per earnings call: "this open offer will be - was priced at INR236"), size up to 24,42,27,387 equity shares representing 26.00% of the expanded voting share capital, status completed
-- Management changing with it: On May 5, 2026 six Non-Executive Independent Directors resigned (Abhijit Sen, Pratima Ram, V P Seemandini, T C Suseel Kumar, E K Bharat Bhushan, Sankaran Nair Rajagopal), each stating the resignation was pursuant to the SSA/SHA under which the Company agreed to reconstitute the Board. Rishi Mandawat and Ashish Arvind Kotecha were appointed as Non-Executive Non-Independent Directors nominated by the Investors; four new Independent Directors (Rosemary Sebastian, Rajesh Kumar Rathanchand, Vijayaraghavan Balaji, Rakesh Induprasad Bhatt) were appointed; Dr. Sumitha Nandan was redesignated Executive Director and Vice-Chairperson; Bindu A.L. ceased to be CFO and Buvanesh Tharashankar became CFO. Special rights of the Investors and V.P. Nandakumar and Sushama Nandakumar under the amended articles became effective.
-- Dates: agreement 2025-03-20; public announcement 2025-03-20; approval 2026-02-13; approval 2026-03-18; other 2026-03-27; other 2026-04-20; completion 2026-04-21; other 2026-05-05
-- In the documents: “Pursuant to the proposed transaction and completion of the open offer, Bain Capital will be classified as a promoter of the Company and will jointly control the Company along with the existing promoters.”
+- Open offer: price INR 236.00, size up to 24,42,27,387 equity shares representing 26.00% of the expanded voting share capital, status completed
+- Management changing with it: On May 5, 2026 six Non-Executive Independent Directors (Abhijit Sen, Pratima Ram, V P Seemandini, T C Suseel Kumar, E K Bharat Bhushan, Sankaran Nair Rajagopal) resigned pursuant to the SSA/SHA board-reconstitution terms; Rishi Mandawat and Ashish Arvind Kotecha were appointed as Investor-nominated Non-Executive Non-Independent Directors, plus four new Independent Directors (Rosemary Sebastian, Rajesh Kumar Rathanchand, Vijayaraghavan Balaji, Rakesh Induprasad Bhatt). Dr. Sumitha Nandan became Executive Director and Vice-Chairperson; Bindu A.L. ceased to be CFO and Buvanesh Tharashankar became CFO. Special rights of the Investors and V.P. Nandakumar and Sushama Nandakumar under the amended articles became effective.
+- Dates: agreement 2025-03-20; public announcement 2025-03-20; approval 2026-02-13; approval 2026-03-18; other 2026-03-25; preferential allotment of shares and warrants 2026-03-27; open offer tendering period concludes with NIL tenders 2026-04-20; completion 2026-04-21; board reconstitution 2026-05-05
+- In the documents: “Pursuant to Regulations 30 and 51 read with Schedule III of the Listing Regulations, we hereby inform you that following the conclusion of the tendering period for the Open Offer on April 20, 2026, where there were 'NIL' tenders in the Open Offer, on and from today i.e. April 21, 2026 pursuant to completion of the preferential issue of equity shares and warrants to Investor 1 and Investor 2, respectively, on March 27, 2026 in accordance with the terms of the securities subscription agreement dated March 20, 2025 ... the Investors have acquired control of the Company and have become 'promoters' of the Company along with the Existing Promoters in accordance with and subject to the terms in the SSA, SHA and the provisions of the Listing Regulations.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 35.25% (2025-09-30) → 35.25% (2025-12-31) → 31.77% (2026-03-27) → 31.77% (2026-03-31) → 41.66% (2026-06-30) → 41.66% (2026-09-30)
 
-*Filings read for the ownership:* [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · [2026-05-05 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026105428_Reg30final.pdf) · [2026-05-05 General Updates](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026131525_Reg30final2NEW1.pdf) · [2026-04-21 General Updates](https://nsearchives.nseindia.com/corporate/MANAPPURAM_21042026171227_Open_Offer_Close.pdf) · [2026-03-30 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_30032026164149_30032026105104_disc.pdf) · +5 more
+*Filings read for the ownership:* [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · [2026-05-05 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026105428_Reg30final.pdf) · [2026-05-05 General Updates](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026131525_Reg30final2NEW1.pdf) · [2026-04-21 General Updates](https://nsearchives.nseindia.com/corporate/MANAPPURAM_21042026171227_Open_Offer_Close.pdf) · [2026-03-30 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_30032026164149_30032026105104_disc.pdf) · +6 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company** | V. P. Nandakumar (moved to another role in the company or group; last day 2026-12-31) | Ashish Singh (external; from 2027-01-01) | announced, not yet effective | 2026-08-11 |
-| **Chief Executive Officer and Key Managerial Personnel of the Company** | Deepak Reddy (resignation; last day 2026-12-31) | — not named | announced, not yet effective | 2026-07-03 |
+| **Chief Executive Officer and Key Managerial Personnel of the Company** | Deepak Reddy (resignation; last day 2026-12-31) | Ashish Singh (external; from 2027-01-01) | announced, not yet effective | 2026-07-03 |
 | **Chief Financial Officer of the Company** | Bindu A.L. (moved to another role in the company or group; last day 2026-05-05) | Buvanesh Tharashankar (internal; from 2026-05-05) | effective | 2026-05-05 |
 
 - **Why V. P. Nandakumar is leaving, in the filing's words:** “Continuation of Mr. V.P. Nandakumar as Managing Director and Chairperson of the Company up to December 31, 2026, and his redesignation as Non-Executive Chairperson of the Board with effect from January 1, 2027.” Stays on as: Non-Executive Chairperson of the Board with effect from January 1, 2027.
 - In the documents: “Appointment of Mr. Ashish Singh (DIN: 01768711) as the Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company with effect from January 01, 2027, for a period of five years, subject to the approval of the shareholders of the Company.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · +1 more
 - **Why Deepak Reddy is leaving, in the filing's words:** “to pursue other personal and professional interests”
-- In the documents: “Pursuant to Regulation 30 of the Listing Regulations, we hereby inform that Mr. Deepak Reddy has tendered his resignation from the position of Chief Executive Officer and Key Managerial Personnel of the Company, vide his resignation e-mail dated July 03, 2026, to pursue other personal and professional interests.” — [2026-07-03 Resignation](https://nsearchives.nseindia.com/corporate/MANAPPURAM_03072026172226_Reg30CEOResignationfinal.pdf)
-- **Why Bindu A.L. is leaving, in the filing's words:** “change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026” Stays on as: Head, Finance Center of Excellence and AI (ceases to be Key Managerial Personnel).
+- In the documents: “Pursuant to Regulation 30 of the Listing Regulations, we hereby inform that Mr. Deepak Reddy has tendered his resignation from the position of Chief Executive Officer and Key Managerial Personnel of the Company, vide his resignation e-mail dated July 03, 2026, to pursue other personal and professional interests.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · +1 more
+- **Why Bindu A.L. is leaving, in the filing's words:** “change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026, pursuant to which she shall cease to be Key Managerial Personnel of the Company” Stays on as: Head, Finance Center of Excellence and AI.
 - In the documents: “Approved the change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026, pursuant to which she shall cease to be Key Managerial Personnel of the Company, and Mr. Buvanesh Tharashankar with effect from May 5, 2026 will be the Chief Financial Officer of the Company and will continue as the Group Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · [2026-05-05 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026105428_Reg30final.pdf)
 
-*All 13 filing(s) read for the seats:* [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026181627_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026182243_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026183026_OUTCOMEFINALsigned.pdf) · +7 more
+*All 18 filing(s) read for the seats:* [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026181627_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026182243_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026183026_OUTCOMEFINALsigned.pdf) · +12 more
 
 ### 2. Financials — the last three years
 
@@ -60,7 +60,7 @@
 
 ### 3. Track record — the outgoing management
 
-**V.P. Nandakumar, Sushama Nandakumar (Existing Promoters), with Sumitha Nandan, Suhas Nandan, Sooraj Nandan (Specified Promoter and Promoter Group)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.25% (promoter and group, 2025-09-30) → 31.77% (promoter and group, 2026-03-31); existing promoters 28.9% on a fully diluted basis.
+**V.P. Nandakumar, Sushama Nandakumar, Sumitha Nandan, Suhas Nandan, Sooraj Nandan (existing promoters) — remain as co-promoters, diluted** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.25% → 28.9% on a fully diluted basis.
 
 **V. P. Nandakumar** — Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
 
@@ -74,17 +74,17 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | 38.6 | 16.4 | -22.2 pts |
 | ROE (%) | 23.6 | 6.2 | -17.4 pts |
 
-**Deepak Reddy** — Chief Executive Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
+**Deepak Reddy** — Chief Executive Officer and Key Managerial Personnel of the Company, in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Revenue (₹ cr) | 6,331 | 9,509 | +8.5% a year over 5 years |
-| Financing profit (₹ cr) | 2,443 | 1,561 | -8.6% a year over 5 years |
-| PAT (₹ cr) | 1,725 | 993 | -10.5% a year over 5 years |
-| Financing profit margin (%) | 38.6 | 16.4 | -22.2 pts |
-| ROE (%) | 23.6 | 6.2 | -17.4 pts |
+| Revenue (₹ cr) | 10,012 | 9,509 | -5.0% a year over 1 year |
+| Financing profit (₹ cr) | 1,913 | 1,561 | -18.4% a year over 1 year |
+| PAT (₹ cr) | 1,204 | 993 | -17.5% a year over 1 year |
+| Financing profit margin (%) | 19.1 | 16.4 | -2.7 pts |
+| ROE (%) | 9.7 | 6.2 | -3.5 pts |
 
 **Bindu A.L.** — Chief Financial Officer of the Company, date of taking the seat not on file.
 
@@ -100,11 +100,11 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**BC Asia Investments XXV Limited and BC Asia Investments XIV Limited (affiliates of Bain Capital), with persons acting in concert including Bain Capital Asia Fund V, L.P.** (private-equity fund) — the incoming owner. Holding after: 9,29,01,373 equity shares representing 9.89% of current equity share capital, and 18.00% on a fully diluted basis; approved for up to 41.66% of paid-up equity capital.
+**BC Asia Investments XXV Limited and BC Asia Investments XIV Limited (affiliates of Bain Capital)** (private-equity fund) — the incoming owner. Holding after: 9,29,01,373 equity shares representing 9.89% of current equity capital; 18.00% fully diluted, and "Bain Capital will hold between 18.0% and 41.66% shareholding in the Company on a fully diluted basis".
 
-What the documents say about them: “"affiliates of Bain Capital, namely BC Asia Investments XXV Limited and BC Asia Investments XIV Limited". Nominee directors: "Mr. Rishi Mandawat joined Bain Capital in 2008. He is a partner and leads investment and coverage in the financial services, industrial, energy, technology, media, telecom and pharma sectors." "Mr. Ashish Kotecha is a Partner at Bain Capital Private Equity... He leads their consumer and retail investments in India and Southeast Asia"; Bain Capital's Asia investments include "RSB Transmissions, Manappuram, Dhoot Transmission, Novopor, Emcure Pharmaceuticals, Axis Bank, L&T Finance Holdings Limited and Hero Motocorp in India."”
+What the documents say about them: “"affiliates of Bain Capital, namely BC Asia Investments XXV Limited and BC Asia Investments XIV Limited"; persons acting in concert include BC Asia Investments XXIV, XXVI, XXI, Bain Capital Asia Fund V, L.P., BC Asia V CTB Investors, L.P. and BC Asia V Private Investors, L.P. Nominee Rishi Mandawat is a Bain Capital partner leading financial services, industrial, energy, technology, media, telecom and pharma; Ashish Kotecha is a Partner involved in Bain Capital investments including "RSB Transmissions, Manappuram, Dhoot Transmission, Novopor, Emcure Pharmaceuticals, Axis Bank, L&T Finance Holdings Limited and Hero Motocorp in India."”
 
-**Ashish Singh** — Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company. from: external; experience: over 25 years of experience in the retail banking space.
+**Ashish Singh** — Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company. from: external; experience: over 25 years.
 
 The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 years of experience in the retail banking space, with particular focus on rural lending businesses and retail liabilities. In his latest stint, he has been Head of Retail Liabilities at IDFC FIRST Bank. Previously, he was leading the Bank's Bharat Banking business, overseeing their entire asset product portfolio and branch network. He has also held senior positions at Fullerton India and ICICI Bank, with significant contributions to rural banking, product innovation, and financial inclusion.”
 
@@ -112,6 +112,16 @@ The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 
 |---|---|---|---|
 | Head of Retail Liabilities | IDFC FIRST Bank (IDFCFIRSTB) | — | — |
 | leading the Bank's Bharat Banking business, overseeing their entire asset product portfolio and branch network | IDFC FIRST Bank (IDFCFIRSTB) | — | — |
+| senior positions | Fullerton India | — | — |
+| senior positions | ICICI Bank (ICICIBANK) | — | — |
+
+**Ashish Singh** — Chief Executive Officer and Key Managerial Personnel of the Company. from: external; experience: over 25 years.
+
+The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 years of experience in the retail banking space, with particular focus on rural lending businesses and retail liabilities. In his latest stint, he has been Head of Retail Liabilities at IDFC FIRST Bank. Previously, he was leading the Bank's Bharat Banking business, overseeing their entire asset product portfolio and branch network. He has also held senior positions at Fullerton India and ICICI Bank, with significant contributions to rural banking, product innovation, and financial inclusion.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Head of Retail Liabilities | IDFC FIRST Bank (IDFCFIRSTB) | — | — |
 | senior positions | Fullerton India | — | — |
 | senior positions | ICICI Bank (ICICIBANK) | — | — |
 

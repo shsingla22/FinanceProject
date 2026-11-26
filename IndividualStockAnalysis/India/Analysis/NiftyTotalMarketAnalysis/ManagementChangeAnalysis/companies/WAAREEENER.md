@@ -6,22 +6,22 @@
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Chimanlal Tribhuvandas Doshi gifted 12,69,82,903 shares (44.14%) of Waaree Energies to the C.T. Doshi Family Trust by inter se transfer on 2026-07-16, and on 2026-08-06 gifted 99.9995% of Waaree Sustainable Finance Pvt Ltd (an indirect 18.34%). Total promoter group holding unchanged; Hitesh Chimanlal Doshi is Managing Trustee.
+**Ownership — Within the promoter family / group.** Promoter Chimanlal Tribhuvandas Doshi gifted 44.14% of Waaree Energies (12,69,82,903 shares) to the C.T. Doshi Family Trust by inter se transfer on 2026-07-16, and on 2026-08-06 gifted 99.9995% of promoter company Waaree Sustainable Finance Pvt Ltd, an indirect transfer of a further 18.34%. SEBI exempted it from open offer. Hitesh Chimanlal Doshi is Managing Trustee.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
 | Outgoing | Mr. Chimanlal Tribhuvandas Doshi | founder family | 45.78% | 1.63% |
-| Incoming | C.T. Doshi Family Trust | founder family member | — | 44.14% directly, plus an indirect 18.34% through Waaree Sustainable Finance Private Limited |
+| Incoming | C.T. Doshi Family Trust (Managing Trustee: Hitesh Chimanlal Doshi) | founder family member | — | 44.14% direct, plus 18.34% indirect through Waaree Sustainable Finance Private Limited |
 
-- mode: gift or inheritance · price ₹NA, as the transfer has been carried out by way of an off-market gift of shares · control does not change
-- Why the seller is selling, in their words: “"The said transfer intends to streamline succession and smooth intergenerational transfer of wealth and further promote the welfare of the family"”
-- Dates: other 2026-07-03; other 2026-07-09; completion 2026-07-16; other 2026-07-17; completion 2026-08-06; other 2026-08-07
-- In the documents: “We, C.T. Doshi Family Trust (the “Acquirer Trust”), a member of the Promoter Group of the Target Company, have acquired 12,69,82,903 equity shares, constituting 44.14% of the total equity share capital of the Target Company, by way of gift through an inter se transfer from Mr. Chimanlal Tribhuvandas Doshi.”
+- mode: gift or inheritance · deal value NA, as the transfer has been carried out by way of an off-market gift of shares · control does not change
+- Why the seller is selling, in their words: “The said transfer intends to streamline succession and smooth intergenerational transfer of wealth and further promote the welfare of the family and does not affect the interests of the public shareholders of the Target Company.”
+- Dates: approval 2026-07-03; public announcement 2026-07-09; completion 2026-07-16; other 2026-07-17; completion 2026-08-06; other 2026-08-07
+- In the documents: “We, C.T. Doshi Family Trust (the "Acquirer Trust"), a member of the Promoter Group of the Target Company, have acquired 12,69,82,903 equity shares, constituting 44.14% of the total equity share capital of the Target Company, by way of gift through an inter se transfer from Mr. Chimanlal Tribhuvandas Doshi.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 64.22% (2025-09-30) → 64.22% (2025-12-31) → 64.19% (2026-03-31) → 64.12% (2026-06-30) → 64.12% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 44.14% and bought 88.28%.
 
-*Filings read for the ownership:* [2026-08-07 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_07082026191945_WAAREEENER.pdf) · [2026-07-17 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_17072026192355_WAAREEENER.pdf)
+*Filings read for the ownership:* [2026-08-07 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_07082026191945_WAAREEENER.pdf) · [2026-07-17 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.com/corporate/team_bbodade_17072026192355_WAAREEENER.pdf) · [2025-09-17 Updates](https://nsearchives.nseindia.in/corporate/WAAREE_17092025182620_OFSIntimation_signed.pdf) · [2025-09-09 Updates](https://nsearchives.nseindia.in/corporate/WAAREE_09092025130815_Reclassificationintimation_signed.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**C.T. Doshi Family Trust** (founder family member) — the incoming owner. Holding after: 44.14% directly, plus an indirect 18.34% through Waaree Sustainable Finance Private Limited.
+**C.T. Doshi Family Trust (Managing Trustee: Hitesh Chimanlal Doshi)** (founder family member) — the incoming owner. Holding after: 44.14% direct, plus 18.34% indirect through Waaree Sustainable Finance Private Limited.
 
-What the documents say about them: “"We, C.T. Doshi Family Trust (the “Acquirer Trust”), are holding equity shares of the Target Company and are promoter and member of the Promoter Group of the Target Company." Managing Trustee: Hitesh Chimanlal Doshi. Office at 11th Floor, Commerz 2, Oberoi Garden City, Goregaon, Mumbai. It also holds 99.9995% of Waaree Sustainable Finance Private Limited, "a private limited company and promoter of the Target Company", which holds 5,27,67,331 shares (18.34%) of Waaree Energies.”
+What the documents say about them: “"We, C.T. Doshi Family Trust (the 'Acquirer Trust'), are holding equity shares of the Target Company and are promoter and member of the Promoter Group of the Target Company." Office at 11th Floor, Commerz 2, Oberoi Garden City, Goregaon, Mumbai. Acting through Hitesh Chimanlal Doshi, Managing Trustee. It also acquired 1,99,999 shares (99.9995%) of Waaree Sustainable Finance Private Limited ("WSFPL"), "a private limited company and promoter of the Target Company", which "holds 5,27,67,331 equity shares of the Target Company, constituting 18.34% of the total equity share capital".”
 
 **Jignesh Devchandbhai Rathod** — Whole – Time Director and Chief Executive Officer. from: internal; experience: over 18 years; qualifications: holds a bachelor’s degree of engineering from the Gujarat University, a master’s degree business administration for working executives from SVKM’s NMIMS and also holds a Doctorate (Ph.D.) in Business Administration from the Xavier Institute of Business Management Studies (XIBMS).
 

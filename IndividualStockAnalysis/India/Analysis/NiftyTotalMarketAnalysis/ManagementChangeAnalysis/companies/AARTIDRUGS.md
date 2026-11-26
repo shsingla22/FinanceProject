@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman, Managing Director and Chief Executive Officer (successor appointed as "Managing Director")** | Prakash Moreshwar Patil (retirement; last day 2026-09-30) | Adhish Prakash Patil (promoter family; from 2026-10-01) | effective | 2026-07-31 |
+| **Chairman, Managing Director and Chief Executive Officer** | Prakash Moreshwar Patil (retirement; last day 2026-09-30) | Adhish Prakash Patil (promoter family; from 2026-10-01) | effective | 2026-07-31 |
 | **Chief Financial Officer** | Adhish Prakash Patil (moved to another role in the company or group; last day 2026-09-30) | — not named | seat vacant — no successor named | 2026-09-30 |
 
-- **Why Prakash Moreshwar Patil is leaving, in the filing's words:** “Cessation from the positions of Chairman, Managing Director and Chief Executive Officer of the Company pursuant to his desire to take early retirement.” Stays on as: continues his association with the Company for the purpose of providing guidance, strategic support and smooth transition.
-- In the documents: “Shri Adhish P. Patil has been appointed as Managing Director with effect from October 1, 2026 for the period of five years.” — [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · [2026-09-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_26092026202957_ADL.pdf) · [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_31072026200809_ADL.pdf) · +1 more
+- **Why Prakash Moreshwar Patil is leaving, in the filing's words:** “In his communication to the Board, he expressed his desire to resign on ground of his intention to get early retirement. This is in view of his belief that it's an appropriate time for an orderly leadership transition.” Stays on as: continuing his association with the Company for the purpose of providing guidance, strategic support and smooth transition.
+- In the documents: “Shri Adhish P. Patil has been promoted to the position of Managing Director of the Company with effect from October 1, 2026.” — [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · [2026-09-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_26092026202957_ADL.pdf) · [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_31072026200809_ADL.pdf) · +1 more
 - **Why Adhish Prakash Patil is leaving, in the filing's words:** “Relinquishment of the position of Chief Financial Officer consequent upon his promotion (appointment) as Managing Director of the Company” Stays on as: Managing Director of the Company, continuing to support and oversee the functions under the purview of CFO.
 - In the documents: “Consequently, Shri Adhish P. Patil has relinquished the position of Chief Financial Officer of the Company with effect from the close of business hours on September 30, 2026.” — [2026-11-03 Press Release](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_03112026221548_ADL.pdf) · [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · [2026-09-30 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_ROID_99493_KMP_Doc.zip) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-11-03 Press Release](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_03112026221548_ADL.pdf) · [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · [2026-09-30 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_ROID_99493_KMP_Doc.zip) · [2026-09-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_26092026202957_ADL.pdf) · [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_31072026200809_ADL.pdf) · [2026-07-31 Press Release](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_31072026220726_AARTIDRUGS.pdf)
+*All 7 filing(s) read for the seats:* [2026-11-03 Press Release](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_03112026221548_ADL.pdf) · [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_30092026194916_ADL.pdf) · [2026-09-30 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_ROID_99493_KMP_Doc.zip) · [2026-09-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_26092026202957_ADL.pdf) · [2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_31072026200809_ADL.pdf) · [2026-07-31 Press Release](https://nsearchives.nseindia.com/corporate/AARTIDRUGS_31072026220726_AARTIDRUGS.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Prakash Moreshwar Patil** — Chairman, Managing Director and Chief Executive Officer (successor appointed as "Managing Director"), in the seat since FY2015 per the filing.
+**Prakash Moreshwar Patil** — Chairman, Managing Director and Chief Executive Officer, in the seat since FY2015 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it; the statements on file start later than the tenure):
 
@@ -74,7 +74,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Adhish Prakash Patil** — Chairman, Managing Director and Chief Executive Officer (successor appointed as "Managing Director"). from: promoter family; experience: 21 years of experience; qualifications: He has a Bachelor of Engineering (IT) degree from Mumbai University. He is a gold medallist from the University of Florida's Warrington College of Business Administration with an MBA in Finance and Marketing..
+**Adhish Prakash Patil** — Chairman, Managing Director and Chief Executive Officer. from: promoter family; experience: 21 years; qualifications: He has a Bachelor of Engineering (IT) degree from Mumbai University. He is a gold medallist from the University of Florida's Warrington College of Business Administration with an MBA in Finance and Marketing..
 
 The filing's own profile: “Shri Adhish P. Patil is a proven leader with 21 years of experience in Manufacturing Operations, Finance, Investor Relations, Regulatory Compliance, Consulting, Systems Engineering and Information Technology for the Pharmaceutical and Consulting industries. He has a Bachelor of Engineering (IT) degree from Mumbai University. He is a gold medallist from the University of Florida's Warrington College of Business Administration with an MBA in Finance and Marketing. He has managed production efficiencies, projects, financial operations, ERP implementation, automations for regulatory compliances for a publicly traded pharmaceutical Company. He also has experience in company operations and project management.”
 

@@ -2,44 +2,43 @@
 
 ## NAZARA — Nazara Technologies Ltd.
 
-**Within the promoter family / group · CEO / MD change · CFO change**
+**Large stake change, same controller · CEO / MD change · CFO change**
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Promoter entity Mitter Infotech LLP (Mittersain side) sold 5.19% on the open market while fellow promoter Axana Estates LLP (Sacheti side) bought 3.99%, lifting it to 9.38%. Founder Nitish Mittersain gave up CEO, then Managing Director, becoming Founder/Non-Executive Director; Mithun Sacheti became Executive Director. Promoter total fell to 32% on dilution.
+**Ownership — Large stake change, same controller.** Promoter entities reshuffled and trimmed their holding: Mitter Infotech LLP sold 5.19% in the open market while fellow promoter Axana Estates LLP bought 3.99%. Promoter-group holding slipped from 35.46% to 32.0%, the rest from preferential issues. No new promoter; founder Nitish Mittersain's group still controls, though he moved to a non-executive role.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Mitter Infotech LLP (promoter); Mr. Nitish Mittersain stepping back from executive roles | founder family | 6.08% (Mitter Infotech LLP, before selling 5.19%) | 0.89% (Mitter Infotech LLP) |
-| Incoming | Axana Estates LLP (promoter) / Mr. Mithun Padam Sacheti | other | — | 9.38% (Axana Estates LLP) |
+| Outgoing | Mitter Infotech LLP (promoter) | founder family | 6.08% | 0.89% |
+| Incoming | Axana Estates LLP (promoter) | founder family member | — | 9.38% |
 
-- mode: block or bulk deal · control changes
-- Management changing with it: Mr. Raymond Albaladejo Stauffer appointed CEO (KMP) w.e.f. September 01, 2026; Mr. Nitish Mittersain resigned as CEO from the same date and, on October 12, 2026, was re-designated from Managing Director to Founder and Non-Executive Director, ceasing to be KMP from October 13, 2026. Mr. Mithun Padam Sacheti re-designated Non-Executive Director to Whole-time/Executive Director w.e.f. October 12, 2026. Whole-time Director Mr. Rohit Sharma resigned effective January 11, 2027; CFO Mr. Rakesh Shah resigned effective October 15, 2026, with Mr. Arun Agrawal appointed CFO from October 16, 2026; Mr. Con Anthony Conlon appointed Independent Director (Aug 03, 2026) and Mr. Arun Vijaykumar Gupta resigned as Independent Director (Aug 04, 2026). Mr. Stauffer was also allotted 1,90,67,969 shares in the October 12, 2026 preferential issue at ₹306 per share.
+- mode: block or bulk deal · control does not change
+- Management changing with it: Separate from the share moves, the Board on 2026-08-03 appointed Mr. Raymond Albaladejo Stauffer as CEO (KMP) from 2026-09-01, with Mr. Nitish Mittersain resigning as CEO while continuing as Managing Director; Mr. Con Anthony Conlon joined as Independent Director and Mr. Arun Vijaykumar Gupta resigned. On 2026-10-12 the Board re-designated Mr. Nitish Mittersain from Managing Director to 'Founder and Non-Executive Director' as part of the Company's leadership transition, re-designated Mr. Mithun Padam Sacheti from Non-Executive Director to Whole-time/Executive Director, noted Mr. Rohit Sharma's resignation as Whole-time Director effective 2027-01-11, accepted CFO Mr. Rakesh Shah's resignation and appointed Mr. Arun Agrawal as CFO from 2026-10-16.
 - Dates: block deal 2026-05-20; other 2026-08-03; other 2026-10-12
-- In the documents: “The Board has approved the re -designation of Mr. Mithun Padam Sacheti (DIN:01683592) from Non-Executive Director to Whole -time Director and Key Managerial Personnel and designated as Executive Director of the Company , liable to retire by rotation, with effect from October 12, 2026, subject to the approval of the shareholders of the Company and such other approvals as may be required under applicable laws.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 35.46% (2025-09-30) → 35.46% (2025-12-31) → 35.46% (2026-03-31) → 34.25% (2026-06-30) → 34.06% (2026-07-30) → 33.98% (2026-08-03) → 33.98% (2026-09-30) → 32.0% (2026-10-12)
 **Reg 29 disclosures in the window:** promoters sold 5.19% and bought 3.99%.
 
-*Filings read for the ownership:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026183312_BMOutcomeFinal.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/NAZARA_12102026183945_BMOutcomeFinal.pdf) · [2026-10-12 Allotment of Securities](https://nsearchives.nseindia.com/corporate/NAZARA_12102026184557_BMOutcomeFinal.pdf) · +4 more
+*Filings read for the ownership:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026183312_BMOutcomeFinal.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/NAZARA_12102026183945_BMOutcomeFinal.pdf) · [2026-10-12 Allotment of Securities](https://nsearchives.nseindia.com/corporate/NAZARA_12102026184557_BMOutcomeFinal.pdf) · +5 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman & Managing Director** | Vikash Mittersain (moved to another role in the company or group; last day 2026-05-31) | — not named | seat vacant — no successor named | 2026-05-12 |
-| **Chief Executive Officer (CEO) and Key Managerial Personnel (KMP)** | Nitish Mittersain (moved to another role in the company or group; last day 2026-09-15) | Raymond Albaladejo Stauffer (group company; from 2026-09-16) | effective | 2026-08-03 |
+| **Chairman & Managing Director** | Vikash Mittersain (moved to another role in the company or group; last day 2026-05-31) | Nitish Mittersain (internal; from 2026-06-01) | effective | 2026-05-12 |
+| **Chief Executive Officer (CEO) and Key Managerial Personnel (KMP)** | Nitish Mittersain (resignation; last day 2026-09-15) | Raymond Albaladejo Stauffer (group company; from 2026-09-16) | effective | 2026-08-03 |
 | **Managing Director** | Nitish Mittersain (moved to another role in the company or group; last day 2026-10-12) | — not named | seat vacant — no successor named | 2026-10-12 |
-| **Chief Financial Officer and Key Managerial Personnel** | Rakesh Shah (resignation; last day 2026-10-15) | Arun Agarwal (external; from 2026-10-16) | effective | 2026-10-12 |
+| **Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP')** | Rakesh Shah (resignation; last day 2026-10-15) | Arun Agarwal (external; from 2026-10-16) | effective | 2026-10-12 |
 
 - **Why Vikash Mittersain is leaving, in the filing's words:** “This transition reflects the Company's continued evolution as an institutionalized global gaming platform.” Stays on as: 'Founding Chairman' in the category of Non-Executive Non-Independent Director.
-- In the documents: “Based on the recommendation of the Nomination, Remuneration and Compensation Committee, Audit Committee and subject to the approval of the Members of the Company, the re-designation of Mr. Vikash Mittersain (DIN: 00156740), Chairman & Managing Director as 'Founding Chairman' in the category of Non-Executive Non-Independent Director of the Company with effect from June 01, 2026.” — [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-05-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12052026193139_BMOutcomeFinal2.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12052026194850_BMOutcomeFinal2.pdf) · +1 more
-- **Why Nitish Mittersain is leaving, in the filing's words:** “Mr. Nitish Mittersain, while continuing in his position as Managing Director of the Company, has tendered his resignation from the office of Chief Executive Officer ("CEO") of the Company, with effect from September 01, 2026” Stays on as: Managing Director and Key Managerial Personnel of the Company.
-- In the documents: “Concurrent to the assumption of office by Mr. Raymond Albaladejo Stauffer, Mr. Nitish Mittersain has ceased to hold the position of CEO of the Company with effect from the close of business hours on September 15, 2026 and continues to serve as Managing Director and KMP of the Company.” — [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_03082026215838_OutcomeofBoardMeeting.pdf) · [2026-08-03 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221421_PRIntimation.pdf) · [2026-08-03 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221836_Investorpresentation.pdf) · +1 more
+- In the documents: “Based on the recommendation of the Nomination, Remuneration and Compensation Committee, Audit Committee and subject to the approval of the Members of the Company, the re-designation of Mr. Vikash Mittersain (DIN: 00156740), Chairman & Managing Director as 'Founding Chairman' in the category of Non-Executive Non-Independent Director of the Company with effect from June 01, 2026.” — [2026-05-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12052026193139_BMOutcomeFinal2.pdf) · [2026-05-12 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_12052026194507_Investor_presentation.pdf) · [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12052026194850_BMOutcomeFinal2.pdf) · +1 more
+- **Why Nitish Mittersain is leaving, in the filing's words:** “Mr. Nitish Mittersain, while continuing in his position as Managing Director of the Company, has tendered his resignation from the office of Chief Executive Officer ("CEO") of the Company” Stays on as: Managing Director, Key Managerial Personnel of the Company.
+- In the documents: “Accordingly, the Board of Directors of the Company, by way of a resolution passed through circulation today, i.e., September 16, 2026, has determined and recorded September 16, 2026 as the effective date of appointment of Mr. Raymond Albaladejo Stauffer as the CEO and KMP of the Company.” — [2026-08-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_03082026215838_OutcomeofBoardMeeting.pdf) · [2026-08-03 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221421_PRIntimation.pdf) · [2026-08-03 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_03082026221836_Investorpresentation.pdf) · +1 more
 - **Why Nitish Mittersain is leaving, in the filing's words:** “As part of the Company's leadership transition, Mr. Nitish Mittersain will transition from his executive responsibilities as Managing Director to Founder and Non-Executive Director, enabling the professional leadership team to lead the Company's next phase” Stays on as: Founder and Non-Executive Director (Non-Executive Non-Independent Director); ceases to be Key Managerial Personnel with effect from October 13, 2026.
 - In the documents: “The Board has approved re-designation of Mr. Nitish Mittersain from Managing Director to Founder and Non-Executive Director effective from close of the business hours on October 12, 2026, subject to the approval of the shareholders of the Company and such other approvals as may be required under applicable laws.” — [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +1 more
-- **Why Rakesh Shah is leaving, in the filing's words:** “This decision has been made to enable me to pursue a career opportunity outside the Company.” Stays on as: would provide transition support and assistance to the Company for a period of 90 days from the effective date of his resignation.
+- **Why Rakesh Shah is leaving, in the filing's words:** “This decision has been made to enable me to pursue a career opportunity outside the Company.” Stays on as: available to the Company for a period of 90 days from the effective date of his resignation to facilitate transition of responsibilities.
 - In the documents: “Based on the recommendation of the Nomination, Remuneration and Compensation Committee, the Board approved the appointment of Mr. Arun Agrawal as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from October 16, 2026.” — [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +1 more
 
-*All 23 filing(s) read for the seats:* [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_26102026193838_PRIntimationF.pdf) · [2026-10-26 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_26102026194240_InvestorpresentationF.pdf) · [2026-10-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/NAZARA_ROID_100344_KMP_Doc.zip) · [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +17 more
+*All 25 filing(s) read for the seats:* [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/NAZARA_26102026193838_PRIntimationF.pdf) · [2026-10-26 Updates](https://nsearchives.nseindia.com/corporate/NAZARA_26102026194240_InvestorpresentationF.pdf) · [2026-10-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/NAZARA_ROID_100344_KMP_Doc.zip) · [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NAZARA_12102026181527_BMOutcomeFinal.pdf) · [2026-10-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182312_BMOutcomeFinal.pdf) · [2026-10-12 Resignation](https://nsearchives.nseindia.com/corporate/NAZARA_12102026182751_BMOutcomeFinal.pdf) · +19 more
 
 ### 2. Financials — the last three years
 
@@ -67,7 +66,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Mitter Infotech LLP (promoter); Mr. Nitish Mittersain stepping back from executive roles** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 6.08% (Mitter Infotech LLP, before selling 5.19%) → 0.89% (Mitter Infotech LLP).
+**Mitter Infotech LLP (promoter)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 6.08% → 0.89%.
 
 **Vikash Mittersain** — Chairman & Managing Director, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
@@ -101,7 +100,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
-**Rakesh Shah** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Rakesh Shah** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -117,13 +116,21 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Axana Estates LLP (promoter) / Mr. Mithun Padam Sacheti** (other) — the incoming owner. Holding after: 9.38% (Axana Estates LLP).
+**Axana Estates LLP (promoter)** (founder family member) — the incoming owner. Holding after: 9.38%.
 
-What the documents say about them: “Axana Estates LLP is disclosed in the exchange Reg 29 facts as a promoter of the company, which acquired 3.99% of the capital via the open market on 2026-05-20 and holds 9.38% after. The filings state that Mr. Mithun Padam Sacheti (DIN: 01683592) was "re-designated from the position of Non-Executive Director to Whole-time Director and Key Managerial Personnel of the Company, designated as Executive Director of the Company, with effect from October 12, 2026" and "shall, in his capacity as Executive Director, oversee strategic initiatives and such operational responsibilities as may be assigned to him by the Board". Nothing further is stated about Axana Estates LLP's business or other holdings.”
+What the documents say about them: “not stated — the exchange facts identify Axana Estates LLP only as a promoter of the company that acquired 3.99% of the capital via the open market on May 20, 2026, holding 9.38% afterwards.”
+
+**Nitish Mittersain** — Chairman & Managing Director. from: internal; experience: over 27 years.
+
+The filing's own profile: “Mr. Nitish Mittersain (DIN: 02347434) founded Nazara Technologies in 1999 and has over 27 years of experience in gaming and interactive entertainment. Under his leadership, Nazara evolved into a diversified, multi-geography and multi-IP gaming business and, in 2021, became India's first publicly listed gaming company.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Joint Managing Director and Chief Executive Officer | Nazara Technologies Limited (NAZARA) | — | 2026 |
 
 **Raymond Albaladejo Stauffer** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP). from: group company.
 
-The filing's own profile: “Founder and former CEO of Bluetile and BestPlay. Built the business to INR 254 crore of EBITDA in CY25 with a 65-person team. Leads day-to-day Nazara Group operations, integration, portfolio performance and shared operating capabilities, effective 1 September 2026. He brings deep experience in AI-enabled game development, product operations, user acquisition, monetisation and capital-efficient global growth.”
+The filing's own profile: “Founder and former CEO of Bluetile and BestPlay. Built the business to INR 254 crore of EBITDA in CY25 with a 65-person team. Leads day-to-day Nazara Group operations, integration, portfolio performance and shared operating capabilities, effective 1 September 2026.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -131,9 +138,9 @@ The filing's own profile: “Founder and former CEO of Bluetile and BestPlay. Bu
 | Founder and former CEO | Bestplay Systems, S.L. | — | 2026 |
 | Trust & Safety Team Lead | Google | — | — |
 
-**Arun Agarwal** — Chief Financial Officer and Key Managerial Personnel. from: external; experience: over two decades; qualifications: Chartered Accountant.
+**Arun Agarwal** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'). from: external; experience: over two decades; qualifications: Chartered Accountant.
 
-The filing's own profile: “Mr. Arun Agarwal is a Chartered Accountant, who brings over two decades of rich experience in finance and business strategy across global organizations. Before joining us, Arun has served as Global CFO at Ness Digital Engineering, a Global PE owned organization and at Mastek Limited, listed on an Indian stock exchange, where he played a pivotal role in driving financial growth and transforming finance into a strategic enabler for business transformation. Earlier, Arun held leadership roles at Firstsource Solutions, General Electric, Wipro, and Tata Motors.”
+The filing's own profile: “Mr. Arun Agarwal is a Chartered Accountant, who brings over two decades of rich experience in finance and business strategy across global organizations. Before joining us, Arun has served as Global CFO at Ness Digital Engineering, a Global PE owned organization and at Mastek Limited, listed on an Indian stock exchange, where he played a pivotal role in driving financial growth and transforming finance into a strategic enabler for business transformation.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

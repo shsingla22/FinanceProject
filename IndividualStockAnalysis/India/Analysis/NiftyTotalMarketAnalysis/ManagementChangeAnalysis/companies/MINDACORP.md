@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP)** | — (new seat) | Ajay Agarwal (internal; from 2026-02-05) | effective | 2026-02-05 |
+| **Group Chief Financial Officer (GCFO)** | Vinod Raheja (resignation; last day 2025-11-30) | Ajay Agarwal (internal; from 2026-02-05) | effective | 2025-11-14 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Ajay Agarwal as Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP) of the Company in addition to his existing role of President Finance & Strategy of the Company w.e.f. February 05, 2026 as per the recommendation of Nomination and Remuneration Committee & Audit Committee and other terms and conditions as approved by the Board of Directors.” — [2026-08-21 Resignation](https://nsearchives.nseindia.com/corporate/MINDACORP_21082026173906_nsebseresignationpmannsigned.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026144219_NSEBSE.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026153650_NSEBSE.pdf) · +1 more
+- **Why Vinod Raheja is leaving, in the filing's words:** “has resigned on November 14, 2025, effective from the close of business hours on November 30, 2025, on account of personal or family commitments”
+- In the documents: “Minda Corporation appointed Mr. Ajay Agarwal as Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP) of the Company in addition to his existing role of President Finance & Strategy of the Company w.e.f. February 05, 2026.” — [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026144219_NSEBSE.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026153650_NSEBSE.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026163540_NSEBSE.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-08-31 General Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_31082026150626_IntimationtoSTX310826SIGNED.pdf) · [2026-08-21 Resignation](https://nsearchives.nseindia.com/corporate/MINDACORP_21082026173906_nsebseresignationpmannsigned.pdf) · [2026-08-21 Shareholders meeting](https://nsearchives.nseindia.com/corporate/MINDACORP_21082026222911_scrutinizerreportnsebsesigned.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026144219_NSEBSE.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026153650_NSEBSE.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026163540_NSEBSE.pdf)
+*All 7 filing(s) read for the seats:* [2026-08-31 General Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_31082026150626_IntimationtoSTX310826SIGNED.pdf) · [2026-08-21 Resignation](https://nsearchives.nseindia.com/corporate/MINDACORP_21082026173906_nsebseresignationpmannsigned.pdf) · [2026-08-21 Shareholders meeting](https://nsearchives.nseindia.com/corporate/MINDACORP_21082026222911_scrutinizerreportnsebsesigned.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026144219_NSEBSE.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026153650_NSEBSE.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026163540_NSEBSE.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -37,15 +37,27 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/MINDACORP.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹582.00 on 2026-02-04 (the close before) → ₹736.15 on 2026-11-13: **+26.5%**; Nifty 500 +0.8% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹605.35 on 2025-11-13 (the close before) → ₹736.15 on 2026-11-13: **+21.6%**; Nifty 500 -0.3% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-No outgoing person or owner is named (a new seat, or the documents do not say).
+**Vinod Raheja** — Group Chief Financial Officer (GCFO), date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2020 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 2,813 | 5,056 | +12.4% a year over 5 years |
+| Operating profit (₹ cr) | 256 | 576 | +17.6% a year over 5 years |
+| PAT (₹ cr) | -200 | 255 | loss to profit |
+| Operating profit margin (%) | 9.1 | 11.4 | +2.3 pts |
+| ROCE (%) | 11.0 | 13.0 | +2.0 pts |
+| ROE (%) | -20.6 | 11.6 | +32.2 pts |
+| Borrowings (₹ cr) | 625 | 1,614 | +989 |
 
 ### 4. Track record — the incoming management
 
-**Ajay Agarwal** — Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP). from: internal; experience: 24+years of industry & consulting experience; qualifications: CA & LLB.
+**Ajay Agarwal** — Group Chief Financial Officer (GCFO). from: internal; experience: 24+years of industry & consulting experience; qualifications: CA & LLB by qualification.
 
 The filing's own profile: “Mr. Ajay Agarwal is CA & LLB by qualification and has 24+years of industry & consulting experience, having worked with some of the global organizations such as KPMG, PWC and Vedanta. He's an aggregate professional having experience with US, British and Indian MNC's handling various aspects of Finance and Corporate Management. He also has international experience, having spent time in the US to lead KPMG's India-US practice.”
 

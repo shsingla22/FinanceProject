@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer (MD & CEO)** | Prashant Kumar (end of term; last day 2026-04-05) | Vinay Muralidhar Tonse (external; from 2026-04-06) | effective | 2026-02-03 |
 
-- **Why Prashant Kumar is leaving, in the filing's words:** “has demitted the office as the Managing Director & Chief Executive Officer (MD & CEO) of the Bank on April 05, 2026 on completion of his tenure”
+- **Why Prashant Kumar is leaving, in the filing's words:** “has demitted the office as the Managing Director & Chief Executive Officer (MD & CEO) of the Bank on April 05, 2026 on completion of his tenure and accordingly he ceased to be MD & CEO and Director of the Bank”
 - In the documents: “Further, we wish to inform that Mr. Vinay Muralidhar Tonse (DIN: 06695367) has taken charge as Managing Director & Chief Executive Officer of the Bank with effect from today i.e. April 06, 2026 on such terms and conditions including remuneration, as approved by Reserve Bank of India and subject to the approval of the shareholders of the Bank.” — [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/YESBANK_06042026090006_SEINTIMATION.pdf) · [2026-03-25 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_25032026165625_YBL_SE_Intimation_Postal_Ballot_signed.pdf) · [2026-03-06 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_06032026190330_SE_Intimation_MD_Designate_Vinay_Tonse_06032026_signed.pdf) · +1 more
 
-*All 9 filing(s) read for the seats:* [2026-10-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/YESBANK_17102026191757_SE_Intimation_Signed.pdf) · [2026-09-16 Appointment](https://nsearchives.nseindia.com/corporate/YESBANK_16092026194241_YBL_SE_Intimation_Interim_CVO_Appointment_signed.pdf) · [2026-07-25 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_25072026001338_YBL_SE_Annual_Report202526_Signed.pdf) · [2026-07-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/YESBANK_18072026134012_YBL_SE_Intimation_Outcome_BM_June_2026_Signed.pdf) · [2026-04-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/YESBANK_24042026214226_YBL_SE_Intimation_PB_Results_Signed.pdf) · [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/YESBANK_06042026090006_SEINTIMATION.pdf) · +3 more
+*All 10 filing(s) read for the seats:* [2026-10-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/YESBANK_17102026191757_SE_Intimation_Signed.pdf) · [2026-09-16 Appointment](https://nsearchives.nseindia.com/corporate/YESBANK_16092026194241_YBL_SE_Intimation_Interim_CVO_Appointment_signed.pdf) · [2026-07-25 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_25072026001338_YBL_SE_Annual_Report202526_Signed.pdf) · [2026-07-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/YESBANK_18072026134012_YBL_SE_Intimation_Outcome_BM_June_2026_Signed.pdf) · [2026-04-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/YESBANK_24042026214226_YBL_SE_Intimation_PB_Results_Signed.pdf) · [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/YESBANK_06042026090006_SEINTIMATION.pdf) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -37,17 +37,17 @@
 
 ### 3. Track record — the outgoing management
 
-**Prashant Kumar** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2022 per the annual reports on file.
+**Prashant Kumar** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2020 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2019 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Revenue (₹ cr) | 20,039 | 30,208 | +8.6% a year over 5 years |
-| Financing profit (₹ cr) | -7,509 | -1,863 | — |
-| PAT (₹ cr) | -3,489 | 3,512 | loss to profit |
-| Financing profit margin (%) | -37.5 | -6.2 | +31.3 pts |
-| ROE (%) | -10.5 | 6.9 | +17.4 pts |
+| Revenue (₹ cr) | 29,624 | 30,208 | +0.3% a year over 7 years |
+| Financing profit (₹ cr) | -2,021 | -1,863 | — |
+| PAT (₹ cr) | 1,709 | 3,512 | +10.8% a year over 7 years |
+| Financing profit margin (%) | -6.8 | -6.2 | +0.6 pts |
+| ROE (%) | 6.4 | 6.9 | +0.5 pts |
 
 ### 4. Track record — the incoming management
 
@@ -57,24 +57,13 @@ The filing's own profile: “Mr. Vinay M. Tonse was Managing Director (Retail Bu
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Managing Director (Retail Business and Operations) | State Bank of India (SBIN) | 2023 | 2025 |
-| Deputy Managing Director, Corporate Accounts Group, Corporate Centre, Mumbai | State Bank of India (SBIN) | — | — |
+| Managing Director (Retail Business and Operations) | State Bank of India (SBI) | 2023 | 2025 |
+| Deputy Managing Director, Corporate Accounts Group | State Bank of India, Corporate Centre, Mumbai | — | — |
 | Managing Director & CEO (on deputation) | SBI Mutual Funds | 2020 | 2022 |
 | Chief General Manager, Chennai Circle | State Bank of India (SBIN) | 2018 | 2020 |
-| General Manager, Corporate Accounts Group, Branch BKC, Mumbai | State Bank of India (SBIN) | 2016 | 2018 |
-| Deputy General Manager, Equity & Commodities (Global Markets), Corporate Centre, Mumbai | State Bank of India (SBIN) | 2013 | 2016 |
-| Chief Executive Officer, SBI Osaka Branch, Japan | State Bank of India (SBIN) | 2009 | 2013 |
-| Probationary Officer | State Bank of India (SBIN) | 1988 | — |
-
-Results of **State Bank of India** while they were Managing Director (Retail Business and Operations) there (the filing's profile):
-
-| Mar 2023 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Revenue (₹ cr) | 350,845 | 490,313 | +18.2% a year over 2 years |
-| Financing profit (₹ cr) | -43,439 | -62,674 | — |
-| PAT (₹ cr) | 57,750 | 80,523 | +18.1% a year over 2 years |
-| Financing profit margin (%) | -12.4 | -12.8 | -0.4 pts |
-| ROE (%) | 16.1 | 16.5 | +0.4 pts |
+| General Manager, Corporate Accounts Group, Branch BKC | State Bank of India, Corporate Centre, Mumbai | 2016 | 2018 |
+| Deputy General Manager, Equity & Commodities (Global Markets) | State Bank of India, Corporate Centre, Mumbai | 2013 | 2016 |
+| Chief Executive Officer | SBI Osaka Branch, Japan | 2009 | 2013 |
 
 ### 5. On the calls
 

@@ -9,14 +9,14 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chairman and Managing Director** | Sanjay Kumar Jain (resignation; last day 2026-07-20) | Rahul Himalian (interim; internal; from 2026-07-20) | effective | 2026-06-23 |
-| **Director (Finance) & CFO** | Sudhir Kumar (interim holder replaced; last day 2026-06-15) | Rajneesh Narain (government appointee; from 2026-07-14) | effective | 2026-06-11 |
+| **Director (Finance) & CFO** | Sudhir Kumar (interim holder replaced; last day 2026-06-15) | Rajneesh Narain (external; from 2026-07-14) | effective | 2026-06-11 |
 
-- **Why Sanjay Kumar Jain is leaving, in the filing's words:** “Personal Reasons”
-- In the documents: “In line with above , it is further informed that Shri Rahul Himalian, Director (Tourism & Marketing), (DIN: 10393348) has assumed the additional charge of the post of Chairman and Managing Director of the Company w.e.f. July 20, 2026, in addition to his own existing duties .” — [2026-06-23 General Updates](https://nsearchives.nseindia.com/corporate/IRCTC_23062026162821_STXintimationCMD.pdf) · [2026-06-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/IRCTC_ROID_90296_KMP_Doc.zip) · [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190727_STXintimationApptRajneeshNarain.pdf) · +1 more
-- **Why Sudhir Kumar is leaving, in the filing's words:** “relinquished the additional charge of the post of Director (Finance) w.e.f. June 15, 2026, due to appointment of new incumbent to the post”
-- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosures Requirements) Regulations, 2015, it is hereby informed that Board of Directors, at its meeting held on 14th July, 2026 has appointed Shri Rajneesh Narain (DIN: 09759359) , Director (Finance), IRCTC as CFO and KMP of the Company w.e.f. 14th July, 2026.” — [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026185943_Revised_STXintimationsudhirkumar.pdf) · [2026-06-15 Change in Management](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190148_Revised_STXintimationsudhirkumar.pdf) · [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190727_STXintimationApptRajneeshNarain.pdf) · +1 more
+- **Why Sanjay Kumar Jain is leaving, in the filing's words:** “Reason Of Resignation In Brief: Personal Reasons”
+- In the documents: “In continuation to our earlier communications dated June 23, 2026 and July 16, 2026, it is hereby informed that Shri Sanjay Kumar Jain (DIN: 09629741), ceases to hold the post of Chairman and Managing Director and Key Managerial Personnel of Company w.e.f. July 20, 2026.” — [2026-06-23 General Updates](https://nsearchives.nseindia.com/corporate/IRCTC_23062026162821_STXintimationCMD.pdf) · [2026-06-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/IRCTC_ROID_90296_KMP_Doc.zip) · [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190727_STXintimationApptRajneeshNarain.pdf) · +1 more
+- **Why Sudhir Kumar is leaving, in the filing's words:** “has relinquished the additional charge of the post of Director (Finance) w.e.f. June 15, 2026, due to appointment of new incumbent to the post as communicated to the exchanges on June 11, 2026”
+- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosures Requirements) Regulations, 2015, it is hereby informed that Board of Directors, at its meeting held on 14th July, 2026 has appointed Shri Rajneesh Narain (DIN: 09759359), Director (Finance), IRCTC as CFO and KMP of the Company w.e.f. 14th July, 2026.” — [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026185943_Revised_STXintimationsudhirkumar.pdf) · [2026-06-15 Change in Management](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190148_Revised_STXintimationsudhirkumar.pdf) · [2026-06-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_15062026190727_STXintimationApptRajneeshNarain.pdf) · +1 more
 
-*All 14 filing(s) read for the seats:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IRCTC_29092026183516_SEFilingforProceedingsof27AGM.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IRCTC_07092026124109_SEintimationfornotice27thAGM.pdf) · [2026-08-14 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_14082026170946_STXintimationregappointmentSachin_Balkrishna.pdf) · [2026-07-29 General Updates](https://nsearchives.nseindia.com/corporate/IRCTC_29072026165025_STXintimation_AdditionalchargeRahulHimalian.pdf) · [2026-07-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_20072026131312_STXintimation_ChangeinBoardComposition.pdf) · [2026-07-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_16072026182847_STXintimation_CMD_AdditionalCharge.pdf) · +8 more
+*All 18 filing(s) read for the seats:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IRCTC_29092026183516_SEFilingforProceedingsof27AGM.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IRCTC_07092026124109_SEintimationfornotice27thAGM.pdf) · [2026-08-14 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_14082026170946_STXintimationregappointmentSachin_Balkrishna.pdf) · [2026-07-29 General Updates](https://nsearchives.nseindia.com/corporate/IRCTC_29072026165025_STXintimation_AdditionalchargeRahulHimalian.pdf) · [2026-07-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_20072026131312_STXintimation_ChangeinBoardComposition.pdf) · [2026-07-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IRCTC_16072026182847_STXintimation_CMD_AdditionalCharge.pdf) · +12 more
 
 ### 2. Financials — the last three years
 
@@ -61,19 +61,19 @@ The company's results while they held the seat (the year before they took it, to
 - Also on file: Chairman at EIEL (FY2025–FY2025, annual reports).
 - Also on file: CEO at LOTUSDEV (FY2025–FY2025, annual reports).
 
-**Sudhir Kumar** — Director (Finance) & CFO, date of taking the seat not on file.
+**Sudhir Kumar** — Director (Finance) & CFO, in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 3 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2023 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 3,541 | 5,215 | +13.8% a year over 3 years |
-| Operating profit (₹ cr) | 1,276 | 1,666 | +9.3% a year over 3 years |
-| PAT (₹ cr) | 1,006 | 1,393 | +11.5% a year over 3 years |
-| Operating profit margin (%) | 36.0 | 31.9 | -4.1 pts |
-| ROCE (%) | 54.0 | — | — |
-| ROE (%) | 40.6 | 32.3 | -8.3 pts |
-| Borrowings (₹ cr) | 84.0 | 81.0 | -3 |
+| Sales (₹ cr) | 4,675 | 5,215 | +11.6% a year over 1 year |
+| Operating profit (₹ cr) | 1,551 | 1,666 | +7.4% a year over 1 year |
+| PAT (₹ cr) | 1,315 | 1,393 | +5.9% a year over 1 year |
+| Operating profit margin (%) | 33.2 | 31.9 | -1.3 pts |
+| ROCE (%) | 46.0 | — | — |
+| ROE (%) | 35.9 | 32.3 | -3.6 pts |
+| Borrowings (₹ cr) | 90.0 | 81.0 | -9 |
 
 ### 4. Track record — the incoming management
 
@@ -83,7 +83,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 |---|---|---|---|
 | Director (Tourism & Marketing) | Indian Railway Catering and Tourism Corporation Limited (IRCTC) | — | — |
 
-**Rajneesh Narain** — Director (Finance) & CFO. from: government appointee; experience: more than thirty years of experience in the Coal Industry; qualifications: Master of Business Administration (Finance).
+**Rajneesh Narain** — Director (Finance) & CFO. from: external; experience: more than thirty years of experience in the Coal Industry; qualifications: Master of Business Administration (Finance).
 
 The filing's own profile: “Shri Rajneesh Narain (DIN: 09759359), Director (Finance), appointed in Indian Railway Catering & Tourism Corporation Limited (IRCTC) w.e.f. 15.06.2026, has more than thirty years of experience in the Coal Industry. The Board has appointed him as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) w.e.f. 14.07.2026. Prior to his appointment as Director (Finance) in IRCTC, Shri Narain held the charge of Director (Finance) of Northern Coalfields Limited (NCL). He also headed the corporate accounts team of South Eastern Coalfields Limited (SECL), a subsidiary company of Coal India Limited (CIL), apart from handling other crucial responsibilities including business diversification.”
 

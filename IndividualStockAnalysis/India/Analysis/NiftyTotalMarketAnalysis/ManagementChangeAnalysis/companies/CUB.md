@@ -13,7 +13,7 @@
 - **Why N. Kamakodi is leaving, in the filing's words:** “demitted his office at the close of business hours on April 30, 2026 on account of completion of his 15 years tenure pursuant to the relevant povisions of the Reserve Bank of India (Commercial Banks - Governance) Directions,2O25”
 - In the documents: “We hereby inform that w.e.f today, May 1, 2026, Shri. R. Vrjay Anandh [DIN 09656376] has taken charge as the Managing Director & CEO of the Bank.” — [2026-05-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_01052026133935_CUB_MD_Appointment.pdf) · [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_30042026195919_CUBRetirement.pdf) · [2026-03-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CUB_04032026185116_POSTALBALLOTNOTICEBSE04032026.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-05-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_01052026133935_CUB_MD_Appointment.pdf) · [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_30042026195919_CUBRetirement.pdf) · [2026-03-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CUB_04032026185116_POSTALBALLOTNOTICEBSE04032026.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/CUB_09022026192708_CUBRBIApprovalMDCEOSD.pdf)
+*All 5 filing(s) read for the seats:* [2026-05-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_01052026133935_CUB_MD_Appointment.pdf) · [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_30042026195919_CUBRetirement.pdf) · [2026-03-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CUB_04032026185116_POSTALBALLOTNOTICEBSE04032026.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/CUB_09022026192708_CUBRBIApprovalMDCEOSD.pdf) · [2025-08-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/CUB_13082025215741_CUBAGMPROCEEDINGS13082025.pdf)
 
 ### 2. Financials — the last three years
 
@@ -58,8 +58,8 @@ The filing's own profile: “Shri. R. Vijay Anandh, qualified as B,Sc., Computer
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive President | City Union Bank Limited (CUB) | 2024 | 2024 |
-| Executive Director | City Union Bank Limited (CUB) | 2024 | 2026 |
-| Group Executive Vice President & Business Head - Retail Assets (excluding cards) & Collections - Retail Business | RBL Bank (RBLBANK) | 2011 | — |
+| Executive Director of the Bank | City Union Bank Limited (CUB) | 2024 | 2026 |
+| Group Executive Vice President & Business Head - Retail Assets (excluding cards) & Collections - Retail Business | RBL Bank (RBLBANK) | 2011 | 2024 |
 | Group Executive Vice President & Chief Credit Officer for the Retail businesses viz. MSME, Cards, Rural Lending, Agriculture & Financial Inclusion, AML and Fraud Risk for the Liabilities Portfolio | RBL Bank (RBLBANK) | — | — |
 
 ### 5. On the calls

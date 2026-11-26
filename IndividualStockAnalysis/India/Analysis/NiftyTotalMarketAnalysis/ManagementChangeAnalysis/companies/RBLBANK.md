@@ -6,23 +6,24 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (INR 26,015.77 crore) on 18 June 2026, taking 60% of RBL Bank's expanded capital, and completed a mandatory 26% open offer in which nil shares were tendered. Emirates NBD is now promoter; the Bank is its subsidiary.
+**Ownership — Change of control — completed.** Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (about USD 3bn) allotted 18 June 2026, taking 60% of RBL Bank, which previously had no promoter. Its mandatory 26% open offer closed with nil shares tendered. ENBD is now promoter and in control.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | None — RBL Bank had no promoter before the transaction; it was widely held by public shareholders | other | 0.0% (promoter and group holding nil at 2025-09-30, 2025-12-31 and 2026-03-31) | public shareholders fell from 100% to 40% of the expanded capital |
-| Incoming | Emirates NBD Bank (P.J.S.C.) | strategic buyer | — | 60.00% (59.88% at 2026-09-30) |
+| Outgoing | Public shareholders of RBL Bank (no prior promoter; the Bank was 'widely held and professionally managed') | other | 100% public / promoter-and-group 0.0% | 40% public |
+| Incoming | Emirates NBD Bank (P.J.S.C.) | strategic buyer | — | 60.00% |
 
-- mode: preferential issue · price INR 280 (subscription and offer price); open offer INR 282.38 including INR 2.38 applicable interest · deal value INR 26,015.77 crore invested through the preferential allotment; open offer size INR 117,353,299,774.34 assuming full acceptance (nil paid, as no shares were tendered) · control changes
-- Open offer: price INR 282.38 per share (Offer Price INR 280.00 plus Applicable Interest INR 2.38), size 26.00% of the Expanded Voting Share Capital (up to 415,586,443 shares), status completed — opened 1 June 2026, closed 12 June 2026, nil shares tendered or accepted
-- Management changing with it: The 17 July 2026 board meeting approved AGM items to appoint Mr. Suryanarayan Subramanian as Non-Executive Independent Director and Mr. Shayne Keith Nelson, Mr. Patrick John Sullivan, Mr. Neeraj Makin, Mr. Manoj Chawla and Mr. Marwan Mahmood Mohammad Hadi as Non-Executive Non-Independent Directors (Nominees of Emirates NBD Bank (P.J.S.C.)). RBI advised revised board composition requirements and amendment of the articles of association. R. Subramaniakumar continues as Managing Director & CEO.
-- Dates: agreement 2025-10-18; public announcement 2025-10-18; approval 2026-04-01; open offer opens 2026-06-01; other 2026-06-12; completion 2026-06-18
+- mode: preferential issue · price INR 280 per subscription share (open offer INR 280 plus INR 2.38 applicable interest = INR 282.38) · deal value primary infusion of approximately USD 3bn (~ INR 26,850 cr); preferential issue up to Rs. 268,53,27,78,080; open offer consideration up to INR 117,353,299,774.34 (nil paid) · control changes
+- Open offer: price INR 282.38 per share (Offer Price INR 280 plus Applicable Interest INR 2.38), size 26.00% of Expanded Voting Share Capital (up to 415,586,443 shares), status completed — nil shares tendered or accepted
+- Why the seller is selling, in their words: “The infusion will significantly strengthen RBL Bank's balance sheet, enhance its Tier-1 capital ratio, and provide long-term growth capital”
+- Management changing with it: RBL Bank's board approved for AGM approval the appointments of Mr. Shayne Keith Nelson, Mr. Patrick John Sullivan, Mr. Neeraj Makin, Mr. Manoj Chawla and Mr. Marwan Mahmood Mohammad Hadi as Non-Executive Non-Independent Directors (Nominees of Emirates NBD Bank (P.J.S.C)), and Mr. Suryanarayan Subramanian as Non-Executive Independent Director. RBI advised revised board composition requirements requiring amendment of the articles of association. Mr. R. Subramaniakumar remained Managing Director (CEO) and Mr. Chandan Sinha Chairman through June 2026; results now describe the Bank as "Subsidiary of Emirates NBD Bank P.J.S.C."
+- Dates: agreement 2025-10-18; public announcement 2025-10-18; approval 2025-11-12; approval 2026-05-14; open offer opens 2026-06-01; other 2026-06-12; completion 2026-06-18
 - In the documents: “Pursuant to the Open Offer and the Preferential Issue, the Acquirer has acquired control over the TC and the Acquirer has become the promoter of the TC in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 0.0% (2025-09-30) → 0.0% (2025-12-31) → 0.0% (2026-03-31) → 60.0% (2026-06-18) → 60.0% (2026-06-30) → 59.88% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 60.0%.
 
-*Filings read for the ownership:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12102026163624_BoardMeetingOutcomeQ2FY2627resultssigned.pdf) · [2026-07-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_17072026162201_BoardMeetingOutcome_Q1FY26_27Signed.pdf) · [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_19062026185147_PostOfferAdvertisementSigned.pdf) · [2026-06-15 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_15062026184953_15062026105438_RBL.pdf) · +15 more
+*Filings read for the ownership:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12102026163624_BoardMeetingOutcomeQ2FY2627resultssigned.pdf) · [2026-07-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_17072026162201_BoardMeetingOutcome_Q1FY26_27Signed.pdf) · [2026-06-19 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_sandeshc_19062026122743_RBLBANK.zip) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/team_bbodade_19062026182333_RBLBANK_update.pdf) · [2026-06-19 Updates](https://nsearchives.nseindia.com/corporate/RBLBANK_19062026185147_PostOfferAdvertisementSigned.pdf) · [2026-06-15 Public Announcement-Open Offer](https://nsearchives.nseindia.com/corporate/team_bbodade_15062026184953_15062026105438_RBL.pdf) · +21 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -58,7 +59,7 @@
 
 ### 3. Track record — the outgoing management
 
-**None — RBL Bank had no promoter before the transaction; it was widely held by public shareholders** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 0.0% (promoter and group holding nil at 2025-09-30, 2025-12-31 and 2026-03-31) → public shareholders fell from 100% to 40% of the expanded capital.
+**Public shareholders of RBL Bank (no prior promoter; the Bank was 'widely held and professionally managed')** (other) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 100% public / promoter-and-group 0.0% → 40% public.
 
 **Buvanesh Tharashankar** — Chief Financial Officer, date of taking the seat not on file.
 
@@ -86,9 +87,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Emirates NBD Bank (P.J.S.C.)** (strategic buyer) — the incoming owner. Holding after: 60.00% (59.88% at 2026-09-30).
+**Emirates NBD Bank (P.J.S.C.)** (strategic buyer) — the incoming owner. Holding after: 60.00%.
 
-What the documents say about them: “"EMIRATES NBD BANK (P.J.S.C.), a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates", registered office Baniyas Street, Deira, Dubai. It carries on banking in India through "its network of 3 (three) branches in Mumbai, Chennai and Gurugram". Management described it on the October 2025 call as "the second largest bank in the UAE, and a leading financial group in the MENAT region" investing "approximately US $3 billion through a preferential issue... to acquire a 60% stake in RBL". Entitled to exercise voting rights only up to 26% under Section 12(2) of the Banking Regulation Act, 1949.”
+What the documents say about them: “"Emirates NBD is a leading banking group in the MENAT (Middle East, North Africa and Türkiye) region with a presence in 13 countries, serving over 9 million active customers. ENBD is a public joint stock company incorporated in the United Arab Emirates... listed on the Dubai Financial Market with a market capitalization of ~US$ 43 billion... ENBD is 56% owned by the Dubai Government via Investment Corporation of Dubai and Dubai Holding Group." Total assets ~US$ 296 billion; 826 branches, 4,555 ATMs/SDMs; already operates 3 India branches (Mumbai, Chennai, Gurugram) to be amalgamated into RBL Bank.”
 
 **Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
 

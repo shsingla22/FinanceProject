@@ -13,10 +13,10 @@
 
 - **Why Virag Joshi is leaving, in the filing's words:** “After a long and a very successful tenure with the Company, Mr. Virag Joshi, Whole-time Director (President & CEO) of the Company has expressed his desire to superannuate from the whole-time services of the Company.” Stays on as: Non-Executive Director of the Company, providing strategic advisory services as and when required.
 - In the documents: “Mr Manish Dawar, Whole-time Director & CFO shall be elevated as Whole-time Director (President & CEO) of the Company w.e.f. April 1, 2026.” — [2026-02-04 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026123828_DIL_SMP_04022026_sd.pdf) · [2026-02-04 Press Release](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026125243_PressReleasefinalsd.pdf) · [2026-02-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026120617_DIL_Results_sd.pdf) · +1 more
-- **Why Manish Dawar is leaving, in the filing's words:** “Accordingly, Mr. Dawar shall cease to be CFO of the Company w.e.f. close of business hours of March 31, 2026.” Stays on as: Whole-time Director (President & CEO) of the Company.
-- In the documents: “Appointment of Mr. Anupam Kumar, EVP-Finance of the Company, as Chief Financial Officer of the Company w.e.f. April 1, 2026.” — [2026-02-04 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026123828_DIL_SMP_04022026_sd.pdf) · [2026-02-04 Press Release](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026125243_PressReleasefinalsd.pdf) · [2026-02-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026120617_DIL_Results_sd.pdf) · +1 more
+- **Why Manish Dawar is leaving, in the filing's words:** “Accordingly, Mr. Dawar shall cease to be CFO of the Company w.e.f. close of business hours of March 31, 2026.” Stays on as: Whole-time Director (President & CEO) of the Company w.e.f. April 1, 2026.
+- In the documents: “Appointment of Mr. Anupam Kumar, EVP -Finance of the Company, as Chief Financial Officer of the Company w.e.f. April 1, 2026.” — [2026-02-04 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026123828_DIL_SMP_04022026_sd.pdf) · [2026-02-04 Press Release](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026125243_PressReleasefinalsd.pdf) · [2026-02-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_04022026120617_DIL_Results_sd.pdf) · +1 more
 
-*All 11 filing(s) read for the seats:* [2026-08-31 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_31082026191229_SE_Intimation_Rohan_Kichlu_resignation_DSC.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DEVYANI_ROID_97519_KMP_Doc.zip) · [2026-08-14 Shareholders meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_14082026180220_DILAGMOutcome14082026_sd.pdf) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_15052026123413_Outcome_15052026Reg30sd.pdf) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_15052026123654_Outcome_15052026Reg30sd.pdf) · [2026-03-05 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_05032026185334_Intimation_-_Resignation_of_SMP_DSC.pdf) · +5 more
+*All 14 filing(s) read for the seats:* [2026-08-31 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_31082026191229_SE_Intimation_Rohan_Kichlu_resignation_DSC.pdf) · [2026-08-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/DEVYANI_ROID_97519_KMP_Doc.zip) · [2026-08-14 Shareholders meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_14082026180220_DILAGMOutcome14082026_sd.pdf) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_15052026123413_Outcome_15052026Reg30sd.pdf) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DEVYANI_15052026123654_Outcome_15052026Reg30sd.pdf) · [2026-03-05 Change in Management](https://nsearchives.nseindia.com/corporate/DEVYANI_05032026185334_Intimation_-_Resignation_of_SMP_DSC.pdf) · +8 more
 
 ### 2. Financials — the last three years
 
@@ -74,7 +74,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Manish Dawar** — Whole-time Director (President & CEO). from: internal; experience: over three decades of leadership experience across global and Indian enterprises; qualifications: Mr. Manish Dawar holds a bachelor's degree in commerce with Honours from Panjab University, Chandigarh. He is also a member of the Institute of Chartered Accountants of India and the Institute of Company Secretaries of India..
+**Manish Dawar** — Whole-time Director (President & CEO). from: internal; experience: over three decades of leadership experience across global and Indian enterprises; qualifications: bachelor's degree in commerce with Honours from Panjab University, Chandigarh. He is also a member of the Institute of Chartered Accountants of India and the Institute of Company Secretaries of India.
 
 The filing's own profile: “Mr. Manish Dawar holds a bachelor's degree in commerce with Honours from Panjab University, Chandigarh. He is also a member of the Institute of Chartered Accountants of India and the Institute of Company Secretaries of India. He has wide experience in various industry domains and across various geographies in the world. He has worked in various corporates including Hindustan Unilever Limited, Reebok India, Reckitt Benckiser, Vedanta and Vodafone India.”
 
@@ -87,13 +87,13 @@ The filing's own profile: “Mr. Manish Dawar holds a bachelor's degree in comme
 | — | Reebok India | — | — |
 | — | Hindustan Unilever Limited (HINDUNILVR) | — | — |
 
-**Anupam Kumar** — Chief Financial Officer. from: internal; experience: more than two decades; qualifications: commerce graduate, Chartered Accountant, CPA and MBA.
+**Anupam Kumar** — Chief Financial Officer. from: internal; experience: more than two decades of experience in Industry/ professional service firm; qualifications: commerce graduate, Chartered Accountant, CPA and MBA.
 
 The filing's own profile: “Mr. Kumar is a commerce graduate, Chartered Accountant, CPA and MBA with more than two decades of experience in Industry/ professional service firm. Prior to joining RJ Corp Group, he was associated with Walker Chandiok & Co LLP and Vedanta Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| EVP - Finance | Devyani International Limited (DEVYANI) | — | 2026 |
+| EVP - Finance | Devyani International Limited (DEVYANI) | 2025 | 2026 |
 | — | Vedanta Limited (VEDL) | — | — |
 | — | Walker Chandiok & Co LLP | — | — |
 

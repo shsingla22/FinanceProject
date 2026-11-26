@@ -21,15 +21,16 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel** | Sunil Agrawal (resignation; last day 2026-07-14) | Shatmanyu Shrivastava (internal; from 2026-07-28) | effective | 2026-06-24 |
-| **Chief Financial Officer, Key Managerial Personnel** | Shatmanyu Shrivastava (retirement; last day 2026-09-30) | Sonija M. S. (internal; from 2026-11-26) | effective | 2026-11-25 |
+| **Chief Financial Officer** | Sunil Agrawal (resignation; last day 2026-07-14) | Shatmanyu Shrivastava (internal; from 2026-07-28) | effective | 2026-06-24 |
+| **Chief Financial Officer** | Shatmanyu Shrivastava (retirement; last day 2026-09-30) | Sonija M. S. (internal; from 2026-11-26) | effective | 2026-11-25 |
 
-- **Why Sunil Agrawal is leaving, in the filing's words:** “I hereby submit my resignation from the position of Chief Finanial Officer at Life Insurance Corporation of India as I pursue better prospects.”
-- In the documents: “His resignation will be effective from the close of business hours of July 14, 2026 when he would cease to be Chief Financial Officer and Key Managerial Personnel of the Corporation.” — [2026-07-28 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_28072026135207_28062026_CRO_CFO_appointment.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LICI_ROID_90414_KMP_Doc.zip) · [2026-06-24 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_24062026200820_REV-Resignation_KMP_CFO.pdf) · +1 more
+- **Why Sunil Agrawal is leaving, in the filing's words:** “has resigned to pursue better prospects”
+- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), this is to inform that Shri Sunil Agrawal, Chief Financial Officer and Key Managerial Personnel, Life Insurance Corporation of India (“the Corporation”) vide letter dated June 24, 2026, has resigned to pursue better prospects.” — [2026-07-28 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_28072026135207_28062026_CRO_CFO_appointment.pdf) · [2026-06-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LICI_ROID_90414_KMP_Doc.zip) · [2026-06-24 Change in Management](https://nsearchives.nseindia.com/corporate/LIC_BOARD_24062026200820_REV-Resignation_KMP_CFO.pdf) · +1 more
 - **Why Shatmanyu Shrivastava is leaving, in the filing's words:** “Cessation of Shri Shatmanyu Shrivastava as Chief Financial Officer (KMP) upon superannuation on September 30, 2026.”
-- In the documents: “Appointment of Ms. Sonija M. S. as Chief Financial Officer, Key Managerial Personnel” — [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-09-30 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_30092026153311_Final_Disc_Cess_KMP_300926.pdf) · [2026-07-31 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_31072026191205_Earning_call_31072026.pdf) · +1 more
+- In the documents: “Ms. Sonija M. S., Chief (I/C), Finance & Accounts as Chief Financial Officer of the Corporation w.e.f. November 26, 2026.” — [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-09-30 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_30092026153311_Final_Disc_Cess_KMP_300926.pdf) · [2026-07-31 General Updates](https://nsearchives.nseindia.com/corporate/LIC_BOARD_31072026191205_Earning_call_31072026.pdf) · +1 more
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
-*All 21 filing(s) read for the seats:* [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163053_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163126_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163150_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163215_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163306_Final_Dis_Int_App_ID_07102026.pdf) · +15 more
+*All 23 filing(s) read for the seats:* [2026-11-25 Change in Management](https://nsearchives.nseindia.in/corporate/LIC_BOARD_25112026161406_Final_CFO_AA_appointment.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163053_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163126_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163150_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163215_Final_Dis_Int_App_ID_07102026.pdf) · [2026-10-07 Appointment](https://nsearchives.nseindia.com/corporate/LIC_BOARD_07102026163306_Final_Dis_Int_App_ID_07102026.pdf) · +17 more
 
 ### 2. Financials — the last three years
 
@@ -58,7 +59,7 @@
 
 **President of India, acting through the Ministry of Finance, Government of India** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 96.5% → 90.0%.
 
-**Sunil Agrawal** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
+**Sunil Agrawal** — Chief Financial Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -76,32 +77,32 @@ The company's results while they held the seat (the year before they took it, to
 - Also on file: Managing Director at JINDALSTEL (FY2022–FY2023, annual reports).
 - Also on file: Managing Director at VAIBHAVGBL (FY2022–FY2026, annual reports).
 
-**Shatmanyu Shrivastava** — Chief Financial Officer, Key Managerial Personnel, in the seat since FY2027 per the filing.
+**Shatmanyu Shrivastava** — Chief Financial Officer, in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
 ### 4. Track record — the incoming management
 
-**Shatmanyu Shrivastava** — Chief Financial Officer and Key Managerial Personnel. from: internal; experience: a career spanning over three decades; qualifications: fellow member of Institute of Chartered Accountants of India (passed in 1989). He is also a fellow of Insurance Institute of India (passed in 2000). He is pursuing Actuarial studies and has passed 7 papers of Actuarial examination conducted by Institute of Actuaries of India.
+**Shatmanyu Shrivastava** — Chief Financial Officer. from: internal; experience: a career spanning over three decades; qualifications: fellow member of Institute of Chartered Accountants of India (passed in 1989). He is also a fellow of Insurance Institute of India (passed in 2000). He is pursuing Actuarial studies and has passed 7 papers of Actuarial examination conducted by Institute of Actuaries of India.
 
 The filing's own profile: “Shri Shatmanyu Shrivastava is a fellow member of Institute of Chartered Accountants of India (passed in 1989). He is also a fellow of Insurance Institute of India (passed in 2000). He has joined Life Insurance Corporation of India in the year 1990 as an Assistant Administrative Officer. In a career spanning over three decades, he has got wide exposure of working across all departments of the Corporation. He has joined Chief (Finance & Accounts), Central Office in May 2022 and steered first closing of accounts of the Corporation post IPO. Prior to taking over charge as Executive Director (Finance & Accounts) & Chief Financial Officer, he was working as Executive Director (Enterprise Risk Management) & Chief Risk Officer, Key Managerial Personnel.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Assistant Administrative Officer | Life Insurance Corporation of India (LICI) | 1990 | — |
-| Chief (Finance & Accounts), Central Office | Life Insurance Corporation of India (LICI) | 2022 | — |
 | Executive Director (Enterprise Risk Management) & Chief Risk Officer, Key Managerial Personnel | Life Insurance Corporation of India (LICI) | — | 2026 |
-| Executive Director (Finance & Accounts) | Life Insurance Corporation of India (LICI) | — | — |
+| Executive Director (Finance & Accounts) | Life Insurance Corporation of India (LICI) | — | 2026 |
+| Chief (Finance & Accounts), Central Office | Life Insurance Corporation of India (LICI) | 2022 | — |
+| Assistant Administrative Officer | Life Insurance Corporation of India (LICI) | 1990 | — |
 
-**Sonija M. S.** — Chief Financial Officer, Key Managerial Personnel. from: internal; experience: career spanning over three decades; qualifications: She is a Fellow Member of the Institute of Chartered Accountants of India (ICAI)..
+**Sonija M. S.** — Chief Financial Officer. from: internal; experience: career spanning over three decades; qualifications: Fellow Member of the Institute of Chartered Accountants of India (ICAI).
 
 The filing's own profile: “Ms. Sonija M. S. joined the Corporation in the year 1993 as a Direct Recruit Officer. She is a Fellow Member of the Institute of Chartered Accountants of India (ICAI). In her career spanning over three decades in the Corporation she has worked at various offices in different roles heading Finance and Accounts, Debt & Project portfolio and stressed assets in Investment departments along with exposure to Claims, Office Services, Personnel departments in various cadres. She has also worked in Insurance Ombudsman office as Secretary taking care of resolution of complaints and disputes in Insurance claim settlements. Prior to taking over charge as Chief Financial Officer, she was Chief (In-charge) of the Finance & Accounts Department at the Central Office.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Direct Recruit Officer | Life Insurance Corporation of India (LICI) | 1993 | — |
-| Secretary | Insurance Ombudsman office | — | — |
 | Chief (In-charge) of the Finance & Accounts Department at the Central Office | Life Insurance Corporation of India (LICI) | — | 2026 |
+| Secretary | Insurance Ombudsman office | — | — |
+| Direct Recruit Officer | Life Insurance Corporation of India (LICI) | 1993 | — |
 
 ### 5. On the calls
 

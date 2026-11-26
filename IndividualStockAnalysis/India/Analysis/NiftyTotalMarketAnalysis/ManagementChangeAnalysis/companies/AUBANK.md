@@ -13,7 +13,7 @@
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Appointment of Mr. Gaurav Jain as Chief Financial Officer ("CFO") of the Bank with effect from April 27, 2026.” — [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026162647_BM_Outcome.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026163051_BM_Outcome.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/SUMIT1_24042026201228_Reg_30_5_SE_Intimation.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AUBANK_07092026184236_Voting_Result_AGM_Submission.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026162647_BM_Outcome.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026163051_BM_Outcome.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/SUMIT1_24042026201228_Reg_30_5_SE_Intimation.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/AUBANK_23042026195453_RBI_Approval_WTD.pdf) · [2026-02-12 General Updates](https://nsearchives.nseindia.com/corporate/SUMIT1_12022026202023_SE_RBI_approval_MD_reappointment.pdf) · +1 more
+*All 11 filing(s) read for the seats:* [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AUBANK_07092026184236_Voting_Result_AGM_Submission.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026162647_BM_Outcome.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUMIT1_27042026163051_BM_Outcome.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/SUMIT1_24042026201228_Reg_30_5_SE_Intimation.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/AUBANK_23042026195453_RBI_Approval_WTD.pdf) · [2026-02-12 General Updates](https://nsearchives.nseindia.com/corporate/SUMIT1_12022026202023_SE_RBI_approval_MD_reappointment.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -48,10 +48,11 @@ The filing's own profile: “An all‑India rank holder Chartered Accountant and
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Interim Chief Financial Officer | AU Small Finance Bank Limited (AUBANK) | 2025 | 2026 |
+| President - Finance & Strategy | AU Small Finance Bank Limited (AUBANK) | 2021 | — |
 | senior leadership roles | Morgan Stanley | — | — |
 | senior leadership roles | Lloyds Banking Group | — | — |
 | senior leadership roles | Tech Mahindra (TECHM) | — | — |
-| senior leadership roles | PwC | — | — |
+| started his career with PwC (in New Delhi) where he was involved in audit of clients across various sectors during his tenure of six years | PwC | — | — |
 
 ### 5. On the calls
 

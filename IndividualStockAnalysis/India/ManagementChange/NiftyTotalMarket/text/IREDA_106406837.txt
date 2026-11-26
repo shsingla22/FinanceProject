@@ -1,0 +1,1700 @@
+Shiv & Associates
+Chartered Accountants
+103 & 105, Ajanta Market, Plot No. 1,
+Vardhaman lndraprastha Plaza,
+I.P. Extension, Partparganj,
+Delhi - 110092
+
+Rao & Emmar
+Chartered Accountants
+489, II Floor, Pocket 4,
+DDA LIG Flats
+Sector 11, Dwarka,
+New Delhi-110075
+
+Independent Auditor's Report on the Audit of Consolidated Interim Financial Statements
+
+To
+The Members of
+Indian Renewable Energy Development Agency Limited
+
+Opinion
+We have audited the accompanying Consolidated Interim Financial Statements of Indian
+Renewable Energy Development Agency Limited (hereinafter referred to as "Holding
+Company"),which includes its Subsidiary (Holding Company and its subsidiary together referred to
+as "the Group"), which comprise the Consolidated Balance Sheet as at 30 September , 2025 and the
+Consolidated Statement of Profit and Loss (including Other Comprehensive Income) , the
+Consolidated Statement of Cash Flow and the Consolidated Statement of Changes in Equity for the
+half year ended on that date, and notes to the Consolidated Financial Statements, including material
+accounting policies and other explanatory information (hereinafter referred to as Consolidated
+Interim Financial Statements")
+In our opinion and to the best of our information and according to the explanations given to us, and
+based on the consideration of reports of other auditors on separate Interim Financial Statements and
+on the other Interim Financial information of the subsidiaries, the aforesaid Consolidated Jnterim
+Financial Statements give the information required by the Act in the manner so required and give a
+true and fair view in conformity with the Indian Accounting Standards prescribed under section 133
+of the Act read with the Companies (Indian Accounting Standards) Rules, 2015, as amended, ("Jnd
+AS") and the accounting principles generally accepted in India, of the consolidated state of affairs of
+the Group as at 30 September, 2025, and their consolidated profit including their consolidated total
+comprehensive income, their consolidated changes in equity and their consolidated cash flows for
+the half year ended on that date .
+
+Basis for opinion
+We conducted our audit of the Consolidated Interim Financial Statements in accordance with the
+Standards on Auditing specified under section 143(10) of the Act ("SAs") . Our responsibilities under
+those Standards are further described in the 'Auditor's Responsibilities for the Audit of the
+Consolidated Interim Financial Statements section of our report. We are independent of the Group
+in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India
+("!CAI'') together with the ethical requirements that are relevant to our audit of the Consolidated
+Interim Financial Statements under the provisions of the Act and the Rules thereunder, and we have
+fulfilled our other ethical responsibilities in accordance with these requirements and the !CAi ' s Code
+of Ethics. We believe that the audit evidence obtained by us and the audit evidence obtained by the
+other auditors of the Subsidiary is sufficient and appropriate to provide a basis for our audit opinion
+on the Consolidated Interim Financial Statements.
+
+1
+
+
+Emphasis of Matter
+We draw your attention to the following matters:
+1. As described in Note 38 (42) to the Consolidated Interim Financial Statements, the holding
+company has classified certain Loans given aggregating to Rs. 407.20 crore required to be
+classified as stage III !Non-Performing Assets (NPA) as stage 11 I Standard in terms of interim
+order of Hon'ble High Courts. The statutory disclosures have been made accordingly .
+However, as a matter of prudence , interest income on such accounts becoming NP A in terms
+of prudential norms of RBI has been recognized on collection basis and allowance for
+impairment loss has been made in accounts accordingly.
+2. As described in Note 50 (B)(a) to the Consolidated Interim Financial Statements, As of 30
+September 2024,the reported CRAR of the Holding Company was 20.24% .This calculation
+was based on a 50% risk weight assigned to commissioned renewable energy infrastructure
+project assets financed by the holding Company that had reached their commercial operations
+date (COD) and had been operational for over a year. However effective from 31 March , 2025
+the company has applied a 100% risk weight to these assets. Accordingly, CRAR for the
+corresponding period as at 30 September 2024 has been restated to 15.84%.
+Our opinion is not modified in respect of the above matters.
+
+Responsibilities of Management and Those Charged with Governance for the Consolidated
+Interim Financial Statements
+The Holding Company's Board of Directors is responsible for the preparation and presentation of
+these Consolidated Interim Financial Statements that give a true and fair view of the state of affairs
+( Financial position), Consolidated Profit or Loss (Financial performance including Consolidated
+other comprehensive income) , Consolidated changes in equity and cash flows of the group in
+accordance with the accounting principles generally accepted in India, including the Indian
+accounting Standards specified under section 133 of the Act.
+This responsibility also includes maintenance of adequate accounting records in accordance with the
+provisions of the Act for safeguarding of the assets of the Group and for preventing and detect ing
+frauds and other irregularities ; selection and application of appropriate accounting policies; makin g
+judgments and estimates that are reasonable and prudent; and design , implementation and
+maintenance of adequate Internal Financial controls , that were operating effectively for ensuring the
+accuracy and completeness of the accounting records , relevant to the preparation and presentation of
+the Consolidated Interim Financial Statements that give a true and fair view and are free from
+material misstatement, whether due to fraud or error.
+In preparing the Consolidated Interim Financial statements, the Board of Directors of the respective
+Management and Board of Directors of the companies included in the Group is responsible for
+assessing the respective entities to continue as a going concern, disclosing , as applicable, matters
+related to going concern and using the going concern basis of accounting unless the respective Board
+of Directors either intends to liquidate their respective entities or to cease operations, or has no
+realistic alternative but to do so. The respective Board of Directors of the companies included in
+Group is responsible for overseeing the Interim Financial reporting process of the Group.
+
+2
+
+
+Auditor's Responsibilities for the Audit of the Consolidated Interim Financial Statements
+Our objectives are to obtain reasonable assurance about whether the Consolidated Interim Financial
+Statements as a whole are free from material misstatement, whether due to fraud or error, and to issue
+an auditor's report that includes our opinion . Reasonable assurance is a high level of assurance, but
+is not a guarantee that an audit conducted in accordance with Standard on Auditing will always detect
+a material misstatement when it exists . Misstatements can arise from fraud or error and are considered
+material if, individually or in the aggregate, they could reasonably be expected to influence the
+economic decisions of users taken on the basis of these Consolidated Interim Financial statements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain
+professional scepticism throughout the audit. We also:
+Identify and assess the risks of material misstatement of the Consolidated Interim Financial
+Statements, whether due to fraud or error, design and perform audit procedures responsive to
+those risks , and obtain audit evidence that is sufficient and appropriate to provide a basis for
+our opinion. The risk of not detecting a material misstatement resulting from fraud is higher
+than for one resulting from error, as fraud may involve collusion, forgery, intentional
+omissions, misrepresentations, or the override of internal control.
+Obtain an understanding of Internal Financial control relevant to the audit in order to design
+audit procedures that are appropriate in the circumstances.
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures made by management of the respective companies of the
+group.
+•
+
+Conclude on the appropriateness of management's use of the going concern basis of accounting
+and, based on the audit evidence obtained, whether a material uncertainty exists related to
+events or conditions that may cast significant doubt on the ability of the company to continue
+as a going concern. lf we conclude that a material uncertainty exists, we are required to draw
+attention in our auditor's report to the related disclosures in the Consolidated Interim Financial
+statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are
+based on the audit evidence obtained up to the date of our auditor's report. However, future
+events or conditions may cause the Group to cease to continue as a going concern.
+
+•
+
+Evaluate the overall presentation, structure and content of the Consolidated Interim Financial
+Statements, including the disclosures, and whether the Consolidated Interim Financial
+statements represent the underlying transactions and events in a manner that achieves fair
+presentation.
+Obtain sufficient appropriate audit evidence regarding the Financial information of the entities
+or business activities within the Group to express an opinion on the Consolidated Interim
+Financial statements. We are responsible for the direction, supervision and performance of the
+audit of the Interim Financial Statements of such entities included in the Consolidated Interim
+Financial Statements of which we are the independent auditors. For the other entities included
+in the Consolidated Interim Financial Statements, which have been audited by other auditors,
+such other auditors remain responsible for the direction , supervision and performance of the
+audits carried out by them. We remain solely responsible for our audit opinion.
+
+Materiality is the magnitude of misstatements in the Consolidated Interim Financial Statements that,
+individually or in aggregate, make it probable that economic decisions of a reasonably
+knowledgeable user of the Consolidated Interim Financial Statements may be influenced. We
+consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work
+3
+
+
+and in evaluating the results of our work and (ii) to evaluate the effect of any identified misstatements
+in the Consolidated Interim Financial Statements .
+We communicate with those charged with governance of the Holding Company and such other entity
+included in the Consolidated Interim Financial Statements regarding , among other matters , the
+planned scope and timing of the audit and significant audit findings, including any significant
+deficiencies in internal Interim Financial control that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and
+other matters that may reasonably be thought to bear on our independence , and where applicable ,
+related safeguards .
+From the matters communicated with those charged with governance, we determine those matters
+that were of most significance in the audit of the Consolidated Interim Financial statements of the
+current period and are therefore the key audit matters . We describe these matters in our auditor ' s
+report unless law or regulation precludes public disclosure about the matter or when , in extremely
+rare circumstances, we determine that a matter should not be communicated in our report becaus e
+the adverse consequences of doing so would reasonably be expected to outweigh the public interest
+benefits of such communication .
+
+Other Matters
+1.
+
+The consolidated financial results include audited financial statement of one subsidiary ,
+whose standalone Interim Financial statements reflect total assets of Rs 29.76 cror es as
+at 30 September , 2025 , total revenues of Rs. 0.08 crore, net profit of Rs. 0.53 crores ,
+other comprehensive income of Rs 1.06 crores and net cash inflows amounting to Rs
+1.69 crores for the half year ended 30 September 2025, as considered in the Consolidated
+Interim Financial Statements , which have been audited by their respective indep endent
+Auditors. The independent auditors ' reports on financial statements of this entity have
+been furnished to us and our opinion on the consolidated interim financial results , in so
+far as it relates to the amounts and disclosures included in respect of this entity, is based
+solely on the report of such auditors and the procedures performed by us are as stated in
+paragraph above.
+
+11.
+
+As per past practice, in respect of loan assets, the holding company has provided an
+expected credit loss (ECL) as required under Ind AS 109 based on the ECL report
+submitted by an independent expert appointed by the holding company, which inter alia
+includes assumptions based on technical parameters I certain aspects.
+
+For Shiv & Associates
+Chartered Accountants
+Firm ' s Registration Number: 009989N
+
+fr/f1111.
+
+'
+
+For Rao & Emmar
+Chartered Accountants
+
+--
+
+........
+
+Place: New Delhi
+Date: 14-10-2025
+4
+
+
+EllERGV FOR EVER
+
+Indian Renewable Ener gy Development Agency Limited
+CIN: L65 IOODL I987GOI027265
+
+O NCE I REDA AlWA VS /REDA
+
+(}f !JVmmrt 1ur ()J.1.f,'<'C)
+
+Consolidat ed Balan ce Sheet as at September 30, 2025
+
+(f in Cro res)
+
+Particulars
+
+S.No.
+I
+A
+
+B
+
+II
+A
+
+B
+
+c
+
+Note No.
+
+ASSETS
+Financial Assets
+(a) Cash and Cas h Eq uivalents
+(b) Bank Ba lance ot he r tha n (a) above
+(c) Der ivative Pina ncia l Instrum ents
+(d) Receivables
+(1) Trade Rece ivab les
+(e) Loans
+(f) Investment s
+(g) Ot her Financia l Assets
+Total-Financial Assets (A)
+Non-fin anc ial Asse ts
+(a) Current Tax As se ts (Net)
+(b) Deferred Tax Assets (Net)
+(c) Investment Prope rty
+(d) Property , Plant and Eq uip ment (PPE)
+(e) Cap ital Work-I n-Progress
+(I) Right of use Assets
+(g) Intangible Asse ts und er deve lopmen t
+(h) Intang ible Assets
+(i) Other Non-Pina ncial Assets
+Total-Non-Financial Asse ts (B)
+Total Assets (A+B)
+
+As at 30.09.2025
+
+2
+3
+
+As at 30.09.2024
+
+199 .68
+800 .99
+739.4 8
+
+494.04
+695 .3 1
+603.00
+
+5
+6
+7
+8
+
+5.22
+82,622 .98
+754 .23
+21.20
+85,143.78
+
+4.9 5
+63,7 18.64
+659 . 12
+29 .28
+66,204,34
+
+9
+10
+II
+12
+13
+14
+IS
+16
+17
+
+196.93
+4 14.SS
+0.02
+190.52
+
+179.4 6
+30 1.90
+0.02
+204.51
+
+4
+
+-
+
+-
+
+140.4 1
+0.23
+4.72
+1,704 .75
+2,652.13
+87,795.91
+
+146.64
+4.20
+I 707 .38
+2,544 .11
+68,748.45
+
+26 .67
+
+88 .36
+
+0.2 1
+
+0.08
+
+LIABILITIES AN D EQU IT Y
+LIABILITI ES
+Financial Lia biliti es
+(a) Deriva tive Pina ncia l Instrum en ts
+(b) Payab les
+(I) Trade Payab les
+(i) Total outstanding du es of Micro Ente rprises and Small
+Ente rpri ses
+(ii) Tota l outsta ndi ng dues of creditor s ot her than Micro
+Enterpri ses and Sma ll Enterprises
+(c) Debt Securities
+(d) Borrowings (O ther than Debt Sec urities)
+(e) Subord inated Liabi liti es
+(t) Other Financ ial Liabi lities
+Total-Financial Liabilities (Al
+Non-Financial Lia bilit ies
+(a) Provisions
+(b) Other Non -Financia l Liabili ties
+Tota l-Non-Finan cial Liabilities (B)
+Equity
+(a) Eq uity S hare Cap ital
+(b) Other Eq uity
+To tal- Eq ui ty (C)
+Total-Liabilities and Eq uity(A+B +C)
+
+4
+18
+
+4.70
+
+0.88
+
+19
+20
+21
+22
+
+28 ,941.56
+37,740.64
+3,257 . 18
+2,27 1.09
+72,242,05
+
+22,799 .72
+31,189.47
+649.45
+1,735.44
+56,46 3.40
+
+23
+24
+
+780 72
+1,850.99
+2,631.71
+
+1, 104 . 17
+1,844 . 75
+2,948.92
+
+25
+26
+
+2,809 .23
+10, 11 2.92
+12,922.15
+87,795.9 1
+
+2,687 . 76
+6,648 .37
+9 336.13
+68,748 .45
+
+Company Ove rview and Ma te ria l Accou ntin g Policies Information
+The acco mapn ying notes I to 38 form an integra l part of the Conso lidate d Financial Statement s
+As per our Audit Report of even date
+For Shiv & Associates
+Char tere d Accou ntants
+
+For Rao & E mm u r
+
+Partner
+Membership No.- 098607
+
+Place : New Delhi
+Date : 14. 10.2025
+
+For and on Behalf of Boord of Director s
+
+Dr. BK Mohanty
+Director (Finance)
+DIN No. 088 16532
+
+Pradip Kumar Das
+Chairman & Managing Director
+DIN No. 07448576
+
+Company Secretary & Compliance Officer
+ACS. No. 2339 I
+
+
+E.NERar TOR EVER
+
+Indi an Renewabl e Energy Developm ent Age ncy Limit ed
+CIN: L65 100DLl987GOI027265
+
+ONCE IAf.DA Al.WAY$ tRIJOAJ
+
+Co nsolid ated Sta tement of Pr ofit and Loss fo r th e neri od end ed Se ptemb er 30, 2025
+
+1,Va""'l"Ut i'1il
+
+(t in Cro res)
+
+Pa rticulars
+
+S.No.
+I
+i)
+
+ii)
+iii)
+iv)
+
+II
+III
+IV
+ii
+ii)
+iii)
+iv)
+v)
+vi)
+viil
+
+Note No.
+
+Revenu e From Ooe ra tions
+Interes t Income
+
+Pe riod ended 30.09.2 025
+
+27
+28
+29
+30
+
+Fees and Commission Income
+Net "a inl<loss\ on Fair Value Cha nues
+Other Ooerati n" Income
+Tota l Reve nu e Fro m O nera tions III
+Other Income
+Total In come !1+111
+
+31
+
+Exoenses
+Finance Cost
+Net Trans lation/ Transact ion Exc hange Loss/(Gai n)
+
+lmoainnent on Financial Instruments
+
+Emo lovee Benefits Exoenses
+Deorecia tion, Amo11ization and Jmoa irment
+Others Expenses
+Coroorate Socia l Resoonsi bilitv Exnense
+T ota l Ex nenses ll VI
+v Profit/CLoss\ Before Exceotiona l Items and Tax llJl -I Vl
+VI Exce otiona l Items
+VII Pro fit/ILoss l Befo re Tax IV-Vil
+VIII T ax Expense
+(ii Current Tax
+' ii) Deferred Tax
+IX Profit/( Loss) from Continuinu Ooerations CVIl-VIll )
+Profit/ILossl from Discont inued Ooerations
+Pro fi t/I Loss l fo r the ner iod
+XI O ther Co mpr eh ensive Income (OC I)
+IAI ICi) Items that will not be rec lassified to Profit or Loss
+- Remeasu rements of the Defined Benefi t Plans:(ii) Income tax rela ting to items that will not be rec lassifie d to Profit
+or Loss
+Subt ota l CAI
+IBI l il Items that will be rec lassified to Profit or Loss
+-Effec tive portio n of Gai n/( Loss) on Hedgi ng Instrumen t in Cash Flow
+Hedge Reserve
+-Trans lation Reserve on Conso lidation
+
+32
+33
+34
+35
+36
+37
+38(401
+
+Pe ri od End ed 30.09.2024
+
+3,939 .53
+27 .53
+17.07
+20.75
+4 004.88
+12.8 1
+4,01 7.69
+
+3,059 .80
+50.69
+13. 15
+16.18
+3 139.82
+J.26
+3, 14 1.08
+
+2,431.24
+29 .98
+432.53
+47 .18
+20.40
+38.83
+16 .30
+30 16.46
+1,001.23
+
+2,005 . 11
+69.45
+3.82
+40 .70
+18.06
+56.02
+12.29
+2 205.45
+935 .63
+
+-
+
+1,00 1.23
+
+935.63
+
+254 .24
+(49 .22)
+796 .2 1
+
+172.91
+(8 70)
+77 1.42
+
+796.2 1
+
+77 1.42
+
+14.08)
+1.03
+
+( 14.941
+3.76
+
+13.05 1
+
+(I 1.18)
+
+11 5.93
+
+160. 10
+
+1.06
+
+-
+
+ICi i) Income tax relating to items tliat will be reclassified to Profit or
+Subt otal IBI
+Oth er Co nmr ehensive In come CA+B I
+
+729 . 18)
+87.82
+84.76
+
+(40.29)
+11 9.8 1
+108.63
+
+XII
+
+To ta l Co mp re hensive In come fo r the per iod (X+X I) (Co mpri sing
+Profit (Loss ) a nd O th er Co mprehensive Inc ome)
+
+880.97
+
+880.05
+
+Xlll
+
+Ea min t! Der eQ uitv sh a re (fo r Co ntinu int! 0 Dcra tionsl
+2.88
+2.88
+
+2.87
+2.87
+
+-
+
+-
+
+2.88
+2.88
+
+2 .87
+2 .87
+
+38(3)
+
+-
+
+x
+
+-
+
+-
+
+Dilutedm
+XIV Ea rnin 2 ner cmlitv sha r e (for Discontinu ed O ne ra tionsl
+
+xv
+
+-
+
+38( 14)
+
+Di luted
+Ea rn ing pe r eq ui ty sha re (fo r Co ntinuin g an d Disco ntin ued
+oncrat ions l
+Basic
+Diluted
+
+-
+
+Compa ny Overview and Material Acco unting Policies Informatio n
+The accomap nying notes 1 to 38 form an integra l part of the Conso lidated Fina ncial Statements
+
+Fo r Rao & Em ma r
+Chartered Accou ntants
+!CAI Regn No .- 003084S
+
+Partner
+
+Membership No.- 098607
+
+Place New Delhi
+Date . 14. I 0.2025
+
+For a nd on Beha lf of Boa rd of Directors
+
+Dr. B K Mohunty
+Director (Finance)
+DIN No. 088 16532
+
+P radi p Kumar Das
+
+Chainnan & Managing Director
+DIN No. 07448576
+
+Company Secretary & Compliance Officer
+ACS. No. 23391
+
+
+Indian Renewable Energy Development
+
+Agency Limited
+
+CIN: L65100DL1987GOI027265
+Consolidated
+
+Statement of Cush Flows for the period e nded September 30, 2025
+
+lf in Crores)
+
+S.No. Particulars
+A
+
+Cash Flow from Operating Activities:
+Profit Before Ta.x
+Adjustment for:
+I Loss I (Gain) on dcrccognition of Property, Pinnt nnd Equipment (Net}
+
+2
+
+Impairment on Financial Instruments
+Depreciation ru1d Amortization
+Amorti1..atio11 adjustment due to WB Grant
+Interest on Lease Liability
+Net Trans lntion/ Trnnsnction Exchange Loss I (Goin)
+
+Period ended
+
+Period ended
+
+30.09.2025
+
+30.09.2024
+
+1,00 1.23
+
+935.63
+
+0.60
+432 .53
+
+0.35
+3.82
+
+20.40
+
+18.06
+
+0. 19
+
+0. 19
+
+0. 17
+
+0. 17
+
+31.05
+
+69.45
+(0 .01)
+
+Provision Written Bnck
+
+10
+11
+
+Amounts Wrillcn OIT I Bad debts
+Provisions for Employee Benefits
+EITcctivc Interest Rate on Debt Securities
+EITccti\'clntcrcsl Rate on Subordinated Liabilities
+
+12
+
+Effective Interest Rate on Loru1s
+
+13 Provision for Indirect Tax (Jnclmling on Guarantee Commission) & Others
+14 Net Loss / (Gain} on Fair Value Changes
+Operating Profit before changes in Operating Assets and Liabilities
+Increase I Decrease in Operating Assets I Liabilities
+I
+Loan Assets
+2 Other Financial Assets
+Other Non-Financial Assets
+Trade Receivables
+Olher Non-Fimmcial Linbilities
+01her Financial Liabilities
+Lease Liability
+Trade Payable
+Bank Balances other than Cash and Cash Equi"nlcnt
+
+8
+
+C
+
+Cash Flow from Operutions Before Exceptional Items
+Exceptional Item
+Net Cosh InOow/(Outflow) from Operations Before Tax
+Income Tax
+Net Cash Flow from 01>eratiug Activities
+Cash Flow From Investing Activities
+l
+Purchase or Property, Pinnt & Equipment
+2 Sale or Property, Plant & Equipment
+lntnngiblc Asset Under Development
+ln"cslmenl in Government Sccuri1ies(Nel)
+Net Cush Flow from Investing Activities
+Cash Flow from Financing Astjyjtjes
+I
+Proceeds from Issue of Equily Shares
+Proceeds from Securities Premium
+Share Issue Expenses
+Issue of Debt Scuritics (Net of redemptions)
+Raising of Subordinated Linbilities including POI (Net of redemptions)
+Raising of Loans other thnn Debt Securities (Net of repayments)
+Payment for Lease Liabilily
+Net Cash Oow from Financing Arti,•ities
+Net lncre ose/Desreose in Cash and Cash Equiva lents
+Cash and Cash Equivalents al the Beginning
+Cash nnd C;ish Eqni\'alents nt the End
+
+0.50
+
+16.62
+
+Ui6
+(0.27)
+
+2. 15
+(3.89)
+
+(0.39)
+
+0.04
+
+16.46
+
+15.03
+
+12.33
+
+14.04
+
+17.07
+1,533 .53
+
+1,084.80
+
+(8,204.45)
+
+(4 ,897.08)
+
+(277.32)
+
+(696 .00)
+
+(39 .89)
+
+(38 .56)
+
+13. 15
+
+0.7 1
+
+1.07
+
+10.73
+
+37.36
+
+752.64
+
+435.95
+(0.00)
+
+(0.22)
+(4.22)
+
+(6.34)
+
+( 159.65)
+
+(33 .64)
+
+(7,921.67)
+
+(5,197.24)
+
+(6,388.14)
+
+(4,112.44)
+
+(6,388.14)
+(260.44)
+
+(4,11 2.44)
+(237 .25)
+(6,648.58)
+
+(4,349.69)
+
+(8. 15)
+
+(12 .85)
+
+0.29
+(0.23)
+
+0.07
+
+( 141.47)
+(12.78)
+
+(149.56)
+121.47
+1,884.43
+( 14.87)
+495.GO
+
+S,O!.JO.OU
+
+453.00
+(307 . 17)
+
+4,001.04
+(0. 14)
+
+(0.53)
+6,940.53
+
+4,782.30
+
+142.39
+
+419.83
+
+57.29
+
+74.2 1
+494 .04
+
+199.68
+
+Compone nts of Cash 1rnd Cush Equivolents as at end or the period are:
+In Current Accounts with Banks in lndinn Branch
+14.59
+In Current Accounts with Banks in Foreign Brnuch
+0.07
+Short term Deposits in Foreign Branches
+29.07
+111 Overdrnn Accounts with Banks
+145. 16
+In Deposit Accounts with Banks
+0.00
+In Sa,·ing Bank Accounts with Banks
+10.79
+Cheques Under Collection/DD In hnnd nnd Postngc imprest
+0.00
+Tot al Cash nnd Cnsh Equivalent as nt end of the period
+199.68
+Company Overview nnd Moterrnl Accounting Pollc1cs lnformat1on
+The nccomnpnying notes I to 38 form nn integral part of the Consolidated Financial Statements
+I
+The abo,·e statement of cash flows has been prepared u11der the indirccl method ns set out in Ind AS 7 'Stntcmcnl ofCnsh Flows'
+Refer Note 38 (40) for amounts spend on conslmction I ncquisition of assets and other purposes related to CSR aetivilies.
+2
+There nre no rcpalrinlion restrictions with respect to Cash nnd Cash Equivnlcnts nnd Bnnk balnnccs ns nt the end of the reporting period presented nbo,•c.
+Previous period ligurcs ha"c been rearranged and regrouped wherever nceessnry.
+
+8.37
+0.54
+171.60
+
+303.24
+10.29
+
+0.00
+494.04
+
+FOr llnd on Behalr of Bon rd of Directors
+
+Dr.BK Mohanty
+Director (Finance)
+DIN No.
+
+Place : New Delhi
+Dntc : 14. J0.202.5
+
+Prndip Kumar Das
+Chainnnn & Managing Director
+DIN No. 07448576
+
+Ekta Mada n
+Company Secretary & Compliance Ofliccr
+ACS. No. 23391
+
+
+Indian Rene,rable Ene rgy Development
+
+Limited
+
+Ei-.'E:RG'fFOR&Eff
+
+CIN: l65J00Dll987(.0!027265
+
+Cc1nsolid:1tcd St11temcnt Or C h:1nac, In Equin · for the re r iod ended Seplcmbcr JO 2025
+A
+
+ONCE r.REDA AL.W',!'l"SIREDA
+
+£quit\ " Sb:1re C:.irit:d
+Particubn
+
+ohfuu-"
+
+(Jf
+
+........
+
+(!RS'£ )
+
+Ctine'l-<xa)
+
+lssm.-d. Subscrib<.-d:ind Full \' Paid up:
+
+B
+
+Ooeni1111: Balance as at 01 .04.2024
+ChangCl durin 2 the period
+Add: lnu c durine tbc period
+l(i'} Fresh Issue ofEcruitv Shares
+(ii)Ca lline up Unpaid Capital
+B:al:anec:11 at 30.09.2024
+
+2.68.77,64.706
+
+2.687.76
+
+2.68.n.64.7 06
+
+2.687.76
+
+n....,,,;,.,.Balance as at OJ .04.2025
+
+2.68 ..7i.64.7fl6
+
+2.687.76
+
+during the period
+Add: h 'uc during the pcricld
+l<i) fresh Issue '1fEouitv Shrircs
+l(ii) Calling up Unoaid Caoital
+Clo, ing B:abincc :u 1130.09 .2025
+
+12.14.66.56 2
+
+12 1.47
+
+2,80.92.31.268
+
+2.809 .. 23
+
+(ti nCroml
+
+OthcrEquit\ "
+& Surplu s
+
+P:1rticul2n
+
+Specia l Rc,cn·r ..Us
+Gcncnl Reserve
+
+I 36(l)(viii) of Income
+
+Debenture
+Rrdrmptio11
+
+Tu: Act, 1961
+Ope ning B:1!:1nce :at 01.04.2024
+Prcmiwn rcccin .-J on Sl1:1rcs issued during the pcrioJ
+Sh:ire issue cxp<.-nses(net of tax bo.."'Ilcfits)
+Profit for lhc po.."liod
+Rcmcasunncnt of Dcfmcd Ikr1o:flt Plans 1Nct of ta.-.;...""S)
+R1.-o.1gnitionthrough OCI (Net ofT:ixes)
+Tot:al Con1pre hen, in Income for th\" period ended 30.09 .202..i
+
+Net Tr:mskr to I from Rctail'll.-dEarnings during the pt.'fiod
+Shari: Issue Expensestncl of tax benefit!!)
+Addiions to FCTMR during the period
+t\mortisation of FCTMR durin2 the ocriod
+Closine & lance :as lit 30.09.202..&
+Ope ning Balance :u at 01.ll4.202S
+Premiwn n.'C..:i1."1.-don Sl1:1ro:s issue:.-.:!
+the period
+Share
+cxpo;ll.Sl.."'S(net of 1ax benefits)
+Profit for the period
+Rcmcasurmcnt ofDcfuu.'CI Benefit Plans 1N1.1 ofta.-.;es)
+Recognition throu¢i OCI (net of taxes)
+!Translation rcsc..--r.'c on consolida!ion of
+Tota l Comprchensin lncnmr for lhe period ended 30.09 .2025
+Nct Transfcr to I fwm Retaino:.-JEarnings
+the period
+From Dd:11.-ntureRedemption R\.-scr\"es
+Slur..: !JCSU.: Expo;nsi.::;;(n..:t or l3X b..'IlCfits)
+Addilons to FCTMR dwi11g the pc1iod
+Amortisation of FCTMR
+the period
+Cl0Jin2 &l;ancc :u at 30.09.2025
+Cl1mp.;myOn:rvic\\"and Mah.'fialAcC01.U1ti.ngPolicies lnfonnation
+The accomapnying notes l f(I 38 fom1 an
+part ofthc C'1nsoli<btcd Financial Statements
+
+2,610...&8
+
+l.S8J.10
+
+397.75
+
+N.BFC Rescn ·c u/s
+-'5-ICorR cJCn 'e
+Bank or lndia Act,
+193'
+712.83
+
+38.26
+
+Sccuritic5
+Premium
+
+I
+
+Tra11Jlatio11
+Forcign Currency
+on
+Monetary lt tm
+Consolidation Tnnsl2tion Rnen 'c
+
+863.63
+
+I
+
+(31&37) 1
+
+Cub Flow
+Hedge Rescn ·c
+
+Tota l
+
+(l•.0:2)1
+
+(11.18)
+
+11 9 .8 1
+119.81
+
+11 9.81
+Bfl!UIS
+
+( 113.75)
+10.40
+<-'21.71)
+
+105.79
+
+(113.75)
+10.40
+6,648.37
+
+(379.08)
+
+69.76
+
+7.S78A I
+
+86.75
+86.75
+
+7% .21
+(3.05),
+86.75
+1.06
+879.9 1
+
+156.S I
+
+(226.69)
+6.57
+!0,112.92
+
+760.2..&
+
+161.00
+
+0.00
+
+(181.63 )
+
+20.63
+
+2,610.-'8
+
+l ,7"'2.10
+
+418.38
+
+712.83
+
+616.87
+
+863.63
+
+3,S<i0A8
+
+l.9"3.10
+
+439.0 1
+
+1,052..83
+
+Tl.78
+
+86-1.26
+l.&84...&3
+
+0..<'4
+
+796 .2 1
+(J .05)
+1.()6
+
+793. 16
+<202.00i
+
+102.00
+
+(11.13 )
+
+til.13)
+
+3,%0.-48
+
+2.WUO
+
+439.01
+
+1,052.83
+
+(it8.93
+
+5,H71.66
+
+nt. -1-1
+
+771.44
+(II.IS }
+
+.A.5 per our Audit Report of even dale
+
+For Shiv & Associates
+
+Rct.aincd
+E:irnin gJ
+
+2,737.56
+
+1.70
+
+(226.69)
+6.57
+(599. 211)
+
+For and on Beh:tlf or Boa rd or Dirc.:lors
+
+For Rao & Emma r
+
+-countantJ
+
+. ""
+
+lo.-00998
+7:
+9N
+..
+
+'A. M:anisbGupta
+
+'•"""'
+
+Membership No.-095518
+
+Place : New Delhi
+Date: 14. 10.2025
+
+Dr. B K Moh2nty
+Difl:'ttor(Firnncc)
+DINNo.088 1653:?
+
+Pr.1dip Kum:1r D2S
+Chainnan & Managing OiNCtor
+DIN No. 07448576
+
+Company Secretary&. Compliance Offic.er
+ACS. No. 23391
+
+
+Note 1 : Material Accounting Policies Information Forming Part of Consolidated Financial
+Statement
+
+1)
+
+Group Information
+
+Indian Renewable Energy Development Agency Limited ("IREDA" or the "Company ") (CIN:
+L65100DL1987GOI027265) was incorporated in India in the year 1987. The company is a Public
+Limited Company, domiciled in India and is limited by shares having its registered office and principal
+place of business at lst Floor, India Habitat Centre, East Court, Core- 4A, Lodhi Road, New Delhi 110003. In addition to the registered office of the company, the Company also has branch offices and
+also owns a 50 MW Solar project situated at Kasargod in the state of Kerala.
+The Company is a Government of India [Navratna] enterprise under the administrative control of
+Ministry of New and Renewable Energy (MNRE) and is engaged in promoting, developing and
+extending financial assistance for setting up projects relating to new and renewable sources of energy,
+energy efficiency & conservation with the motto: "ENERGY FOR EVER" .
+The Company is a systemicallyimportant non-deposittaking non-bankingfinancingcompany (NBFC-NDSI)
+I NBFC Middle Layer (ML) registeredas an InfrastructureFinance Company (IFC) with the ReserveBank of
+India. Beinga NBFC, the company is regulatedby the ReserveBank of India.
+Equity shares and debt securities of the Company are listed on National Stock Exchange of India
+Limited (NSE) and BSE Ltd .
+The Company has a wholly owned subsidiary company named as "IREDA Global Green Energy
+Finance IFSC Ltd" ("IGEFIL" or the "Subsidiary ") in IFSC (International Financial Services Centre)GIFT City (Gujarat International Finance Tee-City) incorporated on 07.05.2024 . The subsidiary has
+received the Certificate of Registration dated 18.02.2025 from IFSCA to undertake the activities as a
+Finance Company .
+These Consolidated Financial Statements comprise the Financial Statements ofIREDA and its wholly
+owned subsidiary (referred to collectively as the 'Group') . The Group is primarily engaged in
+promoting , developing and extending financial assistance for setting up projects relating to new and
+renewable sources of energy, energy efficiency & conservation .
+2)
+
+Basis of Preparation
+(i) Statement of Compliance with Ind AS
+The Consolidated Financial Statements of the Group have been prepared in accordance with the
+Sec. 133 of the Companies Act 2013 and in compliance with the Indian Accounting Standards (Ind
+AS) issued by the Ministry of Corporate Affairs under the Companies (Indian Accounting Standards)
+Rules, 2015 and as further amended.
+
+The Consolidated Financial Statements are prepared on a going concern basis and on accrual basis
+of accounting. The Group has adopted historical cost convention except for certain items which
+have been measured on a different basis and such basis is disclosed in the relevant accounting policy.
+The Consolidated Balance Sheet, Statement of Profit and Loss and Statement of Changes in Equity
+are prepared and presented as per the requirement of Division III of Schedule III to the Companies
+Act, 2013 applicable for Non-Banking Financial Companies (NBFC). The Consolidated Statement of
+Cash Flows has been prepared and presented as per the requirements oflnd AS 7 'Statement of Cash
+Flows'.
+Accounting policies have been consistently applied except where a newly issued accounting standard
+is initially adopted or a revision to an existing accounting standard requires a change in the accounting
+policy hitherto in use.
+
+
+Note 1 : Material Accounting Policies Information Forming Part of Consolidated Financial
+Statem ent
+Significant management judgment in applying accounting policies and estimation of uncertainty
+(A)
+
+Significant management judgments
+
+Recognition of deferred tax assets/ liability - The extent to which deferred tax assets can be
+recognized is based on an assessment of the probability of the future taxable income against which the
+deferred tax assets can be utilized. Further, the Group Management has no intention to make
+withdrawal from the Special Reserve created and maintained under section 36(1)(viii) of the Income
+tax Act, 1961 and thus, the special reserve created and maintained is not capable of being reversed.
+Hence , the Group does not create any deferred tax liability on the said reserve.
+Evaluation of indicators for impairment of assets - The evaluation of the applicability of indicators of
+impairment of assets requires assessment of several external and internal factors which could result in
+deterioration of the recoverable amount of the assets.
+Non recognition of Interest Income on Credit Impaired Loans - Interest income on credit-impaired
+loan assets is not being recognized as a matter of prudence, pending the outcome of resolutions of
+stressed assets.
+Materiality of Prior Period item
+Prior period items which are not material are not corrected retrospectively through restatement of
+comparative amounts and are accounted for in current year.
+Omissions or misstatements of items are material if they could, individually or collectively, influence the
+economic decisions that users make on the basis of the Consolidated Financial Statements. Materiality
+depends on the size and nature of the omission or misstatement judged in the surrounding circumstances.
+The combinati on of size and nature of the items are the determining factor.
+(B) Significant estimates
+
+Useful lives of depreciable / amortizable assets - Management reviews its estimate of the useful lives of
+depreciable/ amortizable assets at each reporting date, based on the expected utility of the assets.
+Uncertainties in these estimates relate to technical and economic obsolescence that may change the
+utility of assets.
+Defined benefit obligation CDBO) - Management 's estimate of the DBO is based on a number of
+underlying assumptions such as standard rates of inflation, mortality, discount rate and anticipation of
+future salary increases. Variation in these assumptions may significantly impact the DBO amount and
+the annual defined benefit expenses.
+Fair value measurements - Management applies valuation techniques to determine the fair value of
+financial instruments (where active market quotes are not available). This involves developing
+estimates and assumptions consistent with how market participants would price the instrument. In
+estimating the fair value of an asset or a liability, the Group uses market observable data to the extent
+it is available. In case of non-availability of market-observable data , Level 2 & Level 3 hierarchy is used for
+fair valuation.
+Income Taxes - Significant estimates are involved in determining the prov1s1on for income taxes,
+including amount expected to be paid/recovered for uncertain tax positions and in respect of expected
+future profitability to assess deferred tax asset.
+
+
+Note 1 : Material Accounting Policies Information Forming Part of Consolidated Financial
+Statement
+product/ market and the associated ECL;
+• Establishing groups of similar financial assets to measure ECL; and
+• Estimating the probability of default and loss given default (estimates of recoverable amounts in case of
+default).
+Provisions: The timing of recognition and quantification of the liability (including litigations) requires
+the application of judgement to existing facts and circumstances, which can be subject to change. The
+carrying amounts of provisions and liabilities are reviewed regularly and revised to take account of
+changing facts and circumstances.
+(iii) Functional and Presentation currency
+The Consolidated Financial Statements are presented in Indian Rupee ('INR') which is the functional
+currency of Group .
+3) GROUP'S MATERIAL ACCOUNTING POLICIES
+(i) Basis of Consolidation
+
+The Consolidated Financial Statements incorporates the Financial Statements of Company and its
+wholly owned subsidiary. The Financial Statements of the Subsidiary is drawn upto the same reporting
+date as of the Company for the purpose of Consolidation .
+(ii) Subsidiary
+
+A subsidiary is an entity over which the Company has control. The Company controls an entity when
+the Company is exposed to, or has rights to, variable returns from its involvement with the entity and
+has the ability to affect those returns through its power to direct the relevant activities of the entity .
+Subsidiaries are fully consolidated from the date on which the Company obtains the control.
+The Company combines the financial statements of its subsidiary on a line-by-line basis, adding together
+like items of assets, liabilities, equity , income and expenses. The carrying amount of the Company's
+investment in subsidiary and the Company 's portion of equity of subsidiary are eliminated .
+Intercompany transactions, balances, unrealized gains on transactions between the Company and
+subsidiary are eliminated . Unrealized losses are also eliminated unless the transaction provides evidence
+of an impairment of the transferred asset.
+The Consolidated Financial Statements are prepared using uniform accounting policies consistently for
+like transactions and other events in similar circumstances and are presented to the extent possible, in
+the same manner as the Company' s Standalone Financial Statements except as otherwise stated . When
+necessary, adjustment s are made to the financial statements to bring their accounting policies in line with
+the Group 's material Accounting Policies. If the Company loses control over a subsidiary, it
+derecognizes the assets and liabilities of the subsidiary and any related Non-Controlling Interest (NCI)
+and other components of equity. Any interest retained in the former subsidiary is measured at fair value
+at the date the control is lost. Any resulting gain or loss is recognized in Consolidated Statement of Profit
+and Loss.
+Property, Plant and Equipment (PPE)
+(iii) Tangible Assets (PPE)
+
+The PPE (Tangible assets) is initially recognized at cost.
+
+
+Note 1 : Material Accounting Policies Information Forming Part of Consolidated Financial
+Statement
+recognition criteria of Property, Plant and Equipment are capitalized and added in the carrying
+amount of the underlying asset.
+The Group has adopted the cost model of subsequent recognition to measure the Property, Plant and
+Equipment. Consequently, all Property, Plant and Equipment are carried at its cost less accumulated
+depreciation and accumulated impairment losses, if any.
+De-recognition
+An item of PPE is derecognized on disposal, or when no future economic benefits are expected from
+use. Gains or losses arising from de-recognition of a PPE measured as the difference between the net
+disposal proceeds and the Carrying amount of the asset are recognized in the Consolidated Statement of
+Profit and Loss when the asset is derecognized.
+Capital Work-in-Progress
+The cost of PPE under construction at the reporting date is disclosed as 'Capital work-in-progress.'
+The cost comprises purchase price, import duties, non-refundable taxes, after deducting trade discounts
+& rebates, borrowing cost if capitalization criteria are met and any cost directly attributable in bringing
+the asset to the location and condition necessary for it to be ready for its intended use. Advances paid
+for the acquisition / construction of PPE which are outstanding at the Consolidated Balance Sheet
+date are classified under 'Capital Advances .'
+(iv) Intangible Assets and Amortization
+Intangible assets are initially measured at cost. The cost comprises purchase price, import duties, nonrefundable taxes, after deducting trade discounts & rebates, borrowing cost if capitalization criteria are
+met and any cost directly attributable in bringing the asset to the condition necessary for it to be ready
+for its intend ed use. Such assets are recognized where it is probable that the future economic benefits
+attributable to the assets will flow to the Group.
+All intangible assets with finite useful life are subsequently recognized at cost model. These intangible
+assets are carried subsequently at its cost less accumulated amortization and accumulat ed impairment loss
+if any.
+Intangible Assets under Development
+Expenditure incurred which are eligible for capitalization under intangible assets is carried as 'Intangible
+assets under development' till they are ready for their intended use.
+Derecognition
+An intangible asset is derecognized on disposal, or when no future economic benefits are expected
+from use. Gains or losses arising from de-recognition of an intangible asset, measured as the difference
+between the net disposal proceeds and the carrying amount of the asset are recognized in the Consolidated
+Statement of Profit and Loss when the asset is derecognized .
+(v) Depreciation and Amortization
+Depreciation on Tangible PPE is provided in accordance with the manner and useful life as specified in
+Schedule -II of the Companies Act 2013, on Written Down Basis (WDV) except for the assets
+mentioned as below :
+• Depreciation on Library books is provided @ 100% in the year of purchase.
+• Depreciation on PPE of Solar Power Project is provided on Straight Line Method at
+rates/ methodology prescribed under the relevant Central Electricity Regulatory Commission
+(CERC) and relevant state Commission Tariff Orders.
+• Depreciation is provided @l 00% in the financial year of purchase in respect of assets of
+5,000 1- or less.
+
+•
+
+Useful life of assets as per Schedule II:
+
+
+Note 1 : Material Accounting Policies Information Forming Part of Consolidated Financial
+Statement
+Asset Description
+
+Building
+Computers and Data Processing Units
+-Laptops I Computers
+-Servers
+Office Equipment's
+Furniture and Fixtures
+Vehicles
+Intangible Assets
+•
+
+Estimated
+Useful Life
+
+Residual Value as a %age
+of original cost
+
+60 years
+
+5%
+
+3 years
+6 years
+5 years
+10 years
+8 years
+5 years
+
+5%
+5%
+5%
+5%
+5%
+0%
+
+Useful life of assets as per CERC order
+Asset Description
+Solar Plant
+
+Estimated Useful Life
+25 years
+
+Residual Value as a
+%age of original cost
+10%
+
+(vi) Govenunent and Other Grants I Assistance
+The Group may receive government grants that require compliance with certain conditions related to the
+Groups' operating activities or are provided to the Group by way of financial assistance on the basis of
+certain qualifying criteria .
+Government-grants are recognized when there is reasonable assurance that the grant will be received, and
+the Group will be able to comply with the conditions attached to them. These grants are classified as
+grants relating to assets and revenue based on the nature of the grant.
+Government grants with a condition to purchase, construct or otherwise acquire long term assets are
+initially recognized as deferred income. Once recognized as deferred income, such grants are
+recognized in the Consolidated Statement of Profit and Loss on a systematic basis over the useful life
+of the asset. Changes in estimates are recognized prospectively over the remaining life of the asset.
+Grant related to subsidy are deferred and recognized in the ConsolidatedStatement of Profit and Loss over
+the period that the related costs, for which it is intended to compensate, are expensed.
+Grant-in-aid for financing projects in specified sectors of New and Renewable Sources of Energy
+(NRSE) is treated and accounted as deferred income .
+The expenditure incurred under Technical Assist.ance Programme (TAP) is accounted for as recoverable
+and shown under the head 'Other Financial Assets'. The assistance reimbursed from
+Multilateral/Bilateral Agencies is credited to the said account.
+(vii) Leases
+D As a lessee
+The Group assesses at contract inception whether a contract is, or contains, a lease. A contract is, or
+contains, a lease ifthe contract conveys the right to control the use ofan identified asset for a period of time
+in exchange for consideration. To assess whether a contract conveys the right to control the use of an
+identified asset, the Group assesses whether:
+i. The contract involves the use of an identified asset;
+ii. The Group has substantially all of the economic benefits from use of the asset through the period
+of the lease, and
+iii. The Group has the right to direct the use of the asset.
+
+
+Note 1 : Mater ial Accounting Policies Information Forming Part of Consolidated Financial
+Statement
+i) Right-of-use assets
+The Group recognizes right-of-use assets at the commencement date of the lease (i.e., the date the
+underlying asset is available for use). Right-of-use assets are measured at cost, less any accumulated
+depreciation and impairment losses and adjusted for any re-measurement of lease liabilities. The cost of
+right-of-use assets includes the amount of lease liabilities recognized, initial direct costs incurred, and
+lease payments made at or before the commencement date less any lease incentives received. Rightof-use assets are depreciated on a straight-line basis over the estimated useful life of the assets.
+ii) Lease liabilities
+At the commencement date of the lease, the Group recognizes lease liabilities measured at the present
+value of lease payments to be made over the lease term. The lease payments include fixed payments
+(including in-substance fixed payments) less any lease incentives receivable, variable lease payments that
+depend on an index or a rate, and amounts expected to be paid under residual value guarantees . The
+Group uses its incremental borrowing rate at the lease commencement date because the interest rate
+implicit in the lease is not readily determinable . The incremental borrowing rate is the SBI MCLR rate
+for the period of the loan if the loan is up to 3 years. For a period, greater than 3 years, SBI MCLR rate
+for 3 years may be taken .
+iii)Short-tenn leases and leases of low-value assets
+
+Lease payment s on short-term leases (which has a lease term of up to 12 months) and leases of low
+value assets (asset value up
+10,00,000/-) are recognized as expense over the lease term . Lease term
+is determined by taking non-cancellable period of a lease, together with both:
+a) Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise
+that option; and
+b) Periods covered by an option to terminate the lease if the lessee is reasonably certain not to
+exercise that option.
+D As a lessor
+When the Group acts as a lessor, it determines at lease inception whether each lease is a finance
+lease or an operating lease. To classify each lease, the Group makes an overall assessment of
+whether the lease transfers substantially all the risk and rewards incidental to the ownership of the
+underlying asset. If this is the case, then the lease is a finance lease, if not, then it is an operating lease.
+As part of the assessment, the Group considers certain indicators such as whether the lease is for the
+major part of the economic life of the asset. If an arrangement contains lease and non-lease
+components, the Group applies Ind AS 115 "Revenue from contract with customers" to allocate the
+consideration in the contract. The Group recognizes lease payments received under operating lease
+as income on a straight-line basis over the lease term as part of "Revenue from operations ".
+(viii)
+
+Impairment of Non-Financial Asset
+The Group assesses at each reporting date, whether there is an indication that an asset may be
+impaired . If any indication exists, the Group estimates the asset's recoverable amount. An asset's
+recoverable amount is the higher of an assets or cash-generating units (CGU) fair value less costs of
+disposal and its value in use. Recoverable amount is determined for an individual asset, unless the
+asset does not generate cash inflows that are largely independent of those from other assets or Group
+of assets. When the carrying amount of an asset or CGU exceeds its recoverable amount, the asset is
+considered impaired and is written down to its recoverable amount.
+
+
+Note 1 : Material Accounting Policies Information Forming Part of Consolidated Financial
+Statement
+insignificant risk of changes in value .
+
+(x)
+
+Borrowing costs
+General and specific borrowing costs directly attributable to the acqms1t1on, construction or
+production of qualifying asset are capitalized up-to the date when the asset is ready for its intended
+use after netting off any income earned on temporary investment of such funds .
+To the extent that the Group borrows funds generally and uses them for the purpose of obtaining a
+qualifying asset, the amount of borrowing costs eligible for capitalization is determined by
+applying a capitalization rate to the expenditures on that asset.
+Other borrowing costs are expensed in the period in which they are incurred .
+
+(xi)
+
+Foreign currency transactions
+Transactions in currencies other than the functional currency are recognized at the rates of exchange
+prevailing at the dates of the transactions .
+At the end of each reporting period , monetary items denominated in foreign currencies are
+retranslated at the rates prevailing at that date . Foreign exchange gains and losses resulting from the
+settlement of such transactions and the re-measurement of monetary items denominated in foreign
+currency at period-end exchange rates are recognized in the Consolidated Statement of Profit and Loss .
+Foreign Currency Monetary Item Translation Reserve Account (FCMITR) represents unamortized
+foreign exchange gain / loss on Long-term Foreign Currency Borrowings that are amortized over the
+tenure of the respective borrowings . The Group had adopted exemption of para D13AA of Ind AS
+101, according to which it may continue the policy adopted for accounting for exchange differences
+arising from translation of long-term foreign currency monetary items recognized in the Consolidat ed
+Financial Statements for the period ending immediately before the beginning of the first Ind AS
+financial reporting period as per the previous GAAP. Accordingly, all transactions in foreign
+currency are recorded at the exchange rate prevailing at the date of the transaction. The exchange
+differences arising on reporting oflong-term foreign currency monetary items outstanding as on March
+31, 2018, at rate prevailing at the end of each reporting period , different from those at which they were
+initially recorded during the period, or reported in previous Consolidated financial statements, are
+accumulated in FCMITR Account, and amortized over the balance period of such long-term
+monetary item, by recognition as income or expense in each of such period. Long -term foreign
+currency monetary items are those which have a term of twelve months or more at the date of
+origination .
+Short-term foreign currency monetary items (having a term of less than twelve months at the dat e of
+origination) are translated at rate prevailing at the end of each reporting period. The resultant
+exchange fluctuation is recognized as income or expense in each of such periods.
+As per Para 2 7 of Ind AS 21, exchange difference on monetary items that qualify as hedging
+instruments in cash flow hedge are recognized in other comprehensive income to the extent hedge is
+effective. Accordingly, Group recognize the exchange difference due to translation of foreign
+currency loans at the exchange rate prevailing on reporting date in cash flow hedge reserve.
+
+(xii)
+
+Earnings per Share
+The basic earnings per share is computed by dividing the net profit after tax by the weighted averag e
+number of equity shares outstanding during the year .
+Diluted earnings per share is computed by dividing adjusted net profit after tax by the aggregate of
+weighted average number of equity shares and dilutive potential equity shares outstanding during the
+year. The number of equity shares and potentially dilutive equity shares are adjusted for share splits I
+reverse share splits and bonus shares, as appropriate.
+
+

@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer (Key Managerial Personnel)** | Rajan Sethuraman (resignation; last day 2026-07-15) | Sonal Ramrakhiani (external; from 2026-07-15) | effective | 2026-07-15 |
+| **Chief Executive Officer** | Rajan Sethuraman (resignation; last day 2026-07-15) | Sonal Ramrakhiani (external; from 2026-07-15) | effective | 2026-07-15 |
 
 - **Why Rajan Sethuraman is leaving, in the filing's words:** “As LatentView prepares for its next chapter, I believe it is the right time to bring in fresh leadership to take the company forward while the business has strong momentum and stability.” Stays on as: Strategic Advisor to the Chief Executive Officer.
-- In the documents: “The Board accepted the resignation of Mr. Rajan Sethuraman from his position as Chief Executive Officer (Key Managerial Personnel) of the Company, effective immediately.” — [2026-07-15 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026184010_SE_Intimation_Leadership_change_v2signed.pdf) · [2026-07-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LATENTVIEW_ROID_91901_KMP_Doc.zip) · [2026-07-15 Cessation](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026191507_SE_Intimation_Final_signed.pdf) · +1 more
+- In the documents: “Following a comprehensive evaluation by the NRC and Board members of the qualifications, experience, and potential contributions, the Board has appointed Ms. Sonal Ramrakhiani as the Chief Executive Officer (Senior Management Personnel) of the Company with effect from July 15, 2026.” — [2026-07-15 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026184010_SE_Intimation_Leadership_change_v2signed.pdf) · [2026-07-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LATENTVIEW_ROID_91901_KMP_Doc.zip) · [2026-07-15 Cessation](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026191507_SE_Intimation_Final_signed.pdf) · +1 more
 
-*All 9 filing(s) read for the seats:* [2026-08-01 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LATENTVIEW_01082026153542_SEIntimationBMOutcome_Signed.pdf) · [2026-08-01 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_01082026155237_Appointment_of_Sonal_Signed.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LATENTVIEW_31072026191531_SEIntimationAGMProceedingsSigned.pdf) · [2026-07-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/LATENTVIEW_21072026124702_SE_Intimation_Reg_30_V2_Signed.pdf) · [2026-07-15 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026184010_SE_Intimation_Leadership_change_v2signed.pdf) · [2026-07-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LATENTVIEW_ROID_91901_KMP_Doc.zip) · +3 more
+*All 10 filing(s) read for the seats:* [2026-08-01 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LATENTVIEW_01082026153542_SEIntimationBMOutcome_Signed.pdf) · [2026-08-01 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_01082026155237_Appointment_of_Sonal_Signed.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LATENTVIEW_31072026191531_SEIntimationAGMProceedingsSigned.pdf) · [2026-07-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/LATENTVIEW_21072026124702_SE_Intimation_Reg_30_V2_Signed.pdf) · [2026-07-15 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026184010_SE_Intimation_Leadership_change_v2signed.pdf) · [2026-07-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LATENTVIEW_ROID_91901_KMP_Doc.zip) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Rajan Sethuraman** — Chief Executive Officer (Key Managerial Personnel), in the seat since FY2020 per the filing.
+**Rajan Sethuraman** — Chief Executive Officer, in the seat since FY2020 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -57,7 +57,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Sonal Ramrakhiani** — Chief Executive Officer (Key Managerial Personnel). from: external; experience: over 24 years; qualifications: Post Graduate Diploma in Management from the Nirma Institute of Management.
+**Sonal Ramrakhiani** — Chief Executive Officer. from: external; experience: over 24 years; qualifications: Post Graduate Diploma in Management from the Nirma Institute of Management.
 
 The filing's own profile: “Ms. Sonal Ramrakhiani brings more than two decades of global leadership experience driving growth across industries, with a strong track record of scaling market-facing organizations, building trusted client partnerships, and converting emerging technology trends into sustainable business growth. Most recently, she led the Wipro Engineering Edge business unit in the Americas. An alumnus of the prestigious Tata Administrative Services (TAS), she has held several senior leadership roles across the Tata Group, including serving as Chief Operating Officer and President – Sales (Automotive) at Tata Technologies.”
 
@@ -69,7 +69,6 @@ The filing's own profile: “Ms. Sonal Ramrakhiani brings more than two decades 
 | senior leadership and management positions | Tata Teleservices | — | — |
 | senior leadership and management positions | Titan Industries | — | — |
 | Director on the board | TCL North America Inc. | — | — |
-| Board Director | TechTown, Detroit | — | — |
 
 ### 5. On the calls
 

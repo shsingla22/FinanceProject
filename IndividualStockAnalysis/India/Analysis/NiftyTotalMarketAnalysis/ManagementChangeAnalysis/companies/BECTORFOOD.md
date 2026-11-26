@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Parveen Kumar Goel (moved to another role in the company or group) | Anshul Rastogi (external; from 2026-08-07) | effective | 2026-08-07 |
+| **Chief Financial Officer (CFO)** | Parveen Kumar Goel (moved to another role in the company or group; last day 2026-08-07) | Anshul Rastogi (external; from 2026-08-07) | effective | 2026-08-07 |
 
 - **Why Parveen Kumar Goel is leaving, in the filing's words:** “Change in the designation of Mr. Parveen Kumar Goel (DIN: 00007297) from Whole-time Director and Chief Financial Officer (CFO) to Whole-time Director.” Stays on as: Whole-time Director.
-- In the documents: “Appointed Mr. Anshul Rastogi, Chief Financial Officer (CFO) of the company w.e.f. 07.08.2026 based on the recommendation of Nomination and Remuneration Committee.” — [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026135149_BMOUTCOME07082026.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026141902_CHANGEINMANAGEMENT.pdf)
+- In the documents: “Appointed Mr. Anshul Rastogi, Chief Financial Officer (CFO) of the company w.e.f. 07.08.2026 based on the recommendation of Nomination and Remuneration Committee.” — [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026135149_BMOUTCOME07082026.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026141902_CHANGEINMANAGEMENT.pdf) · [2025-11-12 Updates](https://nsearchives.nseindia.com/corporate/BECTORFOOD_12112025163419_Change_in_Mgt.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026135149_BMOUTCOME07082026.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026141902_CHANGEINMANAGEMENT.pdf)
+*All 4 filing(s) read for the seats:* [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026135149_BMOUTCOME07082026.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026141902_CHANGEINMANAGEMENT.pdf) · [2025-11-12 Updates](https://nsearchives.nseindia.com/corporate/BECTORFOOD_12112025163419_Change_in_Mgt.pdf) · [2025-08-14 Press Release](https://nsearchives.nseindia.in/corporate/BECTORFOOD_14082025130852_MBFSL_Q1FY26_Press_Release.pdf)
 
 ### 2. Financials — the last three years
 
@@ -41,19 +41,19 @@
 
 ### 3. Track record — the outgoing management
 
-**Parveen Kumar Goel** — Chief Financial Officer (CFO), in the seat since FY2022 per the annual reports on file.
+**Parveen Kumar Goel** — Chief Financial Officer (CFO), in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 881 | 2,044 | +18.3% a year over 5 years |
-| Operating profit (₹ cr) | 141 | 258 | +12.8% a year over 5 years |
-| PAT (₹ cr) | 72.0 | 141 | +14.4% a year over 5 years |
-| Operating profit margin (%) | 16.0 | 12.6 | -3.4 pts |
+| Sales (₹ cr) | 1,874 | 2,044 | +9.1% a year over 1 year |
+| Operating profit (₹ cr) | 252 | 258 | +2.4% a year over 1 year |
+| PAT (₹ cr) | 143 | 141 | -1.4% a year over 1 year |
+| Operating profit margin (%) | 13.4 | 12.6 | -0.8 pts |
 | ROCE (%) | 14.0 | — | — |
-| ROE (%) | 16.7 | 11.1 | -5.6 pts |
-| Borrowings (₹ cr) | 132 | 191 | +59 |
+| ROE (%) | 12.3 | 11.1 | -1.2 pts |
+| Borrowings (₹ cr) | 184 | 191 | +7 |
 
 ### 4. Track record — the incoming management
 

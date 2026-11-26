@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Afzal Harunbhai Malkani (resignation; last day 2025-11-30) | Hari Haran Chalat (internal; from 2026-01-31) | effective | 2025-12-01 |
+| **Chief Financial Officer** | Afzal Harunbhai Malkani (resignation; last day 2025-11-30) | Hari Haran Chalat (internal; from 2026-01-31) | effective | 2025-11-02 |
 
-- **Why Afzal Harunbhai Malkani is leaving, in the filing's words:** “Resignation of Chief Financial Officer (Key Managerial Personnel) of the Company”
-- In the documents: “On the recommendation of the Nomination and Remuneration Committee and Audit Committee, appointment of Mr. Hari Haran Chalat as Chief Financial Officer of the Company with effect from January 31, 2026.” — [2026-07-26 General Updates](https://nsearchives.nseindia.com/corporate/ZENTEC_26072026121657_SEPressRelease_26072026_Signed.pdf) · [2026-02-02 Change in Management](https://nsearchives.nseindia.com/corporate/ZENTEC_02022026183942_SEIntimation_Change_in_Management.pdf) · [2026-01-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_31012026173109_BM_OC_UFR_Q3FY2631012026.pdf) · +1 more
+- **Why Afzal Harunbhai Malkani is leaving, in the filing's words:** “has tendered his resignation from the services of the Company, to pursue better opportunity and career prospect.”
+- In the documents: “On the recommendation of the Nomination and Remuneration Committee and Audit Committee, appointment of Mr. Hari Haran Chalat as Chief Financial Officer of the Company with effect from January 31, 2026.” — [2026-02-02 Change in Management](https://nsearchives.nseindia.com/corporate/ZENTEC_02022026183942_SEIntimation_Change_in_Management.pdf) · [2026-01-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_31012026173109_BM_OC_UFR_Q3FY2631012026.pdf) · [2025-12-01 Updates](https://nsearchives.nseindia.com/corporate/ZENTEC_01122025104633_Update_-_SEIntimation_CFO_Resignation.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-07-26 General Updates](https://nsearchives.nseindia.com/corporate/ZENTEC_26072026121657_SEPressRelease_26072026_Signed.pdf) · [2026-04-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_28042026204257_SE_Letter_Postal_Ballot_Results_28042026.pdf) · [2026-02-02 Change in Management](https://nsearchives.nseindia.com/corporate/ZENTEC_02022026183942_SEIntimation_Change_in_Management.pdf) · [2026-01-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_31012026173109_BM_OC_UFR_Q3FY2631012026.pdf) · [2025-12-01 Updates](https://nsearchives.nseindia.com/corporate/ZENTEC_01122025104633_Update_-_SEIntimation_CFO_Resignation.pdf)
+*All 6 filing(s) read for the seats:* [2026-07-26 General Updates](https://nsearchives.nseindia.com/corporate/ZENTEC_26072026121657_SEPressRelease_26072026_Signed.pdf) · [2026-04-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_28042026204257_SE_Letter_Postal_Ballot_Results_28042026.pdf) · [2026-02-02 Change in Management](https://nsearchives.nseindia.com/corporate/ZENTEC_02022026183942_SEIntimation_Change_in_Management.pdf) · [2026-01-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZENTEC_31012026173109_BM_OC_UFR_Q3FY2631012026.pdf) · [2025-12-01 Updates](https://nsearchives.nseindia.com/corporate/ZENTEC_01122025104633_Update_-_SEIntimation_CFO_Resignation.pdf) · [2025-11-02 Resignation](https://nsearchives.nseindia.in/corporate/ZENTEC_02112025134339_SEIntimation_CFO_Resignation.pdf)
 
 ### 2. Financials — the last three years
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/ZENTEC.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹1,406.70 on 2025-11-28 (the close before) → ₹1,743.70 on 2026-11-13: **+24.0%**; Nifty 500 -0.8% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,357.20 on 2025-10-31 (the close before) → ₹1,743.70 on 2026-11-13: **+28.5%**; Nifty 500 +0.1% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -65,7 +65,7 @@ The filing's own profile: “Mr. Hari, a Chartered Accountant, brings over 20 ye
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Senior General Manager | Zen Technologies Limited (ZENTEC) | 2025 | 2026 |
+| Senior General Manager | Zen Technologies Limited (ZENTEC) | 2025 | — |
 | Independent CFO Advisor | Independent CFO Advisor | 2019 | 2024 |
 | senior finance leadership roles | Amazon.com India | — | — |
 | senior finance leadership roles | Black Knight India | — | — |

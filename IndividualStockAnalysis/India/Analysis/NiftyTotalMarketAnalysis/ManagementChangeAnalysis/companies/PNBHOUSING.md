@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer (MD & CEO)** | — (new seat) | Ajai Kumar Shukla (external; from 2025-12-18) | effective | 2025-12-12 |
+| **Managing Director & Chief Executive Officer (MD & CEO)** | Girish Kousgi (resignation; last day 2025-10-28) | Ajai Kumar Shukla (external; from 2025-12-18) | effective | 2025-12-12 |
 
-- **Why the holder is leaving, in the filing's words:** “The company is taking all necessary steps for filling up the vacancy.”
-- In the documents: “We wish to inform you that Mr. Ajai Kumar Shukla (DIN:11358498), has assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of the Company with effect from today i.e. December 18, 2025.” — [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · +1 more
+- **Why Girish Kousgi is leaving, in the filing's words:** “After close to 3 years of wonderful & fulfilling career with the company, I wish to pursue opportunities outside.”
+- In the documents: “PNB Housing Finance Limited announced the appointment of Mr. Ajai Kumar Shukla as the Managing Director & Chief Executive Officer, effective December 18, 2025, for a period of 5 years.” — [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-03-13 General Updates](https://nsearchives.nseindia.com/corporate/PNBHOUSING_13032026190254_SE_Intimation_Postal_Ballot_13032026.pdf) · [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf)
+*All 9 filing(s) read for the seats:* [2026-03-13 General Updates](https://nsearchives.nseindia.com/corporate/PNBHOUSING_13032026190254_SE_Intimation_Postal_Ballot_13032026.pdf) · [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_10022026204051_DispatchPostalBallotNoticesd.pdf) · [2025-12-18 Press Release](https://nsearchives.nseindia.com/corporate/PNBHOUSING_18122025123611_SEPressReleaseAppointmentOfKMPs18122025.pdf) · [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025135758_SEintimationAppointment11122025VGK.pdf) · [2025-12-12 Appointment](https://nsearchives.nseindia.com/corporate/PNBHOUSING_12122025140027_SEintimationAppointment11122025VGK.pdf) · [2025-10-28 General Updates](https://nsearchives.nseindia.in/corporate/PNBHOUSING_28102025190557_IntimationMD.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -37,18 +37,31 @@
 
 ### 3. Track record — the outgoing management
 
-No outgoing person or owner is named (a new seat, or the documents do not say).
+**Girish Kousgi** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2023 per the annual reports on file.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2022 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Revenue (₹ cr) | 6,196 | 7,685 | +7.4% a year over 3 years |
+| Financing profit (₹ cr) | 1,133 | 2,535 | +30.8% a year over 3 years |
+| PAT (₹ cr) | 836 | 1,936 | +32.3% a year over 3 years |
+| Financing profit margin (%) | 18.3 | 33.0 | +14.7 pts |
+| ROE (%) | 8.5 | 11.5 | +3.0 pts |
+
+- Also on file: Chairman at CANFINHOME (FY2022–FY2022, annual reports).
+- Also on file: Managing Director at CANFINHOME (FY2022–FY2022, annual reports).
 
 ### 4. Track record — the incoming management
 
-**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA; Mr. Shukla holds a post graduate degree in Finance from CSJM University, Kanpur, and has completed his Bachelors in Science from Kanpur University..
+**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA; holds a post graduate degree in Finance from CSJM University, Kanpur, and has completed his Bachelors in Science from Kanpur University.
 
 The filing's own profile: “Mr. Ajai Kumar Shukla is aged 52 years. He is an MBA and possesses over 30 years of experience in Housing and Mortgage Lending business. He has been working with TATA Capital Housing Finance Limited for last 16 years. He is currently working with Tata Capital Housing Finance Limited as the Chief Business Officer. He has also headed Credit, Risk, Valuation, Digital Transformation and Affordable Housing Finance in TATA Capital. Prior to TATA Capital, he had worked with ICICI Bank in Mortgage business for more than 7 years in various roles & responsibilities across various regions. Mr Ajai had started his career with LIC Housing Finance Limited and worked there for 7 years.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Business Officer | Tata Capital Housing Finance Limited | — | — |
-| Mortgage business, more than 7 years in various roles & responsibilities across various regions | ICICI Bank (ICICIBANK) | — | — |
+| Mortgage business, various roles & responsibilities across various regions | ICICI Bank (ICICIBANK) | — | — |
 | started his career and worked there for 7 years | LIC Housing Finance Limited (LICHSGFIN) | — | — |
 
 ### 5. On the calls

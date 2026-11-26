@@ -1,0 +1,1754 @@
+eClerx/SECD/SE/2025/126
+October 24, 2025
+BSE Limited
+Corporate Relationship Department,
+Phiroze Jeejeebhoy Towers,
+25th Floor, Dalal Street,
+Fort, Mumbai - 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, Plot No. C/1,
+Block G, Bandra - Kurla Complex
+Bandra (East),
+Mumbai – 400 051
+
+Dear Sir/Madam,
+Sub: Outcome of Board Meeting held on Friday, October 24, 2025
+Scrip Code: BSE - 532927
+NSE – ECLERX
+This is to inform you that the Board of Directors of the Company at its meeting held on Friday,
+October 24, 2025 which commenced at 3:00 p.m. and concluded at 6:20 p.m., inter-alia, unanimously
+approved the Un-audited Financial Results (Standalone and Consolidated) for the quarter and half year
+ended September 30, 2025.
+The said financials as approved by the Board of Directors, along with the Limited Review Reports issued
+by Statutory Auditors are attached.
+This is for your information and records.
+Thanking you,
+Yours faithfully
+For eClerx Services Limited
+signed
+PRATIK R Digitally
+by PRATIK R
+BHANUS BHANUSHALI
+Date: 2025.10.24
+20:05:42 +05'30'
+HALI
+
+Pratik Bhanushali
+VP-Legal & Company Secretary
+F8538
+Encl: as above
+
+
+Price Waterhouse Chartered Accountants LLP
+Review Report
+
+To
+The Board of Directors
+eClerx Services Limited
+Sonawala Building,
+1st Floor, 29, Bank Street, Fort,
+Mumbai-400023
+1.
+
+We have reviewed the standalone unaudited financial results of eClerx Services Limited (the
+"Company" including eClerx Employee Welfare Trust) for the quarter ended September 30, 2025
+and the year to date results for the period April 01, 2025 to September 30, 2025, which are included
+in the accompanying Statement of Standalone Unaudited Financial Results for the Quarter and Half
+year ended September 30, 2025 , the Statement of Standalone Assets and Liabilities as on that date
+and the Statement of Standalone Cash Flows for the half-year ended September 30, 2025 (the
+"Statement"). The Statement has been prepared by the Company pursuant to Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the
+"Listing Regulations, 2015"), which has been digitally signed by us for identification purposes.
+
+2.
+
+This Statement, which is the responsibility of the Company's Management and approved by the
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"),
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+accepted in India. Our responsibility is to express a conclusion on the Statement based on our
+review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity", issued by the Institute of Chartered Accountants of India. This Standard requires that we
+plan and perform the review to obtain moderate assurance as to whether the Statement is free of
+material misstatement. A review of interim financial information consists of making inquiries,
+primarily of persons responsible for financial and accounting matters, and applying analytical and
+other review procedures. A review is substantially less in scope than an audit conducted in
+accordance with Standards on Auditing and consequently does not enable us to obtain assurance
+that we would become aware of all significant matters that might be identified in an audit.
+Accordingly, we do not express an audit opinion.
+
+4.
+
+Based on our review conducted as above, nothing has come to our attention that causes us to believe
+that the Statement has not been prepared in all material respects in accordance with the recognition
+and measurement principles laid down in the aforesaid Indian Accounting Standard and other
+accounting principles generally accepted in India and has not disclosed the information required to
+be disclosed in terms of Regulation 33 of the Listing Regulations, 2015 including the manner in
+which it is to be disclosed, or that it contains any material misstatement.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+NEE RAJ
+0;9;1a11y ,;goed by
+NEERAJ BALKRISHAN
+BALKRISHA SHARMA
+N SHARMA ~:~!~';.~?;i
+
+Place: Mumbai
+Date: October 24, 2025
+
+Neeraj Sharma
+Partner
+Membership Number: 108391
+UDIN: 25108391BMMJHI 7004
+
+Price Waterhouse Chartered Accountants LLP, 252, Veer Savarkar Marg, Shivaji Park, Dadar (West),
+Mumbai - 400 028
+T: +91 (22) 66697510
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, Gate No 2, New Delhi - 110002
+Price Waterhouse (a Partnership Finn) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no:
+LLPIN AAC-5001) with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its !CAI registration number is
+012754N/N500016 (ICAI registration number before conversion was 012754N)
+
+
+ECLERX SERVICES LIMITED
+CIN: L72200MH2000PLC125319
+Regd. Office : Sonawala Building, 1st Floor, 29, Bank Street, Fort, Mumbai - 400 023
+STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2025
+
+(Rupees in million, except per share data)
+Quarter ended
+Sr.
+No.
+
+Particulars
+
+I
+II
+Ill
+IV
+
+Revenue from operations
+Other income
+Total Income (I + II)
+Expenses
+Emolovee benefits exoense
+Sales and marketing services
+Cost of technical sub-contractors
+Depreciation and amortisation expense
+Finance costs
+Otherexoenses
+Total expenses (IV)
+V Profit belore exceptional items and tax (Ill-IV)
+VI Exceptional items
+VII Profit before tax (V-VI)
+VIII Income Tax expense
+(1) Current tax
+(2) Deferred tax
+IX Profit for the oeriod (VII-VIII\
+X Other Comprehensive Income / (Loss) ('OCI') , Net of Tax
+A (i) Items that will not be reclassified to profit or loss in subsequent
+periods
+(ii) Income tax relating to items that will not be reclassified to profit or
+loss
+B (i) Items that will be reclassified to profit or loss (net) in subsequent
+periods
+(ii) Income tax relating to items that will be reclassified to profit or loss
+XI Total Comprehensive Income for the period (IX+X)
+XII Paid up equity share capital
+(Face value of Rs. 10 each , fully paid up)
+XIII Other equity
+XIV Earnings per share : (in Rs.) (not annualised for the quarter) (refer note 5)
+(1) Basic
+(2) Diluted
+
+Half year ended
+
+Yearended
+
+September 30, September 30,
+2025
+2024
+Unaudited
+Unaudited
+13,563.71
+11,811 .11
+361 .76
+233.82
+13,925.47
+12,044.93
+
+March 31,
+2025
+Audited
+24,315.19
+638.31
+24,953.50
+
+September 30,
+2025
+Unaudited
+6,912.87
+261 .29
+7,174.16
+
+June 30,
+2025
+Unaudited
+6,650.84
+100.47
+6,751 .31
+
+September 30,
+2024
+Unaudited
+6,124.37
+95.70
+6,220.07
+
+3,094.25
+1,395.42
+182.92
+236.83
+82.34
+710.59
+5,702.35
+1,471 .81
+1,471 .81
+370.67
+397.44
+(26.77)
+1,101 .14
+(438.94
+
+2,995.19
+1,344.45
+148.70
+202.62
+76.75
+734.75
+5,502.46
+1,248.85
+1,248.85
+319.68
+257.93
+61 .75
+929.17
+37.22
+
+2,651.08
+1,179.08
+232.89
+186.11
+72.76
+585.15
+4,907.07
+1,313.00
+1,313.00
+336.74
+353.69
+(16.95)
+976.26
+(96.36
+
+6,089.44
+2,739.87
+331 .62
+439.45
+159.09
+1,445.34
+11,204.81
+2,720.66
+2,720.66
+690.35
+655.37
+34.98
+2,030.31
+(401 .72
+
+5,280.38
+2,345.96
+418.21
+362.24
+140.23
+1,249.95
+9,796.97
+2,247.96
+2,247.96
+568.04
+593.12
+(25.08)
+1,679.92
+(77.98
+
+10,809.50
+4,799.04
+813.60
+816.98
+305.29
+2,644.70
+20,189.11
+4,764.39
+4,764.39
+1,169.39
+1,281 .24
+(111 .85)
+3,595.00
+(162.41
+
+5.39
+
+(45.81)
+
+(13.84)
+
+(40.42)
+
+(29.61)
+
+(50.60)
+
+(1 .36)
+
+11 .53
+
+3.48
+
+10.17
+
+7.45
+
+12.73
+
+(591 .95)
+
+95.54
+
+(114.92)
+
+(496.41)
+
+(74.59)
+
+(166.42)
+
+148.98
+662.20
+
+(24.04)
+966.39
+
+28.92
+879.90
+
+124.94
+1,628.59
+
+18.77
+1,601 .94
+
+41 .88
+3,432.59
+
+469.17
+
+469.90
+
+469.72
+
+469.17
+
+469.72
+
+469.60
+13,107.16
+
+23.44
+22.90
+
+19.78
+19.44
+
+20.65
+20.29
+
+43.22
+42.32
+
+35.17
+34.56
+
+75.87
+74.46
+
+Notes :
+
+The statement of standalone unaudited financial results for the quarter and half year ended September 30, 2025 have been reviewed by the Audit Committee and approved by the
+Board of Directors at their respective meetings held on October 24, 2025. There are no qualifications in the limited review report issued by the auditors.
+2 These financial results have been prepared in accordance with the recognition and measurement principles laid down in the Indian Accounting Standards (Ind AS) 34 "Interim
+Financial Reporting" prescribed under section 133 of the Companies Act, 2013, as amended read with the relevant rules issued thereunder.
+3
+
+The Company operates under a single reportable segment which is data management, analytics solutions and process outsourcing services. Further, the risks and rewards under
+various geographies where the Company operates are similar in nature.
+
+4
+
+The Board of Directors at its meeting held on October 24, 2025 , approved the buyback of equity shares through tender offer route for an amount not exceeding Rs. 3,000 million
+(Buy Back Size) excluding transaction costs, at a price of Rs. 4,500 per share (Buy Back Price) , subject to approval of shareholders.
+
+5
+
+The financial results of eClerx Employee Welfare Trust have been included in the standalone financial results of the Company in accordance with the requirements of IND AS. While
+computing basic and diluted earnings per share, weighted average number of equity shares held by trust have been reduced.
+
+6
+
+Figures for the previous period have been regrouped wherever necessary to conform to those of the current period.
+
+
+7
+
+Statement of Standalone Assets and Liabilities
+
+Particulars
+
+A. ASSETS
+1. Non current assets
+Property, plant and equipment
+Right of use assets
+Capital work-in-progress
+Intangible assets
+Financial assets
+Investments
+Derivative instruments
+Other financial assets
+Deferred tax assets (net)
+Non-current tax assets (net)
+Other non-current assets
+
+2. Current assets
+Financial assets
+Investments
+Trade receivables
+Billed
+Unbilled
+Cash and cash equivalents
+Other bank balance
+Other financial assets
+Derivative instruments
+Other current assets
+
+TOTAL-ASSETS
+B. EQUITY AND LIABILITIES
+1. Equity
+Equity share capital
+Other equity
+
+2. Non current liabilities
+Financial liabilities
+Lease liabilities
+Derivative instruments
+Employee benefit obligations
+
+3. Current Liabilities
+Financial liabilities
+Lease liabilities
+Derivative instruments
+Trade payables
+Total outstanding dues of Micro enterprises and small enterprises
+Total outstanding dues of creditors other than Micro enterprises and small enterprises
+Other financial liabilities
+Other current liabilities
+Employee benefit obligations
+Current tax liabilities (net)
+
+TOTAL - EQUITY AND LIABILITIES
+
+(Ruoees in million)
+Asat
+Asat
+September 30,
+March 31,
+2025
+2025
+Unaudited
+Audited
+
+1,197.19
+2,363.44
+28.76
+18.06
+
+1,155.05
+2,351 .58
+0.33
+23.52
+
+4,751.09
+0.36
+232.55
+604.38
+105.05
+3.86
+
+4,747.01
+30.03
+443.70
+504.25
+138.29
+13.12
+
+9,304.74
+
+9,406.88
+
+3,147.57
+
+1,921 .81
+
+3,809.65
+2,274.79
+1,017.19
+962.00
+534.44
+0.14
+946.02
+
+3,752.29
+2,114.19
+1,316.27
+763.00
+137.72
+31 .11
+990.97
+
+12,691 .80
+
+11,027.36
+
+21 ,996.54
+
+20,434.24
+
+469.17
+14,171 .56
+
+469.60
+13,107.16
+
+14,640.73
+
+13,576.76
+
+2,408.31
+107.97
+343.28
+
+2,351 .97
+10.89
+587.52
+
+2,859.56
+
+2,950.38
+
+292.02
+443.47
+
+265.58
+104.78
+
+2,260.19
+80.51
+471 .19
+767.00
+181 .87
+
+2.57
+1,825.42
+42.61
+510.69
+960.61
+194.84
+
+4,496.25
+
+3,907.10
+
+21 ,996.54
+
+20,434.24
+
+
+8 Statement of Standalone Cash Flows
+
+(Rupees in million)
+
+Half Year ended
+September 30, September 30,
+2025
+2024
+Unaudited
+Unaudited
+Operating activities
+Profit before tax
+Adjustments to reconcile profit before tax to net cash flows :
+Depreciation and amortisation expense
+Share-based payment expense
+Unrealised net foreign exchange differences
+Gain on sale of property, plant and equipment (net)
+Interest income on corporate rent deposits
+Amortised cost on corporate rent deposits
+Profit on sale of current investments
+Interest income on fixed deposits
+Provision for doubtful debts
+Finance cost
+Fair value gain on financial instruments at fair value through profit or loss
+Gain on lease modifications
+Other adjustments
+
+2,720.66
+
+2,247.96
+
+439.45
+96.56
+(49 .22)
+(3 .61)
+(9 .55)
+
+362.24
+161 .11
+(1 .08)
+(6.28)
+(7.91)
+8.85
+(47.05)
+(66.36)
+0.86
+140.23
+(26.64)
+0.39
+(29.64)
+
+(55 .65)
+(47.55)
+6.07
+159.09
+(3.48)
+
+3 252-77
+
+2736.68
+
+Increase in trade receivables
+(Increase) / Decrease in other current and non current financial assets
+Decrease / (Increase) in other current and non current assets
+Decrease in employee benefit obligations
+Increase in trade payables, other current and non current liabilities and provisions
+
+(137.00)
+(35 .83)
+43.19
+(478 .27)
+418.58
+
+(120.19)
+78.44
+(101 .52)
+(107.70)
+84.49
+
+Cash generated by operating activities
+
+3 063.44
+
+2570.20
+
+Income tax paid (Net of refunds)
+
+(635 .11
+
+(487.12)
+
+Net cash flows aenerated from operatina activities (Al
+
+2 428.33
+
+2083.08
+
+Proceeds from sale of current investments
+Purchase of current investments
+Purchase of non current investments
+Investment in bank deposits (having original maturity of more than three months)
+Redemption / maturity of bank deposits (having original maturity of more than three months)
+Proceeds from sale of property, plant and equipment
+Purchase of property, plant, equipment and intangible assets (including capital work in progress)
+Interest received
+
+9,413.74
+(10,576.00)
+(10.00)
+(232 .00)
+13.00
+5.41
+(305.95)
+2.67
+
+12,795.12
+(11,221 .64)
+(5.00)
+(2.00)
+2,384.00
+35.48
+(429.69)
+66.36
+
+Net cash flows (used in)/aenerated from investina activities (Bl
+
+(1 689.13
+
+3622.63
+
+221 .86
+(915.40)
+
+(46 .96)
+(159 .09)
+(112 .94
+
+212.76
+(391.10)
+(3,839.11)
+(33.91)
+(839.54)
+(46.95)
+(140.23)
+(75.65)
+
+(1 012.53
+(25.75
+(299.08
+
+(5153.73)
+3.14
+555.12
+
+Working capital adjustments:
+
+Investing activities
+
+Financing activities
+Money received from exercise of ESOP options
+Purchase of treasury shares by eClerx welfare trust
+Buyback of equity shares•
+Buyback expenses
+Tax on buyback of equity shares•
+Payment of dividend
+Interest paid
+Principal payment - Lease
+
+Net cash flows used in financina activities (Cl
+Effect of exchanae fluctuation on cash and cash eauivalents (Dl
+Net increase /(decrease) in cash and cash eauivalents (A+B+C+Dl
+Cash and cash eauivalents at the beainnina of the period
+
+1,316.27
+
+686.10
+
+Cash and cash eauivalents at the end of the period
+
+1 017.19
+
+1 241.22
+
+..
+*Net after elimination of amount pertaImng to buyback of shares held by eClerx Employee Welfare Trust
+
+For and on behalf of Board of Directors
+Digitally signed by
+
+Place : Mumbai
+Date: October 24, 2025
+
+NEERAJ
+NEERAJ
+BALKRISHA!~~~:~HAN
+N SHARMA ~;,~~,~~2.,50~~3~~
+
+KAPIL
+JAIN
+
+Digitally signed
+by KAPIL JAIN
+Date: 2025.10.24
+18:23:30 +05'30'
+
+Kapil Jain
+Managing Director & Group CEO
+
+
+Price Waterhouse Chartered Accountants LLP
+Review Report
+
+To
+The Board of Directors
+eClerx Services Limited
+Sonawala Building,
+1st Floor, 29, Bank Street, Fort,
+Mumbai-400023
+
+1.
+
+We have reviewed the consolidated unaudited financial results of eClerx Services Limited (the
+"Holding Company" including eClerx Employee Welfare Trust) and its subsidiaries (the Holding
+Company and its subsidiaries hereinafter referred to as the "Group"), (refer paragraph 4 of the
+Report) for the quarter ended September 30, 2025 and the year to date results for the period
+April 01, 2025 to September 30, 2025 which are included in the accompanying Statement of
+Consolidated Unaudited Financial Results for the Quarter and Half year ended September 30,
+2025, the Statement of Consolidated Assets and Liabilities as on that date and the Statement of
+Consolidated Cash Flows for the half-year ended September 30, 2025 (the "Statement"). The
+Statement is being submitted by the Holding Company pursuant to the requirement of
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, as amended (the "Listing Regulations, 2015"), which has been digitally signed by us for
+identification purposes.
+
+2. This Statement, which is the responsibility of the Holding Company's Management and has
+been approved by the Holding Company's Board of Directors, has been prepared in accordance
+with the recognition and measurement principles laid down in Indian Accounting Standard 34
+"Interim Financial Reporting", prescribed under Section 133 of the Companies Act, 2013, and
+other accounting principles generally accepted in India. Our responsibility is to express a
+conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review
+Engagements ('SRE') 2410 "Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity", issued by the Institute of Chartered Accountants of India.
+This Standard requires that we plan and perform the review to obtain moderate assurance as to
+whether the Statement is free of material misstatement. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and
+accounting matters, and applying analytical and other review procedures. A review is
+substantially less in scope than an audit conducted in accordance with Standards on Auditing
+and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit
+opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under
+Regulation 33 (8) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, as amended, to the extent applicable.
+Price Waterhouse Chartered Accountants LLP, 252, Veer Savarkar Marg, Shivaji Park, Dadar (West),
+Mumbai - 400 028
+T: +91 (22) 66697510
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, Gate No 2, New Delhi - 110002
+Price Waterhouse (a Partnership Finn) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no:
+LLPIN AAC-5001) with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its !CAI registration number is
+012754N/N500016 (ICAI registration number before conversion was 012754N)
+
+
+Price Waterhouse Chartered Accountants LLP
+Review report on the unaudited consolidated financial results for the quarter and half year ended September 30, 2025
+Page 2 of3
+
+4. The Statement includes the results of the following entities:
+
+Relationship
+Holding Company
+Subsidiaries
+
+Entity Name
+eClerx Services Limited, India
+eClerx LLC, United States of America
+eClerx Limited, United Kingdom
+eClerx Private Limited, Singapore
+eClerx Investments (UK) Limited, United Kingdom
+eClerx Canada Limited, Canada
+CLX Europe S.P .A, Italy
+CLX Europe Media Solution GmbH, Germany
+CLX Europe Media Solution Limited, United Kingdom
+CLX Thai Company Limited, Thailand
+eClerx BV, Netherlands
+Eclipse Global Holdings LLC, United States of America
+eClerx PTY Ltd., Australia
+ASEC Group LLC, United States of America
+Personiv Contact Centers LLC, United States of America
+Personiv Contact Centers India Private Limited, India
+AG Resources (India) Private Limited, India
+eClerx Philippines Inc. (formerly known as AGR Operations Manila Inc.),
+Philippines
+eClerx ME Information Technology Consultants LLC, UAE
+eClerx Switzerland SA, Switzerland
+eClerx Peru S.A.C., Peru (w.e.f. October 30, 2024)
+eClerx Egypt Egypt (w.e.f. February 2:'i, 202:'i)
+
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and
+based on the consideration of the review report of other auditor referred to in paragraph 6
+below, nothing has come to our attention that causes us to believe that the accompanying
+Statement has not been prepared in all material respects in accordance with the recognition and
+measurement principles laid down in the aforesaid Indian Accounting Standard and other
+accounting principles generally accepted in India and has not disclosed the information
+required to be disclosed in terms of Regulation 33 of the Listing Regulations, 2015 including the
+manner in which it is to be disclosed, or that it contains any material misstatement.
+
+
+Price Waterhouse Chartered Accountants LLP
+Review report on the unaudited consolidated financial results for the quarter and half year ended September 30, 2025
+Page3 of3
+
+6. The interim financial information of 4 subsidiaries incorporated outside India reflect total
+assets of Rs. 2,914.32 million and net assets of Rs. 2,115.62 million as at September 30, 2025
+and revenue from operations of Rs. 635.23 million and Rs. 1,262.77, profit/(loss) for the period
+of Rs. 20.86 million and Rs. (9.51) million, and total comprehensive income/(loss) of Rs. 21.26
+million and Rs. (14.85) million for the quarter ended September 30, 2025 and for the period
+from April 01, 2025 to September 30, 2025, respectively, and cash inflows (net) of Rs. 106.01
+million for the period from April 01, 2025 to September 30, 2025, as considered in the
+Statement. The interim financial information of the said subsidiaries have been reviewed by the
+auditor of the said subsidiaries under the International Standard on Review Engagements
+(ISRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor
+of the Entity", and upon which the subsidiaries' auditor vide their review report has issued an
+unmodified conclusion. Our conclusion on the Statement, in so far as it relates to the amounts
+and disclosures included in respect of the said subsidiaries is based on the review report of the
+other auditor and the procedures performed by us as stated in paragraph 3 above. Our
+conclusion on the Statement is not modified in respect of the above matter.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+NEERAJ
+rng;tallys;gnedby
+NEERA.J BALKRISHAN
+BALKRISHA SHARMA
+Date: 2025.10.24
+N SHARMA 19,4"24 +os·,o·
+
+Place: Mumbai
+Date: October 24, 2025
+
+Neeraj Sharma
+Partner
+Membership Number: 108391
+UDIN: 25108391BMMJHJ 3992
+
+
+ECLERX SERVICES LIMITED
+CIN : L72200MH2000PLC125319
+Regd. Office : Sonawala Building, 1st Floor, 29, Bank Street, Fort, Mumbai - 400 023
+STATEMENT OF CONSOLIDATED UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2025
+
+(Rupees in million, except per share data
+Year ended
+September 30,
+March 31,
+2024
+2025
+Unaudited
+Audited
+
+Quarter ended
+June 30,
+2025
+Unaudited
+
+September 30,
+2024
+Unaudited
+
+September 30,
+2025
+Unaudited
+
+10.048.51
+272.40
+
+9,345.56
+141 .10
+
+8,318.36
+131 .20
+
+19,394.07
+413.50
+
+16,137.58
+340.32
+
+Ill Total Income (I + II)
+
+10,320.91
+
+9,486.66
+
+8,449.56
+
+19,807.57
+
+16,477.90
+
+34,523.92
+
+IV Expenses
+Employee benefits expense
+Cost of technical sub-contractors
+Depreciation and amortisation expense
+Finance cost
+Other expense
+
+6,100.02
+199.47
+425.03
+107.95
+1,038.41
+
+5,833.52
+198.18
+368.98
+96.92
+1,108.50
+
+5,027.83
+193.65
+327.99
+81.17
+940.30
+
+11 ,933.54
+397.65
+794.01
+204.87
+2,146.91
+
+10,006.35
+368.51
+644.51
+158.32
+1,942.51
+
+20,657.84
+814.03
+1,411.93
+348.90
+4,105.91
+
+Total exn,onses (IV)
+V Profit before exceptional items and tax (Ill-IV)
+VI Exceptional items
+
+7,870.88
+
+7,606.10
+
+6,570.94
+
+15,476.98
+
+13,120.20
+
+27,338.61
+
+2,450.03
+
+1,880.56
+
+1,878.62
+
+4,330.59
+
+3,357.70
+
+7,185.31
+
+VII Profit before tax
+
+2,450.03
+
+1,880.56
+
+1,878.62
+
+4,330.59
+
+3,357.70
+
+7,185.31
+
+615.43
+646.19
+(30.76)
+
+465.06
+434.53
+30.53
+
+483.64
+498.51
+(14.87)
+
+1,080.49
+1,080.72
+(0.23
+
+842.27
+887.97
+(45.70)
+
+1,772.72
+1,918.31
+(145.59
+
+IX Profit for the period (VII-Viti)
+Attributable to :
+
+1,834.60
+
+1,415.50
+
+1,394.98
+
+3,250.10
+
+2,515.43
+
+5,412.59
+
+Shareholders of the Company
+
+Non controlling interest
+
+1,831.94
+2.66
+
+1,416.78
+(1 .28)
+
+1,402.48
+(7.50)
+
+3,248.72
+1.38
+
+2,518.58
+(3.15)
+
+5,410.92
+1.67
+
+X Profit for the D<lriod (IX)
+
+1,834.60
+
+1,415,50
+
+1,394.98
+
+3,250.10
+
+2,515.43
+
+5,412.59
+
+(32.92)
+
+412.68
+
+160.09
+
+379.76
+
+137.57
+
+109.09
+
+A (i) Items that will not be reclassified to profit or loss in subsequent periods
+
+6.19
+
+(46.19)
+
+(15.44)
+
+(40.00)
+
+(30.59)
+
+(54.12)
+
+(ii) Income tax relating to items that will not be reclassified to profit or loss
+
+(1.36)
+
+11.52
+
+3.48
+
+10.16
+
+7.45
+
+12.66
+
+B (i) Items that will be reclassified to profit or loss (net) in subsequent periods
+
+(186.73)
+
+471.39
+
+143.13
+
+284.66
+
+141.94
+
+108.67
+
+September 30,
+
+Sr.
+Particulars
+
+No.
+I
+II
+
+Revenue from operations
+Other income
+
+VIII Income Tax expense
+(1) Current tax
+I(2) Deferred tax
+
+XI Other Comprehensive Income / (Loss) ('OCI') , Net of Tax
+
+(ii) Income tax relating to items that will be reclassified to profit or loss
+XII Total Comorehenslve Income for the oerlod lX+Xll
+
+Attributable to :
+Shareholders of the Company
+Non controllina interest
+Paid up equity share capital
+XIII l(Face value of Rs. 10 each, fullv oaid uol
+XIV Other equi1y
+
+2025
+Unaudited
+
+Hall year ended
+
+33.658.65
+865.27
+
+148.98
+
+(24.04)
+
+28.92
+
+124.94
+
+18.77
+
+41 .88
+
+1801 .68
+
+1828,18
+
+1 555,07
+
+3629,86
+
+2653,00
+
+5521 ,68
+
+1,799.02
+2.66
+
+1,829.46
+(1.28
+
+1,562.57
+(7.501
+
+3,628.48
+1.38
+
+2,656.15
+(3.151
+
+5,520.01
+1.67
+
+469.17
+
+469.90
+
+469.72
+
+469.17
+
+469.72
+
+469.60
+22,588.02
+
+39.00
+38.10
+
+30.16
+29.64
+
+29.66
+29.15
+
+69.16
+67.72
+
+52.73
+51.81
+
+114.19
+112.07
+
+xv Earnings per share: (in Rs.)(not annualised for the quarter) (Refer note 5)
+(1 ) Basic
+(2) Diluted
+
+Notes :
+1 The statement of consolidated unaudited financial results of eClerx Services Limited (the 'Company' including eClerx Employee Welfare Trust) and its subsidiaries (the Company and its
+subsidiaries together hereinafter referred to as the 'Group') for the quarter and half year ended September 30, 2025 have been reviewed by the Audit Committee and approved by the Board of
+Directors at their respective meetings held on October 24, 2025. There are no qualifications in the limited review report issued by the auditors.
+2 These consolidated financial results have been prepared in accordance with the recognition and measurement principles laid down in the Indian Accounting Standards (Ind AS) 34 ·interim
+Financial Reporting" prescribed under section 133 of the Companies Act, 2013, as amended read with the relevant rules issued thereunder.
+3 The Group operates under a single reportable segment which is data management, analytics solutions and process outsourcing services. Further, the risks and rewards under various
+geographies where the Group operates are similar in nature.
+4 The Board of Directors at its meeting held on October 24, 2025, approved the buyback of equity shares through tender offer route for an amount not exceeding Rs. 3,000 million (Buy Back Size)
+excluding transaction costs, at a price of Rs. 4,500 per share (Buy Back Price), subject to approval of shareholders.
+5 The financial results of eClerx Employee Welfare Trust have been included in the consolidated financial results of the Group in accordance with the requirements of IND AS. While computing
+basic and diluted earnings per share, weighted average number of equity shares held by trust have been reduced.
+6 Figures for the previous period have been regrouped wherever necessary to conform to those of the current period.
+7 ASEC Group LLC ("Transferor"), the step-down subsidiary of eClerx Services Limited (''the Company") has merged with Personiv Contact Centers LLC ("Transferee"), another step-down
+subsidiary of the Company with effect from October 1, 2025 for efficient corporate structure. The Transferor and Transferee companies are wholly owned step down subsidiaries of the
+Company and there is no cash consideration or issue of new shares as part of the merger.
+
+
+8
+
+Statement of Consolidated Assets and Liabilities
+Rupees in million
+Particulars
+
+A.ASSETS
+1. Non current assets
+Property, plant and equipment
+Right of use assets
+Capital work in progress
+Goodwill
+Other intangible assets
+Financial assets
+Investments
+Derivative instruments
+Other financial assets
+Deferred tax assets (net)
+Non-current tax assets (net)
+Other non - current assets
+
+2. Current assets
+Inventories
+Financial assets
+Investments
+Trade receivables
+
+Billed
+Unbilled
+Cash and cash equivalents
+Other bank balances
+Other financial assets
+Derivative instruments
+Other current assets
+Current tax assets (net)
+
+TOTAL • ASSETS
+B. EQUITY AND LIABILmES
+1. Equity
+Equity Share capital
+Other Equity
+Total Equity attributable to shareholders of the Company
+Non-controlling interests
+Total Equity
+2. Non current liabilities
+Financial liabilities
+Lease liabilities
+Derivative instruments
+Other financial liabilities
+Employee benefit obligations
+Deferred tax liabilities (net)
+
+Asal
+
+Asal
+
+September 30,
+2025
+Unaudited
+
+March 31,
+2025
+Audited
+
+1,843.53
+3,534.86
+36.28
+4,335.04
+682.49
+
+1,695.65
+3,252.73
+1.90
+4,079.04
+711.76
+
+69.27
+0.36
+322.45
+955.00
+105.05
+3.86
+
+219.15
+30.03
+503.99
+726.82
+138.76
+13.12
+
+11,888.19
+
+11,3n.95
+
+2.48
+
+2.27
+
+4,322.61
+
+2,871.04
+
+5,509.34
+3,024.22
+5,940.18
+2,243.43
+915.67
+0.14
+1,453.75
+1.60
+
+4,954.21
+2,944.63
+5,416.97
+1,974.30
+564.32
+31.11
+1,295.99
+28.94
+
+23,413.42
+
+20,083.78
+
+35,301 .61
+
+31,456.73
+
+469.17
+25,772.39
+
+469.60
+22,588.02
+
+26,241 .56
+
+23,057.62
+
+26.22
+
+21.97
+
+26,267.78
+
+23,079.59
+
+3,376.69
+107.97
+586.74
+69.74
+
+3,080.62
+10.89
+0.18
+810.86
+67.42
+
+4,141.14
+
+3,969.97
+
+3. Current llabllllies
+Financial liabilities
+Lease liabilities
+Derivative instruments
+Trade payables
+Total outstanding dues of Micro enterprises and small enterprises
+Total outstanding dues of creditors other than Micro enterprises and small enterprises
+Other financial liabilities
+Other current liabilities
+Employee benefit obligations
+Current tax liabilities (net)
+
+574.03
+443.47
+
+500.65
+104.78
+
+9.62
+776.08
+407.39
+785.21
+1,542.44
+354.45
+
+3.04
+782.70
+198.44
+695.34
+1,864.03
+258.19
+
+4,892.69
+
+4,407.17
+
+TOTAL · EQUITY AND LIABILmES
+
+35,301 .61
+
+31,456.73
+
+
+Statement of Consolidated Cash Flows
+
+(Ruoees in Million
+
+HaH year endad
+September 30, September 30,
+2025
+2024
+Unaudited
+Unaudltad
+Operating activities
+Profit before tax
+Adjustments to reconcile profit before tax to net cash flows:
+Depreciation and amortisation expense
+Share-based payment expense
+Unrealised net foreign exchange differences
+Gain on sale of property, plant and equipment (net)
+Interest income on corporate rent deposits
+Amortised cost on corporate rent deposits
+Profit on sale of current investments
+Dividend income
+Interest income on fixed deposits
+Bad debts written off
+Provision for doubtful debts
+Finance cost
+Fair value gain on financial instruments at fair value through profit or loss
+Other adjustments
+Working capital adjustments :
+Increase in trade receivables
+(lncrease)/Decrease in inventories
+(lncrease)/Decrease in other current and non current financial assets
+Increase in other current and non current assets
+Decrease in employee benefit obligations
+lncrease/(Decrease) in trade payables, other current and non current liabilities and provisions
+cash generated by operating activities
+Payment of domestic and foreign taxes (net of refunds)
+
+Net cash flows generatad from operating activities (A)
+Investing activities
+Proceeds from sale of current investments
+Purchase of current investments
+Purchase of non-current investment
+Investment in bank deposits (having original maturity of more than three months)
+Redemption / maturity of bank deposits (having original maturity of more than three months)
+Proceeds from sale of property, plant and equipment
+Purchase of property, plant, equipment and intangible assets (including capital work in progress)
+Dividend received
+Interest received
+Net cash flows (used in)/generated from investing activities (BJ
+Financing activities
+Purchase of treasury shares by eClerx Employee Welfare Trust
+Money received from exercise of options
+Buyback of equity shares•
+Buy back expenses
+Tax on buyback of equity shares•
+Payment of dividend
+Interest paid
+Principal payment - Lease
+Net cash flows used In financing activities (C)
+
+4,330.59
+
+3,357.70
+
+794.01
+174.83
+86.59
+(2.54)
+(10.35)
+
+644.51
+227.22
+55.41
+(13.05)
+(9.24)
+8.85
+(54.50)
+
+(56.14)
+(15.43)
+(152.70)
+2.59
+19.40
+204.87
+(2.52)
+2.49
+
+(149.78)
+2.53
+0.36
+158.32
+(29.96)
+(29.07)
+
+5,375.69
+
+4,167.66
+
+(568.52)
+(0.21)
+(100.12)
+(159.56)
+(585.71)
+290.91
+
+(75.05)
+3.52
+32.69
+(81.39)
+(312.82)
+(77.65)
+
+4,252.48
+
+(1 .64)
+
+3,656.96
+
+892.41
+
+755.04
+
+3,360.07
+
+2,901 .92
+
+9,342.97
+(10,576.00)
+(10.00)
+(303.00)
+13.40
+5.43
+(524.88)
+15.43
+108.30
+
+13,973.91
+(13,001.84)
+
+(1,928.35)
+
+2,869.74
+
+(915.40)
+221.86
+
+(46.96)
+(204.87)
+(239.48)
+
+(391.10)
+212.76
+(3,839.11)
+(33.91)
+(839.54)
+(46.95)
+(158.32)
+(163.39)
+
+(1 ,184.85)
+
+(5,259.56)
+
+(5.00)
+(117.34)
+2,384.00
+49.51
+(562.24)
+1.64
+147.10
+
+Effect of exchange fluctuation on cash and cash equivalents (D)
+
+276.34
+
+66.48
+
+Net increase In cash and cash eaulvalents (A+B+C+D)
+
+523.21
+
+578.58
+
+Cash and cash equivalents at the beginning of the period
+
+5,416.97
+
+3,539.54
+
+Cash and cash equivalents at the end of the l'MViod
+
+5,940,18
+
+4,118,12
+
+*Net after elimination of amount pertaining to buyback of shares held by eClerx Employee Welfare Trust
+
+Digitally signed
+
+NEERAJ
+byNEERN
+BALKRISHA :~~:~AN
+N SHARMA 0a,ec2025.10.2•
+19:41 :53 +05'30'
+
+Place: Mumbai
+Date: October 24, 2025
+
+For and on behaH of Board of Directors
+Di91tally slgnedby
+
+KAPIL JAIN ~ !i:i~.10.24
+Kapll Jain
+Managing Director & Group CEO
+
+

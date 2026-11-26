@@ -6,7 +6,7 @@
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Aktiebolaget SKF, the promoter, transferred its entire 52.58% holding (25,992,059 equity shares) off-market to SKF Interim AB, its wholly-owned subsidiary. An exempt inter-se promoter transfer; total promoter holding stayed 52.58% and ultimate control remains with AB SKF. SKF Interim AB now holds the stake directly.
+**Ownership — Within the promoter family / group.** AB SKF transferred its entire 52.58% stake (25,992,059 shares) in SKF India by off-market inter-se transfer to SKF Interim AB, its own wholly-owned subsidiary. Promoter group holding stayed 52.58%; the transfer was exempt from open offer under Regulation 10(1)(a)(iii). Ultimate control remains with AB SKF; SKF Interim AB now holds the shares.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 52.58% (2025-09-30) → 52.58% (2025-12-31) → 52.58% (2026-03-31) → 52.58% (2026-06-30) → 52.58% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 52.58% and bought 52.58%.
 
-*Filings read for the ownership:* [2025-12-26 General Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA22_26122025201331_9_SE_Intimation_Disclosure_under_Reg_10_7__of_SAST.pdf)
+*Filings read for the ownership:* [2025-12-26 General Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA22_26122025201331_9_SE_Intimation_Disclosure_under_Reg_10_7__of_SAST.pdf) · [2025-10-31 General Updates](https://nsearchives.nseindia.in/corporate/SKFINDIA22_31102025192138_NSE.pdf) · [2025-10-09 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.in/corporate/team_sandeshc_09102025115819_skf.pdf) · [2025-10-06 General Updates](https://nsearchives.nseindia.in/corporate/SKFINDIA25_06102025232818_NSE.pdf) · [2025-10-06 General Updates](https://nsearchives.nseindia.in/corporate/SKFINDIA25_06102025233349_NSE.pdf) · [2025-09-25 Disclosure under SEBI Takeover Re…](https://nsearchives.nseindia.in/corporate/team_sandeshc_25092025112127_SAST.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (“CFO”)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
+| **Chief Financial Officer (“CFO”)** | Aashi Arora (resignation; last day 2026-05-13) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
 
-- **Why Aashi Arora is leaving, in the filing's words:** “due to conclusion of her interim assignment and change in role in the organization” Stays on as: continues to be part of SKF India Limited.
-- In the documents: “Pursuant to Regulation 30 and other applicable provisions of SEBI LODR read with SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated 30th January 2026 and company’s policy on Determination of materiality of events for disclosure to the stock exchanges, we wish to inform you that based on the recommendation of the Nomination and Remuneration Committee, the Board of Directors in its meeting held on 13th May 2026 has considered and approved the appointment of Mr. Mayank Holani as Chief Financial Officer of the company w.e.f. 14th May, 2026 in pursuance to the provisions of Section 203 of the Companies Act, 2013, read with Rule 8 of Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 and other applicable provisions, if any.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
+- **Why Aashi Arora is leaving, in the filing's words:** “due to conclusion of her interim assignment and change in role in the organization” Stays on as: continues to be part of SKF India Limited (role not stated).
+- In the documents: “Mr. Mayank Holani is appointed as the Chief Financial Officer (‘CFO”) of the Company in place of Ms. Aashi Arora (current CFO) who resigned, due to conclusion of interim assignment and change in role in the organization.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
+*All 13 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +7 more
 
 ### 2. Financials — the last three years
 
@@ -59,29 +59,29 @@
 
 **Aktiebolaget SKF (AB SKF)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 52.58% → 0%.
 
-**Aashi Arora** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
+**Aashi Arora** — Chief Financial Officer (“CFO”), in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 2,671 | 3,763 | +7.1% a year over 5 years |
-| Operating profit (₹ cr) | 420 | 449 | +1.3% a year over 5 years |
-| PAT (₹ cr) | 298 | 266 | -2.2% a year over 5 years |
-| Operating profit margin (%) | 15.7 | 11.9 | -3.8 pts |
-| ROCE (%) | 31.0 | — | — |
-| ROE (%) | 19.1 | 20.0 | +0.9 pts |
-| Borrowings (₹ cr) | 18.0 | 3.0 | -15 |
+| Sales (₹ cr) | 4,920 | 3,763 | -23.5% a year over 1 year |
+| Operating profit (₹ cr) | 745 | 449 | -39.7% a year over 1 year |
+| PAT (₹ cr) | 566 | 266 | -53.0% a year over 1 year |
+| Operating profit margin (%) | 15.1 | 11.9 | -3.2 pts |
+| ROCE (%) | 24.0 | — | — |
+| ROE (%) | 21.8 | 20.0 | -1.8 pts |
+| Borrowings (₹ cr) | 7.0 | 3.0 | -4 |
 
 ### 4. Track record — the incoming management
 
 **SKF Interim AB** (other) — the incoming owner. Holding after: 52.58%.
 
-What the documents say about them: “"SKF Interim AB is a wholly-owned subsidiary of AB SKF." The documents say nothing further about its business, size or other holdings.”
+What the documents say about them: “"SKF Interim AB is a wholly-owned subsidiary of AB SKF." The filing states the transaction, "being an inter-se transfer of shares between AB SKF and its wholly-owned subsidiary, falls within the exemption provided under Regulation 10(1)(a)(iii) of the SEBI SAST Regulations." Nothing further about its business, size or record is stated.”
 
 **Mayank Holani** — Chief Financial Officer (“CFO”). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
 
-The filing's own profile: “Mr. Mayank Holani is a fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK. Mr. Mayank Holani is a seasoned professional with more than 23 years’ experience (including 6 years as CFO) working with diverse businesses in both Indian and multinational companies in diverse areas of finance and accounting including project management, finance transformation, business turnaround, profitability improvement, internal audit, digitization & automation, joint venture management, M&A, compliances, etc. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan”
+The filing's own profile: “Mr. Mayank Holani is a seasoned professional with more than 23 years’ experience (including 6 years as CFO) working with diverse businesses in both Indian and multinational companies in diverse areas of finance and accounting including project management, finance transformation, business turnaround, profitability improvement, internal audit, digitization & automation, joint venture management, M&A, compliances, etc. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan where he was responsible for end-to-end finance & accounts including finance strategy & operations, digitization, risk management, etc.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

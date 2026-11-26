@@ -1,0 +1,2022 @@
+Date: 05 September, 2025
+To,
+Manager - Listing Compliance
+National Stock Exchange of India
+Limited ‘Exchange Plaza’. C-1, Block G,
+Bandra Kurla Complex, Bandra (E),
+Mumbai - 400 051
+SYMBOL: JSLL
+
+To,
+Head of the Department,
+Department
+of
+Listing
+Operation,
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai 400001
+SCRIP Code: 544476
+
+Subject: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 – Publication of Case Studies and Reports.
+Dear Sir/Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, we wish to inform you that the following case studies and reports have been authored by medical
+professionals associated with Jeena Sikho Lifecare Limited, including our Managing Director, senior
+consultants, and Ayurvedic experts.
+These publications underscore the Company’s continued commitment to advancing Ayurvedic research
+and promoting evidence-based clinical practices. The details of the case studies are as follows:
+S. No.
+1.
+
+Type
+Case Study
+
+2.
+
+Case Report
+
+3.
+
+Case Study
+
+4.
+
+Case Study
+
+5.
+
+Case Report
+
+6.
+
+Case Study
+
+7.
+
+Case Study
+
+8.
+
+Case Study
+
+Name
+Role of Panchakarma and Ayurvedic Medicine in Contorling
+Ckd and HTN: A Case Study
+Effective Management of Symptoms of Carcinoma of The
+Urinary Bladder
+(Bastyarbuda)
+through Ayurvedic
+Interventions: A Case Report
+Efficacy of Ayurvedic Panchakarma Therapies in Vrikkaroga
+with Special Reference to Chronic Kidney Disease
+Exploring the Efficacy of Ayurveda in Alcoholic Liver Disease:
+A Case Study
+A Comprehensive Case Report on the Management of Prameha
+(Diabetes Mellitus) Using Traditional Ayurvedic Medications
+Management of Chronic Kidney Disease (Vrikka Vikara)
+Through Ayurvedic Modalities: A Case Study
+Significant Improvement in Type 2 Diabetes Mellitus with
+Diabetic Neuropathy and Retinopathy by Ayurvedic
+Therapeutics: A Case Study Regarding Santarpan Chikitsa in
+Krucchrasadhya (Difficult to Treat) Vataj Prameha along with
+its Updrava
+Considerable Effect of Ayurvedic Intervention in Subclinical
+Hypothyroidism: A Case Study of Anuktavyadhi (Unsaid
+Disorder)
+
+
+9.
+
+Case Study
+
+10.
+
+Case Report
+
+11.
+
+Case Study
+
+Management of Type 2 Diabetes Mellitus Significantly through
+Ayurvedic
+Intervention:
+A
+Case
+Study
+of
+Vatajapramehachikitsa
+Efficacy of Ayurvedic Medicines in The Management of
+Psoriasis: A Case Report
+Rapid healing of liver health along with preventing it from
+converting into acute to chronic liver disease Byayurvedic
+management in the viewpoint of Yakrit Vikara: A Case Study
+
+The above-mentioned case studies have been co-authored by Acharya Manish Grover Ji (Managing
+Director) along with the following medical professionals associated with the Company:
+Dr. Gitika Chaudhary, Dr. Richa, Dr. Poonam Hooda, Dr. Tanu Rani, Dr. Goel Abhishek
+Rajendra Kumar, Dr. Jagdish Prasad Kumawat, Dr. Suyash Pratap Singh, Dr. Priyank Sharma,
+Dr. Manjeet Singh, Dr. Gurdas, Dr. Ankita, Dr. Upam, Dr. Sadhna Yadav, Dr. Arpana Negi and
+Dr. Yogesh Handa
+Copies of the articles are enclosed as Annexures A to K for your records.
+This is for your kind information and record.
+Thanking you,
+Yours faithfully,
+For Jeena Sikho Lifecare Limited
+signed by
+MANISH Digitally
+MANISH GROVER
+2025.09.05
+GROVER Date:
+12:16:31 +05'30'
+
+Manish Grover
+Managing Director
+DIN: 07557886
+Place: Zirakpur, Punjab
+Date: 05.09.2025
+
+
+Case Study
+
+wjpls, 2025, Vol. 11, Issue 9, 123-130
+
+Annexure-A
+
+ISSN 2454-2229
+
+World
+of Pharmaceutical and Life Science
+World Journal of Pharmaceutical
+andJournal
+Life Sciences
+WJPLS
+
+Chaudhary et al.
+
+www.wjpls.org
+
+SJIF Impact Factor: 7.409
+
+ROLE OF PANCHAKARMA AND AYURVEDIC MEDICINE IN CONTORLING CKD
+AND HTN: A CASE STUDY
+Acharya Manish1, Dr. Gitika Chaudhary2*, Dr. Richa3, Dr. Poonam Hooda4, Dr. Tanu Rani5
+1
+
+Director, Meditation Guru, Jeena Sikho Lifecare Limited, India.
+Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, India.
+3
+Senior Research Officer, BAMS, PGDIP, CICR, CAIM, CMW, Jeena Sikho Lifecare Limited, India.
+4
+Consultant, BAMS, Jeena Sikho Lifecare Limited Clinic, Rohini, New Delhi, India.
+5
+Research Associate, BAMS, Jeena Sikho Lifecare Limited, India.
+
+2
+
+*Corresponding Author: Dr. Gitika Chaudhary
+Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, India.
+
+Article Received on 11/07/2025
+
+Article Revised on 02/08/2025
+
+Article Accepted on 21/08/2025
+
+1. ABSTRACT
+Chronic kidney disease (CKD) is defined as a progressive condition affecting kidney. According to recent studies
+glomerular filtration rate (GFR) is the basis of CKD detection and classification to five stages. The GFR alone
+cannot diagnose the disease during of stage 1 and stage 2 CKD because in those individuals the GFR may be
+normal or borderline normal. It is diagnosed and confirmed by analyzing GFR, serum urea, serum creatinine and
+serum uric acid. Chronic kidney disease (CKD), falling under the umbrella of non-communicable diseases is
+emerging as a global threat, reducing the productive years, life expectancy, [1] causing immense health expenditure,
+and increased socio-economic burden. CKD has become a common disease with a high Prevalence rate of
+nowadays[2] in people including young individuals. CKD refers to long term kidney damage, often caused by
+hypertension and type 2 diabetes, leading to irreversible damage to kidney function over time. Chronic kidney
+disease (CKD) means your kidneys are damaged and can’t filter blood the way they should. The disease is called
+―chronic‖ because the damage to your kidneys happens slowly over a long period of time. This damage can cause
+wastes to build up in your body. CKD can also cause other health problems. Kidney diseases are categorized under
+Basti or Maha Marma (vital organs) in Ayurveda and are recognized for their Kashtasadhyatva (poor prognosis).
+The structural and functional components of Vrikka (kidneys) are nourished by Rakta (blood) and Meda (fat
+tissue), forming the basis of Medovahasrotas (fat-metabolic channels). Chronic Kidney Disease (CKD), considered
+an Anukta Vikara (non-specific disease) in Ayurveda.
+2. KEYWORDS: Chronic Kidney Disease (CKD, Mutrakriccha, Vrikk Nishkriyata, Serum creatinine, Anemia,
+Panchakarma Chikitsa.
+3. INTRODUCTION
+Chronic Kidney Disease (CKD), a progressive condition
+affecting kidneys for ≥3 months, causes over 1 million
+deaths annually and requires improved resources and
+healthcare costs. CKD is a growing global disorder, with
+early diagnosis and intervention reducing cardiovascular
+events, kidney failure, and death. Screening is most
+effective in developed countries, targeting high-risk
+groups like elderly individuals and those with
+concomitant illnesses. Strategies to slow disease
+progression include high blood pressure treatment,
+angiotensin-converting-enzyme inhibitors or blockers,
+glycemic control, statins and aspirin, and novel clinical
+methods to identify patients at risk of progression to later
+stages.
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+India, like many other developing countries, is
+experiencing a growing and often under-recognized
+epidemic of chronic renal failure (CRF). This issue is a
+key aspect of the ongoing health transition driven by
+industrialization and urbanization. Contributing factors
+include a rise in sedentary lifestyles, poor dietary habits,
+low birth weight, and malnutrition.[3]
+Chronic kidney disease (CKD), is the irreversible loss of
+kidney function over years. Chronic renal failure (CRF)
+initially presents as a biochemical abnormality. It is
+diagnosed when the glomerular filtration rate (GFR)
+drops below 30 ml/min.[4] Type-2 diabetes is one of the
+main causative factor of CKD, further leading to diabetic
+nephropathy. A blood test for creatinine, a breakdown
+product of muscle metabolism, can detect chronic renal
+
+ISO 9001:2015 Certified Journal
+
+│
+
+123
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+disease. Elevated levels of creatinine (breakdown
+product of muscle metabolism) signify a reduced
+glomerular filtration rate, which in turn signifies a
+diminished kidney's ability to eliminate waste materials.
+CKD poses a growing problem to society as the
+incidence of the disease increases at an annual rate of
+8.[5]
+
+Packed Cell Volume (PCV)
+MCV
+MCH
+MCHC
+
+1. CASE REPORT
+A 60-year-old male patient with K/C/O CKD which was
+diagnosed recently & came to the OPD of Jeena Sikho
+Lifecare Limited, Clinic, Rohini, New Delhi on 30th Nov.
+2024 with the chief complaints of gastritis and acidity.
+The other complaints include low appetite, not clear
+motion, less urine and mild nausea. There is no any
+relevant family history and surgical history.
+o Table 1: A detailed assessment of vital signs on the
+first visit (30.11.2024).
+Parameters
+Findings
+B.P.
+160/90 mmHg
+P/R
+90/min
+Weight
+47 kg
+Height
+5 ft. 3 in.
+o
+
+o
+
+Table 2: Ashtavidha Pariksha done on 30.11.2024.
+S.No. Parameters
+Findings
+1.
+Sparsha
+Prakrita
+2.
+Shabda
+Spashta
+3.
+Akriti
+Prakrita
+4.
+Drishti
+Prakrita
+5.
+Jivha
+Niraam
+6.
+Mutra
+Ishat-peet varna
+7
+Mala
+Avikrita
+8.
+Nadi
+Vaat-Kaphaj
+Table 3: Dasha Pariksha done on 30.11.2024.
+S.No. Parameters
+Findings
+1.
+Prakriti
+Vaat-Kaphaj
+2.
+Vikriti
+Vaataj
+3.
+Sara
+Madhyam
+4.
+Samhana
+Madhyam
+5.
+Pramana
+Madhyam
+6.
+Satmya
+Madhyam
+7
+Satva
+Madhyam
+8.
+Aahar Shakti
+Madhyam
+9.
+Vaya
+Vriddha
+10.
+Vyayam Shakti
+Madhyam
+
+27.20 %
+93.40 fL
+30.60 pg
+32.80 g/dL
+
+Table 4.2: Platelets count Report.
+Parameters
+Findings
+Basophils
+0.04 thou/mm3
+Platelets count
+176 thou/mm3
+Mean platelet volume
+11.5 fL
+Table 4.3: LFT Report.
+Parameters
+AST (SGOT)
+ALT (SGPT)
+AST:ALT
+Alkaline Phosphatase (ALP)
+Bilirubin Total
+Bilirubin direct
+Bilirubin indirect
+Total Protein
+Albumin
+A:G Ratio
+Table 4.4: KFT Report.
+Parameters
+Creatinine
+GFR estimated
+Urea
+Urea Nitrogen Blood
+Uric acid
+
+Findings
+13.0 U/L
+12.0 U/L
+1.08
+153 U/L
+0.40 mg/dL
+0.16 mg/dL
+0.24 mg/dL
+7.60 g/dL
+4.60 g/dL
+1.53
+
+Findings
+9.02 mg/dL
+6 ml/min/1.73 m2
+190.20 mg/dL
+88.82 mg/dL
+7.40 mg/dL
+
+Table 4.5: Electrolyte Report.
+Parameters
+Findings
+Calcium
+9.80 mg/dL
+Phosphorous
+5.67 mg/dL
+Sodium (Na+)
+136.00 mEq/L
+Potassium (K+)
+6.13 mEq/L
+Chloride (Cl)
+112.00 mEq/L
+2. Treatment Plan
+As far as CKD is concerned, it is not separately
+mentioned in Ayurveda texts. So, it can be categorized
+under the disorders of Mutra-vaha strotas dushti vikaras
+such as Mutrakriccha or Vrikk Nishkriyata due to
+similarity of major symptoms are seen. Here, the patient
+was given medications under the following way:
+
+The patient was advised for some investigations like
+CBC, Platelet count, RFT, and LFT.
+o Table 4: A detailed result of investigations done
+on 30.11.2024.
+Table 4.1: CBC Report.
+Parameters
+Findings
+Hemoglobin (HB)
+8.90 g/dL
+Total Leucocytes Count (TLC)
+7.00 thou/mm3
+Total RBC count
+2.91 Mill/mm3
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+ISO 9001:2015 Certified Journal
+
+│
+
+124
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+ Daily Medication
+o Table 5: Daily Ayurvedic Medication Schedule on 30.11.2024.
+Medicine
+S.N.
+Content
+Name
+Hazrool Yahood Bhasma, Chandraprabha powder, Pashanbheda (Bergenia lingulata),
+Mulak kshar (Raphanus sativus), Yava kshar (Hordeum vulgare), Amalaki Rasayan powder,
+1.
+Nephron plus Trivikrum Rasa powder, Navasara powder, Nimbu satva (Citrus limon), Gokshur (Tribulus
+terrestris), Durbhamool (Desmostachya bipinnata), Shila pushpa (Didymocarpus pedicillata),
+Black salt, Hing (Ferula foetida)
+2.
+Electro plus
+Electolytes, Glucose, Vitamin C, Aplple
+Punarnva (Trianthema portulacastrum), Kalimirch (Piper nigrum), Pippali (Piper longum),
+Vayavidanga (Embella ribes), Devdaru (Cedrus deodara), Kutha (Saussurea lappa), Haldi
+(Curcuma longa), Chitrak (Plumbago zeylanica), Harad (Terminati chebula), Bahera
+Yakrit Shoth (Terminalia belerica), Amla (Emblica officinalis), Danti (Baliaspermum mantanum), Chavya
+3.
+Har Vati
+(Piper retrofractum), Indra Jon (Holarrhena antidysenterica), Pippla Mool (Piper longum),
+Motha (Cyperus rotundus), Kalajira (Carum carvi), Kayphal (Myrica esculenta), Kutki
+(Picrorhiza kurrooa), Nishoth (Operculina turpethum), Sonth (Zingiber officinale), Kakd
+singhi (Pistacia integerrima), Ajwaen (Carum copticum), Mandur bhasam (Ferric Oxide)
+Kajjali, Loh bhasma, Vanga bhasma, Abharaka bhasma, Yavakshar, Gokshura, Haritiki,
+4.
+Mutral vati
+Baheda, Vasa, Petha, Kusha, Kasha, Charra, Durvaa, Ikhha
+Gokshura (Tribulus terrestris), Shudha Guggulu (Commiphora wightii), Shunthi (Zingiber
+Gokshuradi
+5.
+officinale), Marich (Piper nigrum), Pippali (Piper longum), Haritaki (Terminalia chebula),
+Guggulu
+Bibhitaki (Terminalia belliirica), Amlaki (Emblica officinalis), Musta (Cyprus rotundus)
+Kasani (Cichorium endivia linn.), Gokhru (Tribulus terrestris linn.), Shatavari (Asparagus
+6.
+Syrup CKD
+racemosus willd.), Giloy (Tinospora cordifolia), Sorbitol, Sudha shilajit (Asphaltum
+punjabianum)
+Shunthi (Zingiber officinale), Maricha (Piper nigrum), Pippali (Piper longum), Amalki
+(Emblica officinalis), Bibhitika (Terminalia belerica), Haritiki (Terminalia chebula), Musta
+Amla
+Pitta
+7.
+(Cyperus roundus), Sukshmaila (Elettaria cardamomum), Tvak Patra (Cinnamomum
+Har Churna
+tamalas), Vidanga (Embelia ribes), Bid Lavana (Sodii chloridum), Lavanga (Syzygium
+aromaticum), Trivrita
+Bhoomi Amla (Phyllanthus fraternus), Badi Harad (Terminalia chebula), Bahera (Terminalia
+8.
+GFR Powder belerica), Kasni (Cichorium lendivia), Makoye (Solanum nigrum), Punarnava (Boerhaavia
+diffusa), Gokhru (Tribulus terrestris).
+ DIP diet
+Pathya-Apathya[6]
+o Table 6: Dietary plans for Mootravaha sroto vikaras.
+Pathya diet
+Mudgarasa – Once weekly
+Yava Anna Sewan
+Patol sewan, Urvaruk (snake cucumber) and boiled vegetables
+Saindhav lavana
+Fruits – apple, papaya
+Strictly fluid intake – 1 to 1.5 L/day
+Hydration
+ Sip water slowly and steadily to ensure proper
+hydration.
+ Drink approximately 1 litre of alkaline water 3 to 4
+times a day.
+ Include herbal tea, living water, and turmericinfused water in your daily routine.
+ Boil 2 litres of water and reduce it to 1 litre before
+consumption.
+
+
+
+
+
+Doses
+
+1 Tab. BD
+
+1 BD
+
+1 Tab. BD
+
+1 Tab. BD
+1 Tab. BD
+
+2 tbsp. BD
+
+1 tbsp. BD
+
+1 tbsp. BD
+
+Apathya diet
+Protein diet/Dairy food/Animal food
+Wheat (Godhum)
+Heavy pulses
+Packed items
+Citrus fruits
+Spices and pickles
+
+Kodo
+Banyard
+Browntop
+
+Include millets like
+ Foxtail
+ Little
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+ISO 9001:2015 Certified Journal
+
+│
+
+125
+
+
+Chaudhary et al.
+
+o
+
+World Journal of Pharmaceutical and Life Science
+
+Table 7: Diet Chart.
+TIME
+Early Morning (5:45 AM)
+Breakfast (9:00-10:00 AM)
+Morning Snacks (11:00 AM)
+Lunch (12:30 PM - 2:00 PM)
+Evening Snacks (4:00 – 4:20 PM)
+Dinner (6:15-7:30 PM)
+
+DIET PLAN
+Herbal tea with curry leaves (1 leaf for 1 minute or 5 leaves for 5 minutes)
+Raw ginger and turmeric
+Steamed seasonal fruits
+Steamed sprouts (based on the season)
+Fermented millet shake (containing 4-5 types of millet)
+Red juice (150 ml)
+Soaked almonds
+Plate 1: Steamed salad
+Plate 2: Cooked millet-based dish
+Green juice (100-150 ml)
+4-5 almonds
+Plate 1: Steamed salad, chutney, and soup
+Plate 2: Millet khichdi
+
+ Lifestyle modification
+(i)
+Practice deep breathing exercises (Pranayama)
+for 40 mins daily.
+(ii)
+Eat and drink within a bracket of 08 hours (for
+e.g. If you start your first meal in the morning at
+10 AM then finish your dinner by 6 PM).
+(iii) Fast once a week on just coconut water.
+(iv) 1 glass of Luke warm water added with 1 spoon
+haldi powder, 1 lemon with pinch of black pepper
+(freshly grated) to be consumed 4 times a day.
+(v)
+Perform oil pooling every day.
+(vi) Physical Activity: 60 minutes exercise daily
+(preferably during sunrise)
+(vii) Sunlight: Sit in sunlight for at least 1 hour in the
+morning and 1 hour in the evening with foot
+soaked in lukewarm water as advised with
+chanting.
+ Panchakarma therapy
+1)
+Awagaha Swedana[7]
+Procedure: The patient is seated in a tub containing warm
+water (42°C) infused with medicinal herbs for
+approximately 30 minutes under observation.
+Physiological Effects
+ Warm water induces vasodilation, enhancing skin
+blood flow and promoting diaphoresis.
+ Sweating aids in the elimination of metabolic waste
+(urea, creatinine, uric acid).
+ Transdermal absorption of ayurvedic constituents
+supports systemic effects.
+Mode of Action
+ Elevated body temperature triggers vasodilation and
+sympathetic activation, releasing catecholamines
+and thyroid hormones to boost metabolism and
+lipolysis.
+ Facilitates liquefaction and mobilization of doshas
+within microchannels (srotas) as described in
+Ayurvedic texts (Charaka Siddhi Sthana 1/8).
+ Awagaha Swedana is a therapeutic approach within
+Sagni Sweda therapy, promoting detoxification and
+balancing systemic functions.
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+a) Ruksha Pottali Sweda after Abhyangam for 3 days
+i. Abhyangam
+Procedure
+1. Warm Mahanarayan Taila and Bala Taila are
+applied to the body using gentle to moderate
+pressure in a rhythmic manner.
+2. Massage is performed in the direction of hair
+growth, focusing on marma points and major
+muscles, for 30–45 minutes.
+3. Post-massage, the body is covered with a warm
+cloth or exposed to mild steam for better oil
+absorption.
+Physiology
+ Improves Circulation: Massage stimulates blood
+flow, enhancing oxygen and nutrient delivery to
+tissues.
+ Relieves Stiffness: Reduces muscle tension and
+stiffness by relaxing contracted fibers.
+ Nervous
+System
+Regulation:
+Activates
+parasympathetic responses, reducing stress and
+promoting relaxation.
+ Skin Absorption: Oils penetrate the skin, nourishing
+deep tissues and enhancing joint lubrication.
+Mode of Action
+ Enhances lymphatic drainage, removing metabolic
+waste.
+ Oils with medicinal properties (e.g., Mahanarayan
+Taila) reduce vata dosha, alleviating pain and
+promoting joint health.
+ii. Ruksha Pottali Sweda
+Procedure
+1. After Abhyangam, a heated pottali (bolus)
+containing dry medicinal herbs (churna pinda) is
+used.
+2. The pottali is applied over specific areas using
+tapping or gentle circular strokes.
+3. The process lasts 15–30 minutes, ensuring even
+heat distribution and therapeutic action.
+
+ISO 9001:2015 Certified Journal
+
+│
+
+126
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+Physiology
+
+Vasodilation: Heat application dilates blood
+vessels, increasing circulation.
+
+Sweat Induction: Encourages sweating, facilitating
+the removal of ama (toxins).
+
+Anti-inflammatory Effect: Reduces swelling and
+inflammation in targeted areas.
+
+2.
+
+3.
+
+4.
+Mode of Action
+
+Dry heat reduces kleda (fluid retention) and
+balances kapha and vata doshas.
+
+Mobilizes toxins lodged in deeper tissues for
+excretion.
+
+Promotes muscle relaxation and pain relief by
+improving microcirculation and reducing nerve
+compression.
+Together, Abhyangam and Ruksha Pottali Sweda provide
+a synergistic effect, addressing stiffness, pain, and toxin
+accumulation while enhancing systemic balance.
+2) Basti Therapy
+i. Matra Basti with Sahacharadi Taila[8] (90 ml)
+Procedure
+1. Preparation: The patient is advised to empty the
+bowel and bladder before the procedure.
+2. Positioning: The patient lies in the left lateral
+position with knees flexed.
+3. Administration: Warm Sahacharadi Taila (90 ml)
+is introduced slowly into the rectum using a sterile
+syringe or nozzle.
+4. Post-Procedure Care: The patient is advised to
+remain in the same position for 15–30 minutes to
+allow optimal absorption of the oil.
+Physiology
+
+Lubrication: Sahacharadi Taila [9] provides
+lubrication to the intestinal mucosa, easing bowel
+movements.
+
+Nutrient Absorption: The rectal mucosa absorbs the
+active medicinal components, delivering systemic
+effects.
+
+Neuromuscular Relaxation: The warm oil soothes
+local vata imbalances, relieving pain and stiffness.
+Mode of Action
+
+Balances vata dosha by its snigdha (unctuous) and
+ushna (warm) properties.
+
+Enhances circulation in the pelvic region, relieving
+congestion and promoting tissue nourishment.
+
+Acts as a nervine tonic, reducing neuromuscular
+disorders and enhancing the strength of ligaments
+and joints.
+ii. Madhutailik Basti[10]
+Procedure
+1. Preparation: The patient is prepared by ensuring an
+empty bowel and bladder.
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+Mixture Preparation: A medicated combination of
+honey, oil (commonly sesame or medicated oil),
+saindhav lavan along with kalka and kwatha of other
+prescribed ingredients is emulsified.
+Administration: The warm mixture is gently
+introduced into the rectum using a sterile enema
+apparatus with the patient in the left lateral position.
+Post-Procedure Care: The patient rests for 15–30
+minutes to allow absorption and avoid immediate
+expulsion.
+
+Physiology
+
+Nutrient Absorption: The rectal mucosa absorbs the
+medicated solution, facilitating systemic delivery.
+
+Lubrication and Detoxification: Honey and oil
+synergistically lubricate the colon and aid in toxin
+removal.
+
+Neuromuscular Regulation: Promotes relaxation of
+the intestinal walls, aiding in motility and reducing
+spasticity.
+Mode of Action
+
+Balances vata dosha by providing unctuousness and
+calming hyperactive nerve impulses.
+
+The combination of honey and oil supports
+cleansing (detoxification) and rejuvenation
+(rasayana).
+
+Addresses localized inflammation and systemic
+metabolic imbalances by improving circulation in
+the pelvic and abdominal regions. Madhutailik
+Basti is particularly effective in managing digestive
+disorders, joint pains, and neurological issues while
+promoting systemic health.
+3) Shiropichu and Shiroabhyangam with Ksheerbala
+Procedure:
+
+Shiropichu: A soft cotton pad soaked in warm
+Ksheerbala oil is gently placed on the head's crown
+region. It is left undisturbed for 30–45 minutes to
+facilitate absorption of the medicinal oil.
+
+Shiroabhyangam: Following Shiropichu, the scalp
+is massaged with Ksheerbala oil using smooth,
+circular strokes for 20–30 minutes, focusing on
+marma points and areas of tension.
+Physiology:
+
+Ksheerbala oil, enriched with nourishing and
+calming herbs, helps regulate Vata dosha, enhances
+microcirculation, and provides a calming effect on
+the central nervous system. It alleviates tension and
+supports nerve health.
+Mode of Action:
+
+Shiropichu: Calms the nervous system, reducing
+stress and promoting relaxation. This directly aids
+in managing high blood pressure, which is a
+common concern in CKD patients.
+
+Shiroabhyangam: Amplifies these effects by
+improving scalp blood flow, soothing the mind,
+reducing anxiety, and fostering better sleep
+patterns. Together, these therapies improve mental
+
+ISO 9001:2015 Certified Journal
+
+│
+
+127
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+clarity, enhance relaxation, and contribute to
+holistic well-being in individuals with CKD.
+
+o
+
+Table 9: Ashtavidha Pariksha done on 09.01.2025.
+S.No. Parameters
+Findings
+1.
+Sparsha
+Prakrita
+2.
+Shabda
+Spashta
+3.
+Akriti
+Prakrita
+4.
+Drishti
+Prakrita
+5.
+Jivha
+Niraam
+6.
+Mutra
+Ishat-peet varna
+7
+Mala
+Avikrita
+8.
+Nadi
+Vaat-Kaphaj
+
+o
+
+Table 10: Dasha Pariksha done on 09.01.2025.
+S.No. Parameters
+Findings
+1.
+Prakriti
+Vaat-Kaphaj
+2.
+Vikriti
+Vaataj
+3.
+Sara
+Madhyam
+4.
+Samhana
+Madhyam
+5.
+Pramana
+Madhyam
+6.
+Satmya
+Madhyam
+7
+Satva
+Madhyam
+8.
+Aahar Shakti
+Madhyam
+9.
+Vaya
+Vriddha
+10.
+Vyayam Shakti
+Madhyam
+
+These combined therapies play a vital role in balancing
+Vata and promoting tranquillity, which are essential in
+managing CKD symptoms and improving quality of life.
+3. Follow up
+The patient was treated on the OPD. He was instructed to
+take the diet according to diet chart and was advised to
+visit the hospital on 30th Dec. 2024 for follow up. The
+patient visited the hospital on 09th Jan. 2025 for the
+follow up. He had the complaints of gastritis and acidity.
+His vitals were noted and he was advised for some
+investigations.
+o Table 8: A detailed assessment of vital signs on
+09.01.2025.
+Parameters
+Findings
+B.P.
+160/100 mmHg
+P/R
+68/min
+Weight
+50 kg
+Height
+5 ft 3 in.
+
+S.N.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+o Table 11: Medicine Prescribed on 09.01.2025.
+Medicine Name
+Content
+Hazrool Yahood Bhasma, Chandraprabha powder, Pashanbheda (Bergenia
+lingulata), Mulak kshar (Raphanus sativus), Yava kshar (Hordeum vulgare), Amalaki
+Nephron plus
+Rasayan powder, Trivikrum Rasa powder, Navasara powder, Nimbu satva (Citrus limon),
+Gokshur (Tribulus terrestris), Durbhamool (Desmostachya bipinnata), Shila pushpa
+(Didymocarpus pedicillata), Black salt, Hing (Ferula foetida)
+Electro plus
+Electolytes, Glucose, Vitamin C, Aplple
+Punarnava (Trianthema portulacastrum), Kalimirch (Piper nigrum), Pippali (Piper
+longum), Vayavidanga (Embella ribes), Devdaru (Cedrus deodara), Kutha
+(Saussurea lappa), Haldi (Curcuma longa), Chitrak (Plumbago zeylanica), Harad
+(Terminati chebula), Bahera (Terminalia belerica), Amla (Emblica officinalis), Danti
+Yakrit Shoth Har
+(Baliaspermum mantanum), Chavya (Piper retrofractum), Indra Jon (Holarrhena
+Vati
+antidysenterica), Pippla Mool (Piper longum), Motha (Cyperus rotundus), Kalajira
+(Carum carvi), Kayphal (Myrica esculenta), Kutki (Picrorhiza kurrooa), Nishoth
+(Operculina turpethum), Sonth (Zingiber officinale), Kakd singhi (Pistacia integerrima),
+Ajwain (Carum copticum), Mandur bhasam (Ferric Oxide)
+Kajjali, Loh bhasma, Vanga bhasma, Abhraka bhasma, Yavakshar, Gokshura,
+Mutral vati
+Haritiki, Baheda, Vasa, Petha, Kusha, Kasha, Charra, Druvaa, Ikhha
+Gokshura (Tribulus terrestris), Shudha Guggulu (Commiphora wightii), Shunthi
+Gokshuradi
+(Zingiber officinale), Marich (Piper nigrum), Pippali (Piper longum), Haritaki
+Guggulu
+(Terminalia chebula), Bibhitaki (Terminalia belliirica), Amlaki (Emblica officinalis),
+Musta (Cyprus rotundus)
+Kasani (Cichorium endivia linn.), Gokhru (Tribulus terrestris linn.), Shatavari
+Syrup CKD
+(Asparagus racemosus willd.), Giloy (Tinospora cordifolia), Sorbitol, Shudha shilajit
+(Asphaltum punjabianum)
+Shunthi (Zingiber officinale), Maricha (Piper nigrum), Pippali (Piper longum), Amalki
+(Emblica officinalis), Bibhitika (Terminalia belerica), Haritiki (Terminalia chebula),
+Amla Pitta Har
+Musta (Cyperus roundus), Sukshmaila (Elettaria cardamomum), Tvak Patra
+Churna
+(Cinnamomum tamalas), Vidanga (Embelia ribes), Bid Lavana (Sodii chloridum),
+Lavanga (Syzygium aromaticum), Trivrita
+
+Doses
+
+1 Tab. BD
+
+1 BD
+
+1 Tab. BD
+
+1 Tab. BD
+
+1 Tab. BD
+
+2 tbsp. BD
+
+1 tbsp. BD
+
+Next follow up for the patient is given on 09th Feb. 2025.
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+ISO 9001:2015 Certified Journal
+
+│
+
+128
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+4. Results and outcomes
+Patient’s condition was improved with the decline in the
+symptoms which were seen on the first OPD visit. Some
+of the lab investigations got normal in 1months of
+medications followed by strict Pathya diet. The patient
+was advices for some investigation on 06.01.2025 which
+is mentioned here. Normalization of the investigation are
+mentioned below:
+o Table 12: A detailed result of investigations done
+on 06.01.2025.
+Table 12.1: CBC Report.
+Parameters
+Findings
+Hemoglobin (HB)
+9.0 g/dL
+Total Leucocytes Count (TLC)
+5.90 thou/mm3
+Total RBC count
+2.90 Mill/Cumm
+Packed Cell Volume (PCV)
+27.10 %
+MCV
+93.20 fl
+MCH
+30.80 pg
+MCHC
+33.10 g/dL
+Table 12.2: Platelets count Report.
+Parameters
+Findings
+Basophils
+0.04 thou/mm3
+Platelets count
+130 thou/mm3
+Mean platelet volume
+11.6 fL
+Table 12.3: LFT Report.
+Parameters
+AST (SGOT)
+ALT (SGPT)
+AST:ALT
+Alkaline Phosphatase (ALP)
+Bilirubin Total
+Bilirubin direct
+Bilirubin indirect
+Total Protein
+Albumin
+A:G Ratio
+Table 12.4: KFT Report.
+Parameters
+Creatinine
+GFR estimated
+Urea
+Urea Nitrogen Blood
+Uric acid
+
+│
+
+Findings
+19.0 U/L
+21.0 U/L
+0.90
+140 U/L
+0.35 mg/dL
+0.14 mg/dL
+0.21 mg/dL
+7.02 g/dL
+4.01 g/dL
+1.33
+
+Findings
+8.10 mg/dL
+7 ml/min/1.73 m2
+124.85 mg/dL
+58.3. mg/dL
+9.51 mg/dL
+
+Vol 11, Issue 9, 2025.
+
+
+
+DISCUSSION
+As mentioned earlier, CKD is specific form of renal
+disease. According to Ayurveda, CRF is a disease of
+Mutravaha Srotas. Though all the three Doshas as
+well as all the Dushyas are involved in the disease,
+Kapha is responsible in blocking microvessels and
+developing microangiopathy. Vata is responsible for
+degeneration of the structure of the kidney.[11]
+Especially Punarnava, Gokshura are recommended
+exclusively in the disorders of Mootravaha
+Samsthana. These drugs should be accepted as
+Naimittika Rasayana for kidney and other organs of
+Mootravah Srotas. Rasayana drugs bear the
+property of anti- oxidant and work as free radical
+scavengers.[12]
+
+6. Future Research perspectives
+This study focused on a CKD patient with hypertension
+and T2DM. While the results were promising, a more
+thorough evaluation is necessary due to the involvement
+of only one patient. To validate the reliability,
+effectiveness, and safety of the integrated Ayurvedic
+therapies used in this study for CKD, further research
+with a larger sample size and randomized controlled
+trials is needed. This will help establish standardized
+protocols and guidelines for clinical practice.
+7. CONCLUSION
+A 60-year-old male patient diagnosed with Chronic
+Kidney Disease (CKD) reported with symptoms
+including gastritis, reduced appetite, nausea, low
+urine output, and incomplete bowel evacuation. These
+were understood through an Ayurvedic lens as
+manifestations of Mutravaha Srotas Dushti Vikara. The
+treatment plan involved a multidimensional integrative
+approach combining Ayurvedic medicines, a renalfriendly DIP Diet, lifestyle modifications, and
+Panchakarma therapies. Medications were aimed at
+correcting digestion (Deepana-Pachana), reducing
+inflammation, and supporting renal detoxification. The
+DIP Diet focused on anti-inflammatory, low-protein, and
+nephroprotective foods, while lifestyle practices such as
+hydration, early sleeping habits, stress reduction, and
+moderate physical activity were emphasized.
+Panchakarma therapies including Awagaha Swedana,
+Abhyangam with Ruksha Pottali Sweda, Matra Basti,
+Madhutailik Basti, Shiropichu, and Shiroabhyangam
+were administered to balance aggravated Vata, improve
+bowel evacuation, and enhance neuromuscular function.
+
+Table 12.5: Electrolyte Report.
+Parameters
+Findings
+Calcium
+9.30 mg/dL
+Phosphorous
+5.75 mg/dL
+Sodium (Na+)
+139.00 mEq/L
+Potassium (K+)
+5.12 mEq/L
+Chloride (Cl)
+111.00 mEq/L
+
+www.wjpls.org
+
+5.
+
+
+After a period of treatment, renal function markers
+showed notable improvement. Serum creatinine
+decreased from 9.02 mg/dL to 8.10 mg/dL, urea
+reduced from 190.20 mg/dL to 124.85 mg/dL, and
+BUN dropped from 88.82 mg/dL to 58.3 mg/dL. The
+GFR improved from 6 to 7 ml/min/1.73 m², suggesting
+stabilization and slight enhancement in kidney filtration
+capacity.
+
+│
+
+ISO 9001:2015 Certified Journal
+
+│
+
+129
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+This case illustrates that an integrative Ayurvedic
+regimen—comprising individualized chikitsa, dietary
+guidelines, lifestyle corrections, and detoxification
+therapies—can effectively slow the progression of
+CKD, reduce toxin load, and improve overall renal
+health. Continued monitoring, long-term diet and
+medicine adherence, and periodic Panchakarma support
+are essential to sustain progress and enhance patient
+well-being.
+REFERENCES
+Neild GH. Life expectancy with chronic kidney
+disease: An educational review, Pediatric Nephrol.,
+2016; 32: 243-8.
+2. Kampmann JD, Heaf JG, Mogensen CB, Mickley H,
+Wolff DL, Brandt F. Prevalence and incidence of
+chronic kidney disease stage 3-5 - results from
+KidDiCo. BMC Nephrol., 2023 Jan 19; 24(1): 17.
+3. Prashanth GS, Baghel MS, Ravishankar B, Gupta
+SN, Mehta MP. A clinical comparative study of the
+management of chronic renal failure with
+punarnavadi compound. Ayu., 2010 Apr; 31(2):
+185-92.
+4. Patel MV, Gupta SN, Patel NG. Effects of ayurvedic
+treatment on 100 patients of chronic renal failure
+(other than diabetic nephropathy). Ayu., 2011 Oct;
+32(4): 483-6.
+5. Jose, M.L. Carlos, M.S., Ana, B.R. and Francisco,
+J.L. Common Pathophysiological Mechanisms of
+Chronic Kidney Disease: Therapeutic Perspectives.
+Pharmacology & Therapeutics., 2010.
+6. Amit Kumar Karna, S>A. Doddamani, Surekha S.
+Medikeri, Concept of Pathyapathya w.s.r. to
+Mutravaha Sroto Vikaras, J. Ayurveda Integr Med
+Sci., 2020; 4: 199-203.
+7. Pillani. Effective of GRAD system in reversing
+chronic kidney diseases(CKD) among dialysis
+patients, Dayananad ayurvedic college, Shridhar
+university.
+8. Singh R, Sharma S, Rathore S. Clinical evaluation
+of Sahacharadi Taila in managing vata disorders
+through Matra Basti. Journal of Ayurveda and
+Integrative Medicine., 2020; 11(2): 93-98.
+9. Charaka Samhita, Siddhi Sthana, Chapter 1.
+[Sahacharadi Taila and its utility in vata disorders
+described in the context of Panchakarma therapies].
+Transliteration and commentary by Sharma RK,
+Dash B. Chowkhamba Sanskrit Series Office,
+Varanasi, 2008.
+10. Sharma A, Gupta S, Singh R. Clinical efficacy of
+Madhutailik Basti in vata disorders: A review of
+classical concepts and modern applications. Journal
+of Ayurveda and Integrative Medicine., 2021; 12(3):
+257-262.
+11. Patel MV, Gupta SN, Patel NG. Effects of ayurvedic
+treatment on 100 patients of chronic renal failure
+(other than diabetic nephropathy). Ayu., 2011 Oct;
+32(4): 483-6.
+
+12. Prashanth GS, Baghel MS, Ravishankar B, Gupta
+SN, Mehta MP. A clinical comparative study of the
+management of chronic renal failure with
+Punarnavadi compound. Ayu., 2010 Apr; 31(2):
+185-92.
+13. Sharma PV, editor. Commentary of Dalhan on
+Sushruta Samhita of Sushruta, Uttar Tantra. Ch. 58.
+Verses 27. Varanasi: Chaukhambha Vishvabharti
+Prakashana, 2014.
+
+8.
+1.
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+signed by
+MANISH Digitally
+MANISH GROVER
+Date: 2025.09.05
+GROVER 12:17:01 +05'30'
+
+ISO 9001:2015 Certified Journal
+
+│
+
+130
+
+
+Case Study
+
+wjpls, 2025, Vol. 11, Issue 9, 107-116
+
+Annexure-B
+
+ISSN 2454-2229
+
+World Journal of Pharmaceutical
+and
+Life Sciences
+World
+Journal
+of Pharmaceutical and Life Science
+WJPLS
+
+Chaudhary et al.
+
+www.wjpls.org
+SJIF Impact Factor: 7.409
+
+"EFFECTIVE MANAGEMENT OF SYMPTOMS OF CARCINOMA OF THE URINARY
+BLADDER (BASTYARBUDA) THROUGH AYURVEDIC INTERVENTIONS: A CASE
+REPORT"
+Acharya Manish1, Dr. Gitika Chaudhary2*, Dr. Richa3, Dr. Goel Abhishek Rajendra Kumar4, Dr. Tanu Rani5
+1
+
+Director, Meditation Guru, Jeena Sikho Lifecare Limited, India.
+Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, India.
+3
+Senior Research Officer, BAMS, PGDIP, CICR, CAIM, CMW, Jeena Sikho Lifecare Limited, India.
+4
+Consultant, BAMS, EMS, Jeena Sikho Lifecare Limited Hospital, Pune, Maharashtra, India.
+5
+Research Associate, BAMS, Jeena Sikho Lifecare Limited, India.
+
+2
+
+*Corresponding Author: Dr. Gitika Chaudhary
+Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, India.
+
+Article Received on 11/07/2025
+
+Article Revised on 01/08/2025
+
+Article Accepted on 21/08/2025
+
+ABSTRACT
+This case report investigates the efficacy of traditional Ayurvedic treatment modalities in managing symptoms of
+carcinoma of the urinary bladder, highlighting both clinical outcomes and changes in quality of life indicators.
+Initial assessment revealed severe symptoms of urinary dysfunction, marked hydronephrosis, and notable
+prostatomegaly, confirmed through diagnostic ultrasonography which indicated latent neoplastic pathology. Over a
+treatment course spanning three months, the patient received tailored Ayurvedic therapies aimed at detoxifying the
+body, enhancing metabolic functions, and restoring doshic balance, without referencing specific medicinal
+compounds. Post-treatment evaluations demonstrated significant improvements. Objective measurements from
+ultrasonography illustrated changes such as decreased bladder wall irregularity and diminished hydronephrosis.
+Subjective assessments showed a dramatic reduction in the severity of symptoms: the International Prostate
+Symptom Score (IPSS) decreased from 28/35 to 10/35, and the Modified Medical Research Council (mMRC)
+Dyspnea Scale improved from 4/4 to 1/4. Furthermore, the Western Ontario and McMaster Universities
+Osteoarthritis Index (WOMAC) score for knee joint pain improved from 80/96 to 30/96, suggesting enhanced joint
+function and reduced pain. These findings suggest that Ayurvedic interventions could serve as effective
+complementary treatments for managing specific symptoms of bladder carcinoma, supporting further research into
+their integrative use in oncology. The results advocate for the inclusion of Ayurvedic practices in holistic cancer
+care, promising improvements in patient outcomes and quality of life.
+KEYWORDS: CA urinary bladder, Ayurvedic treatment, quality of life, integrative oncology, Ayurveda in cancer
+care, Bastyarbuda.
+INTRODUCTION
+Bastyarbuda, recognized in Ayurveda as a severe ailment
+akin to carcinoma of the urinary bladder, is discussed
+extensively in ancient Ayurvedic texts, such as the
+Charaka Samhita and Sushruta Samhita. These texts
+describe symptoms such as painful urination,
+obstruction, and palpable masses in the pelvic area,
+pointing to a tumor within the urinary bladder.[1] These
+classical references highlight treatments involving
+ayurvedic formulations, diet modifications, and lifestyle
+interventions aimed at rebalancing the body’s doshas and
+cleansing bodily channels.[2]
+From a modern medical perspective, carcinoma of the
+urinary bladder is identified predominantly in the
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+epithelial lining and is marked by mutations that cause
+uncontrolled cellular growth. Epidemiologically, it is a
+significant health concern, with approximately 573,000
+new cases and 213,000 deaths globally in 2020. The
+incidence rates are notably higher in developed regions
+and among males, with lifestyle factors like smoking and
+exposure to industrial chemicals being major risk
+factors.[3,4]
+The pathophysiology in modern medicine revolves
+around genetic mutations and environmental interactions,
+leading to malignant growths within the bladder.[5]
+Medical advancements have led to improved diagnostic
+and
+treatment
+modalities,
+including
+surgical
+interventions, intravesical therapy, and chemotherapy.[6]
+
+ISO 9001:2015 Certified Journal
+
+│
+
+107
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+In Ayurveda, Bastyarbuda is considered a result of
+Srotodushti (disturbance in the body channels),
+particularly in the Mutravaha Srotas (urinary channels).
+This disturbance is primarily attributed to imbalances in
+the Kapha and Vata doshas, with Pitta less commonly
+involved. The disease's progression involves the
+accumulation and spread of toxins in the body channels,
+eventually leading to tumor formation.[7]
+
+Family and Lifestyle History: There is no significant
+family history of genetic disorders, cancer, or
+cardiovascular diseases, which might have predisposed
+him to his current condition. He maintains a primarily
+vegetarian diet with occasional imbalances possibly due
+to his age and lifestyle. His lifestyle is predominantly
+sedentary, primarily due to chronic knee joint pain which
+restricts his mobility and physical activity.
+
+By drawing parallels between Ayurvedic Samprapti
+(pathogenesis) and modern pathology, deeper integrative
+medical approaches can be explored. Ayurvedic
+principles can complement modern treatments by
+focusing on individualized holistic care, potentially
+improving patient well-being and treatment efficacy.
+
+Symptomatology and Disease Progression: The patient
+reports a burning sensation during micturition and an
+increased frequency of urination, both classic signs that
+suggest a potential urinary tract issue. Additionally, the
+symptom of haematuria was particularly alarming and
+indicative of a more severe underlying condition.
+Comorbidity includes a cough and dyspnoea on exertion,
+which could suggest an overlapping cardiorespiratory
+issue, complicating his clinical picture.
+
+CASE REPORT
+Patient History and Information
+Demographics: The patient is a 78-year-old male, who
+presents with several urological and respiratory
+symptoms that have progressively worsened over time.
+This case description provides a detailed overview of his
+current health challenges and medical background to
+facilitate a comprehensive diagnostic and treatment
+approach.
+
+Samprapti
+In Ayurveda, the Samprapti (pathogenesis) of
+Bastyarbuda, akin to carcinoma of the urinary bladder, is
+characterized by the disturbance of Vata and Kapha
+doshas. Vata's increase promotes abnormal cell mobility
+and spread, while Kapha's involvement leads to cell
+growth and tumor formation, primarily affecting the
+Medas (fat tissue) and Rakta (blood). The pathological
+process primarily disturbs the Mutravaha Srotas (urinary
+channels), presenting as Sanga (obstruction) and
+Vimargagamana (improper movement). This obstruction
+results in symptoms like painful and frequent urination,
+alongside haematuria due to the involvement of the
+Rakta dhatu and disruption of normal urinary flow. Such
+an understanding of pathogenesis helps in framing
+targeted Ayurvedic interventions focusing on correcting
+the doshic imbalances and clearing the Srotas
+obstructions.
+
+Medical History: Previously, the patient had not been on
+any long-term medication related to the urinary
+symptoms nor had he followed any specific traditional
+Ayurvedic treatment regimen before this episode. There
+is no known history of hypertension or anaemia, which
+simplifies the clinical context somewhat by eliminating
+these common variables associated with his age group.
+Surgical History: The patient has a relatively minimal
+surgical history, with the only operation being a cataract
+surgery. This is significant as it indicates that there have
+been no interventions that might directly influence his
+current urinary system's condition.
+Samprapti Ghataka
+Table 1: Samprapti Ghataka.
+Component
+Dosha
+Dushya
+Srotas
+Adhishthana
+Nidana
+Purvarupa
+Rupa
+Upashaya-Anupashaya
+
+Description
+Vata, Kapha
+Meda, Rakta
+Mutravaha Srotas
+Basti
+Diet, Lifestyle, Genetics
+Urinary Disturbances
+Dysuria, Haematuria
+Food, Lifestyle Choices
+
+Table 2: Vital Parameters.
+Sr. No
+1.
+2.
+3.
+4.
+
+www.wjpls.org
+
+│
+
+Examination
+Blood Pressure
+Pulse
+Weight
+Height
+
+Vol 11, Issue 9, 2025.
+
+│
+
+Findings
+130/80 mm of Hg
+90 / min
+68.45 kg
+5 feet 4 inches
+
+ISO 9001:2015 Certified Journal
+
+│
+
+108
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+Ayurvedic Examination
+Table 3: Ashtavidha Pariksha (Eight-fold Examination).
+Sr. No Examination
+Findings
+1. Nadi (Pulse
+Pitta Kapha
+2. Mutra (Urine)
+Discomfort during micturition (Mutrakruchra), Haematuria
+3. Mala (Stool)
+Avikrita
+4. Jihva (Tongue)
+Saam
+5. Shabda (Voice)
+Avikrita
+6. Sparsha (Touch)
+Avikrita
+Shweta
+7. Drik (Eyes)
+Avikrita
+8. Akriti (Appearance)
+Table 4: Dashavidha Pariksha (Ten-fold Examination).
+Sr. No
+Examination
+1.
+Prakriti (Constitution):
+2.
+Vikriti (Imbalance):
+3.
+Sara (Tissue Excellence):
+4.
+Samhanana (Body Build):
+5.
+Pramana (Body Proportions):
+6.
+Satmya (Adaptability):
+7.
+Satva (Psychological Strength):
+8.
+Ahara Shakti (Digestive Strength):
+9.
+Vyayama Shakti (Exercise Capacity):
+10.
+Vaya (Age):
+Systemic Examination
+1. General Appearance: The patient appears fatigued
+and displays pallor, indicative of chronic illness or
+anemia.
+2. Vital Signs: Normal body temperature with a
+potentially elevated heart rate, possibly due to pain
+or stress.
+3. Abdominal Examination: A palpable mass is noted
+in the lower abdomen consistent with the expected
+tumor location.
+4. Cardiovascular System: Heart sounds are normal,
+though the rate may be increased, aligning with
+systemic stress or anaemia.
+5. Respiratory System: Breath sounds remain clear
+unless impacted by secondary complications like
+metastasis.
+6. Musculoskeletal: Mobility is decreased, potentially
+due to pelvic pain or metastatic impact on bones.
+7. Neurological Examination: Mental status and
+motor/sensory assessments are generally normal,
+without evident neurological deficits.
+8. Urinary System Examination: Urinary symptoms
+are highlighted by dysuria, haematuria, and
+increased frequency of urination, directly related to
+tumor presence and activity within the bladder.
+Diagnostic Assessment
+Table 3: Laboratory Results
+Urine examination
+1. Urine Protein - +
+2. Blood - +++
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+Findings
+Pitta Vata
+Vata, Kapha
+Maans Saar
+Moderate
+Within normal limits.
+Avar
+Avar
+Avar
+Avar
+78 yr old, vriddha
+
+Imaging Results
+1. Ultrasound: done on 28/10/24 suggested of –
+ Findings likely represent neoplastic urinary
+bladder pathology
+ Mild left sided hydronephrosis and hydroureter
+noted.
+ Small left renal cortical cysts as described
+ Grade IV Prostatomegaly
+ Grade I fatty liver changes
+2.
+
+
+
+
+FDG Report PET Scan
+Node in RT upper lobe of lung anteriorly
+measuring 8mm
+Bladder wall left & Infero lateral 8x6.5cm
+anterior wall 1.9x2.2cm
+Diverticulum 3.5x1.5cm
+
+Assessment Parameters
+Objective Parameters
+1. USG Findings
+Subjective Parameters
+To measure and evaluate the specific symptoms such as
+burning and frequent micturition, hematuria, cough,
+dyspnea on exertion, and knee joint pain, various wellrecognized scales can be utilized. Each symptom can be
+quantitatively assessed using respective scales to
+systematically gauge their severity and impact on the
+patient's quality of life:
+1. Burning and Frequent Micturition
+ Scale: International Prostate Symptom Score (IPSS)
+ Description: Assesses symptoms related to lower
+urinary tract issues, including frequency, urgency,
+and pain. The scale runs from 0 to 35, where higher
+scores indicate more severe symptoms.[8]
+
+ISO 9001:2015 Certified Journal
+
+│
+
+109
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+2.
+
+
+
+(Paspalum
+scrobiculatum),
+and
+Browntop
+(Urochloa ramose).
+Use only steel cookware for preparing the millets
+Cook the millets only using mustard oil.
+
+3.
+
+
+
+4.
+
+
+
+Cough
+Scale: Leicester Cough Questionnaire (LCQ)
+Description: A comprehensive tool measuring the
+impact of cough with domains covering physical,
+psychological, and social aspects. It has a scoring
+range where higher scores indicate better health
+status; total scores range from 3 to 21.[9]
+Dyspnea on Exertion
+Scale: Modified
+Medical
+Research
+Council
+(mMRC) Dyspnea Scale
+Description: Grades severity of breathlessness from
+0 (no trouble breathing except on strenuous
+exercise) to 4 (too breathless to leave the house),
+with higher numbers indicating greater disability.[10]
+Knee Joint Pain
+Scale: Western Ontario and McMaster Universities
+Osteoarthritis Index (WOMAC)
+Description: This scale assesses pain, stiffness, and
+functional limitations specifically related to knee
+and hip osteoarthritis. It is scored from 0 to 96, with
+higher scores indicating worse pain, stiffness, and
+functional limitations.[11]
+
+Therapeutic Intervention
+I. Diet Plan[12]
+The dietary guidelines provided by Jeena Sikho Lifecare
+Limited Hospital include the following key
+commendations:
+a. Foods to be avoided:
+ Do not consume wheat, refined food, milk and milk
+products, coffee and tea and packed food.
+ Avoid eating after 8 PM.
+b. Hydration
+ During water intake, take sip by sip and drink slowly
+to ensure the amount of water intake each time.
+ Drink about 1 litre of alkaline water 3 to 4 times
+throughout the day.
+ Include herbal tea, living water, coconut water and
+turmeric-infused water part of your daily routine.
+c. Millet Intake
+ Incorporate five types of millet into your diet:
+Foxtail (Setaria italica), Barnyard (Echinochloa
+esculenta), Little (Panicum sumatrense), Kodo
+
+
+
+
+d. Meal Timing and Structure
+1. Early Morning (5:45 AM): Herbal tea, curry leaves
+(1 leaf-1 min/5 leaves-5 min) along with raw ginger
+and turmeric.
+2. Breakfast (9:00-10:00 AM): The patient will have
+steamed fruits (Seasonal), steamed sprouts
+(according to the season) and a fermented millet
+shake (4-5 types).
+3. Morning Snacks (11:00AM): The patient will be
+given Red juice (150 ml) and soaked almonds.
+4. Lunch (12:30 PM - 2:00 PM): The patient will
+receive Plate 1 and Plate 2. Plate 1 will include a
+steamed salad, while Plate 2 with cooked milletbased dish.
+5. Evening Snacks (4:00 – 4:20 PM): Green juice (100150 ml) along with 4-5 almonds.
+6. Dinner (6:15-7:30 PM): The patient will be served a
+steamed salad, chutney, and soup.
+e. Fasting
+ It is advised to observe one-day fasting.
+f. Special Instructions
+ Express gratitude to the divine before consuming
+food or drinks.
+ Sit in Vajrasana (a yoga posture) after each meal.
+ 10 minutes slow walk after every meal.
+g. Diet Types
+ The diet comprises low salt solid, semi-solid, and
+smoothie options.
+ Suggested foods include herbal tea, red juice, green
+juice, a variety of steamed fruits, fermented millet
+shakes, soaked almonds, and steamed salads.
+II. Lifestyle Recommendations
+(i) Include meditation for relaxation.
+(ii) Practice barefoot brisk walk for 30 minutes.
+(iii) Ensure 6-8 hours of quality sleep each night.
+(iv) Adhere to a structured daily routine.
+
+Medicines that were used in this case report
+Table 6: Day 1 on 09/11/24.
+Medications
+Dr. Shuddhi Powder- Trikatu (a blend of Piper nigrum, Piper longum, and
+Zingiber officinale), Amarvati), Triphala (a blend of Terminalia chebula, Terminalia
+bellirica, and Emblica officinalis), Anardana (Punica granatum), Nagar motha
+(Cyperus rotundus), Dalchini (Cinnamomum verum), Vay Vidang (Embelia ribes),
+Badi Elaichi (Amomum subulatum), Choti Elaichi (Elettaria cardamomum), Hing
+(Ferula asafoetida), Tej Patta (Cinnamomum tamala), Kachnar (Bauhinia
+variegata), Laung (Syzygium aromaticum), Ajwain (Trachyspermum ammi), Nishoth
+(Operculina turpethum), Sajjikshar (Sodium bicarbonate), Sendha Namak (Rock
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+Dose
+
+½ Tsp BD
+
+Anupana
+
+Duration
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Adhobhakta
+(After Meal)
+
+ISO 9001:2015 Certified Journal
+
+│
+
+110
+
+
+Chaudhary et al.
+
+World Journal of Pharmaceutical and Life Science
+
+salt), Pushkarmool (Inula racemosa), Dhaniya (Coriandrum sativum), Sanaye
+(Cassia angustifolia), Pipla Mool (Piper longum root), Mishri (crystallized sugar
+from Saccharum officinarum), Jeera (Cuminum cyminum), Nagkesar (Mesua
+ferrea).
+Carcinex Cap - Guduchi (Tinospora cordifolia), Kirattikta (Swertia chirata),
+Maricha (Piper nigrum), Paneer Dodi (Withania coagulans), Amlaki (Emblica
+officinalis), Kalmegha (Andrographis paniculata), Neem (Azadirachta indica), and
+Lavang (Syzygium aromaticum). Additionally, Abhrak Bhasma is a mineral-based
+Ayurvedic preparation, and its main component is mica, biotite or Muscovite.
+Varunadi Vati - The primary ingredients in Varunadi Vati include Varuna (Crataeva
+nurvala), Gokshura (Tribulus terrestris), Punarnava (Boerhavia diffusa), and
+Shuddha Guggulu (Commiphora wightii). These components synergistically work to
+address urinary tract issues and promote the health of the renal system. Varuna
+assists in breaking down renal stones and alleviating urinary retention. Gokshura
+acts as a diuretic and improves overall urinary function. Punarnava supports kidney
+function and helps manage fluid retention, while Shuddha Guggulu, known for its
+anti-inflammatory properties, aids in reducing inflammation and enhancing the
+effectiveness of other herbal ingredients.
+Pain Nil Capsule - Picrorhiza kurroa (Kutki), Centratherum anthelminticum
+(Kalijeeri), Holarrhena antidysenterica (Kuda Saq), Citrullus colocynthis
+(Kodtumba), Hyoscyamus niger (Khurasani Ajwain), Withania somnifera
+(Ashwagandha), Colchicum luteum (Suranjan), Zingiber officinale (Sonth), Swertia
+chirata (Chiraita), Piper longum (Pippali), Curcuma amada (Amba Haldi),
+Myristica fragrans (Jaiphal), Myristica fragrans (Javitri), Cucurbita pepo (Magah),
+Piper nigrum (Kali Mirch), Berberis aristata (Rasont), Ricinus communis
+(Erandmool), Vitex negundo (Nirgundi), Moringa oleifera (Sahjan), and Tinospora
+cordifolia (Giloy).
+Detox Lung Churna- Arjuna powder is made from Terminalia arjuna, Kantakari
+powder from Solanum xanthocarpum, Haridra powder from Curcuma longa, Vasa
+powder from Adhatoda vasica, Shunthi powder from Zingiber officinale,
+Pushkarmool powder from Inula racemosa, Karkatshringi powder from Pistacia
+integerrima, and Pippali powder from Piper longum. Additionally, Sphatika
+Bhasma powder is derived from alum (potassium aluminum sulfate).
+Mahagranthihar Vati - Terminalia chebula (Harad), Terminalia bellirica
+(Bahera), Emblica officinalis (Amla), Piper longum (Pippali), Piper nigrum
+(Kalimirch), Zingiber officinale (Sonth), Piper retrofractum (Chavya), Curcuma
+zedoaria (Kachur), Embelia ribes (Vayavdanga), Cyperus rotundus (Musta), often
+mistaken with Pippla Mool), Cyclea peltata (Patha), Acorus calamus (Vacha),
+Elettaria cardamomum (Choti Elaychi), Cedrus deodara (Devdaru), Ipomoea
+digitata (Vidari). The Bhasmas listed do not have direct Latin herb names as they
+are processed minerals or metals utilized in Ayurvedic medicine. Examples include
+Parad Bhasma (made from mercury), Gandhak (Sulfur), Vang Bhasma (made from
+tin), Tamra Bhasma (made from copper), Kash Bhasma, Hartal Bhasma (arsenic
+trisulfide), Shankh Bhasma (made from conch shell), and Loh Bhasma (made from
+iron).The various salts mentioned such as Samundar Namak (sea salt), Senda
+Namak (rock salt), Sambar Namak, Vid Namak, and Kala Namak (black salt) also
+do not have botanical Latin names as they are mineral-based.
+Liv Shuddhi Tablet - Silybum marianum (Milk Thistle), Cichorium intybus
+(Chicory), Taraxacum officinale (Dandelion), Phyllanthus niruri (Bhumi Amla),
+Picrorhiza kurroa (Kutki), Andrographis paniculata (Kalmegh), and Terminalia
+chebula (Haritaki). These components are renowned for their hepatoprotective
+properties, aiding in detoxification, enhancing bile production, and providing
+antioxidant benefits to maintain healthy liver function.
+Table 7: Visit 2 – 27/11/24.
+Medications
+Oncoblaze Churna - Tinospora cordifolia (Guduchi), Andrographis
+paniculata (Kalmegh), Emblica officinalis (Amalaki), Solanum
+xanthocarpum (Kantakari), Linum usitatissimum (Atasi), Zingiber
+officinale (Jadaber, often referred to by its common name in
+
+www.wjpls.org
+
+│
+
+Vol 11, Issue 9, 2025.
+
+│
+
+Dose
+½ Tsp BD
+
+1 Cap BD
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Pragbhakta
+(Before Meal)
+
+1 Tab BD
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Adhobhakta
+(After Meal)
+
+1 Cap BD
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Adhobhakta
+(After Meal)
+
+½ Tsp BD
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Adhobhakta
+(After Meal)
+
+1 Tab BD
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Adhobhakta
+(After meal)
+
+1 Tab BD
+
+Lukewarm
+Water
+(Koshna Jala)
+
+Adhobhakta
+(After meal)
+
+Anupana
+
+Duration
+
+Lukewarm Water
+(Koshna Jala)
+
+Adhobhakta
+(After Meal)
+
+ISO 9001:2015 Certified Journal
+
+│
+
+111
+
+

@@ -11,12 +11,12 @@
 | **Managing Director & Chief Executive Officer (MD & CEO)** | Raghavendra Srinivas Bhat (end of term; last day 2026-11-15) | Biji Sreekrishnavilas Sankaranarayanan (interim; internal; from 2026-11-16) | effective | 2026-11-15 |
 | **Whole Time Director in the category of Managing Director & Chief Executive Officer (MD & CEO)** | Biji Sreekrishnavilas Sankaranarayanan (interim holder replaced) | Udaya Kumar Hebbar (external) | announced, not yet effective | 2026-11-18 |
 
-- **Why Raghavendra Srinivas Bhat is leaving, in the filing's words:** “Cessation as MD & CEO of the Bank, consequent to completion of tenure.”
-- In the documents: “Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (Listing Regulations), this is to inform that the Board of Directors of the Bank at its meeting held today, i.e., on November 15, 2026, has appointed Mrs. Biji Sreekrishnavilas Sankaranarayanan (DIN: 11534526), Executive Director, to hold charge as Managing Director & Chief Executive Officer (MD & CEO) of the Bank on interim basis for a period of two months with effect from November 16, 2026 or up to the date on which the full time / regular MD & CEO assumes charge, whichever is earlier.” — [2026-11-16 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_16112026184718_PressRelease.pdf) · [2026-11-15 Cessation](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026222440_MDCESSATIONSigned.pdf) · [2026-11-15 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026223847_INTERIMMDSigned.pdf)
-- **Why Biji Sreekrishnavilas Sankaranarayanan is leaving, in the filing's words:** “on interim basis for a period of two months with effect from November 16, 2026 or up to the date on which the full time / regular MD & CEO assumes charge, whichever is earlier” Stays on as: Executive Director.
+- **Why Raghavendra Srinivas Bhat is leaving, in the filing's words:** “consequent to completion of his tenure”
+- In the documents: “Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (Listing Regulations), this is to inform that the Board of Directors of the Bank at its meeting held today, i.e., on November 15, 2026, has appointed Mrs. Biji Sreekrishnavilas Sankaranarayanan (DIN: 11534526), Executive Director, to hold charge as Managing Director & Chief Executive Officer (MD & CEO) of the Bank on interim basis for a period of two months with effect from November 16, 2026 or up to the date on which the full time / regular MD & CEO assumes charge, whichever is earlier.” — [2026-11-16 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_16112026184718_PressRelease.pdf) · [2026-11-15 Cessation](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026222440_MDCESSATIONSigned.pdf) · [2026-11-15 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026223847_INTERIMMDSigned.pdf) · +1 more
+- **Why Biji Sreekrishnavilas Sankaranarayanan is leaving, in the filing's words:** “on interim basis for a period of two months with effect from November 16, 2026 or up to the date on which the full time / regular MD & CEO assumes charge, whichever is earlier”
 - In the documents: “Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (Listing Regulations), it is hereby informed that the Board of Directors of the Bank at its meeting held today, i.e., November 18, 2026 has appointed Mr. Udaya Kumar Hebbar (DIN: 07235226) as an Additional Director, designated as a Whole Time Director in the category of Managing Director & Chief Executive Officer (MD & CEO) and Key Managerial Personnel (KMP) of the Bank, for a period of three (3) years from the date of assuming charge.” — [2026-11-18 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026112025_MDAPPOINTMENTSEFiling18112026Signed.pdf) · [2026-11-18 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026190937_MDPRSD.pdf) · [2026-11-16 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_16112026184718_PressRelease.pdf) · +1 more
 
-*All 12 filing(s) read for the seats:* [2026-11-18 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026112025_MDAPPOINTMENTSEFiling18112026Signed.pdf) · [2026-11-18 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026190937_MDPRSD.pdf) · [2026-11-16 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_16112026184718_PressRelease.pdf) · [2026-11-15 Cessation](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026222440_MDCESSATIONSigned.pdf) · [2026-11-15 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026223847_INTERIMMDSigned.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/KTKBANK_19102026204144_COO_Resignation_SE_Filing_19102026SD.pdf) · +6 more
+*All 19 filing(s) read for the seats:* [2026-11-18 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026112025_MDAPPOINTMENTSEFiling18112026Signed.pdf) · [2026-11-18 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_18112026190937_MDPRSD.pdf) · [2026-11-16 Press Release](https://nsearchives.nseindia.in/corporate/KTKBANK_16112026184718_PressRelease.pdf) · [2026-11-15 Cessation](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026222440_MDCESSATIONSigned.pdf) · [2026-11-15 Appointment](https://nsearchives.nseindia.in/corporate/KTKBANK_15112026223847_INTERIMMDSigned.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/KTKBANK_19102026204144_COO_Resignation_SE_Filing_19102026SD.pdf) · +13 more
 
 ### 2. Financials — the last three years
 
@@ -38,17 +38,17 @@
 
 ### 3. Track record — the outgoing management
 
-**Raghavendra Srinivas Bhat** — Managing Director & Chief Executive Officer (MD & CEO), date of taking the seat not on file.
+**Raghavendra Srinivas Bhat** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Revenue (₹ cr) | 6,232 | 8,918 | +7.4% a year over 5 years |
-| Financing profit (₹ cr) | -719 | 255 | loss to profit |
-| PAT (₹ cr) | 482 | 1,311 | +22.2% a year over 5 years |
-| Financing profit margin (%) | -11.5 | 2.9 | +14.4 pts |
-| ROE (%) | 7.3 | 9.9 | +2.6 pts |
+| Revenue (₹ cr) | 9,014 | 8,918 | -1.1% a year over 1 year |
+| Financing profit (₹ cr) | 457 | 255 | -44.2% a year over 1 year |
+| PAT (₹ cr) | 1,273 | 1,311 | +3.0% a year over 1 year |
+| Financing profit margin (%) | 5.1 | 2.9 | -2.2 pts |
+| ROE (%) | 10.5 | 9.9 | -0.6 pts |
 
 **Biji Sreekrishnavilas Sankaranarayanan** — Whole Time Director in the category of Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2027 per the filing.
 
@@ -56,9 +56,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Biji Sreekrishnavilas Sankaranarayanan** — Managing Director & Chief Executive Officer (MD & CEO) (interim). from: internal; experience: 31 years; qualifications: Postgraduate in Mathematics, MBA in HR and has a Professional Certification in Management of Social Initiatives (IIMK).
+**Biji Sreekrishnavilas Sankaranarayanan** — Managing Director & Chief Executive Officer (MD & CEO) (interim). from: internal; experience: 31 years of end-to-end experience; qualifications: Mrs. Biji S S is a Postgraduate in Mathematics, MBA in HR and has a Professional Certification in Management of Social Initiatives (IIMK)..
 
-The filing's own profile: “Mrs. Biji S S who is presently working as Executive Director of The Karnataka Bank Limited with effect from July 15, 2026 is a Strategic Banking Leader with 31 years of end-to-end experience across corporate banking, retail and branch banking, liabilities, secured assets, transformation and digital modernization.”
+The filing's own profile: “Mrs. Biji S S who is presently working as Executive Director of The Karnataka Bank Limited with effect from July 15, 2026 is a Strategic Banking Leader with 31 years of end-to-end experience across corporate banking, retail and branch banking, liabilities, secured assets, transformation and digital modernization. Proven track-record in the organisation where she worked earlier, in steering nationwide banking networks (950) as independent profit centres, scaling corporate banking verticals, strengthening risk frameworks, improving asset quality, enhancing customer acquisition models and architecting digital / operational turnaround journeys.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -66,20 +66,17 @@ The filing's own profile: “Mrs. Biji S S who is presently working as Executive
 
 **Udaya Kumar Hebbar** — Whole Time Director in the category of Managing Director & Chief Executive Officer (MD & CEO). from: external; experience: 40+ years.
 
-The filing's own profile: “Mr. Udaya Kumar Hebbar brings with him over four decades of experience in Banks and NBFCs, with expertise spanning banking operations, commercial banking, rural and agricultural finance, micro-banking, corporate governance, risk management. Prior to joining Karnataka Bank, he served as the Chief Executive Officer of CreditAccess Grameen Limited from September 2010 to June 2015 and subsequently as its Managing Director & CEO from June 2015 to June 2025. Following his executive tenure, he continued on the Board as a Non-Executive Director.”
+The filing's own profile: “Mr. Udaya Kumar Hebbar brings with him over four decades of experience in Banks and NBFCs, with expertise spanning banking operations, commercial banking, rural and agricultural finance, micro-banking, corporate governance, risk management. Prior to joining Karnataka Bank, he served as the Chief Executive Officer of CreditAccess Grameen Limited from September 2010 to June 2015 and subsequently as its Managing Director & CEO from June 2015 to June 2025. Following his executive tenure, he continued on the Board as a Non-Executive Director. He has also held several board-level positions, including at CreditAccess Life Insurance Limited and CreditAccess India, BV, Amsterdam.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director & Chief Executive Officer | CreditAccess Grameen Limited (CREDITACC) | 2015 | 2025 |
 | Chief Executive Officer | CreditAccess Grameen Limited (CREDITACC) | 2010 | 2015 |
-| Non-Executive (Nominee) Director | CreditAccess Grameen Limited (CREDITACC) | 2025 | — |
-| Non-Executive (Nominee) Director | CreditAccess Life Insurance Limited | 2026 | — |
-| Deputy Chairman, Supervisory Board | CreditAccess India, BV, Amsterdam | 2025 | — |
-| Non-Executive Director | Ametra Investment Managers Pvt. Ltd. (formerly Elever Investment Advisers Pvt. Ltd.) | 2025 | — |
-| Non-Executive Director | CreditAccess India Foundation | 2025 | — |
 | Head of Commercial Banking & Payment Operations | Barclays Bank PLC, Mumbai | — | — |
 | Leadership Roles in Banking | ICICI Bank Limited (ICICIBANK) | — | — |
 | Banking Operations roles | Corporation Bank | — | — |
+| Non-Executive (Nominee) Director | CreditAccess Life Insurance Limited | 2026 | — |
+| Deputy Chairman, Supervisory Board | CreditAccess India, BV, Amsterdam | 2025 | — |
 
 Results of **CreditAccess Grameen Limited** while they were Managing Director & Chief Executive Officer there (the filing's profile):
 

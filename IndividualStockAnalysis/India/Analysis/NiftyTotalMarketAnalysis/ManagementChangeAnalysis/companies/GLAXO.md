@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Whole-Time Director & Chief Financial Officer (CFO)** | Juby Chandy (moved to another role in the company or group; last day 2026-03-11) | Ronojit Biswas (group company; from 2026-04-01) | effective | 2026-03-02 |
 
-- **Why Juby Chandy is leaving, in the filing's words:** “Consequent to my appointment as Finance Head for the Asia Pacific region at GSK, I hereby tender my resignation from the positions of Whole-time Director and Chief Financial Officer of the Company” Stays on as: Finance Head for the Asia Pacific region at GSK (lead APAC Finance within the GSK Group).
+- **Why Juby Chandy is leaving, in the filing's words:** “Following his promotion to lead APAC Finance within the GSK Group, Mr. Juby Chandy (current CFO), will step down from his roles as Whole-Time Director and CFO, effective March 11, 2026.” Stays on as: Vice President, Finance Asia Pacific (APAC) region in GSK / Finance Head for the Asia Pacific region at GSK.
 - In the documents: “In compliance with Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations"), we wish to inform you that the Board of Directors at its meeting held today have approved the appointment Mr. Ronojit Biswas (DIN 07684843) as the Whole-Time Director & Chief Financial Officer (CFO) of the Company for term of three years w.e.f. 1st April 2026 & Juby Chandy (Current CFO) to transition into a new role in GSK Group.” — [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · [2026-03-07 General Updates](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026173413_PostalBallotNoticeRegulation.pdf) · [2026-03-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_02032026121837_Reg_30_Disclosure_-CFO.pdf) · +1 more
 
-*All 9 filing(s) read for the seats:* [2026-11-03 Appointment](https://nsearchives.nseindia.com/corporate/GLAXO1924_03112026185321_Outcome_of_Meeting.pdf) · [2026-05-29 Cessation](https://nsearchives.nseindia.com/corporate/GLAXO1924_29052026124504_Reg_30_Disclosure.pdf) · [2026-05-29 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GLAXO_ROID_88959_KMP_Doc.zip) · [2026-04-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_08042026232720_outcome_of_Postal_Ballot.pdf) · [2026-03-16 Change in Management](https://nsearchives.nseindia.com/corporate/GLAXO1924_16032026180007_Reg_30_Disclosure_Resignation_letter.pdf) · [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · +3 more
+*All 11 filing(s) read for the seats:* [2026-11-03 Appointment](https://nsearchives.nseindia.com/corporate/GLAXO1924_03112026185321_Outcome_of_Meeting.pdf) · [2026-05-29 Cessation](https://nsearchives.nseindia.com/corporate/GLAXO1924_29052026124504_Reg_30_Disclosure.pdf) · [2026-05-29 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GLAXO_ROID_88959_KMP_Doc.zip) · [2026-04-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_08042026232720_outcome_of_Postal_Ballot.pdf) · [2026-03-16 Change in Management](https://nsearchives.nseindia.com/corporate/GLAXO1924_16032026180007_Reg_30_Disclosure_Resignation_letter.pdf) · [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -63,9 +63,9 @@ The filing's own profile: “Ronojit is a seasoned finance leader with over 25 y
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Senior Finance Director – Global Product Strategy, based in Singapore | GSK | — | — |
+| Senior Finance Director – Global Product Strategy | GSK (Global Product Strategy), based in Singapore | — | 2026 |
 | CFO | GSK Brazil | — | — |
-| CFO | GSK Vietnam | — | — |
+| CFO | GSK Vietnam Business | — | — |
 | Regional Controller | GSK International region | — | — |
 | Management Trainee | GSK India | 1999 | — |
 

@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Bhaskar Swaminathan (moved to another role in the company or group; last day 2026-11-04) | Sridhar Radhakrishnan (group company; from 2026-11-04) | effective | 2026-08-20 |
 
-- **Why Bhaskar Swaminathan is leaving, in the filing's words:** “pursuant to my proposed transition to another company within the Tata Group” Stays on as: moving to another company within the Tata Group.
+- **Why Bhaskar Swaminathan is leaving, in the filing's words:** “pursuant to my proposed transition to another company within the Tata Group”
 - In the documents: “Further, based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee, the Board of Directors, at its Meeting held today, have appointed Mr. Sridhar Radhakrishnan as the Chief Financial Officer effective November 4, 2026.” — [2026-11-04 Updates](https://nsearchives.nseindia.com/corporate/RALLIS1_04112026102035_30_5__Intimation_Signed.pdf) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026184411_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026185617_SEINTIMATION20082026SIGNED.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-11-04 Updates](https://nsearchives.nseindia.com/corporate/RALLIS1_04112026102035_30_5__Intimation_Signed.pdf) · [2026-10-31 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_31102026184238_SMPINTIMATION31102026Signed.pdf) · [2026-10-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RALLIS_ROID_102833_KMP_Doc.zip) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026184411_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026185617_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RALLIS_ROID_96836_KMP_Doc.zip) · +1 more
+*All 8 filing(s) read for the seats:* [2026-11-04 Updates](https://nsearchives.nseindia.com/corporate/RALLIS1_04112026102035_30_5__Intimation_Signed.pdf) · [2026-10-31 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_31102026184238_SMPINTIMATION31102026Signed.pdf) · [2026-10-31 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RALLIS_ROID_102833_KMP_Doc.zip) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026184411_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Change in Management](https://nsearchives.nseindia.com/corporate/RALLIS1_20082026185617_SEINTIMATION20082026SIGNED.pdf) · [2026-08-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RALLIS_ROID_96836_KMP_Doc.zip) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Bhaskar Swaminathan** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file.
+**Bhaskar Swaminathan** — Chief Financial Officer, in the seat since FY2026 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 

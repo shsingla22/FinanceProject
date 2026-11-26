@@ -6,32 +6,33 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter holding rose to 61.43% in December 2025 when the Company allotted shares under the NCLT-sanctioned amalgamation of Viyash Life Sciences and others, then fell to 49.24% after promoters CA Harbor Investments and CA Hull Investments sold 10.83% of capital in the open market. They still hold about 46.75%; no new controller.
+**Ownership — Large stake change, same controller.** Promoter PE entities CA Harbor and CA Hull sold 10.83% of capital in the open market on 2026-09-01, cutting promoter-group holding from 61.31% to 49.24%. They still hold ~46.75% between them; no new controller arrived. Earlier, the Viyash amalgamation (effective 2025-12-16) raised promoter holding to 61.43% under common control.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull) | private-equity sponsor | promoter and group 61.31% (CA Harbor 30.14%, CA Hull 27.44% implied from Reg 29) | promoter and group 49.24% (CA Harbor 24.47%, CA Hull 22.28%) |
+| Outgoing | CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull) | private-equity sponsor | 61.31% promoter and group (CA Harbor 30.14%, CA Hull 27.44% before sale) | 49.24% promoter and group (CA Harbor 24.47%, CA Hull 22.28%) |
 | Incoming | — | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Dates: approval 2025-11-18; other 2025-12-16; block deal 2026-09-01
+- Management changing with it: not stated; the filings show Rajaram Narayanan continuing as Managing Director & Group CEO and Yoshita Vora as Company Secretary, with no change linked to the share sale
+- Dates: other 2025-11-18; completion 2025-12-16; block deal 2026-09-01
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 52.33% (2025-09-30) → 61.43% (2025-12-16) → 61.41% (2025-12-31) → 61.31% (2026-03-31) → 61.31% (2026-06-30) → 49.24% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 10.83% and bought 0.0%.
 
-*Filings read for the ownership:* [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026181457_BM_OutcomeMay2026Signed.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026182640_BM_OutcomeMay2026Signed.pdf)
+*Filings read for the ownership:* [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026181457_BM_OutcomeMay2026Signed.pdf) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_19052026182640_BM_OutcomeMay2026Signed.pdf) · [2025-08-08 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SEQUENT1_08082025124050_Outcome_of_Board_Meeting_08082025.pdf) · [2025-08-08 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SEQUENT1_08082025125013_Outcome_of_Board_Meeting_08082025.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Group Chief Executive Officer** | Rajaram Narayanan (moved to another role in the company or group; last day 2025-12-16) | Haribabu Bodepudi (from 2025-12-16) | effective | 2025-12-16 |
+| **Managing Director and Group Chief Executive Officer** | Rajaram Narayanan (moved to another role in the company or group) | Haribabu Bodepudi (group company; from 2025-12-16) | effective | 2025-08-08 |
 | **Chief Financial Officer and Key Managerial Personnel** | Saurav Bhala (resignation; last day 2026-01-01) | Ramakant Singani (group company; from 2026-01-01) | effective | 2025-12-16 |
 
-- **Why Rajaram Narayanan is leaving, in the filing's words:** “Approved change in designation of Mr. Rajaram Narayanan (DIN: 02977405) to Wholetime director designated as Chief Executive Officer – Animal Health of the Company for the remaining period of his existing tenure w.e.f. December 16, 2025” Stays on as: Wholetime director designated as Chief Executive Officer – Animal Health.
-- In the documents: “Approved appointment of Dr. Haribabu Bodepudi (DIN: 01119687) as the Managing Director and Group Chief Executive Officer of the Company for a period of 2 consecutive years w.e.f. December 16, 2025, subject to shareholders approval.” — [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf) · [2025-12-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025184356_Outcome_BM_Dec_16_2025.pdf) · +1 more
+- **Why Rajaram Narayanan is leaving, in the filing's words:** “Mr. Rajaram Narayanan, Sequent's current Managing Director and Chief Executive Officer, will transition to the role of Chief Executive Officer - Animal Health.” Stays on as: Wholetime director designated as Chief Executive Officer – Animal Health.
+- In the documents: “Approved appointment of Dr. Haribabu Bodepudi (DIN: 01119687) as the Managing Director and Group Chief Executive Officer of the Company for a period of 2 consecutive years w.e.f. December 16, 2025, subject to shareholders approval.” — [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf) · [2025-08-30 Shareholders meeting](https://nsearchives.nseindia.in/corporate/SEQUENT1_30082025213645_Binder1.pdf) · [2025-08-30 Shareholders meeting](https://nsearchives.nseindia.in/corporate/SEQUENT1_30082025214247_Binder1.pdf) · +1 more
 - **Why Saurav Bhala is leaving, in the filing's words:** “I wish to formally resign from my position as Group Chief Financial Officer of Sequent Scientific Ltd, effective 1 January 2026, to pursue external professional opportunities.”
 - In the documents: “Approved appointment of Mr. Ramakant Singani as Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. January 1, 2026.” — [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf) · [2025-12-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025184356_Outcome_BM_Dec_16_2025.pdf) · +1 more
 
-*All 9 filing(s) read for the seats:* [2026-07-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_17072026165704_SEAnnual_Report_Notice.pdf) · [2026-03-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_13032026194349_SEIntimationVotingResultsWTD.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026205627_Outcome_of_Board_Meeting_05022026_signed.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026211020_Outcome_of_Board_Meeting_05022026_signed.pdf) · [2026-02-05 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026225606_Outcome_of_BM_05022026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · +3 more
+*All 12 filing(s) read for the seats:* [2026-07-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_17072026165704_SEAnnual_Report_Notice.pdf) · [2026-03-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_13032026194349_SEIntimationVotingResultsWTD.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026205627_Outcome_of_Board_Meeting_05022026_signed.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026211020_Outcome_of_Board_Meeting_05022026_signed.pdf) · [2026-02-05 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026225606_Outcome_of_BM_05022026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · +6 more
 
 ### 2. Financials — the last three years
 
@@ -57,7 +58,7 @@
 
 ### 3. Track record — the outgoing management
 
-**CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved promoter and group 61.31% (CA Harbor 30.14%, CA Hull 27.44% implied from Reg 29) → promoter and group 49.24% (CA Harbor 24.47%, CA Hull 22.28%).
+**CA Harbor Investments (CA Harbor) and CA Hull Investments (CA Hull)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 61.31% promoter and group (CA Harbor 30.14%, CA Hull 27.44% before sale) → 49.24% promoter and group (CA Harbor 24.47%, CA Hull 22.28%).
 
 **Rajaram Narayanan** — Managing Director and Group Chief Executive Officer, in the seat since FY2023 per the filing.
 
@@ -89,24 +90,24 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Haribabu Bodepudi** — Managing Director and Group Chief Executive Officer. experience: over 30 years; qualifications: holds a PhD degree in organic chemistry.
+**Haribabu Bodepudi** — Managing Director and Group Chief Executive Officer. from: group company; experience: over 30 years; qualifications: holds a PhD degree in organic chemistry.
 
 The filing's own profile: “Dr. Hari Babu Bodepudi holds a PhD degree in organic chemistry and has over 30 years of industry experience permeating diverse roles in research, manufacturing, quality and operations in both APIs and oral solids. During the last 20 years, he held several leadership roles in technical and commercial operations in Mylan Laboratories, including being the COO of Mylan India, CEO of Mylan India and the Global COO of Mylan. He was responsible for more than 50 Mylan facilities globally, managing more than 200 APIs and 15000 SKUs of different formulations. He has hands-on experience in global supply chain, regulatory, API R&D, quality and commercial operations.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| COO of Mylan India | Mylan India | — | — |
-| CEO of Mylan India | Mylan India | — | — |
-| Global COO of Mylan | Mylan | — | — |
+| Founder and Chief Executive Officer | Viyash Life Sciences Private Limited | — | — |
+| Non-Executive Director | Sequent Scientific Limited | — | — |
+| COO of Mylan India, CEO of Mylan India and the Global COO of Mylan | Mylan Laboratories | — | — |
 
 **Ramakant Singani** — Chief Financial Officer and Key Managerial Personnel. from: group company; experience: 31 years of experience across all aspects of finance.
 
-The filing's own profile: “31 years of experience across all aspects of finance including Business Finance, Accounting, Financial planning and analysis, ERP implementation and cost management • Chief Financial Officer of Viyash since September 2021. • Prior to joining Viyash, was Head of GMO Finance at Dr. Reddy's.”
+The filing's own profile: “31 years of experience across all aspects of finance including Business Finance, Accounting, Financial planning and analysis, ERP implementation and cost management; Chief Financial Officer of Viyash since September 2021; Prior to joining Viyash, was Head of GMO Finance at Dr. Reddy's.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Viyash | 2021 | — |
-| Head of GMO Finance | Dr. Reddy's | — | 2021 |
+| Head of GMO Finance | Dr. Reddy's | — | — |
 
 ### 5. On the calls
 

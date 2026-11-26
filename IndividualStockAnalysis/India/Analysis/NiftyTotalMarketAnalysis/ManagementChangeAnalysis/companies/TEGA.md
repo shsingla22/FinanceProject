@@ -6,34 +6,34 @@
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Promoter Manish Mohanka gifted 72,78,925 equity shares (9.69% of capital) off-market to MM Business Trust, a promoter-group trust with Mehul Mohanka as trustee, under a SEBI inter-se transfer exemption. Aggregate promoter-group holding stayed 67.50% with no change in control or management. Earlier, a preferential allotment diluted promoters from 74.8% to 67.27%.
+**Ownership — Within the promoter family / group.** Promoter Manish Mohanka gifted 72,78,925 shares (9.69% of capital) off-market to MM Business Trust, a promoter-group trust whose trustee is Mehul Mohanka, under a SEBI exemption order. Aggregate promoter-group holding stayed 67.50% with no change in control. Earlier, a Dec-2025 preferential issue cut promoter holding from 74.8% to 67.27%. Mehul Mohanka (MD & Group CEO) now leads.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Manish Mohanka (Promoter) | founder family | 9.69% of total paid up capital (72,78,925 equity shares gifted) | — |
-| Incoming | MM Business Trust (Trustee: Mehul Mohanka) | founder family member | — | 9.69% acquired; promoter and PAC aggregate 67.50% |
+| Outgoing | Manish Mohanka | founder family | — | — |
+| Incoming | MM Business Trust (trustee Mehul Mohanka) | founder family member | — | 9.69% (promoter group total unchanged at 67.50%) |
 
 - mode: gift or inheritance · price ₹not stated (gift) · control does not change
-- Management changing with it: "The aggregate holding of the Promoter and Promoter group category before and after the aforementioned transfer remains the same without any change in control and management of the Target Company."
-- Dates: approval 2026-01-27; completion 2026-03-23; other 2026-03-24; other 2026-11-18
+- Management changing with it: not stated — the filing states the transfer is "without any change in control and management of the Target Company". Documents identify Mehul Mohanka as Managing Director & Group CEO and Madan Mohan Mohanka as Chairman & Non-Executive Director.
+- Dates: approval 2026-01-27; other 2026-03-23; public announcement 2026-03-24
 - In the documents: “In compliance with Regulation 29(1) of SEBI Takeover Regulations, please find enclosed the disclosures in the specified format as Annexure - A , pursuant to acquisition of 72,78,925 equity shares, representing 9.69% of the total paid up capital of Tega Industries Limited (“ the Target Company ”) by MM Business Trust (“ the Acquirer ”), a member of the Promoter Group, from Mr. Manish Mohanka, Promoter of the Target Company, by way of gift (through an off market inter-se transfer) on March 23, 2026.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 74.8% (2025-09-30) → 67.27% (2025-11-28) → 67.27% (2025-12-31) → 67.5% (2026-03-31) → 67.5% (2026-06-30) → 67.5% (2026-09-30) → 67.08% (2026-10-15)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 1.03%.
 
-*Filings read for the ownership:* [2026-03-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24032026141542_Intimation_Reg_29_SEBI_SAST_without_PAN.pdf)
+*Filings read for the ownership:* [2026-03-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24032026141542_Intimation_Reg_29_SEBI_SAST_without_PAN.pdf) · [2025-10-31 General Updates](https://nsearchives.nseindia.in/corporate/TEGA_31102025144523_Intimation_Reg_30_sd.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO)** | Sharad Kumar Khaitan (resignation; last day 2026-05-05) | Shyama Prasad Ganguly (interim; internal; from 2026-05-06) | effective | 2026-04-24 |
 | **Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”)** | Shyama Prasad Ganguly (interim holder replaced; last day 2026-08-06) | Ravi Narayan Joshi (external; from 2026-08-06) | effective | 2026-08-06 |
 
-- **Why Sharad Kumar Khaitan is leaving, in the filing's words:** “To pursue other opportunities outside the Tega Group”
+- **Why Sharad Kumar Khaitan is leaving, in the filing's words:** “Mr. Sharad Kumar Khaitan, Chief Financial Officer (CFO) of the Company, has tendered his resignation to pursue other career opportunities outside the Tega Group.”
 - In the documents: “Further, the Board of Directors of the Company, at their meeting held today i.e. April 24, 2026, has approved the appointment of Mr. Shyama Prasad Ganguly, General Manager - Finance & Accounts, as Interim CFO and Key Managerial Personnel of the Company, with effect from May 06, 2026, till the time new CFO is appointed by the Board.” — [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_06082026131344_Intimation_under_reg_30_app_CFO_sd.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24042026202759_Intimation_under_Reg_30_SEBI_LODR_SD.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEGA_ROID_83255_KMP_Doc.zip) · +1 more
 - **Why Shyama Prasad Ganguly is leaving, in the filing's words:** “Consequent to the aforesaid appointment, Mr. Shyama Prasad Ganguly ceases to be the Interim CFO and KMP of the Company, with immediate effect.” Stays on as: General Manager - Finance & Accounts.
 - In the documents: “Pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (“SEBI Listing Regulations”), we wish to inform you that the Board of Directors, at its meeting held today, i.e., August 6, 2026, has approved the appointment of Mr. Ravi Narayan Joshi as the Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”) of the Company with effect from today i.e. August 06, 2026.” — [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_06082026131344_Intimation_under_reg_30_app_CFO_sd.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24042026202759_Intimation_under_Reg_30_SEBI_LODR_SD.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEGA_ROID_83255_KMP_Doc.zip) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_06082026131344_Intimation_under_reg_30_app_CFO_sd.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24042026202759_Intimation_under_Reg_30_SEBI_LODR_SD.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEGA_ROID_83255_KMP_Doc.zip) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEGA_ROID_83258_KMP_Doc.zip)
+*All 5 filing(s) read for the seats:* [2026-08-06 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_06082026131344_Intimation_under_reg_30_app_CFO_sd.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/TEGA_24042026202759_Intimation_under_Reg_30_SEBI_LODR_SD.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEGA_ROID_83255_KMP_Doc.zip) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TEGA_ROID_83258_KMP_Doc.zip) · [2025-08-26 General Updates](https://nsearchives.nseindia.in/corporate/TEGA_26082025192638_Intimation_Notice_AGM_2025_sd.pdf)
 
 ### 2. Financials — the last three years
 
@@ -61,7 +61,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Manish Mohanka (Promoter)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 9.69% of total paid up capital (72,78,925 equity shares gifted) → —.
+**Manish Mohanka** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved — → —.
 
 **Sharad Kumar Khaitan** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
@@ -83,21 +83,21 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**MM Business Trust (Trustee: Mehul Mohanka)** (founder family member) — the incoming owner. Holding after: 9.69% acquired; promoter and PAC aggregate 67.50%.
+**MM Business Trust (trustee Mehul Mohanka)** (founder family member) — the incoming owner. Holding after: 9.69% (promoter group total unchanged at 67.50%).
 
-What the documents say about them: “"MM Business Trust (‘the Acquirer’), a member of the Promoter Group"; signed "For and on behalf of MM Business Trust, Mehul Mohanka, Trustee". Listed in Part-B under 'Promoter Group' alongside Madan Mohan Mohanka, Manju Mohanka, Manish Mohanka, Mehul Mohanka, Nihal Fiscal Services Private Limited, MM Group Holding Private Limited, Trafalgar Consulting International Company Private Limited, TPW Engineering Limited, MM Rosewood Buildinfra Private Limited, MM Aqua Technologies Limited, Maple Orgtech (India) Limited, Amayra Mohanka Family Trust, Arvan Mohanka Family Trust, Mehul Mohanka Benefit Trust and Manish Mohanka Benefit Trust, who are the persons acting in concert.”
+What the documents say about them: “"MM Business Trust (“the Acquirer”), a member of the Promoter Group"; signed "For and on behalf of MM Business Trust, Mehul Mohanka, Trustee". Listed among promoter-group entities acting in concert with Madan Mohan Mohanka, Mehul Mohanka, Manju Mohanka, Manish Mohanka, Nihal Fiscal Services Private Limited, MM Group Holding Private Limited, Trafalgar Consulting International Company Private Limited, TPW Engineering Limited, MM Rosewood Buildinfra Private Limited, MM Aqua Technologies Limited, Maple Orgtech (India) Limited and the Mohanka family trusts.”
 
 **Shyama Prasad Ganguly** — Chief Financial Officer (CFO) (interim). from: internal; experience: over 24 years; qualifications: A qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI), Mr. Ganguly holds a Bachelor of Commerce (Honours) from the University of Calcutta and a Master of Finance from Annamalai University. He has further strengthened his leadership and strategic acumen through a management programme at Indian Institute of Management (IIM), Ahmedabad..
 
-The filing's own profile: “Mr. Shyama Prasad Ganguly is a seasoned finance professional with over 24 years of extensive experience spanning financial management, auditing and budgeting. Since joining Tega in 2009, he has made significant contributions across diverse finance functions within the Group, demonstrating a strong ability to drive financial efficiency and organizational growth. A qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI), Mr. Ganguly holds a Bachelor of Commerce (Honours) from the University of Calcutta and a Master of Finance from Annamalai University. Prior to joining Tega, Mr. Ganguly held key roles at prominent organizations including Berger Paints (India) Ltd. and SPS Steel and Power Ltd., in addition to gaining broad exposure through various audit engagements.”
+The filing's own profile: “Mr. Shyama Prasad Ganguly is a seasoned finance professional with over 24 years of extensive experience spanning financial management, auditing and budgeting. Since joining Tega in 2009, he has made significant contributions across diverse finance functions within the Group, demonstrating a strong ability to drive financial efficiency and organizational growth. A qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI), Mr. Ganguly holds a Bachelor of Commerce (Honours) from the University of Calcutta and a Master of Finance from Annamalai University. He has further strengthened his leadership and strategic acumen through a management programme at Indian Institute of Management (IIM), Ahmedabad. Prior to joining Tega, Mr. Ganguly held key roles at prominent organizations including Berger Paints (India) Ltd. and SPS Steel and Power Ltd., in addition to gaining broad exposure through various audit engagements.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| General Manager - Finance & Accounts | Tega Industries Limited (TEGA) | 2009 | 2026 |
+| General Manager - Finance & Accounts | Tega | 2009 | 2026 |
 | key roles | Berger Paints (India) Ltd. (BERGEPAINT) | — | — |
 | key roles | SPS Steel and Power Ltd. | — | — |
 
-**Ravi Narayan Joshi** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”). from: external; experience: over 21 years; qualifications: Mr. Joshi is a Chartered Accountant from the Institute of Chartered Accountants of India (ICAI)..
+**Ravi Narayan Joshi** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”). from: external; experience: over 21 years; qualifications: Chartered Accountant from the Institute of Chartered Accountants of India (ICAI).
 
 The filing's own profile: “Mr. Joshi is a Chartered Accountant from the Institute of Chartered Accountants of India (ICAI). He is a seasoned finance and business professional with over 21 years of diverse experience across leading organizations, including Hindustan Zinc Limited, Vedanta Limited, and Balkrishna Industries Limited. Throughout his career, he has led critical finance functions while integrating financial stewardship with oversight of Compliance, Sustainability (ESG), Intellectual Property Rights, and International Subsidiaries. He possesses extensive expertise across a broad spectrum of areas, including Treasury, Fund Raising, Structured Financing, Mergers & Acquisitions, Taxation, Accounting, Commercial and Business Finance, Capital Expenditure Control, Cost Management, Product Pricing, and Financial Governance.”
 

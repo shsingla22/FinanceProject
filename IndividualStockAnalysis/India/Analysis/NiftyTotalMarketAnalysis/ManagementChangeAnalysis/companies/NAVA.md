@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) and Key Managerial Personnel of the Company** | K V S Vithal (resignation; last day 2026-03-03) | B Srinivasa Rao (internal; from 2026-03-04) | effective | 2026-02-05 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel of the Company** | K. V. S. Vithal (resignation; last day 2026-03-03) | B. Srinivasa Rao (internal; from 2026-03-04) | effective | 2026-02-05 |
 
-- **Why K V S Vithal is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer of the Company, due to better prospects.”
+- **Why K. V. S. Vithal is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer of the Company, due to better prospects.”
 - In the documents: “With reference to the above subject, we wish to inform that the Board of Directors of the Company, at its meeting held today, i.e., February 05, 2026, has approved the appointment of Mr. B. Srinivasa Rao as Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, with effect from March 04, 2026.” — [2026-07-20 Updates](https://nsearchives.nseindia.com/corporate/NBVENTURES_20072026204424_Disclosure.pdf) · [2026-02-05 Appointment](https://nsearchives.nseindia.com/corporate/NBVENTURES_05022026125350_Disclosure_VBS.pdf) · [2026-02-05 Resignation](https://nsearchives.nseindia.com/corporate/NBVENTURES_05022026125655_Disclosure_VBS.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-07-20 Updates](https://nsearchives.nseindia.com/corporate/NBVENTURES_20072026204424_Disclosure.pdf) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/NBVENTURES_15052026141120_Disclosure.pdf) · [2026-05-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NBVENTURES_15052026141534_Disclosure.pdf) · [2026-05-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NBVENTURES_15052026142434_Disclosure.pdf) · [2026-02-05 Appointment](https://nsearchives.nseindia.com/corporate/NBVENTURES_05022026125350_Disclosure_VBS.pdf) · [2026-02-05 Resignation](https://nsearchives.nseindia.com/corporate/NBVENTURES_05022026125655_Disclosure_VBS.pdf) · +1 more
+*All 9 filing(s) read for the seats:* [2026-07-20 Updates](https://nsearchives.nseindia.com/corporate/NBVENTURES_20072026204424_Disclosure.pdf) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/NBVENTURES_15052026141120_Disclosure.pdf) · [2026-05-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NBVENTURES_15052026141534_Disclosure.pdf) · [2026-05-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NBVENTURES_15052026142434_Disclosure.pdf) · [2026-02-05 Appointment](https://nsearchives.nseindia.com/corporate/NBVENTURES_05022026125350_Disclosure_VBS.pdf) · [2026-02-05 Resignation](https://nsearchives.nseindia.com/corporate/NBVENTURES_05022026125655_Disclosure_VBS.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**K V S Vithal** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, date of taking the seat not on file.
+**K. V. S. Vithal** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,7 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**B Srinivasa Rao** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company. from: internal; experience: over 30 years; qualifications: Mr. Rao is a Chartered Accountant and holds a Bachelor's degree in Commerce from Nagarjuna University, Andhra Pradesh.
+**B. Srinivasa Rao** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company. from: internal; experience: over 30 years; qualifications: Mr. Rao is a Chartered Accountant and holds a Bachelor's degree in Commerce from Nagarjuna University, Andhra Pradesh.
 
 The filing's own profile: “Mr. B. Srinivasa Rao has over 30 years of experience across a wide spectrum of finance functions, including financial reporting, controllership, audits, treasury, taxation, mergers and acquisitions, financial planning and analysis, and business finance. Mr. Rao has been associated with Nava since June 2023 and currently serves as Financial Controller. His responsibilities include consolidation of accounts, treasury management, business accounts, Taxation, Costing and overall supervision of the finance and accounts function. Mr. Rao is a Chartered Accountant and holds a Bachelor's degree in Commerce from Nagarjuna University, Andhra Pradesh.”
 

@@ -6,20 +6,22 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** The promoter group (API Holdings / Docon Technologies) sold down roughly 20% of Thyrocare in two large blocks, reportedly to repay group debt, falling from 71.06% to 51.02%. Docon was then amalgamated into fellow promoter-group company API Holdings, with no change in aggregate promoter holding. API retains majority control.
+**Ownership — Large stake change, same controller.** Promoter group (API Holdings / Docon Technologies) sold down from 71.06% to 51.02% over the year — roughly 10% around December 2025 and a further 9.9% in August 2026 — while retaining majority control. Separately, promoter Docon was amalgamated into fellow promoter-group member API Holdings, with no change in aggregate promoter holding.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Docon Technologies Private Limited / API Holdings Limited (promoter group) | corporate parent | 71.06% | 51.02% |
-| Incoming | Public shareholders, including HSBC Mutual Fund (acquired 1.88%, holds 6.63%) | public — no single owner | — | — |
+| Outgoing | Docon Technologies Private Limited / API Holdings Limited (promoter and promoter group) | corporate parent | 71.06% | 51.02% |
+| Incoming | public shareholders, including HSBC Mutual Fund (acquired 1.88%, holding 6.63%) | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Why the seller is selling, in their words: “"recently, eBay also sold 10% stake in Thyrocare to repay the debt" (analyst question on Jul 2026 call); company documents state no reason”
-- Dates: block deal 2025-12-01; other 2025-12-09; block deal 2026-08-17; other 2026-08-24; completion 2026-09-03; other 2026-09-21
+- Management changing with it: not stated; Rahul Guha continues to sign results as Managing Director (DIN 09588432)
+- Dates: block deal 2025-12-09; block deal 2026-08-17; completion 2026-09-03; other 2026-09-21
 - In the documents: “Consequently, Docon ceased to exist and its entire shareholding of 8,12,00,000 equity shares (51.02%) in the Company stood transferred to and vested in API by operation of law, with no change in the aggregate shareholding of the Promoter and Promote”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 71.06% (2025-09-30) → 60.93% (2025-12-01) → 60.93% (2025-12-31) → 60.92% (2026-03-31) → 60.92% (2026-06-30) → 51.02% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 20.89% and bought 172.87%; outside acquirers at 10% or more: Catalyst Trusteeship Limited 60.93% (2025-12-18).
+
+*Filings read for the ownership:* [2025-10-14 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/THYROCARE_14102025161251_SE_Outcome.pdf) · [2025-10-14 Appointment](https://nsearchives.nseindia.in/corporate/THYROCARE_14102025164919_SE_Outcome.pdf)
 
 ### 2. Financials — the last three years
 
@@ -47,11 +49,11 @@
 
 ### 3. Track record — the outgoing management
 
-**Docon Technologies Private Limited / API Holdings Limited (promoter group)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 71.06% → 51.02%.
+**Docon Technologies Private Limited / API Holdings Limited (promoter and promoter group)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 71.06% → 51.02%.
 
 ### 4. Track record — the incoming management
 
-**Public shareholders, including HSBC Mutual Fund (acquired 1.88%, holds 6.63%)** (public — no single owner) — the incoming owner.
+**public shareholders, including HSBC Mutual Fund (acquired 1.88%, holding 6.63%)** (public — no single owner) — the incoming owner.
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 

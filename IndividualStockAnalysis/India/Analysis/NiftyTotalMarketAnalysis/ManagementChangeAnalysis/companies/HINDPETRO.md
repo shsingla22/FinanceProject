@@ -9,20 +9,20 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Director – Finance and CFO** | Rajneesh Narang (retirement; last day 2026-05-31) | K Vinod (internal; from 2026-06-01) | effective | 2026-06-01 |
-| **Director - Human Resources & Additional Charge of Director – Finance** | Rajneesh Narang (retirement; last day 2026-05-31) | K S Shetty (interim; internal; from 2026-06-01) | effective | 2026-06-01 |
+| **Director – Finance** | Rajneesh Narang (retirement; last day 2026-05-31) | K S Shetty (interim; internal; from 2026-06-01) | effective | 2026-06-01 |
 | **Director – Finance** | K S Shetty (interim holder replaced; last day 2026-06-24) | Srividya Venkataraman (government appointee; from 2026-06-24) | effective | 2026-06-24 |
-| **Key Managerial Personnel and Chief Financial Officer (CFO)** | K Vinod (interim holder replaced; last day 2026-07-07) | Srividya Venkataraman (internal; from 2026-07-07) | effective | 2026-07-07 |
+| **Key Managerial Personnel and Chief Financial Officer (CFO)** | K Vinod (last day 2026-07-07) | Srividya Venkataraman (internal; from 2026-07-07) | effective | 2026-07-07 |
 
 - **Why Rajneesh Narang is leaving, in the filing's words:** “has superannuated from the services on May 31, 2026 and hence ceased to be a Director & CFO with effect from June 01, 2026”
 - In the documents: “Consequent to superannuation of Shri Rajneesh Narang, Director – Finance and CFO, from the services of the Corporation, Shri K Vinod, Executive Director - Corporate Finance & Additional Charge of Treasury of the Company has been appointed as CFO with effect from June 01, 2026.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
-- **Why Rajneesh Narang is leaving, in the filing's words:** “has superannuated from the services on May 31, 2026 and hence ceased to be a Director & CFO with effect from June 01, 2026”
+- **Why Rajneesh Narang is leaving, in the filing's words:** “Shri Rajneesh Narang (DIN: 08188549), Director – Finance and CFO of the Company has superannuated from the services on May 31, 2026”
 - In the documents: “Accordingly, Shri K S Shetty has assumed the additional charge of the post of Director – Finance effective June 01, 2026.” — [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
 - **Why K S Shetty is leaving, in the filing's words:** “Consequently, the additional charge of Director – Finance entrusted to Shri K S Shetty, Director - Human Resources has concluded.” Stays on as: Director - Human Resources.
 - In the documents: “Smt. Srividya Venkataraman (DIN: 09548415) has been appointed on the Board of Hindustan Petroleum Corporation Limited as Director – Finance & she has assumed the charge as Director – Finance effective today.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
 - **Why K Vinod is leaving, in the filing's words:** “She has been appointed as CFO in place of Shri. K Vinod, Executive Director - Corporate Finance & Additional Charge of Treasury.” Stays on as: Executive Director - Corporate Finance & Additional Charge of Treasury.
-- In the documents: “the Board at its Meeting held today has appointed Smt. Srividya Venkataraman, Director – Finance of the Company as Key Managerial Personnel and Chief Financial Officer (CFO) effective July 07, 2026.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
+- In the documents: “we wish to inform that the Board at its Meeting held today has appointed Smt. Srividya Venkataraman, Director – Finance of the Company as Key Managerial Personnel and Chief Financial Officer (CFO) effective July 07, 2026.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Appointment](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026111526_SE_-_Change_in_directorate_and_CFO.pdf)
+*All 6 filing(s) read for the seats:* [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Appointment](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026111526_SE_-_Change_in_directorate_and_CFO.pdf) · [2025-08-22 Shareholders meeting](https://nsearchives.nseindia.in/corporate/HINDPETRO1_22082025172415_AGMProceedings2025.pdf)
 
 ### 2. Financials — the last three years
 
@@ -64,7 +64,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 28.0 | 27.5 | -0.5 pts |
 | Borrowings (₹ cr) | 43,709 | 55,964 | +12,255 |
 
-**Rajneesh Narang** — Director - Human Resources & Additional Charge of Director – Finance, date of taking the seat not on file.
+**Rajneesh Narang** — Director – Finance, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -88,7 +88,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**K Vinod** — Director – Finance and CFO. from: internal; experience: over three decades; qualifications: Chartered Accountant.
+**K Vinod** — Director – Finance and CFO. from: internal; experience: over three decades of experience; qualifications: Chartered Accountant.
 
 The filing's own profile: “Shri K Vinod is a Chartered Accountant and has held Senior Positions in the Company and handled various areas of Finance covering Refinery Finance, Corporate Strategy & Planning, International Trade, Oil Price Risk Management, Integrated Margin Management, SBU Commercial, Corporate Finance, Treasury, Pricing etc. and has over three decades of experience. Shri K Vinod was earlier appointed as CFO of the Company for the period from September 11, 2024 to March 26, 2025.”
 
@@ -97,13 +97,13 @@ The filing's own profile: “Shri K Vinod is a Chartered Accountant and has held
 | Executive Director - Corporate Finance & Additional Charge of Treasury | Hindustan Petroleum Corporation Limited (HINDPETRO) | — | — |
 | CFO | Hindustan Petroleum Corporation Limited (HINDPETRO) | 2024 | 2025 |
 
-**K S Shetty** — Director - Human Resources & Additional Charge of Director – Finance (interim). from: internal.
+**K S Shetty** — Director – Finance (interim). from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Director - Human Resources | Hindustan Petroleum Corporation Limited (HINDPETRO) | — | — |
 
-**Srividya Venkataraman** — Director – Finance. from: government appointee; experience: over three decades; qualifications: A Chartered Accountant and Cost & Works Accountant.
+**Srividya Venkataraman** — Director – Finance. from: government appointee; experience: over three decades of experience in the Indian energy sector; qualifications: A Chartered Accountant and Cost & Works Accountant.
 
 The filing's own profile: “Ms. Srividya Venkataraman is a distinguished finance professional with over three decades of experience in the Indian energy sector. A Chartered Accountant and Cost & Works Accountant, she brings extensive expertise across treasury management, taxation, risk management, investor relations, capital markets, and business finance, having served in a wide range of leadership positions across the petroleum industry. Prior to joining Hindustan Petroleum Corporation Limited (HPCL) as Director - Finance, she served as Executive Director - Corporate Treasury at Bharat Petroleum Corporation Limited (BPCL), where she was responsible for Treasury, Insurance, Investor Relations, Pension Fund Investments, Pricing and Taxation.”
 
@@ -115,7 +115,7 @@ The filing's own profile: “Ms. Srividya Venkataraman is a distinguished financ
 | Board member | BPCL KIAL Fuel Farm Facilities Pvt. Limited | — | — |
 | Board member | FFPL Finserv Private Limited | — | — |
 
-**Srividya Venkataraman** — Key Managerial Personnel and Chief Financial Officer (CFO). from: internal; experience: over three decades; qualifications: A Chartered Accountant and Cost & Works Accountant.
+**Srividya Venkataraman** — Key Managerial Personnel and Chief Financial Officer (CFO). from: internal; experience: over three decades of experience in the Indian energy sector; qualifications: A Chartered Accountant and Cost & Works Accountant.
 
 The filing's own profile: “Ms. Srividya Venkataraman is a distinguished finance professional with over three decades of experience in the Indian energy sector. A Chartered Accountant and Cost & Works Accountant, she brings extensive expertise across treasury management, taxation, risk management, investor relations, capital markets, and business finance, having served in a wide range of leadership positions across the petroleum industry. She has been instrumental in several landmark financial initiatives, including BPCL's maiden international bond issuance, large-scale external commercial borrowings, pension fund management, strategic investment planning, insurance optimization, and strengthening investor engagement.”
 
@@ -123,6 +123,7 @@ The filing's own profile: “Ms. Srividya Venkataraman is a distinguished financ
 |---|---|---|---|
 | Director – Finance | Hindustan Petroleum Corporation Limited (HINDPETRO) | 2026 | — |
 | Executive Director - Corporate Treasury | Bharat Petroleum Corporation Limited (BPCL) | — | — |
+| Finance Head of the Retail Business | Bharat Petroleum Corporation Limited (BPCL) | — | — |
 
 ### 5. On the calls
 

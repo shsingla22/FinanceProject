@@ -25,7 +25,7 @@
 - **Why Sanjiv Kumar Singh is leaving, in the filing's words:** “not stated”
 - In the documents: “In continuation to our letter of even number dated 08.06.2026, it is informed that Shri Anupam Misra, Director (Marketing), Fertilisers and Chemicals Travancore Limited (FACT Ltd.) has joined as Chairman & Managing Director (CMD), Hindustan Copper Limited (HCL) today i. e. 01.07.2026 (F/N) in terms of Ministry of Mines Order No. Met3-10/3/2025 METAL III dated 08.06.2026.” — [2026-08-27 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_27082026174217_AGMnotice26082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_01072026103017_Reg30-JoiningofCMD01072026.pdf) · [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_08062026170604_Reg30NominationCMD08062026.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_23092026191133_BSENSEAGMProceedings23092026.pdf) · [2026-08-27 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_27082026174217_AGMnotice26082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_01072026103017_Reg30-JoiningofCMD01072026.pdf) · [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_08062026170604_Reg30NominationCMD08062026.pdf) · [2026-04-20 Press Release](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_20042026193623_PressReleaseAnnualPlan20042026.pdf) · [2026-02-06 Press Release](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_06022026182125_PressRelease_06022026.pdf)
+*All 8 filing(s) read for the seats:* [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_23092026191133_BSENSEAGMProceedings23092026.pdf) · [2026-08-27 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_27082026174217_AGMnotice26082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_01072026103017_Reg30-JoiningofCMD01072026.pdf) · [2026-06-08 General Updates](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_08062026170604_Reg30NominationCMD08062026.pdf) · [2026-04-20 Press Release](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_20042026193623_PressReleaseAnnualPlan20042026.pdf) · [2026-02-06 Press Release](https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_06022026182125_PressRelease_06022026.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -55,7 +55,7 @@
 
 **Promoter and promoter group (Government of India, per shareholding register)** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 66.14% → 60.14%.
 
-**Sanjiv Kumar Singh** — Chairman & Managing Director (CMD), in the seat since FY2025 per the annual reports on file.
+**Sanjiv Kumar Singh** — Chairman & Managing Director (CMD), in the seat since FY2025 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -74,13 +74,13 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Anupam Misra** — Chairman & Managing Director (CMD). from: government appointee; experience: 33+ years; qualifications: B.Tech (Hons.) in Civil Engineering from IIT Kharagpur and a Post Graduate Diploma in Management (PGDM) from IIM Lucknow. He has also attained certificate for the General Management for Shipping from IIM Ahmedabad and a one-year International Business Program from IIM Kolkata..
+**Anupam Misra** — Chairman & Managing Director (CMD). from: government appointee; experience: 33+ years; qualifications: B.Tech (Hons.) in Civil Engineering from IIT Kharagpur and a Post Graduate Diploma in Management (PGDM) from IIM Lucknow. He has also attained certificate for the General Management for Shipping from IIM Ahmedabad and a one-year International Business Program from IIM Kolkata.
 
 The filing's own profile: “Shri Anupam Misra holds a B.Tech (Hons.) in Civil Engineering from IIT Kharagpur and a Post Graduate Diploma in Management (PGDM) from IIM Lucknow. He has also attained certificate for the General Management for Shipping from IIM Ahmedabad and a one-year International Business Program from IIM Kolkata. He is a General Management professional with 33+ years of experience in the areas of marketing and international trading, with extensive hands-on exposure to industrial raw materials (minerals, metals, chemicals, etc.), agro-commodities, engineering goods, and project business in a multi-commodity, multi-market B2B environment.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Director (Marketing) | Fertilisers and Chemicals Travancore Limited (FACT Ltd.) | 2020 | 2026 |
+| Director (Marketing) | Fertilisers and Chemicals Travancore Limited (FACT) | 2020 | 2026 |
 | additional charge of Chairman and Managing Director | Fertilisers and Chemicals Travancore Limited (FACT) | 2026 | 2026 |
 | Director (Marketing) | PEC Ltd. | — | — |
 | General Manager (Marketing) | STC of India Ltd., New Delhi | — | — |

@@ -6,23 +6,23 @@
 
 ### 1. What is changing
 
-**Ownership — Within the promoter family / group.** Star Cement's board approved reclassifying 29 members of the 'Chamaria Group', holding 6.052% of capital, out of the Promoter/Promoter Group category into Public, and applied to the exchanges for no-objection. The Bhajanka/Agarwal promoters continue; Tushar Bhajanka was elevated to Managing Director & CEO.
+**Ownership — Within the promoter family / group.** Board approved reclassifying 29 members of the Chamaria Group (6.05% of capital) out of promoter/promoter-group into public; exchange no-objection applications filed. Bhajanka/Agarwal promoters retain control, total promoter holding ~58%, and Tushar Bhajanka was elevated to Managing Director & CEO.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Chamaria Group (29 members, incl. Rajendra Chamaria (Promoter), Kamakhya Chamaria, Laxmi Chamaria, Prahlad Rai Chamaria and family entities) | founder family | 6.052% (2,44,60,037 shares as on 31 December 2025) | — |
-| Incoming | Bhajanka and Agarwal promoter families continue; Mr. Tushar Bhajanka elevated to Managing Director & Chief Executive Officer | founder family member | — | Promoter and group 58.11% (30 September 2026); Mr. Sajjan Bhajanka directly 11.85% with 5 persons acting together holding 5.35%; Mr. Sanjay Agarwal directly 4.36% |
+| Outgoing | Chamaria Group (29 members, incl. Rajendra Chamaria, Kamakhya Chamaria, Prahlad Rai Chamaria) | founder family | 6.052% (24,460,037 shares as on 31 December 2025) classified as Promoter/Promoter Group | not stated (shares moved to 'Public' category) |
+| Incoming | Sajjan Bhajanka and continuing promoter group (incl. Prem Kumar Bhajanka, Sanjay Agarwal, Tushar Bhajanka) | founder family member | — | 58.11% promoter-and-group as on 2026-09-30; Sajjan Bhajanka 'holding directly 11.85 % of shares along with 5 nos. of persons acting together holding 5.35 %' |
 
 - mode: other · control does not change
 - Why the seller is selling, in their words: “The Board of Directors at the said meeting noted that 'Chamaria Group' fulfills the conditions enumerated in Clause 31A(3)(b) of SEBI LODR in true sense.”
-- Management changing with it: Mr. Prem Kumar Bhajanka redesignated from Managing Director to Vice Chairman & Managing Director; Mr. Tushar Bhajanka redesignated from Deputy Managing Director to Managing Director & Chief Executive Officer and re-appointed for 3 years from 22 May 2026 to 21 May 2029, subject to shareholder approval by postal ballot (in progress). On 7 August 2026 the board re-appointed Sajjan Bhajanka (Chairman & MD), Sanjay Agarwal (MD), Prem Kumar Bhajanka (Vice Chairman & MD) and Pankaj Kejriwal (Executive Director) for 1 April 2027 to 31 March 2030.
+- Management changing with it: On 22 May 2026 Mr. Tushar Bhajanka was redesignated from Deputy Managing Director to Managing Director & Chief Executive Officer and re-appointed for 3 years (22 May 2026–21 May 2029), and Mr. Prem Kumar Bhajanka from Managing Director to Vice Chairman & Managing Director. On 7 August 2026 Sajjan Bhajanka (Chairman & MD), Sanjay Agarwal (MD), Prem Kumar Bhajanka (Vice Chairman & MD) and Pankaj Kejriwal (Executive Director) were re-appointed for 1 April 2027–31 March 2030.
 - Dates: approval 2026-02-06; other 2026-02-10; other 2026-03-30; other 2026-05-22; other 2026-08-07
-- In the documents: “In terms of Regulation 30 and 31A read with Schedule III of SEBI (LODR) Regulations, 2015, as amended, this is to further inform you that the Board of Directors of the Company at their duly convened meeting held today, inter alia, has considered and approved the re-classification of 29 members of 'Chamaria Group' (List of members enclosed and marked as "Annexure-B") from 'Promoter & Promoter' Group category to 'Public' Category.”
+- In the documents: “In terms of Regulation 30 and 31A read with Schedule III of SEBI (LODR) Regulations, 2015, as amended, this is to further inform you that the Board of Directors of the Company at their duly convened meeting held today, inter alia, has considered and approved the re-classification of 29 members of 'Chamaria Group' from 'Promoter & Promoter' Group category to 'Public' Category.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 57.59% (2025-09-30) → 57.62% (2025-12-31) → 58.12% (2026-03-31) → 58.1% (2026-06-30) → 58.11% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.72% and bought 1.06%.
 
-*Filings read for the ownership:* [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140642_SCL_Outcome_Signed.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026152633_SCL-Outcome_Financial.pdf) · [2026-03-30 General Updates](https://nsearchives.nseindia.com/corporate/STARCEMENT_30032026140457_SCL_Regulation31_8_.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_06022026142404_SCL-Outcome_of_BM_Final.pdf) · [2026-02-06 Record Date](https://nsearchives.nseindia.com/corporate/STARCEMENT_06022026142816_SCL-Outcome_of_BM_Final.pdf)
+*Filings read for the ownership:* [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_07082026140642_SCL_Outcome_Signed.pdf) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/STARCEMENT_22052026152633_SCL-Outcome_Financial.pdf) · [2026-03-30 General Updates](https://nsearchives.nseindia.com/corporate/STARCEMENT_30032026140457_SCL_Regulation31_8_.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_06022026142404_SCL-Outcome_of_BM_Final.pdf) · [2026-02-06 Record Date](https://nsearchives.nseindia.com/corporate/STARCEMENT_06022026142816_SCL-Outcome_of_BM_Final.pdf) · [2025-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/STARCEMENT_04112025143101_Outcome_BM_30092025.pdf) · +2 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@
 
 ### 3. Track record — the outgoing management
 
-**Chamaria Group (29 members, incl. Rajendra Chamaria (Promoter), Kamakhya Chamaria, Laxmi Chamaria, Prahlad Rai Chamaria and family entities)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 6.052% (2,44,60,037 shares as on 31 December 2025) → —.
+**Chamaria Group (29 members, incl. Rajendra Chamaria, Kamakhya Chamaria, Prahlad Rai Chamaria)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 6.052% (24,460,037 shares as on 31 December 2025) classified as Promoter/Promoter Group → not stated (shares moved to 'Public' category).
 
 ### 4. Track record — the incoming management
 
-**Bhajanka and Agarwal promoter families continue; Mr. Tushar Bhajanka elevated to Managing Director & Chief Executive Officer** (founder family member) — the incoming owner. Holding after: Promoter and group 58.11% (30 September 2026); Mr. Sajjan Bhajanka directly 11.85% with 5 persons acting together holding 5.35%; Mr. Sanjay Agarwal directly 4.36%.
+**Sajjan Bhajanka and continuing promoter group (incl. Prem Kumar Bhajanka, Sanjay Agarwal, Tushar Bhajanka)** (founder family member) — the incoming owner. Holding after: 58.11% promoter-and-group as on 2026-09-30; Sajjan Bhajanka 'holding directly 11.85 % of shares along with 5 nos. of persons acting together holding 5.35 %'.
 
-What the documents say about them: “"Mr. Tushar Bhajanka, aged about 29 years is M-phil in Economics from Cambridge University. He is having two years of consulting experience in London. He is responsible for driving overall Operations and Management of the Company." He is "son of Mr. Prem Kumar Bhajanka, Promoter, Vice Chairman & Managing Director of the Company", and holds 10,32,041 equity shares as on 31.03.2026. Mr. Sajjan Bhajanka continues as Chairman & Managing Director and is "father of Mr. Keshav Bhajanka, Non-Executive Director".”
+What the documents say about them: “Sajjan Bhajanka is Chairman & Managing Director, re-appointed for 1 April 2027 to 31 March 2030, and 'father of Mr. Keshav Bhajanka, Non-Executive Director'. Mr. Prem Kumar Bhajanka, aged about 68, Commerce Graduate, 'having rich experience of approx. 47 years', redesignated Vice Chairman & Managing Director, holding 4,34,99,400 shares. Mr. Tushar Bhajanka, 'aged about 29 years is M-phil in Economics from Cambridge University... responsible for driving overall Operations and Management of the Company', holding 10,32,041 shares. Mr. Sanjay Agarwal is Managing Director, directly holding 4.36%.”
 
 **Tushar Bhajanka** — Managing Director & Chief Executive Officer (CEO). from: promoter family; age 29; experience: Around 7 years; qualifications: M-phil in Economics from Cambridge University.
 

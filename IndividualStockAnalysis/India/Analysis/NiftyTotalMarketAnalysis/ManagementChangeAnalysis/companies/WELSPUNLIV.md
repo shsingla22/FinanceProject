@@ -21,12 +21,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer of Welspun Living** | — (new seat) | Manish Bansal (internal; from 2026-01-01) | effective | 2025-11-01 |
+| **President & Chief Financial Officer** | Sanjay Gupta (resignation; last day 2025-10-15) | Manish Bansal (internal; from 2026-01-01) | effective | 2025-09-05 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Before I conclude, I'm pleased to share that the Board has appointed Mr. Manish Ban sal as the new Chief Financial Officer of Welspun Living, effective 1 January 2026.”
+- **Why Sanjay Gupta is leaving, in the filing's words:** “Personal reasons”
+- In the documents: “Approved the appointment of Mr. Manish Bansal as President & Chief Financial Officer of the Company effective January 1, 2026;” — [2025-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025134713_OutcomeOfBM_12112025_Signed.pdf) · [2025-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025140009_OutcomeOfBM_12112025_Signed.pdf) · [2025-09-05 Resignation](https://nsearchives.nseindia.in/corporate/WELSPUNIND_05092025161605_Reg30_CFO_resignation_05092025_Signed.pdf) · +1 more
 
-*All 0 filing(s) read for the seats:* 
+*All 7 filing(s) read for the seats:* [2025-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025134713_OutcomeOfBM_12112025_Signed.pdf) · [2025-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025140009_OutcomeOfBM_12112025_Signed.pdf) · [2025-11-12 Change in Management](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025140320_OutcomeOfBM_12112025_Signed.pdf) · [2025-11-12 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025214820_OutcomeOfBM_12112025_Signed.pdf) · [2025-11-12 Appointment](https://nsearchives.nseindia.com/corporate/WELSPUNIND_12112025231552_WELSPUNIND_12112025214820_OutcomeOfBM_12112025_Signed.pdf) · [2025-09-05 Resignation](https://nsearchives.nseindia.in/corporate/WELSPUNIND_05092025161605_Reg30_CFO_resignation_05092025_Signed.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -50,21 +50,38 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/WELSPUNLIV.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹129.65 on 2025-10-31 (the close before) → ₹250.14 on 2026-11-13: **+92.9%**; Nifty 500 +0.1% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹111.97 on 2025-09-04 (the close before) → ₹250.14 on 2026-11-13: **+123.4%**; Nifty 500 +4.0% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
 **Welspun Group Master Trust / Mr. Balkrishan Goenka, Trustee, Welspun Group Master Trust** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 66.24% → 63.77%.
 
+**Sanjay Gupta** — President & Chief Financial Officer, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2020 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 6,741 | 10,545 | +9.4% a year over 5 years |
+| Operating profit (₹ cr) | 1,215 | 1,299 | +1.3% a year over 5 years |
+| PAT (₹ cr) | 524 | 644 | +4.2% a year over 5 years |
+| Operating profit margin (%) | 18.0 | 12.3 | -5.7 pts |
+| ROCE (%) | 13.0 | 14.0 | +1.0 pts |
+| ROE (%) | 17.6 | 13.4 | -4.2 pts |
+| Borrowings (₹ cr) | 3,521 | 2,762 | -759 |
+
+- Also on file: Chairman at APLAPOLLO (FY2021–FY2025, annual reports).
+- Also on file: CEO at STARCEMENT (FY2021–FY2022, annual reports).
+
 ### 4. Track record — the incoming management
 
-**Manish Bansal** — Chief Financial Officer of Welspun Living. from: internal; experience: over 15 years.
+**Manish Bansal** — President & Chief Financial Officer. from: internal; experience: over 15 years.
 
 The filing's own profile: “Manish has been with us for over 15 years and has led leadership roles across our Indian retail, U.K. and U.S. Businesses . His extensive experience across geographies and deep understanding of operations and financial strategy make it exceptionally well -placed to lead our”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| leadership roles across our Indian retail, U.K. and U.S. Businesses | Welspun Living (WELSPUNLIV) | — | — |
+| leadership roles across our Indian retail, U.K. and U.S. Businesses | Welspun Living Limited (WELSPUNLIV) | — | — |
 
 ### 5. On the calls
 

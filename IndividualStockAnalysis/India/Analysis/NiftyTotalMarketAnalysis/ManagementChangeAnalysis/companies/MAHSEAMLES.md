@@ -6,30 +6,30 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter group entities of the D.P. Jindal Group (Haryana Capfin, Global Jindal Fin-Invest, Odd & Even Traders & Finance) bought about 3.01% of capital in the open market, lifting promoter-and-group holding from 69.05% to 70.3%. No promoter sold; control unchanged.
+**Ownership — Large stake change, same controller.** Promoter-group companies of the D.P. Jindal Group (Odd & Even Traders & Finance, Global Jindal Fin-Invest, Haryana Capfin) bought about 3.01% of capital in open-market purchases. Promoter-and-group holding rose from 69.05% to 70.30%. No new controller; Saket Jindal remains Managing Director.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
 | Outgoing | — | — | — | — |
-| Incoming | Haryana Capfin Ltd, Global Jindal Fin-Invest Limited, Odd & Even Traders & Finance Ltd (existing promoters) | founder family member | — | 70.3% promoter and group as at 2026-09-30 (Odd & Even 19.44%, Global Jindal Fin-Invest 8.65%, Haryana Capfin 4.71%) |
+| Incoming | Odd & Even Traders & Finance Ltd, Global Jindal Fin-Invest Limited, Haryana Capfin Ltd (existing promoters) | founder family member | — | 70.3% (promoter and group, 2026-09-30); Odd & Even 19.44%, Global Jindal Fin-Invest 8.65%, Haryana Capfin 4.71% |
 
-- mode: block or bulk deal · control does not change
-- Management changing with it: Unrelated routine changes: Mr. Shiv Kumar Singhal appointed Whole-time/Executive Director and Dr. Raj Kamal Agarwal Independent Director from 2026-08-07, and Mr. Manish Kumar Khandelwal appointed CFO from 2026-11-13; all stated as "Not related to any Director/KMP". Saket Jindal continues as Managing Director.
+- mode: other · control does not change
+- Management changing with it: Not connected to the share purchases: Shiv Kumar Singhal appointed Whole-time Director and Dr. Raj Kamal Agarwal Independent Director on 2026-08-07; Manish Kumar Khandelwal appointed CFO on 2026-11-13, "Not related to any Director/KMP". Saket Jindal continues as Managing Director throughout.
 - Dates: block deal 2026-02-26; block deal 2026-02-27; block deal 2026-03-27; block deal 2026-07-08
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 69.05% (2025-09-30) → 69.81% (2025-12-31) → 70.28% (2026-03-31) → 70.28% (2026-06-30) → 70.3% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 0.0% and bought 3.01%.
 
-*Filings read for the ownership:* [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07082026171854_MSLBMOUTCOME.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07082026172200_MSLBMOUTCOME.pdf)
+*Filings read for the ownership:* [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07082026171854_MSLBMOUTCOME.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07082026172200_MSLBMOUTCOME.pdf) · [2025-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_04112025175112_OutcomeBMMSLsd.pdf) · [2025-07-30 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_30072025153927_MSLBMOutcome.pdf) · [2025-07-30 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_30072025155338_MSLBMOutcome.pdf) · +2 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer** | Arup Mandal (resignation; last day 2026-07-02) | Manish Kumar Khandelwal (from 2026-11-13) | effective | 2026-07-03 |
 
 - **Why Arup Mandal is leaving, in the filing's words:** “Due to personal reason”
-- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations"), we would like to inform you that Mr. Arup Mandal, Chief Financial Officer of the Company has tender his resignation from the position of Chief Financial Officer with effect from closure of 2nd July, 2026.” — [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · +1 more
+- In the documents: “Appointment of Mr. Manish Kumar Khandelwal as Chief Financial Officer of the Company with effect from 13th November, 2026” — [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · [2026-07-03 Resignation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026112215_MSLIntimationCFOResignation.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_28012026154438_BMOutcomeMSL.pdf)
+*All 10 filing(s) read for the seats:* [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026150009_MSLOutcome.pdf) · [2026-11-13 Appointment](https://nsearchives.nseindia.in/corporate/MAHSEAMLES_13112026151155_MSLOutcome.pdf) · [2026-07-04 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_ROID_91131_KMP_Doc.zip) · [2026-07-03 Cessation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026111816_MSLIntimationCFOResignation.pdf) · [2026-07-03 Resignation](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_03072026112215_MSLIntimationCFOResignation.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_28012026154438_BMOutcomeMSL.pdf) · +4 more
 
 ### 2. Financials — the last three years
 
@@ -73,9 +73,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Haryana Capfin Ltd, Global Jindal Fin-Invest Limited, Odd & Even Traders & Finance Ltd (existing promoters)** (founder family member) — the incoming owner. Holding after: 70.3% promoter and group as at 2026-09-30 (Odd & Even 19.44%, Global Jindal Fin-Invest 8.65%, Haryana Capfin 4.71%).
+**Odd & Even Traders & Finance Ltd, Global Jindal Fin-Invest Limited, Haryana Capfin Ltd (existing promoters)** (founder family member) — the incoming owner. Holding after: 70.3% (promoter and group, 2026-09-30); Odd & Even 19.44%, Global Jindal Fin-Invest 8.65%, Haryana Capfin 4.71%.
 
-What the documents say about them: “Promoter-group entities of the D.P. Jindal Group; the filings describe the company only as a "(D.P. JINDAL GROUP COMPANY)" with Saket Jindal as Managing Director (DIN:00405736). No further detail on the acquirers is stated.”
+What the documents say about them: “Promoter entities of the D.P. Jindal Group; the filings describe the company only as a "D.P. JINDAL GROUP COMPANY". No further details of the acquirers' business or size are stated.”
 
 **Manish Kumar Khandelwal** — Chief Financial Officer. age 54 years; experience: around 30 years; qualifications: Master's in Management from Stanford University Graduate School of Business, Masters. of Management Studies, from Sydenham Institute of Management and B.Com. (Hons.) from Shri Ram College of Commerce.
 

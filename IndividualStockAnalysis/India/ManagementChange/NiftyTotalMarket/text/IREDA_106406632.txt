@@ -1,0 +1,2595 @@
+Ref No: CACS/Sectt./efile 4571
+
+Date: October 14, 2025
+
+नेशनल स्टॉक एक्सचेंज ऑफ इिं डया िलिमटे ड,
+एक्सचेंज प्लाजा, सी/1,जी ब्लॉक,
+बांद्रा कुलार् कॉम्प्लेक्स, बांद्रा (ई),मुंबई -400051
+
+बीएसई िलिमटे ड,
+पहली मंिजल, िफरोज जीजीभॉय टावसर्, दलाल स्ट्रीट,
+काला घोड़ा, फोटर् , मबुं ई - 400001
+
+National Stock Exchange of India Limited,
+Exchange Plaza, C/1, Block G,
+Bandra Kurla Complex, Bandra (E),
+Mumbai – 400051
+Symbol- IREDA
+
+BSE Limited
+1st Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street, Kala Ghoda, Fort,
+Mumbai – 400001
+Scrip Code- 544026
+
+ISIN:- INE202E01016
+Subject: Outcome of Board Meeting held on October 14, 2025
+Dear Sir/Madam,
+In compliance with the provision of Regulation 30, 33, 51 and 52 read with Schedule III of SEBI (LODR)
+Regulations, 2015, as amended, this is to inform you that the Board of Directors of Indian Renewable
+Energy Development Agency Limited (IREDA) in its meeting held Today, October 14, 2025, has interalia, approved the following:
+1. Standalone and Consolidated audited financial results of the Company for the quarter and half year
+ended September 30, 2025. In this regard, a copy of the Standalone and Consolidated Financial
+Results along with the Statutory Auditor’s Report are enclosed herewith as Annexure I.
+2. Special Purpose Financial Statements for quarter and half year ended September 30, 2024 along
+with the Special Purpose Audit report issued thereunder in relation to the proposed fund raising
+activities via issue of equity shares through qualified institutions placement (QIP), as required under
+the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 as amended from time
+to time (“ICDR Regulations”). In this regard, a signed copy of Special Purpose Financial Statements
+of the Company along with the Special Purpose Audit report are enclosed herewith as Annexure II.
+The Board Meeting commenced at 08:45 A.M. and concluded at 10:08 A.M.
+कृ पया इसे अपने �रकॉडर् में लें।/You are requested to please take the same on record.
+धन्यवाद/Thanking You,
+भारतीय अ�य ऊजार् िवकास संस्था िलिमटेड के िलए ।
+For Indian Renewable Energy Development Agency Limited
+Ekta
+Madan
+
+Digitally signed by Ekta Madan
+DN: c=IN, o=Indian Renewable Energy
+Development Agency Limited, ou=CA and CS,
+2.5.4.20=5359491fae6a2d10c152ad44d6d73c
+e2baf376399fc2aa0db4503c4e7171c34c,
+postalCode=110003, st=Delhi,
+serialNumber=b12d83a46bf280648fae360eae
+0ea04cea3d69071b26de558116f58d9a99e279
+, cn=Ekta Madan
+Date: 2025.10.14 10:10:25 +05'30'
+
+एकता मदान/Ekta Madan
+कंपनी सिचव/Company Secretary & Compliance Officer
+
+Encl as above
+
+
+Annexure I
+Shiv & Associates
+C hartered Accounta nts
+
+103 & 105, Ajanta Market, Plot No. 1,
+Vardhaman lndraprastha Plaza,
+I.P. E xtension, Partparganj ,
+Delhi - 110092
+
+Rao & Emma r
+C harter ed Accountan ts
+489, II F loor, P ocket 4,
+ODA LIG Flats
+Sector 11 , Dwa rka,
+New Delhi - 110075
+
+Independent Auditor's Report on Standalone Interim Financial Results of Indian Renewable
+Energy Developm ent Agency Limited for the quarter and half year ended 30 September 2025
+pursuant to the R egulation 33 and Regulation 52 of the SEBI (Listing Obligation and Disclosure
+Requirements) Regulations, 2015 (as amended).
+
+To
+The Board of Directors
+Jndian Renewable Energy Development Agency Limited
+
+Report on the Audit of the Standalone Interim Financial Results
+Opinion
+We have audited the accompanying standalone interim financial results of Indian Renewable
+Energy Developm ent Agency Limited ("the Company"), for the quarter and half year ended 30
+September 2025, ("the Statement"), being submitted by the Company pursuant to the requirements
+of Regulation 33 and 52 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, as amended (the "Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+standalone financial results:
+1.
+
+is presented in accordance with the requirements of regulation 33 and 52 of the Listing
+Regulations in this regard; and
+
+11.
+
+gives a true and fair view, in conformity with the recognition and measurement principles laid
+down in the applicable Indian Accounting Standards, RBI guidelines and other accounting
+principles generally accepted in India, of the net profit and other comprehensive income and
+other financial information for the quarter and half year ended 30 September 2025.
+
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under section
+143(10) of the Companies Act, 2013, as amended ("the Act") issued by the Institute of Chartered
+Accountant oflndia (ICAl). Our responsibilities under those Standards are fmther described in the
+' Auditor's Responsibilities for the Audit of the Standalone Financial Results' section of our report.
+We are independent of the Company, in accordance with the Code of Ethics issued by the Institute
+of Chartered Accountants oflndia together with the ethical requirements that are relevant to our audit
+of the standalone financial result under the provisions of the Act, and the Rules thereunder, and we
+1
+
+
+have fulfilled our other ethical responsibilities in accordance with these requirements and the Code
+of Ethics. We believe that the audit evidence obtained by us, is sufficient and appropriate to provide
+
+a basis for our opinion on the standalone financial results.
+Emphasis of Matter
+1.
+
+The company has classified certain accounts required to be classified as stage III /NonPerforming Assets (NPA) as stage II I Standard aggregating to Rs. 407.20 crores in terms of
+interim orders of Hon ' ble High Courts. The statutory disclosures have been made accordingly.
+However, as a matter of prudence, interest income on such accounts becoming NPA in terms
+of prudential norms of Reserve Bank of India (RBI) has been recognized on collection basis
+and allowance fo r impairment loss has been made in these accounts accordingly.
+
+11.
+
+As of 30 September 2024, the reported CRAR of the Company was 20.24 %, this calculation
+was based on a 50% risk weight assigned to commissioned renewable energy infrastructure
+project assets financed by the Company that had reached their commercial operations date
+(COO) and had been operational for over a year. However, effective from 31 March 2025, the
+company has applied a 100% risk weight to these assets. Accordingly, CRAR for the
+corresponding period as at 30 September 2024 has been restated to 15.84%.
+
+Our opinion on Standalone Interim Financial Results is not modified in respect of these matters.
+Board of Directors' Responsibility for the Standalone Interim Financia l Results
+These standalone interim financial results for the quarter and half year ended 30 September 2025
+have been prepared on the basis of the standalone interim financial statements. The Company 's Board
+of Directors are responsible for the preparation and presentation of these Standalone Financial Results
+that give a true and fair view of the net profit and comprehensive income of the company and other
+financial information in accordance with the recognition and measurement principles laid down in
+the applicable Indian Accounting Standard prescribed under section 133 of the Act, read with the
+relevant rules issued thereunder, circulars guidelines and directions issued by the Reserve Bank of
+India ( 'RBI') from time to time ( 'RBI Guidelines' ) and other accounting principles generally
+accepted in India and in compliance with regulations 33 and 52 of the Listing Regulations. This
+responsibility also includes maintenance of adequate accounting records in accordance with the
+provisions of the Act for safeguarding of the assets of the Company and for preventing and detecting
+frauds and other irregularities; selection and application of appropriate accounting policies; making
+judgments and estimates that are reasonable and prudent; and design, implementation and
+maintenance of adequate internal financial controls that were operating effectively for ensuring the
+accuracy and completeness of the accounting records, relevant to the preparation and presentation of
+the standalone financial results that give a true and fair view and are free from material misstatement,
+whether due to fraud or error.
+In preparing the Standalone interim financial results, the Board of Directors are responsible for
+assessing the Company's ability to continue as a going concern, disclosing, as applicable, matters
+related to going concern and using the going concern basis of accounting unless the Board of
+Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative
+but to do so.
+
+The Board of Directors is also responsible for overseeing the financial reporting process of the
+company.
+2
+
+....
+
+_
+
+_..,,..
+
+
+Auditor's Responsibilities for the Audit of the Standalone Interim Financial Results
+Our objectives are to obtain reasonable assurance about whether the results as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor's report that includes
+our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit
+conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on
+the basis of these standalone financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain
+professional scepticism throughout the audit. We also:
+•
+
+Identify and assess the risks of material misstatement of the standalone interim financial results,
+whether due to fraud or error, design and perform audit procedures responsive to those risks,
+and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.
+The risk of not detecting a material misstatement resulting from fraud is higher than for one
+resulting from error, as fraud may involve collusion, forgery , intentional omissions,
+misrepresentations, or the override of internal control.
+
+•
+
+Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the company's internal control.
+
+•
+
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures made by the Board of Directors.
+
+•
+
+Conclude on the appropriateness of the Board of Directors' use of the going concern basis of
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists
+related to events or conditions that may cast significant doubt on the ability of the company to
+continue as a going concern. If we conclude that a material uncertainty exists, we are required
+to draw attention in om auditor's report to the related disclosures in the standalone financial
+results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based
+on the audit evidence obtained up to the date of our auditor's repo1t. However, future events or
+conditions may cause the company to cease to continue as a going concern.
+Evaluate the overall presentation, structure and content of the standalone financial results,
+including the disclosures, and whether the standalone financial results represent the underlying
+transactions and events in a manner that achieves fair presentation.
+
+Materiality is the magnitude of misstatements in the standalone financial results that individually or
+in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of
+the standalone financial results may be influenced. We consider quantitative materiality and
+qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work
+and (ii) to evaluate the effect of any identified misstatements in the standalone financial results.
+We communicate with those charged with governance regarding, among other matters, the planned
+scope and timing of the audit and significant audit findings, including any significant deficiencies in
+internal control that we identify during our audit.
+
+3
+
+
+We also provide those charged with governance wilh a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and
+other matters that may reasonably be thought to bear on our independence, and where applicable,
+related safeguards.
+Other Matters
+1.
+
+The limited review of standalone interim financial results for the quarter and half year ended
+September 30,2024 was conducted by the previous statutory auditor of the Company. They
+expressed unmodified opinion on those standalone financial results vide their limited review
+audit reporl dated 10 October 2024. Further, the special purpose interim standalone financial
+statements for the half year ended September 30, 2024 have also been audited by Mis Shiv &
+Associates, Chartered Accountants, the Statutory auditor of F.Y. 2024-25 and they have also
+expressed unmodified opinion on those financial statements vide their audit repo11 dated October
+14, 2025.
+
+u.
+
+As per past practice, in respect of loan assets, the Company has provided expected credit loss
+(ECL) as required under Ind AS 109 based on the ECL report submitted by an independent
+agency appointed by the Company, which inter alia includes assumptions based on technical
+parameters I certain aspects.
+
+For Rao & Emm ar
+
+Place: New Delhi
+Date: 14-10-2025
+
+4
+
+
+Ol(M,oUOA T.Clt
+
+Indian Rcncwoblc Energy Ocvclopmcnt Agency Li mited
+CIN: L65I OODL1987GOl02726S
+
+#3....~~~·
+
+~IREOA
+
+,, '·' .,,,,.
+
+• lltC'C r.. r OA ""'"'' ....ro.t
+
+Stntcm\'nl of Stnmlnlonr Audited Finnndnl Results for the guurtcr nnd hnlf yenr ended 30.09.202~
+
+\/
+
+(I in Crores)
+
+I
+i)
+11)
+
+iii)
+I\')
+
+II
+
+Ill
+I\'
+•)
+ii)
+iii)
+i\•)
+v)
+vi)
+\ 1ii)
+\f
+
+Purlicul•l'1
+
+XI
+
+(BJ
+
+J0.06.202~
+
+tAudiltd I
+
+J0.09.?024
+(Audited I
+
+J0.09.2025
+IAudittd I
+
+J0.09.2024
+(Audited I
+
+Jt.O.l.2025
+IAudlttd I
+
+Rt\•tnut Fron• OJ>tr:Uions
+Interest Income
+
+fee$ ruul C01nnus.s1on lncQl'llC
+Net gnin/(loss) on fnn Value Cluu1gcs
+Other Opcm1ini; income
+Totu I Rt\ rnur Prom Oprration• (I)
+0 1hcr l11e1>me
+Tutul l nrume (1+11)
+Exprnsu
+Finance COS'
+
+Net Trn11sln1ion/ 'fnmsac1itm Exc:hnngc Los-$/((iRiu)
+ln11Hurmen1 on Finnncinl lns1rumcn1s
+
+Employee Boncfits Expenses
+Dcprcc1a:ion. Amort11.a1ion and lmpairnlCfll
+Others Expcns.:s
+Corpo1 ntc Socrnl Rcs1>onsibili1y Ex1iensc
+Totol Expcmrs (IV)
+Prolit/(Loss) Bcfoee Exccp11onal hems and Tax (111-lV)
+Excc1111on•I Items
+Profit/( loss) Orforr TnqV-VIJ
+
+VI
+Vil
+VIII Tu:c E.\1>tnst
+li) C11rren1 Tax
+(11) Deferred Ta>
+IX l'rolit/(Loss) fro111 Co111i11ui111101iern1io11s (VII-VIII)
+Profili(l<lss) from 01sco111i1111ed Opcraiions
+.x Pnrlit/(Loss) for thr period
+(A)
+
+J0.09.2025
+!Audited I
+
+v..nodt<t
+
+H•lr Vtur tod•d
+
+Quurttr tndtt1
+
+S.No.
+
+Ofhtr Comprthrnsivt ln('omt
+(i) Items 1ha1 will 001 be reciassalicd 10 Profit or Loss
+• Remcasurcn1<n1s of the Defined ~efi1 Pl•ns··
+(11) lnC<lmc Ta.• rela1mg 1u 11ems 1ho1 "ill not be reclassified 10 Profi1 or Los
+
+Subtotal (A)
+(i) hems that will be reclassified 10 Profit or Loss .•
+·Effcctl\'C ponr0t1 of gainl(loss) hc<lging mS1rumcn1 rn Cash ~lo" Hcclsc
+Reserve
+(ii) Income lox rcln1111~ 10 items thnl will be rcclnssifictl to Profi1 or Loss
+
+°''
+
+Sub1otal ( BJ
+Orhtr Com11tthtnsi\~ lncomt' (A+B)
+
+Tomi <:om1ir•htnsiYt lntonrt for th• 11triocl (X+XI) (C:o1111irising rrolit
+1 Lussl 11nd 01hor <:omprrhensive l ncomr)
+Xlll Biuic & Oiluttd E.1rnings 11rr tqulty short or t 10 tuch (in t )
+A F0< Cominuurg Operations
+B For Discominucct Opera1ions
+(:
+for Co111inuing nnd Disconlinucd Operations
+XII
+
+2,030. 10
+12. 12
+7.S8
+7.08
+2,056.88
+O.S7
+2,057.45
+
+1,908 79
+IS.34
+9A'.I
+13.67
+1,947.29
+12.24
+1,959.SJ
+
+l.S77 OS
+25.63
+17.34
+9.S3
+1,629.SS
+0.83
+l,6JO.J8
+
+3,938.89
+27.46
+17.07
+20.75
+4,004.1 7
+12.81
+4,0 16.98
+
+3,0S9.80
+S0.69
+13. IS
+16 18
+J,U9.82
+1.26
+J, 141.08
+
+6,S7S.39
+9S.7 1
+13. 13
+SS 18
+6,742.41
+12.37
+6,754.78
+
+2,00S.11
+
+4, 141.0J
+41.01
+23723
+81 OS
+;3 80
+
+1,212.\16
+13.71
+69.92
+2S.9S
+10.43
+20.26
+8. IS
+l,J61.J8
+696.07
+
+1,21827
+16.27
+362.6 1
+21 18
+994
+18.48
+
+1,030. 18
+32.3S
+
+8.15
+
+6.09
+
+1,654.90
+304.63
+
+1.170.47
+459.91
+
+2,431 .23
+29.98
+432.53
+47. tJ
+20.37
+38.74
+16.30
+J.016.28
+1,000.70
+
+696.07
+
+J04.6J
+
+4S9.9J
+
+140.89
+6. 18
+549.00
+
+113.36
+(SS.401
+246.68
+
+43.31
+28.8S
+387.75
+
+(49.22)
+79S.68
+
+549.00
+
+246.68
+
+387.75
+
+(4. 17)
+I.OS
+
+009
+(0.021
+
+(J. 12)
+91 .04
+
+nss
+2086
+94;
+37.7 1
+
+6\1.45
+3.82
+4070
+18.06
+S<>.02
+12 29
+
+8<>.48
+24 78
+
+2,20~.45
+
+4.6~0.98
+
+93S.63
+
+2,10380
+
+1,000.70
+
+9JMJ
+
+2,IOJ.80
+
+2S~ .24
+
+17291
+(8.701
+771 42
+
+.
+
+.
+
+471 .3 1
+(66. 111
+1,698 60
+
+795.68
+
+771.42
+
+1,698.60
+
+(17.06)
+4.29
+
+(408)
+1.03
+
+(14 94)
+3 76
+
+(20 78)
+S23
+
+0.07
+
+(12.77)
+
+(J.05)
+
+(11.18)
+
+( IS.SS)
+
+2489
+
+137.93
+
+115.93
+
+160 10
+
+111.96
+
+.
+
+.
+
+.
+
+(22.92)
+
+(6.26)
+
+(34.71)
+
+(29. 18)
+
+(40.29)
+
+(28 18)
+
+68.12
+65.00
+
+18.6J
+18.70
+
+IOJ.22
+90.45
+
+86.75
+SJ.70
+
+119.81
+108.6J
+
+SJ.78
+
+614.00
+
+265.J7
+
+478.20
+
+879.38
+
+880.05
+
+1,766.SJ
+
+1.97
+
+091
+
+1.44
+
+2.88
+
+2 87
+
+6.32
+
+1.97
+
+OIJ I
+
+1.44
+
+2.88
+
+2.87
+
+6.32
+
+.
+
+6S.2J
+
+.
+
+Not ~:
+
+(t)
+(2)
+
+(3)
+
+Rcftt 111ccom91ny11'll notes 10 lhc: financial rtsuhs
+Earnrna per shn1e (EPS) for qu:lrttf 11 not nm1uahse<I .
+
+The f1911rc f0t the qu:trlt:r ended JO 09 202~ :md )0 09 2024 h:.vc bee•' cftorivcd by deducting the audncd fiauros or three n-.otuhs cndtd JO 06 20~S and JO 06 2024 from the risures for period c1KSec! 30 09 202~ and
+JO09 2024 ft$p«llwly
+
+
+CllEROV 10R EV£1l
+
+Ind ian Renewa ble Energy Develop ment Agency Limited
+
+#3:J~
+
+CIN: L65100DLl987GOI027265
+
+~IREDA
+ONCC IACOA AlWAYS IR{IM
+• ·\·" tJln 1 ( -1:•-i
+
+Standalone Statement of Assets and Lia bilities
+
+('{ in Crorts)
+Particulars
+
+S.No.
+I
+
+A
+
+ASSETS
+Financia l Assets
+a) Cnsh and Cash Euuivalents
+bl 13nnk Balance other than (a) above
+c) Derivative Financial Instruments
+d) Receivables
+If) Trade Receivables
+
+'el Loans
+(I) Investments
+(Jd Other Financial Assets
+Total-Financial Assets !Al
+B No n-lin nncinl Assets
+ICal Cu rrent Tax Assets (Net)
+bl Deferred Tax Assets <Net)
+'cl Investment Proocrtv
+'d) Prooertv. Plant and E<mipment (PPE)
+'cl Cnoital Work-Jn-Proe.ress
+(I) Riltl1t of use Assets
+IC11.l lntan11.ible Assets under develooment
+(hl Jntane.ible Assets
+Im Other Non-Financial Assets
+Tollll-No n-Financiul Assets (8)
+Total Assets IA+Bl
+II
+
+As al 30.09.2025
+
+As at 30.09.2024
+
+170.54
+800.99
+739.48
+
+494.04
+695.3 1
+603.00
+
+5.22
+82 622.98
+780.23
+22.80
+85 142.24
+
+4.95
+63,7 18.64
+659.12
+29.28
+66,204.34
+
+196.79
+414.55
+0.02
+190.52
+
+179.46
+30 1.90
+0.02
+204.5 1
+
+140.23
+
+146.64
+
+4.72
+1,704.69
+2 65 1.52
+87 793.76
+
+4.20
+1,707.38
+2,544. 11
+68,748.45
+
+26.67
+
+88.36
+
+0.2 1
+
+0.08
+
+4.70
+
+0.88
+
+28 941.56
+37,740.64
+3.257.18
+2,270.9 1
+72,24 1.87
+
+22,799.72
+3I,189.47
+649.45
+1.735.44
+56,463.40
+
+780.72
+1,850.99
+2 63 1.71
+
+1, 104. 17
+1,844.75
+2,948.92
+
+2,809.23
+10. 11 0.95
+12 920.18
+87 793.76
+
+2.687.76
+6,648.37
+9,336.13
+68,748.45
+
+-
+
+-
+
+-
+
+LIABI LIT IES AN D EQUITY
+
+LIABILIT IES
+Fin11ncinl Linbilitics
+(a) Derivative Financial Instruments
+'bl Pnvablcs
+(I} Trade Payables
+(i) Total outstanding dues of Micro Enterprises and Small
+Enterprises
+(ii) Total outstanding dues of creditors other than Micro Enterprises
+and Small Entcrorises
+'c) Debi Securities
+.(d) Borrowin11.s (Other than Debi Securities)
+1fo) Subordinated Liabilities
+'I) 01her Financial Liabilities
+Total-Financ ial Lia bilities (A)
+B Non-Finnncial Linbililies
+"a) Provisions
+ICbl Other Non-Financial Liabilities
+Total-Non-Financial Liabilities !Bl
+c Eouitv
+lcaJ Equity Share Capital
+ICbl Other Em1itv
+Total-Eo uitv !Cl
+To tul-Lia bililics and EouitvlA+B+Cl
+
+A
+
+'I
+
+
+lndlun ncnewublc Energy Development Agency Limited
+CIN: L65 IOODL I987GOl027265
+
+r•<.1tn·r
+
+'°"' tvrtt
+
+~ ...~.:;r
+~ IREDA
+f,IM;'fHltUAA.U'r.11•.S"UIM
+I\
+f•f1';\I
+
+Stundnlone Stutement of Cush Flows for the 11eriod ended September JO, 2025
+
+'' in Crorcs l
+
+Period tnded
+30.09.2025
+
+S.No. Partkulnrs
+A
+
+Cn.5h Flow rrom Onerntlng Activities:
+P'orit Bcrorc Ta:<
+
+Period ended
+30.09.2024
+
+1,000.70
+
+935.63
+
+0.60
+432 53
+20 37
+0. 19
+0.16
+29.98
+
+0.35
+3.82
+18.()(j
+0.19
+0.17
+69.45
+(0.01)
+
+0.50
+1.6(>
+
+16.62
+2.15
+
+(0.27)
+
+(J.89)
+
+(0.39)
+16.46
+t2,33
+17.07
+t ,SJ l.89
+
+0,04
+15.03
+14.04
+13. 15
+1,084.80
+
+(8.204.45)
+(277.77)
+(39.82)
+0.7 1
+10.73
+752.84
+(0.39)
+(4,2 1)
+( 159.M)
+
+(4,897.08)
+(690.00)
+(38.56)
+1.07
+37.36
+435.95
+(0.00)
+(6.34)
+(33.M)
+
+(7,921.01)
+(6,390.12)
+
+(5,197.24)
+(4,tl2.44)
+
+(6,390. 12)
+(260.40)
+
+(4,112.44)
+(237.25)
+
+/\djustmcnt for:
+I
+2
+
+Loss I (Gajn} on dercCQgni1iun of Property. Plant and Eqmpmt'nt (Net)
+
+lm1>airment on finnm::ial Instruments
+3 Dtprc<ant1011 and Amortiz..1.tion
+4
+1\mor1iunion adjustment due to \VB Grant
+5 lnu~res1 on Lease Linbility
+G Ne< TrMslation/ TrMsa<:tion EKchange Loss/ (Gain)
+7 Ptovis1on Wrincn Bock
+8 Amounls Written Off I Bad debts
+9 Provision$ for Employee Benefits
+10 Effeclive lnteres1 Rate on Debi Securities
+I I Effective Interest Rate on Subordinated Liabililies
+12 Effec11ve lntCftst Rate on Loans
+13 Provision for lndir1.-"CI Ta.'< (Including on Gunronl~ Commission) & Others
+14 Net Loss I ((jnin) on F:tir V<Jluc Chan~cs
+Opentllng Pl'ofil bdor(' duuig~s in 0(Jernting Assets aud Linbilities
+Increase f Decrease in Opcmting Assets I Linbilitie$
+I Lonu Asset!!:
+2 Other Financial As.secs
+3 Other Non Finnncial Assets
+4 Tr'(utt Receivables
+5 Other Non Pinnnc1al Lcabil111es
+4
+
+4
+
+6
+
+7
+8
+\I
+
+Other Fi1mnc1tll LlnbilitiC$
+t.ense Liobili1y
+Trade Paynblc
+Bank Balances 01h1.?r thnn Cash nnd Cosh &1uivaldnt
+
+c~ub Flow fro u1 Opcrntions Stfort Eue1>tlounl llerns
+
+8
+
+c
+
+Exceptional Item
+Ntt Cnsh lnOow/(Ou1now) fro m 01nwntions Before 1·u
+Income Tax
+Nel Cash fluw from 011crnfing Activities
+Cn~ hJ•"l ow F rom lnvl"sling Acliviries
+I
+Purchnsc orPropcny, Pinnt & Equipment
+2 Sale or Property, Pll'lol & Equipment
+3 ln vc~mcnt in Government Securities (Net)
+Ntt Cnsh Flow from lnvrsring Activities
+~11th Flow from Financirrn }\ ttivifil"S
+I
+Proceeds from Jssuc or Equil)' Shaies
+2 Proceeds from Securities Premium
+3 Shnte Issue E.'<penses
+4 Issue of Debt Scuritics (Nc1 of rcdcm1>1ionsJ
+5 Rni$iug of Subortlitmted Liabili1ies inclutling POJ (Net of redemplioos}
+6 Raising of' l..oans other thM Debt Securities (Net of' repayments)
+7 J>ayment for Leosc Linbility
+Nt1 Cssh Oow from Finnncing Activilif'J
+Nt'I Incrl."nse/Oecrci•se iu CMh uud Cnsh Equivalents
+Cash ond Ca.sh Equivofonls at lht: Beginning
+Cash and C35h Equivj!llCnls :u 1hc End
+
+.
+
+(6,650.52)
+(8.13)
+
+(4,349.69)
+(12.85)
+0,07
+
+0.29
+(14 1.47)
+(149.31)
+121.47
+1,884.43
+( 14 87)
+495.60
+4S3.00
+4,00 1.04
+(0.14)
+
+(12.78)
+
+S,090.00
+(307. 17)
+(0.53)
+6,940.5.J
+140.70
+29.84
+170.54
+
+4,782.30
+419.SJ
+74.2 1
+494,04
+
+14.59
+0,00
+145. 16
+0.00
+10.79
+0.00
+170.54
+
+8.37
+0.54
+171 60
+
+Com1lonents of C nsb :rnd Cnsh Et1uivnlen1s ::is 111 tnd ofll1e nl'riod nr(':
+In Current Accounts with Banks in Indian Branch
+In Current 1\ccou111.s wi1h Baoks m foreign Brruich
+
+In Over<lmfl Accom11s with Banks
+In Deposit Accounts with B:lnks
+In Saving Bank Accounts wilh Bnnks
+Cheaues Undcr Collection/DD In hand and r ostAt.!C imnrcst
+Tomi Cll~h :\nd Cnsh Equlvltlenl iu nt end orthe period
+The above statC"mcnt or cash nows has been prc1>ared under the indirec1me1hod as sel oot in Ind AS 7 ·sia1eme111 of Cash Flows'
+Thcce arc no repatri:nion rc.~.1ric11ons wi1h respect to Cash and Ca$11 Eq111v:.lc01s ;md Baok balMccs ns n.t thc cod of the reporting period ptescnled :ibovc
+Pf'evious period figures have been rcarran~etl {md regrouped wherever 11ttt>ssary.
+
+JOJ.24
+
+10.29
+0.00
+49~.04
+
+
+Notes to the Standalone Audited Financial Results for the quarter and half year ended 30.09.2025
+l.
+
+The above financial results have been recommended by the Audit Committee of Directors and approved by the
+Board of Directors in their respective meetings held on 14.10.2025 and have been audited by the Joint Statutory
+Auditors of the Company M/s Shiv & Associates, Chartered Accountants and M/s Rao & Errunar, Chartered
+Accountants.
+
+2.
+
+These Financial Results have been prepared in accordance with the recognition and measurement principles laid down
+in applicable accounting Standard specified under section 133 of the Act, read with the relevant rules issued
+thereunder, directions issued by the RBI from time to time and other accounting principles generally accepted in
+India and in compliance with the requirements of Regulation 33, 52 and other applicable regulations of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (as amended).
+
+3.
+
+Impairment allowance on loan assets is provided as per the board approved ECL methodology and calculations
+done by an independent agency along with management outlays wherever necessary. Cumulative impairment
+allowance (Including standard loans and non-fund-based facilities) stands at \' 2,348.90 Crore as on 30.09.2025 (as on
+30.09.2024 ' 1,687.58 Crore)
+
+<'In Crore)
+
+Particular
+Loan asscls
+lm1>airmcn1
+Loss
+allowance•
+Provisioning
+Coverage (96)
+
+As at 30.09.2024
+Stage I
+Stage
+Total
+
+As a t 30.09.2025
+Stage I
+Stage
+Total
+
+As at 30.06.2025
+Stage I
+Stage
+Total
+
+&U
+81033.16
+
+3352.92
+
+84386.08
+
+76549.79
+
+Ill
+3302. 12
+
+79851.91
+
+63046.93
+
+Ill
+1415.43
+
+64<1 62.36
+
+610.83
+
+1726.23
+
+2337.06
+
+557.28
+
+1687.5
+
+2244.78
+
+923.10
+
+749.84
+
+1672.94
+
+0.7596
+
+51.4896
+
+2.7796
+
+0.7396
+
+51.1096
+
+2.8196
+
+1.4696
+
+52.9796
+
+2.60%
+
+m
+
+&U
+
+& II
+
+•excluding on non· fund based focUtllcs
+
+4.
+
+Interest income on credit impaired loan assets Is not being recognized as a matter of prudence.
+
+5.
+
+The Company's primary business is to provide finance for Renewable Energy & Energy Efficiency projects, and all
+activities arc carried out In India and accordingly, there are no reportable segments as per Ind AS 108 Operating
+Segments.
+
+6.
+
+Additional Information as required under Regulation 52(4) or SEBI (listing obligation and Disclosure Requirements)
+Regulation, 2015 is aruiexed as Annexure A.
+
+7.
+
+Pursuant to Regulation 54 of SEBI (Listing obligation and Disclosure Requirements) Regulations 2015, for all
+seemed non-convertible debt securities issued by the Company outstanding as on 30.09.2025, security cover of 2.61
+times has been maintained by way of charge on the receivables of the company. The secmity cover in the prescribed
+rormat has been annexed as Annexure B.
+
+8.
+
+The company raises funds In different currencies through a mLx of term loans from banks/ financial Institutions/Govt.
+Agencies and issuance of non-convertible securities of different tenors through private placement. The Issue
+proceeds have been fully utilized and there are no material deviation(s) from the s tated object in the offer
+document/Information memorandum of such non-convertible secw·Hies. During the quarter ended 30.09.2025, the
+Company has issued non-convertible securities to the tune of t 453.00 Crore through private placement. The
+statement as prescribed under Regulation 52(7) & 52(7A) of SEBI (Listing Obligation and Disclosure Requirements)
+Regulations, 20 15, has been annc.xed at Annexure-C
+
+9.
+
+There has been no default as on 30.09.2025 in the repayment of debt securities, borrowings and subordinated
+liabilities and the Company has met all its debt servicing obligations, whether principal or interest, during the period.
+The format for disclosing outstanding default on loans and debt securities bas been annexed at AnnCXUl'e·D.
+
+10. The disclosure in respect of related party transactions for the half year ended 30.09.2025 has been annexed at
+Annexurc·E
+11. There are no reportable cases of loans transferred/ acquired during the period ended 30.09.2025 (previous period: Nil)
+required to be reported under Master Direction · Reserve Bank or India (Transfer of Loan Exposures") Directions, 2021
+dated 24''' September 2021.
+12. Special Purpose Financial Statements for the period ended 30'" September 2024 have been prepared by the Company
+in relation to the proposed fund raising activities including issue of equity shares through qualified institutions
+placement (QIP), as required under the Securities and E.xchange Board of India (Issue of Capital and Disclosure
+Requirements) Regulations,2018 as amended from time to time ("ICDR Regulations") and hence figw·es for 30°'
+September 2024 have been considered as audited comparative for the audited financial statements for the half year
+ended 30'" September 2025. Previous period figures have been re-arranged I re-grouped I re-classified wherever
+considered necessary to make them comparable with the current period's figures.
+For and on behalf of the Board of Directors
+
+Place: New Delhi
+Date: 14.10.2025
+
+
+Ditc1osurr undtr Rnul:llion !i?C4l oCSEBI CU!fjng Obli11tion tnd Dinlosu« RrsauirtmtnlJl
+Rrcula tionh 1015 for lht 1wrlod rndtd 30.09.1025
+
+SI.
+
+P1r1kul1u
+
+4
+
+Debt Eau11V R.11101
+O~bl ScrviC\: C'on:r:ur.t R:'lfio'
+hucrcst Scn•ioc Covcr:w.i: Jtl\tio'
+Outsttu1d1ng Rcdccmablt Prcr~rcncC" Shares
+
+s
+
+Dc1Jc.n11m: Rcdcm1>1tou KtiCl'\e
+
+I
+
+2
+l
+
+Unit
+
+I
+
+As at/ lor the per;od tndtd
+J0.09.2024
+
+HS
+Nol Applicable
+Nol App l ic~blc
+
+limts
+
+No1 Appllcoblo
+
+t lnC'rorct
+t lnC'ron:s
+
+Nil
+439.UI
+
+41K,3K
+
+12.920 18
+
+9,))6.ll
+
+Net Wonh
+
+N.:tProfltAftctlll'(
+e:imu,. Pct Stwc
+
+t In Crof\.-s
+lo<r slur<
+t:1mcs
+
+!49 00
+I 97
+
+times
+
+10
+
+lo -Term lkbc to WotkJ. .
+
+II
+
+Bxl Debts to AC<lC*Mr Jtcce1vlbk RatJ
+
+IZ
+13
+
+Cuirmt Lt>btldv it.Ii&
+fTOQI Debes IO Toul A.,,,t/
+
+14
+
+Ddlton Turnovt?
+
+......
+times
+......
+......
+
+IS
+
+lm-cnton· Tumcwc/
+
+tunes
+
+16
+
+ln.-.ratuur: Manun P('rccnl~
+
+%
+
+33¥1%
+
+%
+
+266¥%
+
+Net Profi1 M:mr1n P.:rc1:11f
+Scc:tor i;ocdf1c l'l: 1.uv.ilcnl t-ahos
+(•) C'RAR
+(bl Gross Non Pcrrormiru~ Assc:IJ MatiJ
+(c) Net Non Pcrfonnlm1 Anc:1J R6ti<r
+
+As at 1 lor the quarter t•df'd
+J0.09.2024
+
+HI
+
+1
+
+17
+II
+
+As at /lortbe p<rMld tndtd
+J0.09.2025
+
+Nol Applic11bk
+
+t ht Crottt
+
+r ..,uf
+
+I
+
+times
+
+1
+
+Cut1c-nt Rahe/
+
+J0.09.201..~
+
+C1tne:S
+
+I>
+
+I
+9
+
+Au t llo<lhe q11arlt rtnd•d
+
+I
+
+Nol
+
+3&7 7S
+
+I
+
+144
+
+Noc Apphe>blc
+
+I
+Not Apphe>blc
+
+NOIApphc>blc
+
+Nol Applicable
+
+NocApphc:>blt
+
+Not App~c:oblc
+
+Nol Appl!C.lblc:
+
+Nol Appltcabk
+
+I
+
+795.68
+2.SS
+
+OIO
+
+u19
+
+NocApphcnblc
+
+Not Apphcablc
+Nol Apphe.;ablo
+
+NocAwhc:>bl<
+
+I
+I
+
+24 67%
+
+2i 17%
+
+I
+
+29.76%
+
+193 1%
+
+2311%
+
+I
+
+2<.S6%
+
+W. 10%
+J ,V7"k
+
+I S.K4%
+
+%
+%
+
+191•4
+
+104%
+
+%
+
+71142
+2.17
+
+l . 19%
+
+NotH:
+
+I
+
+2
+
+Ocbc I Eq1:u1y R.'llJO . Toc~J Debi I Net Worth
+
+NC1 W<1M 11 c-alcul:.1" u ckfined 1n sector 2(5 7) of Com~ics Acc. 20 I l
+The- Comp;1n) IJ n....,slri:mt under the Rts<n~ 8aAlr. of India Act. 1934 as Non,.JHnluna F'1UMial Compuy, hcntt thc:sc r.it..os are ac:ncr.t&I) not applinbk
+Tout debts 10 IOtll »KU• TOI>! Debi I T...I A"''1$
+
+0,,..'1>l"'S
+
+M>IJ•• ·,,,,a,..-,.... P10fit lkl'w< T°' / Toe.I Rc•-m"' r- O.,.-n-
+
+Nt1 Pro(i&M~fJlft • N\.·t PN(4Aft('tTa.' / TObl I~
+
+CRAR • Toul Cai>. .I Fuod ( To<r I C'11p1t>HToc:rll Capital)/ Rosi. .--.:1Jblc:d au<tS. <>kolac<du pc:r "f'Ploabk RBI gaxl<~- As ofScpcc:mb<r 30. 202". die n:ponc:d CRAR of die C00tpaA) .. .,
+20 24%. compo.M& r "'' I C1p1tal o( 11 27% Md Tttr II Dlpital or I 96% nus cakulattOA "as ti;aJ:Cd on a SO% ndi: weight assigned to comnusslOftC'd n:nc•"lbk tnt'I,' 11\frasttvctun: p~ au.;tJ
+tin:tB«"d b) the Com~~ t~t Md tUChcd d"''' comm1:rc;tal opcratJOns cbie (COD> Md had be-ton opc;mhon:ril fot O\'t't .:a ~"C'3t Howcwr, cf'kdl\4: Mateh JI, lO?S. the tom~) hM Qpplttd a 100% osk
+"<1ght to •h«c lllSkll. Atcotd1naly, CA.AR of corn:spcuwhq peood .is •I 30 09 2024 h:.s bl.'"Cn n.'$1lll<."Cl
+
+Gross Non Pc1fomi1na As~ts R.1t10 • Oro.s1 NOft Pcrfomung AS$(1J I G1-ou Lo.'ln AU(11
+Net NM Pttfonning Aucu R8110 • Nt1 Nol\ Pcrfonmng Assets I Ntt Loan Auc:h
+
+
+AnneJ.urf'-8
+
+Disclosure on Security Cover
+(As JIU Re&ulation 54(3) of lh• Securilir$ and Exchange Board of India (listini Obligation aod Disclosure Rtquirtments) Rteulatio1u, 2015)
+E.sdush·t
+
+Eulush-e
+
+Pari-hssu
+
+Chars<
+
+Chars<
+
+Cll•rs<
+
+Oacriprion of
+
+,.,......... o....,.
+
+AJkl1 th•~ by p~ri
+
+am• ror which
+
+Partkulara
+
+Pa,.;,.Pamt Cb.arrt
+
+Dtbt ror
+this tertirinte
+whkhthis
+rt.lire
+ttn:ificalt
+...,,,, .......i
+
+Book Va.lue
+
+Olht-r
+Sttund
+l><br
+
+Sook Valut
+
+Orbtr assc:ts on
+1•a.Hu dtbr holdtr
+M·hkh lhtn is pariDtbr for wbkb
+(includes dtbt for which
+Pa"u ch.arit
+this urtiftcatc:
+this ttrtificate is issued & (ududinz ittnu:
+bt.iu1is.su«I
+orb.tr dtbt w'irta p:uip~u co' trtd ia coJwnn
+
+(YES/NO)
+
+<b•r:<l
+
+F}
+
+Book Value:
+
+Book Va.Jue:
+
+tliminatioo
+
+AutftftCU
+
+offered as
+Suurity
+
+IXbr a.mount
+eonJldtrtd more
+thaJa once (dut to
+
+( t in Crorts)
+
+Rtb1·ed 10 only chow irc:ms cont'C'd bt ibis ttrtificact
+
+Mar~I
+
+(Totol Cro R)
+
+Value: for
+AJStU
+<barsc:d 011
+
+Udwi\'lfl plld pari
+.,.... <bars<)
+
+Uc:tUJin
+b.uis
+
+Ci"'Yinc /book
+\'alut for uduJh't
+tha.rie USC"ts where
+mark.ct value iJ not
+a.sttrtainabk or
+•ppb<abl<
+
+Markt:t
+Valut for
+Pari passu
+
+char:e
+Ass<IS
+
+Carr,.iai /book nlu.e
+
+for pari-·pusu chartc:
+asseu: whttt tu:1rb1
+nlueis a.or
+Uttr1AinabLt or
+anclic&blt
+
+Total
+\"alue(• K+L+M
+H >)
+
+Rd.arN 10 Cthuna f
+
+ASSETS
+Ptopeny. Plant and Eqwpm"1t
+
+190.S2
+
+190 l2
+
+140.23
+
+140 2J
+
+4,72
+
+4n
+
+7I02J
+
+710ll
+
+Capnol Worit-tn-P">lt.,.
+Ri11l11 of Use AssclS
+
+Gooch,ill
+lntMillblie A.$$.(tS
+lnr:an~ble AsKts undtt
+
+in-·clcomatt
+lll\.'almef\ts
+
+Recet"'ables
+under FLnancmg
+
+LollnS
+
+YES
+
+82.622.9&
+
+32,622 9$
+
+82,622 98
+
+12.622.98
+
+32-'21.98
+
+32-'2238
+
+:activ1nes
+lnvi:ntories
+
+Tr.C. R«<.•·obfa
+
+CUI and Cash Equo•'ll<n!S
+Bank 811Jances other lhan Cash
+
+ond C':ash EquivaJt-ms
+Others
+SU22.9S
+
+To1aJ
+L IABILmES
+DftK securities to which tbas
+
+YES
+
+cen1fie:11t pert:iins
+
+s 22
+
+l ll
+
+170.S4
+
+170S4
+
+800.99
+
+10099
+
+3,078-33
+5.170.7S
+
+l,078 ll
+
+2.l76.60
+
+17 793.76
+
+2.l7660
+
+Other de.bl shari.i1a pin·passu
+c.h1r1c with abo~ dtb1
+
+Oth<ro.bt
+Suborduwed d<Ot
+Bon"ou11nst1
+Bank
+Debi SttuntJcs
+Othm
+Trade 1'2vablcs
+
+No1 t0be
+
+29.023 44
+
+fillrd
+
+l.257. IS
+
+J.lS71S
+
+8.717.20
+26.364.97
+
+17.740 64
+26,364 97
+
+4.91
+
+•91
+
+1ao.n
+
+mn
+
+17.068.74
+
+17.068 74
+87,793.76
+
+1.c-ual>iluies
+Pf'O\i11ons
+
+Othm
+Tot2l
+
+Jl.600.04
+
+Covtr on &ok V11lut
+
+Pari-Pa$$u SuurityCO\'tr Ratio
+
+~.19J.72
+
+2.61
+
+WccOfllttm dw dtcc-ocn~t hucomphcd tt11hdlC CO\C-Allltsm.ct1Cioncdtn dlcdixlos1attdoc-.mc-1nso(lhc l.1Sk:d110A-<Oft\ctt1bk dc-btsccurnlcs (orthcpcriodt!ldcd 300'J.l01S
+
+o~ EA1£\
+
+: L.hI: ~~
+~{~
+~
+
+-.,:
+
+1.
+
+(-.'<\'
+
+".~
+
+*
+
+CJ. Nt
+
+·~
+
+ELHI
+
+*
+
+#
+
+e,..CdA cO~~
+
+~
+
+.fa
+
+~
+
+
+Annexure-C
+Disclosure under Regulation 52(7) and Regulation 52(7A) of the SEBI (Listing Obligations a nd
+Disclosure Requirements) Regulations, 2015 for the quarter ended September 30,2025
+
+A.
+
+Statement of utilization of issue 1>roceeds:
+
+Name of
+Issuer
+
+ISIN
+
+Mode of
+Fund
+
+Indian
+Renew ab
+le Energy
+Develop
+ment
+Agency
+Limited
+(!REDA)
+
+INE20
+2E083
+18
+
+Private
+Placement
+
+Type of
+Jnstrnment
+
+Raisin~
+
+B.
+
+IRED A
+Perpetual
+Taxable
+Unsecured
+Bonds (SeriesPOI-II) in the
+nature
+of Debentures
+
+Date of
+Raising of
+Funds
+15-09-2025
+
+Amount
+Raised
+
+Funds
+Utilize
+
+453.00
+
+453.00
+
+d
+
+'tin Crore)
+Any Remarks
+Devia
+ti on
+NA
+NA
+
+Statement of Deviation:
+
+Particulars
+
+Remarks
+
+Name of listed entity
+
+Indian Renewable Energy Development
+Vl.gency Limited
+
+Mode of fund raising
+
+Private Placement
+
+Type of instrument
+
+IRED A Perpetual Taxable Unsecured Bonds
+Series-POI-II) in the narure of Debentures
+
+I
+
+Date of raising funds
+
+15-09-2025
+
+Amount raised
+
+1453.00 Crores
+
+Report fi led for quarter ended
+
+130-09-2025
+
+ls there a deviation/ variation in use of funds raised?
+Whether any approval is required to vary the objects of
+the issue stated in the prospectus/ offer document?
+
+INi!
+INA
+
+If yes, details of the approval so required?
+Date of approval
+Explanation for the deviation/ variation
+Comments of the audit committee after review
+Comments of the auditors, if any
+Objects for which funds have been raised a1le where !llere llaS ~eeA a Ele¥iatien,l '>'ariatieA, i1l !Ile fellewiAg
+tahle: The fund s raised through the Issue will be utilized for on lend ing towards the RE projects and
+other general corporate purposes.
+Deviation could mean: NA
+a. Deviation in the objects or purposes for which the funds have been raised.
+b. Deviation in the amount of funds actually utilized as against what was originally disclosed.
+
+
+Annexure D
+
+Disclosure for disclosing outstanding default on loa ns and debt securities under SEBI (Listing
+O bligation and Disclosure Requirements) Regulations, 2 015 for the quarter & half year ended
+September 30 ,2025
+(~ in Crore
+
+S.No.
+
+Pa rticulars
+
+Amount
+(As on 3 0.09.2025)
+
+1.
+
+L oa ns I revolving fac ilit ies like cash credit fro m ba nks I fin ancial institut ions
+
+A
+
+Tota l amo unt o utstanding as on date
+
+B
+
+Of the to ta l am ount o utstanding, amount of default as on date
+
+2.
+
+Unlisted debt securities i.e. NCDs and NCRPS
+
+A
+
+Tota l amount o utsta nd ing as on date
+
+Nl L
+
+B
+
+Of the tota l amount o utstanding, amount of default as o n date
+
+NA
+
+3.
+
+To ta l fi nanc ia l indebtedness of the listed entity inc luding
+short- term a nd lo ng-term debt1
+
+37,740.64
+NlL
+
+69,939.38
+
+1
+
+Details of total finan c ia l inde btedness of the Company :
+(fin Crore
+
+S. No.
+
+P articulars
+
+Amount
+( As on 30.09.2025)
+
+I.
+
+De bt Securities
+
+28,94 1.56
+
+2.
+
+Borrow ings (Other than Debt Securities)
+
+37,740.64
+
+3.
+
+Subord inated Liabilities
+
+3,257. 18
+
+Total
+
+69,939.38
+
+
+,,
+
+9J
+
+-;
+
+rl
+
+l-1~•
+• il
+
+11
+
+Ji
+
+f
+
+~r
+
+tr
+
+~f
+>
+
+1
+
+i
+
+i
+•t
+
+j
+
+f
+
+I'
+
+l
+i
+
+~
+
+i r.
+
+~
+
+1rr1r iia
+
+' ' If
+
+r
+t
+
+i
+
+f
+
+i
+
+l
+
+~
+
+~
+
+Jdf
+...!
+_. L
+
+n J"t•
+ir
+.r
+; ... u
+...
+t•tJ·
+
+a •
+~
+
+.....
+
+--~o ~i
+.... ~'...~l?
+
+i ' :
+
+fl•f (ilii
+•r' H~ i t ll t t I .
+H~H
+
+·
+
+"·
+
+f
+
+f (
+
+~
+
+f
+
+f
+
+I
+
+II
+
+••~
+
+~
+
+hJr
+
+p •
+
+C;~
+
+i ;
+
+I'
+
+li
+
+i1. !!
+
+= •n~
+
+1
+
+I.~
+
+;r
+
+~
+
+t1rfi
+
+-.1
+.A
+
+Jtf
+
+1If
+
+fI•[
+
+r
+ii•
+
+• <, ~
+" J:i
+
+i JJ
+l
+
+J,
+
+i
+
+It! if
+H
+f
+
+•I
+
+l
+
+•i
+J
+
+rl lI
+
+lJ
+
+t
+
+I
+
+'U~ J"H
+-fl
+tt!••
+
+~
+
+f
+
+l
+
+I
+
+•r
+i
+
+I
+
+
+Indian Renewable Energy Development Agency Limited
+CIN: L65 IOODLI 987GOI027265
+
+f~¥(1111'1Vf
+
+~~
+~fREDA
+OHO.vo&At....,.,,llfCA
+~-'\.rt"f'4tu
+
+Extract of Audited Financial Res ults (Standalone and Consolidated) fo r the Quarter and Half Yea r ended 30 September 2025
+~in Crores)
+
+SI.
+No.
+
+Parriculars
+
+Year ended
+
+31-Mar-25
+
+30-Sei>-25
+
+30-Jun-25
+
+Half year ended
+30-Sei>-25
+
+Year ended
+31-Mar-25
+
+(Audited)
+
+(Audited)
+
+(Audited)
+
+(Audited)
+
+(Audited)
+
+6,7S4.78
+2.103.80
+
+2,0S7.8S
+
+1.959.84
+
+4,017.69
+
+6.15S.69
+
+304.84
+30484
+
+1.001.23
+
+2.103.S4
+
+1,001.23
+
+2.103.S4
+1,698.34
+
+(Audited)
+
+( Audited)
+
+I.
+
+Total Income from Operations
+
+2,0S7.4S
+
+l.9S9.S3
+
+2.
+
+Net Profit/ (Loss) for the period (before Tox. Exceptional and/ or Extraordinary icems)
+
+69607
+
+304.63
+
+3.
+
+Net Profit/ (loss) for the period before tL< (aft<T Excep«ional and/ or Ei.craordinary items)
+Net Profit/ (Loss) for the period after cu (aft<T Exceptional and/ or E.maorduwy items)
+Total Comprehenme Income for the penod [Compnsing Profit/ (Loss) for the penod (after tax) and
+Other Comorehensi\'e Income (after taxi!
+Paid uo Equirv Share Capital (Face Value on IOI- each)
+Reserves (excluding Revaluation Reserve)
+Securicies Premium Account (net)
+Necwon.h
+Paid up Debi CapitaV Outstanding Debt
+Debt Equity Rauo
+£anunAS Per Share (of Rs. 10/- each) (for connnu:nn and discontinued -tions)
+A. Basic:
+B. Diluted:
+Debenture Redemntion Reserve
+
+696.07
+549.00
+
+304.63
+
+4.
+5.
+
+6.
+7.
+8.
+9.
+
+10.
+II.
+12.
+
+13.
+
+Con~lidated
+
+StandJllone
+Quarter ended
+Half year ended
+JO.Sen-25
+JO-Jun-25
+JO-Sen-24
+30-Sep· 25
+30-Sei>-24
+(Audited)
+
+( Audiced)
+
+(Audited)
+
+Quarter ended
+
+1,630.38
+4S9.91
+
+4.016.98
+1.000.70
+
+3,141.08
+
+1,000.70
+79S.68
+
+935.63
+771.42
+
+2.103.80
+
+246.68
+
+4S9.91
+387.75
+
+696.39
+696.39
+
+1.698.60
+
+549.33
+
+246.88
+
+796.21
+
+614.00
+
+26S.37
+
+478.20
+
+879.38
+
+880.05
+
+1,766.83
+
+614.76
+
+26621
+
+880.97
+
+1,767.21
+
+2.809.23
+10, 110.95
+2,737.56
+12.920.18
+69,939.39
+5.41
+
+2.809.23
+9,S92.63
+2.737.57
+12,401.86
+66,398.32
+S.35
+
+2.687.76
+6,648.37
+863.63
+9,336. 13
+S4.638.64
+
+s.ss
+
+2.809.23
+10,110.95
+2,737.S6
+12,920. 18
+69.939.39
+541
+
+2.687.76
+6.648.37
+863.63
+9,336. 13
+54.638.64
+5.8S
+
+2,687.76
+7.578.40
+864.26
+10,266. 16
+64.740.31
+6.31
+
+2,809,23
+10,112.92
+2,737.S6
+12.922.15
+69,939.39
+S.41
+
+2,809.23
+9.593.20
+2.737.57
+12.402.43
+66,398.32
+5.35
+
+2.809.23
+10.112.92
+2.737.56
+12.922. 15
+69,939.39
+S.41
+
+2,687.76
+7,578.78
+864.26
+10,266.54
+64.740.31
+6.31
+
+1.97
+1.97
+439.01
+
+0.91
+0.91
+439.01
+
+1.44
+1.44
+418.38
+
+2.88
+2.88
+439.01
+
+2.87
+2.87
+418.38
+
+6.32
+6.32
+439.0 1
+
+1.97
+1.97
+439.01
+
+0.91
+0.91
+439.01
+
+2.88
+2.88
+439.01
+
+6.32
+6.32
+43901
+
+935.63
+
+Notes:
+a) The abov< results have been recommended by che Audie Commince of Directors and approved by the Boord of Directors in their respective meetinss held on 14. 10.202S and hove been audited by the Joinc Statutory Auditors of the Company.
+b)
+
+The above is an extract of the detailed fonnac of quarterly and half yearly financial rcsullS filed with Stock Exchanges under Rci,,'Ulation 33 & 52 of the SES! LOOR Rcgulauons. The full format of the said financial resuhs are •»ilable on the website of the Comp>ny
+~'\\.ireda.in/financi.aJ-nsults and on the websites of Stock Exc:hqcs "'"'w.bu:indi.a.(orn &. "'~.os.tindia .(o.m.
+
+c)
+
+For the othtt line items refened in regulation 52(~) of the SES! LODR Regulations. pcttinent disclosures have been made to Stock Exchanges and can be accessed at www.bse1ndiLcorn and www.nse1nd1a.com respectfrely.
+
+d) The Company has incorporated a wholly owned subsidiary company named as -1REDA Global Green Energy F1nanee IFSC Ltd- in IFSC (lncemational Financial Semces Cencre)-OIFT City (Gujarat Internacional Finance Tee- City) for " 'hich rcgiscracion certificate to
+undertake acth11ies as a finance company has been recieved on I8.02.202S fiom IFSCA. lnline consolidated financial results has been prepared w.e.f quarter ended 31.03.2025.
+
+QR Code for
+Accessing
+financial
+Results
+
+f'ora11d on Be.half of Board of Directors
+
+°'\~\
+\
+
+Dace . 14. I0.202S
+Place : New Delhi
+
+~
+Pradip Kamar Das
+
+o..mJ.. and M-sins 0..«10<
+
+DIN No. 0744SS76
+
+

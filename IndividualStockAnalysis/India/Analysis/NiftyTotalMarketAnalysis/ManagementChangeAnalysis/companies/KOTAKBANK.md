@@ -11,10 +11,9 @@
 | **Managing Director & Chief Executive Officer ("Managing Director & CEO")** | Ashok Vaswani (end of term; last day 2026-12-31) | Anup Kumar Saha (internal; from 2027-01-01) | announced, not yet effective | 2026-06-27 |
 
 - **Why Ashok Vaswani is leaving, in the filing's words:** “for personal reasons, he does not wish to seek re-appointment upon completion of his current term on December 31, 2026”
-- In the documents: “We wish to inform you that Mr. Ashok Vaswani, Managing Director & CEO of the Bank, has informed the Board of the Bank that, for personal reasons, he does not wish to seek re-appointment upon completion of his current term on December 31, 2026.” — [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KOTAKBANK_ROID_98287_KMP_Doc.zip) · +1 more
-  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
+- In the documents: “appointed Mr. Anup Kumar Saha (DIN: 07640220), currently a Whole-time Director (Executive Director) as the Managing Director & CEO of the Bank, for a period of three years, with effect from January 1, 2027, subject to the approval of the members of the Bank.” — [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KOTAKBANK_ROID_98287_KMP_Doc.zip) · +1 more
 
-*All 11 filing(s) read for the seats:* [2026-11-16 Shareholders meeting](https://nsearchives.nseindia.in/corporate/KMBLOMKAR_16112026152623_PostalBallotNoticeSEIntimation16112026.pdf) · [2026-10-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/KMBLTAB_24102026154235_OutcomeofBM24102026MDIDSIGNED.pdf) · [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KOTAKBANK_ROID_98287_KMP_Doc.zip) · [2026-06-27 General Updates](https://nsearchives.nseindia.com/corporate/KOTAK_27062026150020_AV27062026.pdf) · +5 more
+*All 12 filing(s) read for the seats:* [2026-11-16 Shareholders meeting](https://nsearchives.nseindia.in/corporate/KMBLOMKAR_16112026152623_PostalBallotNoticeSEIntimation16112026.pdf) · [2026-10-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/KMBLTAB_24102026154235_OutcomeofBM24102026MDIDSIGNED.pdf) · [2026-10-01 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_01102026080559_SEIntimation.pdf) · [2026-09-10 General Updates](https://nsearchives.nseindia.com/corporate/KMBLTAB_10092026191514_SEIntimationResignationofMrManishKothari.pdf) · [2026-09-10 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/KOTAKBANK_ROID_98287_KMP_Doc.zip) · [2026-06-27 General Updates](https://nsearchives.nseindia.com/corporate/KOTAK_27062026150020_AV27062026.pdf) · +6 more
 
 ### 2. Financials — the last three years
 
@@ -52,20 +51,20 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Anup Kumar Saha** — Managing Director & Chief Executive Officer ("Managing Director & CEO"). from: internal; experience: over 32 years of professional experience, of which, 25 years has been in financial services; qualifications: B. Tech degree in Engineering from IIT Kharagpur and has also completed his MBA from IIM Lucknow.
+**Anup Kumar Saha** — Managing Director & Chief Executive Officer ("Managing Director & CEO"). from: internal; experience: over 32 years of professional experience, of which, 25 years has been in financial services across banking and non–banking financial institutions; qualifications: Mr. Saha has a B. Tech degree in Engineering from IIT Kharagpur and has also completed his MBA from IIM Lucknow..
 
-The filing's own profile: “Mr. Anup Kumar Saha, currently Whole-time Director (Executive Director) of the Bank, has over 32 years of professional experience, of which, 25 years has been in financial services across banking and non–banking financial institutions. Mr. Saha joined the Bank in January 2026. In his role as Whole-time Director (Executive Director) of the Bank since March 2026, he oversees the entire Retail Bank, Government Business, Data Analytics and Marketing function. Prior to joining the Bank, Mr. Saha was associated with Bajaj Finance Limited ("BFL") (from October 2017 to January 2026) where he progressively held senior roles, starting as President – Consumer Finance (from October 2017 to March 2019)”
+The filing's own profile: “Mr. Anup Kumar Saha, currently Whole-time Director (Executive Director) of the Bank, has over 32 years of professional experience, of which, 25 years has been in financial services across banking and non–banking financial institutions. Mr. Saha joined the Bank in January 2026. In his role as Whole-time Director (Executive Director) of the Bank since March 2026, he oversees the entire Retail Bank, Government Business, Data Analytics and Marketing function.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Whole-time Director (Executive Director) | Kotak Mahindra Bank Limited (KOTAKBANK) | 2026 | — |
+| Whole-time Director (Executive Director) | Kotak Mahindra Bank Limited (KOTAKBANK) | 2026 | 2026 |
 | Managing Director & CEO | Bajaj Finance Limited (BAJFINANCE) | 2025 | 2025 |
 | Deputy Managing Director | Bajaj Finance Limited (BAJFINANCE) | 2024 | 2025 |
 | Executive Director | Bajaj Finance Limited (BAJFINANCE) | 2023 | 2024 |
 | Deputy CEO – Consumer, MSME, Marketing, Operations & Service and Digital platform | Bajaj Finance Limited (BAJFINANCE) | 2019 | 2022 |
 | President – Consumer Finance | Bajaj Finance Limited (BAJFINANCE) | 2017 | 2019 |
 | senior roles, leading Retail Secured Assets, Business Intelligence, Retail and Rural Collections, Credit Cards and Retail Structured Finance | ICICI Bank Limited (ICICIBANK) | 2003 | 2017 |
-| looking after credit cards, sales and analytics | GE Capital | 1999 | 2003 |
+| credit cards, sales and analytics | GE Capital | 1999 | 2003 |
 | production engineering | Bharat Heavy Electricals Limited (BHEL) | 1991 | 1995 |
 
 Results of **Bajaj Finance Limited** while they were Executive Director there (the filing's profile):

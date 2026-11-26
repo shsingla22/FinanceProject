@@ -13,7 +13,7 @@
 - **Why B. Kumar is leaving, in the filing's words:** “not stated”
 - In the documents: “In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we advise that the Bank has appointed Shri Vineet Srivastava as Chief Financial Officer (CFO) of the Bank in place of Shri B.Kumar.” — [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/BANKINDIA5_14082026180906_CFO.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/BANKINDIA5_14082026180906_CFO.pdf) · [2026-05-22 Updates](https://nsearchives.nseindia.com/corporate/BANKINDIA2_22052026125825_Secretarial_Compliance_Report__2025-26.pdf)
+*All 3 filing(s) read for the seats:* [2026-08-14 Appointment](https://nsearchives.nseindia.com/corporate/BANKINDIA5_14082026180906_CFO.pdf) · [2026-05-22 Updates](https://nsearchives.nseindia.com/corporate/BANKINDIA2_22052026125825_Secretarial_Compliance_Report__2025-26.pdf) · [2025-11-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BANKINDIA5_07112025180858_EGMOutcome.pdf)
 
 ### 2. Financials — the last three years
 
@@ -54,14 +54,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vineet Srivastava** — Chief Financial Officer (CFO). from: internal; age 56 years; experience: 20 years of distinguished service in the Bank; qualifications: He is a Chartered Accountant and a Commerce Graduate (B. Corn).
+**Vineet Srivastava** — Chief Financial Officer (CFO). from: internal; age 56 years; experience: 20 years of distinguished service in the Bank; qualifications: He is a Chartered Accountant and a Commerce Graduate (B. Corn)..
 
 The filing's own profile: “Shri Vineet Srivastava, General Manager, aged 56 years, joined the Bank as Senior Manager on 12.08.2005 at Head Office, Finance Department, hie has completed 20 years of distinguished service in the Bank. He is a Chartered Accountant and a Commerce Graduate (B. Corn). He has rich and diverse experience in the field of Finance and has worked in LCB/MCB & General Banking branches. He was also Head of Bhopal Zonal Audit Office.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | General Manager | Bank of India (BANKINDIA) | — | — |
-| Senior Manager at Head Office, Finance Department | Bank of India (BANKINDIA) | 2005 | — |
+| Senior Manager, Head Office, Finance Department | Bank of India (BANKINDIA) | 2005 | — |
 | Head of Bhopal Zonal Audit Office | Bank of India (BANKINDIA) | — | — |
 
 ### 5. On the calls

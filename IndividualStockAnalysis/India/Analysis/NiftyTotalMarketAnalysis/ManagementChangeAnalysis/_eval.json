@@ -7,8 +7,8 @@
  "E1": {
   "filings": 8493,
   "by_status": {
-   "read": 8102,
-   "failed": 10,
+   "read": 8105,
+   "failed": 7,
    "no-text": 377,
    "skipped": 4
   },
@@ -70,14 +70,13 @@
     "skipped": 1
    },
    "Outcome of Board Meeting": {
-    "read": 1110,
-    "failed": 1,
+    "read": 1111,
     "no-text": 8,
     "skipped": 1
    },
    "Press Release": {
-    "read": 67,
-    "failed": 2
+    "read": 68,
+    "failed": 1
    },
    "Public Announcement-Open Offer": {
     "read": 7
@@ -89,8 +88,7 @@
     "read": 510
    },
    "Resignation of Director/KMP/SMP": {
-    "read": 556,
-    "failed": 1
+    "read": 557
    },
    "Resignation of Independent director": {
     "read": 33
@@ -115,8 +113,8 @@
   "no_verdict": [],
   "by_verdict": {
    "change_of_control": 11,
-   "stake_change_no_control_change": 39,
-   "dilution_only": 9,
+   "stake_change_no_control_change": 40,
+   "dilution_only": 8,
    "within_promoter_family": 5
   },
   "read_as_none": [],
@@ -139,7 +137,7 @@
      "from nil"
     ],
     "verdict": "change_of_control",
-    "what": "Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (INR 26,015.77 crore) on 18 June 2026, taking 60% of RBL Bank's expanded capital, and completed a mandatory 26% open offer in which nil shares were tendered. Emirates NBD is now promoter; the Bank is its subsidiary.",
+    "what": "Emirates NBD Bank (P.J.S.C.) subscribed to 92,91,34,820 new shares at INR 280 (about USD 3bn) allotted 18 June 2026, taking 60% of RBL Bank, which previously had no promoter. Its mandatory 26% open offer closed with nil shares tendered. ENBD is now promoter and in control.",
     "reviewed": ""
    },
    {
@@ -158,7 +156,7 @@
      "from nil"
     ],
     "verdict": "change_of_control",
-    "what": "Avenir Investment RSC Ltd, owned and controlled by International Holding Company PJSC (IHC), Abu Dhabi, subscribed to a Rs 8,850 crore preferential issue of shares and warrants at Rs 139, completed a 26.05% open offer on May 14, 2026, acquired control and became promoter of the previously promoter-less company from May 15, 2026.",
+    "what": "Abu Dhabi's International Holding Company PJSC, through Avenir Investment RSC Ltd, subscribed to a \u20b98,850 crore preferential issue of shares and warrants at \u20b9139 and completed a mandatory open offer on 14 May 2026. Avenir was classified promoter and controlling shareholder from 15 May 2026; the company had had no promoter since 2023.",
     "reviewed": ""
    },
    {
@@ -211,7 +209,7 @@
     "change": -20.04,
     "crossed": [],
     "verdict": "stake_change_no_control_change",
-    "what": "The promoter group (API Holdings / Docon Technologies) sold down roughly 20% of Thyrocare in two large blocks, reportedly to repay group debt, falling from 71.06% to 51.02%. Docon was then amalgamated into fellow promoter-group company API Holdings, with no change in aggregate promoter holding. API retains majority control.",
+    "what": "Promoter group (API Holdings / Docon Technologies) sold down from 71.06% to 51.02% over the year \u2014 roughly 10% around December 2025 and a further 9.9% in August 2026 \u2014 while retaining majority control. Separately, promoter Docon was amalgamated into fellow promoter-group member API Holdings, with no change in aggregate promoter holding.",
     "reviewed": ""
    },
    {
@@ -312,8 +310,8 @@
     ],
     "change": -12.01,
     "crossed": [],
-    "verdict": "dilution_only",
-    "what": "Promoter-and-group holding fell from 83.29% to 71.48% between the March 2026 and the off-cycle 4 June 2026 shareholding pattern, with no filing text showing any sale, agreement or open offer; promoters still hold 71.4% and retain control. The move is consistent with fresh share issuance diluting the promoter percentage.",
+    "verdict": "stake_change_no_control_change",
+    "what": "Promoter-and-group holding fell from 83.29% (31-Mar-2026) to 71.48% in the 04-Jun-2026 shareholding disclosure, a drop of about 11.8 percentage points, and stayed at 71.4% thereafter. The promoter group retains a large majority and control. No filing here explains the sale or names any buyer.",
     "reviewed": ""
    },
    {
@@ -379,7 +377,7 @@
     "change": -10.81,
     "crossed": [],
     "verdict": "change_of_control",
-    "what": "Blackstone-affiliated promoter BCP Topco VII Pte. Ltd. sold its entire 75.19% stake \u2014 28,20,52,121 shares to BCP Asia II Holdco VII Pte. Ltd. at \u20b9425 and 4,41,39,236 shares to AXDI LDII SPV 1 LTD. With a completed open offer, the Acquirer took control and became promoter on 26 February 2026; the old promoter group was reclassified as public.",
+    "what": "Blackstone's BCP Topco VII sold its entire 75.19% promoter stake in Aadhar Housing Finance: 28,20,52,121 shares to BCP Asia II Holdco VII (a different Blackstone fund) at \u20b9425 and 4,41,39,236 shares to AXDI LDII SPV 1. Completed 25\u201326 February 2026 after a mandatory open offer; the acquirer became promoter and the old promoter group was reclassified as public.",
     "reviewed": ""
    },
    {
@@ -509,7 +507,7 @@
     "change": -8.74,
     "crossed": [],
     "verdict": "stake_change_no_control_change",
-    "what": "General Atlantic Singapore RR Pte. Ltd., a promoter-classified financial sponsor, sold about 8.45% of Rubicon Research's capital on 2026-09-01, cutting its holding to 27.34%. Total promoter-group holding fell from 59.76% to 51.25%; no new promoter or controlling owner arrived, and management continued unchanged.",
+    "what": "General Atlantic Singapore RR Pte. Ltd, a promoter-classified private-equity holder, sold 8.45% of Rubicon's capital on 2026-09-01, cutting its stake to 27.34% and total promoter-group holding from 59.76% to 51.25%. No new promoter arrived; Parag Sancheti continues as Director and CEO. Small earlier slippage came from ESOP allotments.",
     "reviewed": ""
    },
    {
@@ -525,7 +523,7 @@
     "change": -8.56,
     "crossed": [],
     "verdict": "change_of_control",
-    "what": "JSW Paints Limited completed its acquisition of 60.76% of Akzo Nobel India under a share purchase agreement on 10 December 2025, after an open offer, taking 61.2%. The Akzo Nobel sellers were reclassified from promoter to public, and the company was renamed JSW Dulux Limited.",
+    "what": "JSW Paints Limited completed its purchase of 60.76% of Akzo Nobel India (now JSW Dulux Limited) from Akzo Nobel's subsidiaries under a June 2025 SPA, after a 26% open offer. From 10 December 2025 JSW Paints holds 61.2% and is the promoter; the Akzo Nobel entities were reclassified as public.",
     "reviewed": ""
    },
    {
@@ -575,7 +573,7 @@
     "change": -7.72,
     "crossed": [],
     "verdict": "within_promoter_family",
-    "what": "Promoter Manish Mohanka gifted 72,78,925 equity shares (9.69% of capital) off-market to MM Business Trust, a promoter-group trust with Mehul Mohanka as trustee, under a SEBI inter-se transfer exemption. Aggregate promoter-group holding stayed 67.50% with no change in control or management. Earlier, a preferential allotment diluted promoters from 74.8% to 67.27%.",
+    "what": "Promoter Manish Mohanka gifted 72,78,925 shares (9.69% of capital) off-market to MM Business Trust, a promoter-group trust whose trustee is Mehul Mohanka, under a SEBI exemption order. Aggregate promoter-group holding stayed 67.50% with no change in control. Earlier, a Dec-2025 preferential issue cut promoter holding from 74.8% to 67.27%. Mehul Mohanka (MD & Group CEO) now leads.",
     "reviewed": ""
    },
    {
@@ -607,7 +605,7 @@
     "change": -7.38,
     "crossed": [],
     "verdict": "change_of_control",
-    "what": "The Piramal-family promoter entities sold down ~26% of VIP Industries through open-market/block transactions in late December 2025, and Multiples Private Equity Fund IV and its Gift Fund IV picked up ~18.7%, holding ~22.9%. The company's own presentation calls it a completed 'Change of Control', with a new CEO and senior team.",
+    "what": "Under a 13 July 2025 share purchase agreement, Piramal-family promoter entities sold out to Multiples Private Equity funds, which acquired control and were classified as promoters. The transaction completed in December 2025: promoter sellers offloaded 26.07% via open market and Multiples' funds bought 18.68%, holding 22.92%.",
     "reviewed": ""
    },
    {
@@ -623,7 +621,7 @@
     "change": -7.0,
     "crossed": [],
     "verdict": "change_of_control",
-    "what": "Adani group exited as promoter: Adani Commodities LLP sold its remaining stake (7% then 13%) and the Adani entities applied on 27 November 2025 to be reclassified from promoter to public. Lence Pte. Ltd. bought 13% and holds 56.94%, leaving it as sole promoter.",
+    "what": "Adani Commodities LLP sold its entire 20% stake in AWL \u2014 13% off-market to Lence Pte. Ltd. and 7% by bulk deal \u2014 completing the July 2025 share purchase agreement. The shareholders' agreement was terminated, Lence (Wilmar International's wholly owned subsidiary) acquired sole control, and the Adani Group was reclassified from promoter to public.",
     "reviewed": ""
    },
    {
@@ -671,7 +669,7 @@
     "change": -6.66,
     "crossed": [],
     "verdict": "stake_change_no_control_change",
-    "what": "Exchange shareholding register shows promoter-and-group holding flat at 79.81% through 2026-06-30, then 73.15% at an interim 2026-07-09 pattern and unchanged at 2026-09-30 \u2014 a 6.66 percentage-point promoter sell-down. No filing or note identifies a buyer, agreement or open offer; promoters retain a 73.15% majority.",
+    "what": "Promoter and promoter group holding fell from 79.81% to 73.15% between 2026-06-30 and 2026-07-09, a roughly 6.66% sell-down. Promoters retain a 73.15% majority and Arora family management continues, so no new controller arrived. The documents do not describe this in-window sale.",
     "reviewed": ""
    },
    {
@@ -719,7 +717,7 @@
     "change": 6.41,
     "crossed": [],
     "verdict": "change_of_control",
-    "what": "Bain Capital affiliates BC Asia Investments XXV and XIV subscribed to a ~Rs 4,385 crore preferential issue of shares and warrants at Rs 236, and after a mandatory open offer that drew nil tenders, acquired joint control on April 21, 2026, becoming promoters alongside the Nandakumar family; the board was reconstituted.",
+    "what": "Bain Capital affiliates BC Asia Investments XXV and XIV subscribed to a \u20b94,385 crore preferential issue of shares and warrants at \u20b9236, and after RBI approvals and a nil-tender open offer, acquired control on April 21, 2026, becoming promoters jointly with the Nandakumar family; six independent directors resigned and two Bain nominees joined.",
     "reviewed": ""
    },
    {
@@ -929,7 +927,7 @@
     "change": -5.1,
     "crossed": [],
     "verdict": "stake_change_no_control_change",
-    "what": "Promoters (Santosh Kumar Yadav, Anju Devi, Manohar Lal and promoter group) gave prior intimation of intent to sell up to 10,00,000 shares for personal and financial reasons, after a Rs 350 crore QIP. Promoter-group holding fell 70.79% to 65.69%. Santosh Kumar Yadav remains Chairman & Managing Director.",
+    "what": "Promoters intimated intention to sell up to 10,00,000 equity shares for personal and financial reasons, after a QIP. Promoter-group holding fell from 70.79% to 67.22% on QIP allotment, then to 65.69%. Santosh Kumar Yadav remains Promoter, Chairman and Managing Director; no new controller.",
     "reviewed": ""
    },
    {
@@ -947,7 +945,7 @@
      "below 25%"
     ],
     "verdict": "dilution_only",
-    "what": "Shriram Finance issued fresh shares by preferential allotment to MUFG Bank, Ltd (Mitsubishi UFJ Financial Group), which took 20.02% of the enlarged capital. Promoters sold nothing; their holding fell from 25.38% to 20.3% purely by dilution. Shriram Capital Private Limited and Shriram Ownership Trust remain promoters.",
+    "what": "Shriram Finance issued fresh shares to MUFG Bank, Ltd / Mitsubishi UFJ Financial Group by preferential allotment, giving MUFG about 20.02% on 2026-04-08. Promoter-and-group holding fell from 25.38% to 20.3% purely from the new issue; promoters sold nothing and Shriram Capital Private Limited remains the promoter.",
     "reviewed": ""
    },
    {
@@ -1119,7 +1117,7 @@
      "below 50%"
     ],
     "verdict": "stake_change_no_control_change",
-    "what": "Promoter holding rose to 61.43% in December 2025 when the Company allotted shares under the NCLT-sanctioned amalgamation of Viyash Life Sciences and others, then fell to 49.24% after promoters CA Harbor Investments and CA Hull Investments sold 10.83% of capital in the open market. They still hold about 46.75%; no new controller.",
+    "what": "Promoter PE entities CA Harbor and CA Hull sold 10.83% of capital in the open market on 2026-09-01, cutting promoter-group holding from 61.31% to 49.24%. They still hold ~46.75% between them; no new controller arrived. Earlier, the Viyash amalgamation (effective 2025-12-16) raised promoter holding to 61.43% under common control.",
     "reviewed": ""
    },
    {
@@ -1191,7 +1189,7 @@
      "below 50%"
     ],
     "verdict": "stake_change_no_control_change",
-    "what": "Promoter-group entities (Samprada & Nanhamati Singh Family Trust and Jayanti Sinha) sold about 2% of the capital in block deals, taking promoter-and-group holding from 51.2% to 49.7% by 30 June 2026. Mutual funds bought. B.N. Singh continues as Executive Chairman; no new controller.",
+    "what": "Promoter-group holding fell from 51.2% to 49.7% between the March and June 2026 quarters. Bulk/block deals show the Samprada & Nanhamati Singh Family Trust selling about 0.96% and Jayanti Sinha about 1.04%. The Singh family stays in control; B.N. Singh signs as Executive Chairman in August 2026.",
     "reviewed": ""
    }
   ]
@@ -1205,7 +1203,7 @@
  "E4": {
   "companies_with_transcripts": 678,
   "seats_whose_roster_changed": 109,
-  "reported_by_skill": 78,
+  "reported_by_skill": 77,
   "not_reported": [
    {
     "symbol": "ACC",
@@ -1218,8 +1216,8 @@
     ],
     "from_call": "Nov 2025",
     "to_call": "May 2026",
-    "skill": "judge read, no change",
-    "reviewed": ""
+    "skill": "dropped: not a change: other: the change falls outside the period \u2014 Mr. Rakesh Tiwary relinquished the seat from close of business on November 21, 2025 and Mr. Rohit Soni took it with effect from November 22, 2025, both before 2025-11-26",
+    "reviewed": "Read 2026-11-26: the cement-business CFO moved on 22 November 2025 (Orient Cement filing of 21 November 2025), four days before the window opens; the filings in the window only list the successor."
    },
    {
     "symbol": "AMBUJACEM",
@@ -1232,8 +1230,8 @@
     ],
     "from_call": "Nov 2025",
     "to_call": "May 2026",
-    "skill": "dropped: not a change: other: Mr. Rohit Soni is listed as Chief Financial Officer in the revised list of Key Managerial Personnel effective February 1, 2026, but these documents state no appointment, cessation or re-designation of the Chief Financial Officer, and name no outgoing holder.",
-    "reviewed": ""
+    "skill": "dropped: not a change: other: the CFO handover was announced on November 21, 2025 and took effect November 22, 2025, both before the period beginning November 26, 2025",
+    "reviewed": "Read 2026-11-26: the cement-business CFO moved on 22 November 2025 (Orient Cement filing of 21 November 2025), four days before the window opens; the filings in the window only list the successor."
    },
    {
     "symbol": "AVALON",
@@ -1247,7 +1245,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "dropped: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
    },
    {
     "symbol": "AXISCADES",
@@ -1260,22 +1258,8 @@
     ],
     "from_call": "Jun 2026",
     "to_call": "Jun 2026",
-    "skill": "judge read, no change",
-    "reviewed": ""
-   },
-   {
-    "symbol": "DELHIVERY",
-    "seat": "CFO",
-    "before": [
-     "amit agarwal"
-    ],
-    "after": [
-     "vivek pabari"
-    ],
-    "from_call": "Nov 2025",
-    "to_call": "May 2026",
-    "skill": "dropped: before the window (2025-11-01)",
-    "reviewed": ""
+    "skill": "dropped: not a change: other: the chief-executive seat changed hands on August 22-23, 2025, before the 2025-11-26 to 2026-11-26 review period; no later chief-executive change is disclosed",
+    "reviewed": "Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
    },
    {
     "symbol": "EXIDEIND",
@@ -1290,7 +1274,7 @@
     "from_call": "Feb 2026",
     "to_call": "May 2026",
     "skill": "dropped: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "EXIDEIND",
@@ -1305,7 +1289,7 @@
     "from_call": "Feb 2026",
     "to_call": "May 2026",
     "skill": "dropped: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "FORTIS",
@@ -1321,7 +1305,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "dropped: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "FORTIS",
@@ -1335,7 +1319,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "dropped: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "IDEA",
@@ -1348,8 +1332,8 @@
     ],
     "from_call": "Sep 2025",
     "to_call": "May 2026",
-    "skill": "dropped: before the window (2025-11-01)",
-    "reviewed": ""
+    "skill": "judge read, no change",
+    "reviewed": "Read 2026-11-26: the CEO changed on 19 August 2025 (filing of 14 August 2025), before the window."
    },
    {
     "symbol": "INOXGREEN",
@@ -1363,7 +1347,7 @@
     "from_call": "Sep 2025",
     "to_call": "Jun 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the roster read \"InoxGFL Group\" as a name; the same group CFO continues."
    },
    {
     "symbol": "INOXWIND",
@@ -1377,7 +1361,7 @@
     "from_call": "Sep 2025",
     "to_call": "Jun 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the roster read \"InoxGFL Group\" as a name; the same group CFO continues."
    },
    {
     "symbol": "KIMS",
@@ -1393,7 +1377,21 @@
     "from_call": "Feb 2026",
     "to_call": "May 2026",
     "skill": "dropped: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+   },
+   {
+    "symbol": "LEMONTREE",
+    "seat": "CEO",
+    "before": [
+     "neelendra singh"
+    ],
+    "after": [
+     "saurabh shatdal"
+    ],
+    "from_call": "Nov 2025",
+    "to_call": "Jun 2026",
+    "skill": "dropped: not a change: not the chief executive",
+    "reviewed": "Read 2026-11-26: Kapil Sharma signs as Executive Director & CFO in filings of September to November 2026; the roster picked another person."
    },
    {
     "symbol": "LEMONTREE",
@@ -1406,8 +1404,8 @@
     ],
     "from_call": "Jan 2026",
     "to_call": "Jun 2026",
-    "skill": "judge read, no change",
-    "reviewed": ""
+    "skill": "dropped: not a change: same person, new title",
+    "reviewed": "Read 2026-11-26: Kapil Sharma signs as Executive Director & CFO in filings of September to November 2026; the roster picked another person."
    },
    {
     "symbol": "LODHA",
@@ -1423,7 +1421,7 @@
     "from_call": "Nov 2025",
     "to_call": "Jul 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "LOTUSDEV",
@@ -1437,7 +1435,7 @@
     "from_call": "Sep 2025",
     "to_call": "May 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: Rakesh Gupta is named CFO in press releases through October 2026; Sanjay Kumar Jain is the CEO."
    },
    {
     "symbol": "NH",
@@ -1451,7 +1449,7 @@
     "from_call": "Nov 2025",
     "to_call": "Feb 2026",
     "skill": "dropped: not a change: other: the documents only revise the remuneration of the sitting Managing Director & Group CEO for the remaining tenure of his existing appointment; no appointment to, or departure from, the seat is stated",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "PARADEEP",
@@ -1465,7 +1463,21 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "dropped: not a change: other: KMP contact-details disclosure only; the same person, Bijoy Kumar Biswal, continues as Chief Financial Officer and no appointment, resignation or re-designation of the CFO is stated",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+   },
+   {
+    "symbol": "PCBL",
+    "seat": "MD",
+    "before": [
+     "kaushik roy"
+    ],
+    "after": [
+     "nilesh koul"
+    ],
+    "from_call": "Oct 2025",
+    "to_call": "May 2026",
+    "skill": "dropped: not a change: other: the MD change itself was announced and took effect on 3rd November, 2025, before the 2025-11-26 to 2026-11-26 window; the only in-window filing (11th December, 2025 postal ballot result) is shareholder approval of that already-effective appointment, and no further CEO/MD/CFO change occurs in the period",
+    "reviewed": "Read 2026-11-26: the Managing Director changed on 3 November 2025 (filing of that date), before the window; the December 2025 filing is the shareholders' approval of it."
    },
    {
     "symbol": "PPLPHARMA",
@@ -1481,7 +1493,7 @@
     "from_call": "Oct 2025",
     "to_call": "Jul 2026",
     "skill": "dropped: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "PPLPHARMA",
@@ -1495,7 +1507,7 @@
     "from_call": "Oct 2025",
     "to_call": "Jul 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "PRAJIND",
@@ -1509,7 +1521,7 @@
     "from_call": "Mar 2026",
     "to_call": "Jun 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the CFO was made Joint Managing Director & CFO; the Managing Director continues."
    },
    {
     "symbol": "REDINGTON",
@@ -1524,7 +1536,7 @@
     "from_call": "Nov 2025",
     "to_call": "Jun 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "SBIN",
@@ -1540,7 +1552,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "dropped: not a change: not the chief executive",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: one of several Managing Directors under the Chairman."
    },
    {
     "symbol": "SONATSOFTW",
@@ -1554,7 +1566,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the earlier call's roster put the CEO / MD in the CFO seat; the CFO named in the later call is the CFO in the filings throughout."
    },
    {
     "symbol": "SUBROS",
@@ -1568,7 +1580,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
    },
    {
     "symbol": "SUNPHARMA",
@@ -1581,8 +1593,8 @@
     ],
     "from_call": "Sep 2025",
     "to_call": "May 2026",
-    "skill": "dropped: not a change: other: the seat change took effect on 01 September 2025, before the 2025-11-26 to 2026-11-26 period; the documents only report it retrospectively",
-    "reviewed": ""
+    "skill": "dropped: not a change: other: the change took effect 01 September 2025 and was announced on 31 July 2025, both before the 2025-11-26 start of the period; within 2025-11-26 to 2026-11-26 the documents show Kirti Ganorkar continuously signing as Managing Director",
+    "reviewed": "Read 2026-11-26: no filing in the window or the lead-in states a change of Managing Director; the hand-over predates the documents read. Not confirmed from a filing."
    },
    {
     "symbol": "SUPRIYA",
@@ -1596,7 +1608,7 @@
     "from_call": "Nov 2025",
     "to_call": "May 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the earlier call's roster put the CEO / MD in the CFO seat; the CFO named in the later call is the CFO in the filings throughout."
    },
    {
     "symbol": "TBOTEK",
@@ -1609,8 +1621,8 @@
     ],
     "from_call": "Sep 2025",
     "to_call": "Jun 2026",
-    "skill": "judge read, no change",
-    "reviewed": ""
+    "skill": "dropped: not a change: other: the documents name both Mr. Ankush Nijhawan and Mr. Gaurav Bhatnagar as Joint Managing Directors of the Company and state no appointment, re-designation or cessation in that seat during the period",
+    "reviewed": "Read 2026-11-26: two joint Managing Directors, both continuing; the calls list one or the other."
    },
    {
     "symbol": "TEGA",
@@ -1624,8 +1636,8 @@
     ],
     "from_call": "Sep 2025",
     "to_call": "Jun 2026",
-    "skill": "judge read, no change",
-    "reviewed": ""
+    "skill": "dropped: not a change: re-appointment | same person, new title \u2014 Mr. Mehul Mohanka is named as Managing Director & Group CEO throughout, including in the KMP list effective August 06, 2026; no change in the chief executive seat is stated in these documents",
+    "reviewed": "Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
    },
    {
     "symbol": "TRIVENI",
@@ -1640,7 +1652,7 @@
     "from_call": "Nov 2025",
     "to_call": "Jun 2026",
     "skill": "dropped: not a change: other: Mr. Tarun Sawhney ceased only to be a Key Managerial Personnel of Triveni Engineering & Industries Ltd. for compliance with Section 203 of the Companies Act, 2013, and continues to hold the same chief-executive seat of the Company; his remuneration was also revised in the seat he already holds",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
    },
    {
     "symbol": "UCOBANK",
@@ -1654,42 +1666,10 @@
     "from_call": "Jan 2026",
     "to_call": "May 2026",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
    }
   ],
-  "unreviewed": [
-   "ACC",
-   "AMBUJACEM",
-   "AVALON",
-   "AXISCADES",
-   "DELHIVERY",
-   "EXIDEIND",
-   "EXIDEIND",
-   "FORTIS",
-   "FORTIS",
-   "IDEA",
-   "INOXGREEN",
-   "INOXWIND",
-   "KIMS",
-   "LEMONTREE",
-   "LODHA",
-   "LOTUSDEV",
-   "NH",
-   "PARADEEP",
-   "PPLPHARMA",
-   "PPLPHARMA",
-   "PRAJIND",
-   "REDINGTON",
-   "SBIN",
-   "SONATSOFTW",
-   "SUBROS",
-   "SUNPHARMA",
-   "SUPRIYA",
-   "TBOTEK",
-   "TEGA",
-   "TRIVENI",
-   "UCOBANK"
-  ]
+  "unreviewed": []
  },
  "E5": {
   "company_seats_named_in_headlines": 261,
@@ -1702,7 +1682,7 @@
     "date": "2026-03-24",
     "attachment": "https://nsearchives.nseindia.com/corporate/ABFRL_24032026131435_ABFRL_SE_Change_in_Management.pdf",
     "skill": "CEO: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    },
    {
     "symbol": "AFFLE",
@@ -1711,7 +1691,7 @@
     "date": "2026-01-02",
     "attachment": "https://nsearchives.nseindia.com/corporate/AFFLE_02012026110310_Appointment_as_senior_management_Sameer_Sondhi.pdf",
     "skill": "CEO: not a change: division or subsidiary seat \u2014 a regional CEO (North America) designated as Senior Management Personnel, not the company's chief executive; Anuj Khanna Sohum remains Chairperson, MD & CEO",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    },
    {
     "symbol": "APARINDS",
@@ -1720,7 +1700,7 @@
     "date": "2025-12-15",
     "attachment": "https://nsearchives.nseindia.com/corporate/APARINDS_15122025125716_FinalIntimationwithresignationletter.pdf",
     "skill": "CEO: not a change: division or subsidiary seat; MD & CEO: not a change: not this company",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the filing text reads Chief Executive Officer of the Cable Solutions business; the exchange headline drops the division."
    },
    {
     "symbol": "ASHAPURMIN",
@@ -1729,7 +1709,7 @@
     "date": "2026-02-05",
     "attachment": "https://nsearchives.nseindia.com/corporate/ASHAPURMIN_05022026203138_Outcome05022026.pdf",
     "skill": "CEO: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "BAJAJELEC",
@@ -1737,8 +1717,8 @@
     "headline": "Bajaj Electricals Limited has informed the Exchange regarding Appointment of Mr. Sanjay Sachdeva as Managing Director & CEO of the company w.e.f. April 01, 2027.",
     "date": "2026-10-28",
     "attachment": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026145908_SEIntimationOutcome.pdf",
-    "skill": "Executive Chairman: not a change: not the chief executive; MD & CEO: not a change: re-appointment",
-    "reviewed": ""
+    "skill": "Executive Chairman: not a change: not the chief executive \u2014 a non-executive Board chair; the documents state the Managing Director will lead and run the Company while the Non-Executive Chairman will lead the Board; Executive Chairman: not a change: not the chi",
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "BERGEPAINT",
@@ -1747,7 +1727,7 @@
     "date": "2026-08-12",
     "attachment": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_12082026201424_Re-appointmentofMrRoy.pdf",
     "skill": "MD & CEO: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "BLS",
@@ -1756,7 +1736,7 @@
     "date": "2026-08-07",
     "attachment": "https://nsearchives.nseindia.com/corporate/BLS_07082026195810_Final_Outcome_07082026_signed.pdf",
     "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "CAMS",
@@ -1765,7 +1745,7 @@
     "date": "2026-02-25",
     "attachment": "https://nsearchives.nseindia.com/corporate/Jaiganesh_25022026164318_CAMS_Press_Release.pdf",
     "skill": "CEO: not a change: division or subsidiary seat; CEO: not a change: not this company; MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: a press release about MF Central, a joint venture \u2014 not the company's own seat."
    },
    {
     "symbol": "CRISIL",
@@ -1774,7 +1754,7 @@
     "date": "2026-02-13",
     "attachment": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026184248_SignedBSENSE_V1.pdf",
     "skill": "MD & CEO: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "EICHERMOT",
@@ -1783,7 +1763,7 @@
     "date": "2026-03-10",
     "attachment": "https://nsearchives.nseindia.com/corporate/rahulrathore_royalenfield_com_10032026181624_EML_VECV_Intimation_Final_Signed.pdf",
     "skill": "Executive Chairman: not a change: not the chief executive; MD & CEO: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is at VE Commercial Vehicles, a joint venture."
    },
    {
     "symbol": "FORTIS",
@@ -1792,7 +1772,7 @@
     "date": "2026-07-08",
     "attachment": "https://nsearchives.nseindia.com/corporate/FORTIS_08072026144456_OUTCOMEOFBM.pdf",
     "skill": "MD & CEO: not a change: division or subsidiary seat; MD & CEO: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "GRASIM",
@@ -1800,8 +1780,8 @@
     "headline": "Appointment of Mr. Sachin Sahay as Chief Executive Officer of Birla Opus Paints, and as Senior Management Personnel of the Company",
     "date": "2026-01-16",
     "attachment": "https://nsearchives.nseindia.com/corporate/GRASIM_16012026112645_SEIntimation_ChangeinSMP_16012026.pdf",
-    "skill": "CEO: not a change: division or subsidiary seat; MD: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "skill": "CEO: not a change: division or subsidiary seat; MD: not a change: not this company; MD: not a change: other: the Company's Managing Director Himanshu Kapania only took interim direct oversight of the Paints division; he remains in his own seat, which did not c",
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    },
    {
     "symbol": "HDFCLIFE",
@@ -1810,7 +1790,7 @@
     "date": "2026-04-21",
     "attachment": "https://nsearchives.nseindia.com/corporate/PRASAD_21042026195755_BMoutcome.pdf",
     "skill": "MD & CEO: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "JUBLPHARMA",
@@ -1818,8 +1798,8 @@
     "headline": "Jubilant Pharmova Limited has informed the Exchange regarding Appointment of Mr. Priyavrat Bhartia as Managing Director of the company w.e.f. Jun 01, 2026.",
     "date": "2026-05-22",
     "attachment": "https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145717_MDJMDSIGNED.pdf",
-    "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "skill": "MD: not a change: deputy or joint seat; MD: not a change: re-appointment",
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "KFINTECH",
@@ -1828,7 +1808,7 @@
     "date": "2026-02-25",
     "attachment": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_25022026160728_Intimation.pdf",
     "skill": "CEO: not a change: not this company \u2014 the seat is at MFC Technologies Private Limited, the CAMS-KFintech joint venture, not at KFin Technologies Limited; MD & CEO: not a change: other: only a revision in remuneration of the incumbent \u2014 the same person continue",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: a press release about MF Central, a joint venture \u2014 not the company's own seat."
    },
    {
     "symbol": "LATENTVIEW",
@@ -1836,8 +1816,8 @@
     "headline": "With reference to the announcement made on November 05, 2025, regarding the resignation of Mr. Rajan Bala Venkatesan, Chief Financial Officer, we wish to inform you that, following discussions with th",
     "date": "2026-01-14",
     "attachment": "https://nsearchives.nseindia.com/corporate/LATENTVIEW_14012026120322_SEintimationwithdrawalSigned.pdf",
-    "skill": "CFO: not a change: other: the resignation announced on November 05, 2025 was withdrawn on January 14, 2026 without a break in service, and the same person continues as CFO",
-    "reviewed": ""
+    "skill": "CFO: not a change: other: the resignation announced on November 05, 2025 (relieving date of February 13, 2026) was withdrawn on January 14, 2026 and the same person continues as CFO",
+    "reviewed": "Read 2026-11-26: the CFO withdrew his resignation and continues; no change."
    },
    {
     "symbol": "LICI",
@@ -1845,8 +1825,8 @@
     "headline": "Life Insurance Corporation of India has informed the Exchange regarding Appointment of Mr Ramakrishnan Chander as Managing Director of the Corporation w.e.f. December 01, 2025.",
     "date": "2025-12-01",
     "attachment": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_01122025214032_Intimation_MDRC_01122025.pdf",
-    "skill": "MD & CEO: not a change: division or subsidiary seat; MD: not a change: not the chief executive",
-    "reviewed": ""
+    "skill": "MD: not a change: not the chief executive",
+    "reviewed": "Read 2026-11-26: one of several Managing Directors serving under the chief executive (LIC's CEO & MD, SBI's Chairman)."
    },
    {
     "symbol": "LTTS",
@@ -1855,7 +1835,7 @@
     "date": "2026-04-22",
     "attachment": "https://nsearchives.nseindia.com/corporate/LTTS_22042026195759_LTTSBMOutcome22042026.pdf",
     "skill": "CFO: not a change: same person, new title",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the CFO was made Executive Director & CFO; he already held the CFO seat."
    },
    {
     "symbol": "MANYAVAR",
@@ -1864,7 +1844,7 @@
     "date": "2026-07-25",
     "attachment": "https://nsearchives.nseindia.com/corporate/MANYAVAR_25072026190133_OutcomeofBM25072026FinalSigned.pdf",
     "skill": "CMD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "OSWALPUMPS",
@@ -1873,7 +1853,7 @@
     "date": "2026-08-08",
     "attachment": "https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026194624_SELetterReAppVGAppCFOOPL08082026.pdf",
     "skill": "CMD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "PARADEEP",
@@ -1882,7 +1862,7 @@
     "date": "2026-02-02",
     "attachment": "https://nsearchives.nseindia.com/corporate/PPLTD_02022026190907_Outcome02022026.pdf",
     "skill": "CFO: not a change: other: KMP contact-details disclosure only; the same person, Bijoy Kumar Biswal, continues as Chief Financial Officer and no appointment, resignation or re-designation of the CFO is stated; MD: not a change: deputy or joint seat; MD: not a c",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "PRICOLLTD",
@@ -1891,7 +1871,7 @@
     "date": "2026-05-14",
     "attachment": "https://nsearchives.nseindia.com/corporate/PRICOLLTD_14052026201017_sedisclosure.pdf",
     "skill": "CMD: not a change: same person, new title; Executive Chairman: not a change: not the chief executive",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the Managing Director became Chairman & Managing Director; he already held the MD seat."
    },
    {
     "symbol": "PRSMJOHNSN",
@@ -1900,7 +1880,7 @@
     "date": "2026-03-02",
     "attachment": "https://nsearchives.nseindia.com/corporate/PRSMJOHNSN_02032026082607_SEIntimationApptOfSanjayRoy.pdf",
     "skill": "CEO: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    },
    {
     "symbol": "PURVA",
@@ -1908,8 +1888,8 @@
     "headline": "Puravankara Limited has informed the Exchange regarding Appointment of Mr Ashish Ravi Puravankara as Managing Director of the company w.e.f. April 01, 2026.",
     "date": "2026-02-12",
     "attachment": "https://nsearchives.nseindia.com/corporate/PURVA_12022026183646_SEINTIMATIONsd.pdf",
-    "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "skill": "CFO: not a change: other: a real change of the finance seat, but it fell outside the window \u2014 Mr. Deepak Rastogi's last day was September 23, 2025 and Mr. Niraj Kumar Gautam took the seat with effect from September 24, 2025, both before 2025-11-26, and it was ",
+    "reviewed": "Read 2026-11-26: two headlines: (1) re-appointment of the same Managing Director; (2) the headline says Chief Financial Officer but the filing text appoints Mr. Amit Narain Ahuja as Chief Risk Officer \u2014 the exchange headline is wrong."
    },
    {
     "symbol": "PURVA",
@@ -1917,8 +1897,8 @@
     "headline": "Puravankara Limited has informed the Exchange regarding Outcome of Board Meeting held on May 18, 2026 for appointment of Mr. Amit Narain Ahuja as the Chief Financial Officer designated as Senior Manag",
     "date": "2026-05-18",
     "attachment": "https://nsearchives.nseindia.com/corporate/PURVA_18052026204512_SEintimation.pdf",
-    "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "skill": "CFO: not a change: other: a real change of the finance seat, but it fell outside the window \u2014 Mr. Deepak Rastogi's last day was September 23, 2025 and Mr. Niraj Kumar Gautam took the seat with effect from September 24, 2025, both before 2025-11-26, and it was ",
+    "reviewed": "Read 2026-11-26: two headlines: (1) re-appointment of the same Managing Director; (2) the headline says Chief Financial Officer but the filing text appoints Mr. Amit Narain Ahuja as Chief Risk Officer \u2014 the exchange headline is wrong."
    },
    {
     "symbol": "RATEGAIN",
@@ -1927,7 +1907,7 @@
     "date": "2026-07-31",
     "attachment": "https://nsearchives.nseindia.com/corporate/RATEGAIN_31072026112239_RG_Outcome_Reappointment.pdf",
     "skill": "judge read, no change",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "RAYMOND",
@@ -1936,7 +1916,7 @@
     "date": "2026-07-06",
     "attachment": "https://nsearchives.nseindia.in/corporate/RAYMOND_06072026113315_RLSEintimationPRsigned.pdf",
     "skill": "CEO: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    },
    {
     "symbol": "RCF",
@@ -1945,7 +1925,7 @@
     "date": "2026-11-12",
     "attachment": "https://nsearchives.nseindia.in/corporate/RCF_12112026161158_OutcomeDirectorfinance.pdf",
     "skill": "CFO: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the Director (Finance) & CFO continues in the seat; a formal re-appointment."
    },
    {
     "symbol": "RKFORGE",
@@ -1954,7 +1934,7 @@
     "date": "2026-05-01",
     "attachment": "https://nsearchives.nseindia.com/corporate/RKFORGE_01052026175232_BMOutcom1May26.pdf",
     "skill": "MD: not a change: deputy or joint seat; MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "SAFARI",
@@ -1963,7 +1943,7 @@
     "date": "2026-02-10",
     "attachment": "https://nsearchives.nseindia.com/corporate/SAFARI_10022026143542_BMOUTCOMEOTHERMATTERS.pdf",
     "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "SANOFI",
@@ -1971,8 +1951,8 @@
     "headline": "Sanofi India Limited has informed the Exchange regarding 'Intimation Regarding Receipt Of Central Government Approval For Appointment Of The Managing Director Of The Company'.",
     "date": "2026-04-02",
     "attachment": "https://nsearchives.nseindia.in/corporate/COSECSANOFI_02042026195933_Intimation_-Approval_Signed.pdf",
-    "skill": "MD: not a change: other: Mr. Deepak Arora's appointment as Managing Director took effect 27th October 2025, before the review period began; the 2nd April 2026 filing only intimates receipt of Central Government approval for that same appointment, and the inter",
-    "reviewed": ""
+    "skill": "MD: not a change: other: the chief-executive change took effect 27th October 2025, before the period began on 2025-11-26; the filing dated 2nd April 2026 only conveys receipt of Central Government approval for that same earlier appointment",
+    "reviewed": "Read 2026-11-26: the filing only reports government approval for an appointment that took effect before the window."
    },
    {
     "symbol": "SBIN",
@@ -1981,7 +1961,7 @@
     "date": "2026-01-28",
     "attachment": "https://nsearchives.nseindia.com/corporate/SBIN_28012026113842_BSE_NSE_AKT_28012026.pdf",
     "skill": "CFO: not a change: deputy or joint seat; MD & CEO: not a change: division or subsidiary seat; MD: not a change: not the chief executive; MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: one of several Managing Directors serving under the chief executive (LIC's CEO & MD, SBI's Chairman)."
    },
    {
     "symbol": "SOBHA",
@@ -1990,7 +1970,7 @@
     "date": "2026-05-04",
     "attachment": "https://nsearchives.nseindia.com/corporate/SOBHA_04052026175724_SOBHA_Outcome_of_BM_Q4_FY2026.pdf",
     "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "STLTECH",
@@ -1999,7 +1979,7 @@
     "date": "2026-04-29",
     "attachment": "https://nsearchives.nseindia.com/corporate/STLTECH_29042026140807_SEintimationAppointmentsigned.pdf",
     "skill": "MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "UNOMINDA",
@@ -2008,7 +1988,7 @@
     "date": "2026-04-19",
     "attachment": "https://nsearchives.nseindia.com/corporate/MINDAIND1_19042026150053_Outcome_SMP_App_VivekJoshi.pdf",
     "skill": "CEO: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    },
    {
     "symbol": "V2RETAIL",
@@ -2017,7 +1997,7 @@
     "date": "2026-05-28",
     "attachment": "https://nsearchives.nseindia.com/corporate/V2RETAIL_28052026190338_Covering_MD_Appointment.pdf",
     "skill": "CMD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "VGUARD",
@@ -2026,7 +2006,7 @@
     "date": "2026-07-29",
     "attachment": "https://nsearchives.nseindia.com/corporate/VGUARD4321_29072026133228_OutcomeIntimation.pdf",
     "skill": "Executive Chairman: not a change: not the chief executive; Executive Chairman: not a change: same person, new title; MD: not a change: re-appointment",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says \"Appointment\"."
    },
    {
     "symbol": "WELENT",
@@ -2034,8 +2014,8 @@
     "headline": "Welspun Enterprises Limited has informed the Exchange regarding Appointment of Mr Sandeep Garg as Managing Director of the company w.e.f. Jun 01, 2026.",
     "date": "2026-05-14",
     "attachment": "https://nsearchives.nseindia.com/corporate/WELENT_14052026204256_Upload.pdf",
-    "skill": "CEO: not a change: division or subsidiary seat; CFO: not a change: division or subsidiary seat; MD: not a change: division or subsidiary seat; MD: not a change: same person, new title",
-    "reviewed": ""
+    "skill": "CEO: not a change: other: the Company CEO (KMP) seat was vacated by Mr. Chaudhary's move to the divisional role of CEO - Transportation Vertical (SMP), but this was announced and made effective on November 11, 2025, before the 2025-11-26 to 2026-11-26 period; ",
+    "reviewed": "Read 2026-11-26: the same Managing Director given an added interim role; the other seats named are divisions."
    },
    {
     "symbol": "WIPRO",
@@ -2044,54 +2024,14 @@
     "date": "2026-04-01",
     "attachment": "https://nsearchives.nseindia.com/corporate/Wipro_Secretarial_01042026174222_Reg30SEIntimation.pdf",
     "skill": "CEO: not a change: division or subsidiary seat",
-    "reviewed": ""
+    "reviewed": "Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
    }
   ],
-  "unreviewed": [
-   "ABFRL",
-   "AFFLE",
-   "APARINDS",
-   "ASHAPURMIN",
-   "BAJAJELEC",
-   "BERGEPAINT",
-   "BLS",
-   "CAMS",
-   "CRISIL",
-   "EICHERMOT",
-   "FORTIS",
-   "GRASIM",
-   "HDFCLIFE",
-   "JUBLPHARMA",
-   "KFINTECH",
-   "LATENTVIEW",
-   "LICI",
-   "LTTS",
-   "MANYAVAR",
-   "OSWALPUMPS",
-   "PARADEEP",
-   "PRICOLLTD",
-   "PRSMJOHNSN",
-   "PURVA",
-   "PURVA",
-   "RATEGAIN",
-   "RAYMOND",
-   "RCF",
-   "RKFORGE",
-   "SAFARI",
-   "SANOFI",
-   "SBIN",
-   "SOBHA",
-   "STLTECH",
-   "UNOMINDA",
-   "V2RETAIL",
-   "VGUARD",
-   "WELENT",
-   "WIPRO"
-  ]
+  "unreviewed": []
  },
  "E6": {
-  "management_filings_without_text": 30,
-  "companies": 27,
+  "management_filings_without_text": 27,
+  "companies": 26,
   "with_a_seat_in_the_headline": 1,
   "rows": [
    {
@@ -2101,14 +2041,6 @@
     "headline": "Aptus Value Housing Finance India Limited has informed the Exchange about Intimation of Receipt of Approval for Reclassification of Promoter and Promoter Group",
     "read_status": "failed:http404",
     "attachment": "https://nsearchives.nseindia.com/corporate/APTUS_06122025111210_AVH_SE_Intimation_Approval_sd.pdf"
-   },
-   {
-    "date": "2025-12-06",
-    "symbol": "BIOCON",
-    "category": "Outcome of Board Meeting",
-    "headline": "Biocon Limited has informed the Exchange regarding Outcome of Board Meeting held on December 06, 2025.",
-    "read_status": "failed:http404",
-    "attachment": "https://nsearchives.nseindia.com/corporate/BIOCON_06122025101327_BM_Outcome06122025.pdf"
    },
    {
     "date": "2025-12-06",
@@ -2256,14 +2188,6 @@
    },
    {
     "date": "2026-10-15",
-    "symbol": "MEESHO",
-    "category": "Resignation of Director/KMP/SMP",
-    "headline": "Meesho Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-    "read_status": "failed:http200",
-    "attachment": "https://nsearchives.nseindia.com/corporate/MEESHO_ROID_100538_KMP_Doc.zip"
-   },
-   {
-    "date": "2026-10-15",
     "symbol": "WIPRO",
     "category": "Outcome of Board Meeting",
     "headline": "Wipro Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
@@ -2293,14 +2217,6 @@
     "headline": "Adani Green Energy Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
     "read_status": "no-text:pdf",
     "attachment": "https://nsearchives.nseindia.com/corporate/ADANIGREEN_21102026142038_OutcomeBM21102026.pdf"
-   },
-   {
-    "date": "2026-10-21",
-    "symbol": "GMDCLTD",
-    "category": "Press Release",
-    "headline": "Gujarat Mineral Development Corporation Limited has informed the Exchange regarding a press release dated October 21, 2026, titled \"GMDC Presents &#8377;223.55 Crore Dividend to Government of Gujarat\".",
-    "read_status": "failed:http200",
-    "attachment": "https://nsearchives.nseindia.com/corporate/GMDCLTD_21102026191542_press_release_merged.pdf"
    },
    {
     "date": "2026-10-22",
@@ -2355,11 +2271,11 @@
   "wrong": []
  },
  "E8": {
-  "seat_changes": 396,
-  "seat_verified": 391,
-  "ownership": 112,
-  "ownership_verified": 109,
-  "verified_pct": 98.4,
+  "seat_changes": 392,
+  "seat_verified": 387,
+  "ownership": 114,
+  "ownership_verified": 112,
+  "verified_pct": 98.6,
   "unverified": [
    {
     "symbol": "IGL",
@@ -2372,14 +2288,14 @@
     "quote": "This is inform that Shri Kumar Shanker (DIN: 09533240) has been nominated by Promoter Company i.e. GAIL (India) Limited (GAIL) as Managing Director of Indrapras"
    },
    {
-    "symbol": "KOTAKBANK",
-    "seat": "MD & CEO",
+    "symbol": "LICI",
+    "seat": "CFO",
     "checks": {
      "names_in_documents": true,
      "quote_in_documents": true,
      "quote_states_a_change": false
     },
-    "quote": "We wish to inform you that Mr. Ashok Vaswani, Managing Director & CEO of the Bank, has informed the Board of the Bank that, for personal reasons, he does not wi"
+    "quote": "Ms. Sonija M. S., Chief (I/C), Finance & Accounts as Chief Financial Officer of the Corporation w.e.f. November 26, 2026."
    },
    {
     "symbol": "NMDC",
@@ -2410,15 +2326,6 @@
      "quote_states_a_change": false
     },
     "quote": "The Board of Directors, on recommendation of Nomination and Remuneration Committee of the Company, on July 30, 2026, have considered and approved the re-appoint"
-   },
-   {
-    "symbol": "BLUEJET",
-    "seat": "ownership",
-    "checks": {
-     "names_in_record": false,
-     "quote_in_documents": null
-    },
-    "quote": ""
    },
    {
     "symbol": "JPPOWER",

@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | — (new seat) | Vivek Singhal (external; from 2026-11-05) | effective | 2026-11-05 |
+| **Chief Executive Officer and Key Managerial Person of the Company** | — (new seat) | Vivek Singhal (external; from 2026-11-05) | effective | 2026-11-05 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Hindustan Construction Company Limited (HCC) today announced the appointment of Vivek Singhal as Chief Executive Officer, effective November 5, 2026.” — [2026-11-05 Press Release](https://nsearchives.nseindia.com/corporate/HCC_05112026162853_Press_Release__Digitally_Signed_.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/HCC_05112026172559_Appoint_CEO.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-11-05 Press Release](https://nsearchives.nseindia.com/corporate/HCC_05112026162853_Press_Release__Digitally_Signed_.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/HCC_05112026172559_Appoint_CEO.pdf)
+*All 3 filing(s) read for the seats:* [2026-11-05 Press Release](https://nsearchives.nseindia.com/corporate/HCC_05112026162853_Press_Release__Digitally_Signed_.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/HCC_05112026172559_Appoint_CEO.pdf) · [2025-08-12 Change in Management](https://nsearchives.nseindia.in/corporate/HCC_12082025163951_Appointment_of_MD.pdf)
 
 ### 2. Financials — the last three years
 
@@ -45,17 +45,17 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Vivek Singhal** — Chief Executive Officer. from: external; experience: over 38 years of experience; qualifications: Singhal holds a Bachelor's Degree in Civil Engineering from Motilal Nehru National Institute of Technology, Allahabad, and has completed the Advanced Management Programme at IIM Bangalore. He is a Fellow of the Institution of Civil Engineers, UK..
+**Vivek Singhal** — Chief Executive Officer and Key Managerial Person of the Company. from: external; experience: over 38 years of experience in leadership, project execution, business development and P&L management; qualifications: Singhal holds a Bachelor's Degree in Civil Engineering from Motilal Nehru National Institute of Technology, Allahabad, and has completed the Advanced Management Programme at liM Bangalore. He is a Fellow of the Institution of Civil Engineers, UK..
 
 The filing's own profile: “Mr. Singhal is an EPC and infrastructure professional with over 38 years of experience in leadership, project execution, business development and P&L management. He has 16 years of international experience and has delivered projects and managed assets worth over US$3 billion across five countries. His experience spans airports, metro rail, urban transport, hydropower, bridges and other infrastructure projects. Mr. Singhal joins HCC from GMR Airports Ltd., Singapore, where he was working as CEO. He was responsible for global strategy, P&L management, business development and airport asset development across international markets.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Executive Officer | GMR Airports Ltd., Singapore | — | — |
-| led the Urban Infrastructure business | Tata Projects Ltd. | — | — |
-| senior leadership positions | GMR Group, Maldives | — | — |
-| led major underground metro projects in Singapore | Alpine Bau GmbH, Singapore | — | — |
-| senior leadership positions | Larsen & Toubro (LT) | — | — |
+| senior leadership position; led the Urban Infrastructure business | Tata Projects Ltd. | — | — |
+| senior leadership position | GMR Group, Maldives | — | — |
+| senior leadership position; led major underground metro projects in Singapore | Alpine Bau GmbH, Singapore | — | — |
+| senior leadership position | Larsen & Toubro (LT) | — | — |
 
 ### 5. On the calls
 

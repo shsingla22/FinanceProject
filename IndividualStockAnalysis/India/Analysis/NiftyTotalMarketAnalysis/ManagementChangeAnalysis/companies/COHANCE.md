@@ -9,14 +9,14 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Executive Chairman and Group Chief Executive Officer** | Vivek Sharma (resignation; last day 2026-04-30) | Umang Vohra (external; from 2026-05-01) | effective | 2026-04-27 |
-| **Whole-time Director and Chief Financial Officer / Chief Financial Officer and Key Managerial Personnel** | Himanshu Agarwal (resignation; last day 2026-09-13) | Abhimanyu Ojha (external; from 2026-10-12) | effective | 2026-06-17 |
+| **Whole-time Director and Chief Financial Officer / Chief Financial Officer** | Himanshu Agarwal (resignation; last day 2026-09-13) | Abhimanyu Ojha (external; from 2026-10-12) | effective | 2026-06-17 |
 
-- **Why Vivek Sharma is leaving, in the filing's words:** “Mr. Vohra succeeds Mr. Vivek Sharma, who steps down as Executive Chairman for personal reasons.” Stays on as: Special Advisor to the Company to help transition the business effectively and drive continuity over the next 9 (nine) months.
-- In the documents: “Cohance Lifesciences Limited ( BSE: 543064 | NSE: COHANCE ), a technology-driven, integrated CDMO platform specializing in complex chemistry, ADC s, oligonucleotides, advanced API development and performance materials , today announced the appointment of Umang Vohra as Executive Chairman, effective May 1, 2026 and Group CEO, effective May 20, 2026.” — [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · [2026-06-17 Resignation](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_17062026223122_Cohance_Disclosure_17Jun26_.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_27042026085659_Cohance_BM_Outcome_27042026_.pdf) · +1 more
+- **Why Vivek Sharma is leaving, in the filing's words:** “who steps down as Executive Chairman for personal reasons” Stays on as: Special Advisor to the Company, to help transition the business effectively and drive continuity over the next 9 (nine) months.
+- In the documents: “Cohance Lifesciences Limited ( BSE: 543064 | NSE: COHANCE ), a technology-driven, integrated CDMO platform specializing in complex chemistry, ADCs, oligonucleotides, advanced API development and performance materials, today announced the appointment of Umang Vohra as Executive Chairman, effective May 1, 2026 and Group CEO, effective May 20, 2026.” — [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · [2026-06-17 Resignation](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_17062026223122_Cohance_Disclosure_17Jun26_.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_27042026085659_Cohance_BM_Outcome_27042026_.pdf) · +1 more
 - **Why Himanshu Agarwal is leaving, in the filing's words:** “To pursue professional opportunity outside the organisation”
-- In the documents: “Appointment of Mr. Abhimanyu Ojha as Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. 12 October 2026.” — [2026-10-09 Appointment](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_09102026201959_Cohance_Outcome_BM_09102026.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · [2026-06-17 Resignation](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_17062026223122_Cohance_Disclosure_17Jun26_.pdf)
+- In the documents: “Appointment of Mr. Abhimanyu Ojha as Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. 12 October 2026.” — [2026-10-09 Appointment](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_09102026201959_Cohance_Outcome_BM_09102026.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · [2026-06-17 Resignation](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_17062026223122_Cohance_Disclosure_17Jun26_.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-10-12 General Updates](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_12102026194926_SE_disclosure_CG_Approval_Umang_Vohra.pdf) · [2026-10-09 Appointment](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_09102026201959_Cohance_Outcome_BM_09102026.pdf) · [2026-09-03 Committee Meeting Updates](https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_03092026195023_Cohance_Disclosure_Reg_30_3Sep2026_.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · [2026-06-17 Resignation](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_17062026223122_Cohance_Disclosure_17Jun26_.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_27042026085659_Cohance_BM_Outcome_27042026_.pdf) · +1 more
+*All 9 filing(s) read for the seats:* [2026-10-12 General Updates](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_12102026194926_SE_disclosure_CG_Approval_Umang_Vohra.pdf) · [2026-10-09 Appointment](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_09102026201959_Cohance_Outcome_BM_09102026.pdf) · [2026-09-03 Committee Meeting Updates](https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_03092026195023_Cohance_Disclosure_Reg_30_3Sep2026_.pdf) · [2026-06-18 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/COHANCE_ROID_90086_KMP_Doc.zip) · [2026-06-17 Resignation](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_17062026223122_Cohance_Disclosure_17Jun26_.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_27042026085659_Cohance_BM_Outcome_27042026_.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 14.6 | 3.8 | -10.8 pts |
 | Borrowings (₹ cr) | 65.0 | 400 | +335 |
 
-**Himanshu Agarwal** — Whole-time Director and Chief Financial Officer / Chief Financial Officer and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
+**Himanshu Agarwal** — Whole-time Director and Chief Financial Officer / Chief Financial Officer, in the seat since FY2024 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -74,7 +74,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Umang Vohra** — Executive Chairman and Group Chief Executive Officer. from: external; experience: more than three decades.
+**Umang Vohra** — Executive Chairman and Group Chief Executive Officer. from: external; experience: a career spanning more than three decades.
 
 The filing's own profile: “Mr. Vohra is one of the most accomplished leaders in the pharmaceutical industry. Over a career spanning more than three decades, he has led large, complex, global businesses through periods of strategic transformation while maintaining an unwavering focus on customers, quality and operational excellence. Most recently, as CEO and Managing Director of Cipla Limited, Mr. Vohra led the company's transformation over the last decade to build a diversified global pharmaceutical enterprise. Having worked in and transformed two very large and respected Pharma companies in India, Mr. Vohra brings an owner-mindset and vast experience in business to the Cohance platform.”
 
@@ -94,16 +94,16 @@ Results of **Cipla Ltd.** while they were Managing Director there (annual report
 | ROE (%) | 13.0 | 16.9 | +3.9 pts |
 | Borrowings (₹ cr) | 2,014 | 438 | -1,576 |
 
-**Abhimanyu Ojha** — Whole-time Director and Chief Financial Officer / Chief Financial Officer and Key Managerial Personnel. from: external; experience: over two decades.
+**Abhimanyu Ojha** — Whole-time Director and Chief Financial Officer / Chief Financial Officer. from: external; experience: over two decades of experience leading finance functions.
 
 The filing's own profile: “Mr. Abhimanyu Ojha has over two decades of experience leading finance functions across multinational healthcare and pharmaceutical companies. Prior to joining Cohance, he served as Global CFO & President Finance at Intas Pharmaceuticals, where he led global finance teams spanning business operations, manufacturing, R&D, accounting, treasury, audit, taxation, corporate finance, and FP&A. Earlier, he held several senior leadership positions at Viatris (formerly Mylan), Sun Pharmaceuticals and Ranbaxy Laboratories, partnering closely with business and functional leaders across diverse geographies.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Global CFO & President Finance | Intas Pharmaceuticals | — | — |
-| senior leadership positions | Viatris (formerly Mylan) | — | — |
-| senior leadership positions | Sun Pharmaceuticals | — | — |
-| senior leadership positions | Ranbaxy Laboratories | — | — |
+| several senior leadership positions | Viatris (formerly Mylan) | — | — |
+| several senior leadership positions | Sun Pharmaceuticals | — | — |
+| several senior leadership positions | Ranbaxy Laboratories | — | — |
 
 ### 5. On the calls
 

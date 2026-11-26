@@ -23,10 +23,10 @@
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) - Designate** | Shashidhar SK (retirement; last day 2026-12-31) | Uttam Kumar Bhageria (from 2027-01-01) | announced, not yet effective | 2026-10-16 |
 
-- **Why Shashidhar SK is leaving, in the filing's words:** “shall attain superannuation on December 31, 2026 and demit office as a KMP”
-- In the documents: “Upon his superannuation, Mr. Uttam Kumar Bhageria shall assume the office of Chief Financial Officer and Key Managerial Personnel (KMP) of the Company, effective January 01, 2027 .” — [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
+- **Why Shashidhar SK is leaving, in the filing's words:** “Mr. Shashidhar SK , who  is currently serving as the  Group Chief Financial Officer  (KMP) of the Company, shall attain superannuation  on December 31, 2026  and demit office as a KMP .”
+- In the documents: “Pursuant to provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("Listing Regulations") read with Schedule III thereto , we wish to inform that , based on the recommendation s of Nomination and Remuneration Committee and Audit Committee , the Board of Directors in its meeting held today i.e., October 16, 2026 , have approved the appointment of Mr. Uttam Kumar Bhageria as the Chief Financial Officer (CFO) - Designate with effect from October 21, 2026.” — [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
 
-*All 1 filing(s) read for the seats:* [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf)
+*All 6 filing(s) read for the seats:* [2026-10-16 Appointment](https://nsearchives.nseindia.com/corporate/AXISCADES_16102026182808_OutcomeBM_16102026.pdf) · [2025-09-02 Shareholders meeting](https://nsearchives.nseindia.in/corporate/AXISCADES_02092025195149_Axiscades35AGMnotice.pdf) · [2025-08-22 Change in Management](https://nsearchives.nseindia.in/corporate/AXISCADES_22082025231805_ChangeinBoard22082025.pdf) · [2025-08-22 Resignation](https://nsearchives.nseindia.in/corporate/AXISCADES_22082025232430_ChangeinBoard22082025.pdf) · [2025-08-22 Press Release](https://nsearchives.nseindia.in/corporate/AXISCADES_22082025232836_PressRelease22082025.pdf) · [2025-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/AXISCADES_07082025201659_OutcomeofBM07082025.pdf)
 
 ### 2. Financials — the last three years
 
@@ -74,7 +74,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Uttam Kumar Bhageria** — Chief Financial Officer (CFO) - Designate. experience: over two decades of experience.
 
-The filing's own profile: “A strategic and business-focused Finance leader with over two decades of experience partnering with Promoters, CEOs and Boards to shape enterprise strategy, accelerate profitable growth and maximize shareholder value across listed, multinational and promoter-led organizations. Proven track record of leading transformational initiatives including a landmark ₹3,000 Crore acquisition, 5X market capitalization growth, corporate restructuring and large-scale capital market initiatives. Brings deep expertise in enterprise strategy, capital allocation, mergers & acquisitions, treasury, governance and investor engagement, with extensive experience collaborating with BCG and McKinsey on strategic transformation and diversification initiatives.”
+The filing's own profile: “A strategic and business -focused Finance leader with over two decades of experience partnering with Promoters, CEOs and Boards to shape enterprise strategy, accelerate profitable growth and maximize shareholder value across listed, multinational and promoter -led organizations. Proven track record of leading transformational initiatives including a landmark ₹3,000 Crore acquisition, 5X market capitalization growth, corporate restructuring and large -scale capital market initiatives. Brings deep expertise in enterprise strategy, capital allocation, mergers & acquisitions, treasury, governance and investor engagement, with extensive experience collaborating with BCG and McKinsey on strategic transformation and diversification initiatives.”
 
 ### 5. On the calls
 

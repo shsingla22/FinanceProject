@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Managing Director** | Sanjeev Kumar (resignation; last day 2026-01-02) | Rajender Kumar (government appointee; from 2026-01-03) | effective | 2026-01-03 |
 
-- **Why Sanjeev Kumar is leaving, in the filing's words:** “Pursuant to General Administrative Department, Govemment of Gujarat Notification No- AIS/45.2026/0083/G dated 02nd January, 2026, rvhereby I have been relived from the additional charge of Managing Director, I hereby tender my resignation from the post of Managing Director”
-- In the documents: “The General Administrative Depar tment, Government of Gujarat ha s issued an Order vide reference no. AIS/45.2026/0083/G dated 02/01/2026 for appointment of Dr. Rajender Kumar, IAS as Managi ng Director of the Company w.e.f. 03/01/2026.” — [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GSFC_20022026141837_intimationofpostalballotfeb26.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_09022026173354_changesindirectorspostmeeting.pdf) · [2026-01-06 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_06012026151732_NRC_approval_for_appointment_of_MD.pdf) · +1 more
+- **Why Sanjeev Kumar is leaving, in the filing's words:** “I hereby tender my resignation from the post of Managing Director as rvitl as Chairman / Member from all the Committees of the Company, rvith immediate effect.”
+- In the documents: “The General Administrative Department, Government of Gujarat has issued an Order vide reference no. AIS/45.2026/0083/G dated 02/01/2026 for appointment of Dr. Rajender Kumar, IAS as Managing Director of the Company w.e.f. 03/01/2026.” — [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GSFC_20022026141837_intimationofpostalballotfeb26.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_09022026173354_changesindirectorspostmeeting.pdf) · [2026-01-06 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_06012026151732_NRC_approval_for_appointment_of_MD.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GSFC_20022026141837_intimationofpostalballotfeb26.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_09022026173354_changesindirectorspostmeeting.pdf) · [2026-01-06 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_06012026151732_NRC_approval_for_appointment_of_MD.pdf) · [2026-01-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/GSFC_03012026142723_03012026_Intimation_about_change_in_directors.pdf)
+*All 11 filing(s) read for the seats:* [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GSFC_20022026141837_intimationofpostalballotfeb26.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_09022026173354_changesindirectorspostmeeting.pdf) · [2026-01-06 General Updates](https://nsearchives.nseindia.com/corporate/GSFC_06012026151732_NRC_approval_for_appointment_of_MD.pdf) · [2026-01-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/GSFC_03012026142723_03012026_Intimation_about_change_in_directors.pdf) · [2025-11-01 Resignation](https://nsearchives.nseindia.in/corporate/GSFC_01112025115728_resignationofchairman.pdf) · [2025-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GSFC_07082025164120_resultsoutcome.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -41,19 +41,9 @@
 
 ### 3. Track record — the outgoing management
 
-**Sanjeev Kumar** — Managing Director, date of taking the seat not on file.
+**Sanjeev Kumar** — Managing Director, in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
-
-| Mar 2020 → Mar 2025 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 7,798 | 9,534 | +4.1% a year over 5 years |
-| Operating profit (₹ cr) | 321 | 636 | +14.7% a year over 5 years |
-| PAT (₹ cr) | 110 | 591 | +40.0% a year over 5 years |
-| Operating profit margin (%) | 4.1 | 6.7 | +2.6 pts |
-| ROCE (%) | 3.0 | 6.0 | +3.0 pts |
-| ROE (%) | 1.6 | 4.9 | +3.3 pts |
-| Borrowings (₹ cr) | 1,559 | 2.0 | -1,557 |
+*No tenure record: the tenure is shorter than one full fiscal year on file.*
 
 - Also on file: Managing Director at PETRONET (FY2023–FY2023, annual reports).
 - Also on file: Chairman at PVRINOX (FY2023–FY2025, annual reports).
@@ -63,17 +53,16 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Rajender Kumar** — Managing Director. from: government appointee; experience: over two decades of experience in public administration, public policy and development economics; qualifications: He holds a B.A.M.S. in Ayurvedic..
 
-The filing's own profile: “Dr. Rajender Kumar is a 2004-batch officer of the Indian Administrative Service (IAS), belonging to the Gujarat Cadre. He holds a B.A.M.S. in Ayurvedic. He has over two decades of experience in public administration, public policy and development economics across leading national and international institutions. He has served as District Development Officer for Bharuch and Ahmedabad districts, and as Collector & District Magistrate of Rajkot and Surat. From 2016 to 2021, he worked at the policy formulation and strategic leadership levels in the Government of India. As Director to the Prime Minister of India (PMO), he has worked on the evolution of strategic thinking, policy formulation and policy implementation on key flagship schemes and programs.”
+The filing's own profile: “Dr. Rajender Kumar is a 2004-batch officer of the Indian Administrative Service (IAS), belonging to the Gujarat Cadre. He holds a B.A.M.S. in Ayurvedic. He has over two decades of experience in public administration, public policy and development economics across leading national and international institutions. He has served as District Development Officer for Bharuch and Ahmedabad districts, and as Collector & District Magistrate of Rajkot and Surat.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| District Development Officer | Government of Gujarat, Bharuch and Ahmedabad districts | — | — |
-| Collector & District Magistrate | Rajkot and Surat districts | — | — |
 | Director to the Prime Minister of India | Government of India, Prime Minister's Office (PMO) | 2016 | 2021 |
 | Advisor to the Executive Director for India, Bangladesh, Bhutan, and Sri Lanka | World Bank | 2021 | 2024 |
-| Council Member | Global Environment Facility (GEF) | 2021 | 2024 |
-| Secretary to the Government of Gujarat, heading the Departments of Tourism, Civil Aviation, and the Pavitra Yatradham Vikas Board | Government of Gujarat | 2024 | — |
+| Secretary, heading the Departments of Tourism, Civil Aviation, and the Pavitra Yatradham Vikas Board | Government of Gujarat | 2024 | — |
 | Commissioner of Transport | Government of Gujarat | 2026 | — |
+| District Development Officer | Bharuch and Ahmedabad districts | — | — |
+| Collector & District Magistrate | Rajkot and Surat | — | — |
 
 ### 5. On the calls
 

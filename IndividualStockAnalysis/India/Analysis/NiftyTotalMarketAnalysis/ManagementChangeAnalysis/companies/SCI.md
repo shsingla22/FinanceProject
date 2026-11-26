@@ -6,21 +6,21 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — in progress.** The Government of India's strategic disinvestment of SCI remains under way. DIPAM, with a Transaction Advisor, is running the process; the Preliminary Information Memorandum inviting expressions of interest was issued and due diligence by qualified interested parties continues in the virtual data room. Government promoter holding unchanged at 63.75% throughout.
+**Ownership — Change of control — in progress.** Government of India's promoter stake stayed 63.75% all year, but SCI remains under the Government's strategic disinvestment process: DIPAM, with a Transaction Advisor, has an open Virtual Data Room for due diligence by Qualified Interested Parties. No buyer, agreement or open offer yet; auditors note the process is still in progress.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Government of India (President of India / Ministry of Ports, Shipping and Waterways) | government | 63.75% | 63.75% |
+| Outgoing | Government of India (President of India) / Department of Investment and Public Asset Management (DIPAM) | government | 63.75% | 63.75% |
 | Incoming | — | — | — | — |
 
 - mode: other · control does not change
-- Management changing with it: not stated — directors were appointed/re-appointed at the 76th AGM (Capt. Som Raj re-appointed by rotation; Shri Nitin Khamesra as Whole-Time Director (Finance); Shri Mukesh Mangal as Government Nominee Director; Capt. Chandran Durai Daniel as Whole-Time Director (Bulk Carriers & Tankers); Smt. Bharati Raman Gotarna as Independent Director), but the documents do not link these to any ownership change
-- Dates: public announcement 2020-12-22; other 2026-02-06; other 2026-05-08; other 2026-08-06; other 2026-09-23
+- Management changing with it: not stated as linked to ownership; the 76th AGM approved appointment of Shri Nitin Khamesra as Whole-Time Director (Finance), Capt. Chandran Durai Daniel as Whole-Time Director (Bulk Carriers & Tankers), Smt. Bharati Raman Gotarna as Independent Director, and Shri Mukesh Mangal as Government Nominee Director (Representative of the President of India), with Capt. B. K. Tyagi continuing as Chairman & Managing Director
+- Dates: other 2020-12-22; other 2026-02-06; other 2026-05-08; other 2026-08-06; other 2026-09-23
 - In the documents: “The proposed strategic disinvestment of SCI is being handled by Department of Investment and Public Asset Management (DIPAM) with the engagement of Transaction Advisor.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 63.75% (2025-09-30) → 63.75% (2025-12-31) → 63.75% (2026-03-31) → 63.75% (2026-06-30) → 63.75% (2026-09-30)
 
-*Filings read for the ownership:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06082026191038_Finalsd.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI1_08052026200611_Finalsd.pdf) · [2026-05-08 Updates](https://nsearchives.nseindia.com/corporate/SCI_08052026210819_Finalsd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · +2 more
+*Filings read for the ownership:* [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_23092026184528_Proceedings_of_AGM_-_76th_AGMsd.pdf) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06082026191038_Finalsd.pdf) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI1_08052026200611_Finalsd.pdf) · [2026-05-08 Updates](https://nsearchives.nseindia.com/corporate/SCI_08052026210819_Finalsd.pdf) · [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · +8 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Government of India (President of India / Ministry of Ports, Shipping and Waterways)** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 63.75% → 63.75%.
+**Government of India (President of India) / Department of Investment and Public Asset Management (DIPAM)** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 63.75% → 63.75%.
 
 **Vikram Dingley** — Director (Finance) – Additional Charge, in the seat since FY2026 per the filing.
 

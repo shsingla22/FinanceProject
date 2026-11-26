@@ -1,0 +1,1221 @@
+Ref: SEC/MFL/SE/2025/6240
+August 13, 2025
+National Stock Exchange of India Ltd.
+Exchange Plaza, Plot No. C/1, G Block,
+Bandra - Kurla Complex, Bandra (E), Mumbai
+- 400 051
+Symbol: MUTHOOTFIN
+
+Department of Corporate Services
+BSE Limited
+P.J. Tower, Dalal Street,
+Mumbai - 400 001
+Scrip Code: 533398
+
+NSE IFSC Limited (NSE IX)
+Unit 1201, Brigade, International Financial
+Center, 12th Floor, Building No. 14-A, GIFT
+SEZ Gandhinagar,
+Gujarat 382 355
+
+Dear Sir/Madam,
+
+Sub:
+
+Disclosure under Regulation 30, read with Part A of Schedule III, Regulation
+30, 33, 51, 52, 54, 23 and other applicable regulations of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (the “Listing Regulations”)
+
+Re:
+
+Outcome of Board Meeting held on August 13, 2025
+
+A meeting of the Board of Directors of Muthoot Finance Limited (“Company”) was held
+today, i.e., August 13, 2025. At the meeting, the Board of Directors has inter alia:
+1. Considered and approved the unaudited standalone and consolidated financial
+results of the Company for the quarter ended June 30, 2025;
+2. Approved additional equity infusion of Rs. 500 Crores in Muthoot Money Limited, a
+wholly owned subsidiary of the Company;
+3. Approved additional equity infusion of Rs. 200 Crores in Muthoot Homefin (India)
+Limited, a wholly owned subsidiary of the Company
+We enclose the following documents:
+1. Unaudited standalone and consolidated financial results of the Company for the
+quarter ended June 30, 2025, and the limited review reports issued by the JointStatutory Auditors along with the disclosures as required under Regulation 52 (4)
+& 54 of the Listing Regulations.
+
+
+2. Disclosure as required under Regulation 52 (7) of the Listing Regulations.
+3. Disclosure as required under Regulation 52 (7A) of the Listing Regulations; and
+4. Disclosure of Security Cover in pursuance to Regulation 54(2), 54(3) of SEBI Listing
+Regulations for the quarter ended on June 30, 2025.
+We also enclose a copy of Press Release proposed to be released in leading newspapers
+across the Country and a copy of the Investor Presentation proposed to be made by the
+Management.
+The Financial Results would be published in one English National Daily and one
+Vernacular newspaper as required under Regulations 47 and 52 (8) of the Listing
+Regulations.
+The meeting commenced at 09:45 AM (IST) and concluded at 03.35 PM (IST).
+
+For Muthoot Finance Limited
+
+RAJESH
+ACHUTHA
+WARRIER
+
+Digitally signed by RAJESH ACHUTHA WARRIER
+DN: c=IN, o=PERSONAL, title=3601,
+pseudonym=53f9b233d3904bdbadeccbcb3627b0
+3e,
+2.5.4.20=fc0f7fcf141cdb7b09ce35a4ea3debd31db
+00262dc89e36cec407cf9aedc8383,
+postalCode=682309, st=Kerala,
+serialNumber=4fa0f4efb835b6f8f45ec5f22f07239a
+42fa6b72281127adeb88fab1451c3fae, cn=RAJESH
+ACHUTHA WARRIER
+Date: 2025.08.13 15:53:00 +05'30'
+
+Rajesh A
+Company Secretary
+ICSI Membership No. FCS 7106
+
+
+~
+
+KRISHNAMOORTHY & KRISHNAMOORTHY
+CHARTERED ACCOUNTANTS
+XXXIX/3217
+PALIAM ROAD
+KOCHI - 682 016
+
+CA
+IN DI A
+
+P S D Y & ASSOCIATES
+CHARTERED ACCOUNTANTS
+38/516, 1st FLOOR, TRIPTI LANE.
+NEAR MANORAMA JUNCTION
+KOCHI -682 016
+
+Independent Auditors' Limited Review Report on Unaudited Standalone Financial Results of
+Muthoot Finance Limited for the quarter ended June 30, 2025 pursuant to the Regulation 33 and
+52 of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (as amended).
+
+To the Board of Directors of Muthoot Finance Limited,
+
+1. We have jointly reviewed the accompanying Unaudited Standalone Financial Results of Muthoot
+Finance Limited (the "Company") for the quarter ended June 30, 2025, which are included in the
+accompanying Statement of Unaudited Standalone Financial Results for the Quarter ended June
+30, 2025 (the "Statement") being submitted by the Company pursuant to the requirements of
+Regulation 33 and Regulation 52 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (the "Listing Regulations"), including relevant circulars issued
+by the SEBI from time to time.
+
+2. This statement, which is the responsibility of the Company's Management and approved by the
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"),
+prescribed under Section 133 of the Companies Act, 2013, read with relevant rules issued
+thereunder, the circulars, guidelines and directions issued by the Reserve Bank of India (RBI)
+from time to time ("RBI Guidelines"), other accounting principles generally accepted in India and
+is in compliance with the presentation and disclosure requirements of the Listing Regulations
+and that it has been prepared in accordance with the relevant prudential norms issued by the
+RBI in respect of Income recognition, assets classification , provisioning and other related
+matters, to the extent those are not inconsistent with the Indian Accounting Standards prescribed
+under section 133 of the Act. Our responsibility is to issue a report on the Statement based on
+our review.
+
+
+KRISHNAMOORTHY & KRISHNAMOORTHY
+CHARTERED ACCOUNTANTS
+
+XXXIX/3217
+PALIAM ROAD
+KOCHI - 682 016
+
+CA
+IND IA
+
+P S D Y & ASSOCIATES
+CHARTERED ACCOUNTANTS
+
+38/516, 1st FLOOR, TRIPTI LANE,
+NEAR MANORAMA JUNCTION
+KOCHI - 682 016
+
+3. We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410 "Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity', issued by the Institute of Chartered Accountants of India
+("ICAI"). This standard requires that we plan and perform the review to obtain moderate
+assurance as to whether the statements are free of material misstatement. A review is limited
+primarily to inquiries of the company's personnel and analytical and other review procedures
+applied to financial data and thus provides less assurance than an audit. We have not performed
+an audit and accordingly, we do not express an audit opinion .
+
+4. Based on our review conducted as above, nothing has come to our attention that causes us to
+believe that the accompanying Statement has not been prepared in accordance with recognition
+and measurement principles laid down in Ind AS 34, prescribed under Section 133 of the
+Companies Act, 2013, read with the relevant Rules issued thereunder, the RBI Guidelines and
+other accounting principles generally accepted in India, and has not disclosed the information
+required to be disclosed in accordance with the requirements of Regulation 33 and Regulation
+52 of the Listing Regulations, including the manner in which it is to be disclosed, or that it contains
+any material misstatement, or that it has not been prepared in accordance with the relevant
+prudential norms issued by the Reserve Bank of India (RBI) in respect of Income recognition,
+asset classification, provisioning and other related matters, to the extent those are not
+inconsistent with the Indian Accounting Standards prescribed under Section 133 of the
+Companies Act, 2013.
+
+
+~
+
+'KRISHNAMOORTHY & KRISHNAMOORTHY
+CHARTERED ACCOUNTANTS
+
+XXXIX/3217
+PALIAM ROAD
+KOCHI - 682 016
+
+CA
+
+P S D Y & ASSOCIATES
+CHARTERED ACCOUNTANTS
+38/516 , 1st FLOOR, TRIPTI LANE.
+NEAR MANORAMA JUNCTION
+KOCHI -682 016
+
+IN D I A
+
+5. The standalone financial results of the Company for the quarter ended June 30, 2024, were
+reviewed jointly by two other firms of chartered accountants who issued their unmodified
+conclusion, vide their report dated August 13, 2024.
+Our conclusion is not modified in respect of this matter.
+
+For Krishnamoorthy & Krishnamoorthy
+
+For P S D Y & Associates
+
+Chartered Accountants
+
+Chartered Accountants
+
+Firm Registration No.001488S
+
+Firm Reg· ation No. 010625S
+
+I....
+
+R Ven~ ~ ~
+
+Sreenivasan P R
+
+Partner
+
+Partner
+
+Membership No: 202632
+
+Membership No: 213413
+
+UDIN: 25202632BMIMJU4870
+
+UDIN: 25213413BMOXAE5268
+
+Place: Kochi
+
+Place: Kochi
+
+Date: 13.08.2025
+
+Date: 13.08.2025
+
+
+MUTHOOT FINANCE LIMITED
+Registered and Corporate Office: NH Bypass, Palarivattom, Kochi-682028, Kerala, India
+CIN : L65910KL1997PLC011300
+Ph. No.: 0484 4804000, 2394712, Website: www.muthootfinance.com
+Email : mails@muthootgroup.com
+Statement of Unaudited Standalone Financial Results for the quarter ended June 30, 2025
+Quarter ended
+Parlic.illars
+
+Year ended
+
+Jun 30, 2025
+
+March 31, 2025
+
+Jun30,2024
+
+March 31, 2025
+
+(Unaudited)
+
+(Audited)
+
+(Unaudited)
+
+(Audited)
+
+Revenue from operations
+(i) Interest income
+(ii) Dividend income
+(iii) Net gain on fair value changes
+(iv) Sale of services
+(v) Service charges
+
+55,923.33
+7.92
+665.75
+20.45
+415.72
+
+47,835.67
+7.11
+371 .01
+16.47
+313.77
+
+36,559.83
+212.68
+20.47
+244.90
+
+168,770.14
+47.41
+1,002.13
+72.17
+1,099.08
+
+(I)
+
+Total Revenue from operations
+
+57,033.17
+
+48,544.03
+
+37,037.88
+
+170,990.93
+
+(II)
+
+Other Income
+
+166.85
+
+340.67
+
+63.10
+
+568.60
+
+(III)
+
+Total Income (I+ II)
+
+57,200.02
+
+48,884.70
+
+37,100.98
+
+171,559.53
+
+21,191.44
+432.52
+5,031 .09
+235.61
+2,854.44
+
+18,796.60
+1,274.08
+5,147.05
+226.92
+3,235.95
+
+13,511.29
+2,235.81
+3,832.42
+182.27
+2,422.22
+
+64,288.39
+7,667.48
+16,965.79
+768.55
+11,163.32
+
+-
+
+Expenses
+
+(i) Finance costs
+(ii) Impairment on financial instruments
+(iii) Employee benefits expenses
+(iv) Depreciation, amortization and impairment
+(v) Other expenses
+(IV)
+
+Total Expenses (IV)
+
+29,745.10
+
+28,680.60
+
+22,184.01
+
+100,853.53
+
+(V)
+
+Profit before tax (III- IV)
+
+27,454.92
+
+20,204.10
+
+14,916.97
+
+70,706.00
+
+(VI)
+
+Tax Expense:
+
+(1) Current tax
+
+7,225.62
+
+5,166.18
+
+4,196.85
+
+18,807.30
+
+(2) Deferred tax
+
+(233.69)
+
+(4.16)
+
+(66.45)
+
+19.49
+
+-
+
+(36.28)
+
+(0.27)
+
+(128.31)
+
+20,462.99
+
+15,078.36
+
+10,786.84
+
+52,007.52
+
+(9.50)
+
+(10.24)
+
+16.47
+
+(37.99)
+
+148.67
+
+(237.24)
+
+3.78
+
+(419.81)
+
+150.66
+
+(345.37)
+
+(260.71)
+
+(527.79)
+
+(72.94)
+
+149.21
+
+60.52
+
+248.05
+
+216.89
+
+(443.64)
+
+(179.94)
+
+(737.54)
+
+(61.65)
+
+(361.28)
+
+(89.40)
+
+(217.36)
+
+15.52
+
+90.93
+
+22.50
+
+54.71
+
+(46.13)
+
+(270.35)
+
+(66.90)
+
+(162.65)
+
+170.76
+
+(713.99)
+
+(246.84)
+
+(900.19)
+
+20,633.75
+
+14,364.37
+
+10,540.00
+
+51,107.33
+
+37.56
+37.56
+
+26.87
+26.87
+
+129.54
+129.54
+
+(3) Taxes relating to prior years
+
+(VII)
+
+Profit for the period (V-VI)
+Other Comprehensive Income
+
+(VIII)
+
+A) (i) Items that will not be reclassified to profit or loss:
+
+- Remeasurements of defined benefit plans
+- Fair value changes on equity instruments through
+Other Comprehensive Income
+-Changes in value of forward element of forward
+contract
+(ii) Income tax relating to items that will not be
+reclassified to profit or loss
+Subtotal (A)
+
+B)
+(i) Items that will be reclassified to profit or loss:
+- Effective portion of gain/ (loss) on hedging
+instruments in cash flow hedges
+(ii) Income tax relating to items that will be reclassified
+to profit or loss
+Subtotal (B)
+
+Other Comprehensive Income (A+B) (VIII)
+(IX)
+
+Total comprehensive income for the period (Vll+VIII
+
+(X)
+
+Earnings per equity share (quarterly figures are not
+annualised)
+
+-
+
+(Face ~alu ~ Rte-each)
+Basic(fl~ ~y,.Y &/(Ir.~
+Dilut~ '511:, \
+w
+
+See accompany\
+
+fERED 7
+
+~ ACCO j ANTS ~
+
+( ~
+
+o~
+
+f?i _ 9n
+
+<!].<Y
+
+'1/ *
+
+--
+
+~
+~
+. ,~
+.
+
+I
+
+~suits
+
+I
+
+~\~~
+,/2~
+~ -~
+
+'?
+
+I ~?;:}
+KOCHl-28 ~
+
+~
+
+o'
+
+*
+
+.,...---.
+
+/2/
+
+'l,
+
+.i'.:i:lf
+
+r-~
+
+50,-9z.
+~ .97 ·
+
+~ '~ ·\
+'t
+~
+
+-
+
+<
+,
+
+,' l
+
+J
+'
+
+--
+
+For MUTl100T FINAt..tri: •~ !TED
+-
+
+glng Director
+
+
+MUTHOOT FINANCE LIMITED
+Registered and Corporate Office: NH Bypass, Palarivattom, Kochi-682028, Kerala, India
+CIN: L65910KL1997PLC011300
+Ph. No.: 0484 4804000, 2394712, Website: www.muthootfinance.com
+Email : mails@muthootgroup.com
+Unaudited Standalone Statement of Assets and Liabilities (Balance Sheet) as at June 30, 2025
+Rs. in Millions
+Particulars
+I ASSETS
+1 Financial Assets
+a) Cash and cash equivalents
+b) Bank balance other than (a) above
+c) Derivative financial instruments
+c) Receivables
+(I) Trade receivables
+(II) Other receivables
+
+As at June 30, 2025
+
+As at March 31, 2025
+
+(Unaudited)
+
+(Audited)
+
+102,030.97
+86.90
+
+71,704.52
+207.96
+
+26.37
+
+9.29
+
+1,194,415.94
+55,715.82
+2,700.73
+
+1,086,809.72
+44,990.82
+2,690.75
+
+776.23
+4,670.18
+3.04
+129.00
+36.03
+611.70
+
+602.36
+4,763.09
+3.29
+125.37
+32.98
+548.33
+
+1,361,202.91
+
+1,212,488.48
+
+a) Derivative financial instruments
+b) Payables
+(I) Trade payables
+(i) total outstanding dues of micro enterprises and small enterprises
+(ii) total outstanding dues of creditors other than micro enterprises and
+small enterprises
+(II) Other payables
+(i) total outstanding dues of micro enterprises and small enterprises
+
+1,311.09
+
+938.53
+
+1,036.22
+
+1,152.89
+
+(ii) total outstanding dues of creditors other than micro enterprises and
+small enterprises
+Debt securities
+Borrowings (other than debt securities)
+Subordinated liabilities
+Lease Liability
+Other Financial liabilities
+
+1,174.97
+
+1,278.56
+
+313,431.23
+719,355.82
+3.13
+20,570.57
+
+235,413.03
+662,597.83
+187.12
+3.35
+18,914.67
+
+4,702.03
+4,101.50
+945.20
+
+2,520.34
+3,896.84
+1,210.08
+
+4,014.68
+290,556.47
+
+4,014.64
+280,360.60
+
+1,361,202.91
+
+1,212,488.48
+
+d) Loans
+e) Investments
+f) Other financial assets
+
+2 Non-financial Assets
+a) Deferred tax assets (net)
+b) Property, Plant and Equipment
+c) Right of Use Assets
+d) Capital work-in-progress
+e) Other Intangible assets
+f) Other non-financial assets
+Total Assets
+
+1--- - -- - - - - - - - - - + - -- - - - - ----I
+
+II LIABILITIES AND EQUITY
+LIABILITIES
+I Financial Liabilities
+
+c)
+d)
+e)
+f)
+g)
+
+2 Non-financial Liabilities
+a)
+Current tax liabilities (net)
+b)
+Provisions
+c)
+Other non-financial liabilities
+
+EQUITY
+a)
+Equity share capital
+b)
+Other equity
+Total Liabilities and Equity
+
+cial results
+
+f~
+';'r/1}'~:
+9.
+
+.~
+
+<:?,;,:
+
+~'b
+
+£.>;Vd_A~
+
+
+MUTHOOT FINANCE LIMITED
+Registered Office: NH Bypass, Palarivattom, Kochi - 682028, Kerala, India.
+CIN:L65910KL1997PLC011300
+Ph. No.: 0484 4804000, 2394712, Website: www.muthootfinance.com
+Email: mails@muthootgroup.com
+Notes:
+1.
+
+The above financial results have been reviewed by the Audit Committee and approved by the
+Board of Directors at their respective meetings held on August 12, 2025 and August 13, 2025 and
+limited review of the same has been carried out by the Statutory Auditors' of the Company.
+
+2. The above financial results have been prepared in accordance with Indian Accounting Standards
+('Ind AS') prescribed under Section 133 of the Companies Act, 2013 ("the Act") read with the
+Companies (Indian Accounting Standards) Rules 2015, as amended from time to time, and other
+recognized accounting practices generally accepted in India, and in compliance with Regulation
+33 and 52 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (the
+"Listing Regulations").
+3. Provision on loan assets created in earlier accounting periods which is in excess of the amounts
+determined and adjusted against such assets as impairment loss on application of expected credit
+loss method as per Ind AS 109 ('Financial Instruments') as at March 31, 2025 has been retained
+in the books of account as a matter of prudence and carried under 'Provisions' in the Balance
+Sheet.
+4. The Company operates mainly in the business offinancing and accordingly there are no separate
+reportable operating segments as per Ind AS 108 - "Operating Segments".
+5. During the quarter ended June 30, 2025, the Company has allotted 4,585shares under the
+'Muthoot ESOP 2013 Scheme'.
+6. The Company has maintained requisite full security cover as per the terms of Offer
+Document/Information Memorandum and/or Debenture Trust Deed sufficient to discharge the
+principal amount and the interest thereon by way of mortgage of immovable property and/or
+pari-passu floating charge on current assets, book debts, loans & advances and receivables
+including gold loan receivables of the Company on its Secured Listed Non - Convertible
+Debentures aggregating to Rs. 313,249.36 million at principal value as at June 30, 2025.
+7. The Company had declared an interim dividend of Rs. 26 per share for the year ended March 31,
+2025 on April 21, 2025.
+8. The information pursuant to regulation 52(4) of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 are given in Annexure A.
+9. The Company has applied its material accounting policies in the preparation of this financial
+results
+---=:::..=..:...;::--.:...
+th
+~~ffl~ ncial statements for the year ended
+
+For 1/.UTh00
+
+
+10. The figures for the quarter ended March 31, 2025 are the balancing figures between
+audited figures in respect of the full financial year and the published year to date figures up
+to nine months of relevant financial year, which were subjected to limited review by the
+auditors.
+11. Previous year figures have been regrouped/ reclassified wherever necessary to conform
+
+to current period presentation.
+
+d on behalf of the Board of Directors
+For Muthoot Finance Limited
+For r/.UThOOT FINANCE Ll~~ITFJ.:
+
+tor
+
+Kochi
+August 13, 2025
+
+
+AnnexureA
+Disclosures required under Regulation 52(4) of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 for the quarter ended June 30, 2025*
+
+s.
+
+Particulars
+
+No
+
+a
+b
+C
+
+d
+e
+
+f
+g
+h
+
+i
+j
+(i)
+(ii)
+k
+
+I
+m
+
+n
+0
+
+p
+q
+r
+s
+t
+(i)
+
+Debt-Equity Ratio (Note 2)
+Debt service coverage ratio
+Interest service coverage
+ratio
+Outstanding Redeemable
+Preference Shares
+Capital Redemption
+Reserve
+Debenture Redemption
+Reserve
+Net Worth (Rs. in Millions)
+(Note 31
+Outstanding Debt (Note 4)
+
+Net Profit after tax (Rs. in
+_Millionsl
+Earnings Per Share
+Basic (Rs.)
+Diluted (Rs.)
+Current ratio
+Long term debt to working
+capital
+Bad debts to Account
+receivable ratio
+Current liability ratio
+Total debts to total assets
+(Note 51
+Debtors turnover
+Inventory turnover
+Operating margin (%)
+Net profit margin (%)
+(Note 6)
+Sector specific equivalent
+ratios:
+Stage III loan assets to
+Gross loan assets (Note 7)
+
+Quarter
+ended
+June 30,
+2025
+3.51
+NA
+NA
+
+Quarter
+ended
+March 31,
+2025
+3.16
+
+Quarter
+ended
+June 30,
+2024
+2.70
+
+Year ended
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+NA
+
+Nil
+
+Nil
+
+Nil
+
+Nil
+
+Nil
+
+Nil
+
+Nil
+
+Nil
+
+NA
+
+NA
+
+NA
+
+NA
+
+2,93,794.92
+
+2,83, 772.88
+
+2,43,325.64
+
+2,83, 772.88
+
+8,98,197.98
+
+6,58, 905. 72
+
+8,98,197.98
+
+15,078.36
+
+10,786.84
+
+52,007.52
+
+0.00
+37.56
+37.56
+
+0.00
+26.87
+26.87
+
+129.54
+129.54
+
+NA
+NA
+
+NA
+NA
+
+NA
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+75.87%
+
+74.08%
+
+71.19%
+
+74.08%
+
+NA
+NA
+
+NA
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+35.77%
+
+NA
+30.84%
+
+NA
+29.07%
+
+NA
+30.31%
+
+3.41%
+
+3.98%
+
+3.41 o/o
+
+10,32,787.0
+5
+20,462.99
+
+50.97
+50.97
+NA
+NA
+
+2.58%
+
+--.~
+-
+
+A
+
+.....__......
+
+fo"'- 't' ' ' ·•vo~
+i &~~
+
+{l"]i )
+
+0
+
+'?~
+1r
+
+March 31,
+2025
+3.16
+
+For MUTh00T FINANCE
+
+~lTf:O
+
+~
+
+cto
+
+~
+
+
+(ii)
+
+Net Stage III loan assets to
+2.10%
+2. 79%
+3.48%
+Gross loan assets (Note 8)
+(iii) Capital Adequacy Ratio
+21.96%
+23.71%
+27.46%
+(Note 9)
+(iv) Provision Coverage Ratio
+18.52%
+17.94%
+12.45%
+(Note 10)
+* The information furnished is based on Standalone Financial results.
+
+2. 79%
+23.71%
+17.94%
+
+Notes:
+
+1.
+2.
+
+3.
+4.
+5.
+6.
+7.
+8.
+
+9.
+10.
+
+The figures/ ratios which are not applicable to the Company, being an NBFC, are marked
+as "NA".
+Debt-Equity Ratio = {Debt securities+ Borrowings (other than debt securities)+
+Subordinated liabilities}/ {Equity share capital + Other equity}
+Net Worth = Equity share capital+ Other equity - Deferred Tax Assets
+Outstanding Debt = Debt securities + Borrowings (other than debt securities) +
+Subordinated liabilities
+Total debts to total assets= {Debt securities+ Borrowings (other than debt securities)+
+Subordinated liabilities}/ Total assets
+Net profit margin(%) = Net Profit after tax / Total Income
+Stage III loan assets to Gross loan assets = Stage III loan assets / Gross loan assets (Based
+on principal amount of loan assets)
+Net Stage III loan assets to Gross loan assets = {Stage III loan assets - Expected credit loss
+provision for Stage Ill loan assets}/ Gross loan assets (Based on principal amount ofloan
+assets)
+Capital Adequacy Ratio has been computed as per RBI guidelines.
+Provision Coverage Ratio = Expected credit loss provision for Stage III loan assets/ Stage
+III loan assets
+o
+~\NAtvo~
+~
+
+1? ~ ii
+'
+
+Fo;· !V:J"ff100T F.NANC~_..kW 'TF:L•
+
+6'
+
+-*
+
+M~
+
+
+
+
+
+

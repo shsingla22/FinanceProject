@@ -11,9 +11,9 @@
 | **Chief Financial Officer** | Kajal Saxena (resignation; last day 2026-09-18) | — not named | seat vacant — no successor named | 2026-09-19 |
 
 - **Why Kajal Saxena is leaving, in the filing's words:** “Ms. Kajal Saxena intends to take career opportunities outside the organization.”
-- In the documents: “Resignation of Ms. Kajal Saxena, Chief Financial Ofﬁcer of the Company effective from September 18, 2026.” — [2026-09-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ORIENTCEM_ROID_98673_KMP_Doc.zip) · [2026-09-20 Updates](https://nsearchives.nseindia.com/corporate/ORIENTCEM_20092026132428_ocl_CLARIFICATION_20092026.pdf) · [2026-09-19 Resignation](https://nsearchives.nseindia.com/corporate/ORIENTCEM_19092026150442_oCL_resignation_KS_19092026.pdf)
+- In the documents: “Resignation of Ms. Kajal Saxena, Chief Financial Officer of the Company effective from September 18, 2026.” — [2026-09-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ORIENTCEM_ROID_98673_KMP_Doc.zip) · [2026-09-20 Updates](https://nsearchives.nseindia.com/corporate/ORIENTCEM_20092026132428_ocl_CLARIFICATION_20092026.pdf) · [2026-09-19 Resignation](https://nsearchives.nseindia.com/corporate/ORIENTCEM_19092026150442_oCL_resignation_KS_19092026.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-09-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ORIENTCEM_ROID_98673_KMP_Doc.zip) · [2026-09-20 Updates](https://nsearchives.nseindia.com/corporate/ORIENTCEM_20092026132428_ocl_CLARIFICATION_20092026.pdf) · [2026-09-19 Resignation](https://nsearchives.nseindia.com/corporate/ORIENTCEM_19092026150442_oCL_resignation_KS_19092026.pdf)
+*All 4 filing(s) read for the seats:* [2026-09-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ORIENTCEM_ROID_98673_KMP_Doc.zip) · [2026-09-20 Updates](https://nsearchives.nseindia.com/corporate/ORIENTCEM_20092026132428_ocl_CLARIFICATION_20092026.pdf) · [2026-09-19 Resignation](https://nsearchives.nseindia.com/corporate/ORIENTCEM_19092026150442_oCL_resignation_KS_19092026.pdf) · [2025-11-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ORIENTCEM_21112025221857_Outcome_OCL_21112025.pdf)
 
 ### 2. Financials — the last three years
 

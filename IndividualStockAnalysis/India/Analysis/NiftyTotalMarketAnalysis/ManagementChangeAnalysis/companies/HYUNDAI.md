@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | Unsoo Kim (resignation; last day 2025-12-31) | Tarun Garg (internal; from 2026-01-01) | effective | 2025-12-31 |
+| **Managing Director & Chief Executive Officer (MD & CEO)** | Unsoo Kim (resignation; last day 2025-12-31) | Tarun Garg (internal; from 2026-01-01) | effective | 2025-10-15 |
 
-- **Why Unsoo Kim is leaving, in the filing's words:** “Resignation of Mr. Unsoo Kim from the position of Managing Director & Director of Hyundai Motor India Limited ("Company") effective from closure of business hours on December 31, 2025.”
-- In the documents: “Hyundai Motor India Limited (HMIL) today announced that Mr. Tarun Garg has officially assumed charge as the Managing Director & Chief Executive Officer (MD & CEO), effective January 01, 2026.” — [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_28102026151721_PRESSRELEASE28102026.pdf) · [2026-01-01 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_01012026093340_News_Release_Tarun_Garg_sd.pdf) · [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf)
+- **Why Unsoo Kim is leaving, in the filing's words:** “Resignation and returning to South Korea to a strategic role at Hyundai Motor Company” Stays on as: a strategic role at Hyundai Motor Company (HMC), South Korea.
+- In the documents: “Hyundai Motor India Limited (HMIL) today announced that Mr. Tarun Garg has officially assumed charge as the Managing Director & Chief Executive Officer (MD & CEO), effective January 01, 2026.” — [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf) · [2025-10-15 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/HMILNSE_15102025000459_BMOutcome.pdf) · [2025-10-15 Change in Management](https://nsearchives.nseindia.in/corporate/HMILNSE_15102025001149_BMOutcome.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_28102026151721_PRESSRELEASE28102026.pdf) · [2026-01-01 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_01012026093340_News_Release_Tarun_Garg_sd.pdf) · [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf)
+*All 6 filing(s) read for the seats:* [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_28102026151721_PRESSRELEASE28102026.pdf) · [2026-01-01 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_01012026093340_News_Release_Tarun_Garg_sd.pdf) · [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf) · [2025-10-15 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/HMILNSE_15102025000459_BMOutcome.pdf) · [2025-10-15 Change in Management](https://nsearchives.nseindia.in/corporate/HMILNSE_15102025001149_BMOutcome.pdf) · [2025-10-15 Press Release](https://nsearchives.nseindia.in/corporate/HMILNSE_15102025095730_PR1.pdf)
 
 ### 2. Financials — the last three years
 
@@ -36,11 +36,11 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/HYUNDAI.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹2,301.60 on 2025-12-30 (the close before) → ₹2,076.00 on 2026-11-13: **-9.8%**; Nifty 500 +0.3% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹2,411.90 on 2025-10-14 (the close before) → ₹2,076.00 on 2026-11-13: **-13.9%**; Nifty 500 +2.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Unsoo Kim** — Managing Director & Chief Executive Officer, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Unsoo Kim** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -56,15 +56,19 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Tarun Garg** — Managing Director & Chief Executive Officer. from: internal; experience: over 32 years of automotive industry experience; qualifications: a Mechanical Engineer from the reputed Delhi Technological University (formerly known as Delhi College of Engineering) and holds an MBA from the premier management institute IIM Lucknow.
+**Tarun Garg** — Managing Director & Chief Executive Officer (MD & CEO). from: internal; experience: over 32 years of automotive industry experience; qualifications: Mechanical Engineer from the prestigious Delhi Technological University (Formerly Delhi College of Engineering), one of the best technological universities in India. He also holds a MBA from one of India's most premier business schools - the Indian Institute of Management (IIM) Lucknow..
 
-The filing's own profile: “Mr. Tarun Garg becomes the first Indian to lead Hyundai Motor India Limited as the Managing Director & Chief Executive Officer. He possesses proven expertise in sales, marketing, distribution, financial management, product strategy and brand communication with over 32 years of automotive industry experience. Under his stewardship, first as the Head of Sales, Service & Marketing and then as the Whole-time Director and Chief Operating Officer, Mr. Garg's tenure at HMIL had shaped meaningful contributions that steadily advanced the company's growth and direction.”
+The filing's own profile: “Mr. Tarun Garg is a Mechanical Engineer from the prestigious Delhi Technological University (Formerly Delhi College of Engineering), one of the best technological universities in India. He also holds a MBA from one of India's most premier business schools - the Indian Institute of Management (IIM) Lucknow. Prior to bringing his expertise to HMIL, Mr. Garg had an illustrious career with Maruti Suzuki India Limited. He began as a Management Trainee, mastering the areas of logistics and sales planning and progressively advanced through a series of key roles. His journey there included position as Regional Sales Manager, Commercial Business Head, National Sales and Network Head and ultimately, Executive Director of Marketing, Logistics, Parts and Accessories.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Head of Sales, Service & Marketing | Hyundai Motor India Limited (HYUNDAI) | — | — |
-| Whole-time Director and Chief Operating Officer | Hyundai Motor India Limited (HYUNDAI) | — | — |
-| Executive Director of Marketing, Logistics, Parts & Accessories | Maruti Suzuki India Limited (MARUTI) | — | — |
+| Whole-time Director & COO | Hyundai Motor India Limited (HYUNDAI) | 2023 | 2025 |
+| Head of Sales, Service and Marketing | Hyundai Motor India Limited (HYUNDAI) | 2019 | 2023 |
+| Executive Director of Marketing, Logistics, Parts and Accessories | Maruti Suzuki India Limited (MARUTI) | — | — |
+| National Sales and Network Head | Maruti Suzuki India Limited (MARUTI) | — | — |
+| Commercial Business Head | Maruti Suzuki India Limited (MARUTI) | — | — |
+| Regional Sales Manager | Maruti Suzuki India Limited (MARUTI) | — | — |
+| Management Trainee | Maruti Suzuki India Limited (MARUTI) | — | — |
 
 ### 5. On the calls
 

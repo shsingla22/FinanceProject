@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **“CEO & Executive Director” (outgoing); “Managing Director & CEO” (incoming)** | Sachin Shah (resignation; last day 2026-12-31) | Aditya Virwani (promoter family; from 2027-01-01) | announced, not yet effective | 2026-10-09 |
+| **CEO & Executive Director / Managing Director & CEO** | Sachin Shah (resignation; last day 2026-12-31) | Aditya Virwani (promoter family; from 2027-01-01) | announced, not yet effective | 2026-10-09 |
 
-- **Why Sachin Shah is leaving, in the filing's words:** “The decision is a natural progression and part of the succession plan for EDL” Stays on as: Senior Advisor to the Chairman and the Managing Director & CEO of the Company, with effect from January 1, 2027.
-- In the documents: “noted the resignation of Mr. Sachin Shah from the position of ‘CEO & Executive Director’ of the Company, with effect from the close of business hours on December 31, 2026.” — [2026-10-09 Change in Management](https://nsearchives.nseindia.com/corporate/EMBDL_09102026182830_EDL_BM_Outcome_09102026_Final.pdf) · [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/EMBDL_ROID_100143_KMP_Doc.zip)
+- **Why Sachin Shah is leaving, in the filing's words:** “The decision is a natural progression and part of the succession plan for EDL which has been planned taking in confidence Mr. Jitendra Virwani, Chairman, and Mr. Aditya Virwani, Managing Director of EDL” Stays on as: Senior Advisor to the Chairman and the Managing Director & CEO of the Company, with effect from January 1, 2027.
+- In the documents: “Re-designation of Mr. Aditya Virwani, Managing Director of the Company, as “Managing Director & CEO” of the Company, with effect from January 1, 2027, for the remainder of his existing term of appointment, which is up to February 24, 2030, on the existing terms and conditions of his appointment.” — [2026-10-09 Change in Management](https://nsearchives.nseindia.com/corporate/EMBDL_09102026182830_EDL_BM_Outcome_09102026_Final.pdf) · [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/EMBDL_ROID_100143_KMP_Doc.zip) · [2025-08-26 Change in Director(s)](https://nsearchives.nseindia.in/corporate/IBREL_26082025182259_EDL_Outcome_of_BM.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-10-09 Change in Management](https://nsearchives.nseindia.com/corporate/EMBDL_09102026182830_EDL_BM_Outcome_09102026_Final.pdf) · [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/EMBDL_ROID_100143_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-10-09 Change in Management](https://nsearchives.nseindia.com/corporate/EMBDL_09102026182830_EDL_BM_Outcome_09102026_Final.pdf) · [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/EMBDL_ROID_100143_KMP_Doc.zip) · [2025-08-26 Change in Director(s)](https://nsearchives.nseindia.in/corporate/IBREL_26082025182259_EDL_Outcome_of_BM.pdf)
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sachin Shah** — “CEO & Executive Director” (outgoing); “Managing Director & CEO” (incoming), in the seat since FY2023 per the filing.
+**Sachin Shah** — CEO & Executive Director / Managing Director & CEO, in the seat since FY2023 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -57,16 +57,16 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Aditya Virwani** — “CEO & Executive Director” (outgoing); “Managing Director & CEO” (incoming). from: promoter family.
+**Aditya Virwani** — CEO & Executive Director / Managing Director & CEO. from: promoter family.
 
-The filing's own profile: “Mr. Aditya Virwani is the Managing Director of Embassy Group and of the Company, and serves on the board of the manager of Embassy Office Parks REIT. Formerly the Group’s Chief Operating Officer, he has been instrumental in steering Embassy’s evolution from a privately held real estate developer into an institutional-grade platform with a diverse portfolio spanning commercial, residential, hospitality and other asset classes. He played a key role in the successful launch of Embassy Office Parks REIT, India’s first listed REIT, marking a historic milestone in the country’s real estate sector.”
+The filing's own profile: “Mr. Aditya Virwani is the Managing Director of Embassy Group and of the Company, and serves on the board of the manager of Embassy Office Parks REIT. Formerly the Group's Chief Operating Officer, he has been instrumental in steering Embassy's evolution from a privately held real estate developer into an institutional-grade platform with a diverse portfolio spanning commercial, residential, hospitality and other asset classes. He played a key role in the successful launch of Embassy Office Parks REIT, India's first listed REIT, marking a historic milestone in the country's real estate sector.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Managing Director | Embassy Developments Limited (EMBDL) | — | — |
+| Managing Director | Embassy Developments Limited (EMBDL) | — | 2026 |
 | Managing Director | Embassy Group | — | — |
 | Chief Operating Officer | Embassy Group | — | — |
-| Board member of the manager | Embassy Office Parks REIT (manager) | — | — |
+| Board member | Embassy Office Parks REIT (manager) | — | — |
 
 ### 5. On the calls
 

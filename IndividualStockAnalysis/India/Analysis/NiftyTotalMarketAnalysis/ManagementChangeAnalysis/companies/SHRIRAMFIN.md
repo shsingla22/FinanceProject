@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | Y. S. Chakravarti (end of term; last day 2025-12-05) | Parag Sharma (internal; from 2025-12-05) | effective | 2025-12-03 |
-| **Joint Managing Director & Chief Financial Officer** | — (new seat) | Sunder Subramanian (from 2025-12-05) | effective | 2025-12-03 |
+| **Managing Director & Chief Executive Officer** | Y. S. Chakravarti (end of term; last day 2025-12-04) | Parag Sharma (internal; from 2025-12-05) | effective | 2025-10-31 |
+| **Joint Managing Director & Chief Financial Officer** | Parag Sharma (moved to another role in the company or group; last day 2025-12-04) | Sunder Subramanian (internal; from 2025-12-05) | effective | 2025-10-31 |
 
 - **Why Y. S. Chakravarti is leaving, in the filing's words:** “Completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company”
-- In the documents: “we inform you that Mr. Y. S. Chakravarti (DIN 00052308) has completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company with effect from today i.e. December 5, 2025.” — [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Ordinary Resolution for appointment of Mr. Sunder Subramanian (DIN 08189901) as a Whole Time Director of the Company and payment of remuneration to him” — [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
+- In the documents: “Re-designation of Mr. Parag Sharma (DIN 02916744), currently Chief Financial Officer designated as Managing Director & Chief Financial Officer as "Managing Director & Chief Executive Officer" of the Company with effect from December 5, 2025, upon completion of tenure of Mr. Y. S. Chakravarti (DIN 00052308) as Managing Director & CEO of the Company on December 4, 2025, for the remainder of his tenure i.e. up to December 12, 2026, on the same remuneration approved by the Members of the Company at its 45th Annual General Meeting held on July 30, 2024.” — [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf) · [2025-11-01 Shareholders meeting](https://nsearchives.nseindia.in/corporate/Mathew_01112025171640_NSEBSEPostalBallotNotice.pdf) · [2025-10-31 Change in Director(s)](https://nsearchives.nseindia.in/corporate/Mathew_31102025144247_BSENSEchangesinDirectorKMPSMP.pdf) · +1 more
+- **Why Parag Sharma is leaving, in the filing's words:** “Re-designation of Mr. Parag Sharma, Managing Director & CFO of the Company as Managing Director & Chief Executive Officer with effect from December 5, 2025” Stays on as: Managing Director & Chief Executive Officer.
+- In the documents: “Appointment of Mr. Sunder Subramanian (DIN 08189901), currently Joint Managing Director not being part of the Board, as an Additional Director and also as a Whole Time Director of the Company for a period of 5 (five) years with effect from October 31, 2025 and to be designated as Joint Managing Director & Chief Financial Officer with effect from December 5, 2025.” — [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf) · [2025-11-01 Shareholders meeting](https://nsearchives.nseindia.in/corporate/Mathew_01112025171640_NSEBSEPostalBallotNotice.pdf) · [2025-10-31 Change in Director(s)](https://nsearchives.nseindia.in/corporate/Mathew_31102025144247_BSENSEchangesinDirectorKMPSMP.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
+*All 6 filing(s) read for the seats:* [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf) · [2025-11-01 Shareholders meeting](https://nsearchives.nseindia.in/corporate/Mathew_01112025171640_NSEBSEPostalBallotNotice.pdf) · [2025-10-31 Change in Director(s)](https://nsearchives.nseindia.in/corporate/Mathew_31102025144247_BSENSEchangesinDirectorKMPSMP.pdf) · [2025-10-31 Change in Management](https://nsearchives.nseindia.in/corporate/Mathew_31102025144338_BSENSEchangesinDirectorKMPSMP.pdf)
 
 ### 2. Financials — the last three years
 
@@ -36,7 +36,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/SHRIRAMFIN.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹843.40 on 2025-12-02 (the close before) → ₹970.00 on 2026-11-13: **+15.0%**; Nifty 500 -0.4% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹738.25 on 2025-10-30 (the close before) → ₹970.00 on 2026-11-13: **+31.4%**; Nifty 500 -0.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -54,15 +54,38 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 - Also on file: CFO at CRISIL (FY2021–FY2022, annual reports).
 
+**Parag Sharma** — Joint Managing Director & Chief Financial Officer, in the seat since FY2022 per the filing.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2021 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Revenue (₹ cr) | 17,422 | 43,941 | +26.0% a year over 4 years |
+| Financing profit (₹ cr) | 3,402 | 13,132 | +40.2% a year over 4 years |
+| PAT (₹ cr) | 2,499 | 9,576 | +39.9% a year over 4 years |
+| Financing profit margin (%) | 19.5 | 29.9 | +10.4 pts |
+| ROE (%) | 11.5 | 17.0 | +5.5 pts |
+
 ### 4. Track record — the incoming management
 
-**Parag Sharma** — Managing Director & Chief Executive Officer. from: internal.
+**Parag Sharma** — Managing Director & Chief Executive Officer. from: internal; age 56; experience: more than three decades; qualifications: a commerce graduate from Delhi University as well as a graduate from the Institute of Cost and Works Accountants of India (ICWA).
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+The filing's own profile: “Mr. Parag Sharma, aged 56 years is a commerce graduate from Delhi University as well as a graduate from the Institute of Cost and Works Accountants of India (ICWA). He has been working with Shriram Group for more than three decades and rose to the position of Managing Director & CFO with effect from June 1, 2024. Throughout his career, he has consistently demonstrated outstanding performance. He has been assisting the Executive Vice Chairman and Managing Director & CEO in steering the business performance, profitability, enhancing credit rating and savings through smart treasury initiatives, growing new businesses, etc”
 
-**Sunder Subramanian** — Joint Managing Director & Chief Financial Officer.
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Whole Time Director designated as Joint Managing Director & Chief Financial Officer | Shriram Finance Limited (SHRIRAMFIN) | 2021 | 2024 |
+| Managing Director & CFO | Shriram Finance Limited (SHRIRAMFIN) | 2024 | 2025 |
+| — | Shriram Group | — | — |
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+**Sunder Subramanian** — Joint Managing Director & Chief Financial Officer. from: internal; age 54; experience: over three decades; qualifications: holds a Bachelor's Degree in Commerce from University of Madras. He is a Fellow Member of The Institute of Cost Accountants of India (ICMAI).
+
+The filing's own profile: “Before his appointment as Additional Director and Whole-Time Director, he was designated as Joint Managing Director (Non-Board), a Key Managerial Personnel of the Company and responsible for overseeing critical functions vital to the Company's success, including Finance & Accounts, Taxation, MIS, Governance, Planning, Budgeting, Corporate Strategy and Stakeholders' relationship. He regularly interacts with the Regulators, Auditors, Bankers, Investors etc. Mr. Sunder has over three decades of profound experience and expertise in Finance & Accounts. He began his career with the Shriram Group in December 1991.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Joint Managing Director (Non-Board), a Key Managerial Personnel of the Company | Shriram Finance Limited (SHRIRAMFIN) | — | 2025 |
+| — | Shriram Group | 1991 | — |
 
 ### 5. On the calls
 

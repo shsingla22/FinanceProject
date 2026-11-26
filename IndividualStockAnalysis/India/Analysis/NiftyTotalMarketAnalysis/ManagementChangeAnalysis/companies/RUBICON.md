@@ -6,21 +6,21 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** General Atlantic Singapore RR Pte. Ltd., a promoter-classified financial sponsor, sold about 8.45% of Rubicon Research's capital on 2026-09-01, cutting its holding to 27.34%. Total promoter-group holding fell from 59.76% to 51.25%; no new promoter or controlling owner arrived, and management continued unchanged.
+**Ownership — Large stake change, same controller.** General Atlantic Singapore RR Pte. Ltd, a promoter-classified private-equity holder, sold 8.45% of Rubicon's capital on 2026-09-01, cutting its stake to 27.34% and total promoter-group holding from 59.76% to 51.25%. No new promoter arrived; Parag Sancheti continues as Director and CEO. Small earlier slippage came from ESOP allotments.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | General Atlantic Singapore RR Pte. Ltd. | private-equity sponsor | 35.79% | 27.34% |
-| Incoming | — | — | — | — |
+| Outgoing | General Atlantic Singapore RR Pte. Ltd | private-equity sponsor | 35.79% | 27.34% |
+| Incoming | — | public — no single owner | — | — |
 
 - mode: other · control does not change
-- Management changing with it: not stated; the November 5, 2026 results are signed by Parag Sanchetti, Director and Chief Executive Officer, with no change in directors or management disclosed
-- Dates: other 2026-09-01
+- Management changing with it: No change disclosed with the sale; Parag Sancheti signs as 'Director and Chief Executive Officer, DIN: 07686819' both before (November 13, 2025) and after (November 5, 2026) the stake sale.
+- Dates: other 2026-03-31; other 2026-09-01
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 59.99% (2025-10-15) → 59.99% (2025-12-31) → 59.86% (2026-03-31) → 59.76% (2026-06-30) → 51.25% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 16.9% and bought 0.0%.
 
-*Filings read for the ownership:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/9823522970_05112026160314_RRLSEIntimationOutcomeBM05Nov2026.pdf)
+*Filings read for the ownership:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/9823522970_05112026160314_RRLSEIntimationOutcomeBM05Nov2026.pdf) · [2025-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/9823522970_13112025181021_Disclosure_under_reg_30-Outcome_of_Board_Meeting.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@
 
 ### 3. Track record — the outgoing management
 
-**General Atlantic Singapore RR Pte. Ltd.** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.79% → 27.34%.
+**General Atlantic Singapore RR Pte. Ltd** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.79% → 27.34%.
 
 **Nitin Jajodia** — Chief Financial Officer ("CFO"), date of taking the seat not on file.
 

@@ -12,14 +12,14 @@
 | **Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer** | Pushkar Patwardhan (resignation; last day 2026-10-19) | Manaswini Goel (interim; group company; from 2026-10-20) | effective | 2026-10-12 |
 | **Chief Financial Officer and Key Managerial Personnel of the Company** | Manaswini Goel (interim holder replaced; last day 2026-12-31) | Surender Kalra (group company; from 2027-01-01) | announced, not yet effective | 2026-10-12 |
 
-- **Why Venkataraman Srinivas is leaving, in the filing's words:** “on account of his transition to a new role within the Mahindra Group” Stays on as: a new role within Mahindra Group.
+- **Why Venkataraman Srinivas is leaving, in the filing's words:** “I shall be stepping down from the position of Executive Director and Chief Executive Officer (CEO) of SML Mahindra Limited ("the Company") with effect from the close of 30th June 2026 on account of my transition to a new role within Mahindra Group.”
 - In the documents: “That Mr. Vinod Kumar Sahay (DIN: 07884268), Executive Chairman, shall take on additional responsibilities effective from 1st July 2026 till the new CEO is appointed.” — [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLMAH_10062026201214_outcome_OF_BM.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLMAH_10062026202312_outcome_OF_BM.pdf) · [2026-06-10 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SMLMAH_10062026202600_outcome_OF_BM.pdf) · +1 more
-- **Why Pushkar Patwardhan is leaving, in the filing's words:** “Mr. Pushkar Patwardhan has decided to pursue a career opportunity outside the Mahindra Group.”
+- **Why Pushkar Patwardhan is leaving, in the filing's words:** “This is to inform that in order to pursue a career opportunity outside Mahindra Group, I shall be stepping down as the Chief Financial Officer and Key Management Personnel of the Company with effect from Close of 19th October 2026”
 - In the documents: “Appointment of Ms. Manaswini Goel as the Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, for a period from 20th October, 2026 to 31st December, 2026.” — [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026164801_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Cessation](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165125_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165359_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · +1 more
 - **Why Manaswini Goel is leaving, in the filing's words:** “designated as Interim Chief Financial Officer, for the period from 20th October, 2026 to 31st December, 2026”
 - In the documents: “Appointment of Mr. Surender Kalra as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from 1st January, 2027;” — [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026164801_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Cessation](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165125_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165359_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · +1 more
 
-*All 15 filing(s) read for the seats:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026164801_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Cessation](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165125_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165359_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165542_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165720_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Updates](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026171320_Reg_30_intimation_for_Matriality_authorization_SIGNED_PM.pdf) · +9 more
+*All 38 filing(s) read for the seats:* [2026-10-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026164801_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Cessation](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165125_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165359_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165542_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Appointment](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026165720_OutcomeofBoardMeeting12102026SIGNEDPMFINAL.pdf) · [2026-10-12 Updates](https://nsearchives.nseindia.com/corporate/SMLISUZU_12102026171320_Reg_30_intimation_for_Matriality_authorization_SIGNED_PM.pdf) · +32 more
 
 ### 2. Financials — the last three years
 
@@ -47,33 +47,33 @@
 
 ### 3. Track record — the outgoing management
 
-**Venkataraman Srinivas** — Executive Director & Chief Executive Officer, date of taking the seat not on file.
-
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 591 | 2,838 | +36.9% a year over 5 years |
-| Operating profit (₹ cr) | -69.0 | 278 | loss to profit |
-| PAT (₹ cr) | -133 | 160 | loss to profit |
-| Operating profit margin (%) | -11.7 | 9.8 | +21.5 pts |
-| ROCE (%) | -20.0 | 31.0 | +51.0 pts |
-| ROE (%) | -52.2 | 30.8 | +83.0 pts |
-| Borrowings (₹ cr) | 261 | 289 | +28 |
-
-**Pushkar Patwardhan** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
+**Venkataraman Srinivas** — Executive Director & Chief Executive Officer, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2024 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 2,196 | 2,838 | +13.7% a year over 2 years |
-| Operating profit (₹ cr) | 179 | 278 | +24.6% a year over 2 years |
-| PAT (₹ cr) | 108 | 160 | +21.7% a year over 2 years |
-| Operating profit margin (%) | 8.2 | 9.8 | +1.6 pts |
-| ROCE (%) | 24.0 | 31.0 | +7.0 pts |
-| ROE (%) | 37.9 | 30.8 | -7.1 pts |
-| Borrowings (₹ cr) | 421 | 289 | -132 |
+| Sales (₹ cr) | 2,399 | 2,838 | +18.3% a year over 1 year |
+| Operating profit (₹ cr) | 235 | 278 | +18.3% a year over 1 year |
+| PAT (₹ cr) | 122 | 160 | +31.1% a year over 1 year |
+| Operating profit margin (%) | 9.8 | 9.8 | +0.0 pts |
+| ROCE (%) | 27.0 | 31.0 | +4.0 pts |
+| ROE (%) | 31.9 | 30.8 | -1.1 pts |
+| Borrowings (₹ cr) | 327 | 289 | -38 |
+
+**Pushkar Patwardhan** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer, in the seat since FY2026 per the filing.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 2,399 | 2,838 | +18.3% a year over 1 year |
+| Operating profit (₹ cr) | 235 | 278 | +18.3% a year over 1 year |
+| PAT (₹ cr) | 122 | 160 | +31.1% a year over 1 year |
+| Operating profit margin (%) | 9.8 | 9.8 | +0.0 pts |
+| ROCE (%) | 27.0 | 31.0 | +4.0 pts |
+| ROE (%) | 31.9 | 30.8 | -1.1 pts |
+| Borrowings (₹ cr) | 327 | 289 | -38 |
 
 **Manaswini Goel** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2027 per the filing.
 
@@ -81,11 +81,17 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Vinod Kumar Sahay** — Executive Director & Chief Executive Officer (interim). from: internal.
+**Vinod Kumar Sahay** — Executive Director & Chief Executive Officer (interim). from: internal; qualifications: He holds a Bachelor's degree in Physics from Delhi University and a Master's in International Business & Marketing from Symbiosis, Pune. He is a Fulbright CII Fellowship Scholar from Institute of International Education – New York / Carnegie Mellon University, Pittsburgh, USA..
+
+The filing's own profile: “Mr. Vinod Kumar Sahay is a Member of Group Executive Board (GEB) of Mahindra Group. He holds a Bachelor's degree in Physics from Delhi University and a Master's in International Business & Marketing from Symbiosis, Pune. He is a Fulbright CII Fellowship Scholar from Institute of International Education – New York / Carnegie Mellon University, Pittsburgh, USA. Mr. Sahay is Chairman of the Defence & Homeland security committee of FICCI and has also been recognized as India's most Inspirational Business Leader by White Page International. He joined Mahindra Group in 2015 and has previously served as President & Chief Purchase Officer at Mahindra & Mahindra Ltd, CEO of Mahindra Trucks & Buses and Construction equipment, and CEO of Mahindra Two Wheelers businesses.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Chairman | SML Mahindra Limited (SMLMAH) | — | — |
+| President & Chief Purchase Officer | Mahindra & Mahindra Ltd (M&M) | — | — |
+| CEO | Mahindra Trucks & Buses and Construction equipment | — | — |
+| CEO | Mahindra Two Wheelers | — | — |
+| various leadership roles in the Commercial Vehicles Business Unit | Tata Motors (TMCV) | — | — |
+| Chairman of the Company designated as "Executive Chairman" | SML Isuzu Limited / SML Mahindra Limited | 2025 | — |
 
 **Manaswini Goel** — Chief Financial Officer and Key Managerial Personnel of the Company, designated as Interim Chief Financial Officer (interim). from: group company; qualifications: She holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, University of Delhi, and is a Chartered Accountant, being an associate of the Institute of Chartered Accountants of India (ICAI) and the Institute of Chartered Accountants in England and Wales (ICAEW)..
 
@@ -101,13 +107,13 @@ The filing's own profile: “Ms. Manaswini Goel is the Chief Financial Officer f
 
 **Surender Kalra** — Chief Financial Officer and Key Managerial Personnel of the Company. from: group company; experience: over three decades; qualifications: Chartered Accountant.
 
-The filing's own profile: “Mr. Surender Kalra is a Chartered Accountant and brings over three decades of experience across finance, governance, business planning, and transformation. He has been associated with the Swaraj business for nearly 30 years, having joined erstwhile Punjab Tractors Ltd. in 1996 and continuing with Mahindra & Mahindra Limited following the acquisition in 2007. Over the course of his career, he has held leadership roles across Finance & Accounts, Business Planning, and Internal Audit. He was part of the core team that successfully navigated the integration of Punjab Tractors Ltd. into Mahindra & Mahindra and has led several financial optimization and governance initiatives that have strengthened business performance and resilience.”
+The filing's own profile: “Mr. Surender Kalra is a Chartered Accountant and brings over three decades of experience across finance, governance, business planning, and transformation. He has been associated with the Swaraj business for nearly 30 years, having joined erstwhile Punjab Tractors Ltd. in 1996 and continuing with Mahindra & Mahindra Limited following the acquisition in 2007. Over the course of his career, he has held leadership roles across Finance & Accounts, Business Planning, and Internal Audit. Since 2022, he has been serving as Vice President - Finance, Swaraj Division and is a member of the Swaraj Executive Council.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Vice President - Finance, Swaraj Division | Mahindra & Mahindra Limited (M&M) | 2022 | — |
+| — | erstwhile Punjab Tractors Ltd. | 1996 | 2007 |
 | leadership roles across Finance & Accounts, Business Planning, and Internal Audit | Mahindra & Mahindra Limited (M&M) | 2007 | — |
-| — | Punjab Tractors Ltd. | 1996 | 2007 |
+| Vice President - Finance, Swaraj Division and a member of the Swaraj Executive Council | Mahindra & Mahindra Limited, Swaraj Division | 2022 | — |
 
 ### 5. On the calls
 

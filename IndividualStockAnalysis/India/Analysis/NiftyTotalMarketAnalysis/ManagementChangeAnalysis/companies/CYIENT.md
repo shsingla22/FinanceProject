@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Prabhakar Atla (moved to another role in the company or group; last day 2026-03-31) | Shrinivas Kulkarni (group company; from 2026-04-01) | effective | 2026-03-03 |
 
-- **Why Prabhakar Atla is leaving, in the filing's words:** “Mr. Prabhakar Atla, the current Chief Financial Officer, will transition from his present role to Chief Operating Officer of the Company effective 1 April 2026.” Stays on as: Chief Operating Officer of the Company (effective 1 April 2026); later resigned as Chief Operating Officer of Cyient DET with last working day 28 September 2026.
-- In the documents: “Appointment of Mr. Shrinivas Kulkarni as the Chief Financial Officer of the company effective 1 April 2026.” — [2026-03-04 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_04032026090427_PR04032026FinalSigned.pdf) · [2026-03-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CYIENT_03032026212031_ChangeinManagementSigned.pdf) · [2026-03-03 Appointment](https://nsearchives.nseindia.com/corporate/CYIENT_03032026213348_ChangeinManagementSigned.pdf) · +1 more
+- **Why Prabhakar Atla is leaving, in the filing's words:** “Mr. Prabhakar Atla, the current Chief Financial Officer, will transition from his present role and will be appointed as Chief Operating Officer effective 1 April 2026.” Stays on as: Chief Operating Officer of the Company (resigned from that role with last working day 28 September 2026).
+- In the documents: “Appointment of Mr. Shrinivas Kulkarni as the Chief Financial Officer of the company effective 1 April 2026 .” — [2026-03-04 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_04032026090427_PR04032026FinalSigned.pdf) · [2026-03-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CYIENT_03032026212031_ChangeinManagementSigned.pdf) · [2026-03-03 Appointment](https://nsearchives.nseindia.com/corporate/CYIENT_03032026213348_ChangeinManagementSigned.pdf) · +1 more
 
-*All 10 filing(s) read for the seats:* [2026-10-06 Updates](https://nsearchives.nseindia.com/corporate/CYIENT_06102026182600_Resignation_PrabhakarAtlaSigned.pdf) · [2026-07-24 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_24072026173308_PR24072026FinalSigned.pdf) · [2026-06-19 Buyback](https://nsearchives.nseindia.com/corporate/CYIENT_19062026215324_19062026OfferLetterSigned.pdf) · [2026-06-15 General Updates](https://nsearchives.nseindia.com/corporate/CYIENT_15062026155956_LetterandResolutionsBuybackSigned.pdf) · [2026-05-30 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_30052026124531_20052026PRFinalSigned.pdf) · [2026-03-31 General Updates](https://nsearchives.nseindia.com/corporate/CYIENT_31032026213327_31032026OucomeoofBMChangeinManagementSigned.pdf) · +4 more
+*All 11 filing(s) read for the seats:* [2026-10-06 Updates](https://nsearchives.nseindia.com/corporate/CYIENT_06102026182600_Resignation_PrabhakarAtlaSigned.pdf) · [2026-07-24 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_24072026173308_PR24072026FinalSigned.pdf) · [2026-06-19 Buyback](https://nsearchives.nseindia.com/corporate/CYIENT_19062026215324_19062026OfferLetterSigned.pdf) · [2026-06-15 General Updates](https://nsearchives.nseindia.com/corporate/CYIENT_15062026155956_LetterandResolutionsBuybackSigned.pdf) · [2026-05-30 Press Release](https://nsearchives.nseindia.com/corporate/CYIENT_30052026124531_20052026PRFinalSigned.pdf) · [2026-03-31 General Updates](https://nsearchives.nseindia.com/corporate/CYIENT_31032026213327_31032026OucomeoofBMChangeinManagementSigned.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -63,7 +63,7 @@ The filing's own profile: “Mr. Shrinivas Kulkarni has led the finance function
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Financial Officer | Cyient DLM Limited | — | — |
+| CFO | Cyient DLM Limited | — | 2026 |
 
 ### 5. On the calls
 

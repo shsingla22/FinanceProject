@@ -3,3 +3,4 @@ date,days,store,filings,sast,deals,shareholding
 2026-11-26,370,,"{""read"": 5878, ""no-text"": 856, ""skipped"": 12, ""failed"": 3}",,,
 2026-11-26,370,,"{""read"": 5991, ""no-text"": 754, ""skipped"": 1, ""failed"": 3}",,,
 2026-11-26,370,,"{""read"": 8140, ""no-text"": 377, ""skipped"": 4, ""failed"": 10}",,,
+2026-11-26,490,,"{""read"": 10290, ""failed"": 10, ""no-text"": 403, ""skipped"": 5}",,,

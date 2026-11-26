@@ -6,22 +6,22 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoters (Santosh Kumar Yadav, Anju Devi, Manohar Lal and promoter group) gave prior intimation of intent to sell up to 10,00,000 shares for personal and financial reasons, after a Rs 350 crore QIP. Promoter-group holding fell 70.79% to 65.69%. Santosh Kumar Yadav remains Chairman & Managing Director.
+**Ownership — Large stake change, same controller.** Promoters intimated intention to sell up to 10,00,000 equity shares for personal and financial reasons, after a QIP. Promoter-group holding fell from 70.79% to 67.22% on QIP allotment, then to 65.69%. Santosh Kumar Yadav remains Promoter, Chairman and Managing Director; no new controller.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Santosh Kumar Yadav, Anju Devi, Manohar Lal and members of promoter group | founder family | 70.79% (2026-03-31); 67.22% after QIP allotment on 2026-06-01 | 65.69% (2026-06-30 and 2026-09-30) |
-| Incoming | Qualified Institutional Buyers in the QIP; buyers of promoter shares not stated | public — no single owner | — | — |
+| Outgoing | Santosh Kumar Yadav, Anju Devi, Manohar Lal and members of promoter group | founder family | 67.22% | 65.69% |
+| Incoming | — | public — no single owner | — | — |
 
-- mode: other · price ₹1,060.00 per equity share (QIP issue price); promoter sale price not stated · deal value QIP aggregating to ₹34,999.99 lakhs (33,01,886 shares); promoter sale up to 10,00,000 equity shares, value not stated · control does not change
+- mode: other · control does not change
 - Why the seller is selling, in their words: “for personal and financial reason”
-- Management changing with it: No change of control-related board change. Santosh Kumar Yadav continues as Chairman & Managing Director (DIN: 07789940), signing results through 2026-10-29. Separately, Mr. Pawan Nawal was appointed CFO and KMP w.e.f. 15th May, 2026, and Mr. Sonu Gupta re-designated GM Finance w.e.f. 15th May, 2026.
-- Dates: other 2026-05-26; other 2026-06-01
-- In the documents: “I, Santosh Kumar Yadav, Promoter , Chairman and Managing Director, of the KRN Heat Exchanger and Refrigeration Limited ("Company") along with Anju Devi, Promoter and Wholetime and Manohar Lal, Non-Executive Non-Independent Director (collectively with Santosh Kumar Yadav, "Promoters") wish to inform you that we along with members of promoter group of the Company may sell up to I 0,00,000 equity shares of the Company ("Equity Shares"), out of the Equity Shares held by the Promoters and the members of the promoter group, for personal and financial reason ("Sale").”
+- Management changing with it: No change tied to the sale; Santosh Kumar Yadav continues as Chairman & Managing Director (DIN: 07789940). Separately, Mr. Pawan Nawal was appointed Chief Financial Officer and KMP w.e.f. 15th May, 2026 and Mr. Sonu Gupta re-designated GM Finance.
+- Dates: public announcement 2026-05-26; other 2026-06-01
+- In the documents: “We submit herewith a copy of letter received from Santosh Kumar Yadav, Promoter, Chairman and Managing Director of the Company of his intention along with intention of Anju Devi, Promoter and Wholetime and Manohar Lal, Non-Executive Non-Independent Director (collectively with Santosh Kumar Yadav, "Promoters") to sell up to 10,00,000 equity shares of the Company held by the Promoter and members of promoter group.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 70.79% (2025-09-30) → 69.62% (2025-12-31) → 70.79% (2026-03-31) → 67.22% (2026-06-01) → 65.69% (2026-06-30) → 65.69% (2026-09-30)
 
-*Filings read for the ownership:* [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026164352_outcomefinancials.pdf) · [2026-10-29 Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026174522_outcomefinancials.pdf) · [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRNHEAT_12082026173142_outcomefinalsigned.pdf) · [2026-08-12 General Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_12082026174701_outcomefinalsigned.pdf) · [2026-05-26 General Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_26052026224045_ofsintimationsigned.pdf) · [2026-05-26 Committee Meeting Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_26052026230519_ofsintimationsigned.pdf) · +4 more
+*Filings read for the ownership:* [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026164352_outcomefinancials.pdf) · [2026-10-29 Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_29102026174522_outcomefinancials.pdf) · [2026-08-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRNHEAT_12082026173142_outcomefinalsigned.pdf) · [2026-08-12 General Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_12082026174701_outcomefinalsigned.pdf) · [2026-05-26 General Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_26052026224045_ofsintimationsigned.pdf) · [2026-05-26 Committee Meeting Updates](https://nsearchives.nseindia.com/corporate/KRNHEAT_26052026230519_ofsintimationsigned.pdf) · +6 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Santosh Kumar Yadav, Anju Devi, Manohar Lal and members of promoter group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 70.79% (2026-03-31); 67.22% after QIP allotment on 2026-06-01 → 65.69% (2026-06-30 and 2026-09-30).
+**Santosh Kumar Yadav, Anju Devi, Manohar Lal and members of promoter group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 67.22% → 65.69%.
 
 **Sonu Gupta** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2025 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
@@ -75,10 +75,6 @@ The company's results over the part of the tenure the reports on file cover:
 | Borrowings (₹ cr) | 87.0 | 187 | +100 |
 
 ### 4. Track record — the incoming management
-
-**Qualified Institutional Buyers in the QIP; buyers of promoter shares not stated** (public — no single owner) — the incoming owner.
-
-What the documents say about them: “"eligible Qualified Institutional Buyers" under Chapter VI of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; no individual buyer named. Buyers of the promoters' shares are not identified in the documents.”
 
 **Pawan Nawal** — Chief Financial Officer and Key Managerial Personnel.
 

@@ -26,12 +26,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Global Chief Executive Officer** | Anand Kripalu (retirement; last day 2025-12-31) | Hemant Bakshi (internal; from 2026-01-01) | effective | 2026-02-13 |
+| **Managing Director & Global Chief Executive Officer** | Anand Kripalu (retirement; last day 2025-12-31) | Hemant Bakshi (external; from 2026-01-01) | effective | 2025-10-08 |
 
-- **Why Anand Kripalu is leaving, in the filing's words:** “As many of you know, I will be retiring at the end of this year, and Hemant will be taking over as MD and Global CEO, with effect from Jan 1, 2026.” Stays on as: Non-Executive, Non-Independent Director of the Company, with effect from April 1, 2026.
-- In the documents: “Appointment of Mr. Hemant Bakshi (holding Director Identification Number 02362738) as the Managing Director & Global Chief Executive Officer of the Company, for a term of five years with effect from January 1, 2026 to December 31, 2030” — [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf) · [2026-02-13 General Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf)
+- **Why Anand Kripalu is leaving, in the filing's words:** “Retirement of Mr. Anand Kripalu from the post of Managing Director & Global CEO of the Company with effect from closure of business hours on December 31, 2025” Stays on as: Executive Director of the Company, from January 1, 2026 up to March 31, 2026, in an advisory capacity; thereafter Additional Director with effect from April 1, 2026, proposed to be appointed as a Non-Executive, Non-Independent Director.
+- In the documents: “EPL Limited (NSE: EPL; BSE: 500135) today announced that its Board of Directors have appointed Hemant Bakshi as the Managing Director and Global Chief Executive Officer of the Company, effective January 01, 2026.” — [2026-02-13 General Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf) · [2025-10-08 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/Sonia_Gupte_08102025181839_OutcomeOfBMsd.pdf) · [2025-10-08 Change in Director(s)](https://nsearchives.nseindia.in/corporate/Sonia_Gupte_08102025182212_OutcomeOfBMsd.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf) · [2026-02-13 General Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf)
+*All 6 filing(s) read for the seats:* [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf) · [2026-02-13 General Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf) · [2025-10-08 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/Sonia_Gupte_08102025181839_OutcomeOfBMsd.pdf) · [2025-10-08 Change in Director(s)](https://nsearchives.nseindia.in/corporate/Sonia_Gupte_08102025182212_OutcomeOfBMsd.pdf) · [2025-10-08 Press Release](https://nsearchives.nseindia.in/corporate/Sonia_Gupte_08102025183419_OutcomeOfBMsd.pdf)
 
 ### 2. Financials — the last three years
 
@@ -55,13 +55,13 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/EPL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹220.65 on 2026-02-12 (the close before) → ₹237.78 on 2026-11-13: **+7.8%**; Nifty 500 +0.3% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹214.91 on 2025-10-07 (the close before) → ₹237.78 on 2026-11-13: **+10.6%**; Nifty 500 +2.3% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
 **Epsilon Bidco Pte. Ltd. (ultimate beneficial owner Sun Yiming; referred to on the earnings call as promoter Blackstone)** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 26.37% (26.38% per shareholding register as on 2026-06-30) → 0%.
 
-**Anand Kripalu** — Managing Director & Global Chief Executive Officer, in the seat since FY2022 per the annual reports on file.
+**Anand Kripalu** — Managing Director & Global Chief Executive Officer, in the seat since FY2022 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -85,9 +85,16 @@ The company's results while they held the seat (the year before they took it, to
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Hemant Bakshi** — Managing Director & Global Chief Executive Officer. from: internal.
+**Hemant Bakshi** — Managing Director & Global Chief Executive Officer. from: external; experience: over 30 years; qualifications: Bachelor of Technology in Chemical Engineering from IIT, Mumbai and holds an MBA from IIM, Ahmedabad.
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+The filing's own profile: “Mr. Hemant Bakshi has over 30 years of experience in the fast-moving consumer goods (FMCG) industry. He spent three decades at Unilever in senior leadership roles across India and Indonesia, including as CEO of Unilever Indonesia, a $3 billion public listed business and later as Non-executive Chairman of Unilever Indonesia. He drove consistent profitable growth, transformed go-to-market strategies, and led diversity and inclusion initiatives. He also founded and led GroNext Technologies, a Unilever-funded venture building a B2B marketplace for traditional trade stores, scaling it to 12 markets across Latin America, Asia, and Turkey with over $1 billion in GMV. Mr. Bakshi received his Bachelor of Technology in Chemical Engineering from IIT, Mumbai and holds an MBA from IIM, Ahmedabad.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| senior leadership roles across India and Indonesia | Unilever | — | — |
+| CEO | Unilever Indonesia | — | — |
+| Non-executive Chairman | Unilever Indonesia | — | — |
+| founded and led | GroNext Technologies | — | — |
 
 ### 5. On the calls
 

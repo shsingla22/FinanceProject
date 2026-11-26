@@ -11,9 +11,9 @@
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Arun Kumar Sharma (moved to another role in the company or group; last day 2026-05-22) | Ashish Mukkirwar (external; from 2026-05-23) | effective | 2026-05-22 |
 
 - **Why Arun Kumar Sharma is leaving, in the filing's words:** “relinquished his office in the capacity of Chief Financial Officer of the Company effective close of business hours of May 22, 2026” Stays on as: Advisor to the Chairmen.
-- In the documents: “In terms of Regulation 30 of the Listing Regulations, we wish to inform that Mr. Arun Kumar Sharma, Chief Financial Officer of the Company has relinquished his office in the capacity of Chief Financial Officer of the Company effective close of business hours of May 22, 2026 and has moved to a new role as an Advisor to the Chairmen.” — [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026143745_CFOSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145043_CFOSIGNEDF.pdf) · [2026-05-22 Resignation](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145417_CFOSIGNEDF.pdf) · +1 more
+- In the documents: “We wish to further inform that the Board of Directors of the Company, at its meeting held today i.e. on May 22, 2026, on the recommendation of Nomination, Remuneration and Compensation Committee and the Audit Committee, had considered and approved the appointment of Mr. Ashish Mukkirwar as a Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from May 23, 2026.” — [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026143745_CFOSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145043_CFOSIGNEDF.pdf) · [2026-05-22 Resignation](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145417_CFOSIGNEDF.pdf) · +1 more
 
-*All 7 filing(s) read for the seats:* [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026143745_CFOSIGNED.pdf) · [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026144018_MDJMDSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145043_CFOSIGNEDF.pdf) · [2026-05-22 Resignation](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145417_CFOSIGNEDF.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145717_MDJMDSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145844_MDJMDSIGNED.pdf) · +1 more
+*All 11 filing(s) read for the seats:* [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026143745_CFOSIGNED.pdf) · [2026-05-22 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026144018_MDJMDSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145043_CFOSIGNEDF.pdf) · [2026-05-22 Resignation](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145417_CFOSIGNEDF.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145717_MDJMDSIGNED.pdf) · [2026-05-22 Appointment](https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145844_MDJMDSIGNED.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -41,23 +41,23 @@
 
 ### 3. Track record — the outgoing management
 
-**Arun Kumar Sharma** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), date of taking the seat not on file.
+**Arun Kumar Sharma** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 6,099 | 8,280 | +6.3% a year over 5 years |
-| Operating profit (₹ cr) | 1,403 | 1,260 | -2.1% a year over 5 years |
-| PAT (₹ cr) | 836 | 398 | -13.8% a year over 5 years |
-| Operating profit margin (%) | 23.0 | 15.2 | -7.8 pts |
-| ROCE (%) | 12.0 | 9.0 | -3.0 pts |
-| ROE (%) | 17.6 | 5.6 | -12.0 pts |
-| Borrowings (₹ cr) | 2,830 | 3,615 | +785 |
+| Sales (₹ cr) | 7,234 | 8,280 | +14.5% a year over 1 year |
+| Operating profit (₹ cr) | 1,173 | 1,260 | +7.4% a year over 1 year |
+| PAT (₹ cr) | 836 | 398 | -52.4% a year over 1 year |
+| Operating profit margin (%) | 16.2 | 15.2 | -1.0 pts |
+| ROCE (%) | 10.0 | 9.0 | -1.0 pts |
+| ROE (%) | 13.4 | 5.6 | -7.8 pts |
+| Borrowings (₹ cr) | 2,731 | 3,615 | +884 |
 
 ### 4. Track record — the incoming management
 
-**Ashish Mukkirwar** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: external; experience: over two decades; qualifications: MBA from the Indian Institute of Management, Kolkata.
+**Ashish Mukkirwar** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: external; experience: over two decades of progressive experience; qualifications: MBA from the Indian Institute of Management, Kolkata.
 
 The filing's own profile: “Ashish Mukkirwar is a strategic, results-driven financial leader with over two decades of progressive experience across corporate finance, business finance, capital markets, investor relations, M&A, and strategy. He joins Jubilant Pharmova Ltd. from Glenmark Pharmaceuticals, where he most recently served as Group Vice President & CFO – Global Formulations Business. Prior to that, he was the Group Vice President – Strategy, M&A, and Investor Relations at Glenmark for four years. Earlier in his career, Ashish held senior roles at Moelis & Company and UBS Investment Banking, gaining extensive exposure to global capital markets and advisory.”
 

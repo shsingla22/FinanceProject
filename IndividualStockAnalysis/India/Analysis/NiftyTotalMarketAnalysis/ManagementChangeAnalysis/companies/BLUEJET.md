@@ -6,19 +6,20 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Exchange shareholding register shows promoter-and-group holding flat at 79.81% through 2026-06-30, then 73.15% at an interim 2026-07-09 pattern and unchanged at 2026-09-30 — a 6.66 percentage-point promoter sell-down. No filing or note identifies a buyer, agreement or open offer; promoters retain a 73.15% majority.
+**Ownership — Large stake change, same controller.** Promoter and promoter group holding fell from 79.81% to 73.15% between 2026-06-30 and 2026-07-09, a roughly 6.66% sell-down. Promoters retain a 73.15% majority and Arora family management continues, so no new controller arrived. The documents do not describe this in-window sale.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Promoter and promoter group (not named in the documents) | — | 79.81% | 73.15% |
-| Incoming | — | — | — | — |
+| Outgoing | Promoters and promoter group of Blue Jet Healthcare Limited (Arora family; Akshay Bansarilal Arora named as a promoter seller in the earlier 2025 offer for sale) | founder family | 79.81% | 73.15% |
+| Incoming | — | public — no single owner | — | — |
 
 - control does not change
-- Dates: other 2026-06-30; other 2026-07-09
+- Management changing with it: not stated; Shiven Arora speaks for the company on the May 2026 earnings call
+- Dates: other 2026-07-09
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 79.81% (2025-09-30) → 79.81% (2025-12-31) → 79.81% (2026-03-31) → 79.81% (2026-06-30) → 73.15% (2026-07-09) → 73.15% (2026-09-30)
 
-> ⚠ A name or the quote above could not be matched to the documents mechanically — read the filing before relying on it.
+*Filings read for the ownership:* [2025-09-12 Updates](https://nsearchives.nseindia.in/corporate/BLUEJET_12092025202855_Final_Upload.pdf)
 
 ### 2. Financials — the last three years
 
@@ -46,7 +47,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Promoter and promoter group (not named in the documents)** (owner) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 79.81% → 73.15%.
+**Promoters and promoter group of Blue Jet Healthcare Limited (Arora family; Akshay Bansarilal Arora named as a promoter seller in the earlier 2025 offer for sale)** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 79.81% → 73.15%.
 
 ### 4. Track record — the incoming management
 

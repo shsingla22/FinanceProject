@@ -6,30 +6,31 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** Adani group exited as promoter: Adani Commodities LLP sold its remaining stake (7% then 13%) and the Adani entities applied on 27 November 2025 to be reclassified from promoter to public. Lence Pte. Ltd. bought 13% and holds 56.94%, leaving it as sole promoter.
+**Ownership — Change of control — completed.** Adani Commodities LLP sold its entire 20% stake in AWL — 13% off-market to Lence Pte. Ltd. and 7% by bulk deal — completing the July 2025 share purchase agreement. The shareholders' agreement was terminated, Lence (Wilmar International's wholly owned subsidiary) acquired sole control, and the Adani Group was reclassified from promoter to public.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Adani Commodities LLP, Adani Enterprises Limited, S.B. Adani Family Trust and other Adani promoter group entities | corporate parent | 20% (Adani Commodities LLP, per Reg 29 sales of 7% and 13%) | 0% |
-| Incoming | Lence Pte. Ltd. | strategic buyer | — | 56.94% |
+| Outgoing | Adani Enterprises Limited, Adani Commodities LLP and other Adani promoter group entities | corporate parent | 20.00% (Adani Commodities LLP); promoter and group together 63.94% as on 2025-09-30 | 0.00% |
+| Incoming | Lence Pte. Ltd., a wholly owned subsidiary of Wilmar International Limited | strategic buyer | — | 56.94% |
 
-- mode: other · control changes
-- Dates: other 2025-11-24; other 2025-11-27; block deal 2025-11-28; completion 2025-12-18
-- In the documents: “We wish to inform you that the Company has made an application to National Stock Exchange of India Limited and BSE Limited for reclassification of certain members of the promoter and promoter group of the Company ("Existing Promoters") from 'Promoter and Promoter Group' to 'Public category', in accordance with Regulation 31A of Listing Regulations on 27th November 2025.”
+- mode: share purchase agreement · price INR 275 · control changes
+- Management changing with it: The Adani entities certified they do not "have representation on the board of directors of the Company (including not having a nominee director)" nor "act as key managerial personnel in the Company". The Board on 2025-11-24 approved adoption of Amended Articles of Association, as agreed under the SPA, subject to shareholder approval. No new directors or CEO are named in the documents.
+- Dates: agreement 2025-07-17; other 2025-11-19; completion 2025-11-21; approval 2025-11-24; other 2025-11-27; block deal 2025-12-18
+- In the documents: “Pursuant to the execution of the Termination Agreement and the sale of 168,958,219 equity shares of the Company by ACL, Lence has acquired sole control of the Company.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 63.94% (2025-09-30) → 56.94% (2025-12-31) → 56.94% (2026-03-31) → 56.94% (2026-06-30) → 56.94% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 20.0% and bought 13.0%.
 
-*Filings read for the ownership:* [2025-11-27 General Updates](https://nsearchives.nseindia.com/corporate/AWL_27112025204444_SE_Intimation_REg_30_Nov_27_2025.pdf)
+*Filings read for the ownership:* [2025-11-27 General Updates](https://nsearchives.nseindia.com/corporate/AWL_27112025204444_SE_Intimation_REg_30_Nov_27_2025.pdf) · [2025-11-24 General Updates](https://nsearchives.nseindia.com/corporate/AWL_24112025125614_SE_Reclassification_of_Promoter_Nov_24.pdf) · [2025-11-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AWL_24112025125726_SE_Reclassification_of_Promoter_Nov_24.pdf) · [2025-11-21 General Updates](https://nsearchives.nseindia.com/corporate/AWL_21112025233958_SE_Intimation_REg_30_Nov21.pdf) · [2025-11-19 Rescission/termination(s)](https://nsearchives.nseindia.com/corporate/AWL_19112025144651_SE_Disclosure_under_Reg30_Nov_19_2025.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer** | — (new seat) | Pankaj Goyal (internal; from 2026-07-31) | effective | 2026-07-30 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Mr. Pankaj Goyal , who has been serving as the Interim Chief Financial Officer of the Company, has been appointed as the Chief Financial Officer of the Company, categorized as Key Managerial Personnel and Senior Management Personnel with effect from 31st July 2026.” — [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf)
+- **Why the holder is leaving, in the filing's words:** “Mr. Pankaj Goyal was serving as Interim Chief Financial Officer of the Company prior to his appointment.”
+- In the documents: “Mr. Pankaj Goyal, who has been serving as the Interim Chief Financial Officer of the Company, has been appointed as the Chief Financial Officer of the Company, categorized as Key Managerial Personnel and Senior Management Personnel with effect from 31st July 2026.” — [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-16 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_16072026123827_Suchandan_Resignation.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · [2025-12-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_17122025183438_SE_Inti_Postal_Ballot.pdf)
+*All 7 filing(s) read for the seats:* [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-16 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_16072026123827_Suchandan_Resignation.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · [2025-12-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_17122025183438_SE_Inti_Postal_Ballot.pdf) · [2025-11-14 General Updates](https://nsearchives.nseindia.com/corporate/AWL_14112025165130_AWL_30_5.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -53,29 +54,27 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/AWL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹264.25 on 2025-11-26 (the close before) → ₹163.99 on 2026-11-13: **-37.9%**; Nifty 500 -0.9% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹262.35 on 2025-07-16 (the close before) → ₹163.99 on 2026-11-13: **-37.5%**; Nifty 500 +1.1% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Adani Commodities LLP, Adani Enterprises Limited, S.B. Adani Family Trust and other Adani promoter group entities** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 20% (Adani Commodities LLP, per Reg 29 sales of 7% and 13%) → 0%.
+**Adani Enterprises Limited, Adani Commodities LLP and other Adani promoter group entities** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 20.00% (Adani Commodities LLP); promoter and group together 63.94% as on 2025-09-30 → 0.00%.
 
 ### 4. Track record — the incoming management
 
-**Lence Pte. Ltd.** (strategic buyer) — the incoming owner. Holding after: 56.94%.
+**Lence Pte. Ltd., a wholly owned subsidiary of Wilmar International Limited** (strategic buyer) — the incoming owner. Holding after: 56.94%.
 
-*The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
+What the documents say about them: “"Lence Pte. Ltd., a wholly owned subsidiary of Wilmar International Limited (“Lence”)". Lence was already a promoter of the Company and a party to the shareholders' agreement dated April 12, 1999 (with Wilmar Investments (Mauritius) Limited) and the Inter-se Agreement dated July 30, 2021. "Pursuant to the execution of the Termination Agreement and the sale of 168,958,219 equity shares of the Company by ACL, Lence has acquired sole control of the Company." Nothing further about its business or size is stated.”
 
-**Pankaj Goyal** — Chief Financial Officer. from: internal; experience: over 23 years; qualifications: Mr. Pankaj Goyal is a Chartered Accountant by profession.
+**Pankaj Goyal** — Chief Financial Officer. from: internal; experience: over 23 years; qualifications: Chartered Accountant by profession.
 
 The filing's own profile: “Mr. Pankaj Goyal is a Chartered Accountant by profession and has been associated with the Company as the Finance Controller since 2019. He brings with him over 23 years of extensive experience in ﬁnancial accounting, taxation, governance framework implementation, mergers and acquisitions (including due diligence and integration), business transformation, and ﬁnancial planning. During his tenure, he has been at the forefront of strengthening the controllership function, ensuring robust governance, compliance, and ﬁnancial discipline across the organization. He has been associated with the Adani Group since 2009, contributing to various Group companies, including Adani Ports and Special Economic Zone Limited and Adani Green Energy Limited, where he played a key role in ﬁnancial management and compliance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Interim Chief Financial Officer | AWL Agri Business Limited (formerly known as Adani Wilmar Limited) | — | 2026 |
-| Finance Controller | AWL Agri Business Limited (formerly known as Adani Wilmar Limited) | 2019 | — |
-| — | Adani Group | 2009 | — |
-| — | Adani Ports and Special Economic Zone Limited (ADANIPORTS) | — | — |
-| — | Adani Green Energy Limited (ADANIGREEN) | — | — |
+| Interim Chief Financial Officer | AWL Agri Business Limited (formerly Adani Wilmar Limited) | 2025 | 2026 |
+| Finance Controller | AWL Agri Business Limited (formerly Adani Wilmar Limited) | 2019 | — |
+| various Group companies, financial management and compliance | Adani Group (including Adani Ports and Special Economic Zone Limited and Adani Green Energy Limited) | 2009 | — |
 
 ### 5. On the calls
 

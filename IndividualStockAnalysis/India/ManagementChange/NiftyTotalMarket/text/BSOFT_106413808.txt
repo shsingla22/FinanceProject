@@ -1,0 +1,1819 @@
+October 22, 2025
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400001.
+
+National Stock Exchange of India Ltd.,
+Exchange Plaza, C/1, G Block,
+Bandra - Kurla Complex, Bandra (E),
+Mumbai – 400051.
+
+Scrip ID: BSOFT
+Scrip Code: 532400
+
+Symbol: BSOFT
+Series: EQ
+
+Kind Attn: The Manager,
+Department of Corporate Services
+
+Kind Attn: The Manager,
+Listing Department
+
+Subject: -
+
+Sustainability Report of Birlasoft Limited (“Birlasoft” or “the Company”)
+
+Dear Sir/Madam,
+We are pleased to present herewith Birlasoft’s Sustainability Report for FY 2024-25, themed
+“Responsible Change, SustAInable Progress”, showcasing the Company’s ongoing
+commitment to creating long lasting value for all our stakeholders by aligning growth with
+responsibility, digital transformation with climate consciousness, and business performance
+with environmental and social positive impact.
+This report has been prepared in accordance with the Global Reporting Initiative (GRI)
+Standards 2021 and complements our Annual Report for FY 2024-25, which includes disclosure
+on our sustainability performance through the Business Responsibility and Sustainability Report
+(BRSR).
+The Sustainability Report is also being made available on Birlasoft’s website at https://www.birlasoft.com/company/investors/policies-reports-filings.
+Kindly take the same on your records.
+Thanking you.
+Yours faithfully,
+For Birlasoft Limited
+
+Sneha
+Prashant
+Padve
+
+Digitally signed
+by Sneha Prashant
+Padve
+Date: 2025.10.22
+17:06:24 +05'30'
+
+Sneha Padve
+Company Secretary & Compliance Officer
+Membership No. ACS 9678
+Encl.: - As mentioned above.
+
+
+Responsible Change,
+SustAInable Progress
+
+SUSTAINABILITY REPORT
+FY 2024-25
+
+
+Introduction to the Theme
+Responsible Change, SustAInable Progress
+
+SustAInable Progress
+
+In a world defined by evolving technology, shifting stakeholder expectations, and mounting
+environmental challenges, organizations must ‘not only grow—but grow responsibly with
+purpose’. At Birlasoft, we believe that transformation is powered by innovative solutions,
+sustainable processes, and responsible actions that create positive impact on our business,
+our stakeholders, and the environment around us.
+
+Progress, for Birlasoft, is not simply about expansion or topline growth—it’s about the
+ability to create positive, scalable, and inclusive outcomes across our ecosystem. It
+means enabling our people to thrive through future-oriented skilling and leadership
+development, empowering clients through sustainable tech-enabled solutions, and
+contributing meaningfully to communities through impactful social initiatives.
+
+Our Sustainability Report theme for FY 2024–25, “Responsible Change, SustAInable
+Progress” is an extension of the theme of our Annual Report FY 2024-25 and reflects our
+ongoing commitment to creating long lasting value for all our stakeholders by aligning
+growth with responsibility, digital transformation with climate consciousness, and business
+performance with environmental and social positive impact.
+
+Sustainability is no longer a choice—it’s a fundamental business imperative. For us,
+enabling sustainability means embedding environmental, social, and governance (ESG)
+principles across our operations, offerings, and stakeholder engagements to drive
+integrated outcomes within the Company.
+
+Responsible Change
+As Birlasoft continues to build long-lasting stakeholder relationships and expand its
+offerings, we also recognize our role in ensuring that our growth is fueled by responsible
+actions and uphold our commitment to society at large.
+From helping clients build climate-aware digital infrastructure and enhancing ESG data
+transparency to driving internal decarbonization efforts and strengthening diversity and
+inclusion—our holistic approach integrates responsibility in our business actions and
+trajectory ahead.
+We are focused on reducing our environmental footprint, supporting sustainable innovation,
+and aligning our actions with broader national and global priorities such as Net-Zero
+transitions, Green IT, United Nations Sustainable Development Goals (UN SDGs), and
+equitable development.
+
+We jointly define sustainable progress as the ability to unlock potential—whether through
+GenAI, intelligent automation, or purpose-driven partnerships—and ensure that our
+value creation is equitable, ethical, and environmentally-conscious.
+
+A Dual Commitment - Progress and Purpose
+This year’s theme reflects a convergence—between transformation and stewardship,
+innovation and inclusion, growth and accountability.
+“Responsible Change” captures the drive—the positive momentum we bring to people,
+business, and society.
+“SustAInable Progress” defines the direction—ensuring that this progress is
+responsible, resilient, and regenerative.
+Together, they reflect our belief that the future belongs to those who not only move
+ahead, but do so mindfully—by uplifting communities, protecting the planet, and
+creating shared value for generations to come.
+
+SUSTAINABILITY REPORT FY 2024-25
+
+3
+
+
+Table of Contents
+Inside this Report
+
+4
+
+SUSTAINABILITY REPORT FY 2024-25
+
+6
+
+Environment
+
+76
+
+CEO & MD’s Message
+
+8
+
+Key Environment Initiatives and Progress
+
+77
+
+CHRO’s Message
+
+12
+
+Global Head, ESG and Sustainability Message
+
+13
+
+Climate Action and Energy Management:
+Driving Towards Efficiency
+
+84
+
+Corporate Overview
+
+14
+
+Emission Management
+
+89
+
+Awards and Recognitions
+
+16
+
+Waste Management
+
+95
+
+ESG Highlights FY 2024-25
+
+22
+
+Water Management
+
+98
+
+Biodiversity Conservation
+
+102
+
+Stakeholder Engagement and
+Materiality Assessment
+
+24
+
+Sustainable Supply Chain
+
+104
+
+Climate Risk Assessment
+
+36
+
+Environmental Impact and Risk Assessment
+
+108
+
+ESG Goals and Targets
+
+42
+
+Target/Metric Linked to Executive Compensation
+
+45
+
+Social Capital
+
+110
+
+Workforce Development
+
+111
+
+Diversity, Equity, and Inclusion (DE&I)
+
+121
+
+Governance
+
+46
+
+Corporate Governance
+
+47
+
+Employee Well-being
+
+129
+
+Ethical Conduct
+
+60
+
+Learning and Skill Development
+
+137
+
+Risk Management
+
+64
+
+Community Engagement
+
+145
+
+Information, Cyber Security, and Data Privacy
+
+70
+
+Customer Centricity
+
+152
+
+Economic Performance
+
+74
+
+Industry Association and Affiliation
+
+75
+
+Annexures
+
+159
+
+Annexure 1: ESG Data Book
+
+159
+
+Annexure 2: List of Abbreviations
+
+167
+
+Annexure 3: GRI Content Index
+
+169
+
+Annexure 4: Assurance Statement
+
+190
+
+Annexure 5: List of Hyperlinks
+
+193
+
+SUSTAINABILITY REPORT FY 2024-25
+
+5
+
+
+Inside this Report
+
+Governance
+
+Inside this Report
+
+External Assurance
+
+Scope of the Report
+
+Reporting Framework and Standard
+
+Materiality Assessment
+
+Birlasoft Limited (hereafter referred to as “Birlasoft”,
+“the Company”, or “Organization”) is pleased to present
+its Sustainability Report for the reporting period FY
+2024–25, reaffirming our commitment to Environmental,
+Social, and Governance (ESG) excellence. This report
+reflects our vision, progress, and performance across
+key ESG parameters. This report, prepared on a
+standalone basis unless stated otherwise, highlights
+how we’re weaving responsibility into every layer of our
+business. It captures our progress, our purpose, and our
+promise — to build a future that is not only sustainable,
+but also inclusive, resilient, and value-driven for all
+our stakeholders. There have been no restatements of
+information from previous reporting periods in this report.
+
+This Sustainability Report has been prepared in
+accordance with the Global Reporting Initiative (GRI)
+Standards 2021, providing a structured and transparent
+approach to disclosing our ESG performance. It serves
+as a complementary document to our Annual Report
+for FY 2024–25, which includes the mandated Business
+Responsibility and Sustainability Report (BRSR)
+disclosures. Through this dedicated GRI-based report, we
+continue to underscore the strategic importance of ESG
+to our business model, stakeholder engagement, and
+long-term value creation.
+
+At Birlasoft, ‘materiality assessment’ is more than a
+reporting requirement — it’s how we stay aligned with
+what truly matters. For FY 2024–25, our reassessed
+materiality assessment reflects a dynamic and
+forward-looking approach that blends rigorous internal
+evaluation, external stakeholder engagement, industry
+benchmarking and alignment to global standards like
+the GRI Standards 2021 and Sustainability Accounting
+Standards Board (SASB) Standards. Through active
+stakeholder engagement and continuous environmental
+scanning, we identify and prioritize the ESG topics
+that are most critical to both our business strategy
+and stakeholder interests. Recognizing that relevance
+evolves with time, we revisit and refine our material topics
+regularly to ensure our sustainability focus remains
+responsive, impactful, and future-ready.
+
+6
+
+Environment
+
+Social Capital
+
+Annexures
+
+This Sustainability Report has undergone limited assurance by TUV India Private Limited, in accordance with ISAE
+3000 (Revised) standards. Further, assurance was conducted in accordance with the principles of GRI standards. The
+independent assurance statement is included in the Annexure 4 to this report.
+
+Feedback and Response
+We value the opinions of all stakeholders,
+both internal and external to our
+organization. We welcome your questions or
+recommendations at the following point of
+contact:
+Poonam Jindgar
+Global Head – ESG and Sustainability
+poonam.jindgar@birlasoft.com
+esg@birlasoft.com
+
+7
+
+
+Inside this Report
+
+CEO and MD’s Message
+Dear Stakeholders,
+It gives me immense pride to present Birlasoft Limited’s
+Sustainability Report for Financial Year 2024–25,
+themed “Responsible Change, SustAInable Progress”.
+This report reflects our continuous efforts to build a future
+that is inclusive, accountable and resilient.
+In a world marked by rapid shifts and emerging global
+priorities, where sustainability has evolved from an
+obligation to a strategic imperative, organizations must
+lead with intention and integrity. At Birlasoft, we are
+embracing this shift head-on, guided by a vision that places
+sustainability at the centre of our business.
+With a clear strategic focus on new markets, emerging
+technologies and calibrated growth opportunities, we
+position ourselves as a competitive force in an everevolving global landscape. Our focus on Generative AI
+continues to be the driver of our technology roadmap.
+The launch of our GenAI Centre of Excellence and our
+proprietary platform, Birlasoft Cogito, marked important
+milestones in this journey. We introduced in-house
+solutions such as B-Hive, a GenAI-powered conversational
+assistant and Solución, a GenAI-driven offering integrated
+with ServiceNow.
+These developments have further strengthened our
+partnerships with technology leaders such as ServiceNow,
+AWS, Microsoft, Oracle and others. Such alliances are
+central to co-developing high impact solutions for
+our clients. Over the past year, we have continued to
+strengthen the partnership with Microsoft, enabling us
+to drive deeper customer engagements. We were one of
+the first few companies to be audited for “AI Design Wins”
+by Microsoft where we successfully demonstrated our
+capability through implementations of various AI models
+and technologies, across industry sectors.
+
+8
+
+SUSTAINABILITY REPORT FY 2024-25
+
+At Birlasoft, we remain
+steadfast in our
+commitment to creating
+long-term value by
+embracing change with
+responsibility and powering
+progress with sustainability
+at its core.
+
+Governance
+
+At Birlasoft, ESG priorities work as an enabler of business
+continuity, risk mitigation and stakeholder trust. It is actively
+shaping our decisions, policies, and value creation levers.
+As a technology driven organization, we are uniquely
+positioned to help our customers and partners transition
+to more sustainable technological infrastructure while
+simultaneously managing our own ESG footprint.
+This report underscores our ongoing efforts to create
+positive environmental and social impact while reinforcing
+robust governance systems that support our ambitions.
+With this year’s theme of “Responsible Change,
+SustAInable Progress”, we bring focus to our dual
+responsibility to remain agile in an evolving world while
+anchoring our growth in principles that endure.
+In FY 2024–25, we reported revenues of
+INR. 5,375.2 crore, with an EBITDA margin of 13%
+and a PAT of INR. 516.8 crore supported by a global
+workforce of over 11,930 professionals. This resilient
+financial performance creates our capacity to advance
+Birlasoft’s ESG strategy, with 13% of total electricity
+from renewable energy sources, shifting towards
+green building offices and 15% increase in employee
+upskilling hours over the previous year. By embedding
+sustainability metrics alongside financial outcomes, we
+continue to align enterprise growth with ESG priorities,
+ensuring measurable value creation across economic,
+environmental, and social dimensions.
+Our ESG strategy is anchored in the foundational principles
+of People, Planet and Productivity, and through this lens
+we have made measurable progress:
+• Under Environmental Protection Commitment,
+we are working towards our long-term vision of
+becoming Carbon Neutral by 2040, Net Zero by
+2050, and achieving Decarbonization journey with
+interim milestones including increased renewable
+energy adoption, waste-to-landfill reduction in owned
+premises, and enhanced water conservation efforts.
+In FY 2024–25 we achieved 88% recycling rate for
+wastewater and continue to achieve a 100% recycling
+
+Environment
+
+Social Capital
+
+Annexures
+
+rate for E-waste generated by our business operations.
+Birlasoft is also operating in green building certified
+office spaces at Hyderabad and Mumbai, enhancing
+our commitments to improve energy efficiency and
+promote employee well-being.
+• Our Social Responsibility initiatives continue to
+focus on employee well-being, inclusive growth, and
+community development. This year, we recorded 59
+average training hours, upheld our DEI agenda with
+24% gender diversity at Company level, and impacted
+over 7,000 beneficiaries through our CSR programs
+spanning education, health, and digital empowerment.
+• We also strengthened our governance architecture
+by enhancing our Enterprise Risk Management
+framework, refining our ESG reporting structures and
+reinforcing data privacy and cybersecurity measures
+in line with ISO 27001:2022 and ISO 27701:2019 in
+alignment with the NIST Cybersecurity Framework.
+We are simultaneously conducting readiness
+assessment to ensure compliance with regulations
+such as the Digital Personal Data Protection (DPDP)
+Act, thereby upholding our commitment to conforming
+with legal requirements. In line with our Sustainable
+Procurement strategy, we saw an increased
+participation rate of 27% of our value chain partners
+taking part in awareness programs on ESG and the
+integration of sustainability in the value chain.
+In FY 2024–25, we received honour as an “ESG
+Champion of India 2025” by Dun & Bradstreet (D&B)
+in the Supplier Engagement category at the 3rd D&B
+ESG Leadership Summit, recognized with the Diamond
+Award for Leader of the Year in Water Stewardship at
+the INFHRA Corporate Excellence Awards and as a
+DEI Crusader at the ET Now Diversity and Inclusion
+Summit 2024.
+Our cultural tenets—Organisation First, Customer
+Centricity, People Centricity, Say-Do Ratio, Be Bold
+and Quick Decision Making—continue to guide us as we
+scale impact and build shared value.
+
+SUSTAINABILITY REPORT FY 2024-25
+
+9
+
+
+Inside this Report
+
+Governance
+
+Environment
+
+Social Capital
+
+Annexures
+
+Sustainability at Birlasoft is not managed by our single
+team—it is championed across all functions, leadership
+levels and geographies. Our ESG Committee plays a key
+role in organizing the cross-functional participation of
+representatives across our offices, ensuring that each
+stakeholder adds value to our sustainability journey.
+Together, Towards Tomorrow:
+Stakeholders, starting from investors, employees and
+clients, are increasingly demanding greater transparency,
+purposeful innovation and responsible leadership. In
+response, we are proactively investing in talent, cuttingedge technologies and strategic partnerships that will
+empower us to navigate this change with integrity and
+impact. Our focus remains on leading responsibly, creating
+long-term value and driving sustainable growth.
+We aim to scale our ESG data capabilities through
+integrated systems, explore AI-driven sustainability
+solutions, and co-create impact programs with our
+ecosystem. Our sustainability roadmap will continue to
+evolve as we align with emerging disclosure frameworks
+such as BRSR, BRSR Core, EcoVadis, CDP and DJSI,
+ensuring we stay compliant and credible.
+I thank all our employees, customers, shareholders and
+partners for their enduring support. It is your trust that fuels
+our commitment. Together, we will continue to harness the
+power of technology to solve the most pressing challenges
+of our time and ensure that the progress we enable today is
+sustainable for generations to come.
+Warm Regards,
+ANGAN GUHA
+CEO & Managing Director, Birlasoft Limited
+
+10
+
+SUSTAINABILITY REPORT FY 2024-25
+
+SUSTAINABILITY REPORT FY 2024-25
+
+11
+
+
+Inside this Report
+
+Governance
+
+Environment
+
+Social Capital
+
+CHRO’s Message
+
+Global Head, ESG and Sustainability Message
+
+At Birlasoft, we believe our journey toward progress
+and sustainability is firmly rooted in our people,
+guided by ethics, and governed with integrity. In today’s
+rapidly evolving business landscape, our focus remains
+unwavering: to cultivate a culture that is principled,
+inclusive, and purpose led.
+
+At Birlasoft, we believe that ESG is a catalyst for
+long-term value creation, resilience, and responsible
+transformation. Our theme this year, “Responsible
+Change, SustAInable Progress” captures our integrated
+approach to driving sustainable impact across operations,
+culture, and partnerships.
+
+This year’s Sustainability Report theme, “Responsible
+Change, SustAInable Progress”, reflects our belief that
+meaningful transformation cannot happen in isolation. Our
+ESG journey showcases tangible progress, where human
+capital and sustainability initiatives are deeply integrated to
+create long-term value for our employees, communities,
+and stakeholders. This success is powered by a workforce
+that is valued, empowered, and equipped to lead with
+productivity and efficiency.
+
+True innovation begins
+by empowering people,
+communities, and
+partners—because lasting
+impact is never built in
+isolation.
+
+12
+
+SUSTAINABILITY REPORT FY 2024-25
+
+We have made significant progress across all three pillars—
+Environment, Social, and Governance (ESG), from
+completing GHG accounting and estimation for Scope 1, 2,
+and 3 emissions to integrating climate-related risks.
+
+We have advanced our ESG governance through formal
+structures and board-level oversight, institutionalized
+mandatory ESG training, and embedded sustainability
+into procurement practices. As part of our commitment
+to transparency and alignment with leading frameworks,
+we published our Sustainability Report in accordance with
+GRI, while also meeting the principles of UNGC, UN
+SDGs, WEF and IFRS S1 and S2 standards.
+
+Our people-centric approach is built on a foundation of
+care, commitment, diversity, and inclusivity. At Birlasoft, we
+are deepening our investments in leadership development,
+digital readiness, and inclusive policies that support
+diverse talent at every level. Through structured learning
+interventions, mentoring programs, and agile work models,
+we foster an environment where every individual can thrive
+and contribute meaningfully to our overarching goal of
+being a sustainable and responsible company.
+
+Together with our employees and partners, we are building
+an ecosystem where ethical conduct, people-centricity, and
+sustainability go hand in hand, enabling Birlasoft to grow
+responsibly and lead with purpose.
+
+ESG at Birlasoft is —how
+we choose to grow, engage,
+and lead with purpose.
+
+In FY 2024-25, we revisited Materiality Topics and
+updated the materiality assessment by integrating
+both internal & external stakeholders’ perception and
+sharpened our focus on the financial relevance of the ESG
+issues. Our commitment to sustainable and responsible
+business has resulted in continuous improvement and
+positive momentum in our performance across national
+and global ESG rating platforms.
+
+We remain committed to upholding the highest standards
+of ethical conduct and corporate governance, ensuring
+that every decision reflects transparency, fairness, and
+accountability.
+
+Additionally, our ESG-focused trainings enable associates
+to contribute effectively to Birlasoft’s ESG objectives and
+commitments. Our approach to well-being extends beyond
+the workplace through various initiatives and programs.
+Our DE&I charter is backed by measurable goals and
+leadership accountability, ensuring our systems reflect
+our values.
+
+Annexures
+
+Priti Kataria
+Chief Human Resources Officer (CHRO)
+Birlasoft Limited
+
+Looking ahead, we are accelerating efforts to define
+science-based targets initiatives (SBTi), enable internal
+carbon pricing, strengthen disclosures through Carbon
+Disclosure Project (CDP) participation, and develop a
+comprehensive decarbonization roadmap. We will also
+focus on transition planning towards green buildings,
+enhancing ESG risk assessments of our vendors, aligning
+with the UNGC principles, and undertaking a double
+materiality assessment to better reflect our impacts and
+dependencies.
+
+Poonam Jindgar
+Global Head, ESG and Sustainability
+Birlasoft Limited
+
+As we institutionalize sustainability deeper into
+the business, we remain committed to continuous
+improvement, transparent dialogue, and collaborative
+action.
+SUSTAINABILITY REPORT FY 2024-25
+
+13
+
+
+Inside this Report
+
+Corporate Overview
+Birlasoft Limited, a part of the CKA Birla Group, is a
+global enterprise that drives digital transformation for
+organizations across industries. With a strong foundation
+of technology expertise and a culture of innovation,
+the Company delivers solutions spanning Digital,
+Cloud, Enterprise Applications, and Data and Analytics
+to help businesses remain competitive in an evolving
+marketplace.
+Headquartered in Pune, India, Birlasoft operates
+primarily in the Information Technology and Consulting
+Services sector, with a robust global presence. The
+Company has 8 offices within India and 21 offices
+globally across countries such as the United States and
+several countries in the European Union, and serving
+customers across North America, Europe, and the
+Middle East. As of March 31, 2025, Birlasoft employed
+
+nearly 12,000 associates, who uphold its core values
+of Integrity, Responsibility, Excellence, and Innovation.
+Details of workforce diversity, including gender and
+regional distribution, are provided in the later sections of
+this report.
+The Company provides Software Development,
+Global IT consulting to its clients, predominantly
+in Banking, Financial Services and Insurance, Life
+Sciences and Services, Energy Resources and Utilities
+and Manufacturing (which mainly includes Discrete
+Manufacturing, Hi-Tech & Media, Auto and Consumer
+packaged goods) verticals. The Company’s supply chain
+primarily involves procurement of IT infrastructure,
+software licenses, and professional services from
+regional and global vendors, ensuring alignment with its
+quality, cybersecurity, and sustainability standards.
+
+Governance
+
+Social Capital
+
+Annexures
+
+Digital & Data
+At the heart of digital transformation lies intelligence – and that’s where we lead. We empower
+enterprises to modernize their core, reimagine experiences, and drive growth by unlocking the full
+potential of data and AI. Through advanced analytics, GenAI and intelligent automation, we enable
+faster decisions, predictive capabilities, and continuous innovation. Our expertise spans application
+modernization, digital manufacturing, and enterprise integration - reducing technical debt while building
+scalable, future-ready ecosystems.
+
+Enterprise Resource Planning (ERP)
+We deliver seamless ERP transformations across SAP, Oracle, and Microsoft Dynamics 365 –
+empowering businesses to modernize their core, boost agility, and optimize Total Cost of Ownership.
+Powered by our proprietary ZeROism in ERP framework and Composable ERP approach, we enable
+modular, low-code architectures that flex with evolving business demands - making ERP smarter, leaner,
+and future-ready.
+
+Infrastructure and Cloud Technology
+From cloud migration to cybersecurity and intelligent workplace solutions, we deliver holistic
+infrastructure services that power the modern enterprise. With frameworks like One Cloud, B-Assure,
+and Sigma - combined with next-gen capabilities in Agentic AI, we drive seamless service integration,
+intelligent automation, and measurable productivity gains across IT and business landscapes.
+
+Birlasoft is a publicly listed company on the BSE Limited
+and National Stock Exchange of India Limited (NSE),
+maintaining high standards of corporate governance
+and transparency. The Company’s ownership structure
+comprises promoters, institutional investors, and public
+shareholders, as detailed in the Annual Report for FY
+2024–25. There were no operational changes during the
+reporting year that materially impacted the scale or scope
+of our operations.
+The Board of Directors and Executive Leadership Team
+oversee the Company’s strategic priorities, including
+accountability for integrating environmental, social, and
+
+14
+
+Environment
+
+governance (ESG) considerations across operations.
+Further details on the governance structure, including
+the composition of the Board and its committees, can be
+found in the Governance section of this report.
+Birlasoft is guided by a commitment to creating value
+responsibly, integrating business performance with
+social and environmental stewardship. The Company’s
+sustainability approach is embedded in its corporate
+strategy, aligning with stakeholder expectations
+and contributing to the United Nations Sustainable
+Development Goals (UN SDGs).
+
+SUSTAINABILITY REPORT FY 2024-25
+
+15
+
+
+Inside this Report
+
+Governance
+
+Environment
+
+Social Capital
+
+Annexures
+
+Awards and Recognitions
+Environment, Social & Governance
+
+Birlasoft recognized for the ‘Sustainable
+Initiative of the Year 2025’ at the 5th
+Sustainability Summit & Awards 2025.
+
+Corporate Governance
+•
+
+Amongst the Top Leadership Factories in India by the Great Manager
+Institute.
+
+•
+
+Ranked amongst India’s Top 50 Companies with Great Managers™ for 2024
+by People Business.
+
+•
+
+Recognized at Jombay’s WOW Workplace Awards 2025 – for creating an
+innovative and inclusive workplace.
+
+• Recognised as
+a Great Place to
+Work for the fourth
+consecutive year
+
+•
+
+CFO Kamini Shah bagged Gold for Excellence in Corporate Governance and
+Silver for Excellence in Risk Management at the ASSOCHAM 3rd Vibrant
+Bharat CFO Summit and Awards
+
+•
+
+CFO Kamini Shah recognized as the Visionary Leader of 2024 at the FE
+Finance Leadership Dialogue 2024.
+
+• Among the Top
+100 Great Places to
+Work
+
+•
+
+Birlasoft’s CFO, Kamini Shah has won “Woman CFO of the year” award at the
+CFO Impact Awards 2025 by CXO Genie event held in Dubai.
+
+•
+
+Birlasoft’s CFO, Kamini Shah, has won gold in corporate governance and
+silver in risk management in 3rd edition of Vibrant Bharat CFO Summit and
+Awards organised by ASSOCHAM.
+
+•
+
+COO Dr. Selvakumaran Mannappan featured in the ‘Chief Operating Officer:
+Operational Maestros’ list by HR ASSOCIATION OF INDIA (HRAI).
+
+•
+
+Won 2 awards at ISG Women in Digital awards in the APAC and India region.
+Rishu Sharma, Director of the Digital and Data practice, won the title of
+Digital Titan. Sarika Arora Saini, DEI Lead, received Silver under the Women’s
+Advocacy category
+
+•
+
+1 Gold and 4 Silver awards for the bInclusive campaign at the Economic
+Times BrandEquity MarTech Awards 2024, FE FuTech Awards 2024, and e4m
+MarTech India Awards 2024
+
+•
+
+Birlasoft’s weekly radio show - Birlasoft on Air won Gold at the 13th ACEF
+Global Customer Engagement Awards
+
+•
+
+Awarded for Best Legal Tech Implementation by the Economic Times at the
+Global Legal Awards 2025
+
+Birlasoft recognized as one of the ‘ESG Champions of India 2025’ in
+the Supplier Engagement category by Dun & Bradstreet.
+
+• One of India’s
+Top 50 Best
+Workplaces in IT
+& IT-BPM 2024
+by Great Place to
+Work
+Birlasoft won the ‘Best
+Sustainable Procurement
+Initiative’ award at the 5th
+Procurement Confex &
+Awards 2025
+
+16
+
+SUSTAINABILITY REPORT FY 2024-25
+
+SUSTAINABILITY REPORT FY 2024-25
+
+17
+
+
+Inside this Report
+
+Governance
+
+Environment Stewardship & Safety
+•
+
+Bags Bronze at the BW Businessworld FM
+Conference and Excellence Awards 2024 for its
+Green Building practices.
+
+•
+
+Birlasoft has been awarded Gold for Excellence in
+Transportation Innovation at iNFHRA Conference &
+Awards 2024 (Hyderabad)
+
+•
+
+Secured the 2025 in Diamond award for Leader
+of the Year 2025 in Water Stewardship category at
+iNFHRA Corporate Excellence Awards - New Delhi
+Edition.
+
+•
+
+Birlasoft has been awarded Gold for Excellence in
+Workplace Digitization at iNFHRA Conference and
+Awards 2024 (Hyderabad)
+
+•
+
+Birlasoft has been awarded Gold for Excellence
+in Energy Management at the iNFHRA Corporate
+Excellence Conference & Awards 2024 (Noida)
+
+•
+
+Birlasoft has been awarded Silver for Excellence
+in Workplace Digitisation at the iNFHRA Corporate
+Excellence Conference & Awards 2024 (Noida)
+
+•
+
+•
+
+Birlasoft has been awarded Silver for Excellence in
+Transportation Innovation at iNFHRA Conference &
+Awards 2024 (Chennai)
+Birlasoft has been awarded Special recognition for
+Excellence in Workplace Digitization at iNFHRA
+Conference & Awards 2024 (Chennai)
+
+Birlasoft has bagged the Silver Award for Excellence
+in Safety and Security category at iNFHRA Corporate
+Excellence Awards 2024-25 - Bangalore Edition.
+
+•
+
+Birlasoft has secured the Diamond Award for
+Manager of the year 2024-25 in Emergency
+Preparedness & Response category at iNFHRA
+Corporate Excellence Awards 2024-25 - New Delhi
+Edition.
+
+•
+
+Birlasoft has secured the Diamond Award for
+Manager of the year 2024-25 in Employee
+Transportation category at iNFHRA Corporate
+Excellence Awards 2024-25 - New Delhi Edition.
+
+•
+
+Birlasoft Noida’s FLM team earned a special
+recognition as the sole participant in the Leader of
+the year 2024-25 in Occupational Safety and Health
+(OHS) category.
+
+•
+
+Birlasoft has been awarded second prize for
+Excellence in Garden and Landscape Maintenance
+by the Pune Municipal Corporation (PMC) in the 2.5
+acres and above category.
+
+Birlasoft has bagged the Bronze Award for ESG
+category at iNFHRA Corporate Excellence Awards
+2024-25 - Bangalore Edition.
+
+Environment
+
+Social Capital
+
+Annexures
+
+•
+
+Birlasoft has bagged the
+Diamond Award for Excellence
+in Cafeteria Services at the
+iNFHRA Corporate Excellence
+Awards 2024-25 - Pune Edition.
+
+•
+
+Birlasoft has bagged the
+Platinum Award for Excellence
+in Safety and Security
+Services at iNFHRA Corporate
+Excellence Awards 2024-25 Pune Edition.
+
+Birlasoft has secured 1st Place at the Ranjaee Mahotsav
+Awards for Excellence in Garden & Landscape
+Maintenance, organized by the Pimpri Chinchwad
+Municipal Corporation (PCMC).
+
+Business
+Birlasoft has been
+honoured with the
+prestigious MCCIA
+(Maharatta Chamber of
+Commerce, Industries and
+Agriculture) Award for
+Green Initiatives.
+
+•
+
+Honored for its Outstanding Contribution to Digital
+Transformation at the GCC Excellence Award 2024
+
+•
+
+Won the prestigious SAP ALM Excellence at the
+Indus Awards 2024
+
+•
+
+Recognised as the Innovative Partnership Leader at
+Synchrony’s Path to Parity 2024
+
+Recognised as the SnapLogic
+Americas Partner of the Year 2025
+
+18
+
+SUSTAINABILITY REPORT FY 2024-25
+
+Received the Corporate Governance Excellence Award
+2024 by the Directors Institute
+SUSTAINABILITY REPORT FY 2024-25
+
+19
+
+
+Inside this Report
+
+Birlasoft’s SkillFolio wins Bronze for the Most
+Innovative Talent Management Solution at the ETHR
+World Future Skills Awards 2024
+
+•
+
+Birlasoft’s HR Leaders Deeraj Malhotra and Runu
+Jain recognised at the BW People HR 50 Under 50
+Awards 2025
+
+•
+
+Birlasoft’s Young Titans High Potential Development
+Program earned Silver at the Brandon Hall Group
+HCM Excellence Awards 2024
+
+•
+
+Birlasoft secures Silver for Excellence in Line of
+Business Strategy at BW People HR Excellence
+Awards 2024
+
+Bagged Gold at the Brandon Hall Group HCM
+Excellence Awards 2024 in the Best Learning
+Technology Implementation category for
+‘Democratizing Learning - Ride the Tide of
+Change’ initiative
+
+Birlasoft recognized as a ‘Major
+Contender’ in the ‘Quality Engineering
+(QE) Services for AI Applications and
+Systems PEAK Matrix® Assessment
+2024’ by Everest
+
+Secured Gold at the Business World (BW) People Tech.
+Future Awards 2025 in the HR Tech category for its
+SkillFolio initiative
+
+•
+
+Birlasoft recognized as ‘Leader’ in the ‘Next-Gen
+ADM Services 2024 ISG Provider Lens Study’ APAC, Europe, U.S.
+
+Birlasoft identified as a ‘Product Challenger’ in the
+‘Advanced Analytics and AI Services ISG Provider
+Lens’ Study
+
+•
+
+Birlasoft identified as a ‘Product Challenger’ in the
+‘Intelligent Automation Services and Solutions 2024
+ISG Provider Lens™ Study’
+
+•
+
+Birlasoft identified as a ‘Product Challenger’ in the
+‘Insurance Services 2024 ISG Provider Lens™ Study’
+
+•
+
+Birlasoft recognized as ‘Product Challengers’ in
+the ‘Supply Chain Services 2024 ISG Provider Lens
+Study’ - Brazil, Europe and U.S.
+
+•
+
+Birlasoft recognized as a ‘Product Challenger’ in
+ISG’s Life Sciences Digital Services report
+
+•
+
+Birlasoft’s three case studies recognized as ‘Stand
+Out’, one each in Manufacturing, ERP and Data &
+Digital
+
+Birlasoft identified as ‘Innovator’ in the Avasant
+High-Tech Industry Digital Services 2024-2025
+RadarView™
+
+•
+
+Birlasoft recognized as an ‘Innovator’ in Avasant’s
+SAP Successfactors Services 2024 Radarview™
+report
+
+Birlasoft recognized as a ‘Major Contender’ in
+Everest’s Capital Markets IT Services Peak Matrix
+Assessment 2024
+
+•
+
+•
+
+Birlasoft recognized as ‘Star Performer’ and a ‘Major
+Contender’ in the Everest Group Capital Markets IT
+Services PEAK Matrix® Assessment
+
+Birlasoft recognized as a ‘Disruptor’ in Avasant’s
+Multisourcing Service Integration 2023–2024
+Radarview™ report
+
+•
+
+Certified as DEI Crusader at the ET Now Diversity
+and Inclusion Summit 2024
+
+•
+
+•
+
+Birlasoft identified as ‘Rising Star’ and ‘Major
+Contender’ in the Everest Group’s SAP Business
+Application Services PEAK Matrix® Assessment
+2025
+
+Birlasoft identified as ‘Disruptor’ in the Avasant Life
+Sciences Digital Services 2025 RadarView™
+
+•
+
+Recognised as a DEI Champion at the DEI Awards
+2024 by the HR Association of India
+
+•
+
+Birlasoft identified as a ‘Disruptor’ in the ‘Avasant
+Hybrid Enterprise Cloud Services 2024-2025
+RadarView’ Report
+
+The comprehensive list of DE&I-related awards can be found
+in the Diversity, Equity & Inclusion section of this report.
+
+•
+
+Birlasoft recognized as a ‘Disruptor’ in Avasant’s
+Manufacturing Digital Services 2024 Radarview™
+report
+
+20
+
+SUSTAINABILITY REPORT FY 2024-25
+
+Birlasoft positioned in ‘Leader Zone’ by Zinnov
+for ‘Digital Engineering and ER&D Services – U.S.
+Digital Engineering Services and Data and AI
+services – 2024’
+
+•
+
+Birlasoft recognized as ‘Leader’ in the ‘Generative AI
+Services 2024 ISG Provider Lens Study’ - Global
+
+•
+
+Birlasoft positioned in ‘Horizon 2’ as an ‘Enterprise
+Innovator’ in the HFS Generative Enterprise
+Services 2025 Horizons Report
+
+Community Development
+Birlasoft’s CSR initiative, Project
+Shodhan, awarded the Eco Warrior
+Award at the Karma Summit 2024
+
+Birlasoft recognized as ‘Major
+Contender’ in ‘Everest Group
+Open Banking IT Services PEAK
+Matrix Assessment 2024’
+
+Birlasoft identified as a ‘Leader’ in the ‘Oil and Gas
+Industry – Services and Solutions 2024 ISG Provider
+Lens™ Study’ - North America
+
+•
+
+•
+
+Recognised with 7 awards at the DivHersity &
+ForHer Awards 2025 across seven categories
+
+Annexures
+
+Birlasoft recognized as ‘Market Challenger’ and
+‘Product Challenger’ in the ‘Digital Engineering
+Services 2025 ISG Provider Lens™ Study’ - Europe,
+U.S.
+
+Birlasoft recognized as ‘Leader’ in the ‘SAP
+Ecosystem Partners 2025 ISG Provider Lens™
+Study’ - APAC, Germany, U.S.
+
+•
+
+Diversity, Equity, & Inclusion (DE&I)
+
+Social Capital
+
+•
+
+•
+
+•
+
+Awarded Gold at The Economic Times Human Capital
+Awards 2024 in the ITES & Telecom category
+
+Environment
+
+Recognitions Received in 2025
+
+People Centricity
+•
+
+Governance
+
+•
+
+•
+
+Birlasoft identified as a ‘Product Challenger; Market
+Challenger and Contender’ in the ‘Manufacturing
+Industry Services and Solutions 2024 ISG Provider
+Lens™ Study’ - EUR, North America
+
+SUSTAINABILITY REPORT FY 2024-25
+
+21
+
+
+Inside this Report
+
+Governance
+
+Environment
+
+Social Capital
+
+Annexures
+
+ESG Highlights FY 2024-25
+
+ESG Ratings*
+
+Environment
+
+Leading with
+Purpose:
+
+Top 35%
+in ESG Ratings
+
+13%
+of total electricity from
+renewable energy
+sources
+Transition from Plastic
+bottles to Glass
+bottles and Paper cups
+to Ceramic mugs
+
+Improved
+Sustainalytics
+
+ESG Risk Rating**:
+
+14.6 Signaling Reduced
+
+Entire process of employee
+and vendor onboarding and
+approvals digitalized i.e.,
+paperless initiative
+
+100%
+E-waste recycled
+through authorized
+vendors
+
+Ban on single
+use plastics in
+the company
+
+Deployment
+of Electric
+Vehicles
+(EVs)
+
+Transition
+towards Green
+Building
+offices
+
+Risk & Strong Governance
+Strength Recognized:
+CRISIL ESG Rates
+
+Birlasoft as
+
+Strong
+
+Birlasoft Secures
+SES ESG Rating of
+
+72.3,
+Grade B+
+
+Social
+24%
+gender diversity
+in FY 2024-25 for
+total employees
+
+Over 6,37,000
+learning hours achieved
+during FY 2024-25, with
+average of
+59 hr/employee
+
+Partnership with
+Coursera for
+FY 2024-25 with a
+97% adoption rate
+
+Grade
+
+B+
+
+100%
+
+Zero incidents of
+
+employees covered under holistic employee wellbeing initiatives such as BCares program
+
+workplace injuries.
+
+Rated ‘Excellent’:
+ESG Risk AI
+Assessments & Insights
+
+Scores Birlasoft
+
+73.59
+NSE Sustainability Ratings & Analytics
+
+ESG Rating for
+Birlasoft Limited: 67
+* The ESG rating mentioned herein is issued by above mentioned various ESG Rating Agencies based on publicly available disclosure and/
+or assessment questionnaire, based on their defined methodology. These rating do not constitute an audit or certification and should not be
+construed as an endorsement of the Company’s ESG practices.
+** In no event the Sustainability Report 2024-25 shall be construed as investment advice or expert opinion as defined by the applicable
+legislation. The information contained or reflected herein is not directed to or intended for use or distribution to India-based clients or users
+and its distribution to Indian resident individuals or entities is not permitted, and Morningstar/Sustainalytics accepts no responsibility or liability
+whatsoever for the actions of third parties in this respect
+
+22
+
+SUSTAINABILITY REPORT FY 2024-25
+
+Governance
+Certified with ISO 27001
+(Information Security
+Management Systems) and
+
+ISO 27701 (Privacy
+Information Management
+Systems)
+
+Zero
+incidents on data
+privacy and cyber
+security breaches
+within the organization.
+
+VOC analysis reveals
+an impressive
+average rating of
+4.54 for customer
+satisfaction survey
+
+Multiple ESG training sessions carried out for value chain partners to build capacity and
+enhance sustainable supply chain commitments.
+
+SUSTAINABILITY REPORT FY 2024-25
+
+23
+
+
+Inside this Report
+
+Stakeholder Engagement and
+Materiality Assessment
+At Birlasoft, we recognize that proactive and structured
+engagement with stakeholders is fundamental to
+shaping a resilient, responsible, and future-ready
+business. In a rapidly evolving digital landscape,
+stakeholder perception is vital in identifying
+environmental, social, and governance (ESG) priorities
+that are or can be material to both our long-term value
+creation and the wider sustainability impact of our
+business operations.
+
+Our approach to stakeholder engagement and
+materiality is aligned with the GRI standards, SEBI’s
+Business Responsibility and Sustainability Report
+(BRSR) framework, and Sustainability Accounting
+Standards Board (SASB) Standards. Going forward we
+aim to streamline our materiality efforts in line with
+the ‘Double Materiality’ principle as per the Corporate
+Sustainability Reporting Directive (CSRD) framework.
+
+Governance
+
+Environment
+
+Social Capital
+
+Annexures
+
+Stakeholder Engagement: Approach
+At Birlasoft, we have established clear processes
+to identify and engage our key stakeholder groups
+based on their dependency on, responsibility for,
+and influence over our operations. Engagements are
+structured to be two-way, inclusive, and transparent.
+
+The insights gathered serve as a foundation for strategy
+development, risk assessment, activity performance
+review, feedback, and disclosure planning. At Birlasoft,
+we have a ‘three-step approach to stakeholder
+engagement’:
+
+Stakeholder Identification
+and Prioritisation
+
+Stakeholder Engagement
+and Consultation
+
+Responding to Stakeholder
+Concerns and Expectations
+
+Identify and prioritise
+stakeholders who are
+significantly impacted by
+Birlasoft’s operations and
+whose actions or influence may
+affect the Company’s ability to
+achieve strategic objectives.
+This includes assessing the
+degree of impact and influence
+each stakeholder group holds
+in relation to environmental,
+social, governance, and ethical
+dimensions.
+
+Engage with prioritised
+stakeholders through
+customised strategies
+designed to understand their
+expectations, concerns, and
+interests. Focus areas include
+environmental sustainability,
+social responsibility, corporate
+governance, and ethical
+business practices. Engagement
+methods should be inclusive,
+transparent, and responsive to
+stakeholder diversity.
+
+Develop and implement
+targeted action plans that
+address stakeholder feedback
+in a timely, transparent,
+and accountable manner.
+These plans should reflect a
+commitment to continuous
+improvement and alignment
+with stakeholder values and
+corporate responsibility goals.
+
+Primary Stakeholders are individuals or groups with a direct interest in Birlasoft’s activities, including customers,
+employees, suppliers, and local communities. Secondary Stakeholders are entities with an indirect interest or
+influence, such as non-governmental organizations (NGOs), government bodies, media, shareholders and investors.
+
+Overview of Stakeholder Engagement Process
+Mode of Engagement
+
+Frequency Purpose of Engagement
+
+Key Themes Raised
+
+Investors and Shareholders
+
+Stakeholder Materiality Assessment Exercise
+
+24
+
+SUSTAINABILITY REPORT FY 2024-25
+
+Annual General Meeting,
+Annual Report, Investor
+Presentation, Quarterly
+earnings call, Press Release,
+Mails, Website and Direct
+Communication.
+
+Quarterly
+and
+annually
+
+To boost investor trust and
+maximize shareholder value
+and enhance transparency
+about the Company.
+
+Governance practices,
+risk oversight, netzero commitments,
+transparency of ESG
+metrics.
+
+SUSTAINABILITY REPORT FY 2024-25
+
+25
+
+
+Inside this Report
+
+Mode of Engagement
+
+Frequency Purpose of Engagement
+
+Leadership Communication
+and direct interaction at
+least quarterly, People
+Surveys, Business Unit
+Group Discussions, Online
+communication, Mails,
+Newsletters, Volunteering
+opportunities, Festivals and
+other celebrations, Wellness
+sessions.
+
+Continuous To nurture a talented and
+productive workforce, enhance
+employee satisfaction and
+foster a positive and conducive
+work environment.
+
+Key Themes Raised
+
+Governance
+
+Environment
+
+Social Capital
+
+Annexures
+
+Materiality Assessment: Methodology and Application
+
+Employees
+Work culture, hybrid work
+model, mental wellbeing, DE&I, upskilling,
+sustainability awareness.
+
+Key Steps in Our Materiality Assessment
+
+Customers
+Weekly Status Report (WSR), Weekly,
+Direct Communication, and
+Monthly,
+Mails.
+and
+Quarterly
+
+To exceed customer
+expectations, enhance their
+experience, and build longstanding relationships, through
+effective communications and
+disclosures.
+
+Data privacy and
+cybersecurity, ethical AI,
+carbon footprint of IT
+operations, green service
+offerings.
+
+Customer Leads/Manager, Sub-Vertical Head/Vertical Head, AM, HBU, SPOC, DM, PM/Engagement Manager
+Monthly Business Reviews
+(MBR) and Quarterly
+Business Review (QBR)
+
+Monthly
+and
+Quarterly
+
+To exceed customer
+Voice of Customer (VOC),
+expectations and enhance their Market Trends and
+experiences.
+Competitive Positioning,
+Transparency and
+Accountability.
+
+Weekly,
+Monthly,
+and
+Quarterly
+
+To foster mutually
+advantageous partnerships,
+optimize supply chain
+efficiency, and promote
+business growth.
+
+Vendor/Supplier
+Mails, Online and Offline
+Meetings, Review meetings,
+Direct communications, and
+Survey forms.
+
+Ethical sourcing, fair
+labor practices, GHG
+emissions reporting,
+data protection policies.
+
+Implementing Agency (NGO)
+Mails, Online and Offline
+Meetings
+
+Continuous To develop and implement
+Impact Measurement
+social development initiatives and Evaluation,
+and programs for welfare and Community
+development of vulnerable and Engagement, and
+marginalized communities.
+Inclusion
+
+Communities
+Online and Offline Connects, Continuous
+Emails, Phone calls,
+Collaterals, Printed materials,
+Workshops, Door-to-door
+visits, Announcements
+
+26
+
+SUSTAINABILITY REPORT FY 2024-25
+
+In FY 2024-25, with the changing sustainability and regulatory landscape changes, Birlasoft revisited its sustainability
+material topics identified in the initial materiality assessment conducted in FY 2023-24. This assessment was carried
+out in alignment with the GRI 2021 Materiality Standards, which emphasizes the importance of understanding how
+an organization’s activities and business relationships affect the world around it-regardless of whether those impacts
+have a direct financial implication.
+
+To implement social
+development initiatives
+to enhance the livelihood
+opportunities for the
+marginalized communities and
+empower them.
+
+STEP 1
+
+STEP 2
+
+STEP 3
+
+Review Existing
+Material Topics
+
+Peer
+Analysis
+
+Capacity Building &
+Stakeholder Engagement
+
+• Review existing Material topics
+of Birlasoft.
+• Mapping of existing topics
+with relevance to Global
+Standards and Peer Group.
+
+• Identifying material topics
+selected by the peer group.
+
+• Conducting capacity building
+sessions for internal and
+external stakeholders.
+• Receiving inputs from
+stakeholders on materiality
+survey form.
+
+STEP 4
+
+STEP 5
+
+STEP 6
+
+Material topics as per
+Global Frameworks
+
+Identification of
+Material Topics &
+Stakeholders
+
+Analysis of Results &
+Final Matrix Representation
+
+• Identifying key material topics
+as per Global Standards for
+the IT Sector.
+• National and International
+standards/ frameworks
+were considered for this
+assessment such as BRSR,
+GRI, SASB, and S&P GlobalDJSI for identifying sector
+specific material topics.
+
+• Shortlisting material topics for
+Birlasoft along with applicable
+definitions.
+• Identification of key internal
+and external stakeholders for
+engagement.
+
+• Analysis of survey results.
+• Final list of prioritized material
+topics.
+• Final outcome of SEMA in the
+form of materiality matrix.
+
+Digital inclusion,
+skilling for youth and
+women, environmental
+restoration, STEM
+education.
+
+SUSTAINABILITY REPORT FY 2024-25
+
+27
+
+

@@ -2,9 +2,24 @@
 
 ## ACMESOLAR — ACME Solar Holdings Ltd.
 
-**CFO change**
+**Large stake change, same controller · CFO change**
 
 ### 1. What is changing
+
+**Ownership — Large stake change, same controller.** Promoter-and-group holding fell from 83.29% (31-Mar-2026) to 71.48% in the 04-Jun-2026 shareholding disclosure, a drop of about 11.8 percentage points, and stayed at 71.4% thereafter. The promoter group retains a large majority and control. No filing here explains the sale or names any buyer.
+
+| | Who | Kind | Stake before | Stake after |
+|---|---|---|---|---|
+| Outgoing | Promoter and promoter group of ACME Solar Holdings Limited (not named in the documents) | — | 83.29% | 71.4% |
+| Incoming | — | — | — | — |
+
+- control does not change
+- Management changing with it: not stated; the only officer shown is the Chairman and Managing Director (DIN 01282332) signing the 25 July 2025 results
+- Dates: other 2026-06-04
+
+**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 83.41% (2025-09-30) → 83.29% (2025-12-31) → 83.29% (2026-03-31) → 71.48% (2026-06-04) → 71.4% (2026-06-30) → 71.4% (2026-09-30)
+
+*Filings read for the ownership:* [2025-07-30 Updates](https://nsearchives.nseindia.in/corporate/ACME122002_30072025151526_outcomeeditable.pdf)
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -40,6 +55,8 @@
 **Share price since the announcement:** ₹298.55 on 2026-05-07 (the close before) → ₹414.35 on 2026-11-13: **+38.8%**; Nifty 500 +2.2% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
+
+**Promoter and promoter group of ACME Solar Holdings Limited (not named in the documents)** (owner) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 83.29% → 71.4%.
 
 **Rajat Kumar Singh** — Chief Financial Officer, date of taking the seat not on file.
 

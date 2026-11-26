@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Director (Finance)** | Anil Jerath (retirement; last day 2026-08-31) | Shantanu Roy (interim; internal; from 2026-09-01) | effective | 2026-08-31 |
 
-- **Why Anil Jerath is leaving, in the filing's words:** “consequent to his superannuation. He stands relieved from his services at BEML Limited from the closing hours of 31.08.2026”
-- In the documents: “Shri Shantanu Roy, Chairman & Managing Director, entrusted with additional charge of Director (Finance), BEML Limited w.e.f 01.09.2026.” — [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf)
+- **Why Anil Jerath is leaving, in the filing's words:** “consequent to his superannuation. He stands relieved from his services at BEML Limited from the closing hours of 31.08.2026.”
+- In the documents: “Pursuant to Regulation 30 read with Para A (7) of Part A to Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby notify the Stock Exchanges about the cessation of Shri Anil Jerath (DIN- 09543904), Director (Finance), consequent to his superannuation.” — [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf) · [2025-09-29 Shareholders meeting](https://nsearchives.nseindia.in/corporate/BEML_29092025161915_61AGMPROCEDING.pdf) · +1 more
 
-*All 2 filing(s) read for the seats:* [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf)
+*All 4 filing(s) read for the seats:* [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf) · [2025-09-29 Shareholders meeting](https://nsearchives.nseindia.in/corporate/BEML_29092025161915_61AGMPROCEDING.pdf) · [2025-09-04 Shareholders meeting](https://nsearchives.nseindia.in/corporate/BEML_04092025202713_SE_AGM_NOTICE_040925_signed.pdf)
 
 ### 2. Financials — the last three years
 

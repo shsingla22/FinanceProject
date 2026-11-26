@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Vikas Jain (resignation; last day 2027-01-31) | — not named | announced, not yet effective | 2026-11-23 |
 
-- **Why Vikas Jain is leaving, in the filing's words:** “I hereby tender my resignation from the position of Chief Financial Officer (CFO) of TBO Tek Limited for external career opportunity.”
+- **Why Vikas Jain is leaving, in the filing's words:** “to pursue external career opportunities”
 - In the documents: “Mr. Vikas Jain, Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company has resigned from the services of the Company vide email dated November 23, 2026, to pursue external career opportunities.” — [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf) · [2026-08-05 Updates](https://nsearchives.nseindia.com/corporate/9810411243_05082026151750_SEBRSR05082026.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf) · [2026-08-05 Updates](https://nsearchives.nseindia.com/corporate/9810411243_05082026151750_SEBRSR05082026.pdf)
+*All 4 filing(s) read for the seats:* [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf) · [2026-08-05 Updates](https://nsearchives.nseindia.com/corporate/9810411243_05082026151750_SEBRSR05082026.pdf) · [2025-10-02 Acquisition](https://nsearchives.nseindia.in/corporate/7235938746_02102025091845_Acquisition.pdf) · [2025-10-02 Press Release](https://nsearchives.nseindia.in/corporate/7235938746_02102025092040_Acquisition.pdf)
 
 ### 2. Financials — the last three years
 

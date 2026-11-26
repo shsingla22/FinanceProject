@@ -15,9 +15,9 @@
 - In the documents: “This is inform that Shri Kumar Shanker (DIN: 09533240) has been nominated by Promoter Company i.e. GAIL (India) Limited (GAIL) as Managing Director of Indraprastha Gas Limited.” — [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IGL1_08072026160848_IGLPostalBallotNotice08072026.pdf) · [2026-06-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IGL1_05062026180112_IGLChangeinMD05062026.pdf)
   > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 - **Why Sanjay Kumar is leaving, in the filing's words:** “Cessation of Shri Sanjay Kumar as Chief Financial Officer (CFO) w.e.f. May 21, 2026, as he is being repatriated to BPCL, Promoter Company of IGL.” Stays on as: repatriated to BPCL, Promoter Company of IGL.
-- In the documents: “This is to inform that Board of Directors in its meeting held today i.e. May 18, 2026, has designated Shri Manjeet Singh Gulati, Vice President (Finance) of the Company, as Chief Financial Officer (CFO) w.e.f. May 21, 2026.” — [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf)
+- In the documents: “This is to inform that Board of Directors in its meeting held today i.e. May 18, 2026, has designated Shri Manjeet Singh Gulati, Vice President (Finance) of the Company, as Chief Financial Officer (CFO) w.e.f. May 21, 2026.” — [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf) · [2025-09-26 Shareholders meeting](https://nsearchives.nseindia.in/corporate/IGL1_26092025162101_IGLAGMProceedings2025.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IGL1_08072026160848_IGLPostalBallotNotice08072026.pdf) · [2026-06-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IGL1_05062026180112_IGLChangeinMD05062026.pdf) · [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf)
+*All 4 filing(s) read for the seats:* [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IGL1_08072026160848_IGLPostalBallotNotice08072026.pdf) · [2026-06-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/IGL1_05062026180112_IGLChangeinMD05062026.pdf) · [2026-05-18 Change in Management](https://nsearchives.nseindia.com/corporate/IGL1_18052026194221_ChangeinCFO18052026.pdf) · [2025-09-26 Shareholders meeting](https://nsearchives.nseindia.in/corporate/IGL1_26092025162101_IGLAGMProceedings2025.pdf)
 
 ### 2. Financials — the last three years
 
@@ -84,7 +84,7 @@ The filing's own profile: “Shri Kumar Shanker is a Chemical Engineer from B.I.
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director | Maharashtra Natural Gas Limited (MNGL) | — | 2026 |
-| worked in various business verticals of GAIL covering several locations in India | GAIL (GAIL) | — | — |
+| worked in various business verticals of GAIL covering several locations in India including Gujarat, Maharashtra, Madhya Pradesh, Uttar Pradesh and New Delhi | GAIL (GAIL) | — | — |
 
 **Manjeet Singh Gulati** — Chief Financial Officer (CFO). from: internal; experience: around 25 years; qualifications: a qualified CA, CS and CMA.
 

@@ -9,14 +9,14 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chairman cum Managing Director (CMD)** | Girija Subramanian (retirement; last day 2026-07-31) | S Sivasankar (interim; internal; from 2026-08-01) | effective | 2026-07-31 |
-| **Chairman cum Managing Director of The New India Assurance Co. Ltd** | S Sivasankar (interim holder replaced; last day 2026-09-30) | Lavanya R Mundayur (government appointee; from 2026-09-30) | effective | 2026-09-30 |
+| **Chairman cum Managing Director** | S Sivasankar (interim holder replaced; last day 2026-09-30) | Lavanya R Mundayur (government appointee; from 2026-09-30) | effective | 2026-09-30 |
 
-- **Why Girija Subramanian is leaving, in the filing's words:** “ceased to be CMD on Board of the Company with effect from the closing hours of 3lst July 2026 on attaining superannuation”
-- In the documents: “Ministry of Finance vide Order No. eF.No.A-11011/09/2O26-Ins.I has assigned additional charge to Mr. S Sivasankar, Executive Director for the position of Chairman cum Managing Director (CMD) of The New India Assurance Co. Ltd with effect from the date of vacancy i.e. 0I.08.2026 for an initial period of 3 months or till such time a regular CMD is appointed or until further orders, whichever is earliest.” — [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf) · [2026-07-31 Cessation](https://nsearchives.nseindia.com/corporate/NIACL_31072026183506_CMD_Cessation_signed.pdf)
-- **Why S Sivasankar is leaving, in the filing's words:** “hereby ceases to be so w.e.f. 30ttt September 2026 following the appointment of regular CMD on the board” Stays on as: Executive Director.
-- In the documents: “Ms. Lavanya R Mundayur has assumed charge with effect from 3oth September 2026.” — [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf)
+- **Why Girija Subramanian is leaving, in the filing's words:** “ceased to be CMD on Board of the Company with effect from the closing hours of 31st July 2026 on attaining superannuation”
+- In the documents: “Ms. Girija Subramanian, Chairman cum Managing Director (CMD) of The New India Assurance Company Ltd. ceased to be CMD on Board of the Company with effect from the closing hours of 31st July 2026 on attaining superannuation.” — [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf) · [2026-07-31 Cessation](https://nsearchives.nseindia.com/corporate/NIACL_31072026183506_CMD_Cessation_signed.pdf) · +1 more
+- **Why S Sivasankar is leaving, in the filing's words:** “hereby ceases to be so w.e.f. 30th September 2026 following the appointment of regular CMD on the board” Stays on as: Executive Director.
+- In the documents: “Ministry of Finance vide their notification dated 30th September 2026 has appointed Ms. Lavanya R Mundayur as the Chairman cum Managing Director of The New India Assurance Co. Ltd with effect from the date of assumption of charge of the post till the date of her super annuation (i.e. 31.05.2029) or until further orders whichever is earlier.” — [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf)
 
-*All 4 filing(s) read for the seats:* [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf) · [2026-07-31 Cessation](https://nsearchives.nseindia.com/corporate/NIACL_31072026183506_CMD_Cessation_signed.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/NIACL_02042026155759_KMP2.pdf)
+*All 6 filing(s) read for the seats:* [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/NIACL_30092026181625_CMD_appointment.pdf) · [2026-09-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NIACL_11092026121521_intimation.pdf) · [2026-07-31 Cessation](https://nsearchives.nseindia.com/corporate/NIACL_31072026183506_CMD_Cessation_signed.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/NIACL_02042026155759_KMP2.pdf) · [2025-10-01 Shareholders meeting](https://nsearchives.nseindia.in/corporate/NIACL_01102025165805_transcript.pdf) · [2025-09-02 Updates](https://nsearchives.nseindia.in/corporate/NIACL_02092025133600_Exchange.pdf)
 
 ### 2. Financials — the last three years
 
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 4.1 | 5.0 | +0.9 pts |
 | Borrowings (₹ cr) | 0.0 | 0.0 | +0 |
 
-**S Sivasankar** — Chairman cum Managing Director of The New India Assurance Co. Ltd, in the seat since FY2027 per the filing.
+**S Sivasankar** — Chairman cum Managing Director, in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -66,22 +66,23 @@ The company's results while they held the seat (the year before they took it, to
 
 **S Sivasankar** — Chairman cum Managing Director (CMD) (interim). from: internal; experience: 33 years of experience in various capacities in NICL; qualifications: He is a graduate of Commerce. On the professional side, he is a Fellow of Insurance Institute of India [FIII] and holds an Associate diploma in Marine Insurance from Insurance Institute of India..
 
-The filing's own profile: “Mr. S. Sivasankar joined National Insurance Company Ltd. (NICL) as a Direct Recruit (Generalist) officer in 1991. He is a graduate of Commerce. On the professional side, he is a Fellow of Insurance Institute of India [FIII] and holds an Associate diploma in Marine Insurance from Insurance Institute of India. He has 33 years of experience in various capacities in NICL, having worked in BO, DO, RO and HO. He worked as Accounts in-charge of Divisional Office for around 8 years and thereafter served as head of Branch & Divisional Offices for 16 years.”
+The filing's own profile: “Mr. S. Sivasankar joined National Insurance Company Ltd. (NICL) as a Direct Recruit (Generalist) officer in 1991. He is a graduate of Commerce. He has 33 years of experience in various capacities in NICL, having worked in BO, DO, RO and HO. He worked as Accounts in-charge of Divisional Office for around 8 years and thereafter served as head of Branch & Divisional Offices for 16 years. He also handled Corporate and large claims under all Lines of Business in a Corporate Regional Office for a period of 3 years before being promoted as Chief Manager. On 20th February, 2026 he was appointed on the Board of The New India Assurance Company Limited as an Executive Director.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Direct Recruit (Generalist) officer, later Chief Manager, DGM and GM at Head Office | National Insurance Company Ltd. (NICL) | 1991 | — |
+| Direct Recruit (Generalist) officer | National Insurance Company Ltd. (NICL) | 1991 | — |
+| Chief Manager, DGM and GM at Head Office | National Insurance Company Ltd. (NICL) | — | — |
 | Executive Director | The New India Assurance Company Limited (NIACL) | 2026 | — |
 
-**Lavanya R Mundayur** — Chairman cum Managing Director of The New India Assurance Co. Ltd. from: government appointee; experience: over three decades of experience in the insurance sector across India and international markets; qualifications: She holds a postgraduate degree in Analytical Chemistry, is a Fellow of the Insurance Institute of India, and a Certified Reinsurance Specialist from Singapore College of Insurance..
+**Lavanya R Mundayur** — Chairman cum Managing Director. from: government appointee; experience: over three decades of experience in the insurance sector; qualifications: She holds a postgraduate degree in Analytical Chemistry, is a Fellow of the Insurance Institute of India, and a Certified Reinsurance Specialist from Singapore College of Insurance..
 
-The filing's own profile: “Ms. Lavanya R. Mundayur is currently the Chairman cum Managing Director of Agriculture Insurance Company of India Ltd. (AICIL). She has over three decades of experience in the insurance sector across India and international markets. Previously as General Manager-Technical and Chief Underwriting Officer at New India Assurance, she led the Property, Marine, and Aviation underwriting and claims divisions. A strong advocate for diversity, Ms. Mundalrur became the first female CEO to head New India's GCC operation. While at New India's Dubai office, she was the board/committee member of industry associations such as IBG and GIMIC.”
+The filing's own profile: “Ms. Lavanya R. Mundayur is currently the Chairman cum Managing Director of Agriculture Insurance Company of India Ltd. (AICIL). She has over three decades of experience in the insurance sector across India and international markets. Previously as General Manager-Technical and Chief Underwriting Officer at New India Assurance, she led the Property, Marine, and Aviation underwriting and claims divisions. A strong advocate for diversity, Ms. Mundayur became the first female CEO to head New India's GCC operation. While at New India's Dubai office, she was the board/committee member of industry associations such as IBG and GIMIC. In 2023, she received an Honorary Industrial Doctorate from AIMRI, UAE, for her contributions to the field.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chairman cum Managing Director | Agriculture Insurance Company of India Ltd. (AICIL) | — | 2026 |
+| Chairman cum Managing Director | Agriculture Insurance Company of India Ltd. (AICIL) | — | — |
 | General Manager-Technical and Chief Underwriting Officer | New India Assurance (NIACL) | — | — |
-| CEO | New India Assurance (Dubai office / GCC operation) | — | — |
+| CEO heading GCC operation | New India Assurance (GCC / Dubai office) | — | — |
 
 ### 5. On the calls
 

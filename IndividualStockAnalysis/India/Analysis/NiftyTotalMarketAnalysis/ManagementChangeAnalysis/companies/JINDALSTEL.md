@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Additional Director and Managing Director of the Company** | — (new seat) | Vidya Rattan Sharma (external; from 2026-07-24) | effective | 2026-07-24 |
+| **Additional Director and Managing Director of the Company** | — (new seat) | Vidya Rattan Sharma (from 2026-07-24) | effective | 2026-07-24 |
 | **Chief Financial Officer of the Company** | Sunil Agrawal (interim holder replaced; last day 2026-07-24) | Sandeep Modi (external; from 2026-07-24) | effective | 2026-07-24 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Mr. Vidya Rattan Sharma has been appointed as Additional Director and Managing Director of the Company, subject to the approval of the shareholders.” — [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026180707_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026181123_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026182821_STX240626.pdf) · +1 more
-- **Why Sunil Agrawal is leaving, in the filing's words:** “Mr. Sunil Agrawal, who is currently serving as Chief Financial Officer in interim capacity, will step down from the role but will continue overseeing the Finance function of the Company.” Stays on as: continue overseeing the Finance function of the Company.
-- In the documents: “Appointment of Mr. Sandeep Modi, as the Chief Financial Officer and Key Managerial Personnel of the Company, effective July 24, 2026.” — [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026180707_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026181123_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026182821_STX240626.pdf) · +1 more
+- **Why Sunil Agrawal is leaving, in the filing's words:** “Mr. Sunil Agrawal, who is currently serving as Chief Financial Officer in interim capacity, will step down from the role but will continue overseeing the Finance function of the Company.” Stays on as: will continue overseeing the Finance function of the Company.
+- In the documents: “We further wish to inform that, consequent to the appointment of Mr. Sandeep Modi as the Chief Financial Officer (Key Managerial Personnel) of the Company , Mr. Sunil Agrawal, who is currently serving as Chief Financial Officer in interim capacity , will step down from the role but will continue overseeing the Finance function of the Company.” — [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026180707_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026181123_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026182821_STX240626.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026180707_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026181123_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026182821_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026193743_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026193944_STX240626.pdf)
+*All 11 filing(s) read for the seats:* [2026-07-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026180707_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026181123_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026182821_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026193743_STX240626.pdf) · [2026-07-24 Appointment](https://nsearchives.nseindia.com/corporate/JINDALSTEL_24072026193944_STX240626.pdf) · [2025-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/JINDALSTEL_28102025175132_Binder2_signed.pdf) · +5 more
 
 ### 2. Financials — the last three years
 
@@ -44,19 +44,19 @@
 
 ### 3. Track record — the outgoing management
 
-**Sunil Agrawal** — Chief Financial Officer of the Company, date of taking the seat not on file.
+**Sunil Agrawal** — Chief Financial Officer of the Company, in the seat since FY2026 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2025 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Sales (₹ cr) | 34,579 | 53,225 | +9.0% a year over 5 years |
-| Operating profit (₹ cr) | 13,107 | 9,644 | -6.0% a year over 5 years |
-| PAT (₹ cr) | 4,267 | 3,361 | -4.7% a year over 5 years |
-| Operating profit margin (%) | 37.9 | 18.1 | -19.8 pts |
-| ROCE (%) | 17.0 | 10.0 | -7.0 pts |
-| ROE (%) | 13.4 | 6.6 | -6.8 pts |
-| Borrowings (₹ cr) | 29,910 | 22,610 | -7,300 |
+| Sales (₹ cr) | 50,129 | 53,225 | +6.2% a year over 1 year |
+| Operating profit (₹ cr) | 9,488 | 9,644 | +1.6% a year over 1 year |
+| PAT (₹ cr) | 2,846 | 3,361 | +18.1% a year over 1 year |
+| Operating profit margin (%) | 18.9 | 18.1 | -0.8 pts |
+| ROCE (%) | 11.0 | 10.0 | -1.0 pts |
+| ROE (%) | 6.0 | 6.6 | +0.6 pts |
+| Borrowings (₹ cr) | 18,406 | 22,610 | +4,204 |
 
 - Also on file: CFO at GODFRYPHLP (FY2022–FY2024, annual reports).
 - Also on file: CFO at LICI (FY2024–FY2026, annual reports).
@@ -64,9 +64,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vidya Rattan Sharma** — Additional Director and Managing Director of the Company. from: external; experience: four decades of international leadership experience in the steel, power, metal and cement sectors; qualifications: Mr. Vidya Rattan Sharma holds a Degree in Mechanical Engineering from S.M. Hindu Edu. Inst. and an MBA from the College of Applied Science, UK..
+**Vidya Rattan Sharma** — Additional Director and Managing Director of the Company. experience: four decades of international leadership experience in the steel, power, metal and cement sectors; qualifications: Mr. Vidya Rattan Sharma holds a Degree in Mechanical Engineering from S.M. Hindu Edu. Inst. and an MBA from the College of Applied Science, UK..
 
-The filing's own profile: “Mr. Vidya Rattan Sharma holds a Degree in Mechanical Engineering from S.M. Hindu Edu. Inst. and an MBA from the College of Applied Science, UK. He brings four decades of international leadership experience in the steel, power, metal and cement sectors. He previously served as the Managing Director of Jindal Steel Limited (formerly known as Jindal Steel & Power Ltd.) from 2019 to 2022 and, before that, as the Deputy Managing Director & Chief Executive Officer of the Company from 2010 to 2014. Between these tenures, he served as the Group Chief Executive Officer of the AK Steel/KTM Group across the UAE, Africa and India from 2014 to 2019. Earlier in his career, Mr. Vidya Rattan Sharma held the positions of Joint Managing Director and Executive Director at Bhushan Power & Steel and Executive Director at Ispat Industries.”
+The filing's own profile: “Mr. Vidya Rattan Sharma holds a Degree in Mechanical Engineering from S.M. Hindu Edu. Inst. and an MBA from the College of Applied Science, UK. He brings four decades of international leadership experience in the steel, power, metal and cement sectors. He previously served as the Managing Director of Jindal Steel Limited (formerly known as Jindal Steel & Power Ltd.) from 2019 to 2022 and, before that, as the Deputy Managing Director & Chief Executive Officer of the Company from 2010 to 2014. Between these tenures, he served as the Group Chief Executive Officer of the AK Steel/KTM Group across the UAE, Africa and India from 2014 to 2019.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -83,7 +83,7 @@ The filing's own profile: “He is a seasoned finance leader with nearly two dec
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | CFO, responsible for finance, commercial, sales & marketing, legal, strategy and IT | Hindustan Zinc Limited (HINDZINC) | — | — |
-| over two decades of experience, partnering with business leadership teams | Vedanta Group | — | — |
+| over two decades of experience with the Vedanta Group, partnering with business leadership teams | Vedanta Group | — | — |
 
 ### 5. On the calls
 

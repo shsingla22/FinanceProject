@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | Imtaiyazur Rahman (end of term; last day 2026-01-31) | Vetri Subramaniam (internal; from 2026-02-01) | effective | 2025-10-01 |
+| **Managing Director & Chief Executive Officer** | Imtaiyazur Rahman (end of term; last day 2026-01-31) | Vetri Subramaniam (internal; from 2026-02-01) | effective | 2025-09-03 |
 
-- **Why Imtaiyazur Rahman is leaving, in the filing's words:** “Mr. Imtaiyazur Rahman will complete his tenure as Managing Director & Chief Executive Officer of UTI Asset Management Company Limited on 31st January, 2026”
-- In the documents: “Mr. Imtaiyazur Rahman will complete his tenure as Managing Director & Chief Executive Officer of UTI Asset Management Company Limited on 31st January, 2026 and Mr. Vetri Subramaniam will take charge as Managing Director & Chief Executive Officer of the company w.e.f. 1st February, 2026.” — [2026-01-30 General Updates](https://nsearchives.nseindia.com/corporate/CSUTIAMC_30012026175431_Intimation_under_Regulation_30_5_.pdf) · [2025-12-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CSUTIAMC_17122025142843_Intimation_of_Resignation_FM.pdf)
+- **Why Imtaiyazur Rahman is leaving, in the filing's words:** “my tenure as MD & CEO in the executive role will conclude at the close of business hours on 31st January 2026” Stays on as: Strategic Advisor to the MD and CEO (non-executive capacity) from 1st February 2026 until 12th June 2026.
+- In the documents: “The Board of Directors has unanimously appointed Mr. Vetri Subramaniam, current Chief Investment Officer, as the next MD & CEO, effective from 1st February 2026.” — [2025-09-03 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CSUTIAMC_03092025214319_Outcome_of_Board_Meeting.pdf) · [2025-09-03 Appointment](https://nsearchives.nseindia.in/corporate/CSUTIAMC_03092025215046_Outcome_of_Board_Meeting.pdf) · [2025-09-03 Resignation](https://nsearchives.nseindia.in/corporate/CSUTIAMC_03092025215522_Outcome_of_Board_Meeting.pdf) · +1 more
 
-*All 2 filing(s) read for the seats:* [2026-01-30 General Updates](https://nsearchives.nseindia.com/corporate/CSUTIAMC_30012026175431_Intimation_under_Regulation_30_5_.pdf) · [2025-12-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CSUTIAMC_17122025142843_Intimation_of_Resignation_FM.pdf)
+*All 8 filing(s) read for the seats:* [2026-01-30 General Updates](https://nsearchives.nseindia.com/corporate/CSUTIAMC_30012026175431_Intimation_under_Regulation_30_5_.pdf) · [2025-12-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CSUTIAMC_17122025142843_Intimation_of_Resignation_FM.pdf) · [2025-09-08 Shareholders meeting](https://nsearchives.nseindia.in/corporate/CSUTIAMC_08092025223327_Notice_of_EGM.pdf) · [2025-09-04 Change in Management](https://nsearchives.nseindia.in/corporate/CSUTIAMC_04092025202815_Intimation_of_designated_of_SMP.pdf) · [2025-09-03 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CSUTIAMC_03092025214319_Outcome_of_Board_Meeting.pdf) · [2025-09-03 Appointment](https://nsearchives.nseindia.in/corporate/CSUTIAMC_03092025215046_Outcome_of_Board_Meeting.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/UTIAMC.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹1,304.10 on 2025-09-30 (the close before) → ₹842.20 on 2026-11-13: **-35.4%**; Nifty 500 +4.4% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,305.80 on 2025-09-02 (the close before) → ₹842.20 on 2026-11-13: **-35.5%**; Nifty 500 +4.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -57,9 +57,20 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Vetri Subramaniam** — Managing Director & Chief Executive Officer. from: internal.
+**Vetri Subramaniam** — Managing Director & Chief Executive Officer. from: internal; experience: more than three decades of experience in equity markets, investment strategy, mentorship and financial literacy advocacy; qualifications: B. Com Post Graduate Diploma in Management – IIM Bangalore.
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+The filing's own profile: “Mr. Vetri Subramaniam is a Chief Investment Officer at UTI Asset Management Company Limited. He joined UTI AMC as Head of Equity in January 2017 and assumed the role of Chief Investment Officer from August 2021. He is Chair of the UTI Management Committee, which also includes subsidiary businesses, since April 2024. Prior to joining UTI, he was Chief Investment Officer at Invesco Asset Management Limited. He was part of the start-up team at Invesco (then Religare Asset Management) in 2008 and helped establish the firm's proprietary investment process and the team. He started his career at Kotak Mahindra in 1992 after passing out from IIM Bangalore with a PG Diploma in Management.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Chief Investment Officer | UTI Asset Management Company Limited (UTIAMC) | 2021 | — |
+| Head of Equity | UTI Asset Management Company Limited (UTIAMC) | 2017 | 2021 |
+| Chief Investment Officer | Invesco Asset Management Limited (then Religare Asset Management) | 2008 | — |
+| advisor on its equity investments in India | a UK Hedge fund | 2003 | 2007 |
+| one of the founders; led the research & content team | Sharekhan.com (now Mirae Asset Sharekhan) | — | — |
+| started his career | Kotak Mahindra | 1992 | — |
+| investment roles in equity markets | SSKI | — | — |
+| investment roles in equity markets | Motilal Oswal | — | — |
 
 ### 5. On the calls
 

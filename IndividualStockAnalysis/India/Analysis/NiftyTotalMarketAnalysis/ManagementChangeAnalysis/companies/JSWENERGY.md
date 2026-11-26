@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and a Key Managerial Personnel of the Company** | Pritesh Vinay (resignation) | Chandrasekaran Prabhakaran (group company; from 2026-01-01) | effective | 2025-12-12 |
+| **Chief Financial Officer and a Key Managerial Personnel of the Company** | Pritesh Vinay (resignation; last day 2025-12-31) | Chandrasekaran Prabhakaran (group company; from 2026-01-01) | effective | 2025-11-17 |
 
-- **Why Pritesh Vinay is leaving, in the filing's words:** “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company”
-- In the documents: “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company, Mr. Chandrasekaran Prabhakaran has been appointed as the Chief Financial Officer and a Key Managerial Personnel of the Company with effect from 1st January, 2026.” — [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025142815_StockExchage_Intimation.pdf) · [2025-12-12 Issue of Securities](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143419_StockExchage_Intimation.pdf) · [2025-12-12 Preferential issue](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025143733_StockExchage_Intimation.pdf) · +1 more
+- **Why Pritesh Vinay is leaving, in the filing's words:** “I hereby tender my resignation from the position of Director (Finance) and as a Key Managerial Person of the Company in order to pursue career opportunities outside the JSW Group.”
+- In the documents: “Consequent to the vacancy created on account of Mr. Pritesh Vinay's resignation as Director (Finance) and Key Managerial Person of the Company, Mr. Chandrasekaran Prabhakaran has been appointed as the Chief Financial Officer and a Key Managerial Personnel of the Company with effect from 1st January, 2026.” — [2025-12-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AJAYJSWEL_12122025142815_StockExchage_Intimation.pdf) · [2025-11-17 Resignation](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_17112025181450_SELetter_for_Resignation.pdf) · [2025-11-17 Resignation](https://nsearchives.nseindia.com/corporate/RITESHJSWEL_17112025181810_SELetter_for_Resignation.pdf) · +1 more
 
-*All 19 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026151509_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026152656_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153404_Outcome.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153953_Outcome.pdf) · [2026-07-20 General Updates](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_20072026211834_Final.pdf) · [2026-05-25 Qualified Institutional Placement](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_25052026232547_OutcomeFCAllotment.pdf) · +13 more
+*All 22 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026151509_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026152656_Outcome.pdf) · [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153404_Outcome.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_28102026153953_Outcome.pdf) · [2026-07-20 General Updates](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_20072026211834_Final.pdf) · [2026-05-25 Qualified Institutional Placement](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_25052026232547_OutcomeFCAllotment.pdf) · +16 more
 
 ### 2. Financials — the last three years
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/JSWENERGY.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹457.80 on 2025-12-11 (the close before) → ₹514.55 on 2026-11-13: **+12.4%**; Nifty 500 +0.8% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹528.80 on 2025-11-14 (the close before) → ₹514.55 on 2026-11-13: **-2.7%**; Nifty 500 -0.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -59,14 +59,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Chandrasekaran Prabhakaran** — Chief Financial Officer and a Key Managerial Personnel of the Company. from: group company; age 50 years; experience: over 26 years of in-depth experience; qualifications: a qualified Chartered Accountant and Cost Accountant.
+**Chandrasekaran Prabhakaran** — Chief Financial Officer and a Key Managerial Personnel of the Company. from: group company; age 50 years; experience: over 26 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
 
-The filing's own profile: “Mr. Prabhakaran, aged 50 years, is a seasoned finance leader and a qualified Chartered Accountant and Cost Accountant with over 26 years of in-depth experience in corporate finance, accounting, and governance across large listed conglomerates. He currently serves as the Deputy Chief Financial Officer at JSW Steel Limited, having been associated with the JSW Group since November 2014. He brings strong expertise in Ind AS/IFRS financial reporting, statutory compliance, internal controls, audit management, and SEBI listing and disclosure requirements. He has previously held several senior leadership roles in prominent Indian and global organizations.”
+The filing's own profile: “Mr. Prabhakaran, aged 50 years, is a seasoned finance leader and a qualified Chartered Accountant and Cost Accountant with over 26 years of in-depth experience in corporate finance, accounting, and governance across large listed conglomerates. He currently serves as the Deputy Chief Financial Officer at JSW Steel Limited, having been associated with the JSW Group since November 2014. He brings strong expertise in Ind AS/IFRS financial reporting, statutory compliance, internal controls, audit management, and SEBI listing and disclosure requirements.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Deputy Chief Financial Officer | JSW Steel Limited (JSWSTEEL) | — | — |
-| associated with the JSW Group | JSW Group | 2014 | — |
+| associated with the JSW Group since November 2014 | JSW Group | 2014 | — |
 
 ### 5. On the calls
 

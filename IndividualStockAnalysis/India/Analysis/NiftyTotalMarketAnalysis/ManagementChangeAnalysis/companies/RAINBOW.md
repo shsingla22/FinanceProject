@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | — (new seat) | Abrarali Dalal | effective | 2026-01-28 |
+| **Chief Executive Officer (Key Managerial Personnel)** | — (new seat) | Abrarali Dalal (external; from 2026-01-20) | effective | 2025-11-13 |
 | **Chief Financial Officer (Key Managerial Personnel) of the Company and designated as Group Chief Financial Officer** | Vikas Maheshwari (resignation; last day 2026-08-31) | Sudarshan Patodia (external; from 2026-09-23) | effective | 2026-08-25 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “The appointment of Mr. Abrar ali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale -up are key .” — [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf)
-- **Why Vikas Maheshwari is leaving, in the filing's words:** “As discussed, due to personal reasons, I hereby resign from the position of Chief Financial Officer (CFO) & Key Managerial Personne l (KMP) of Rainbow Children's Medicare Limited with effect from the close of business hours on August 31, 2026.”
-- In the documents: “The Board of Directors of the Company has appointed Mr. Sudarshan Patodia as the Chief Financial Officer and Key Managerial Personnel of the Company and designated him as Group Chief Financial Officer , with effect from September 23, 2026.” — [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · +1 more
+- In the documents: “Upon the recommendation of the Nomination and Remuneration Committee, the Board of Directors has appointed Mr. Abrarali Dalal as the Chief Executive Officer (Key Managerial Personnel) of the Company with effect from January 20, 2026.” — [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf) · [2025-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_13112025174152_Outcome_of_Board_Meeting.pdf) · [2025-11-13 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_13112025175245_Outcome_of_Board_Meeting.pdf) · +1 more
+- **Why Vikas Maheshwari is leaving, in the filing's words:** “As discussed, due to personal reasons, I hereby resign from the position of Chief Financial Officer (CFO) & Key Managerial Personnel (KMP) of Rainbow Children's Medicare Limited with effect from the close of business hours on August 31, 2026.”
+- In the documents: “The Board of Directors of the Company has appointed Mr. Sudarshan Patodia as the Chief Financial Officer and Key Managerial Personnel of the Company and designated him as Group Chief Financial Officer, with effect from September 23, 2026.” — [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · +1 more
 
-*All 12 filing(s) read for the seats:* [2026-10-31 Press Release (Revised)](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_31102026200311_IntimationPressreleaserev.pdf) · [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · [2026-08-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RAINBOW_ROID_97070_KMP_Doc.zip) · [2026-05-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23052026195658_Intimation_Outcome.pdf) · +6 more
+*All 15 filing(s) read for the seats:* [2026-10-31 Press Release (Revised)](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_31102026200311_IntimationPressreleaserev.pdf) · [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · [2026-08-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RAINBOW_ROID_97070_KMP_Doc.zip) · [2026-05-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23052026195658_Intimation_Outcome.pdf) · +9 more
 
 ### 2. Financials — the last three years
 
@@ -40,7 +40,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/RAINBOW.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹1,188.50 on 2026-01-27 (the close before) → ₹1,271.50 on 2026-11-13: **+7.0%**; Nifty 500 +4.0% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,359.10 on 2025-11-12 (the close before) → ₹1,271.50 on 2026-11-13: **-6.4%**; Nifty 500 -0.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -62,13 +62,13 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Abrarali Dalal** — Chief Executive Officer.
+**Abrarali Dalal** — Chief Executive Officer (Key Managerial Personnel). from: external; experience: over 25 years of experience spanning healthcare and allied sectors; qualifications: He holds an MBA and a Diploma in Foreign Trade from reputed institutions in Pune, and a Bachelor's degree in Science..
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+The filing's own profile: “Mr. Abrarali Dalal is a seasoned business leader with over 25 years of experience spanning healthcare and allied sectors. He has successfully led large, multi-location hospital networks through transformational growth journeys, driving scale, profitability, and operational excellence, while serving in multiple CXO roles and steering organizations from top leadership positions. Over the years, he has held progressive leadership roles across operations, strategy, and business development, with a proven track record in turnaround management, brownfield expansions, clinical excellence, and brand repositioning. His strategic focus has been on digital transformation, star clinician recruitment and retention, and productivity-led profitability improvement.”
 
 **Sudarshan Patodia** — Chief Financial Officer (Key Managerial Personnel) of the Company and designated as Group Chief Financial Officer. from: external; experience: nearly two decades of experience in finance across the healthcare, retail and FMCG sectors; qualifications: Chartered Accountant and a Gold Medalist.
 
-The filing's own profile: “Mr. Sudarshan Patodia is a Chartered Accountant and a Gold Medalist with nearly two decades of experience in finance across the healthcare, retail and FMCG sectors. Prior to joining Rainbow Children's Medicare Limited, he served as the Chief Financial Office r of New Delhi Centre for Sight Limited, where he was responsible for finance, treasury, investor relations, strategic planning, fundraising and M&A, and was involved in acquisition transactions and fundraising initiatives. Prior to Centre for Sight, he served as Vice President – Finance at Vishal Mega Mart, where he contributed to business finance, FP&A, investor relations and the company's IPO journey.”
+The filing's own profile: “Mr. Sudarshan Patodia is a Chartered Accountant and a Gold Medalist with nearly two decades of experience in finance across the healthcare, retail and FMCG sectors. Prior to joining Rainbow Children's Medicare Limited, he served as the Chief Financial Officer of New Delhi Centre for Sight Limited, where he was responsible for finance, treasury, investor relations, strategic planning, fundraising and M&A, and was involved in acquisition transactions and fundraising initiatives. Prior to Centre for Sight, he served as Vice President – Finance at Vishal Mega Mart, where he contributed to business finance, FP&A, investor relations and the company's IPO journey.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

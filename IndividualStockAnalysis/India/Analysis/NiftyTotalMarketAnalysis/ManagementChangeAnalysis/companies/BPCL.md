@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Chairman & Managing Director (C&MD)** | — (new seat) | Sanjay Khanna (internal; from 2026-04-09) | effective | 2026-04-09 |
 
-- **Why the holder is leaving, in the filing's words:** “Shri Sanjay Khanna , who was appointed as Director (Refineries) w.e.f 22.02.2022 was also holding additional charge as Chairman & Managing Director w.e.f. 01.05.2025.”
-- In the documents: “In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we inform you that, at the Board Meeting held today, Shri Sanjay Khanna, Director (Refineries) has been appointed as Chairman & Managing Director (C&MD) of the company and has accordingly taken over the charge of C&MD w.e.f. 9.4.2026.” — [2026-07-30 General Updates](https://nsearchives.nseindia.com/corporate/BPCL26_30072026113705_1stexintimationextnofDRcharges.pdf) · [2026-04-16 General Updates](https://nsearchives.nseindia.com/corporate/BPCL_16042026145722_1stexchaddlcharge16426s.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BPCL22_09042026145400_stexapptofcmd090426s.pdf)
+- **Why the holder is leaving, in the filing's words:** “not stated”
+- In the documents: “In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we inform you that, at the Board Meeting held today, Shri Sanjay Khanna, Director (Refineries) has been appointed as Chairman & Managing Director (C&MD) of the company and has accordingly taken over the charge of C&MD w.e.f. 9.4.2026.” — [2026-07-30 General Updates](https://nsearchives.nseindia.com/corporate/BPCL26_30072026113705_1stexintimationextnofDRcharges.pdf) · [2026-04-16 General Updates](https://nsearchives.nseindia.com/corporate/BPCL_16042026145722_1stexchaddlcharge16426s.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BPCL22_09042026145400_stexapptofcmd090426s.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-07-30 General Updates](https://nsearchives.nseindia.com/corporate/BPCL26_30072026113705_1stexintimationextnofDRcharges.pdf) · [2026-04-16 General Updates](https://nsearchives.nseindia.com/corporate/BPCL_16042026145722_1stexchaddlcharge16426s.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BPCL22_09042026145400_stexapptofcmd090426s.pdf)
+*All 4 filing(s) read for the seats:* [2026-07-30 General Updates](https://nsearchives.nseindia.com/corporate/BPCL26_30072026113705_1stexintimationextnofDRcharges.pdf) · [2026-04-16 General Updates](https://nsearchives.nseindia.com/corporate/BPCL_16042026145722_1stexchaddlcharge16426s.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BPCL22_09042026145400_stexapptofcmd090426s.pdf) · [2025-11-07 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BPCL22_07112025170949_Changeindirectors71125s.pdf)
 
 ### 2. Financials — the last three years
 
@@ -45,16 +45,16 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Sanjay Khanna** — Chairman & Managing Director (C&MD). from: internal; experience: over three decades of experience in refinery operations and technical services; qualifications: a Chemical Engineering graduate from National Institute of Technology, Tiruchirapalli and Postgraduate in Finance Management from Mumbai University.
+**Sanjay Khanna** — Chairman & Managing Director (C&MD). from: internal; experience: over three decades of experience in refinery operations and technical services; qualifications: Chemical Engineering graduate from National Institute of Technology, Tiruchirapalli and Postgraduate in Finance Management from Mumbai University.
 
-The filing's own profile: “Shri Sanjay Khanna is a Chemical Engineering graduate from National Institute of Technology, Tiruchirapalli and Postgraduate in Finance Management from Mumbai University. He has over three decades of experience in refinery operations and technical services. He anchored several prestigious projects for setting up new process units in Refineries at Mumbai, Kochi and Numaligarh. Prior to becoming Director (Refineries) he headed Kochi and Mumbai Refineries of BPCL. As Executive Director of Kochi Refinery, he played a key role in commissioning the first 'Niche Petrochemical' project of BPCL, Propylene Derivative Petrochemical Project (PDPP) despite the challenges posed by the pandemic.”
+The filing's own profile: “Shri Sanjay Khanna is a Chemical Engineering graduate from National Institute of Technology, Tiruchirapalli and Postgraduate in Finance Management from Mumbai University. He has over three decades of experience in refinery operations and technical services. He anchored several prestigious projects for setting up new process units in Refineries at Mumbai, Kochi and Numaligarh. Prior to becoming Director (Refineries) he headed Kochi and Mumbai Refineries of BPCL.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Director (Refineries) | Bharat Petroleum Corporation Limited (BPCL) | 2022 | 2026 |
-| Chairman & Managing Director (additional charge) | Bharat Petroleum Corporation Limited (BPCL) | 2025 | 2026 |
-| Executive Director of Kochi Refinery | Bharat Petroleum Corporation Limited (Kochi Refinery) | — | — |
+| holding additional charge as Chairman & Managing Director | Bharat Petroleum Corporation Limited (BPCL) | 2025 | 2026 |
 | headed Kochi and Mumbai Refineries of BPCL | Bharat Petroleum Corporation Limited (BPCL) | — | — |
+| Executive Director | Bharat Petroleum Corporation Limited, Kochi Refinery | — | — |
 
 ### 5. On the calls
 

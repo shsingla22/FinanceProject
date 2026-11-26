@@ -30,9 +30,9 @@
 | **Managing Director** | R. Venkataraman (moved to another role in the company or group) | Vasudev Jagannath (internal; from 2027-01-01) | announced, not yet effective | 2026-10-28 |
 
 - **Why R. Venkataraman is leaving, in the filing's words:** “Mr. R. Venkataraman will continue to serve on the Board of Directors.” Stays on as: Director on the Board of Directors.
-- In the documents: “With nearly two decades of experience with the Company, deep Capital market knowledge and broad leadership experience, Mr. Vasudev is well positioned to lead the Company through its next phase of growth and will accordingly be re-designated as Managing Director with effect from January 1, 2027.” — [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/IIFLSEC_28102026193451_Pressrelase.pdf) · [2026-09-09 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_09092026183540_SE_Intimation.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026182744_BMOutcome.pdf) · +1 more
+- In the documents: “With nearly two decades of experience with the Company, deep Capital market knowledge and broad leadership experience, Mr. Vasudev is well positioned to lead the Company through its next phase of growth and will accordingly be re -designated as Managing Director with effect from January 1, 2027.” — [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/IIFLSEC_28102026193451_Pressrelase.pdf) · [2026-09-09 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_09092026183540_SE_Intimation.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026182744_BMOutcome.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/IIFLSEC_28102026193451_Pressrelase.pdf) · [2026-09-09 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_09092026183540_SE_Intimation.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026182744_BMOutcome.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026183127_BMOutcome.pdf) · [2026-07-23 Change in Management](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026183644_Regulation30.pdf) · [2026-06-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_01062026180402_EGMoutcomesigned.pdf)
+*All 7 filing(s) read for the seats:* [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/IIFLSEC_28102026193451_Pressrelase.pdf) · [2026-09-09 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_09092026183540_SE_Intimation.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026182744_BMOutcome.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026183127_BMOutcome.pdf) · [2026-07-23 Change in Management](https://nsearchives.nseindia.com/corporate/IIFLSEC_23072026183644_Regulation30.pdf) · [2026-06-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_01062026180402_EGMoutcomesigned.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -90,7 +90,7 @@ The filing's own profile: “As part of its leadership succession, the Board has
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| — | IIFL Capital Services Limited (IIFLCAPS) | — | — |
+| Additional Director and Whole-time Director | IIFL Capital Services Limited (IIFLCAPS) | — | — |
 
 ### 5. On the calls
 

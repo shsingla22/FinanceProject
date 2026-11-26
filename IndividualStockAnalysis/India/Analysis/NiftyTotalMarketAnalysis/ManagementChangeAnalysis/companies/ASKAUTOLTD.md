@@ -6,18 +6,22 @@
 
 ### 1. What is changing
 
-**Ownership — Large stake change, same controller.** Promoter Kuldip Singh Rathee sold 4% of ASK Automotive's capital in the open market, cutting his holding to 30.18%. Promoter-and-group holding fell from 78.95% to 74.95% and then stayed flat. No buyer took control; the same promoter group still holds the company.
+**Ownership — Large stake change, same controller.** Promoter Mr. Kuldip Singh Rathee sold up to 4% of ASK Automotive's equity in the open market purely to meet minimum public shareholding norms. Promoter and promoter group holding fell from 78.95% to 74.95%; no new controlling owner arrived and the same promoters retain control.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Kuldip Singh Rathee | founder family | 34.18% | 30.18% |
+| Outgoing | Mr. Kuldip Singh Rathee (Promoter), part of Promoter and Promoter Group | founder family | not stated (promoter and promoter group 78.95% as on 2025-11-24) | 30.18% (promoter and promoter group 74.95%) |
 | Incoming | — | public — no single owner | — | — |
 
 - mode: block or bulk deal · control does not change
-- Dates: block deal 2025-12-04
+- Why the seller is selling, in their words: “"with a view to enable the Company to achieve minimum public shareholding as mandated under SCRR and the Listing Regulations"”
+- Dates: public announcement 2025-11-24; completion (period within which divestment to be completed) 2025-12-03; block deal 2025-12-04
+- In the documents: “Mr. Kuldip Singh Rathee/Seller intends to sell up to a maximum of 4% of the total paid up equity share capital of the Company, aggregating to 78,85,704 (Seventy -eight lakhs eighty -five thousand seven hundred four only) equity shares having face value of 2/ - each .”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 78.95% (2025-09-30) → 74.95% (2025-12-31) → 74.95% (2026-03-31) → 74.95% (2026-06-30) → 74.95% (2026-09-30)
 **Reg 29 disclosures in the window:** promoters sold 4.0% and bought 0.0%.
+
+*Filings read for the ownership:* [2025-11-24 General Updates](https://nsearchives.nseindia.com/corporate/8448091598_24112025150222_CombinedSTXINTISD.pdf)
 
 ### 2. Financials — the last three years
 
@@ -41,11 +45,11 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/ASKAUTOLTD.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹489.75 on 2025-12-03 (the close before) → ₹642.70 on 2026-11-13: **+31.2%**; Nifty 500 +0.1% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹480.70 on 2025-11-21 (the close before) → ₹642.70 on 2026-11-13: **+33.7%**; Nifty 500 -0.2% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Kuldip Singh Rathee** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 34.18% → 30.18%.
+**Mr. Kuldip Singh Rathee (Promoter), part of Promoter and Promoter Group** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved not stated (promoter and promoter group 78.95% as on 2025-11-24) → 30.18% (promoter and promoter group 74.95%).
 
 ### 4. Track record — the incoming management
 

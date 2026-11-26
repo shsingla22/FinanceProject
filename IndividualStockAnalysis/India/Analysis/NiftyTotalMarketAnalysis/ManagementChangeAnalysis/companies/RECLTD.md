@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Finance) and Chief Financial Officer of REC** | Harsh Baweja (retirement; last day 2026-01-31) | Jitendra Srivastava (interim; internal; from 2026-02-01) | effective | 2026-02-01 |
-| **Director (Finance) and Chief Financial Officer of the Company** | Jitendra Srivastava (interim holder replaced; last day 2026-04-01) | Rajesh Kumar (internal; from 2026-04-02) | effective | 2026-04-02 |
+| **Director (Finance) and Chief Financial Officer** | Harsh Baweja (retirement; last day 2026-01-31) | Jitendra Srivastava (interim; internal; from 2026-02-01) | effective | 2026-02-01 |
+| **Director (Finance) and Chief Financial Officer** | Jitendra Srivastava (interim holder replaced; last day 2026-04-01) | Rajesh Kumar (internal; from 2026-04-02) | effective | 2026-04-02 |
 
-- **Why Harsh Baweja is leaving, in the filing's words:** “Shri Harsh Baweja (DIN: 09769272), Director (Finance) of REC has superannuated from the services of the Company on January 31, 2026”
+- **Why Harsh Baweja is leaving, in the filing's words:** “has superannuated from the services of the Company on January 31, 2026 and accordingly, has ceased to be the Director (Finance) and Chief Financial Officer of REC with effect from February 1, 2026”
 - In the documents: “Further, the Ministry of Power, Government of India has entrusted the additional charge of the post of Director (Finance), REC to Shri Jitendra Srivastava (IAS), Chairman & Managing Director of REC for a period of 3 months w.e.f. February 1, 2026 or until the appointment of a regular incumbent to the post of Director (Finance), REC or until further order, whichever is earlier.” — [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/RECLTD_02042026182412_Signed_Intimation_regarding_change_in_Board_of_Directors.pdf) · [2026-02-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RECLTD_01022026151751_SignedIntimation_ChangeinDirectors.pdf)
-- **Why Jitendra Srivastava is leaving, in the filing's words:** “on appointment of Shri Rajesh Kumar as Director (Finance), REC, the additional charge of the post of Director (Finance), REC entrusted to Shri Jitendra Srivastava, CMD, REC has ceased w.e.f. April 2, 2026” Stays on as: Chairman & Managing Director (CMD), REC.
+- **Why Jitendra Srivastava is leaving, in the filing's words:** “on appointment of Shri Rajesh Kumar as Director (Finance), REC, the additional charge of the post of Director (Finance), REC entrusted to Shri Jitendra Srivastava, CMD, REC has ceased w.e.f. April 2, 2026” Stays on as: Chairman & Managing Director of REC.
 - In the documents: “Accordingly, Shri Rajesh Kumar has assumed charge of the post of Director (Finance), REC on April 2, 2026.” — [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RECLTD_15042026182242_Signed_REC_intimation_outcomeofBOD.pdf) · [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/RECLTD_02042026182412_Signed_Intimation_regarding_change_in_Board_of_Directors.pdf) · [2026-02-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RECLTD_01022026151751_SignedIntimation_ChangeinDirectors.pdf)
 
-*All 4 filing(s) read for the seats:* [2026-09-10 Change in Management](https://nsearchives.nseindia.com/corporate/RECLTD_10092026184752_Signed_Change_in_Senior_Management_10092026.pdf) · [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RECLTD_15042026182242_Signed_REC_intimation_outcomeofBOD.pdf) · [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/RECLTD_02042026182412_Signed_Intimation_regarding_change_in_Board_of_Directors.pdf) · [2026-02-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RECLTD_01022026151751_SignedIntimation_ChangeinDirectors.pdf)
+*All 5 filing(s) read for the seats:* [2026-09-10 Change in Management](https://nsearchives.nseindia.com/corporate/RECLTD_10092026184752_Signed_Change_in_Senior_Management_10092026.pdf) · [2026-04-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RECLTD_15042026182242_Signed_REC_intimation_outcomeofBOD.pdf) · [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/RECLTD_02042026182412_Signed_Intimation_regarding_change_in_Board_of_Directors.pdf) · [2026-02-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RECLTD_01022026151751_SignedIntimation_ChangeinDirectors.pdf) · [2025-09-23 Change in Management](https://nsearchives.nseindia.in/corporate/RECLTD_23092025211727_IntimationchangeinSM2309_signed.pdf)
 
 ### 2. Financials — the last three years
 
@@ -40,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Harsh Baweja** — Director (Finance) and Chief Financial Officer of REC, date of taking the seat not on file.
+**Harsh Baweja** — Director (Finance) and Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -52,7 +52,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | 23.3 | 35.6 | +12.3 pts |
 | ROE (%) | 14.0 | 20.3 | +6.3 pts |
 
-**Jitendra Srivastava** — Director (Finance) and Chief Financial Officer of the Company, in the seat since FY2026 per the filing.
+**Jitendra Srivastava** — Director (Finance) and Chief Financial Officer, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -66,15 +66,15 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Jitendra Srivastava** — Director (Finance) and Chief Financial Officer of REC (interim). from: internal.
+**Jitendra Srivastava** — Director (Finance) and Chief Financial Officer (interim). from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chairman & Managing Director | REC Limited | — | — |
 
-**Rajesh Kumar** — Director (Finance) and Chief Financial Officer of the Company. from: internal; experience: over 30 years of experience in accounts, taxation, audit, treasury, project appraisals and regulatory compliances; qualifications: He holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, Delhi University, complemented by dual professional qualifications as a Chartered Accountant (CA) and Cost & Management Accountant (CMA)..
+**Rajesh Kumar** — Director (Finance) and Chief Financial Officer. from: internal; experience: over 30 years; qualifications: He holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, Delhi University, complemented by dual professional qualifications as a Chartered Accountant (CA) and Cost & Management Accountant (CMA)..
 
-The filing's own profile: “Shri Rajesh Kumar is a seasoned finance professional with over 30 years of experience in accounts, taxation, audit, treasury, project appraisals and regulatory compliances. He holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, Delhi University, complemented by dual professional qualifications as a Chartered Accountant (CA) and Cost & Management Accountant (CMA). His career is marked by a decade long stint with a CPSE engaged in engineering and project consultancy followed by over 20 years of dedicated service at REC Limited (under the Ministry of Power) developing deep expertise in power sector financing and resource mobilisation. Shri Kumar has also served as Chief Executive Officer of REC Power Development and Consultancy Limited (RECPDCL), a wholly owned subsidiary.”
+The filing's own profile: “Shri Rajesh Kumar is a seasoned finance professional with over 30 years of experience in accounts, taxation, audit, treasury, project appraisals and regulatory compliances. He holds a Bachelor's degree in Commerce from Shri Ram College of Commerce, Delhi University, complemented by dual professional qualifications as a Chartered Accountant (CA) and Cost & Management Accountant (CMA). His career is marked by a decade long stint with a CPSE engaged in engineering and project consultancy followed by over 20 years of dedicated service at REC Limited (under the Ministry of Power) developing deep expertise in power sector financing and resource mobilisation.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

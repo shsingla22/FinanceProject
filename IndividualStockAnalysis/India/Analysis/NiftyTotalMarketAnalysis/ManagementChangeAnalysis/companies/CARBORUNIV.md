@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer of the Company** | — (new seat) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 |
+| **Chief Financial Officer & KMP** | Sushil Kishor Bendale (resignation; last day 2025-09-26) | Sriram Seshadri (external; from 2026-09-07) | effective | 2026-09-07 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Mr. Sriram Seshadri has been appointed as the Chief Financial Officer of the Company effective 7th September 2026.” — [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf)
+- **Why Sushil Kishor Bendale is leaving, in the filing's words:** “Stepping down as Chief Financial Officer for career prospects outside of the Company.”
+- In the documents: “Mr. Sriram Seshadri has been appointed as the Chief Financial Officer of the Company effective 7th September 2026.” — [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) · [2025-09-26 Updates](https://nsearchives.nseindia.in/corporate/CARBORUNIV_26092025184513_intimation_sd.pdf) · [2025-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CARBORUNIV_07082025142559_outcome_sd.pdf) · +1 more
 
-*All 3 filing(s) read for the seats:* [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) · [2026-06-26 Resignation](https://nsearchives.nseindia.com/corporate/CARBORUNIV_26062026181127_Intimation-sd.pdf) · [2026-06-26 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CARBORUNIV_ROID_90541_KMP_Doc.zip)
+*All 7 filing(s) read for the seats:* [2026-09-07 Appointment](https://nsearchives.nseindia.com/corporate/CARBORUNIV_07092026090940_intimation_sd.pdf) · [2026-06-26 Resignation](https://nsearchives.nseindia.com/corporate/CARBORUNIV_26062026181127_Intimation-sd.pdf) · [2026-06-26 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CARBORUNIV_ROID_90541_KMP_Doc.zip) · [2025-09-26 Updates](https://nsearchives.nseindia.in/corporate/CARBORUNIV_26092025184513_intimation_sd.pdf) · [2025-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CARBORUNIV_07082025142559_outcome_sd.pdf) · [2025-08-07 Resignation](https://nsearchives.nseindia.in/corporate/CARBORUNIV_07082025143459_outcome_sd.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -41,11 +41,23 @@
 
 ### 3. Track record — the outgoing management
 
-No outgoing person or owner is named (a new seat, or the documents do not say).
+**Sushil Kishor Bendale** — Chief Financial Officer & KMP, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2020 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 2,599 | 4,894 | +13.5% a year over 5 years |
+| Operating profit (₹ cr) | 400 | 717 | +12.4% a year over 5 years |
+| PAT (₹ cr) | 275 | 299 | +1.7% a year over 5 years |
+| Operating profit margin (%) | 15.4 | 14.7 | -0.7 pts |
+| ROCE (%) | 18.0 | 16.0 | -2.0 pts |
+| ROE (%) | 14.8 | 8.5 | -6.3 pts |
+| Borrowings (₹ cr) | 70.0 | 216 | +146 |
 
 ### 4. Track record — the incoming management
 
-**Sriram Seshadri** — Chief Financial Officer of the Company. from: external; age 55 years; experience: over 30 years; qualifications: A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI).
+**Sriram Seshadri** — Chief Financial Officer & KMP. from: external; age 55 years; experience: over 30 years of experience; qualifications: A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI).
 
 The filing's own profile: “Mr. Sriram Seshadri, aged 55 years is a seasoned finance professional with over 30 years of experience across leading automotive and industrial manufacturing organisations. A qualified member of the Chartered Institute of Management Accountant (CIMA), U.K, Chartered Global Management Accountant (CGMA), USA., and Institute of Cost Accountants of India (ICMAI), he has held several CFO and senior finance leadership positions including most recently as Vice President – Business Controller at Endurance Technologies. He was previously the CFO of Woco India and Delphi TVS Technologies, and Director Finance at Tenneco India.”
 

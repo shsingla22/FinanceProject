@@ -1,0 +1,1713 @@
+Date: October 17, 2025
+
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+Scrip Code: 532790
+
+National Stock Exchange of India Ltd.
+“Exchange Plaza”
+Bandra-Kurla Complex, Bandra (East),
+Mumbai - 400 051
+Symbol: TANLA
+
+Dear Madam/Sir,
+Sub: Letter to Shareholders for quarter ended September 30, 2025.
+With reference to the subject cited, we are enclosing herewith Letter to Shareholders for quarter ended
+September 30, 2025.
+Request you to take the same on record and oblige.
+
+Thanking you
+Yours faithfully,
+For Tanla Platforms Limited
+signed by
+SESHANUR Digitally
+SESHANURADHA
+CHAVA
+ADHA
+Date: 2025.10.17
+CHAVA
+21:10:44 +05'30'
+
+Seshanuradha Chava
+General Counsel and Company Secretary
+ACS-15519
+
+
+The future of
+communication is AI-Native
+
+BUSINESS REVIEW
+Shareholders’ Letter and Results
+
+Q2 FY26
+
+
+Table of Contents
+Financial Performance
+
+03
+
+Message from Chairman
+
+04
+
+Management Discussion Q&A
+
+09
+
+Quarterly Disclosures
+
+11
+
+Policies
+
+18
+
+Deep-Dive Charts
+
+22
+
+
+Financial Performance Q2 FY26
+Revenue
+
+Gross Profit
+
+EBITDA
+
+₹10,785 Mn
+3.6% QoQ
+
+₹2,868 Mn
+
+₹1,775 Mn
+
+PAT
+
+EPS
+
+Cash and Cash equivalents
+
+₹1,250 Mn
+
+₹9.43 Per Share
+
+₹8,814 Mn
+
+Revenue
+
+Gross Profit
+
+EBITDA
+
+₹984 Mn
+
+₹970 Mn
+
+₹729 Mn
+
+5.6% QoQ
+
+8.2% QoQ
+
+10.0% QoQ
+
+6.9% QoQ
+
+Post by back
+
+Digital Platforms
+
+7.1% QoQ
+
+74.1% Margin
+
+7.2% QoQ
+
+Enterprise Communications
+Revenue
+
+Gross Profit
+
+EBITDA
+
+₹9,801 Mn
+
+₹1,898 Mn
+
+₹1,046 Mn
+
+3.3% QoQ
+
+10.7% Margin
+
+11.6% QoQ
+
+Significant Events
+•
+•
+•
+•
+•
+•
+
+Wisely.ai, our AI-native platform, went live in August with Indosat Ooredoo Hutchison (Indosat or IOH)
+Recognized as Meta’s Partner of the Year 2025
+Awarded Best Made-in-India Telecom Innovation at India Mobile Congress 2025
+Named a Visionary in the Gartner® Magic Quadrant™ for CPaaS for the third consecutive year
+Declared an interim dividend of ₹6 per share (600%) for FY26, in line with our 30% dividend payout policy
+Bought back 2 Mn shares at ₹875 per share for an aggregate amount of ₹179 Cr, fourth in last five years
+
+In Q2, we delivered growth across all financial metrics, achieving our highest-ever
+gross profit over the past eight quarters. Wisely.ai is gaining traction across the telco
+ecosystem, reinforcing our belief in the impact of our AI-native platform
+- Uday Reddy, Founder Chairman & CEO
+
+Invitation to conference
+Tanla will host a conference call and live webcast to discuss the financial results on October 18, 2025, at 11.30
+AM IST. Watch the presentation at http://bit.ly/3KJZUfV
+India
+
+: +91 22 6280 1137 / +91 22 7115 8038
+
+Hong Kong
+
+: 800964448
+
+United Kingdom
+
+: 08081011573
+
+Singapore
+
+: 8001012045
+
+United States
+
+: 18667462133
+
+Shareholder Report Q2 FY26
+
+3
+
+
+Message from the Chairman
+Dear Shareholders,
+“I wish you all a very Happy
+Diwali and hope you are
+enjoying the festive season with
+your loved ones.
+As we step into the second half
+of the year, I want to share an
+update on our Q2 performance
+and the momentum we are
+building in our journey to
+
+become a truly AI-native
+company.
+Wisely.ai, our AI-native platform,
+continues to make progress.
+In August, we successfully
+launched our anti-spam
+and anti-scam solution with
+Indosat in Indonesia, positively
+impacting over 100 million
+users. The early results and
+enthusiastic feedback from
+their end users reaffirm that we
+are solving real problems at
+scale. Building on this success,
+we continue to invest in our
+AI capabilities by upgrading
+our talent, enhancing our
+technology, and unlocking
+new use cases for telcos and
+enterprises globally.
+Wisely.ai is earning acclaim
+across the telecom
+ecosystem. At India Mobile
+Congress 2025, the platform
+was named “Best Made in
+India Innovation in Telecom”,
+a recognition of its impact
+and the value it brings to our
+partners.
+Customer success remains
+our north star. In the OTT
+space in India, our leadership
+was validated with Karix being
+named “Partner of the Year” by
+Meta, after being recognized as
+Growth Partner of the Year for
+two consecutive years. This is a
+strong reflection of the business
+value we continue to co-create
+with our customers.
+Our customer base continues
+to expand, driven by increased
+wallet share and new wins
+across segments. Customers
+contributing annualized revenue
+between ₹100 Mn and ₹500
+Mn grew 36% QoQ and 23% YoY.
+We added 84 new customers,
+contributing ₹259 Mn in revenue
+during the quarter.
+
+Shareholder Report Q2 FY26
+
+To drive scale and deeper
+engagement for international
+expansion, we have also
+strengthened Customer Success
+and GTM leadership teams
+to spearhead growth in our
+focused geographies.
+In Q2, we delivered growth
+across all financial metrics on
+a QoQ basis. Revenue grew
+by 3.6% QoQ and 7.8% YoY to
+₹10,785 Mn, while gross profit
+grew 10% QoQ and 9.5% YoY
+to ₹2,868 Mn. Gross margin
+expanded by 155 bps to 26.6%,
+driven by growth across both
+Digital Platforms and Enterprise
+Communications. On the
+profitability front, EBITDA and
+PAT grew sequentially by 8.3%
+and 5.6%, and we delivered a
+free cash flow of ₹1,645 Mn (132%
+of PAT).
+Our approach to capital
+allocation remains prudent and
+value focused. We declared
+an interim dividend of ₹6 per
+share and completed our
+fourth buyback in five years,
+reaffirming our commitment to
+shareholders and sustaining
+long-term value creation.
+As we step into H2, our focus
+remains on solving real-world
+communication challenges
+for enterprises and consumers
+through our AI native platform
+by innovating for the ecosystem,
+delivering customer impact, and
+building lasting value for our
+shareholders.”
+Thank you for all the support.
+
+Uday Reddy
+Founder Chairman & CEO
+
+4
+
+
+Tanla Talks
+Anshuman Kar,
+Chief Customer Officer at Tanla, shares
+his perspective on how the collaboration
+with Indosat marks a defining moment in
+Tanla’s journey toward creating trusted
+digital ecosystems powered by AI. In this
+conversation, he reflects on Wisely.ai’s impact
+at scale, its recognition as a breakthrough
+innovation, and how Tanla is setting a global
+benchmark for customer success and AI-led
+transformation
+
+“The collaboration with
+Indosat is more than
+a deployment, it’s a
+blueprint for how telcos
+and technology can come
+together to protect millions
+through AI.”
+
+Q1
+
+What inspired the
+collaboration with
+Indosat, and how does
+it align with our broader customer
+strategy?
+
+Indonesia has been grappling with one of
+the highest incidences of spam and scam
+communication globally, with industry reports
+showing that 65% of Indonesians receive scam
+attempts every week. Indosat, a leading
+telecom operator in Indonesia, approached
+Tanla to co-create a safer digital ecosystem
+using the latest advancements in AI.
+With a customer-first approach and deep
+domain expertise in telecom, Tanla was uniquely
+positioned to deliver this impact promise. Our
+experience working with regulators, building
+
+Shareholder Report Q2 FY26
+
+trust-led frameworks, and deploying highperformance platforms directly within telco
+networks made the partnership a natural fit.
+Together, we envisioned a global lighthouse
+solution built on an AI-native foundation.
+This type of greenfield innovation in deep
+partnership with telco companies has been a
+cornerstone of Tanla’s growth story over the
+years.
+
+Q2
+
+How is Wisely.ai, our
+AI-native platform,
+transforming the
+customer experience for millions of
+users?
+
+Wisely.ai was designed to redefine trust in
+digital communication. Our anti-spam and
+anti-scam solution, built on the Wisely.ai
+platform, converts nearly 70% of previously
+“unknown” communications into “known.”
+Spam and scams have long eroded user trust,
+productivity, and engagement, resulting in
+billions of dollars in losses and reducing ROI
+for legitimate enterprises. By using latest AI
+technologies like Agentic and Self-learning
+autonomous models, Wisely.ai filters, classifies,
+and protects communication channels to the
+users. Our goal is to make 90% of all unknown
+communications known, creating a more
+
+5
+
+
+trusted experience for users and enhancing the
+effectiveness of legitimate communications like
+enterprises reach their users.
+
+Q3
+
+What early outcomes
+have you observed
+since the launch of
+
+Wisely.ai?
+
+Within just two months of deployment, the
+impact has been remarkable. Tens of millions
+of users have been protected from spam and
+scam attempts, with over 100 million fraudulent
+communications identified and flagged.
+The reduction in scam and spam traffic is
+already visible across the network. Feedback
+from users and enterprises has been
+overwhelmingly positive, with customer surveys
+such as NPS and CSAT reaching record highs.
+
+Q4
+
+Wisely.ai recently won
+the ‘Best Made in India
+Telecom Innovation’
+award at IMC 2025. What does this
+recognition mean for our customers
+and partners?
+This recognition validates years of focused
+innovation and the successful deployment of
+a highly complex AI platform at scale. Wisely.ai
+demonstrates how AI can move from concept
+to tangible value creation, impacting millions of
+lives daily while delivering measurable ROI for
+our customers.
+Built on the latest GPU architecture, the
+platform integrates a single data layer, a unified
+AI model layer, and a modular application layer,
+allowing multiple B2C, B2B, and Telco-grade
+solutions to be deployed rapidly. This award
+goes beyond recognition for innovation; it is an
+acknowledgment of impact and a reaffirmation
+of Tanla’s ability to build world-class technology
+for global markets.
+
+Shareholder Report Q2 FY26
+
+Q5
+
+How do we ensure
+consistent customer
+experience and impact
+as we expand across diverse
+geographies?
+Our approach is anchored in a repeatable
+framework that begins with defining the right
+problem statement and envisioning outcomes
+collaboratively with customers. Technology then
+becomes the enabler, to solve the business
+problem.
+To replicate success across markets, we are
+developing customer success playbooks that
+capture the learnings from each deployment.
+These are backed by an impact-focused
+customer success function that measures
+success though a clear set of leading and
+lagging indicators of both end-user experience
+and customer business outcomes.
+
+Q6
+
+Looking ahead, how do
+you see this solution
+evolving to deliver even
+greater value to our telco partners
+and their users?
+We have just scratched the surface on the
+possibilities of our AI platform. The anti-spam
+and anti-scam solutions represent the first of
+many use cases that the platform will power.
+We have an exciting innovation roadmap
+already under development to bring more
+capabilities to the current solution as well as
+develop several other AI-driven applications,
+some of which are already in beta. We will focus
+on expanding coverage through both reach
+and new use cases leveraging the power of rich
+data harnessed by our AI models. We will always
+be impact focused first and focus our innovation
+where we can create unique value.
+
+6
+
+
+Case Study
+Transforming Telecom Messaging
+How Tanla’s Trubloq (DLT) Enhanced
+Compliance and Efficiency for Vodafone
+Idea
+Since the introduction of TRAI’s TCCCPR 2018 regulations, Vodafone Idea (Vi) has consistently
+prioritized compliance while delivering seamless messaging services. By partnering with Tanla and
+deploying Trubloq, Tanla’s advanced blockchain-enabled message scrubbing solution, Vi has
+effectively navigated evolving regulatory mandates such as PE-TM binding and CTA whitelisting.
+This partnership has ensured operational efficiency, regulatory adherence, and strengthened
+customer trust at scale.
+We helped Vodafone Idea enhance its messaging ecosystem through:
+
+Comprehensive regulatory support covering customer consent management, enterprise
+onboarding, and preference management, all recorded securely on blockchain for full
+traceability.
+
+Blockchain-based registration and management of SMS headers, templates, and complaint handling.
+
+AI-powered header and template creation with real-time scoring, automated compliance
+advisories, and accelerated approval workflows enabling faster
+campaign launches and enhanced user convenience.
+
+Efficient traffic handling and a dedicated registration portal for Trubloq, with
+80% of top enterprises registered on Tanla’s DLT platform.
+
+Hosted URL shortener and analytics tools to improve user experience and
+campaign performance.
+
+Shareholder Report Q2 FY26
+
+7
+
+
+Project Scale and Impact for Enterprises
+
+Cost
+• 50-60%
+reduction in costs
+via AI-driven
+content creation
+and autoregistration
+
+• 5-10%
+SMS cost
+savings through
+template length
+optimization
+
+Conversion
+• 15-30%
+higher CTRs with
+AI-recommended
+templates and
+branded short URLs
+
+• 3-5%
+uplift in
+campaign
+conversions
+
+Compliance
+• 100%
+
+regulatory
+compliance with
+centralized asset
+cleanup
+
+• 60-80%
+reduction in
+smishing and
+streamlined CTA
+whitelisting
+
+Convenience
+• Digital asset
+approval in
+
+20 minutes via
+auto-registration
+and APIs
+
+• Instant scoring in
+<10 seconds
+• Translation
+
+support for
+
+10+ languages
+
+• 100%
+scrubbing
+accuracy with
+minimal false
+positives
+
+Key Results
+•
+
+Strict adherence to evolving TRAI regulations including PE/TM binding and CTA whitelisting.
+
+•
+
+Instant scoring in <10 seconds
+
+•
+
+Enhanced customer trust through robust preference and frequency controls.
+
+Key Changes Driven by DLT (Trubloq)
+Eco-System Need
+
+Pre-Regulation
+
+Post Regulation
+
+100% Traceability
+
+No traceability
+
+Complete recording and sharing
+on the network using blockchain
+technology
+
+Header and Template
+Registration
+
+Not mandated
+
+Mandatory registration of all SMS
+headers, Voice CLIs, consent, and
+content templates on DLT platform
+
+Customer Consent
+
+Limited or manual
+
+Digitally verifiable
+
+Customer Preference
+
+Limited options
+
+Expanded options including day/
+time bands to block or receive
+commercial communications
+
+Scrubbing
+
+Basic filtering
+
+Comprehensive scrubbing against
+consent, preference, Header ID,
+Template ID, beyond just DND list
+
+This transformation showcases how Tanla’s Trubloq has been pivotal in driving compliance, operational efficiency,
+and improved customer experience for Vodafone Idea, setting new standards in telecom messaging.
+Shareholder Report Q2 FY26
+
+8
+
+
+Management Discussion
+
+Q1
+
+How did the business
+perform across key metrics
+in Q2?
+
+We delivered sequential growth across all key
+finanical metrics. Revenue grew by 3.6% QoQ and
+7.8% YoY to ₹10,785 Mn in Q2 FY26, led by Digital
+Platforms and Enterprise Communications.
+Gross profit grew by 10.0% QoQ and 9.5% YoY to
+₹2,868 Mn in Q2 FY26, driven by both business
+segments. Gross profit margin expanded by 155
+bps to 26.6% in Q2 FY26, led by Digital Platforms
+and sourcing efficiencies across Enterprise
+Communications.
+EBITDA grew by 8.2% QoQ and 1.2% YoY to ₹1,775 Mn
+in Q2 FY26. EBITDA margin expanded by 70 bps in
+Q2 FY26 to 16.5%, driven by higher gross profit and
+partially offset by an increase in indirect costs.
+Profit after tax grew by 5.6% QoQ and de-grew
+by 4.0% YoY to ₹1,250 Cr in Q2 FY6. PAT margin
+expanded by 22 bps in Q2 FY26 to 11.6%, driven
+by higher gross profit and partially offset by an
+increase in indirect costs and depreciation. The
+effective tax rate for Q2 FY26 is 19.6%.
+Earnings per share grew by 6.9% QoQ and de-grew
+by 2.8% YoY to ₹9.43 Cr in Q2 FY26. EPS accretion
+is on account of increase in PAT and benefited by
+buyback.
+
+Deep-Dive Chart
+
+Q3
+
+Please share the key
+drivers of growth in the
+Enterprise Communications
+segment for Q2?
+In Q2 FY26, Enterprise Communications contributed
+90.9% to overall revenue. Enterprise Communications
+revenue grew by 3.3% QoQ and 7.4% YoY to ₹9,801.
+Sequnetially the growth was led by Domestic SMS
+and OTT channels. Domestic SMS growth was
+driven by increase in volumes with pricing remaining
+stable. On a YoY basis, growth was driven by OTT
+channels. Gross profit grew by 11.6% QoQ and 8.5%
+YoY to ₹1,898 in Q2 FY26, driven by growth across all
+channels.
+
+Q4
+
+Can you provide some
+insights on new customer
+additions and cohorts?
+
+We continue to add new customers across
+segments. We have added 84 new logos, 45% of
+these additions were on OTT channels. The newly
+acquired customers contributed ₹259 Mn in Q2 FY26.
+The customers onboarded during the trailing twelve
+months (TTM) have added ₹688 Mn in Q2 FY 26.
+Customers contributing annualized revenue
+between ₹100 Mn to ₹500 Mn grew by 36% QoQ
+and 23% YoY to ₹4,103 Mn in Q2 FY26. Sequential
+growth for ₹50 Mn annualized revenue cohort was
+impacted as Q1 FY26 included customers with
+elevated IPL-related promotional spends.
+
+Deep-Dive Chart
+
+Q2
+
+Can you breakdown Digital
+Platforms performance for
+Q2?
+
+In Q2 FY26, Digital platforms contributed 9.1% to
+overall revenue. Digital platforms revenue grew by
+7.1% QoQ and by 11.9% YoY to ₹984 Mn. Gross profit
+grew by 7.2% QoQ and by 11.7% YoY to ₹970 Mn.
+Sequentially the revenue and gross profit growth
+was led by Wisely.ai, which went live during the
+quarter. On YoY basis, the revenue and gross profit
+growth was led by Wisely.ai and Messaging-as-aPlatform (MaaP) for RCS.
+
+Shareholder Report Q2 FY26
+
+Q5
+
+Indirect cost expenses
+have significantly gone
+up? Can you please
+provide some details?
+
+Indirect expenses were ₹1,093 Mn in Q2 FY26, up
+from ₹967 Mn in Q1 FY26. Indirect costs stood at
+10.1% of revenue and 38.1% of gross profit. Excluding
+forex loss/gain, indirect expenses grew 4.3% QoQ to
+₹1,076 Mn.
+Employee cost increased by ₹41 Mn driven by net
+additions and higher performance-linked RSUs. We
+continue to invest in expanding capabilities across
+
+9
+
+
+AI/ML, product development, customer success,
+and GTM. Other expenses increased due to
+incremental spends on professional consultants,
+travelling and other general spends.
+Deep-Dive Chart
+
+Q6
+
+Can you throw some
+light on depreciation
+and amortisation?
+
+Depreciation and Amortization increased by ₹25
+Mn primarily due to capitalization of intangible
+assets.
+
+Q9
+
+What is the cash
+balance position at the
+end of Q2 FY26?
+
+The cash balance stood at ₹8,814 Mn post
+completion of buyback of shares. The cash
+balance also includes investments in liquid
+funds and fixed deposits with maturities of
+more than twelve months. On a quarterly basis,
+independent bank balance confirmations are
+obtained by our statutory auditors for 100%
+of the cash balance. Restricted cash is held
+as margin money deposits given for bank
+guarantees.
+Deep-Dive Chart
+
+Deep-Dive Chart
+
+Q7
+
+Can you provide
+some information on
+intangible assets under
+development?
+The net carrying value of the intangible assets
+under development (IAUD) was at ₹484 Mn in
+Q2 FY26 as against ₹986 Mn in Q1 FY26. IAUD
+represents platforms and software currently
+being developed internally. Their cost includes
+salaries, wages, and professional consultancy
+charges attributable to development.
+
+Q8
+
+Could you provide some
+colour on cashflows?
+
+We generated robust cash flows for the quarter.
+In Q2, we generated ₹1,847 Mn as cash from
+operations and ₹1,645 Mn in free cash flow (132%
+of PAT). We experienced strong collections in Q2,
+resulting in an improvement in our Days Sales
+Outstanding (DSO) by 15 days, bringing it down
+to 77 days.
+
+Q10
+
+Can you provide
+an update on the
+current buyback
+program that was announced last
+quarter?
+
+We have completed the buyback program
+and have bought back 2 Mn shares at ₹875 per
+share, for an aggregator amount of ₹1,794 Mn.
+
+Q11
+
+Can you share
+an update on the
+acquisition of the
+ValueFirst International business?
+
+The overseas acquisition of entities is yet to
+be completed, as we are awaiting regulatory
+approvals. As informed earlier, the management
+team of ValueFirst will be incentivized for
+performance through an RSU grant of
+approximately ₹400 Mn in ValueFirst. This
+grant is currently getting amortized as part of
+employee cost.
+
+Financing outflows of ₹1,982 Mn reflect the share
+buyback (₹1,794 Mn) and purchase of treasury
+shares (₹188 Mn) during the quarter. Closing cash
+and cash equivalents stood at ₹8,814 Mn as of
+September 30, 2025.
+Deep-Dive Chart
+
+Shareholder Report Q2 FY26
+
+10
+
+
+Annexure- 1 Quarterly Disclosures
+(In ₹ Mn, unless otherwise stated)
+
+Three months ended Sep 30
+(Unaudited)
+
+Six months ended Sep 30
+(Unaudited)
+
+Q2 FY26
+
+Q2 FY25
+
+H1 FY26
+
+H1 FY25
+
+Revenue from operations
+
+10,785
+
+10,007
+
+21,191
+
+20,029
+
+Gross profit
+
+2,868
+
+2,618
+
+5,475
+
+5,313
+
+Gross margin
+
+26.6%
+
+26.2%
+
+25.8%
+
+26.5%
+
+EBITDA
+
+1,775
+
+1,754
+
+3,414
+
+3,640
+
+EBITDA margin
+
+16.5%
+
+17.5%
+
+16.1%
+
+18.2%
+
+EBITDA/Gross profit
+
+61.9%
+
+67.0%
+
+62.4%
+
+68.5%
+
+EBIT
+
+1,478
+
+1,520
+
+2,846
+
+3,178
+
+EBIT margin
+
+13.7%
+
+15.2%
+
+13.4%
+
+15.9%
+
+Profit after tax
+
+1,250
+
+1,302
+
+2,435
+
+2,714
+
+Profit after tax margin
+
+11.6%
+
+13.0%
+
+11.5%
+
+13.6%
+
+Free cash flow
+
+1,645
+
+520
+
+1,337
+
+1,261
+
+Earnings per share (In ₹)
+
+9.43
+
+9.70
+
+18.24
+
+20.20
+
+Cash and Cash equivalents
+
+8,814
+
+7,053
+
+8,814
+
+7,053
+
+ROCE - (Including CCE)
+
+25.6%
+
+28.0%
+
+24.6%
+
+29.3%
+
+ROCE - (Excluding CCE)
+
+39.5%
+
+41.5%
+
+39.8%
+
+43.4%
+
+77
+
+90
+
+84
+
+87
+
+1,004
+
+1,055
+
+1,003
+
+1,042
+
+DSO days
+Average number of employees
+
+Shareholder Report Q2 FY26
+
+11
+
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+(In ₹ Mn, unless otherwise stated)
+
+Three months ended Sep 30
+(Unaudited)
+
+Six months ended Sep 30
+(Unaudited)
+
+Q2 FY26
+
+Q2 FY25
+
+H1 FY26
+
+H1 FY25
+
+Revenue from operations
+
+10,785
+
+10,007
+
+21,191
+
+20,029
+
+Cost of services
+
+(7,917)
+
+(7,389)
+
+(15,717)
+
+(14,717)
+
+Gross profit
+
+2,868
+
+2,618
+
+5,475
+
+5,313
+
+Operating expenses
+
+(1,093)
+
+(864)
+
+(2,061)
+
+(1,673)
+
+EBITDA
+
+1,775
+
+1,754
+
+3,414
+
+3,640
+
+Depreciation
+
+(297)
+
+(234)
+
+(568)
+
+(462)
+
+EBIT
+
+1,478
+
+1,520
+
+2,846
+
+3,178
+
+Finance cost
+
+(12)
+
+(15)
+
+(26)
+
+(31)
+
+Other income
+
+89
+
+102
+
+209
+
+199
+
+Profit before tax
+
+1,555
+
+1,607
+
+3,029
+
+3,346
+
+Tax expenses
+
+(305)
+
+(305)
+
+(595)
+
+(632)
+
+Profit after tax
+
+1,250
+
+1,302
+
+2,435
+
+2,714
+
+Earnings per share (In ₹ )
+
+9.43
+
+9.70
+
+18.24
+
+20.20
+
+CONDENSED CONSOLIDATED BALANCE SHEET
+
+(In ₹ Mn, unless otherwise stated)
+
+Sep 30,2025 (Unaudited)
+
+Jun 30,2025 (Unaudited)
+
+ASSETS
+
+Property, plant and equipment
+
+2,211
+
+2,203
+
+Platforms
+
+1,785
+
+1,281
+
+213
+
+228
+
+Brands
+
+11
+
+15
+
+Non-Compete
+
+11
+
+13
+
+Technology & Software
+
+542
+
+413
+
+Intangible assets under development
+
+484
+
+986
+
+2,646
+
+2,646
+
+Right-of-use-lease assets
+
+459
+
+491
+
+Capital work in progress
+
+-
+
+62
+
+Investment Property
+
+16
+
+16
+
+Financial assets
+
+484
+
+179
+
+Deferred tax assets (net)
+
+440
+
+452
+
+Other non-current assets
+
+822
+
+1,073
+
+Total non-current assets
+
+10,124
+
+10,058
+
+Trade receivables
+
+8,976
+
+10,472
+
+Customer Relationships
+
+Goodwill
+
+Shareholder Report Q2 FY26
+
+12
+
+
+Investments
+
+323
+
+318
+
+Cash and bank balances
+
+8,149
+
+8,746
+
+Other Financial assets
+
+5,286
+
+4,916
+
+Other current assets
+
+704
+
+289
+
+Total current assets
+
+23,438
+
+24,741
+
+TOTAL ASSETS
+
+33,562
+
+34,799
+
+Sep 30,2025 (Unaudited)
+
+Jun 30,2025 (Unaudited)
+
+EQUITY AND LIABILITIES
+
+(In ₹ Mn, unless otherwise stated)
+Equity share capital
+
+EQUITY AND LIABILITIES
+133
+
+135
+
+Other equity
+
+22,487
+
+22,993
+
+Total equity
+
+22,620
+
+23,128
+
+455
+
+452
+
+Provisions
+
+28
+
+30
+
+Other non-current liabilities
+
+16
+
+15
+
+Total Non Current Liabilities
+
+499
+
+497
+
+Trade payables
+
+5,609
+
+6202
+
+Lease liabilities
+
+126
+
+159
+
+3,974
+
+3,898
+
+Other current liabilities
+
+234
+
+197
+
+Short term provisions
+
+150
+
+137
+
+Liabilities for current tax (net)
+
+349
+
+581
+
+Total Current liabilities
+
+10,444
+
+11,174
+
+TOTAL EQUITY AND LIABILITIES
+
+33,562
+
+34,799
+
+Non current liabilities
+Financial Liabilities
+Lease liabilities
+Other financial liabilities
+
+Current liabilities
+Financial liabilities
+
+Other financial liabilities
+
+Shareholder Report Q2 FY26
+
+13
+
+
+CONDENSED CONSOLIDATED STATEMENT OF SHAREHOLDERS’ EQUITY
+Share
+capital
+
+Reserves
+
+Retained
+earnings
+
+Other contributions
+
+Total
+
+134
+
+2,584
+
+16,303
+
+396
+
+19,417
+
+Profit for the period
+
+-
+
+-
+
+5,073
+
+-
+
+5,073
+
+Other comprehensive income
+
+-
+
+-
+
+-
+
+4
+
+4
+
+Issue of equity shares
+
+-
+
+(74)
+
+-
+
+-
+
+(74)
+
+Purchase of treasury shares
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Employee stock compensation
+expense
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Shares bought back
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Dividend Paid
+
+-
+
+-
+
+(1,614)
+
+-
+
+(1,614)
+
+Others
+
+-
+
+(123)
+
+-
+
+-
+
+(123)
+
+Closing balance 31 March 2025
+
+135
+
+2,387
+
+19,762
+
+400
+
+22,683
+
+Opening balance 01 April 2025
+
+135
+
+2,387
+
+19,762
+
+400
+
+22,683
+
+Profit for the period
+
+-
+
+-
+
+2,435
+
+-
+
+2,435
+
+Other comprehensive income
+
+-
+
+-
+
+-
+
+153
+
+153
+
+Issue of equity shares
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Purchase of treasury shares
+
+-
+
+(186)
+
+-
+
+-
+
+(186)
+
+Employee stock compensation
+expense
+
+-
+
+136
+
+-
+
+-
+
+136
+
+Shares bought back
+
+(2)
+
+(1,789)
+
+(2)
+
+-
+
+(1,793)
+
+Dividend Paid
+
+-
+
+(808)
+
+-
+
+(808)
+
+Others
+
+-
+
+-
+
+-
+
+-
+
+-
+
+133
+
+548
+
+21,387
+
+553
+
+22,620
+
+(In ₹ Mn, unless otherwise stated)
+Opening balance 01 April 2024
+
+Closing balance 30 Sep 2025
+
+Shareholder Report Q2 FY26
+
+14
+
+

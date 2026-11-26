@@ -6,22 +6,22 @@
 
 ### 1. What is changing
 
-**Ownership — Change of control — completed.** JSW Paints Limited completed its acquisition of 60.76% of Akzo Nobel India under a share purchase agreement on 10 December 2025, after an open offer, taking 61.2%. The Akzo Nobel sellers were reclassified from promoter to public, and the company was renamed JSW Dulux Limited.
+**Ownership — Change of control — completed.** JSW Paints Limited completed its purchase of 60.76% of Akzo Nobel India (now JSW Dulux Limited) from Akzo Nobel's subsidiaries under a June 2025 SPA, after a 26% open offer. From 10 December 2025 JSW Paints holds 61.2% and is the promoter; the Akzo Nobel entities were reclassified as public.
 
 | | Who | Kind | Stake before | Stake after |
 |---|---|---|---|---|
-| Outgoing | Imperial Chemical Industries Limited and Akzo Nobel Coatings International B.V. (subsidiaries of Akzo Nobel N.V., ultimate promoter) | corporate parent | 69.76% promoter and group (Imperial Chemical Industries alone 45.46%) | 0% as promoters (ceased to be promoter/promoter group; Imperial Chemical Industries continues as public shareholder with 9%) |
-| Incoming | JSW Paints Limited | strategic buyer | — | 61.2% (27,871,723 equity shares) |
+| Outgoing | Imperial Chemical Industries Limited and Akzo Nobel Coatings International B.V. (ultimate promoter Akzo Nobel N.V.) | corporate parent | 69.76% promoter and group as at 2025-09-30 (Imperial Chemical Industries alone 45.46%) | Reclassified to public; Imperial Chemical Industries held 9% after selling 1,66,03,504 shares (36.46%) |
+| Incoming | JSW Paints Limited, with JTPM Metal Traders Limited and JSW EduInfra Private Limited as persons acting in concert | strategic buyer | — | 61.2% (27,871,723 equity shares) |
 
-- mode: share purchase agreement · deal value Total consideration is Rs. 4586,07,47,515 (Total Consideration), out of which Rs. 43,64,06,49,913.60 was paid upfront (Upfront Consideration) and Rs. 2,22,00,97,601.45 will be paid on a deferred basis, subject to the terms set out under the share purchase agreement (Contingent Consideration) — as disclosed for Imperial Chemical Industries' sale of 1,66,03,504 shares · control changes
-- Open offer: price not stated, size not stated, status completed
-- Management changing with it: not stated (filings are titled 'Change in Management' but describe only the share acquisition and promoter reclassification; no director or CEO changes are stated)
-- Dates: agreement 2025-06-27; open offer completion intimation 2025-11-14; completion 2025-12-10; promoter reclassification effective 2025-12-10; other 2025-12-12
+- mode: share purchase agreement · price INR 2,762.05 per share under the SPA (maximum, subject to adjustment); open offer price INR 3,231.77 · deal value SPA consideration up to INR 9,403.21 crore (inclusive of aggregate contingent consideration of INR 447 crore); Imperial Chemical Industries' sale consideration Rs. 4586,07,47,515, of which Rs. 43,64,06,49,913.60 [as written] paid upfront and Rs. 2,22,00,97,601.45 deferred; open offer consideration up to INR 2997,11,18,266.54 · control changes
+- Open offer: price INR 3,231.77 per equity share, size Up to 1,18,40,482 shares, 26.00% of voting share capital (proportionately reducible to ~20.36%), status completed
+- Management changing with it: The documents state the Acquirer is now classified as promoter and the former Promoters and Akzo Nobel N.V. ceased to be promoter/promoter group; no director or CEO change is stated. Earnings calls refer to "the new owner" and "the JSW way of doing things", with Rajiv Rajgopal still speaking as management.
+- Dates: agreement 2025-06-27; public announcement 2025-06-27; approval 2025-09-16; block deal 2025-09-24; open offer opens 2025-10-23; other 2025-11-06; completion 2025-12-10
 - In the documents: “Pursuant to the completion of the aforesaid acquisition, the Acquirer now holds 27,871,723 equity shares, representing 61.2% of the paid-up equity share capital of the Company.”
 
 **Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 69.76% (2025-09-30) → 61.2% (2025-12-31) → 61.2% (2026-03-31) → 61.2% (2026-06-30) → 61.2% (2026-09-30)
 
-*Filings read for the ownership:* [2026-07-14 News Verification](https://nsearchives.nseindia.com/corporate/AKZOINDIA_14072026101326_JSWDuluxNewsClarification_14Jul26_NSE.pdf) · [2025-12-12 General Updates](https://nsearchives.nseindia.com/corporate/AKZOINDIA_12122025182231_AkzoIndiaRegulation7_2_Disclosure_ICI_12Dec2025.pdf) · [2025-12-10 Change in Management](https://nsearchives.nseindia.com/corporate/AKZOINDIA_10122025212554_AkzoIndiaReg30disclosure_10Dec2025.pdf) · [2025-12-10 Change in Management](https://nsearchives.nseindia.com/corporate/AKZOINDIA_10122025212911_AkzoIndiaRegulation31ADisclosure_10Dec2025.pdf)
+*Filings read for the ownership:* [2026-07-14 News Verification](https://nsearchives.nseindia.com/corporate/AKZOINDIA_14072026101326_JSWDuluxNewsClarification_14Jul26_NSE.pdf) · [2025-12-12 General Updates](https://nsearchives.nseindia.com/corporate/AKZOINDIA_12122025182231_AkzoIndiaRegulation7_2_Disclosure_ICI_12Dec2025.pdf) · [2025-12-10 Change in Management](https://nsearchives.nseindia.com/corporate/AKZOINDIA_10122025212554_AkzoIndiaReg30disclosure_10Dec2025.pdf) · [2025-12-10 Change in Management](https://nsearchives.nseindia.com/corporate/AKZOINDIA_10122025212911_AkzoIndiaRegulation31ADisclosure_10Dec2025.pdf) · [2025-10-17 General Updates](https://nsearchives.nseindia.in/corporate/AKZOINDIA_17102025122522_Regulation26_7Disclosure-IDCrecommendation.pdf) · [2025-10-14 Public Announcement-Open Offer](https://nsearchives.nseindia.in/corporate/vipulr_14102025150240_AkzoNobelIndiaLimited_OpenOffer_LetteOffer.zip) · +1 more
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Imperial Chemical Industries Limited and Akzo Nobel Coatings International B.V. (subsidiaries of Akzo Nobel N.V., ultimate promoter)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 69.76% promoter and group (Imperial Chemical Industries alone 45.46%) → 0% as promoters (ceased to be promoter/promoter group; Imperial Chemical Industries continues as public shareholder with 9%).
+**Imperial Chemical Industries Limited and Akzo Nobel Coatings International B.V. (ultimate promoter Akzo Nobel N.V.)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 69.76% promoter and group as at 2025-09-30 (Imperial Chemical Industries alone 45.46%) → Reclassified to public; Imperial Chemical Industries held 9% after selling 1,66,03,504 shares (36.46%).
 
 **Krishna Rallapalli** — Wholetime Director & Chief Financial Officer, date of taking the seat not on file.
 
@@ -74,9 +74,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**JSW Paints Limited** (strategic buyer) — the incoming owner. Holding after: 61.2% (27,871,723 equity shares).
+**JSW Paints Limited, with JTPM Metal Traders Limited and JSW EduInfra Private Limited as persons acting in concert** (strategic buyer) — the incoming owner. Holding after: 61.2% (27,871,723 equity shares).
 
-What the documents say about them: “Described only as "JSW Paints Limited (‘Acquirer’)", now the promoter and "its Holding Company i.e. JSW Paints Limited". The company states it is "part of JSW Group since 10th December 2025" and "no longer forming part of the Akzo Nobel NV and/or any of AkzoNobel group entities across the world". An earnings call refers to "the new owner is the JSW family".”
+What the documents say about them: “"JSW Paints Limited (“ACQUIRER”) A public company limited by shares, incorporated under the Companies Act, 2013; Registered Office: Jindal Mansion, 5A, Dr. G. Deshmukh Marg, Mumbai, Maharashtra, India - 400026"; part of the JSW Group (the company states it is "part of JSW Group since 10th December 2025"). PACs are JTPM Metal Traders Limited (JSW Centre, Bandra Kurla Complex) and JSW EduInfra Private Limited. "The Acquirer and the PACs have made financial arrangements for the Open Offer by way of external debt funding sources."”
 
 ### 5. On the calls
 

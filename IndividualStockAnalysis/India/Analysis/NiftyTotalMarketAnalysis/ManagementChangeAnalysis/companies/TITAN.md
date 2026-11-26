@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | — (new seat) | Ajoy Chawla (from 2026-01-01) | effective | 2025-12-10 |
+| **Managing Director** | C. K. Venkataraman (retirement; last day 2025-12-31) | Ajoy Chawla (internal; from 2026-01-01) | effective | 2025-11-03 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “RESOLVED THAT pursuant to the provisions of Sections 196, 197, 203 and other applicable provisions, if any, of the Companies Act, 2013 ("the Act") (including any statutory modifications or re-enactments thereof for the time being in force) read with Schedule V of the Act and the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014, as amended from time to time, the approval of Members of the Company be and is hereby accorded for the appointment including remuneration of Mr. Ajoy Chawla (DIN: 07083700) as the Managing Director of the Company for a period of five years from 1st January 2026 to 31st December 2030, not liable to retire by rotation” — [2026-01-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN_12012026162859_Cover_letter_Voting_results.pdf) · [2025-12-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN003_10122025143047_SE_Intimation_Ajoysign.pdf)
+- **Why C. K. Venkataraman is leaving, in the filing's words:** “Mr. C. K. Venkataraman, the current Managing Director, will superannuate from the services of the Company on 31st December 2025.”
+- In the documents: “Pursuant to the succession planning announced earlier, the Board appointed Mr. Ajoy Chawla (DIN 07083700) as an Additional Director designated as Managing Director for a period of five years commencing from 1st January 2026, subject to approval of shareholders.” — [2026-01-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN_12012026162859_Cover_letter_Voting_results.pdf) · [2025-12-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN003_10122025143047_SE_Intimation_Ajoysign.pdf) · [2025-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TITAN_03112025181921_SEoutcomeBMQ2.pdf) · +1 more
 
-*All 2 filing(s) read for the seats:* [2026-01-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN_12012026162859_Cover_letter_Voting_results.pdf) · [2025-12-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN003_10122025143047_SE_Intimation_Ajoysign.pdf)
+*All 4 filing(s) read for the seats:* [2026-01-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN_12012026162859_Cover_letter_Voting_results.pdf) · [2025-12-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TITAN003_10122025143047_SE_Intimation_Ajoysign.pdf) · [2025-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TITAN_03112025181921_SEoutcomeBMQ2.pdf) · [2025-11-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TITAN_03112025183949_SEappointmentofdirector.pdf)
 
 ### 2. Financials — the last three years
 
@@ -37,17 +37,37 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/TITAN.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹3,849.00 on 2025-12-09 (the close before) → ₹4,844.90 on 2026-11-13: **+25.9%**; Nifty 500 +0.9% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹3,746.70 on 2025-10-31 (the close before) → ₹4,844.90 on 2026-11-13: **+29.3%**; Nifty 500 +0.1% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-No outgoing person or owner is named (a new seat, or the documents do not say).
+**C. K. Venkataraman** — Managing Director, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2020 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 21,052 | 60,456 | +23.5% a year over 5 years |
+| Operating profit (₹ cr) | 2,463 | 5,694 | +18.2% a year over 5 years |
+| PAT (₹ cr) | 1,493 | 3,337 | +17.5% a year over 5 years |
+| Operating profit margin (%) | 11.7 | 9.4 | -2.3 pts |
+| ROCE (%) | 24.0 | 19.0 | -5.0 pts |
+| ROE (%) | 22.4 | 28.7 | +6.3 pts |
+| Borrowings (₹ cr) | 3,562 | 20,777 | +17,215 |
 
 ### 4. Track record — the incoming management
 
-**Ajoy Chawla** — Managing Director.
+**Ajoy Chawla** — Managing Director. from: internal.
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+The filing's own profile: “Mr. Ajoy Chawla became part of the Tata Administrative Services (TAS) in 1990 and initially joined the finance department of Titan in 1991. Over the next two decades, he was in the Watches Division, and played several roles spanning Commercial, Sales, Retailing, Supply chain, SAP implementation, leading accessories and licensed brands as SBU Head and then heading the Titan SBU for Domestic and International. Between 2013 and 2019, Ajoy was the Chief Strategy Officer of Titan as well as heading Business Incubation, scaling the Fragrances business and seeding the Taneira business. In October 2019, Ajoy became the CEO of Titan's Jewellery Division.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| became part of the Tata Administrative Services (TAS) | Tata Administrative Services (TAS) | 1990 | — |
+| finance department | Titan (TITAN) | 1991 | — |
+| Watches Division – roles spanning Commercial, Sales, Retailing, Supply chain, SAP implementation, SBU Head for accessories and licensed brands, then heading the Titan SBU for Domestic and International | Titan (TITAN) | — | — |
+| Chief Strategy Officer, also heading Business Incubation | Titan (TITAN) | 2013 | 2019 |
+| CEO of Titan's Jewellery Division | Titan (TITAN) | 2019 | — |
 
 ### 5. On the calls
 
