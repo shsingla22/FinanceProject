@@ -1024,5 +1024,2055 @@
    "announced_on": "2025-10-18",
    "quote": "Pursuant to the Open Offer and the Preferential Issue, the Acquirer has acquired control over the TC and the Acquirer has become the promoter of the TC in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015."
   }
+ },
+ "AADHARHFC::seat": {
+  "stamp": "2cc3e26eb6fdb50b9e4a2f17dda52355",
+  "answer": {
+   "changes": [],
+   "read": "The only document is Aadhar Housing Finance Limited's August 12, 2026 board-meeting outcome announcing the appointment of Mr. Nikhil Goyal (DIN: 09170911) as an Additional Director, to be approved by postal ballot as a Non-Executive Nominee Director of the Promoter Company — a non-executive directorship, not the chief executive or CFO seat, and the documents state no change in the MD & CEO or CFO position."
+  }
+ },
+ "AARTIIND::seat": {
+  "stamp": "08756b02df44deb7d346dfca1105ce71",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director and Chief Executive Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Rajendra V. Gogri",
+      "last_day": "2026-09-30",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "As part of the Company's natural progression of a strong institution and its long-term succession and governance framework, Shri. Rashesh C. Gogri, Shri. Renil R. Gogri, and he himself will transition from executive responsibilities to Non-Executive roles on the Board w.e.f. October 01, 2026.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Non-Executive Director and Chairman of the Company"
+     },
+     "incoming": {
+      "name": "Suyog K. Kotecha",
+      "effective": "2026-10-01",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "Aarti Industries Limited",
+        "role": "Chief Executive Officer and Executive Director",
+        "from": "2024",
+        "to": "2026"
+       }
+      ],
+      "profile": "Since joining Aarti Industries as Chief Executive Officer in June 2024, Mr Suyog Kotecha has worked closely with the Board and the leadership team to strengthen strategic execution, deepen customer engagement, strengthen organisational capabilities and reinforce the Company's long-term growth agenda. Based on his leadership and contribution, the Board has unanimously expressed its confidence in his ability to lead Aarti Industries through its next phase of growth."
+     },
+     "status": "effective",
+     "announced_on": "2026-07-30",
+     "quote": "The Board of Directors has approved the appointment of Mr Suyog Kotecha, currently Chief Executive Officer and Executive Director, as Managing Director and Chief Executive Officer of the Company with effect from October 1, 2026, subject to shareholders' approval."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Vice-Chairman & Managing Director",
+     "is_change": false,
+     "not_a_change_because": "deputy or joint seat",
+     "outgoing": {
+      "name": "Rashesh C. Gogri",
+      "last_day": "2026-09-30",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Since there is no fresh appointment but change in role from Executive to Non-Executive.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Non-Executive Director and Vice-Chairman of the Company"
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-07-30",
+     "quote": "Shri Rashesh C. Gogri (DIN: 00066291): To continue as a Non-Executive Director and Vice-Chairman of the Company."
+    }
+   ],
+   "read": ""
+  }
+ },
+ "ABCAPITAL::seat": {
+  "stamp": "e7ff2ba203583b30b3cc5ab1cb83d8cb",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director & CEO",
+     "is_change": false,
+     "not_a_change_because": "other senior management — the resignation is of the Chief Technology Officer; the Managing Director & CEO appears only as the addressee of the resignation letter",
+     "outgoing": {
+      "name": "Ramesh Narayanaswamy",
+      "last_day": "2026-02-28",
+      "reason": "resignation",
+      "reason_in_their_words": "Mr. Ramesh Narayanaswamy, Chief Technology Officer of the Company tendered his resignation to pursue opportunities outside the Company",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-03-01",
+     "quote": "I hereby tender my resignation from the position of Chief Technology Officer to pursue career opportunities outside the Company."
+    }
+   ],
+   "read": "A single Regulation 30 filing dated 1 March 2026 in which Aditya Birla Capital Limited reports the resignation of its Chief Technology Officer, Ramesh Narayanaswamy, effective 28 February 2026 — a senior management change only; no change to the chief executive (Managing Director & CEO) or CFO seat is stated."
+  }
+ },
+ "3MINDIA::seat": {
+  "stamp": "8d710f21b5ff696ee68e2d88d5afea8d",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Ramesh Ramadurai",
+      "last_day": "2026-03-31",
+      "reason": "retirement",
+      "reason_in_their_words": "intention to retire from the position of Managing Director and as a Member of the Board of Directors of the Company, effective close of business hours on March 31, 2026",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Aseem Kuldip Joshi",
+      "effective": "2026-04-01",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-02-12",
+     "quote": "The Board of Directors has taken note of Mr. Ramesh Ramadurai’s intention to retire from the position of Managing Director and as a Member of the Board of Directors of the Company, effective close of business hours on March 31, 2026."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "Country Business Leader – Healthcare of the Company (Senior Management Personnel)",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "Rajiv Gupta",
+      "last_day": "2026-04-30",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Cessation as Country Business Leader – Healthcare of the Company (Senior Management Personnel), due to transitioning to a senior leadership role as part of internal talent movement within the 3M Group.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "a senior leadership role within the 3M Group"
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-04-16",
+     "quote": "As I will be taking up a new role within the 3M Group, I cease to be Country Business Leader – Healthcare Business of the Company, and consequently cease to be a Senior Management Personnel of the Company, with effect from the close of business hours on April 30, 2026."
+    }
+   ],
+   "read": ""
+  }
+ },
+ "360ONE::seat": {
+  "stamp": "5ef129522adfbc7a0c6a438a7bd26573",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CEO",
+     "designation_as_written": "Chief Executive Officer of the Company",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Karan Bhagat",
+      "last_day": "not stated",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Karan Bhagat, currently Managing Director & CEO, will be appointed as Vice Chairman and continue as Managing Director of the Group, driving group strategy, capital allocation and key client & institutional relationships.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Vice-Chairman and Managing Director of the Company (Managing Director till July 26, 2030)"
+     },
+     "incoming": {
+      "name": "Aashish Agarwal",
+      "effective": "2027-02-15",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "He is a Chartered Accountant and a post -graduate of SPJIMR, Mumbai.",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "Jefferies",
+        "role": "Managing Director and Country Head",
+        "from": "2020",
+        "to": "not stated"
+       },
+       {
+        "company": "CLSA",
+        "role": "Executive Director and Head of Research",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Merrill Lynch",
+        "role": "not stated",
+        "from": "2004",
+        "to": "2007"
+       }
+      ],
+      "profile": "Mr. Aashish Agarwal is a veteran investment banker with deep institutional and investor relationships, combined with a strong professional entrepreneurial instinct. He brings in-depth experience of capital markets, investment banking and asset management. He joins 360 ONE from Jefferies, where he has been the Managing Director and Country Head from April 2020, and has grown the India franchise significantly over the last 6 years. Prior to Jefferies, he spent 13 years at CLSA, latterly as Executive Director and Head of Research. He spent the early part of his career at Merrill Lynch (2004 –2007). He is a Chartered Accountant and a post -graduate of SPJIMR, Mumbai.",
+      "from_where_note": null
+     },
+     "status": "announced, not yet effective",
+     "announced_on": "2026-09-22",
+     "quote": "Appointment  of Mr. Aashish Agarwal  as the Chief Executive Officer  of the Company, designated as a key managerial personnel  with effect  from February 15, 2027 , pursuant to the Companies Act, 2013 and SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015"
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Vice-Chairman  and Managing Director",
+     "is_change": false,
+     "not_a_change_because": "same person, new title",
+     "outgoing": {
+      "name": "Karan Bhagat",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Managing Director of the Company till July 26, 2030, additionally designated Vice-Chairman and Managing Director with effect from February 15, 2027"
+     },
+     "incoming": {
+      "name": "Karan Bhagat",
+      "effective": "2027-02-15",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "360 ONE WAM LIMITED",
+        "role": "Managing Director & CEO",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "not stated"
+     },
+     "status": "announced, not yet effective",
+     "announced_on": "2026-09-22",
+     "quote": "Mr. Karan Bhagat  continu es with no change , as the Managing Director of the Company till July 26, 2030, as was approved earlier , and will be eligible to be re -appointed ."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "'Chief Executive Officer 'of the 360 ONE Alternates Asset Management business",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Anshuman Maheshwary",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "360 ONE WAM LIMITED",
+        "role": "Chief Operating Officer",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-04-21",
+     "quote": "exclusion of Mr. Anshuman Maheshwary as senior management of the Company owing to transitioning into a new role from 'Chief Operating Officer' of the Company to 'Chief Executive Officer 'of the 360 ONE Alternates Asset Management business."
+    }
+   ],
+   "read": "Board-meeting outcomes of 360 ONE WAM Limited: the April 21, 2026 filing carries FY26 results, dividend, auditor re-appointment and a senior-management change, and the September 22, 2026 filing announces Aashish Agarwal as Chief Executive Officer from February 15, 2027 with Karan Bhagat continuing as Managing Director and additionally designated Vice-Chairman; no CFO change is stated."
+  }
+ },
+ "ABB::seat": {
+  "stamp": "19644059188a654d5002ce2319407bd2",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Sanjeev Sharma",
+      "last_day": "2026-12-31",
+      "reason": "end of term",
+      "reason_in_their_words": "The term of Mr. Sanjeev Sharma (DIN: 07362344), Managing Director of the Company, will conclude on December 31, 2026.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Non-Executive, Non-Independent Director of the Company with effect from January 1, 2027, for a term of 2 years, subject to shareholders' approval"
+     },
+     "incoming": {
+      "name": "TK Sridhar",
+      "effective": "2027-01-01",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He comes from a commerce background with a focus on finance and accounting and is a Certified Independent Director. He has also undertaken executive leadership programmes from reputed global institutions.",
+      "experience_years": "over three decades of professional experience",
+      "previous_roles": [
+       {
+        "company": "ABB India Limited",
+        "role": "Chief Financial Officer",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ABB Group",
+        "role": "multiple leadership roles across finance and business functions",
+        "from": "1994",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. T K Sridhar is an experienced business and finance leader with over three decades of professional experience. He is currently serving as the Chief Financial Officer of ABB India Limited and has been associated with the ABB Group since 1994, having held multiple leadership roles across finance and business functions. He has extensive expertise in financial strategy, business operations, governance, investor relations, and transformation initiatives, and has been closely involved in supporting strategic decision-making and driving sustainable growth for the Company."
+     },
+     "status": "announced, not yet effective",
+     "announced_on": "2026-05-08",
+     "quote": "Based on the recommendation of the Nomination and Remuneration Committee, the Board has unanimously approved the proposal to seek shareholders' approval for the appointment of Mr. TK Sridhar (DIN: 06960804) as the Managing Director of the Company, with effect from January 1, 2027, for a term of 5 consecutive years, subject to shareholders' approval."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer and Key Managerial Personnel",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "TK Sridhar",
+      "last_day": "not stated",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Managing Director of the Company with effect from January 1, 2027"
+     },
+     "incoming": {
+      "name": "Suneel Kumar Munaga",
+      "effective": "2027-01-01",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "Mr. Munaga is a Commerce Graduate and a qualified Cost & Management Accountant (CMA). He secured All India 13th Rank in the CMA Final Examination, was a University Rank Holder in B.Com and has completed the Finance Leadership Program at IMD.",
+      "experience_years": "over 28 years of experience",
+      "previous_roles": [
+       {
+        "company": "ABB India Limited",
+        "role": "Vice President and Business Area Controller (Electrification)",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "NTPC Limited",
+        "role": "leadership positions",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Hansen Drives Limited",
+        "role": "leadership positions",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Tecumseh Products India Private Limited",
+        "role": "leadership positions",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Hindustan Aeronautics Limited",
+        "role": "leadership positions",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Bharat Heavy Plate & Vessels Limited",
+        "role": "leadership positions",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Suneel Kumar Munaga is a seasoned finance and business leader with over 28 years of experience across multinational corporations and public sector enterprises in the areas of finance, business control, corporate governance, compliance, strategic planning, business transformation and performance management. He is currently serving as Vice President and Business Area Controller (Electrification) at ABB India Limited, where he is responsible for the financial leadership, governance, profitability, compliance and business performance of the Electrification Business Area across India and several international markets in Asia and Africa."
+     },
+     "status": "announced, not yet effective",
+     "announced_on": "2026-10-06",
+     "quote": "based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee, the Board of Directors have approved the appointment of Mr. Suneel Kumar Munaga, presently Vice President and Business Area Controller (Electrification) of the Company, as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from January 1, 2027."
+    }
+   ],
+   "read": "Board intimations and a postal ballot notice announcing ABB India's leadership transition effective January 1, 2027: MD Sanjeev Sharma's term ends December 31, 2026 and he moves to a non-executive directorship, CFO TK Sridhar becomes Managing Director, and Suneel Kumar Munaga becomes Chief Financial Officer."
+  }
+ },
+ "AAVAS::seat": {
+  "stamp": "66992400d7c29d5214bf72dd2bcd46c3",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director & Chief Executive Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Sachinderpalsingh Jitendrasingh Bhinder",
+      "last_day": "2026-04-20",
+      "reason": "resignation",
+      "reason_in_their_words": "Mr. Sachinderpalsingh Jitendrasingh Bhinder has resigned from the position of Managing Director & Chief Executive Officer of the Company with effect from close of business hours of April 20, 2026 due to professional and personal commitments.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "senior advisor to the Company to provide continuity and support as may be required"
+     },
+     "incoming": {
+      "name": "Manu Yeshpal Singh",
+      "effective": "2026-04-21",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "over two decades of experience in retail lending, housing finance, and consumer banking",
+      "previous_roles": [
+       {
+        "company": "Kotak Mahindra Bank",
+        "role": "President - Business Head, Housing Finance",
+        "from": "not stated",
+        "to": "2026"
+       },
+       {
+        "company": "Kotak Mahindra Bank",
+        "role": "Business Head for Salaried Personal Loans",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Tata Capital",
+        "role": "built and led large retail portfolios across vehicle loans, business loans, and mortgages",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ICICI Bank",
+        "role": "AGM, managing product and inventory funding for two-wheeler loans",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Tata Motors",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Manu Yeshpal Singh is an accomplished business leader with over two decades of experience in retail lending, housing finance, and consumer banking, spanning Kotak Mahindra Bank, Tata Capital, ICICI Bank, and Tata Motors. His career reflects a unique blend of operational depth, strategic leadership, and P&L accountability across diverse financial products. He served as the President & Business Head for Housing Finance at Kotak Mahindra Bank, overseeing a ~ 70,000 crore franchise, driving both growth and profitability across the secured lending spectrum. He was elevated twice in five years, most recently in 2024 underscoring his performance and leadership impact."
+     },
+     "status": "effective",
+     "announced_on": "2026-04-20",
+     "quote": "Approved the appointment of Mr. Manu Yeshpal Singh as the Managing Director (subject to receipt of approval from the Reserve Bank of India and approval of the shareholders of the Company) & Chief Executive Officer of the Company, with effect from April 21, 2026."
+    },
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director & Chief Executive Officer (MD & CEO)",
+     "is_change": false,
+     "not_a_change_because": "same person, new title",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "2026-04",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Manu Yeshpal Singh",
+      "effective": "2026-09-19",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "over two decades of experience in retail lending, housing finance, and consumer banking",
+      "previous_roles": [
+       {
+        "company": "Kotak Mahindra Bank",
+        "role": "President & Business Head for Housing Finance",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Tata Capital",
+        "role": "built and led large retail portfolios across vehicle loans, business loans, and mortgages",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ICICI Bank",
+        "role": "AGM, managing product and inventory funding for two-wheeler loans",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Appointed as Managing Director of the Company (in addition to his current position as Chief Executive Officer), not liable to retire by rotation w.e.f. September 19, 2026, subject to approval of the Shareholders of the Company."
+     },
+     "status": "effective",
+     "announced_on": "2026-09-18",
+     "quote": "Consequent to the aforesaid appointment, the Board also approved the change in designation of Mr. Manu Yeshpal Singh from Chief Executive Officer to Managing Director & Chief Executive Officer (MD & CEO) of the Company, with effect from September 19, 2026."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "President and Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Ghanshyam Rawat",
+      "last_day": "2026-09-21",
+      "reason": "resignation",
+      "reason_in_their_words": "After consideration of my personal and professional commitments, I, Mr. Ghanshyam Rawat, would like to transition from my current role as the President and Chief Financial Officer of Aavas Financiers Limited",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Ghanshyam Gupta",
+      "effective": "2026-06-22",
+      "interim": true,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "qualified Chartered Accountant",
+      "experience_years": "18+ years of experience, including 9+ years at Aavas",
+      "previous_roles": [
+       {
+        "company": "Aavas Financiers Limited",
+        "role": "not stated",
+        "from": "2017",
+        "to": "not stated"
+       },
+       {
+        "company": "Vaibhav Global",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Tata Technologies Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Capgemini India Private Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Ghanshyam Gupta is a qualified Chartered Accountant with 18+ years of experience, including 9+ years at Aavas. Expertise in financial planning & strategy, budgeting, MIS, investor relations, and business growth initiatives. Strategic partner to leadership, driving profitability and performance improvement. He has been associated with Aavas, since 2017. Prior to Aavas he was associated with Vaibhav Global, Tata Technologies Limited and Capgemini India Private Limited."
+     },
+     "status": "effective",
+     "announced_on": "2026-06-21",
+     "quote": "Taken note of, and accepted, the Resignation of Mr. Ghanshyam Rawat, President and Chief Financial Officer and Mr. Ashutosh Atre, President and Chief Risk Officer from their respective positions, with effect from September 21,2026."
+    }
+   ],
+   "read": ""
+  }
+ },
+ "AARTIDRUGS::seat": {
+  "stamp": "51af408a6271ae6244732f06d6ce2bcd",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CMD",
+     "designation_as_written": "Chairman, Managing Director and Chief Executive Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Prakash Moreshwar Patil",
+      "last_day": "2026-09-30",
+      "reason": "retirement",
+      "reason_in_their_words": "In his communication to the Board, he expressed his desire to resign on ground of his intention to get early retirement. This is in view of his belief that it's an appropriate time for an orderly leadership transition.",
+      "in_seat_since": "2014",
+      "stays_on_as": "continues his association with the Company for the purpose of providing guidance, strategic support and smooth transition"
+     },
+     "incoming": {
+      "name": "Adhish Prakash Patil",
+      "effective": "2026-10-01",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He has a Bachelor of Engineering (IT) degree from Mumbai University. He is a gold medallist from the University of Florida's Warrington College of Business Administration with an MBA in Finance and Marketing.",
+      "experience_years": "21 years of experience",
+      "previous_roles": [
+       {
+        "company": "Aarti Drugs Limited",
+        "role": "Chief Financial Officer",
+        "from": "2014",
+        "to": "2026"
+       }
+      ],
+      "profile": "Shri Adhish P. Patil is a proven leader with 21 years of experience in Manufacturing Operations, Finance, Investor Relations, Regulatory Compliance, Consulting, Systems Engineering and Information Technology for the Pharmaceutical and Consulting industries. He has a Bachelor of Engineering (IT) degree from Mumbai University. He is a gold medallist from the University of Florida's Warrington College of Business Administration with an MBA in Finance and Marketing. He has managed production efficiencies, projects, financial operations, ERP implementation, automations for regulatory compliances for a publicly traded pharmaceutical Company. He also has experience in company operations and project management."
+     },
+     "status": "effective",
+     "announced_on": "2026-07-31",
+     "quote": "With reference to the earlier intimation bearing reference no. ADL/SE/2026-27/28 dated July 31, 2026, regarding the decision of Shri Prakash M. Patil to take early retirement and resign from the positions of Chairman, Managing Director and Chief Executive Officer of the Company, we hereby inform that he has ceased to hold the aforesaid positions with effect from the close of business hours on September 30, 2026."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Adhish Prakash Patil",
+      "last_day": "2026-09-30",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Relinquishment of the position of Chief Financial Officer consequent upon his promotion (appointment) as Managing Director of the Company",
+      "in_seat_since": "2014-04",
+      "stays_on_as": "Managing Director of the Company (he states he shall continue to support and oversee the functions under the purview of CFO along with his responsibilities as Managing Director)"
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "seat vacant — no successor named",
+     "announced_on": "2026-09-30",
+     "quote": "Consequently, Shri Adhish P. Patil has relinquished the position of Chief Financial Officer of the Company with effect from the close of business hours on September 30, 2026."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Chairman of the Company, in addition to his existing role as Managing Director",
+     "is_change": false,
+     "not_a_change_because": "same person, new title",
+     "outgoing": {
+      "name": "Rashesh C. Gogri",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "2014-09",
+      "stays_on_as": "Managing Director, additionally elevated to Chairman with effect from October 1, 2026"
+     },
+     "incoming": {
+      "name": "Rashesh C. Gogri",
+      "effective": "2026-10-01",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He holds a degree in Production Engineering from Mumbai University",
+      "experience_years": "more than 27 years of experience in Production, Marketing and Project Implementation in the chemical and pharmaceutical industry",
+      "previous_roles": [
+       {
+        "company": "Aarti Drugs Limited",
+        "role": "Whole-time Director",
+        "from": "2012",
+        "to": "2014"
+       },
+       {
+        "company": "Aarti Industries Limited",
+        "role": "Vice-Chairman & Managing Director",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Aarti Pharmalabs Limited",
+        "role": "Chairman",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Shri Rashesh C. Gogri has been associated with the Company as Managing Director since September 2014, having earlier served as Whole-time Director from October 2012. He holds a degree in Production Engineering from Mumbai University and brings more than 27 years of experience in Production, Marketing and Project Implementation in the chemical and pharmaceutical industry. He also serves as Vice-Chairman & Managing Director of Aarti Industries Limited and as Chairman of Aarti Pharmalabs Limited."
+     },
+     "status": "effective",
+     "announced_on": "2026-07-31",
+     "quote": "In recognition of his contributions and as part of the Company's leadership transition, on the basis of the recommendation of Nomination and Remuneration Committee, the Board has elevated him to the position of Chairman of the Company, in addition to his existing role as Managing Director."
+    }
+   ],
+   "read": "Board, shareholder and press-release filings from July–November 2026 recording Aarti Drugs' leadership transition: Prakash M. Patil's early retirement as Chairman, Managing Director and CEO, Adhish P. Patil's promotion from CFO to Managing Director, Rashesh C. Gogri's elevation to Chairman alongside his MD role, other directorate changes, and Q2/H1 FY27 results."
+  }
+ },
+ "ACC::seat": {
+  "stamp": "18b7d19916f68f9254569201aa65c7c3",
+  "answer": {
+   "changes": [],
+   "read": "No filing text was provided for ACC Ltd., so there is nothing in the documents stating any change to the chief executive or CFO seat between 2025-11-26 and 2026-11-26; the only hint of a CFO change (Rakesh Tiwary to Rohit Soni) comes from the call-transcript management list, which is a cross-check and not evidence from the filings."
+  }
+ },
+ "AARTIPHARM::seat": {
+  "stamp": "042a6c32d7f6ba91ae9ca83b20d16cc8",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (CFO) and Key Managerial Personnel of the Company",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Piyush Lakhani",
+      "last_day": "2026-10-30",
+      "reason": "resignation",
+      "reason_in_their_words": "Resignation from the position of Chief Financial Officer and Key Managerial Personnel of the Company to pursue an alternate career opportunity outside the organization.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Vibha Thakkar",
+      "effective": "2026-10-31",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI); Bachelors Degree in Commerce; General Management Program from the Indian School of Business (ISB)",
+      "experience_years": "over 18 years",
+      "previous_roles": [
+       {
+        "company": "NOCIL Limited",
+        "role": "AVP - Finance & Accounts",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "VIP Industries Limited",
+        "role": "senior leadership and key financial roles",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Greaves Cotton Limited",
+        "role": "senior leadership and key financial roles",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Sandoz Private Limited",
+        "role": "senior leadership and key financial roles",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "KPMG",
+        "role": "senior leadership and key financial roles",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Smt. Vibha Thakkar is a qualified Chartered Accountant from the Institute of Chartered Accountants of India (ICAI). She has over 18 years of rich and progressive experience across finance functions in diverse industry verticals including Speciality chemicals, FMCG, Automotive, Pharmaceuticals and Big4 consultings. She most recently served as AVP - Finance & Accounts at NOCIL Limited. Prior to that she held senior leadership and key financial roles at renowned organizations including VIP Industries Limited, Greaves Cotton Limited, Sandoz Private Limited, KPMG. She holds a Bachelors Degree in Commerce and has completed the General Management Program from the Indian School of Business (ISB). She was also featured under the '40 Under 40' category by Tradeflock in 2025."
+     },
+     "status": "effective",
+     "announced_on": "2026-10-28",
+     "quote": "Appointment of Smt. Vibha Thakkar as the Chief Financial Officer (CFO) and Key Managerial Personnel of the Company w.e.f October 31, 2026 upon the recommendation of the Nomination and Remuneration Committee and Audit Committee ."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Hetal Gogri Gala",
+      "last_day": "not stated",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Smt. Hetal Gogri Gala (DIN: 00005499) be re-designated from Managing Director to Whole-time Director of the Company with effect from October 1, 2026",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Whole-time Director of the Company with effect from October 1, 2026 (also Vice Chairperson)"
+     },
+     "incoming": {
+      "name": "Rashesh C. Gogri",
+      "effective": "2026-10-01",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "Aarti Pharmalabs Limited",
+        "role": "Non-Executive Director; Chairman of the Company",
+        "from": "not stated",
+        "to": "2026"
+       }
+      ],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-09-22",
+     "quote": "Shri. Rashesh C. Gogri  (DIN:00066291) be appointed as the Managing Director of the Company pursuant  to ch ange in his designation from Non -Executive  Director to Managing Director , with effect from October 1, 2026 ."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Non-Executive Non-Independent Director",
+     "is_change": false,
+     "not_a_change_because": "other: Shri Rajendra Gogri ceased to be a Director on non-re-appointment at the 7th AGM, but he held a Non-Executive Non-Independent directorship, not the chief executive seat",
+     "outgoing": {
+      "name": "Rajendra V. Gogri",
+      "last_day": "2026-09-22",
+      "reason": "end of term",
+      "reason_in_their_words": "shareholders have approved non re-appointment of Shri Rajendra V. Gogri, as a Non Executive Director of the Company who was liable to retire by rotation but did not offer himself for re-appointment.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-09-22",
+     "quote": "Shri Rajendra Gogri (DIN: 00061003), Non-Executive Non -Independent Director of the Company , who was liable to retire by rotation at th e 7th AGM and did not offer himself for re -appointment , accordingly  ceased to be a Director on the Board of the Company with effect from the conclusion of the 7th AGM held on September 22, 2026;"
+    }
+   ],
+   "read": "These filings are Aarti Pharmalabs Limited's Q2/H1 FY27 results board outcome and AGM-related disclosures, which record a CFO handover from Piyush Lakhani to Vibha Thakkar and the Managing Director seat passing from Hetal Gogri Gala (re-designated Whole-time Director) to Rashesh C. Gogri."
+  }
+ },
+ "ABSLAMC::seat": {
+  "stamp": "e22aaddf077b0cb12e8cdaca1179c1ce",
+  "answer": {
+   "changes": [],
+   "read": "These ABSLAMC filings (January 2026 to September 2026) report Regulation 30 changes only in Senior Management Personnel below the chief-executive and finance seats — resignation of Chief Investment Officer Mahesh Patil and role changes for Harish Krishnan, Kaustubh Gupta and Sunaina da Cunha plus appointment of Chief Technology Officer Sneha Suhas (January 7, 2026), resignation of Head - Alternate Investments, Fixed Income Amit Kansal and re-designation of Karan Dave (March 12, 2026), resignation of Head - Passives Business Deepak Yadav (April 10, 2026), changes in Head - Marketing (Ranabir Bose to Parag Murudkar) and Chief Operations Officer (Keerti Gupta to Nikesh Gupta) (June 22, 2026), and change of Chief Information Security Officer (Basil Dange to Rishi Awasthi) (September 18, 2026) — with the Managing Director & CEO and the Chief Financial Officer seats never reported as changing; the MD & CEO is only the addressee of the resignation letters."
+  }
+ },
+ "ADANIENT::seat": {
+  "stamp": "f2ca0b4e6f7134e8306f2f8c45d14a68",
+  "answer": {
+   "changes": [],
+   "read": "No stock-exchange filing text was provided; the only material is an April 2026 earnings-call passage in which Robbie Singh answers a question about continuing to sell in India versus exporting in FY27, and it says nothing about any appointment, resignation or other change in the chief executive or CFO seat."
+  }
+ },
+ "ABREL::seat": {
+  "stamp": "0fe8c24ea97ccd49142407169afc23de",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Snehal Shah",
+      "last_day": "2026-02-28",
+      "reason": "retirement",
+      "reason_in_their_words": "This appointment is consequent to the superannuation of Mr. Snehal Shah in terms of Company's policy.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Keyur Shah",
+      "effective": "2026-03-01",
+      "interim": false,
+      "from_where": "group company",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "more than 30 years of professional experience",
+      "previous_roles": [
+       {
+        "company": "Birla Estates Private Limited (BEPL)",
+        "role": "Chief Financial Officer and Key Managerial Personnel",
+        "from": "2023",
+        "to": "not stated"
+       },
+       {
+        "company": "HDFC Property Ventures Limited",
+        "role": "MD and CEO",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "HDFC Education & Development Services Ltd",
+        "role": "Non-Executive Director",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "HDFC",
+        "role": "not stated",
+        "from": "2005",
+        "to": "not stated"
+       },
+       {
+        "company": "KPMG",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Castrol India Ltd",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Keyur Shah joined on 15th May, 2023 as CFO of BEPL. He served HDFC where he joined in August 2005, his last assignment was MD and CEO of HDFC Property Ventures Limited and Non-Executive Director of HDFC Education & Development Services Ltd. He possesses more than 30 years of professional experience and has worked extensively in Real Estate Investment Services as a business leader. Mr. Keyur has a successful track record of setting up large fund corpus, with investors from India and abroad. Prior to joining HDFC he had worked at KPMG and Castro! India Ltd."
+     },
+     "status": "effective",
+     "announced_on": "2026-01-28",
+     "quote": "This is to inform you pursuant to the Listing Regulations that based on the recommendation of the Nomination and Remuneration Committee and Audit Committee, the Board of Directors ('Board') at its meeting held today i.e. Wednesday, 28th January, 2026 has approved the appointment of Mr. Keyur Shah as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company w.e.f. 1st March, 2026."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "CEO of erstwhile Century Pulp and Paper ('CPP') business division",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "Ajay Kumar Gupta",
+      "last_day": "2026-09-16",
+      "reason": "not stated",
+      "reason_in_their_words": "Mr. Ajay Kumar Gupta ceased as Senior Management Personnel of the Company on account of sale of its Century Pulp & Paper business division to ITC Limited as a going concern on a slump sale basis.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-09-16",
+     "quote": "Mr. Ajay Kumar Gupta -CEO of erstwhile Century Pulp and Paper ('CPP') business division has ceased to hold his position on account of sale of the CPP business division to ITC Limited as a going concern on slump sale basis as informed earlier vide our letter dated 1st August, 2026 and therefore, he has ceased as Senior Management Personnel ('SMP') of the Company w.e.f. 16th September, 2026."
+    }
+   ],
+   "read": "Stock-exchange filings of Aditya Birla Real Estate Limited covering the retirement of CFO Snehal Shah and appointment of Keyur Shah as CFO from 1st March 2026, the Q3 FY26 unaudited financial results, and the cessation of the CEO of the divested Century Pulp and Paper business division."
+  }
+ },
+ "ABFRL::seat": {
+  "stamp": "f6d3a7d8f6057732b20296e977f5461e",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (“CFO”) & KMP of the Company",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Jagdish Bajaj",
+      "last_day": "2026-12-31",
+      "reason": "retirement",
+      "reason_in_their_words": "Cessation as Chief Financial Officer & Key Managerial Personnel with effect from closure of business hours on December 31, 2026, due to retirement.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Nikhil Modha",
+      "effective": "2027-01-01",
+      "interim": false,
+      "from_where": "group company",
+      "age": "not stated",
+      "qualifications": "Mr. Nikhil is a Chartered Accountant and a Commerce graduate",
+      "experience_years": "over 26 years",
+      "previous_roles": [
+       {
+        "company": "Aditya Birla Management Corporation Private Limited",
+        "role": "President – Corporate Finance",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Aditya Birla Group",
+        "role": "key Corporate Finance roles",
+        "from": "2015",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Nikhil is a seasoned finance leader with over 26 years of experience. He joined the group in 2015 and has spent ~11 years in key Corporate Finance roles. He is currently serving as President – Corporate Finance at Aditya Birla Management Corporation Private Limited. At Aditya Birla Group, he has led several large and complex M&A, capital raises and restructuring initiatives, playing a central role in key cement acquisitions, telecom consolidation, fund raising for financial services businesses, fashion retail and renewable energy and has led group-level mergers, demergers and divestures. Mr. Nikhil is a Chartered Accountant and a Commerce graduate and has been recognized with the Exceptional Contributor Award for Functional Excellence (2019)."
+     },
+     "status": "announced, not yet effective",
+     "announced_on": "2026-03-24",
+     "quote": "Based on the recommendation of the Audit Committee and NRC , Board has appointed Mr. Nikhil Modha as Chief Financial Officer (Designate) & SMP of the Company with effect from April 1, 2026 and as Chief Financial Officer (“CFO”) & KMP of the Company with effect from January 1, 2027."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "Whole-time Director and CEO -Pantaloons",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "Sangeeta Tanwani",
+      "last_day": "2026-07-31",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Cessation of Ms. Sangeeta Tanwani as Whole-time Director and CEO - Pantaloons of the Company with effect from closure of business hours on July 31, 2026 on account of an internal movement within the Aditya Birla Group.",
+      "in_seat_since": "2018",
+      "stays_on_as": "Non-Executive Non-Independent Director of the Company w.e.f. August 1, 2026 for a period of 2 years i.e. up to July 31, 2028"
+     },
+     "incoming": {
+      "name": "Suraj Bahirwani",
+      "effective": "2026-08-01",
+      "interim": false,
+      "from_where": "group company",
+      "age": "not stated",
+      "qualifications": "Mr. Suraj holds a Ph.D. from Mumbai University, a Post Graduate Diploma in Management from S.P. Jain Institute of Management & Research and is a Chartered Accountant.",
+      "experience_years": "more than two decades",
+      "previous_roles": [
+       {
+        "company": "Aditya Birla Group",
+        "role": "Group Management Trainee",
+        "from": "2002",
+        "to": "not stated"
+       },
+       {
+        "company": "Aditya Birla Retail",
+        "role": "leadership positions",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Pantaloons",
+        "role": "COO",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Cellulosic Fibres",
+        "role": "Head – Global Sales",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Suraj brings a well-rounded leadership profile developed over more than two decades across strategy, retail operations, B2B and B2C businesses in both Indian and global markets. He began his career as Group Management Trainee with the Group in 2002 and since then has held key roles across the Group, including leadership positions at Aditya Birla Retail, COO - Pantaloons, and most recently as Head – Global Sales at Cellulosic Fibres, where he drove strong international growth and expanded value-added product portfolios."
+     },
+     "status": "effective",
+     "announced_on": "2026-03-24",
+     "quote": "Consequent to the above, based on the recommendation of NRC, the Board today has also approved advancing the date of appointment of Mr. Suraj Bahirwani as CEO - Pantaloons and Senior Management Personnel (“SMP”) to August 1, 2026, from October 1, 2026 (as approved earlier by the Board on March 24, 2026)."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "CEO, OWND! and Senior Management Personnel of the Company",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Marco Agnolin",
+      "effective": "2026-04-06",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "30+ years",
+      "previous_roles": [
+       {
+        "company": "Inditex",
+        "role": "helped build Zara's presence in Italy",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Bershka",
+        "role": "CEO",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Diesel",
+        "role": "CEO",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Marco is a Global fashion retail leader with 30+ years of experience. He has held senior roles across major international brands, including Inditex – where he helped build Zara’s presence in Italy and served as CEO of Bershka and Diesel, where he led key strategic initiatives. He brings deep expertise in fast fashion, brand turnaround, and youth‑centric retail."
+     },
+     "status": "effective",
+     "announced_on": "2026-03-24",
+     "quote": "Based on the recommendation of NRC, Board has appointed Mr. Marco Agnolin as CEO - OWND ! and SMP of the Company with effect from April 6, 2026."
+    }
+   ],
+   "read": "Two ABFRL board filings announcing a planned CFO succession (Jagdish Bajaj retiring, Nikhil Modha taking over from January 1, 2027) and leadership changes in its Pantaloons and OWND! businesses."
+  }
+ },
+ "AETHER::seat": {
+  "stamp": "9f6b5bde6e21e6076b5fa3af1bca42c8",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": false,
+     "not_a_change_because": "re-appointment",
+     "outgoing": {
+      "name": "Ashwin Desai",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Managing Director"
+     },
+     "incoming": {
+      "name": "Ashwin Desai",
+      "effective": "2026-10-01",
+      "interim": false,
+      "from_where": "promoter family",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "Anupam Rasayan India",
+        "role": "founding member",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Ashwin Jayantilal Desai is the founding Promoter and Managing Director of our Company. Prior to incorporation of our Company, he was the founding member of Anupam Rasayan India. At Aether, he is responsible for creating the overall vision of the Company and is actively involved in all techno-commercial departments. He focuses on innovative chemical engineering solutions for our R&D, pilot plant, and production processes and is also responsible for leading our core competency in continuous reaction and flow technology."
+     },
+     "status": "effective",
+     "announced_on": "2026-07-31",
+     "quote": "Re-appointment of Mr. Ashwin Desai (DIN: 00038386) as a Managing Director of the Company for a further period of 5 years, effective from October 1, 2026, subject to the approval of Shareholders in the forthcoming Annual General Meeting of the Company, as annexed."
+    }
+   ],
+   "read": "A single July 31, 2026 board-meeting outcome filing by Aether Industries Ltd. covering Q1 FY2026-27 unaudited results, the re-appointment of the same Managing Director (Ashwin Desai) and three Whole-time Directors for further five-year terms, appointment of internal and cost auditors, designation of senior managerial personnel and convening of the 14th AGM — no change in the chief executive or CFO seat."
+  }
+ },
+ "ADANIENSOL::seat": {
+  "stamp": "19e4cd3fb562ec5aae9bce13191f9009",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (Key Managerial Personnel)",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Kunjal Mehta",
+      "last_day": "2026-05-30",
+      "reason": "resignation",
+      "reason_in_their_words": "Resignation due to personal reasons .",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Ashok Jagetiya",
+      "effective": "2026-05-31",
+      "interim": false,
+      "from_where": "group company",
+      "age": "not stated",
+      "qualifications": "Chartered Accountant",
+      "experience_years": "30 years of experience in finance and accounting disciplines",
+      "previous_roles": [
+       {
+        "company": "Adani Green Energy Limited",
+        "role": "Chief Financial Officer",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Adani Global Pte Limited, Singapore",
+        "role": "Chief Financial Officer",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Adani Group",
+        "role": "senior leadership positions across multiple group businesses, including AWL Agri Business Limited (formerly Adani Wilmar Limited), Adani Advisory LLP, Adani Green Energy Limited, and Natural Resource business",
+        "from": "2000",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Ashok Jagetiya is a Chartered Accountant and seasoned finance professional with 30 years of experience in finance and accounting disciplines. He bring deep insight in the area of financial management and strategy, capital allocation, treasury operations, merger & acquisition, governance, statutory compliance and risk management across diversified sectors of FMCG, Energy, Family Office and Natural Resources. Mr. Jagetiya has been associated with Adani Group since 2000 and has served at senior leadership positions across multiple group businesses, including AWL Agri Business Limited (formerly Adani Wilmar Limited), Adani Advisory LLP, Adani Green Energy Limited, and Natural Resource business."
+     },
+     "status": "effective",
+     "announced_on": "2026-05-30",
+     "quote": "Noted the r esignation of Mr. Kunjal Mehta  as the Chief Financial Officer and Key Managerial Personnel of the Company , with effect from close of business hours of 30th May, 2026 , due to personal reasons ; and  Approved the  appointment of Mr. Ashok Jagetiya  as the Chief Financial Officer and Key Managerial Personnel of the Company, with effect from 31st May, 2026 , based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee  of the Company."
+    }
+   ],
+   "read": "A Regulation 30 intimation dated 30 May 2026 reporting the resignation of the Chief Financial Officer Kunjal Mehta and the appointment of Ashok Jagetiya in his place, with the revised KMP list showing Anil Sardana continuing as Managing Director and Kandarp Patel as Whole-time Director & CEO."
+  }
+ },
+ "ADANIPORTS::seat": {
+  "stamp": "99d04c5a221aa26833242b33da8ffb74",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "D. Muthukumaran",
+      "last_day": "2026-02-28",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "will relinquish his position as Chief Financial Officer of the Company as he will transition to a new role within the Adani's portfolio & Companies",
+      "in_seat_since": "not stated",
+      "stays_on_as": "a new role within the Adani's portfolio & Companies"
+     },
+     "incoming": {
+      "name": "Sreedhar Krishna Menon",
+      "effective": "2026-03-01",
+      "interim": false,
+      "from_where": "group company",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "AdaniConnex",
+        "role": "Chief Financial Officer",
+        "from": "not stated",
+        "to": "2026"
+       }
+      ],
+      "profile": "Mr. Sreedhar Krishna Menon, who is currently serving as Chief Financial Officer of AdaniConnex, (a group Company) will assume the role of Chief Financial Officer and Key Managerial Personnel of the Company effective from March 1, 2026."
+     },
+     "status": "effective",
+     "announced_on": "2026-02-03",
+     "quote": "Mr. D. Muthukumaran, Chief Financial Officer and Key Managerial Personnel of the Company, will relinquish his position as Chief Financial Officer of the Company as he will transition to a new role within the Adani's portfolio & Companies, as more particularly explained in Annexure-A attached herewith."
+    }
+   ],
+   "read": "These filings cover APSEZ's Q3 FY26 and FY26 annual results, a CFO handover from D. Muthukumaran to Sreedhar Krishna Menon effective March 1, 2026, non-executive director changes (Rajkumar Beniwal's resignation, Dr. Ajay Kumar's appointment), an internal-auditor change and a media release on India's first Port of Refuge; the chief executive seats (Karan Adani as Managing Director and Ashwani Gupta as CEO & Whole Time Director) are unchanged throughout."
+  }
+ },
+ "ABDL::seat": {
+  "stamp": "fdf5e6cecaab209371f1d829a1be64cb",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director & KMP of the Company",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Alok Gupta",
+      "last_day": "2026-05-31",
+      "reason": "resignation",
+      "reason_in_their_words": "I would like to step down from the position of Managing Director of the Company with effect from close of business hours of May 31, 2026, before the end of the tenure.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Amar Sinha",
+      "effective": "2026-06-01",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "over three decades of leadership experience across the alco-beverage and consumer sectors",
+      "previous_roles": [
+       {
+        "company": "Radico Khaitan",
+        "role": "Chief Operating Officer",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Whyte & Mackay India",
+        "role": "Managing Director",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Herbertsons (UB Group)",
+        "role": "executive positions",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Amar Sinha is a seasoned industry professional with over three decades of leadership experience across the alco-beverage and consumer sectors. Over the course of his career, he has led corporations through phases of transformation and growth while building strong brands and businesses. His leadership journey includes roles as Chief Operating Officer at Radico Khaitan, Managing Director at Whyte & Mackay India and executive positions at Herbertsons (UB Group) and others. He has received several recognitions for leadership excellence, including the Rajeev Gandhi Excellence Award – Most Enterprising CEO of the Year (2015), the Make in India Excellence Award (2016), and Business Leader of the Year at the IndSpirit Awards in 2023."
+     },
+     "status": "effective",
+     "announced_on": "2026-05-21",
+     "quote": "Mr. Alok Gupta (DIN:02330045), Managing Director & KMP of the Company will step down as the Managing Director & KMP of the Company w.e.f. end of Business Hours on May 31, 2026; and Mr. Amar Sinha (DIN: 01488890) was appointed as Managing Director-Designate and Senior Management Personnel of the Company with effect from April 2, 2026, and is now proposed to be appointed as an Additional Director and Managing Director & KMP of the Company with effect from June 1, 2026, for a period of 3 (three) years ending on May 31, 2029 (both days inclusive), subject to the approval of the Members of the Company."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (“CFO”)",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Jayant Manmadkar",
+      "last_day": "2026-02-01",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "He will continue to serve the Company and will assume the newly created role of “Group Finance Director” and will remain part of Senior Management Personnel (SMP) of the Company.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Group Finance Director, remaining part of Senior Management Personnel (SMP) of the Company"
+     },
+     "incoming": {
+      "name": "Ramakrishnan Ramaswamy",
+      "effective": "2026-02-02",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI)",
+      "experience_years": "over 3 decades of experience",
+      "previous_roles": [
+       {
+        "company": "Allied Blenders",
+        "role": "Chief Financial Officer",
+        "from": "2010",
+        "to": "2024"
+       },
+       {
+        "company": "Allied Blenders and Distillers Limited",
+        "role": "senior management advisory role",
+        "from": "2024",
+        "to": "not stated"
+       },
+       {
+        "company": "Jubilant Oil & Gas Private Limited",
+        "role": "Chief Financial Officer",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Essel Propack Limited",
+        "role": "Vice President – Finance (Global)",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Ramki holds a Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI). With over 3 decades of experience, he has held the position of Chief Financial Officer since 2003 across multiple organizations, including Allied Blenders from 2010 to 2024, bringing deep institutional knowledge and strategic financial expertise. Post September 2024, in recognition of his significant contribution and institutional knowledge, he was retained in a senior management advisory role."
+     },
+     "status": "effective",
+     "announced_on": "2026-01-29",
+     "quote": "Relinquishment of Mr. Jayant Manmadkar as CFO and KMP of the Company with effect from close of business hours of February 01, 2026."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Revenue Officer (“CRO”)",
+     "is_change": false,
+     "not_a_change_because": "other senior management",
+     "outgoing": {
+      "name": "Manoj Kumar Rai",
+      "last_day": "2026-06-30",
+      "reason": "resignation",
+      "reason_in_their_words": "I hereby wish to tender my resignation from the position of Chief Revenue Officer ('CRO') designated as KMP as well as SMP of the Company owing to my parents' deteriorating health, which requires my constant attention and care.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Monish Bhasin",
+      "effective": "2026-07-01",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "over 28 years of experience across the alco-bev and consumer goods sectors",
+      "previous_roles": [
+       {
+        "company": "United Spirits Limited",
+        "role": "Vice President – Sales, Southern Region",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Mahindra & Mahindra",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Godrej & Boyce",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Monish is a senior commercial leader with over 28 years of experience across the alco-bev and consumer goods sectors, with a proven track record of driving above-market growth and transforming business performance. In his most recent role as Vice President – Sales, Southern Region at United Spirits Limited, he steered one of Diageo India’s largest geographies by Net Sales Value (NSV), combining strategic foresight with granular market execution. He has earlier worked in Mahindra & Mahindra and Godrej & Boyce. His expertise spans sales strategy, trade marketing, and route-to-market optimization, with a consistent focus on delivering profitable growth."
+     },
+     "status": "effective",
+     "announced_on": "2026-06-18",
+     "quote": "Resignation of Mr. Manoj Kumar Rai as the Chief Financial Officer and KMP as well as SMP of the Company with effect from close of business hours of June 30, 2026."
+    }
+   ],
+   "read": "These ABDL filings cover the handover of the Managing Director seat from Alok Gupta to Amar Sinha (announced 21 May 2026, effective 1 June 2026, preceded by his 2 April 2026 appointment as MD-Designate), the CFO handover from Jayant Manmadkar to returning CFO Ramakrishnan Ramaswamy effective 2 February 2026, plus a Chief Revenue Officer change and a Scotch whisky consultant appointment."
+  }
+ },
+ "AGARWALEYE::seat": {
+  "stamp": "1b681421c7912487a82db89a275c701a",
+  "answer": {
+   "changes": [],
+   "read": "This is a Regulation 30 disclosure dated September 29, 2026 informing the exchanges that Mr. Sanjay Anand ceased to be a Non-Executive Independent Director on completion of his second five-year term, with the revised Board committee constitutions attached; Dr. Adil Agarwal continues as Whole-Time Director & CEO and no change to the chief executive or CFO seat is stated."
+  }
+ },
+ "AFFLE::seat": {
+  "stamp": "c7c16940bf1985e8872a2e46bad67fb0",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CEO",
+     "designation_as_written": "Chief Executive Officer, North America and Chief Strategic Investments Officer, Developed Markets",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Sameer Sondhi",
+      "effective": "2026-01-02",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "He holds a master's degree in Computer Science",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "Verve",
+        "role": "CEO Verve and Chief Revenue Officer",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "InMobi",
+        "role": "senior leadership roles",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Sameer brings extensive leadership experience in global ad tech and digital media, with a strong track record of scaling revenue in developed markets. Most recently, he held senior roles at Verve, including CEO Verve and Chief Revenue Officer, leading global strategy, operations, and growth while strengthening relationships with advertisers, agencies, and publishers worldwide. Previously, he held senior leadership roles at InMobi, where he supported expansion across North America, Europe, and Asia. He holds a master's degree in Computer Science."
+     },
+     "status": "effective",
+     "announced_on": "2026-01-02",
+     "quote": "Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the Listing Regulations, this is to inform that Mr. Sameer Sondhi has been appointed as Chief Executive Officer, North America and Chief Strategic Investments Officer, Developed Market s."
+    }
+   ],
+   "read": "These filings are Affle 3i Limited's Regulation 30 intimation and press release dated January 2, 2026 announcing Sameer Sondhi's appointment as Chief Executive Officer, North America and Chief Strategic Investments Officer, Developed Markets — a regional senior management role, while Anuj Khanna Sohum continues as Chairperson, MD & CEO of the company, and no change to the company's chief executive or CFO seat is stated."
+  }
+ },
+ "AHLUCONT::seat": {
+  "stamp": "ef009876b2a3b09ca8b24e884e6925d9",
+  "answer": {
+   "changes": [],
+   "read": "These are passages from Ahluwalia Contracts (India) Ltd.'s 3QFY26 (February 16, 2026) and Q4FY26 (June 01, 2026) earnings conference calls hosted by Ambit Capital, in which the same management team — Shobhit Uppal, Deputy Managing Director; Vikas Ahluwalia, Director; and Satbeer Singh, Chief Financial Officer — discusses quarterly results, margins and order book, with no appointment, resignation or other change to the chief executive or CFO seat mentioned."
+  }
+ },
+ "AEQUS::seat": {
+  "stamp": "5563aae8442752bbe43bdf87cec2a0c6",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Dinesh Iyer",
+      "last_day": "2026-06-30",
+      "reason": "resignation",
+      "reason_in_their_words": "I further confirm that there are no material reasons for my resignation other than personal reasons.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Reenah Simon Joseph",
+      "effective": "2026-08-31",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "Ms. Reenah Simon Joseph holds an MBA in Finance from ICFAI Business School, Pune.",
+      "experience_years": "around 19 years of experience",
+      "previous_roles": [
+       {
+        "company": "PDS Limited",
+        "role": "Deputy Group CFO and Head of Corporate Finance, M & A and Investor Relations",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Future Group",
+        "role": "Chief - Corporate Finance & Investor Relations",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Credit Suisse Securities",
+        "role": "Senior Analyst, Investment Banking Division",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Ms. Reenah Simon Joseph is a finance and corporate strategy leader with around 19 years of experience, having most recently served as Deputy Group CFO and Head of Corporate Finance, M & A and Investor Relations at PDS Limited. Earlier, she was associated with Future Group as Chief - Corporate Finance & Investor Relations and Credit Suisse Securities as Senior Analyst, Investment Banking Division. Her experience spans capital markets, fundraising, M & A, investors relations, financial governance, FP&A, business transformation, strategic planning, performance management and stakeholder management."
+     },
+     "status": "effective",
+     "announced_on": "2026-03-24",
+     "quote": "we hereby inform that Mr. Dinesh Iyer, Chief Financial Officer (Key Managerial Personnel) of Aequs Limited (the “Company”) has tendered his resignation due to his personal reasons vide his Resignation Letter dated March 24, 2026 and will be relieved from his duties with effect from closure of business hours on June 30, 2026."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": false,
+     "not_a_change_because": "re-appointment",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Rajeev Kaul",
+      "effective": "2026-09-04",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He holds a bachelor’s degree in arts in mathematics from the University of Delhi and is a member of the Institute of Chartered Accountants of India.",
+      "experience_years": "over 22 years of experience in finance and aerospace sectors",
+      "previous_roles": [
+       {
+        "company": "QuEST Global Engineering Services Private Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "A.F. Ferguson & Co.",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Rajeev Kaul is the Co-Founder and Managing Director of our Company. He holds a bachelor’s degree in arts in mathematics from the University of Delhi and is a member of the Institute of Chartered Accountants of India. He is responsible for the overall operations and performance of different verticals in the Company, including aerospace and consumer durable goods and has been associated with our Company since April 1, 2007. He has over 22 years of experience in finance and aerospace sectors. He was previously associated with QuEST Global Engineering Services Private Limited and A.F. Ferguson & Co."
+     },
+     "status": "effective",
+     "announced_on": "2026-08-07",
+     "quote": "Re-appointment of Mr. Rajeev Kaul (DIN: 01468590) as Managing Director, who is liable to retire by rotation, offers himself for re-appointment subject to the approval of the shareholders, at the ensuing Annual General Meeting."
+    }
+   ],
+   "read": "These Aequs Limited filings cover quarterly results and press releases, a joint-venture investment, AGM voting results, auditor and director re-appointment matters, and the CFO transition from Dinesh Iyer to Reenah Simon Joseph, with Aravind Melligeri continuing as Executive Chairman and CEO and Rajeev Kaul continuing as Co-Founder & Managing Director."
+  }
+ },
+ "ACMESOLAR::seat": {
+  "stamp": "0bb1c20035a538ec56a1e062268a5b3a",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Rajat Kumar Singh",
+      "last_day": "2026-05-08",
+      "reason": "resignation",
+      "reason_in_their_words": "On account of personal reasons",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Arun Chopra",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "bachelor’s degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996)",
+      "experience_years": "about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector",
+      "previous_roles": [
+       {
+        "company": "Rattan India Power Limited",
+        "role": "Vice President (Finance)",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Videocon Industries Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Moser Baer India Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "LG Electronics Private Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Timex Watches Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ACME Solar Holdings Limited",
+        "role": "Executive Vice President (Finance & Accounts)",
+        "from": "2018",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Arun Chopra holds a bachelor’s degree in commerce from Kurukshetra University (1993) and is a Cost & Management Accountant from the Institute of Cost Accountants of India (1996). Prior to joining ACME Group, he served as Vice President (Finance) at Rattan India Power Limited. He has also been associated with Videocon Industries Limited, Moser Baer India Limited, LG Electronics Private Limited, and Timex Watches Limited. He has about 30 years of professional experience across diversified sectors, of which approximately 15 years have been in the energy sector. … He has been associated with the Company since 2018 and presently designated as Executive Vice President (Finance & Accounts)."
+     },
+     "status": "effective",
+     "announced_on": "2026-05-08",
+     "quote": "Salutation: Mr. ; Name Of The Person: Rajat Kumar Singh ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-02-28 ; Effective Date Of Resignation: 2026-05-08 ; Reason Of Resignation In Brief: On account of personal reasons"
+    },
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "(Joint) Managing Director of the Company",
+     "is_change": false,
+     "not_a_change_because": "same person, new title",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "2023-02",
+      "stays_on_as": "Chief Executive Officer of the Company"
+     },
+     "incoming": {
+      "name": "Nikhil Dhingra",
+      "effective": "2026-10-03",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "An alumnus of NIT Kurukshetra (Electrical Engineering) and IIM Bangalore",
+      "experience_years": "over 21 years of multi-sectoral experience",
+      "previous_roles": [
+       {
+        "company": "Oriental Tollways",
+        "role": "CEO",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ACME Solar Holdings",
+        "role": "CEO",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ICICI Securities",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "PwC",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Infosys",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "SAP Labs",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Nikhil Dhingra is a seasoned business leader with over 21 years of multi-sectoral experience across infrastructure, renewable energy, investment banking, consulting, and technology. An alumnus of NIT Kurukshetra (Electrical Engineering) and IIM Bangalore, his distinguished career includes leadership roles as CEO of Oriental Tollways and ACME Solar Holdings, alongside key stints at ICICI Securities, PwC, Infosys, and SAP Labs. … Under his stewardship since February 2023, the Company successfully raised INR 2,900 crore via IPO and INR 2,800 crore via QIP, scaling its standalone net worth to INR 4,951.59 crore alongside a credit rating upgrade to AA-/Stable."
+     },
+     "status": "effective",
+     "announced_on": "2026-10-03",
+     "quote": "His existing appointment as Whole-Time Director stands superseded. Mr. Dhingra continues as Chief Executive Officer of the Company."
+    }
+   ],
+   "read": ""
+  }
+ },
+ "ACI::seat": {
+  "stamp": "d9cf9f973a884a1e5a34b3883b219937",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "P Ranjit",
+      "last_day": "not stated",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "To strengthen the leadership framework of the Company in view of future operational expansion, professionalization and growth trajectory.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Executive Vice Chairman (Whole-time Director) of the Company, for a term of five (5) consecutive years commencing from January 22, 2026 to January 21, 2031; continues as a member of the Board"
+     },
+     "incoming": {
+      "name": "Rampraveen Swaminathan",
+      "effective": "2026-01-22",
+      "interim": false,
+      "from_where": "external",
+      "age": "51 years",
+      "qualifications": "holds a bachelor's degree in commerce, a PGDM in Finance & Strategy, and has completed Executive Education at Harvard Business School",
+      "experience_years": "over 28 years",
+      "previous_roles": [
+       {
+        "company": "Mahindra Logistics Limited",
+        "role": "MD & CEO",
+        "from": "2019",
+        "to": "2025"
+       },
+       {
+        "company": "Schneider Electric",
+        "role": "Sr Vice President & Zone President",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "International Paper Co. (India Operations)",
+        "role": "Corporate Vice President / President",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Cummins Inc. and Cummins India Limited",
+        "role": "Leadership roles",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Rampraveen Swaminathan, 51 years, has over 28 years of experience in business leadership, operations, and strategic transformation across industrials, energy, and manufacturing sectors. He has led large-scale growth, technology-enabled transformations, and operational turnarounds across multiple geographies. He previously served as MD & CEO of Mahindra Logistics Limited (2019–2025), where he repositioned the company as an integrated, technology-driven logistics provider and significantly scaled its revenues."
+     },
+     "status": "effective",
+     "announced_on": "2026-01-19",
+     "quote": "The Board has approved the appointment of Mr. Rampraveen Swaminathan (DIN: 01300682) as an Additional Director, designated as Managing Director of the Company, for a term of five (5) consecutive years commencing from January 22, 2026 to January 21, 2031, on such terms and conditions as recommended by the Nomination and Remuneration Committee, subject to approval of the shareholders by way of postal ballot."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "Chief Executive Officer of SiCSem Private Limited",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Rajesh Nair",
+      "effective": "2026-11-09",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "Mr. Nair holds a B. Tech in Chemical Engineering from the Indian Institute of Technology Bombay, an M.S. in Chemical Engineering from Syracuse University, and an M.S. in Electrical Engineering from National Technological University, USA.",
+      "experience_years": "over 30 years",
+      "previous_roles": [
+       {
+        "company": "Tata Electronics",
+        "role": "Chief Technology Officer and Senior Vice President for Process Integration and R&D",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "GlobalFoundries",
+        "role": "Vice President and General Manager, Analog/Power and Embedded NVM",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Johnson Controls",
+        "role": "senior fab operations, technology development and engineering leadership roles",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ON Semiconductor",
+        "role": "senior fab operations, technology development and engineering leadership roles",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Motorola",
+        "role": "senior fab operations, technology development and engineering leadership roles",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Rajesh Nair has over 30 years of executive leadership experience across semiconductor business units, technology R&D and factory operations. Prior to joining SiCSem, he served as Chief Technology Officer and Senior Vice President for Process Integration and R&D at Tata Electronics, where he was one of the senior executives responsible for setting up India's first 300mm wafer fab. Before Tata Electronics, he spent eleven years at GlobalFoundries, in Singapore and the US in Technology Development and Business Unit roles."
+     },
+     "status": "effective",
+     "announced_on": "2026-11-24",
+     "quote": "Pursuant to Regulation 30 of SEBI LODR, we wish to inform you that Mr. Rajesh Nair has been appointed as Chief Executive Officer of SiCSem Private Limited (\"SiCSem\"), a step-down subsidiary of the Company, with effect from November 09, 2026."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "Key Managerial Personnel (Executive Director)",
+     "is_change": false,
+     "not_a_change_because": "other senior management",
+     "outgoing": {
+      "name": "N R Kannan",
+      "last_day": "2026-04-30",
+      "reason": "resignation",
+      "reason_in_their_words": "has tendered his resignation vide letter dated January 19, 2026, citing personal and family reasons, effective from the close of business hours on April 30, 2026",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-01-19",
+     "quote": "Mr. N. R. Kannan, Key Managerial Personnel of the Company, has tendered his resignation vide letter dated January 19, 2026, citing personal and family reasons, effective from the close of business hours on April 30, 2026."
+    },
+    {
+     "seat": "Executive Chairman",
+     "designation_as_written": "Non-Executive Chairperson",
+     "is_change": false,
+     "not_a_change_because": "other: non-executive chairperson (Independent Director), not the company's chief executive",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Padma Chandrasekaran",
+      "effective": "2026-01-22",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-01-19",
+     "quote": "The Board has approved the designation of Mrs. Padma Chandrasekaran, Independent Director, as the Non-Executive Chairperson of the Board, in order to further strengthen the governance framework of the Company."
+    }
+   ],
+   "read": "Stock-exchange intimations in which Archean Chemical Industries' Board moved Managing Director P Ranjit to Executive Vice Chairman and appointed Rampraveen Swaminathan as Managing Director from January 22, 2026, accepted KMP N R Kannan's resignation, designated Padma Chandrasekaran Non-Executive Chairperson, and later announced Rajesh Nair as CEO of step-down subsidiary SiCSem; no CFO change is stated."
+  }
+ },
+ "AIIL::seat": {
+  "stamp": "d9de1da5c6cf59bd02f856008fe7bf51",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Amit Kumar Jha",
+      "last_day": "2026-06-01",
+      "reason": "resignation",
+      "reason_in_their_words": "I hereby tender my resignation as Chief Financial Officer and all other Statutory designated positions in the Company due to personal reasons i.e. career improvement and growth opportunities.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Amit Dangi",
+      "effective": "2026-08-25",
+      "interim": true,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "Chartered Accountant and Bachelor of Commerce Graduate",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "Ernst & Young",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "PricewaterhouseCoopers LLP",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Amit Dangi is a Chartered Accountant and Bachelor of Commerce Graduate. He has past experience of working with Ernst & Young and PricewaterhouseCoopers LLP two of the largest professional services firms in the world and are among the \"Big Four\" accounting firms. He has major roles in performing fundamental analysis to determine favourable investment opportunities and generally prefer to minimize risk while maximizing returns. He plays a pivotal role in operational activities of the company and manages investment opportunities along with the professional team of the company."
+     },
+     "status": "effective",
+     "announced_on": "2026-06-01",
+     "quote": "In terms of Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that Mr. Amit Kumar Jha has tendered his resignation as the Chief Financial Officer of the Company with effect from close of business hours of June 01, 2026 to pursue better career opportunities."
+    }
+   ],
+   "read": ""
+  }
+ },
+ "AKUMS::seat": {
+  "stamp": "6fb698ba8a3429dfb031b6ad5917c40a",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director",
+     "is_change": false,
+     "not_a_change_because": "other: only a revision in remuneration was placed before the AGM; the same person continues in the seat and chaired the meeting",
+     "outgoing": {
+      "name": "Sandeep Jain",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Managing Director"
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "promoter family",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-07-10",
+     "quote": "Mr. Sandeep Jain, Managing Director of the Company, chaired the meeting and welcomed the members to the 22nd AGM of the Company."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director and Promoter of the Company",
+     "is_change": false,
+     "not_a_change_because": "other: only a revision in remuneration was placed before the AGM; the same person continues in the seat",
+     "outgoing": {
+      "name": "Sanjeev Jain",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Managing Director"
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "promoter family",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-07-10",
+     "quote": "To approve the revision in remuneration of Mr. Sanjeev Jain, Managing Director and Promoter of the Company"
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": false,
+     "not_a_change_because": "other: the CFO is only mentioned as being present at the AGM; no name, appointment or exit is stated",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-07-10",
+     "quote": "He also introduced Chief Financial Officer and Company Secretary of the Company, present in the AGM."
+    }
+   ],
+   "read": "A single filing of the proceedings of Akums Drugs and Pharmaceuticals' 22nd AGM held on July 10, 2026, covering adoption of FY2025-26 accounts, dividend, re-appointment of a retiring non-executive director (Sanjay Sinha), cost auditor remuneration and revisions in remuneration of the two incumbent Managing Directors — with no change to the chief executive or CFO seats."
+  }
+ },
+ "ALOKINDS::seat": {
+  "stamp": "766309d05c910f4ace14cf839542efd1",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CEO",
+     "designation_as_written": "Chief Executive Officer and Key Managerial Personnel of the Company",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Harsh Bapna",
+      "last_day": "2026-01-31",
+      "reason": "resignation",
+      "reason_in_their_words": "This decision comes as I wish to explore other opportunities.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "seat vacant — no successor named",
+     "announced_on": "2026-01-30",
+     "quote": "In compliance with Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, please note that Shri Harsh Bapna has resigned from the position of Chief Executive Officer and Key Managerial Personnel of the Company, with effect from the close of business hours on January 31, 2026, to explore other opportunities."
+    }
+   ],
+   "read": ""
+  }
  }
 }
