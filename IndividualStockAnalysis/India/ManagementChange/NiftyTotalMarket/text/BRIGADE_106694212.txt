@@ -1,0 +1,89 @@
+--- CIMG_532929_1072026203230_CIM_WebXMLFile_20260710_203321620_1.xml (the exchange's structured disclosure) ---
+NSESymbol: BRIGADE ; Name Of The Company: BRIGADE ENTERPRISES LIMITED ; Scrip Code: 532929 ; MSEISymbol: NOTLISTED ; ISIN: INE791I01019 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-07-10 ; Time Of Occurrence Of Event Or Information: 18:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-07-10 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: President - Construction ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Saroj Kumar Pati ; Effective Date Of Reason Of Change: 2026-07-10 ; Salutation: Mr. ; Name Of The Person: Saroj Kumar Pati ; Designation Of Person: President - Construction ; Date On Which The Resignation Letter Was Received: 2026-03-27 ; Effective Date Of Resignation: 2026-07-10 ; Reason Of Resignation In Brief: Family obligations
+
+--- CIMG_532929_10072026203231_2.pdf ---
+Ref: BEL/NSEBSE/SMP/10072026
+Listing Department
+National Stock Exchange of India
+Limited Exchange Plaza,
+Bandra Kurla Complex
+Bandra (East),
+Mumbai – 400 051
+
+July 10, 2026
+Department of Corporate Services – Listing
+BSE Limited
+P. J. Towers
+Dalal Street,
+Mumbai – 400 001
+
+Re.: Scrip Symbol: BRIGADE/ Scrip Code: 532929
+Dear Sir/ Madam,
+Sub: Disclosure pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015
+This is to inform you that Mr. Saroj Kumar Pati, President - Construction, a Senior Management Personnel
+has tendered his resignation due to family obligations.
+The Management has accepted his resignation and relieved him from his responsibilities from the closing
+business hours of July 10, 2026.
+The details with respect to the resignation of above Senior Management personnel as required under
+Regulation 30 of Listing Regulations read with SEBI Circular HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, are enclosed herewith as Annexure A to this letter. A copy of
+the resignation letter of Mr. Saroj Kumar Pati is enclosed as Annexure B.
+This is also hosted on the Company’s website at www.brigadegroup.com
+Kindly take the same on records.
+Thanking You,
+Yours faithfully,
+For Brigade Enterprises Limited
+signed by Om
+Om Prakash Digitally
+Prakash Palanimuthu
+2026.07.10
+Palanimuthu Date:
+18:40:27 +05'30'
+
+P. Om Prakash
+Company Secretary & Compliance Officer
+Encl: As above
+
+
+Annexure A
+Information as required under Regulation 30 – Para A Schedule III of the Securities and Exchange Board of
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015 read along with SEBI Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, are as follows:
+Disclosure Requirement
+
+Disclosure
+Mr. Saroj Kumar Pati
+
+Name
+Reason for the Change viz. appointment, reappointment, resignation, removal, death or
+otherwise;
+Date
+of
+appointment/reappointment/Cessation (as applicable) &
+term of appointment/ re-appointment;
+
+Resignation of Mr. Saroj Kumar Pati, President –
+Construction due to family obligations.
+
+Brief profile (in case of appointment);
+
+Not Applicable.
+
+Disclosure of relationships between directors
+(in case of appointment of a director)
+
+Not Applicable
+
+July 10, 2026
+
+*****
+signed
+Om Prakash Digitally
+by Om Prakash
+Palanimuth Palanimuthu
+Date: 2026.07.10
+u
+18:40:47 +05'30'
+
+
+

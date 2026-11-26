@@ -1,0 +1,180 @@
+--- CIM_1702_WebXMLFile_20261118_185015638_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CYIENT ; Name Of The Company: Cyient Limited ; Scrip Code: 532175 ; MSEISymbol: NA ; ISIN: INE136B01020 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-17 ; Time Of Occurrence Of Event Or Information: 00:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-11-18 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Management Personnel ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Dhirendra Nath ; Effective Date Of Reason Of Change: 2026-11-17 ; Brief Profile: A seasoned human resources leader with global experience, he has played a pivotal role in driving organizational transformation, large-scale growth initiatives, and talent strategies across diversified business environments. With over two decades of experience managing human capital practices across India and the United States, he has steered organizations through strategic business transitions, large-scale post-merger integrations, and enterprise-wide change management initiatives. Having led sizeable global teams serving diverse customer bases, he brings a deep understanding of workforce transformation, leadership development, and organizational effectiveness. He is well-positioned to lead the Company's human resources function and support its ambitious growth and value-creation agenda ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Kavita Kurup ; Salutation: Ms. ; Name Of The Person: Kavita Kurup ; Designation Of Person: Senior Management Personnel ; Date On Which The Resignation Letter Was Received: 2026-11-16 ; Effective Date Of Resignation: 2026-11-17 ; Reason Of Resignation In Brief: Resignation
+
+--- CIMG_532175_18112026184954_2.pdf ---
+17 November 2026
+BSE Limited
+PJ Towers
+25th Floor, Dalal Street
+Mumbai – 400 001
+Scrip Code: 532175
+
+National Stock Exchange of India Ltd
+Exchange Plaza, Bandra-Kurla Complex
+Bandra (E)
+Mumbai – 400 051
+Scrip Code: CYIENT
+
+Dear Sir/Madam,
+Sub: Change in Senior Management Personnel
+This is to inform that Mr. Dhirendra Nath has been appointed as Chief People Officer of the Company
+in place of Ms. Kavita Kurup effective today.
+The disclosures as required under Regulation 30 of the SEBI Listing Regulations read with SEBI Circular
+SEBI/HO/CFD/CFD-PoD-1/P/CIR/2023/123 dated July 13, 2023, concerning the above changes are
+enclosed as Annexure I to this intimation.
+
+Particulars
+
+Details
+
+Date of occurrence of Event / Information 17 November 2026
+Time of occurrence of Event / Information 00: 00 AM hrs IST
+
+This is for your information and records.
+
+Thanking you
+For Cyient Limited
+Digitally signed by
+
+RAVI KUMAR RAVI KUMAR NUKALA
+Date: 2026.11.17
+NUKALA
+08:33:24 +05'30'
+
+Ravi Kumar Nukala
+Dy. Company Secretary
+
+Cyient Ltd.
+
+4th Floor, A Wing, 11 Software
+Units Layout, Madhapur
+Hyderabad -500 081
+India
+
+CIN: L72200TG1991PLC013134
+www.cyient.com
+Company.secretary@cyient.com
+T +91 40 6764 1000
+F +91 40 2311 0352
+
+
+Annexure I
+Appointment of Mr. Dhirendra Nath
+Sr. No
+1
+
+Details of events that needs to be
+provided
+Reason for change viz. appointment, reappointment,
+resignation, removal, death or
+otherwise;
+
+Information of such event(s)
+Appointment as Chief People Officer
+
+2
+
+Date of appointment/
+re-appointment/
+cessation (as applicable) & term of
+appointment/reappointment
+
+17 November 2026; as per the terms of the employment
+agreement
+
+3
+
+Brief profile (in case of appointment);
+
+A seasoned human resources leader with global
+experience, he has played a pivotal role in driving
+organizational transformation, large-scale growth
+initiatives, and talent strategies across diversified business
+environments.
+With over two decades of experience managing human
+capital practices across India and the United States, he has
+steered organizations through strategic business
+transitions, large-scale post-merger integrations, and
+enterprise-wide change management initiatives. Having
+led sizeable global teams serving diverse customer bases,
+he brings a deep understanding of workforce
+transformation,
+leadership
+development,
+and
+organizational effectiveness. He is well-positioned to lead
+the Company's human resources function and support its
+ambitious growth and value-creation agenda.
+
+4
+
+Disclosure of relationships between
+directors (in case of appointment of
+a director).
+
+Cyient Ltd.
+
+4th Floor, A Wing, 11 Software
+Units Layout, Madhapur
+Hyderabad -500 081
+India
+
+NIL
+
+CIN: L72200TG1991PLC013134
+www.cyient.com
+Company.secretary@cyient.com
+T +91 40 6764 1000
+F +91 40 2311 0352
+
+
+Resignation of Ms. Kavita Kurup
+Sr. No
+1
+
+Details of events that needs to be
+provided
+Reason for change viz. appointment, reappointment,
+resignation, removal, death or
+otherwise;
+
+Information of such event(s)
+Resignation
+
+2
+
+Date of appointment/
+re-appointment/
+cessation (as applicable) & term of
+appointment/reappointment
+
+17 November 2026 as Chief People Officer
+
+3
+
+Brief profile (in case of appointment);
+
+NA
+
+4
+
+Disclosure of relationships between
+directors (in case of appointment of
+a director).
+
+NA
+
+Cyient Ltd.
+
+4th Floor, A Wing, 11 Software
+Units Layout, Madhapur
+Hyderabad -500 081
+India
+
+CIN: L72200TG1991PLC013134
+www.cyient.com
+Company.secretary@cyient.com
+T +91 40 6764 1000
+F +91 40 2311 0352
+
+

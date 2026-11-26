@@ -1,0 +1,119 @@
+--- ROID_1702_WebXMLFile_20260922_212616650_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CYIENT ; Name Of The Company: Cyient Limited ; Scrip Code: 532175 ; MSEISymbol: NA ; ISIN: INE136B01020 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-09-21 ; Time Of Occurrence Of Event Or Information: 23:59:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-09-22 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 14302799 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-22 ; Salutation: Mr. ; Name Of The Person: NITIN PRASAD ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-09-21 ; Effective Date Of Resignation: 2026-09-21 ; Reason Of Resignation In Brief: Cessation upon completion of the term of three years’ tenure as an Independent Director ; Name Of Director: NITIN PRASAD ; Name Of The Company In Which Holding Directorship: NIL ; Category Of Directorship: NIL ; Membership Of Board Committee: NIL
+
+--- RID_532175_22092026212602_2.pdf ---
+22 September 2026
+BSE Limited
+PJ Towers
+25th Floor, Dalal Street
+Mumbai – 400 001
+Scrip Code: 532175
+
+National Stock Exchange of India Ltd
+Exchange Plaza, Bandra-Kurla Complex
+Bandra (E)
+Mumbai – 400 051
+Scrip Code: CYIENT
+
+Dear Madam/Sir,
+Sub: Intimation under Regulation 30 of SEBI (LODR), Regulations 2015 – Intimation of Completion of
+Tenure of Independent Director
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(SEBI Listing Regulations), we wish to inform you that Mr. Nitin Prasad (DIN: 05261866) has ceased to
+be a Non - Executive Independent director of the Company upon completion of his term as an
+Independent Director on 21 September 2026. Consequently, he has also ceased to be a member of
+Leadership, Nomination and Remuneration Committee of the Company.
+The Board of Directors and the management of the company places on record its deep appreciation and
+gratitude for the contributions made by Mr. Nitin Prasad during his tenure as an independent director
+of the company.
+The information in regard to the above-mentioned change in the Board composition in terms of
+Regulation 30 read with Schedule Ill - Part A Para A (7B) of Part A of the Listing Regulations and SEBI
+Circular No. SEBI/HO/CFD/CFD- PoD/P/CIR/2023/123 dated July 13, 2023, is enclosed as Annexure A.
+Further, details as required to be disclosed as per BSE’s Circular No. 20230714-34 dated July 14, 2023,
+and NSE’s Circular No. NSE /CML/2023/57 dated July 14, 2023, are as under.
+Date of occurrence of Event /Information
+Time of occurrence of Event/ Information
+
+21 September 2026
+24:00 hrs IST
+
+The aforesaid information will also be made available on the Company's website at www.cyient.com
+This is for your information and records.
+Thanking you
+For Cyient Limited
+Digitally signed by RAVI
+
+RAVI KUMAR KUMAR NUKALA
+Date: 2026.09.22
+NUKALA
+12:07:35 +05'30'
+
+Ravi Kumar Nukala
+Dy. Company Secretary
+
+Cyient Ltd.
+
+4th Floor, A Wing, 11 Software
+Units Layout, Madhapur
+Hyderabad -500 081
+India
+
+CIN: L72200TG1991PLC013134
+www.cyient.com
+Company.secretary@cyient.com
+T +91 40 6764 1000
+F +91 40 2311 0352
+
+
+Annexure – A
+Required disclosure/details under Regulation 30 of the Securities and exchange Board of India (Listing
+obligations and Disclosure requirements) Regulations, 2015 (SEBI Listing Regulation”) read with
+applicable SEBI circular.
+Sr. No
+1
+
+2
+3
+4
+5
+
+6
+
+Particulars
+Reason for change viz. appointment, reappointment,
+resignation, removal, death or
+otherwise
+Date of appointment/re- appointment/cessation
+(as applicable) & term of appointment/re- appointment
+Brief profile (in case of appointment)
+Disclosure of relationships between directors (in case
+of appointment of a director)
+Name of the listed entities in which the resigning
+director holds directorship, indicating the category of
+directorship and membership of the board committees,
+if any
+The independent director shall, along with the detailed
+reasons, also provide confirmation that there are no
+other material reasons other than those provided.
+
+Details
+Cessation upon completion of
+the term of three years’ tenure
+as an Independent Director
+21 September 2026 (24.00hrs
+midnight)
+Not Applicable
+Not Applicable
+Not Applicable
+
+Not Applicable, since the
+cessation is due to completion
+of tenure and not resignation.
+Further, the cessation of Mr.
+Nitin Prasad as Independent
+Director is due to completion of
+tenure and is not attributable to
+any other
+reason.
+
+

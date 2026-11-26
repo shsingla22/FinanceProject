@@ -1,0 +1,142 @@
+--- CIM_2281_WebXMLFile_20260911_203352157_2.xml (the exchange's structured disclosure) ---
+NSESymbol: IIFL ; Name Of The Company: IIFL Finance Limited ; Scrip Code: 532636 ; MSEISymbol: NOTLISTED ; ISIN: INE530B01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-11 ; Time Of Occurrence Of Event Or Information: 17:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-09-11 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Head - Legal ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Binay Kumar Mishra ; Effective Date Of Reason Of Change: 2026-09-11 ; Designation Of Designated Person: Business Head - Loan Against Property ; Name Of Designated Person: Vinay Agarwal ; Salutation: Mr. ; Name Of The Person: Binay Kumar Mishra ; Designation Of Person: Head - Legal ; Date On Which The Resignation Letter Was Received: 2026-09-11 ; Effective Date Of Resignation: 2026-09-11 ; Reason Of Resignation In Brief: To explore new opportunities ; Name Of The Person: Vinay Agarwal ; Designation Of Person: Business Head - Loan Against Property
+
+--- SE_Intimation_1.pdf ---
+September 11, 2026
+The Manager,
+Listing Department,
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai 400 001.
+BSE Scrip Code: 532636
+
+The Manager,
+Listing Department,
+The National Stock Exchange of India Limited,
+Exchange Plaza, 5th Floor, Plot C/1, G Block,
+Bandra - Kurla Complex, Bandra (E),
+Mumbai 400 051.
+NSE Symbol: IIFL
+
+Subject: Change in Senior Management Personnel of the Company
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, we wish to inform you that Mr. Binay Kumar Mishra,
+Head – Legal and Mr. Vinay Agarwal, Business Head - Loan Against Property, designated as Senior
+Management Personnel of the Company, have resigned from their positions, effective September 11,
+2026, close of business hours.
+The details pursuant to Regulation 30 of the SEBI Listing Regulations read with SEBI Master Circular
+No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 along with resignation
+letters are provided in the Annexures.
+Kindly take the same on record and oblige.
+Thanking you,
+For IIFL Finance Limited
+signed by
+SAMRAT Digitally
+SAMRAT SANYAL
+Date: 2026.09.11
+SANYAL 19:25:48 +05'30'
+
+___________________
+Samrat Sanyal
+Company Secretary & Compliance Officer
+ACS-13863
+Email Id: csteam@iifl.com
+Place: Mumbai
+Encl: as above
+CC:
+India International Exchange (IFSC) Limited
+1st Floor, Unit No. 101, The Signature,
+Building No. 13B, Road 1C, Zone 1, GIFT SEZ,
+GIFT City, Gandhinagar, Gujarat – 382050
+
+NSE IFSC Limited
+Unit-1201, 12th Floor, Brigade International Financial Centre, Block-14, Road 1C,
+Zone-1, GIFT SEZ, GIFT City, Gandhinagar,
+Gujarat - 382355
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hub Town Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000. Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604 Tel: (91-22)
+41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+Annexure A
+Details as required under Regulation 30 read with Schedule III of the Listing Regulations and SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026,
+Resignation of Mr. Binay Kumar Mishra as Head - Legal
+Sr. No.
+a.
+
+b.
+c.
+d.
+
+Particulars
+Reason for change viz. appointment, reappointment, resignation, removal,
+death or otherwise
+Date of appointment/ re-appointment/
+cessation (as applicable) & term of
+appointment/ re-appointment
+Brief profile (in case of appointment)
+Disclosure of relationships between
+directors (in case of appointment of a
+director)
+
+Details
+To explore new opportunities
+
+September 11, 2026
+Not Applicable
+Not Applicable
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hub Town Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000. Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604 Tel: (91-22)
+41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+
+Annexure B
+Details as required under Regulation 30 read with Schedule III of the Listing Regulations and SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026,
+Resignation of Mr. Vinay Agarwal as Business Head - Loan Against Property
+Sr. No.
+a.
+
+b.
+c.
+d.
+
+Particulars
+Reason for change viz. appointment, reappointment, resignation, removal,
+death or otherwise
+Date of appointment/ re-appointment/
+cessation (as applicable) & term of
+appointment/ re-appointment
+Brief profile (in case of appointment)
+Disclosure of relationships between
+directors (in case of appointment of a
+director)
+
+Details
+To explore new opportunities
+
+September 11, 2026
+Not Applicable
+Not Applicable
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hub Town Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000. Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604 Tel: (91-22)
+41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+

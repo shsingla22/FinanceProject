@@ -1,0 +1,28 @@
+--- CIM_1186_WebXMLFile_20260820_193954293_1.xml (the exchange's structured disclosure) ---
+NSESymbol: RALLIS ; Name Of The Company: RALLIS INDIA LIMITED ; Scrip Code: 500355 ; MSEISymbol: NOTLISTED ; ISIN: INE613A01020 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-20 ; Start Time Of Board Meeting: 16:45:00 ; End Time Of Board Meeting: 17:05:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-08-20 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Bhaskar Swaminathan ; Effective Date Of Reason Of Change: 2026-11-04 ; Type Of Change: Appointment ; Name Of Designated Person: Sridhar Radhakrishnan ; Brief Profile: Mr. Sridhar Radhakrishnan is a seasoned finance professional with over 21 years of experience across diverse industries. He is working as CFO at Tata Consulting Engineers Limited since last ~ 4 years and has previously worked with organizations like Tata Sons Private Limited, Tata Chemicals Limited and Tata Teleservices Limited. His experience ranges across both corporate finance and business finance areas. He is a qualified Chartered Accountant from the Institute of Chartered Accountants of India and also holds a Bachelor’s degree in Commerce. ; Salutation: Mr. ; Name Of The Person: Bhaskar Swaminathan ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-08-20 ; Effective Date Of Resignation: 2026-11-04 ; Reason Of Resignation In Brief: Pursuant to his proposed transition to another company within the Tata Group
+
+--- Letter_2.pdf ---
+August20,2026
+
+To,
+The Board of Directors
+Rallis India Limited
+23rd Floor, Vios Tower,
+New Cuffe Parade, Off Eastern Freeway,
+Wada la, Mumbai - 400037
+Respected Members of the Board,
+Subject: Transition from the Office of Chief Financial Officer
+
+I, Bhaskar Swaminathan, Chief Financial Officer and Key Managerial Personnel of Rallis India
+Limited ('the Company'), hereby inform the Board that I will be stepping down from the office of
+Chief Financial Officer of the Company effective November 4, 2026, pursuant to my proposed
+transition to another company within the Tata Group.
+I am grateful for the opportunity to have served as the Chief Financial Officer of the Company and
+wish the Company continued success and growth in the years to come.
+I request the Board to kindly take note of the above and relieve me from my responsibilities as the
+Chief Financial Officer of the Company with effect from the aforesaid date.
+
+Bhaskar Swaminathan
+(ICAI M. No. 204360)
+
+

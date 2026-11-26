@@ -1,0 +1,189 @@
+--- CIM_19401_WebXMLFile_20260918_181122695_1.xml (the exchange's structured disclosure) ---
+NSESymbol: ABSLAMC ; Name Of The Company: ADITYA BIRLA SUN LIFE AMC LIMITED ; Scrip Code: 543374 ; MSEISymbol: NOTLISTED ; ISIN: INE404A01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-18 ; Time Of Occurrence Of Event Or Information: 13:42:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-09-18 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Information Security Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Basil Dange ; Effective Date Of Reason Of Change: 2026-09-25 ; Type Of Change: Appointment ; Name Of Designated Person: Rishi Awasthi ; Effective Date Of Reason Of Change: 2026-10-01 ; Brief Profile: Mr. Rishi Awasthi is an Information Security and Cyber Risk Professional with over 14 years of experience across BFSI, Technology, Telecom and Consulting Sectors. He has been associated with Aditya Birla Capital Limited (‘ABCL’) since May 2023 as Lead - Privacy and IS Audit, where he is responsible for driving enterprise-wide initiatives relating to Cybersecurity Governance, Risk Management, Regulatory Compliance and Data Privacy. Prior to joining ABCL, Mr. Awasthi worked with RSM India, Willis Towers Watson, Deloitte India and Tata Consultancy Services where he held roles spanning Cyber Security, IT Assurance and Technology Risk. Mr. Awasthi holds a Bachelor’s of Technology (B. Tech) in Computer Science Engineering, Master of Business Administration (MBA) in IT Business Management and he has also completed the General Management Programme from ISB. He is professionally certified in CISA, CISM, CRISC, CDPSE and Associate C|CISO, among other globally recognized Cybersecurity credentials. ; Salutation: Mr. ; Name Of The Person: Basil Dange ; Designation Of Person: Chief Information Security Officer ; Date On Which The Resignation Letter Was Received: 2026-09-16 ; Effective Date Of Resignation: 2026-09-25 ; Reason Of Resignation In Brief: Due to personal reasons
+
+--- CIMG_543374_18092026181117_2.pdf ---
+Aditya Birla Sun Life
+AMC Ltd.
+
+ADITVA BIRLA
+
+CAPITAL
+ASSET MANAGEMENT
+
+Ref. No.: ABSLAMCL/PS/85/2026-27
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai - 400 001
+Scrip Code: 543374
+
+September 18, 2026
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor,
+Plot No. C/1, G Block,
+Bandra Kurla Complex,
+Bandra (East), Mumbai - 400 051
+Symbol: ABSLAMC
+
+Dear Sir/ Ma’am,
+Sub:
+
+Intimation pursuant to Regulation 30 of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (‘SEBI Listing Regulations’) Change in Senior Management Personnel of the Company
+
+Pursuant to Regulation 30 of SEBI Listing Regulations, we hereby inform that based on the
+recommendation of the Nomination, Remuneration and Compensation Committee, the Board of Directors
+of the Company, have today, i.e. September 18, 2026, approved the appointment of Mr. Rishi Awasthi
+as Chief Information Security Officer (CISO) and a Senior Management Personnel of the Company,
+with effect from October 1, 2026, in place of Mr. Basil Dange who has tendered his resignation as
+CISO (Senior Management Personnel) of the Company due to personal reasons. His resignation has
+been accepted by the Company effective from the close of business hours of September 25, 2026.
+The details with respect to the aforesaid change in the Senior Management Personnel of the Company
+as required under Regulation 30 of SEBI Listing Regulations read with SEBI Master Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, are enclosed herewith as
+Annexures.
+This is for your information and records.
+Thanking you.
+Yours sincerely,
+For Aditya Birla Sun Life AMC Limited
+Digitally signed by Prateek
+Prateek
+Mahesh Savla
+2026.09.18 16:00:35
+Mahesh Savla Date:
++05'30'
+
+Prateek Savla
+Company Secretary and Compliance Officer
+ACS 29500
+Encl: as above
+
+Adltya Blrla Sun Life AMC Limited
+Tel: +91 22 4356 8000 I Fax: +91 22 4356 8110 / 8111
+https://mutualfund.adityabirlacapita l.com
+abslamc.compliance@ad ityabirlacapital.com
+
+Correspondence & Registered Office:
+One World Center, Tower 1, 17'" Floor,
+Jupiter Mill Compound, 841, Senapati Bapat Marg,
+Elphinstone Road, Mumbai, Maharashtra - 400 013
+CIN- L65991MH1994PLC080811
+
+
+ADITVA BIRLA
+
+Aditya Birla Sun Life
+AMC Ltd.
+
+CAPITAL
+ASSET MANAGEMENT
+Annexure A
+
+Details required under Regulation 30 of SEBI Listing Regulations read along with SEBI Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Particulars
+
+Mr. Rishi Awasthi
+
+Mr. Basil Dange
+
+Reason for change viz.
+appointment/
+resignation
+
+Appointment as Chief Information Security Officer
+(CISO) and designated as Senior Management
+Personnel (SMP) of the Company.
+
+Mr. Basil Dange has tendered
+resignation as CISO (SMP) of the
+Company due to personal reasons.
+
+Date of appointment/
+cessation & terms of
+appointment
+
+Effective from October 1, 2026
+
+Effective from close of business
+hours of September 25, 2026
+
+Brief Profile (in case of
+appointment)
+
+Mr. Rishi Awasthi is an Information Security and
+Cyber Risk Professional with over 14 years of
+experience across BFSI, Technology, Telecom and
+Consulting Sectors. He has been associated with
+Aditya Birla Capital Limited (‘ABCL’) since May 2023
+as Lead - Privacy and IS Audit, where he is
+responsible for driving enterprise-wide initiatives
+relating
+to
+Cybersecurity
+Governance,
+Risk Management, Regulatory Compliance and
+Data Privacy. Prior to joining ABCL, Mr. Awasthi
+worked with RSM India, Willis Towers Watson,
+Deloitte India and Tata Consultancy Services where
+he held roles spanning Cyber Security, IT Assurance
+and Technology Risk.
+
+Disclosure
+of
+relationship between
+Directors (in case of
+appointment
+of
+a
+Director)
+
+Terms of appointment: Full Time Employment
+Not Applicable
+
+Mr. Awasthi holds a Bachelor’s of Technology
+(B. Tech) in Computer Science Engineering,
+Master of Business Administration (MBA) in
+IT Business Management and he has also
+completed the General Management Programme
+from ISB. He is professionally certified in CISA,
+CISM, CRISC, CDPSE and Associate C|CISO,
+among other globally recognized Cybersecurity
+credentials.
+Not Applicable
+
+Aditya Blrla Sun Life AMC Limited
+Tel: +91 22 4356 8000 I Fax: +91 22 4356 8110 / 8111
+https://mutualfund.adityabirlacapita l.com
+abslamc.compliance@ad ityabirlacapital.com
+
+Correspondence & Registered Office:
+One World Center, Tower 1, 17'" Floor,
+Jupiter Mill Compound, 841, Senapati Bapat Marg,
+Elphinstone Road, Mumbai, Maharashtra - 400 013
+CIN- L65991MH1994PLC080811
+
+
+Annexure B
+
+a
+
+1 th September 2026
+To,
+The Managing Director & CEO
+Aditya Birla Sun Life AMC Limited
+Dear Sir,
+Sub: Resignation
+I hereby tender my resignation from the position of Chief Information Security Officer of Aditya
+Birla Sun Life AMC Limited due to personal reasons, with effect from the close of business
+hours of 25th September 2026. I will be serving the applicable notice period. Request to accept
+the resignation.
+I take this opportunity to convey my sincere thanks to the Board Members and the
+Management of the Company for the trust and opportunities extended to me during my
+association with the Organization.
+I wish the Company continued success in all its future endeavours.
+
+Best wishes,
+
+Basil Dange
+
+

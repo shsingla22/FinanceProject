@@ -1,0 +1,807 @@
+--- CIM_1095_WebXMLFile_20260803_204149222_1.xml (the exchange's structured disclosure) ---
+NSESymbol: GLAXO ; Name Of The Company: GLAXOSMITHKLINE PHARMACEUTICALS LIMITED ; Scrip Code: 500660 ; MSEISymbol: NOTLISTED ; ISIN: INE159A01016 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-03 ; Start Time Of Board Meeting: 13:00:00 ; End Time Of Board Meeting: 15:35:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-08-03 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Subesh Williams ; Effective Date Of Reason Of Change: 2026-08-03 ; Type Of Change: Re-appointment ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Three: MD ; Name Of Designated Person: Bhushan Akshikar ; Effective Date Of Reason Of Change: 2026-12-01 ; Term Of Appointment In Months: 2 ; Salutation: Mr. ; Name Of The Person: Subesh Williams ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-03 ; Effective Date Of Resignation: 2026-08-03 ; Reason Of Resignation In Brief: Other Proffessional commitments
+
+--- CIMG_500660_03082026204143_2.pdf ---
+GlaxoSmithKline Pharmaceuticals Limited
+GSK House, Dr. Annie Besant Road,
+Worli, Mumbai - 400 030
+Tel No: +91 22 2495 9595
+Web: www.gsk-india.com
+Email: askus@gsk.com
+
+3rd August 2026
+To
+BSE LIMITED
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai - 400001
+
+THE NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+Exchange Plaza, 5th Floor, Plot No. C/1 , G Block
+Bandra-Kurla Complex, Sandra (East)
+Mumbai - 400051
+
+Dear Sirs,
+Outcome of the Board Meeting
+
+We wish to inform you that a meeting of the Board of Directors of the Company was held today, i.e.
+3rd August 2026 and inter alia, transacted the following business:
+1.
+
+Financial Results
+
+Pursuant to Regulation 33 read with Regulation 30 of the SEBI Listing Obligations and Disclosure
+Requirements (LODR) Regulations, 2015, enclosed herewith are the Un-audited Standalone and
+Consolidated Financial Results for the first quarter ended 30th June 2026, approved by the Board of
+Directors of the Company at it is meeting held today along with the Limited Review Report of the
+Auditors.
+
+2.
+
+Change in Management
+
+•
+
+Mr. Subesh Williams (DIN : 07786724), Non-Executive Director has stepped down from the Board
+from closing hours of business on 3rd August 2026.
+•
+
+Ms. Karine J F Natland would be appointed as Non- Executive Director on the Board w.e.f. from
+3rd August 2026 or her obtaining the DIN , whichever is later.
+Mr. Karine J F Natland is not related to any of the existing Directors of the Company, and she is
+not debarred from holding the Office of Director by virtue of any order passed by SEBI or any other
+such authority. She does not hold any shares in the Company.
+Brief Profile
+Karine J F Natland, SVP Asia Pacific (APAC) joined GSK in 2024 to lead the product strategy for
+the General Medicines business, a large portfolio spanning all stages of the product lifecycle
+contributing to more than 30% of GSK's global sales. At the helm of General Medicines, she has
+led with the vision of transforming the business, reaching >1 billion patients this decade and
+doubling the sales of General Medicines' growth engines by 2030.
+
+She joined GSK from Organon , where she was the SVP and Regional President for Asia Pacific,
+including Japan and China, a region that contributed 20% of the sales to the company. Prior to
+Organon , she held various leadership roles across the world for Merck and Co and MSD. In
+Merck, she successfully led the spin-off of Organon, while in MSD she cultivated a long and
+successful career that included strategy and product roles as well as regional, country GM, Global
+Commercial and Commercial Operation positions in the USA, the Netherlands, Sub-Saharan
+Africa, Russia, Eastern Europe, Middle East and Africa, Emerging Markets and Norway.
+She holds an executive dual MBA from the Norwegian School of Management and ECSP, Paris,
+France, where she graduated with honors. She also holds a bachelor's degree in pharmacy,
+which she obtained in Norway. She is currently based in Singapore.
+
+
+•
+
+Re-appointment of Mr. Bhushan Akshikar (Din:09112346) as a Managing Director
+
+Mr. Bhushan Akshikar (Din :09112346) is re-appointed as a Managing Director of the Company for
+a term of two years w.e.f. from 1st December 2026.
+Mr. Bhushan Akshikar is not related to any of the_existing Directors of the Company, and he is not
+debarred from holding the Office of Director by virtue of any order passed by SEBI or any other
+such authority.
+Brief Profile
+Mr. Bhushan Akshikar is a seasoned business leader with a successful track record of over 30
+years across local and area roles within the pharmaceutical industry. He is the Managing Director
+of GSK India since 2022. Joining GSK in 2011 , he has spent the last 15 years in local/area
+commercial roles living in India, Africa and Middle East. Prior to joining GSK, Bhushan spent 15
+years with Janssen, Johnson & Johnson, in various roles leading P&L for both specialty and
+primary care business units in local and regional positions living in India, S. Korea and Belgium.
+He holds a post graduate MBA in Marketing from SPJIMR and a Bachelor's Degree in
+Pharmaceutical Sciences from University of Pune. He is a member of the Stakeholders
+Relationship Committee and Corporate Social Responsibility Committee of the Company. He is the
+Director of Biddle Sawyer Limited.
+
+He is also the Director of Biddle Sawyer Limited. He does not hold any shares in the Company and
+is also not related to any Director of the Company.
+
+The Meeting of the Board of Directors of the Company commenced at 01 .00 p.m. and concluded at
+3.35 p.m.
+
+Thanking you ,
+Yours faithfully
+For GlaxoSmithKline Pharmaceuticals Limited
+
+~
+
+t()C,
+
+Ajay Nadkarni
+Vice President - Administration, Real Estate
+& Company Secretary
+Encl: a. a.
+
+CIN: L24239MH1924PLC001151
+
+
+GlaxoSmithKline Pharmaceuticals Limited
+Registered Office: Dr. Annie Besant Road, Mumbai - 400 030
+CIN: L24239MH1924PLC001151 Tel No: +91 22 2495 9595 Fax No: +91 22 24959494
+STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED 30TH JUNE, 2026
+(Rs. in Lakhs)
+
+Particulars
+
+3 months ended
+30.06.2026
+(Unaudited)
+
+Income
+1 • Revenue from operations
+2 Other income (Refer Note 3)
+3 Total Income (1+2)
+
+4
+·5
+6
+7
+8
+
+9
+
+Expenses
+(a) Cost of materials consumed
+(b)
+Purchases of stock-in-trade
+(c)
+Changes in inventories of finished goods, stock-intrade and work-in-progress
+(d)
+Employee benefits expense
+(e)
+Finance costs
+(f)
+Depreciation and amortisation expense
+(g) Other expenses
+Total expenses
+Profit before exceptional items and tax (3-4)
+Exceptional items (credit) (Refer Note 4)
+Profit before tax (5+6)
+Tax expense
+(a) Current tax
+(b) Deferred tax
+Profit for the oeriod/vear (7-8)
+
+Preceeding 3
+months ended
+31.03.2026
+
+Corresponding 3
+months ended
+30.06.2025
+
+Year ended
+31.03.2026
+
+(Unaudited)
+(Refer note 2)
+
+(Unaudited)
+
+(Audited)
+
+92442
+6163
+98605
+
+98915
+3571
+102486
+
+80483
+4376
+84859
+
+379020
+14256
+393276
+
+5987
+37862
+
+10147
+22839
+
+12143
+23207
+
+40007
+91044
+
+(12204)
+15904
+97
+1584
+15577
+64807
+33798
+
+656
+16475
+61
+1317
+14079
+65574
+36912
+
+(6553)
+15257
+42
+1552
+11354
+57002
+27857
+
+-
+
+-
+
+· 33798
+
+36912
+
+27857
+
+1350
+60725
+273
+6644
+55874
+255917
+137359
+264
+137623
+
+8135
+330
+25333
+
+8724
+694
+27494
+
+7385
+2
+20470
+
+35495
+946
+101182
+
+-
+
+
+GlaxoSmithKline Pharmaceuticals Limited
+
+Registered Office: Dr. Annie Besant Road, Mumbai - 400 030
+CIN: L24239MH1924PLC001151 Tel No: +91 22 2495 9595 Fax No: +91 22 24959494
+STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED 30TH JUNE, 2026
+(Rs. in Lakhs)
+
+Particulars
+
+3 months ended
+30.06.2026
+I
+
+(Unaudited)
+
+10 Other comprehensive loss
+(i) Items that will not be reclassifled to profit or loss
+(ii) Income tax relating to items that will not be
+reclassified to profit or loss
+11 Total comprehensive income for the period (9+10)
+Paid-up equity share capital (face value per share Rs. 10)
+Other equity
+Earnings per share (EPS) (of Rs. 10 each)
+Basic and diluted EPS before Exceptional items (Rs.)
+Basic and diluted EPS alter Exceptional items (Rs.)
+
+Preceeding 3
+months ended
+31.03.2026
+
+Corresponding 3
+months ended
+30.06.2025
+
+Year ended
+31.03.2026
+
+(Unaudited)
+(Refer note 2)
+
+(Unaudited)
+
+(Audited)
+
+-
+
+(1827)
+
+-
+
+25333
+
+453
+26120
+
+20470
+
+244
+100428
+
+16941
+
+16941
+
+16941
+
+16941
+207177
+
+14.95
+14.95
+
+16.23
+16.23
+
+12.08
+12.08
+
+59.59
+59.73
+
+Not Annualised
+
+(998)
+
+
+
+Notes:
+
+1. The above results haye been reviewed by the Audit Committee and approved by .the Board of Directors at their respective meetings held on 03rd August 2026. The Statutory
+auditors have carried out a limited review of the standalone financial results for the quarter ended 30th June 2026.
+2. The figures for the 3 months ended 31st March 2026 are the balancing figures between the audited figures in respect of full financial year and the published year to date figures
+upto the third quarter of the financial year ended 31st March 2026.
+3. Other income for the quarter ended 30th June 2026 includes Rs. 1800 lakhs on account of dividend received from Biddle Sawyer Limited, the 100% subsidiary.
+4. Exceptional items credit for the year ended 31st March 2026 of Rs. 264 lakhs is on account of profit on sale of surplus residential properties.
+5. Final dividend of Rs. 57 per equity share for the year ended 31st March 2026 had been approved by the shareholders in the Annual General meeting held on 30th June 2026.
+6. The Company has only one reportable segment which is Pharmaceuticals. Accordingly, no separate disclosures of segment info_rmation have been made.
+
+By Order of the Board
+
+~=.
+Managing Director
+DIN: 09112346
+
+03rd August 2026
+
+
+.~
+
+
+GlaxoSmithKline Pharmaceuticals Limited
+
+Registered Office: Dr. Annie Besant Road, Mumbai - 400 030
+CIN : L24239MH1924PLC001151 Tel No: +91 22 2495 9595 Fax No: +91 22 24959494
+STATEMENT OF CONSOLIDATED UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED 30TH JUNE, 2026
+(Rs. in Lakhs)
+
+Particulars
+
+1
+2
+3
+
+4
+5
+6
+7
+8
+
+9
+
+Income
+Revenue from operations
+other income
+Total Income (1+2)
+Expenses
+(a)
+Cost of materials consumed
+(b)
+Purchases of stock-in-trade
+Changes in Inventories of finished goods, stock-in(c)
+trade and work-in-progress
+(d)
+Employee benefits expense
+(e) Finance costs
+Depreciation and amortisation expense
+(f)
+(g) other expenses
+Total expenses
+Profit before exceptional items and tax (3-4)
+Exceptional items [credit] (Refer Note 3)
+Profit before tax (5+6)
+Tax expense
+(a) Current tax
+(b) Deferred tax
+Profit for the period/year (7-8)
+
+3 months ended
+30.06.2026
+(Unaudited)
+
+Preceeding 3
+months ended
+31.03.2026
+(Unaudited)
+(Refer Note 2)
+
+Corresponding 3
+months ended
+30.06.2025
+(Unaudited)
+
+Year ended
+31.03.2026
+(Audited)
+
+93844
+4376
+98220
+
+99530
+3595
+103125
+
+80517
+4372
+84889
+
+382167
+14536
+396703
+
+7295
+37862
+
+11306
+22840
+
+12806
+23206
+
+43615
+91045
+
+(12363)
+15904
+97
+1584
+15596
+65975
+32245
+
+254
+16475
+61
+1317
+13562
+65815
+37310
+
+(7241)
+15257
+42
+1552
+11369
+56991
+27898
+
+-
+
+-
+
+-
+
+32245
+
+37310
+
+27898
+
+446
+60725
+273
+6644
+55416
+258164
+138539
+2062
+140601
+
+8197
+330
+23718
+
+8829
+695
+27786
+
+7395
+2
+20501
+
+36057
+946
+103598
+
+
+GlaxoSmithKline Pharmaceuticals Limited
+
+Registered Office: Dr. Annie Besant Road, Mumbai - 400 030
+CIN: L24239MH1924PLC001151 Tel No: +91 22 2495 9595 Fax No: +91 22 24959494
+STATEMENT OF CONSOLIDATED UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED 30TH JUNE, 2026
+(Rs. in Lakhs)
+
+Particulars
+
+10 other comprehensive loss
+(i) Items that will not be reclassified to profit or loss
+(ii) Income tax relating to items that will not be
+reclassified to profit or loss
+
+3 months ended
+30.06.2026
+(Unaudited)
+
+Preceeding 3
+months ended
+31.03.2026
+(Unaudited)
+(Refer Note 2)
+
+Corresponding 3
+months ended
+30.06.2025
+(Unaudited)
+
+Year ended
+31.03.2026
+(Audited)
+
+-
+
+(1827)
+
+-
+
+(998)
+
+-
+
+453
+
+-
+
+244
+
+11 Total comprehensive income for the period (9+10)
+
+23718
+
+26412
+
+20501
+
+102844
+
+12 Total comprehensive income for the period attributable to owners of the
+Group
+
+23718
+
+26412
+
+20501
+
+102844
+
+16941
+
+16941
+
+16941
+
+16941
+209801
+
+14.00
+14.00
+
+16.40
+16.40
+
+12.10
+12.10
+
+60.11
+61.15
+
+Paid-up equity share capital (face value per share Rs. 10)
+other equity
+Earnings per share (EPS) (of Rs. 10 each)
+Basic and diluted EPS before Exceptional items (Rs.)
+Basic and diluted EPS after Exceptional items (Rs.)
+
+Not Annualised
+
+
+
+Notes:
+
+1. The above results have been reviewed by the Audit Committee and approved by the Board of Directors at their respective meetings held on 03rd August 2026. The Statutory
+auditors have carried out a limited review of the consolidated financial results for the quarter ended 30th June 2026.
+2. The figures for the 3 months ended 31st March 2026 are the balancing figures between the audited figures in respect of full financial year and the published year to date figures
+upto the third quarter of the financial year ended 31st March 2026.
+3. Exceptional items credit for the year ended 31st March 2026 includes Rs. 264 lakhs on account of profit on sale of surplus residential properties and Rs 1798 lakhs on account of
+sale of non operational land site.
+4. Final dividend of Rs. 57 per equity share for the year ended 31st March 2026 had been approved by the shareholders in the Annual General meeting held on 30th June 2026.
+5. The Group has only ohe reportable segment which Is Pharmaceuticals. Accordingly, no separate disclosures of segment information have been made.
+
+By Order of the Board
+
+Bhushan Akshikar
+Managing Director
+DIN: 09112346
+03rd August 2026
+
+
+
+Deloitte
+Haskins & Sells LLP
+
+Chartered Accountants
+One International Center,
+Tower 3, 31st Fl oor,
+Senapati Bapat Marg
+Elphinstone Road (West)
+Mumbai - 400 013
+Maharashtra, India
+Tel : +91226185 4000
+Fax: +91 22 6185 4101
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM STANDALONE
+FINANCIAL RESULTS
+TO THE BOARD OF DIRECTORS OF
+GLAXOSMITHKLINE PHARMACEUTICALS LIMITED
+
+1. We have reviewed the accompanying Statement of Standalone Unaudited Financial Results of
+GlaxoSmithKline Pharmaceuticals Limited ("the Company"), for the quarter ended June 30, 2026 ("the
+Statement"), being submitted by the Company pursuant to the requirement of Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the Listing
+Regulations").
+2. This Statement, which is the responsibility of the Company's Management and approved by the
+Company's Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting " (" Ind AS 34"),
+prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder
+and other accounting principles generally accepted in India and in compliance with Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015. Our responsibility is to
+express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 'Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity', issued by the Institute of Chartered Accountants of India (!CAI). A review of interim financial
+information consists of making inquiries, primarily of the Company's personnel responsible for financial
+and accounting matters and applying analytical and other review procedures. A review is substantially
+less in scope than an aud it conducted in accordance with Standards on Auditing specified under section
+143(10) of the Companies Act, 2013 and consequently does not enable us to obtain assurance that we
+would become aware of all significant matters that might be identified in an audit. Accordingly, we do
+not express an audit opinion.
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention
+that causes us to believe that the accompanying Statement, prepared in accordance with the recogn ition
+and measurement principles laid down in the aforesaid Indian Accounting Standard and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regu lations, 2015, as
+amended, including the manner in which it is to be disclosed, or that it contains any material
+misstatement.
+For DELOITTE HASKINS & SELLS LLP
+Chartered Accountants
+(Firm's Registration No. 117366W/W-100018)
+
+~
+Place: Mumbai
+.:jt- Date: August 03, 2026
+
+Rajiv Shah
+Partner
+(Membership No. 112878)
+UDIN: .2..f,\ I 2..818_J N'Z-WK.H.2.135
+
+Regd . Office: One International Center, Tower 3, 31st floor, Senapati Ba pat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, India.
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: AAB-8737
+
+
+Deloitte
+Haskins & Sells LLP
+
+Chartered Accountants
+One International Center,
+Tower 3, 31st Floor,
+Senapati Bapat Marg
+Elphinsto ne Road (West)
+Mumbai - 400 013
+Maharashtra , India
+Tel : +91 22 6185 4000
+Fax: +91226185 4101
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM CONSOLIDATED
+FINANCIAL RESULTS
+TO THE BOARD OF DIRECTORS OF GLAXOSMITHKLINE PHARMACEUTICALS LIMITED
+
+L We have reviewed the accompanying Statement of Consolidated Unaudited Financial Results of
+GlaxoSmithKline Pharmaceuticals Limited ("the Parent") and its subsidiary (the Parent and its
+subsidiary together referred to as "the Group"), for the quarter ended June 30, 2026 ("the
+Statement"), being submitted by the Parent pursuant to the requirement of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the Listing
+Regulations").
+2. This Statement, which is the responsibility of the Parent's Management and approved by the
+Parent's Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting " ("Ind AS 34"),
+prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder
+and other accounting principles generally accepted in India and in compliance with Regulation 33 of
+the Listing Regulations. Our responsibility is to express a conclusion on the Statement based on our
+review.
+3. We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410 'Review of Interim Financial Information Performed by the Independent
+Auditor of the Entity', issued by the Institute of Chartered Accountants of India (!CAI). A review of
+interim financial information consists of making inquiries, primarily of Parent's personnel responsible
+for financial and accounting matters and applying analytical and other review procedures. A review is
+substantially less in scope than an audit conducted in accordance with Standards on Auditing specified
+under section 143(10) of the Companies Act, 2013 and consequently does not enable us to obtain
+assurance that we would become aware of all significant matters that might be identified in an audit.
+Accordingly, we do not express an audit opinion .
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation
+33(8) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended,
+to the extent applicable.
+4. The Statement includes the results of the Parent and its subsidiary - Biddle Sawyer Limited.
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and
+based on the consideration of the review report of the other auditor referred to in paragraph 6 below,
+nothing has come to our attention that causes us to believe that the accompanying Statement,
+prepared in accordance with the recognition and measurement principles laid down in the aforesaid
+Indian Accounting Standard and other accounting principles generally accepted in India, has not
+disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended, including the manner in
+wh ich it is to be disclosed, or that it contains any material misstatement .
+
+.if
+
+Regd. Office: One International Center, Tower 3, 31st floor, Senapati Bapat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, India.
+Deloitte Ha skins & Sells LLP is registered with Limited Liabi lity having LLP identification No: AAB-8737
+
+
+Deloitte
+Haskins & Sells LLP
+
+6. We did not review the interim financial results of the subsidiary included in the Consolidated
+Unaudited Financial Results, whose interim financial results reflect total revenues of Rs. 1779 lakhs for
+the quarter ended June 30, 2026, total net profit after tax of Rs. 184 lakhs for the quarter ended June
+30, 2026 and total comprehensive income of Rs. 184 lakhs for the quarter ended June 30, 2026, as
+considered in the Statement. These interim financial results have been reviewed by the other auditor
+whose report has been furnished to us by the Management and our conclusion on the Statement, in so
+far as it relates to the amounts and disclosures included in respect of this subsidiary, is based solely
+on the report of the other auditor and the procedures performed by us as stated in paragraph 3
+above.
+Our conclusion on the Statement is not modified in respect of this matter.
+For DELOITTE HASKINS & SELLS LLP
+Chartered Accountants
+(Firm's Reg istration No. 117366W/W-100018)
+
+Rajiv Shah
+Partner
+(Membership No. 112878)
+UDIN:
+Place: Mumbai
+Date: August 03, 2026
+
+2-b \\2..818 k 'fl X ){ O 7351
+
+

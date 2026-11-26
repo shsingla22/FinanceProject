@@ -1,0 +1,29 @@
+--- CIM_25795_WebXMLFile_20260822_131904304_1.xml (the exchange's structured disclosure) ---
+NSESymbol: JAINREC ; Name Of The Company: JAIN RESOURCE RECYCLING LIMITED ; Scrip Code: 544537 ; MSEISymbol: NOTLISTED ; ISIN: INE0YD401026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-22 ; Start Time Of Board Meeting: 11:00:00 ; End Time Of Board Meeting: 11:10:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 3 ; Date Of Report: 2026-08-22 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: REVATHI RAGHUNATHAN ; Effective Date Of Reason Of Change: 2026-08-19 ; Type Of Change: Appointment ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: PRAKASH KUMAR BEHERA ; Effective Date Of Reason Of Change: 2026-08-22 ; Term Of Appointment In Months: 18.25 ; Brief Profile: Mr. Prakash Kumar Behera is a Principal Commissioner (Retired) of the Indian Revenue Service (Customs & GST), with over thirty years of leadership experience in Customs, Goods and Services Tax, Central Excise and trade facilitation. He has headed Commissionerates at Chennai, Pune and Bhubaneswar, overseeing GST audit, customs and central excise functions, and has extensive experience in policy implementation, tax administration, investigation, audit and regulatory compliance, including at the Directorate General of GST Intelligence. He has represented India at international forums on trade agreements and customs facilitation, and prior to joining the Service was engaged in international shipping logistics and commercial operations with the Shipping Corporation of India. He holds a Bachelor's degree in Civil Engineering, an MBA in Operations and Finance from the Indian Institute of Management, Calcutta, and an LL.B. (Hons.) from Utkal University, Bhubaneswar. He has undergone advanced management and mid-career training at the Indian Institute of Management, Ahmedabad, the London School of Economics, the University of Cambridge and the World Customs Organization. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Prakash Kumar Behera is not related to any Director or Promoter of the Company ; Name Of Designated Person: KAJAL MAYUR SAIYA ; Brief Profile: Ms. Kajal Mayur Saiya is a Practicing Company Secretary and an Associate Member of the Institute of Company Secretaries of India, with over fourteen years of experience in corporate laws, corporate governance, regulatory compliance and secretarial practice. She advises private and public companies across diverse sectors on matters relating to the Companies Act, 2013, corporate restructuring, governance frameworks and statutory compliances, and has significant expertise in board processes, legal and regulatory advisory, due diligence, share capital transactions and compliance management. Her core areas of expertise include corporate governance and board advisory, secretarial compliances under the Companies Act, 2013, corporate restructuring, share capital and securities law, regulatory due diligence, risk management and board evaluation. She holds a Master's degree in Commerce (M.Com) and is an Associate Company Secretary (ACS). ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Ms. Kajal Mayur Saiya is not related to any Director or Promoter of the Company. ; Salutation: Ms. ; Name Of The Person: REVATHI RAGHUNATHAN ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-19 ; Effective Date Of Resignation: 2026-08-19 ; Reason Of Resignation In Brief: The resignation is due to personal reasons ; Name Of Director: REVATHI RAGHUNATHAN ; Name Of The Company In Which Holding Directorship: Veranda Learning Solutions Limited ; Category Of Directorship: Independent Director ; Membership Of Board Committee: Audit Committee Chairperson NRC Member SRC Member ; Name Of The Company In Which Holding Directorship: WS INDUSTRIES (INDIA) LIMITED ; Membership Of Board Committee: Audit Committee Member NRC Member SRC Member Allotment Committee Chairperson
+
+--- CIMG_544537_22082026131506_2.pdf ---
+19th August 2026
+To
+The Board of Directors,
+Jain Resource Recycling Ltd
+The Lattice 4th Floor
+Old No 7/1, New No.20,
+Bishop Erza Sarugunam Road
+Kilpauk, Chennai - 600010
+Sub: Resignation from the position of Independent Director.
+Dear Sirs,
+I , Revathi S Raghunathan, holding DIN 1254043, hereby tender my resignation as
+Independent Director of Jain Resource Recycling Ltd Ltd, eVective from today, the 19th
+August, 2026.
+The resignation is due to personal reasons. I further conﬁrm that there are no other
+material reasons for my resignation other than the one mentioned above.
+I would like to thank the Board of Directors for their support and guidance during my
+tenure and I wish the company success in its future endeavours.
+Kindly acknowledge the receipt of this resignation and initiate the necessary forms with
+the Registrar of Companies (ROC) and the Stock Exchanges.
+
+Yours Sincerely
+Revathi S Raghunathan
+DIN No: 1254043
+
+

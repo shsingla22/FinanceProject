@@ -1,0 +1,44 @@
+--- CIM_24447_WebXMLFile_20261028_224404705_2.xml (the exchange's structured disclosure) ---
+NSESymbol: HEXT ; Name Of The Company: HEXAWARE TECHNOLOGIES LIMITED ; Scrip Code: 544362 ; MSEISymbol: NOTLISTED ; ISIN: INE093A01041 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-28 ; Start Time Of Board Meeting: 17:32:00 ; End Time Of Board Meeting: 19:46:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 5 ; Date Of Report: 2026-10-28 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Arjun Shah ; Effective Date Of Reason Of Change: 2026-10-28 ; Term Of Appointment In Months: 60 ; Brief Profile: Arjun Shah is a Managing Director at Carlyle focused on buyout and growth equity investments in enterprise software and tech-enabled services. Since joining Carlyle in 2017, Arjun has been actively involved with Carlyle’s investments in Abrigo, ION Group, Peloton, Workforce Logiq, and YipitData. Prior to joining Carlyle, Arjun was an investor with Tinicum Incorporated and Blackstone, both in New York. Arjun received his MBA with High Distinction from Harvard Business School, where he was a Baker Scholar. He graduated summa cum laude from the Jerome Fisher Program in Management & Technology at the University of Pennsylvania, where he received a BS in Economics from The Wharton School and a BS in Engineering. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: There is no relationship inter-se between Mr. Arjun Shah and any other director, however he is part of Promoter Group. ; Name Of Designated Person: Gregory Michael Zeluck ; Brief Profile: Greg Zeluck is a Partner and the Co-Head of Asia Buyout at Carlyle. He joined Carlyle in 1998, initially focusing on investment activities in Taiwan. Carlyle has been investing in Asia for nearly three decades and is one of the largest private equity investors in Asia. During Mr. Zeluck’s time with Carlyle Asia Buyout, he has helped make and oversee investments of more than $15 billion in more than 70 transactions. Prior to joining Carlyle, Mr. Zeluck spent a year at Merrill Lynch as part of its Asian High Yield team and 13 years at Lehman Brothers in its Merchant Banking and Corporate Finance groups, including several years in Asia. Mr. Zeluck received an AB from Princeton University, graduating magna cum laude in East Asian studies in 1985 ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: There is no relationship inter-se between Mr. Gregory Michael Zeluck and any other director, however he is part of Promoter Group. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Neeraj Bharadwaj ; Name Of Designated Person: Julius Genachowski ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Executive Vice President and Global Head -Data ; Name Of Designated Person: Girish Pai ; Effective Date Of Reason Of Change: 2026-11-13 ; Salutation: Mr. ; Name Of The Person: Neeraj Bharadwaj ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-27 ; Effective Date Of Resignation: 2026-10-28 ; Reason Of Resignation In Brief: Due to other commitments and responsibili􀆟es ; Name Of The Person: Julius Genachowski ; Name Of The Person: Girish Pai ; Designation Of Person: Executive Vice President and Global Head -Data ; Date On Which The Resignation Letter Was Received: 2026-10-28 ; Effective Date Of Resignation: 2026-11-13 ; Reason Of Resignation In Brief: Due to other commitments and responsiblities
+
+--- Resignation_letters_1.pdf ---
+The Board of Directors
+Hexaware Technologies Limited
+8th ﬂoor, 13th Level, Q1, Loma Co-Developers1 Private Limited,
+Plot no. Gen-4/1, TTC Industrial Area, Ghansoli,
+Navi Mumbai, Maharashtra, 400710
+Dear All,
+I am wri ng to inform you of my decision to resign as a director on the board of directors of Hexaware Technologies
+Limited ("Board") and any commi ees of the Board, as applicable, with eﬀec ve from October 28, 2026 due to
+other commitments and responsibili es
+I would like to thank you very much for the opportunity to serve on the Board of Hexaware Technologies Limited
+("Company"). It has truly been a great privilege to serve on the Board alongside my esteemed colleagues. I remain
+conﬁdent in the Company's con nued success under its capable Board and leadership.
+I request you to kindly acknowledge the receipt of this resigna on le er and complete all necessary compliances,
+including the ﬁling of required ﬁlings and e-forms with the stock exchanges and Registrar of Companies in
+accordance with applicable laws.
+I once again thank the Chairman of the Board, all the other Board members and members of the Company's
+management team for their kind considera ons during my tenure and hope to have the opportunity to work
+together again in the future in some capacity. I wish the team all the best for the journey ahead.
+Yours faithfully,
+
+NEERAJ BHARADWAJ
+Director
+DIN: 01314963
+
+
+
+Date : 27 October 2026
+
+Dear Vivek and SriKrishna,
+
+I would like to formally resign as employee of Hexaware Technologies and as Executive
+Vice President and Head of the Data & AI Service Line to pursue other career
+opportunities and there is no other reason for my resignation. My last working day would
+be 13 November 2026
+
+Regards,
+
+Girish Pai
+
+

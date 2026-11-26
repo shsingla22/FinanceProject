@@ -1,0 +1,28 @@
+--- CIM_2714_WebXMLFile_20261112_210321111_2.xml (the exchange's structured disclosure) ---
+NSESymbol: RPOWER ; Name Of The Company: RELIANCE POWER LIMITED ; Scrip Code: 532939 ; MSEISymbol: NOTLISTED ; ISIN: INE614G01033 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-12 ; Start Time Of Board Meeting: 16:35:00 ; End Time Of Board Meeting: 17:40:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-11-12 ; Type Of Change: Appointment ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rajendra Vishwanath Pawar ; Effective Date Of Reason Of Change: 2026-11-12 ; Brief Profile: Shri Rajendra Vishwanath Pawar, aged 54 years, is a Chartered Accountant with over two decades of experience in finance, accounting, financial planning and management, fund raising, treasury management, corporate restructuring, mergers and acquisitions, taxation, regulatory compliance, statutory and internal audits, financial controls, foreign exchange risk management, financial restructuring, stakeholder engagement and implementation of ERP/ MIS systems and insolvency resolution matters He has held senior finance positions across listed companies, multinational corporations and diversified business groups, Prior to joining the Reliance Group, he served as Chief Financial Officer of MEP Infrastructure Developers Limited, GNP Group Companies and Sankalpan Infrastructure Private Limited. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Neeraj Parakh ; Salutation: Mr. ; Name Of The Person: Neeraj Parakh ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-11-12 ; Effective Date Of Resignation: 2026-11-12 ; Reason Of Resignation In Brief: In view of the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer of the Company.
+
+--- CIMG_532939_12112026210251_1.pdf ---
+To,
+The Board of Directors
+Reliance Power Limited
+Reliance Centre, Ground Floor,
+19, Walchand Hirachand Marg,
+Ballard Estate, Mumbai - 400001
+Subject: Resignation as Interim Chief Financial Officer of Reliance Power Limited
+
+Dear Sir/ Madam,
+In view of the appointment of Shri Rajendra Vishwanath Pawar as the Chief Financial Officer
+of the Company, I hereby tender my resignation from the office of Interim Chief Financial
+Officer of the Company with immediate effect.
+Further, I shall continue to discharge my duties and responsibilities as Executive Director,
+Chief Executive Officer and Key Managerial Personnel of the Company.
+Thank you.
+Yours Sincerely,
+
+~
+
+Shri Neeraj Parakh
+
+Date: November 12, 2026
+
+

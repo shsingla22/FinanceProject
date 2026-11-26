@@ -1,0 +1,89 @@
+--- CIM_251_WebXMLFile_20260813_171913520_2.xml (the exchange's structured disclosure) ---
+NSESymbol: DRREDDY ; Name Of The Company: DR. REDDY'S LABORATORIES LIMITED ; Scrip Code: 500124 ; MSEISymbol: NOTLISTED ; ISIN: INE089A01031 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-13 ; Time Of Occurrence Of Event Or Information: 16:04:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-13 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: CEO API and Services ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Deepak Sapra ; Effective Date Of Reason Of Change: 2026-11-12 ; Salutation: Mr. ; Name Of The Person: Deepak Sapra ; Designation Of Person: CEO API and Services ; Date On Which The Resignation Letter Was Received: 2026-08-13 ; Effective Date Of Resignation: 2026-11-12 ; Reason Of Resignation In Brief: To pursue opportunities outside the Company
+
+--- CIMG_500124_13082026171633_1.pdf ---
+Dr. Reddy's Laboratories Ltd.
+8-2-337, Road No. 3, Banjara Hills
+Hyderabad – 500 034, Telangana, India
+CIN: L85195TG1984PLC004507
+
+August 13, 2026
+
+Tel:
++ 91 40 4900 2900
+Fax: + 91 40 4900 2999
+Email: mail@drreddys.com
+Web: www.drreddys.com
+
+National Stock Exchange of India Ltd. (Scrip Code: DRREDDY)
+BSE Limited (Scrip Code: 500124)
+New York Stock Exchange Inc. (Stock Code: RDY)
+NSE IFSC Ltd. (Stock Code: DRREDDY)
+Dear Sir/Madam,
+Sub: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 - Change in Senior Managerial Personnel
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015 (“SEBI Listing Regulations”), we would like to inform that Mr. Deepak Sapra, has resigned from
+the position of CEO, API and Services and Senior Management Personnel of the Company. He will cease to
+be in employment and as part of the Senior Management Personnel of the Company, effective from the close
+of business hours on November 12, 2026. The resignation letter as received from Mr. Deepak Sapra is
+annexed herewith.
+The details required under Regulation 30 of the SEBI Listing Regulations, read with SEBI Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, is given in Annexure enclosed
+herewith.
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For Dr. Reddy’s Laboratories Limited
+Digitally signed by
+
+Kumar
+Kumar Randhir Singh
+2026.08.13
+Randhir Singh Date:
+16:17:50 +05'30'
+
+K Randhir Singh
+Company Secretary, Compliance Officer and Head-CSR
+Encl: as above
+
+
+Annexure
+Details under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, read with HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Sl. No.
+1
+
+Particulars
+Reason for change viz. appointment, reappointment, resignation, removal, death
+or otherwise;
+
+Details
+Mr. Deepak Sapra has resigned from the
+position of CEO, API and Services and Senior
+Management Personnel of the Company to
+pursue opportunities outside the Company.
+
+2
+
+Date of appointment/re-appointment/cessation November 12, 2026
+(as
+applicable)
+&
+term
+of
+appointment/re-appointment
+
+3
+
+Brief profile (in case of appointment)
+
+4
+
+Disclosure of relationships between directors (in Not applicable
+case of appointment of a director)
+
+Not applicable
+
+
+

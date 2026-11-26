@@ -1,0 +1,126 @@
+--- CIM_27196_WebXMLFile_20260811_231949515_2.xml (the exchange's structured disclosure) ---
+NSESymbol: SKFINDUS ; Name Of The Company: SKF India (Industrial) Limited ; Scrip Code: 544572 ; MSEISymbol: NOTLISTED ; ISIN: INE2J8701016 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-11 ; Start Time Of Board Meeting: 16:00:00 ; End Time Of Board Meeting: 18:40:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Date Of Report: 2026-08-11 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: MD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Mukund Vasudevan ; Effective Date Of Reason Of Change: 2026-08-31 ; Type Of Change: Appointment ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Three: Not Applicable ; Effective Date Of Reason Of Change: 2026-09-01 ; Term Of Appointment In Months: 0 ; Brief Profile: Entrepreneurial and result-oriented executive, with 25+ years of experience in P&L management, strategy development, sales and M&A in India, the Middle East and USA. Strong commercial and operational skills. Collaborative leader with a track record of building high-performance teams. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Mukund Vasudevanis not related to any of the Directors and Key Managerial Personnel or Promoters of the Company ; Type Of Change: Change in designation ; Previous Designation Of Designated Person: Whole-Time Director ; Name Of Designated Person: Sujeeth Pai ; Category For Change: Auditors ; Designation Of Designated Person: Internal Auditor ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Anagha Godse ; Effective Date Of Reason Of Change: 2026-08-11 ; Brief Profile: Around 27 years of distinguished post-qualification experience across finance, costing, business controlling, internal controls, internal audit, risk management, and assurance functions. She has led operational and compliance audits across the automotive and industrial sectors, with a strong focus on identifying control gaps, strengthening internal control frameworks, and implementing effective risk management practices. ; Salutation: Mr. ; Name Of The Person: Mukund Vasudevan ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-08-04 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: On account of change in role within SKF Group.
+
+--- NSE_1.pdf ---
+=1%
+Date: 11" August 2026
+National Stock Exchange of India Limited,
+
+"Exchange Plaza"
+
+5%
+
+Floor, Plot No. C-1, G
+Bandra Kurla
+Block,
+Complex, Bandra (East),
+400051,
+Mumbai
+Maharashtra, India
+NSE Scrip Code — SKFINDUS
+
+| BSE Limited,
+
+Phiroze
+
+Jeejeebhoy
+
+Towers,Dalal Street,
+Mumbai - 400001
+
+BSE Scrip Code - 544572
+
+Subject: Announcement under Regulation 30 of SEBI (Listing Obligation and Disclosure
+Requirements Regulation),201S.
+Dear Sir/Madam,
+
+We wish to inform you that the Board of Directors of the Company at its meeting held today i.e. on
+11% August 2026 took note of the resignation tendered by Mr. Mukund Vasudevan (DIN - 05146681)
+as Managing Director of SKF India (Industrial) Limited with effect from the closure of the business
+hours of 31% August 2026 on account of change in role within SKF Group.
+
+Disclosures required pursuant to Regulation 30 of the SEBI LODR read with Clause 7, Para A of Part
+A of Schedule III to the said Regulation read with the SEBI Circular no.
+SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11% November 2024 with regard to change in Directors and
+Key Managerial Personnel is given herein under:
+Sr. | Details of Events that need to be
+
+No. | provid ed
+
+1
+
+Inform ation of such event
+
+Resignation pursuant to change in Mr.
+Reason
+for
+change
+viz
+Mukund Vasudevan’s role within SKF
+appointment, resigration;—remeval; | : | Group.
+death-or-otherwise.
+
+Date
+
+o
+
+of
+
+appeintment—re-
+
+(as)
+cessation
+|cppowntment!
+applicable) &-tern-of-appointment/
+
+With effect from closure of business
+| po o or31s August 2026.
+
+re-appointment:
+The Resignation Letter of Mr. Mukund Vasudevan is enclosed as Annexure - A.
+We request you to take the above information on record.
+Thanking you,
+
+Yours faithfully,
+SKF India (Industrial) Limited
+
+Poorva Bang
+Company Secretary & Compliance Officer
+SKF India (Industrial) Limited
+Registered office: Chinchwad Gaon, Chinchwad, Pune 411033, Maharashtra, India
+Tel: +91 (20) 6611 2501, Fax no: +91 (20) 6611 2396, Email id: industrialindia@skf.com
+CIN: L28140PN2024PLC236396
+
+
+Annexure - A
+
+MUKUND VASUDEVAN
+B-5/902 Sector 30, The World Spa West, Gurgaon, Haryana -122001
+Email Id: mukund.vasudevan@skf.com
+
+Date: 04™ August 2026
+SKF India (Industrial) Limited
+
+Chinchwad Gaon, Chinchwad, Pune 411033,
+Maharashtra, India
+Dear Gopal,
+
+Subject: Resignation as a Managing Director of SKF India (Industrial) Limited
+I hereby submit my resignation as the Managing Director and member of board committees of
+SKF India (Industrial) Limited with effect from the closure of business hours of 31% August
+2026 on account of change in my role within SKF Group.
+I further confirm that there is no other material reason other than the one that is mentioned
+
+above for my resignation.
+I take this opportunity to thank all the Board Members for the support and guidance extended
+during my tenure as on the as Managing Director of the Company.
+
+I would request you to kindly initiate and complete all necessary formalities including
+informing the Registrar of Companies and other regulatory authorities to formalize the
+discontinuance as Managing Director of the Company.
+Regards,
+
+MUKUND VASUDEVAN
+DIN: 05146681
+
+

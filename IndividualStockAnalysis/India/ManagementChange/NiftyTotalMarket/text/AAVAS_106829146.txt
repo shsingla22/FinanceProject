@@ -1,0 +1,35 @@
+--- CIM_16760_WebXMLFile_20261026_194821287_1.xml (the exchange's structured disclosure) ---
+NSESymbol: AAVAS ; Name Of The Company: Aavas Financiers Limited ; Scrip Code: 541988 ; MSEISymbol: NOTLISTED ; ISIN: INE216P01012 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-26 ; Start Time Of Board Meeting: 16:25:00 ; End Time Of Board Meeting: 16:47:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Date Of Report: 2026-10-26 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Head of Internal Audit ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Bharat Chamanlal Thakkar ; Effective Date Of Reason Of Change: 2026-10-27 ; Term Of Appointment In Months: 36 ; Brief Profile: Mr. Bharat Chamanlal Thakkar is a Chartered Accountant and Certified Information Systems Auditor (CISA) with over 34 years of extensive leadership experience in banking, financial services, risk management, governance, compliance, finance, and audit. He possesses deep expertise in internal audit, corporate governance, financial reporting, regulatory compliance, operational risk management, business continuity management, vendor risk oversight, and control frameworks across banking, NBFCs, capital markets, asset management, insurance, and investment banking businesses. During his tenure with the Kotak Mahindra Group, he has served in key leadership roles including Chief Financial Officer, Chief Compliance Officer, Head - Operational Risk, and Head / Co-head of Internal Audit, providing strategic oversight on risk, finance, regulatory affairs, and governance matters. Mr. Thakkar has an extensive experience in interacting with regulators, Board & its Committees, and senior management teams, and has successfully led regulatory inspections, large-scale audit programs, merger integration initiatives, risk transformation projects, and automation of governance and control processes. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Ramachandran Venkatesh ; Effective Date Of Reason Of Change: 2026-10-26 ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Anjali Karamnarayan Seth ; Term Of Appointment In Months: 60 ; Brief Profile: Ms. Anjali Karamnarayan Seth is a lawyer by profession with a rich and diverse experience of over 40 years. She has advised and consulted with top Banks, Financial institutions and Large Corporates, on a range of matters including M&As, PE investments, Industrial/ Employee Relations, Corporate Governance, Real Estate Negotiations etc. Ms. Seth has worked with International Finance Corporation and gained global experience in Project Financing, client negotiations, liasoning with the Ministry of Finance, Reserve Bank of India and other Statutory and Regulatory authorities, interface with external Solicitors and Counsel, interaction with Head Quarters on World Bank Group specific legal frame-work and advising Head Quarters on local laws and regulations. She was also associated with Standard Chartered Bank as their Legal Head in India and with Swaadhar Finserve, a company doing Micro Finance business, and was instrumental in getting Swaadhar Finserve’s NBFC license. She has also worked in UAE with the largest reality Company, Emmar Properties. Further, she was instrumental in setting up the in-house legal department of ANZ Grindlays Bank. Ms. Seth is currently an Independent Director on the Boards of Kalpataru Limited, Centrum Capital Limited, Nirlon Limited and Assets Care & Reconstruction Enterprise LTD. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Not related to any Director of the Company ; Salutation Of Designated Person: Mrs. ; Name Of Designated Person: Soumya Rajan ; Salutation: Mr. ; Name Of The Person: Ramachandran Venkatesh ; Designation Of Person: Head of Internal Audit ; Date On Which The Resignation Letter Was Received: 2026-08-17 ; Effective Date Of Resignation: 2026-10-26 ; Reason Of Resignation In Brief: Due to personal commitments, medical issues and other imminent exigencies in my family. ; Salutation: Mrs. ; Name Of The Person: Soumya Rajan ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-26 ; Reason Of Resignation In Brief: Due to increasing professional commitments to her Company, Waterfield Advisors ; Name Of Director: Soumya Rajan ; Name Of The Company In Which Holding Directorship: Vishal Mega Mart Limited ; Category Of Directorship: Independent Director ; Membership Of Board Committee: 4
+
+--- CIMG_541988_26102026194515_2.pdf ---
+
+Date: 17 August 2026
+
+To:
+
+Mr. Manu Singh,
+The Chief Executive Officer,
+Aavas Financiers Limited.
+
+DearManu,
+Subject: Resignation
+
+As I am dealing with increasing personal commitments due to recent bereavements, medical
+issues and other imminent exigencies in my family, I am unable to pursue a full-time job at this
+juncture.
+
+I have decided to reset my priorities and am resigning from my employment to be able to fully
+focus on my personal life at this point. Requesting you to please accept my resignation.
+
+I am sincerely very grateful for the consistent professional and personal support that I have
+always received here at Aavas over the years.
+
+Thanks and best regards,
+
+~
+
+R. Venkatesh
+
+Head-Internal Audit.
+
+

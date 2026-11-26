@@ -1,0 +1,33 @@
+--- CIM_2330_WebXMLFile_20260805_173936477_2.xml (the exchange's structured disclosure) ---
+NSESymbol: RENUKA ; Name Of The Company: SHREE RENUKA SUGARS LIMITED ; Scrip Code: 532670 ; MSEISymbol: NOTLISTED ; ISIN: INE087H01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-05 ; Start Time Of Board Meeting: 14:30:00 ; End Time Of Board Meeting: 17:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Date Of Report: 2026-08-05 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Others ; Description Of Other Designation: Executive Director & Dy. CEO ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Vijendra Singh ; Effective Date Of Reason Of Change: 2026-08-31 ; Type Of Change: Re-appointment ; Designation Of Designated Person: Executive Director ; Name Of Designated Person: Ravi Gupta ; Effective Date Of Reason Of Change: 2026-10-28 ; Term Of Appointment In Months: 60 ; Type Of Change: Appointment ; Description Of Other Designation: Additional (Whole-Time) Director ; Name Of Designated Person: Vipin Kumar Rathi ; Effective Date Of Reason Of Change: 2026-08-05 ; Brief Profile: Mr. Rathi is a Bachelor of Science graduate from Meerut University and has done his Post Graduation in Sugar Technology from the National Sugar Institute. Mr. Rathi has over 35 years of experience in the agro processing industry. Prior to joining the Company, Mr. Rathi was associated with top sugar companies like Mawana Sugars Limited and Bajaj Hindusthan Sugar Limited. He has been associated with the Company since August 2018 in various key positions. During his tenure in the Company, he has demonstrated excellent leadership & business skills and a high level of commitment towards affairs of the Company. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Rathi is not related to any of the Directors or Key Managerial Personnel of the Company. ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Name Of Designated Person: Kwek Ju-Yang Mark ; Effective Date Of Reason Of Change: 2026-09-22 ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Kwek was appointed Group Head, Sugar and Ethanol Energies in July 2026 and is responsible for the global sugar and ethanol businesses of the Group. He joined the Wilmar in 2009 to oversee Group business development and prior to his current appointment, was the General Manager of Wilmar's sugar trading arm while overseeing Wilmar's global portfolio of operating sugar and ethanol subsidiaries, joint ventures and associates. Mr. Kwek started his career at Bain & Company and holds a Bachelor of Arts (Summa Cum Laude) in Politics, Philosophy and Economics from the University of Pennsylvania. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Kwek Ju-Yang Mark is not related to any of the Directors or Key Managerial Personnel of the Company. ; Salutation: Mr. ; Name Of The Person: Vijendra Singh ; Designation Of Person: Others ; Description Of Other Designation Person: Executive Director & Dy. CEO ; Date On Which The Resignation Letter Was Received: 2026-06-01 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: Mr. Vijendra Singh has decided to tender his resignation from the position of Executive Director & Dy. CEO in order to pursue new professional opportunities outside the Company.
+
+--- CIMG_532670_05082026173929_1.pdf ---
+pate: ©1-06-2026
+To
+
+The Board of Directors
+Shree Renuka Sugars Limited
+2nd and 3rd Floor, Kanakashree Arcade
+CTS No.10634, JNMC Road, Nehru Nagar
+Belagavi - 590010, Karnataka
+
+Subject: Resignation from the position of Executive Director & Dy. CEO of the Company
+Dear Board Members,
+
+| hereby tender my resignation from the position of Executive Director & Dy. CEO of Shree Renuka Sugars
+Limited (‘the Company’), with effect from the close of working hours on Monday, 31 August 2026.
+After careful consideration, | have decided to step down from the aforesaid position to pursue new
+professional opportunities outside the Company.
+| confirm that there are no other material reasons for my resignation other than those stated above.
+| request the Board to kindly take my resignation on record and arrange for the necessary intimations,
+filings and disclosures with the relevant statutory and regulatory authorities, as may be required.
+| take this opportunity to express my sincere gratitude to the Board members, senior management and
+employees of the Company for the trust, support and cooperation extended to me during my association
+with the Company. | wish the Company continued growth and success in the years ahead.
+Regards,
+
+Fjendra Singh
+
+DIN: 03537522
+
+

@@ -1,0 +1,184 @@
+--- CIM_21426_WebXMLFile_20261015_130721186_1.xml (the exchange's structured disclosure) ---
+NSESymbol: INDGN ; Name Of The Company: Indegene Limited ; Scrip Code: 544172 ; MSEISymbol: NOTLISTED ; ISIN: INE065X01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-15 ; Time Of Occurrence Of Event Or Information: 02:43:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-10-15 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Mark Francis Dzialga ; Effective Date Of Reason Of Change: 2026-10-29 ; Salutation: Mr. ; Name Of The Person: Mark Francis Dzialga ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-15 ; Effective Date Of Resignation: 2026-10-29 ; Reason Of Resignation In Brief: Due to sale of the entire shareholding in the Company held by Brighton Park Capital and its affiliated investment vehicles
+
+--- CIMG_544172_15102026130651_2.pdf ---
+INDGN/SE/2026-27/60
+15 October 2026
+BSE Limited,
+
+National Stock Exchange of India Limited
+
+Phiroze Jeejeebhoy Towers,
+
+Exchange Plaza, C-1, Block G,
+
+Dalal Street,
+
+Bandra Kurla Complex, Bandra (E),
+
+Mumbai- 400001, India.
+
+Mumbai – 400 051, India.
+
+Scrip Code: 544172
+
+Trading symbol: INDGN
+
+Dear Sir / Madam,
+Subject: Intimation of change in Composition of the Board under Regulation 30 of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)
+With reference to the above captioned subject, we hereby inform that Mr. Mark Francis Dzialga (DIN: 00955485)
+vide his letter dated October 14, 2026 has tendered his resignation from the position of Non-Executive - Non
+Independent Director of the Company, with effect from close of business hours of October 29, 2026, due to
+sale of the entire shareholding in the Company held by Brighton Park Capital and its affiliated investment
+vehicles
+Consequently, he shall cease to be a member of the Nomination and remuneration Committee and Investment
+Committee of the Board w.e.f. October 29, 2026.
+The details of resignation in terms of Regulation 30 of the SEBI (LODR) Regulations, 2015 read with SEBI
+Master Circular No. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, is enclosed in
+Annexure-A.
+The resignation letter received from Mr. Mark Francis Dzialga is attached herewith for your reference and record
+as Annexure-B.
+The above information will be made available on the website of the Company: https://www.indegene.com/
+We request you to kindly take the same on record.
+Thanking You
+Yours Sincerely,
+For Indegene Limited
+signed
+SRISHTI Digitally
+by SRISHTI
+RAMESH RAMESH
+KAUSHIK
+2026.10.15
+KAUSHIK Date:
+12:33:10 +05'30'
+
+Srishti Ramesh Kaushik
+Company Secretary and Compliance Officer
+Encl: A/a
+
+Indegene Limited
+Third Floor, Aspen G-4 Block, Manyata Embassy
+Business Park (SEZ), Outer Ring Road, Nagawara, Bengaluru560 045, Karnataka, India
+Phone: +91 80 4674 4567, +91 80 4644 7777
+compliance.officer@indegene.com
+www.indegene.com
+CIN: L73100KA1998PLC102040
+
+
+Annexure – A
+Disclosure of information pursuant to Regulation 30 of the Listing Regulations read with the SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026.
+
+Sl. No
+
+Particulars
+
+Details
+
+1.
+
+Name of the Director and DIN
+
+Mr. Mark Francis Dzialga (DIN: 00955485)
+
+2.
+
+Reason for change viz. appointment,
+
+Resignation from the position of Non-Executive - Non
+
+resignation, removal, death or otherwise
+
+Independent Director of the Company
+
+Date
+
+With effect from closure of business hours on October
+
+3.
+
+of
+
+appointment/cessation
+
+(as
+
+applicable) & term of appointment
+
+29, 2026
+
+4.
+
+Brief profile (in case of appointment)
+
+Not Applicable
+
+5.
+
+Disclosure
+
+Not Applicable
+
+of
+
+relationships
+
+between
+
+directors (in case of appointment of a
+director)
+6.
+
+Confirmation that there are no other
+
+Mr. Mark Francis Dzialga has confirmed that there are
+
+material
+
+no material reasons for his resignation other than
+
+provided
+
+reasons
+
+other
+
+than
+
+those
+
+those mentioned in his resignation letter
+
+2
+
+
+ANNEXURE-B
+
+Mark F. Dzialga
+c/o Brighton Park Capital Management, L.P.
+330 Railroad Ave., Suite 200
+Greenwich, CT 06830
+October 14, 2026
+To:
+The Board of Directors
+Indegene Limited
+3rd Floor, Aspen G-4 Block
+Outer Ring Road, Manyata Tech Park
+Nagawara, Bengaluru, Karnataka 560045, India
+Re: Resignation from Board of Directors
+Dear Members of the Board,
+I am writing to tender my resignation from the Board of Directors of Indegene Limited (the “Company”), effective
+October 29, 2026.
+This resignation follows the sale of the entire shareholding in the Company held by Brighton Park Capital and its
+affiliated investment vehicles, and is not on account of any disagreement with the Company on any matter relating to
+its operations, standards of corporate governance, or otherwise.
+I request the Board to take note of this resignation and to take necessary steps to intimate the same to BSE Limited
+and National Stock Exchange of India Limited, and to the Registrar of Companies, and to make the requisite filings
+as required under the Companies Act, 2013, and the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015.
+Yours sincerely,
+_____________________________
+Mark F. Dzialga
+
+

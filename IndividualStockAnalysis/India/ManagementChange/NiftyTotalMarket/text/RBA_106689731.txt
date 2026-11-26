@@ -1,0 +1,341 @@
+--- CIMG_543248_77202622239_CIM_WebXMLFile_20260707_220341207_2.xml (the exchange's structured disclosure) ---
+NSESymbol: RBA ; Name Of The Company: RESTAURANT BRANDS ASIA LIMITED ; Scrip Code: 543248 ; MSEISymbol: NOTLISTED ; ISIN: INE07T201019 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-07-07 ; Start Time Of Board Meeting: 20:46:00 ; End Time Of Board Meeting: 21:05:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 5 ; Date Of Report: 2026-07-07 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Amit Manocha ; Effective Date Of Reason Of Change: 2026-07-07 ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Roshini Bakshi ; Name Of Designated Person: Ajay Kaul ; Type Of Change: Appointment ; Name Of Designated Person: Madhusudan Bhagwandas Agrawal ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Madhusudan Agrawal is a seasoned corporate leader and entrepreneur with over four decades of diverse executive experience. As a co-founder and Vice Chairman of Ajanta Pharma Limited, he has played a pivotal role in driving robust cross-border business development and successfully expanding organizational footprints into over 30 global markets. Recognized for his strategic vision in scale-up operations and international trade, his expertise spans corporate affairs, governance, and institutional capacity planning. Alongside his commercial achievements, He is an active proponent of institutional philanthropy, leading community development and corporate social responsibility initiatives. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Madhusudan Bhagwandas Agrawal is the father of Mr. Aayush Madhusudan Agrawal. Apart from this he does not have any relationship with the other directors or KMPs. ; Name Of Designated Person: Aayush Madhusudan Agrawal ; Brief Profile: Mr. Aayush Agrawal is an entrepreneur who has built and scaled businesses across sectors and leads a diversified group, including premium real estate, quick service restaurant chain, pharmaceuticals, luxury home products and clean energy. He has been recognised in Forbes 30 Under 30 and the Times Young Achiever of the Year, 2025 and has a strong interest in direct-to-consumer businesses, particularly in the food, retail and services sectors, where he actively supports brand-led expansion. He has scaled Lenexis Food works Private Limited, i.e. Acquirer 1, into one of India's largest homegrown quick service restaurant operators, with a network of over 250 kitchens across more than 45 cities and brands such as Chinese Wok, Big Bowl and The Momo Co, and is recognised as a value-adding sponsor in the quick service restaurant business given his execution capability, partnership-driven approach and focus on sustainable growth and value creation. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Aayush Madhusudan Agrawal is the son of Mr. Madhusudan Bhagwandas Agrawal. Apart from this he does not have any relationship with the other directors or KMPs. ; Salutation: Mr. ; Name Of The Person: Amit Manocha ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-07-07 ; Effective Date Of Resignation: 2026-07-07 ; Reason Of Resignation In Brief: Pursuant to the terms of the Share Purchase Agreement dated January 20, 2026 amongst QSR Asia Pte. Ltd., F&B Asia Ventures (Singapore) Pte. Ltd., Lenexis Foodworks Private Limited (“Acquirer 1”), Aayush Agrawal Trust (“Acquirer 2”), Inspira Foodworks Private Limited (formerly Inspira Realty 1 Private Limited) (“Acquirer 3”) and Mr. Aayush Madhusudan Agrawal (collectively with Acquirer 1, Acquirer 2 and Acquirer 3, the “Acquirers”) and Inspira Agro Trading LLC and the Securities Subscription Agreement dated January 20, 2026 amongst the Company and the Acquirers. ; Salutation: Ms. ; Name Of The Person: Roshini Bakshi ; Name Of The Person: Ajay Kaul ; Reason Of Resignation In Brief: Due to personal reasons.
+
+--- CIMG_543248_07072026220239_1.pdf ---
+July 7, 2026
+BSE Limited
+Corporate Relations Department
+Phiroze Jeejeeboy Towers
+Dalal Street, Fort,
+Mumbai- 400 001
+Scrip Code: 543248
+
+National Stock Exchange of India Limited
+Listing Department
+Exchange Plaza, 5th Floor, Plot no. C/1,
+G Block, Bandra Kurla Complex, Bandra (E)
+Mumbai- 400 051
+SYMBOL: RBA
+
+Sub.: Outcome of the meeting of the Board of Directors of Restaurant Brands Asia Limited
+(“Company”)
+Ref.: 1. Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”)
+2. SEBI Master Circular HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30,
+2026 (“Master Circular”)
+Dear Sir/Madam,
+1. We refer to our letter to the stock exchanges dated January 20, 2026 intimating of the execution of
+the Securities Subscription Agreement (“SSA”) amongst the Company and Lenexis Foodworks
+Private Limited (“Acquirer 1”), Aayush Agrawal Trust (“Acquirer 2”), Inspira Foodworks Private
+Limited (formerly Inspira Realty 1 Private Limited) (“Acquirer 3”) and Mr. Aayush Madhusudan
+Agrawal (“Acquirer 4”) (collectively with Acquirer 1, Acquirer 2 and Acquirer 3, the “Acquirers”)
+and Share Purchase Agreement (“SPA”) amongst QSR Asia Pte. Ltd. (“Seller 1”), F&B Asia
+Ventures (Singapore) Pte. Ltd. (“Seller 2”) (collectively with Seller 1, the “Sellers”), the Acquirers
+and Inspira Agro Trading LLC (“IATL”).
+2. Pursuant to the meeting of the Fund Raising Committee of the Board of Directors of the Company
+held on June 2, 2026, Acquirer 1 has been allotted 12,85,71,128 (twelve crore eighty-five lakh
+seventy-one thousand one hundred and twenty-eight) equity shares of the Company, each of face
+value of INR 10 (“Equity Shares”) and 8,57,14,285 (eight crore fifty-seven lakh fourteen thousand
+two hundred and eighty-five) warrants of the Company; Acquirer 2 has been allotted 100 (one
+hundred) Equity Shares of the Company; Acquirer 3 has been allotted 100 (one hundred) Equity
+Shares of the Company; and Acquirer 4 has been allotted 100 (one hundred) Equity Shares of the
+Company, by way of a preferential issue on a private placement basis, as intimated to the stock
+exchanges vide our letter dated June 2, 2026.
+3. Pursuant to Regulation 30 read with Schedule III of the SEBI Listing Regulations, we hereby inform
+you that the Board of Directors of the Company (“Board”) at its meeting held today, i.e. July 7,
+2026, has inter alia passed the following resolutions:
+A. Noting acquisition of equity shares by Acquirers and Change in Promoter/ Promoter Group
+The Board noted and took on record that the transfer of 6,56,23,090 (six crore fifty six lakh
+twenty three thousand and ninety) equity shares of the Company held by Seller 1 and 1 (one)
+equity share held by Seller 2 (as a nominee on behalf of Seller 1) to the Acquirers was completed
+on July 7, 2026 (the “Closing Date”) as follows:
+i. 6,56,22,791 (six crore fifty-six lakhs twenty-two thousand seven hundred and ninety-one)
+Equity Shares to Acquirer 1;
+ii. 100 (one hundred) Equity Shares to Acquirer 2;
+iii. 100 (one hundred) Equity Shares to Acquirer 3; and
+iv. 100 (one hundred) Equity Shares to Acquirer 4.
+
+restaurant brands asia limited
+(Formerly known as Burger King India Limited)
+Registered Office : 2nd Floor, ABR Emerald, Plot No. D-8, Street No. 16, MIDC, Andheri (East), Mumbai – 400 093
+CIN : L55204MH2013FLC249986 | Email : info@burgerking.in | Tel : 022-7193 3000 | Website : www.burgerking.in
+
+
+The Board also noted and took on record that on and from the Closing Date, the Acquirers and
+IATL have acquired control over the Company and shall be categorized as the ‘promoters’ of the
+Company; and the Sellers have ceased to be classified as the promoter and member of promoter
+group of the Company and stand re-classified to the ‘public’ category in accordance with the
+terms of the SPA, SSA and Regulation 31A of the SEBI Listing Regulations.
+B. Resignations of Non-Executive Non-Independent Directors of the Company
+The Board noted and accepted the resignations of Mr. Amit Manocha (DIN: 01864156), Ms.
+Roshini Bakshi (DIN: 01832163) and Mr. Ajay Kaul (DIN: 00062135) as Non-Executive NonIndependent Directors of the Company, with effect from the closure of the Board meeting.
+The requisite disclosures pursuant to Part A of Paragraph A of Schedule III of the SEBI Listing
+Regulations and in terms of the Master Circular, as amended, are enclosed herewith as Annexure
+A.
+C. Appointment of Non-Executive Non-Independent Directors on the Board of the Company
+The Board, based on the recommendation of the Nomination and Remuneration Committee of
+the Company, approved the appointment of Mr. Madhusudan Bhagwandas Agrawal (DIN:
+00073872) and Mr. Aayush Madhusudan Agrawal (DIN: 03129764), each as Additional NonExecutive Non-Independent Directors on the Board, nominated by the Acquirers and IATL, with
+effect from the closure of the Board meeting, subject to the approval of the members of the
+Company.
+The requisite disclosures pursuant to Part A of Paragraph A of Schedule III of the SEBI Listing
+Regulations and in terms of the Master Circular, as amended, are enclosed herewith as Annexure
+B.
+D. Change in the Chairman of the Board
+The Board approved appointment of Mr. Madhusudan Bhagwandas Agrawal (DIN: 00073872),
+Additional Non-Executive Non-Independent Director, as the Chairman of the Board with effect
+from the closure of the Board meeting. Consequently, Mrs. Tara Subramaniam (DIN: 07654007),
+Non-Executive Independent Director, has stepped down as the Chairperson of the Board with
+effect from the closure of the Board meeting. She shall continue to be a member of the Board.
+Please note that the Board meeting commenced at 8:46 P.M. and concluded at 9:05 P.M.
+The above information will also be made available on the website of the Company i.e.
+www.burgerking.in.
+Request you to kindly take the above intimation on record.
+Thanking You,
+Yours faithfully,
+For Restaurant Brands Asia Limited
+signed by SHWETA
+SHWETA SUNIL Digitally
+SUNIL MAYEKAR
+Date: 2026.07.07 21:26:10
+MAYEKAR
++05'30'
+Shweta Mayekar
+Company Secretary and Compliance Officer
+(Membership No.: A23786)
+Encl: As above
+
+restaurant brands asia limited
+(Formerly known as Burger King India Limited)
+Registered Office : 2nd Floor, ABR Emerald, Plot No. D-8, Street No. 16, MIDC, Andheri (East), Mumbai – 400 093
+CIN : L55204MH2013FLC249986 | Email : info@burgerking.in | Tel : 022-7193 3000 | Website : www.burgerking.in
+
+
+ANNEXURE A
+Disclosures as required under Regulation 30 of the SEBI Listing Regulations
+Resignation of Directors
+S.
+No.
+1.
+
+2.
+
+3.
+4.
+
+5.
+
+Particulars
+
+Mr. Amit Manocha Ms. Roshini Bakshi Mr. Ajay Kaul
+
+Reason for change viz.
+appointment,
+re
+appointment, resignation,
+removal,
+death
+or
+otherwise;
+
+Resignation from
+the position of NonExecutive
+NonIndependent
+Director pursuant to
+the terms of the SPA
+and SSA
+Date of appointment / re July 7, 2026
+appointment / cessation (as
+applicable) & term of
+appointment/reappointment
+Brief profile (in case of Not applicable
+appointment)
+Disclosure of relationships Not applicable
+between directors (in case
+of appointment of a
+director)
+Disclosure in terms of Enclosed
+as
+Regulation 30 read with Annexure C
+Clause 7C of Part A of
+Schedule III of SEBI
+Listing Regulations
+
+Resignation from
+the position of NonExecutive
+NonIndependent
+Director pursuant to
+the terms of the SPA
+and SSA
+July 7, 2026
+
+Resignation from
+the position of NonExecutive
+NonIndependent
+Director
+for
+personal reasons
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Enclosed
+Annexure C
+
+as Enclosed
+Annexure C
+
+July 7, 2026
+
+as
+
+restaurant brands asia limited
+(Formerly known as Burger King India Limited)
+Registered Office : 2nd Floor, ABR Emerald, Plot No. D-8, Street No. 16, MIDC, Andheri (East), Mumbai – 400 093
+CIN : L55204MH2013FLC249986 | Email : info@burgerking.in | Tel : 022-7193 3000 | Website : www.burgerking.in
+
+
+ANNEXURE B
+Disclosures as required under Regulation 30 of the SEBI Listing Regulations
+Appointment of Directors
+S.
+No.
+1.
+
+2.
+3.
+
+Particulars
+
+Mr. Madhusudan Bhagwandas
+Agrawal
+Reason for change viz. Mr. Madhusudan Bhagwandas
+appointment,
+re Agrawal has been appointed as an
+appointment,
+Additional Non-Executive Nonresignation, removal, Independent Director on the
+death or otherwise;
+Board, who shall hold the office
+up to the ensuing Annual General
+Meeting of the Company or till
+three months from the date of
+appointment, whichever is earlier.
+
+Mr. Aayush Madhusudan
+Agrawal
+Mr.
+Aayush
+Madhusudan
+Agrawal has been appointed as an
+Additional Non-Executive NonIndependent Director on the
+Board, who shall hold office up to
+the ensuing Annual General
+Meeting of the Company or till
+three months from the date of
+appointment, whichever is earlier.
+
+He has also been appointed as the
+Chairman of the Board of
+Directors.
+Date of appointment / re July 7, 2026
+July 7, 2026
+appointment / cessation
+& term of appointment
+Brief profile (in case of Mr. Madhusudan Agrawal is a Mr. Aayush Agrawal is an
+seasoned corporate leader and entrepreneur who has built and
+appointment)
+entrepreneur with over four scaled businesses across sectors
+decades of diverse executive and leads a diversified group,
+experience. As a co-founder and including premium real estate,
+Vice Chairman of Ajanta Pharma quick service restaurant chain,
+Limited, he has played a pivotal pharmaceuticals, luxury home
+role in driving robust cross-border products and clean energy. He has
+business
+development
+and been recognised in Forbes 30
+successfully
+expanding Under 30 and the Times Young
+organizational footprints into over Achiever of the Year, 2025 and has
+30 global markets. Recognized for a strong interest in direct-tohis strategic vision in scale-up consumer businesses, particularly
+operations and international trade, in the food, retail and services
+his expertise spans corporate sectors, where he actively supports
+affairs,
+governance,
+and brand-led expansion. He has scaled
+institutional capacity planning. Lenexis Food works Private
+Alongside
+his
+commercial Limited, i.e. Acquirer 1, into one of
+achievements, He is an active India's largest homegrown quick
+proponent
+of
+institutional service restaurant operators, with a
+philanthropy, leading community network of over 250 kitchens
+development and corporate social across more than 45 cities and
+responsibility initiatives.
+brands such as Chinese Wok, Big
+Bowl and The Momo Co, and is
+recognised as a value-adding
+sponsor in the quick service
+restaurant business given his
+execution capability, partnershipdriven approach and focus on
+sustainable growth and value
+creation.
+
+restaurant brands asia limited
+(Formerly known as Burger King India Limited)
+Registered Office : 2nd Floor, ABR Emerald, Plot No. D-8, Street No. 16, MIDC, Andheri (East), Mumbai – 400 093
+CIN : L55204MH2013FLC249986 | Email : info@burgerking.in | Tel : 022-7193 3000 | Website : www.burgerking.in
+
+
+4.
+
+5.
+
+Disclosure
+of Mr. Madhusudan Bhagwandas
+relationships between Agrawal is the father of Mr.
+directors (in case of Aayush Madhusudan Agrawal.
+appointment
+of
+a Apart from this he does not have
+director)
+any relationship with the other
+directors or KMPs.
+Confirmation regarding He is not debarred from holding
+non debarment from the office of Director by virtue of
+holding the office of order of SEBI or any other such
+Director by virtue of authority.
+order of SEBI or any
+other such authority
+
+Mr.
+Aayush
+Madhusudan
+Agrawal is the son of Mr.
+Madhusudan
+Bhagwandas
+Agrawal. Apart from this he does
+not have any relationship with the
+other directors or KMPs.
+He is not debarred from holding
+the office of Director by virtue of
+order of SEBI or any other such
+authority.
+
+restaurant brands asia limited
+(Formerly known as Burger King India Limited)
+Registered Office : 2nd Floor, ABR Emerald, Plot No. D-8, Street No. 16, MIDC, Andheri (East), Mumbai – 400 093
+CIN : L55204MH2013FLC249986 | Email : info@burgerking.in | Tel : 022-7193 3000 | Website : www.burgerking.in
+
+
+Annexure C
+
+
+
+

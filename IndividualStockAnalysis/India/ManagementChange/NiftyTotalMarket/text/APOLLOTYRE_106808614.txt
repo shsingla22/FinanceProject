@@ -1,0 +1,30 @@
+--- ROID_901_WebXMLFile_20261006_173411386_2.xml (the exchange's structured disclosure) ---
+NSESymbol: APOLLOTYRE ; Name Of The Company: Apollo Tyres Limited ; Scrip Code: 500877 ; MSEISymbol: NOTLISTED ; ISIN: INE438A01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-10-06 ; Time Of Occurrence Of Event Or Information: 16:42:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-10-06 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 2026/Oct/494429/3145 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-10-06 ; Salutation: Mr. ; Name Of The Person: Gaurav Kumar ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-10-06 ; Effective Date Of Resignation: 2026-10-06 ; Reason Of Resignation In Brief: To pursue new personal and professional challenges outside the organization. ; Designation Of Person: Senior Management Personnel
+
+--- CFOResignationLetter06102026_1.pdf ---
+October 6, 2026
+
+The Board of Directors,
+Apollo Tyres Ltd.,
+Gurugram
+
+Sub: Resignation from the position of Chief Financial Officer
+Ref: My letter dated August 6, 2026
+
+Dear Sirs,
+In furtherance to my earlier letter dated August 6, 2026, I hereby resign from the position of
+Chief Financial Officer (KMP} of the Company with effect from the close of business hours
+on October 6, 2026, to pursue new personal and professional challenges outside the
+organization.
+I confirm that there is no other material reason other than the one mentioned herein.
+I wish to thank the Board of Directors and Senior Management team for their cooperation
+during my association with the Company.
+
+Thanking you,
+Yours Sincerely,
+
+GAU RAV KUMAR
+
+Chief Financial Officer
+
+

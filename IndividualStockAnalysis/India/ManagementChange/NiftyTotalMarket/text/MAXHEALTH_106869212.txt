@@ -1,0 +1,26 @@
+--- CIM_18642_WebXMLFile_20261123_190324814_1.xml (the exchange's structured disclosure) ---
+NSESymbol: MAXHEALTH ; Name Of The Company: MAX HEALTHCARE INSTITUTE LIMITED ; Scrip Code: 543220 ; MSEISymbol: NOTLISTED ; ISIN: INE027H01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-23 ; Time Of Occurrence Of Event Or Information: 16:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-23 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Director - Asset Development ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Brij Nandan Yadava ; Effective Date Of Reason Of Change: 2026-11-23 ; Salutation: Mr. ; Name Of The Person: Brij Nandan Yadava ; Designation Of Person: Director - Asset Development ; Date On Which The Resignation Letter Was Received: 2026-08-24 ; Effective Date Of Resignation: 2026-11-23 ; Reason Of Resignation In Brief: To pursue opportunities outside the organisation
+
+--- Resignation_Letter_-_Brij_Yadava_2.pdf ---
+lluRUSI 24 2026
+
+To
+M r Abhay Soi
+Cha irman & Manag111g Oi,ector
+Max Healthcare Institute Uml1ed
+Sub · ~esignation from the position or Oirector • Asset Development
+Dear s,r,
+I hereby tender my res.ignalion from the position of Director. Asset Development, idenlihed as Senior
+Management Personnel of the Company to pursue opportunities outside the orean,salion and my last
+working day at the Company will be November 23, 2026.
+I would like 10 place on record my sincere gratitude to the management of the Company for the
+supp.c rt extended during my tenure at the Company.
+
+Than~1ng you.
+Yours sincerely,
+
+r.,,.,j No,id~"' ~..d""~
+Brij Nandan Yadava
+Director • Asset Development
+
+

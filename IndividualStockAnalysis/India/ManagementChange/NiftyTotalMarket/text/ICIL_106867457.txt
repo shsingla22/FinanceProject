@@ -1,0 +1,33 @@
+--- CIM_920_WebXMLFile_20261120_161621679_2.xml (the exchange's structured disclosure) ---
+NSESymbol: ICIL ; Name Of The Company: Indo Count Industries Limited ; Scrip Code: 521016 ; MSEISymbol: NOTLISTED ; ISIN: INE483B01026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-20 ; Time Of Occurrence Of Event Or Information: 10:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-20 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Manish Bhatia ; Effective Date Of Reason Of Change: 2026-11-20 ; Salutation: Mr. ; Name Of The Person: Manish Bhatia ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-11-20 ; Effective Date Of Resignation: 2026-11-20 ; Reason Of Resignation In Brief: for pursuing better career prospects
+
+--- CIMG_521016_20112026161447_1.pdf ---
+20™ November, 2026
+To,
+
+Mr. K. Muralidharan,
+Group Chief Financial Officer
+
+Indo Count Industries Limited
+Mumbai.
+
+Dear Sir,
+
+Tam writing to inform you of my decision to resign from my position as Chief Financial Officer
+and Key Managerial Personnel of the Company, with a view to pursue better career prospects.
+Irequest the Management to accept my resignation and to relieve me from the services of the
+
+Company at the close of business hours today.
+Twould also like to express my sincere gratitude to the Board of Directors and the Management
+for the trust, guidance and support extended to me during my tenure with the Company.
+Ifurther request the Company to initiate necessary formalities in this regard.
+
+I have thoroughly enjoyed working with the Company and wish its continued success and
+
+growth.
+Yours Sincerely
+
+Q5
+Chief Financial Officer
+
+

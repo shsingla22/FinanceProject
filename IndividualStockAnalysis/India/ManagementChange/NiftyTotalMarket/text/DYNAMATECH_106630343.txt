@@ -1,0 +1,1589 @@
+--- CIMG_505242_1952026204627_CIM_WebXMLFile_20260519_204739704_1.xml (the exchange's structured disclosure) ---
+NSESymbol: DYNAMATECH ; Name Of The Company: DYNAMATIC TECHNOLOGIES LIMITED ; Scrip Code: 505242 ; MSEISymbol: NOTLISTED ; ISIN: INE221B01012 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-05-19 ; Start Time Of Board Meeting: 15:45:00 ; End Time Of Board Meeting: 20:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-05-19 ; Type Of Change: Re-appointment ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: CEO-MD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Udayant Malhoutra ; Effective Date Of Reason Of Change: 2026-10-01 ; Term Of Appointment In Months: 60 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Three: Not Applicable ; Name Of Designated Person: Dietmar Hahn ; Effective Date Of Reason Of Change: 2026-05-19 ; Salutation: Mr. ; Name Of The Person: Dietmar Hahn ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-05-19 ; Effective Date Of Resignation: 2026-05-19 ; Reason Of Resignation In Brief: Retirement
+
+--- CIMG_505242_19052026204627_2.pdf ---
+DYNAMATIC TECHNOLOGIES LIMITED
+
+19t1i May 2026
+
+Corporate Relations Department,
+Bombay Stock Exchange Limited,
+Phiroze Jeejeebhoy Towers
+Dalal Street, Fort, Mumbai 400 001
+Scrip Code: 505242
+-
+
+Listing Department,
+National Stock Exchange of India Limited
+"Exchange Plaza", Bandra-Kurla Complex,
+Bandra East, Mumbai 400 051.
+Scrip Code: DYNAMATECH
+Dear Sir/Madam,
+Sub: Outcome of the Board meeting held on 19' May 2026
+Ref: Regulation 30 and other applicable provisions of the SEBI (Listing Obligations
+and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations")
+Further to our letter dated 9' May 2026, we wish to inform you that the significant matters
+arising from the Board Meeting of Dynamatic Technologies Limited ('the Company') held
+today i.e., l9 May 2026, at JKM Plaza, Dynamatic Aerotropolis, 55, KIADB Aerospace
+Park, Bangalore 562149, are as follows:
+The Board considered and approved the Standalone and Consolidated Audited
+Financial Results for the quarter and year ended 3lS March 2026. Copy of the
+audited financial results has been enclosed as Annexure I.
+-
+
+2. Pursuant to Regulation 33(3)(d) of the SEBI Listing Regulations, 2015, we hereby
+declare that the Independent Auditors' Report on the Annual accounts of the
+Company for the year ended 3l March 2026, issued by MIs Deloitte Haskins & Sells,
+LLP, Statutory Auditors, contains an unmodified opinion.
+3. The Board noted the resignation of Mr. Dietmar Hahn, bearing DIN: 06414463, from
+the post of Non- Executive & Non- Independent Director with effect from May
+2026.
+Details required to be disclosed under Regulation 30 read with Schedule Ill Para A
+of Part A of the SEBI Listing Regulations, and SEBI Circulars issued in this regard,
+are enclosed as Annexure -II along with the Resignation Letter.
+-
+
+Registered Office
+Dynamatic Technologies Limited
+JKM Plaza Oynamatic Aerotropolis
+55 KIADB Aerospace Pack
+Bangalore 562 149 India
+
+Tel +91 8021111223 +91 8022040535
+ww.dynamaticScOm
+Corporate Identity Number: L72200K41973PLC002308
+
+
+DYNAMATIC TECHNOLOGIES LIMITED
+
+4. Re-appointment of Dr. Udayant Malhoutra (DIN: 00053714) as CEO and Managing
+Director of the Company for a period of 5 years with effect from 1' October 2026 till
+30th
+September 2031, subject to approval of the Members of the Company.
+Details required to be disclosed under Regulation 30 read with Schedule Ill Para A
+of Part A of the SEBI Listing Regulations, and SEBI Circulars issued in this regard,
+are enclosed as Annexure III.
+-
+
+-
+
+5. The Board recommended Final Dividend of Rs. 5/- per equity share of Rs.10/- each
+for the financial year ended 31st March 2026, subject to the approval of the
+shareholders at the ensuing Annual General Meeting ('AGM') of the Company; such
+Dividend, if declared, will be paid within 30 days from the from the date of declaration
+to those members entitled thereto.
+a) Together with the interim dividend of Rs. 5/- per share declared by the Board
+on gth February 2026, the total dividend for the financial year ended 31st March
+2026 would be Rs. 10/- per equity share.
+b) fixed 28th August 2026, as the Record date for the purpose of determining
+entitlement of the members for payment of dividend referred to in (a) above.
+The date of the 51st AGM of the Company will be advised in due course.
+The meeting of the Board of Directors held today commenced at 15:45 1ST and concluded
+at 20:00 1ST.
+The aforesaid information is also available on the website of the company at
+www.dynamatics.com.
+We request you to kindly take the above information on records.
+
+Thanking you,
+Yours faithfully,
+For Dynamatic Technoloj s Limited
+
+Shivaram
+Chief Legal Officer and Company Secretary
+Membership No.: ACS 19173
+
+Registered Office
+Dynamatic Technologies Limited
+JKM Plaza Dynamatic Aerotropolis
+55 KIADS Aerospace Park
+Bangalore 562 149 India
+
+Tel +91 8021111223 +91 8022040535
+ww.dynania1ics.cam
+Corporate Identity Number: L72200KA1973PLC002308
+
+
+Annexure-I
+
+Deloitte
+Haskins & Sells LLP
+
+Chartered Accountants
+Prestige Trade Tower, Level 19
+46, Palace Road, High Grounds
+Bengaluru – 560 001
+Karnataka, India
+Tel: +91 80 6188 6000
+Fax: +91 80 6188 6011
+
+INDEPENDENT AUDITOR’S REPORT ON AUDIT OF ANNUAL CONSOLIDATED FINANCIAL
+RESULTS AND REVIEW OF QUARTERLY FINANCIAL RESULTS
+TO THE BOARD OF DIRECTORS OF DYNAMATIC TECHNOLOGIES LIMITED
+Opinion and Conclusion
+We have (a) audited the Consolidated Financial Results for the year ended March 31, 2026 and (b)
+reviewed the Consolidated Financial Results for the quarter ended March 31, 2026, which were
+subject to limited review by us, both included in the accompanying “Statement of Consolidated
+Financial Results for the Quarter and Year Ended March 31, 2026” of DYNAMATIC TECHNOLOGIES
+LIMITED (the ”Holding Company”) and its subsidiaries (the Holding Company and its subsidiaries
+together referred to as the “Group”), for the quarter and year ended March 31, 2026 (the
+“Statement”), being submitted by the Holding Company pursuant to the requirements of Regulation
+33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+(the “LODR Regulations”).
+(a) Opinion on Annual Consolidated Financial Results
+In our opinion and to the best of our information and according to the explanations given to us,
+and based on the consideration of the audit reports of the other auditors on separate financial
+information of subsidiaries referred to in Other Matters section below, the Consolidated Financial
+Results for the year ended March 31, 2026:
+(i)
+
+includes the financial results of the following entities:
+•
+Dynamatic Technologies Limited – Holding Company
+•
+JKM Research Farm Limited, India – Subsidiary
+•
+JKM Global Pte. Limited, Singapore– Subsidiary
+•
+JKM Erla Automotive Limited, India – Subsidiary
+•
+Dynamatic Manufacturing Limited, India – Subsidiary
+•
+Dynamatic Limited UK – Step down subsidiary
+•
+Dynamatic LLC, US– Step down subsidiary
+•
+Yew Tree Investments Limited UK – Step down subsidiary
+•
+Eisenwerk Erla GmbH Germany – Step down subsidiary
+
+(ii)
+
+are presented in accordance with the requirements of Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended; and
+
+(iii)
+
+gives a true and fair view in conformity with the recognition and measurement principles
+laid down in the Indian Accounting Standards and other accounting principles generally
+accepted in India of the consolidated net profit and consolidated other comprehensive
+income and other financial information of the Group for the year ended March 31, 2026.
+
+Page 1 of 5
+
+Regd Office :31st Floor, Tower 3, One International Center, Senapati Bapat Marg, Elphinstone Road
+(West), Mumbai – 400013
+
+
+Deloitte
+Haskins & Sells LLP
+(b) Conclusion on Unaudited Consolidated Financial Results for the quarter ended March
+31, 2026
+With respect to the Consolidated Financial Results for the quarter ended March 31, 2026, based
+on our review conducted and procedures performed as stated in paragraph (b) of Auditor’s
+Responsibilities section below and based on the consideration of the review reports of the other
+auditors referred to in Other Matters section below, nothing has come to our attention that
+causes us to believe that the Consolidated Financial Results for the quarter ended March 31,
+2026, prepared in accordance with the recognition and measurement principles laid down in the
+Indian Accounting Standards and other accounting principles generally accepted in India, has
+not disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, including
+the manner in which it is to be disclosed, or that it contains any material misstatement.
+Basis for Opinion on the Audited Consolidated Financial Results for the year ended March
+31, 2026
+We conducted our audit in accordance with the Standards on Auditing (“SA”s) specified under Section
+143(10) of the Companies Act, 2013 (the “Act”). Our responsibilities under those Standards are
+further described in paragraph (a) of Auditor’s Responsibilities section below. We are independent of
+the Group in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of
+India (the “ICAI”) together with the ethical requirements that are relevant to our audit of the
+Consolidated Financial Results for the year ended March 31, 2026 under the provisions of the Act
+and the Rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with
+these requirements and the ICAI’s Code of Ethics. We believe that the audit evidence obtained by
+us and the audit evidence obtained by the other auditors in terms of their reports referred to in Other
+Matters section below, is sufficient and appropriate to provide a basis for our audit opinion.
+Management’s and Board of Directors’ Responsibilities for the Statement
+This Statement, which includes the Consolidated Financial Results is the responsibility of the Holding
+Company’s Board of Directors and has been approved by them for the issuance. The Consolidated
+Financial Results for the year ended March 31, 2026, has been compiled from the related audited
+consolidated financial statements. This responsibility includes the preparation and presentation of
+the Consolidated Financial Results for the quarter and year ended March 31, 2026 that give a true
+and fair view of the consolidated net profit/loss and consolidated other comprehensive income and
+other financial information of the Group in accordance with the recognition and measurement
+principles laid down in the Indian Accounting Standards, prescribed under Section 133 of the Act,
+read with relevant rules issued thereunder and other accounting principles generally accepted in
+India and in compliance with Regulation 33 of the LODR Regulations.
+The respective Board of Directors of the companies included in the Group are responsible for
+maintenance of adequate accounting records in accordance with the provisions of the Act for
+safeguarding the assets of the Group and for preventing and detecting frauds and other irregularities;
+selection and application of appropriate accounting policies; making judgments and estimates that
+are reasonable and prudent; and the design, implementation and maintenance of adequate internal
+financial controls, that were operating effectively for ensuring the accuracy and completeness of the
+accounting records, relevant to the preparation and presentation of the respective financial results
+that give a true and fair view and are free from material misstatement, whether due to fraud or
+error, which have been used for the purpose of preparation of this Consolidated Financial Results by
+the Directors of the Holding Company, as aforesaid.
+In preparing the Consolidated Financial Results, the respective Board of Directors of the companies
+included in the Group are responsible for assessing the ability of the respective entities to continue
+as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless the respective Board of Directors either intends to liquidate their
+respective entities or to cease operations, or has no realistic alternative but to do so.
+
+Page 2 of 5
+
+
+Deloitte
+Haskins & Sells LLP
+The respective Board of Directors of the companies included in the Group are responsible for
+overseeing the financial reporting process of the Group.
+Auditor’s Responsibilities
+(a)
+
+Audit of the Consolidated Financial Results for the year ended March 31, 2026
+Our objectives are to obtain reasonable assurance about whether the Consolidated Financial
+Results for the year ended March 31, 2026 as a whole are free from material misstatement,
+whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit
+conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in
+the aggregate, they could reasonably be expected to influence the economic decisions of users
+taken on the basis of this Consolidated Financial Results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain
+professional skepticism throughout the audit. We also:
+•
+
+•
+•
+•
+•
+
+•
+
+•
+•
+
+Identify and assess the risks of material misstatement of the Annual Consolidated
+Financial Results, whether due to fraud or error, design and perform audit procedures
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate to
+provide a basis for our opinion. The risk of not detecting a material misstatement resulting
+from fraud is higher than for one resulting from error, as fraud may involve collusion,
+forgery, intentional omissions, misrepresentations, or the override of internal control.
+Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of such controls.
+Evaluate the appropriateness of accounting policies used and the reasonableness of
+accounting estimates made by the Board of Directors.
+Evaluate the appropriateness and reasonableness of disclosures made by the Board of
+Directors in terms of the requirements specified under Regulation 33 of the LODR
+Regulations.
+Conclude on the appropriateness of the Board of Directors’ use of the going concern basis
+of accounting and, based on the audit evidence obtained, whether a material uncertainty
+exists related to events or conditions that may cast significant doubt on the ability of the
+Group to continue as a going concern. If we conclude that a material uncertainty exists,
+we are required to draw attention in our auditor’s report to the related disclosures in the
+Consolidated Financial Results or, if such disclosures are inadequate, to modify our
+opinion. Our conclusions are based on the audit evidence obtained up to the date of our
+auditor’s report. However, future events or conditions may cause the Group to cease to
+continue as a going concern.
+Evaluate the overall presentation, structure and content of the Annual Consolidated
+Financial Results, including the disclosures, and whether the Annual Consolidated
+Financial Results represent the underlying transactions and events in a manner that
+achieves fair presentation.
+Perform procedures in accordance with the circular issued by the SEBI under Regulation
+33(8) of the LODR Regulations to the extent applicable.
+Obtain sufficient appropriate audit evidence regarding the Annual Standalone Financial
+Results/ Financial Information of the entities within the Group to express an opinion on
+the Annual Consolidated Financial Results. We are responsible for the direction,
+supervision and performance of the audit of financial information of such entities included
+in the Annual Consolidated Financial Results of which we are the independent auditors.
+For the other entities included in the Annual Consolidated Financial Results, which have
+been audited by other auditors, such other auditors remain responsible for the direction,
+supervision and performance of the audits carried out by them. We remain solely
+responsible for our audit opinion.
+
+Page 3 of 5
+
+
+Deloitte
+Haskins & Sells LLP
+Materiality is the magnitude of misstatements in the Annual Consolidated Financial Results
+that, individually or in aggregate, makes it probable that the economic decisions of a
+reasonably knowledgeable user of the Annual Consolidated Financial Results may be
+influenced. We consider quantitative materiality and qualitative factors in (i) planning the
+scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the
+effect of any identified misstatements in the Annual Consolidated Financial Results.
+We communicate with those charged with governance of the Holding Company and such other
+entities included in the Consolidated Financial Results of which we are the independent auditors
+regarding, among other matters, the planned scope and timing of the audit and significant
+audit findings including any significant deficiencies in internal control that we identify during
+our audit.
+We also provide those charged with governance with a statement that we have complied with
+relevant ethical requirements regarding independence, and to communicate with them all
+relationships and other matters that may reasonably be thought to bear on our independence,
+and where applicable, related safeguards.
+(b)
+
+Review of the Consolidated Financial Results for the quarter ended March 31, 2026
+We conducted our review of the Consolidated Financial Results for the quarter ended March
+31, 2026 in accordance with the Standard on Review Engagements (SRE) 2410 ‘Review of
+Interim Financial Information Performed by the Independent Auditor of the Entity’, issued by
+the ICAI. A review of interim financial information consists of making inquiries, primarily of
+the Company’s personnel responsible for financial and accounting matters, and applying
+analytical and other review procedures. A review is substantially less in scope than an audit
+conducted in accordance with SAs specified under section 143(10) of the Act and consequently
+does not enable us to obtain assurance that we would become aware of all significant matters
+that might be identified in an audit. Accordingly, we do not express an audit opinion.
+The Statement includes the results of the entities as listed under paragraph (a)(i) of Opinion
+and Conclusion section above.
+We also performed procedures in accordance with the circular issued by the SEBI under
+Regulation 33(8) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, as amended, to the extent applicable.
+
+Other Matters
+•
+
+We did not audit the financial statements five subsidiaries included in the consolidated financial
+results, whose financial statements reflect total assets of Rs. 106,378 Lakhs as at March 31, 2026
+and total revenues of Rs. 20,747 Lakhs and Rs. 80,828 Lakhs for the quarter and year ended
+March 31, 2026 respectively, total net loss after tax of Rs. 342 Lakhs and total net profit after tax
+of Rs. 524 Lakhs for the quarter and year ended March 31, 2026 respectively and other
+comprehensive income of Rs. Nil for the quarter and year ended March 31, 2026 and net cash
+inflows of Rs. 1,641 Lakhs for the year ended March 31, 2026, as considered in the Statement.
+These financial statements have been audited/ reviewed, as applicable, by other auditors whose
+reports have been furnished to us by the Management and our opinion and conclusion on the
+Statement, in so far as it relates to the amounts and disclosures included in respect of these
+subsidiaries is based solely on the reports of the other auditors and the procedures performed by
+us as stated under Auditor’s Responsibilities section above.
+Our report on the Statement is not modified in respect of the above matters with respect to our
+reliance on the work done and the reports of the other auditors.
+
+Page 4 of 5
+
+
+Deloitte
+Haskins & Sells LLP
+•
+
+The consolidated financial results includes the unaudited financial statements of one subsidiary,
+whose financial statements reflect total assets of Rs. 17,726 Lakhs as at March 31, 2026 and total
+revenues of Rs. 100 Lakhs and Rs. 1,160 Lakhs for the quarter and year ended March 31, 2026
+respectively, total net loss after tax of Rs. 175 Lakhs and total net profit after tax of Rs. 165 Lakhs
+for the quarter and year ended March 31, 2026 respectively and other comprehensive income of
+Rs. Nil for the quarter and year ended March 31, 2026 and net cash inflows of Rs. 8 Lakhs for the
+year ended March 31, 2026, as considered in the Statement. These financial statements are
+unaudited and have been furnished to us by the Management and our opinion and conclusion on
+the Statement, in so far as it relates to the amounts and disclosures included in respect of this
+subsidiary is based solely on such unaudited financial statements. In our opinion and according to
+the information and explanations given to us by the Board of Directors, these financial statements
+are not material to the Group.
+Our report on the Statement is not modified in respect of the above matter with respect to our
+reliance on the financial statements certified by the Board of the Directors.
+
+For DELOITTE HASKINS & SELLS LLP
+Chartered Accountants
+(Firm’s Registration No. 117366W/W-100018)
+
+Sathya P. Koushik
+Partner
+(Membership No. 206920)
+UDIN: 26206920TBAFGV5085
+
+Bangalore, May 19, 2026
+
+Page 5 of 5
+
+
+DYNAMATIC TECHNOLOGIES LIMITED
+CIN: L72200KAl973PLC002308
+JKM PLAZA, DYNAMATIC AEROTROPOLIS, 55, KIAD8 AEROSPACE PARK, BANGALORE-562 149, INDIA
+Statement of Consolidated Financial Results for the quarter and year ended 31 March 2026
+
+(JNR in lakhs exceot as 01he1,vise slared)
+PrccWing
+
+SI.
+No.
+
+Particulars
+
+3 months ended
+31 March 2026
+(Unaudited)
+(Refer Note 6)
+
+Corresponding. 3 Vear to dale
+monlhs ended in figure for the
+Previous year
+ended
+1>rcvious period
+current year ended JI Mnrch
+31 December 31 March2025 ended 31 March
+2025
+2025
+(Unaudited)
+2026
+(Audited)
+(Unnudited)
+(Refer Note 6)
+(Audited)
+3 monlhs
+
+3
+
+Income
+a) Revenue from operations
+b) Other income
+Total income (a+b)
+Expenses
+a) Cost of materials and components consumed
+b) Change in inventory of finished goods and work-in-progress
+c) Employee benefits expenses
+d) Finance costs
+e) Depreciation and amortisation expenses
+I) Other expenses
+Total expenses (a+b+c+d+e+f)
+Profit before tax and Exceptional items (l - 2)
+
+4
+
+Exceptiona l items (Refer Note 3 & 4)
+
+642
+
+1,427
+
+-
+
+2,757
+
+-
+
+5
+
+Profit before tax (3 - 4)
+
+1,528
+
+794
+
+1,929
+
+5,0l9
+
+5,511
+
+6
+
+Tax expense/ (credit) (Refer note 3)
+a) Current ta.x
+b) Deferred tax
+Total tax expense (a+b)
+Profit after tax (5 - 6)
+Other comprehensive income/(loss) (OC I)
+i) //ems that will no/ be reclassified s11bseq11e11//y 10
+
+185
+87
+272
+1,256
+
+535
+(3 18)
+217
+577
+
+468
+(148)
+320
+1,609
+
+1,814
+(36)
+l,778
+3,241
+
+1,270
+(63)
+1,207
+4,304
+
+72
+(17)
+
+(76)
+19
+
+(381)
+86
+
+(39)
+(11)
+
+(4 14)
+91
+
+a) Exchange differences in translating
+financial statements of foreign operations
+
+950
+
+4 16
+
+1,5 12
+
+4,75 1
+
+1,470
+
+Other comprehensive income/ (loss) for the period,
+net of tax
+Total comprehensive income for the period (7+8)
+Paid-up equity share capital (face value of INR I0/- each)
+Reserves (Other equity)
+
+1,005
+
+359
+
+1,217
+
+4,701
+
+1,147
+
+2,261
+679
+
+936
+679
+
+-
+
+-
+
+2,826
+679
+
+7,942
+679
+78,673
+
+5,451
+679
+71,071
+
+(not
+annualised)
+
+(not
+annualised)
+
+(not
+annualised)
+
+(annualised)
+
+(annualised)
+
+18.50
+
+8.50
+
+23.70
+
+47.73
+
+63.39
+
+I
+
+2
+
+7
+8
+
+43,316
+692
+44,008
+
+42,487
+588
+43,075
+
+38,067
+1,258
+39,325
+
+1,62,134
+2,971
+1,65,105
+
+1,40,380
+2,280
+1,42,660
+
+23,423
+(1,479)
+8,481
+1,448
+1,935
+8,030
+41,838
+2,170
+
+22,665
+(1,178)
+8,442
+1,407
+1,965
+7,553
+40,854
+2,221
+
+17,402
+9 19
+8,622
+1,398
+1,725
+7,330
+37,396
+1,929
+
+84,202
+(2,829)
+32,796
+5,801
+7,662
+29,697
+1,57,329
+7,776
+
+64,694
+665
+31,997
+5,672
+6,929
+27,192
+1,37,149
+5,511
+
+sraremelll ofprofi1and loss
+a) Remeasurement gain/(loss) on defined benefit plans
+b) Income tax relating to items that will not
+be reclassified to statement of profit and loss
+
+ii) Items that will be reclassified s11bseq11enliy lo
+S/alement ofprofit and loss
+
+9
+10
+11
+
+Earnings per equity share
+Earnings per s hare
+Basic and diluted (INR)
+See accompanymg notes to the financial results.
+
+-
+
+~
+
+
+DYNAMATIC TECHNOLOGIES LIMITED
+C IN: L72200KA1973J>LC002308
+J K M PLAZA, DYNAMAT IC AEROTROPOLIS, 55, l<fADB AEROSPACE PARK, BANGALORE - 562 149, INDIA
+Statement of Consolidntcd Fi11:1ncial Results for the quarter nnd year ended 3 l Ma rch 2026
+Anncxure I : Sta tement of Consolida ted segment wise r evenue, results, nsscts and liabilities
+for the q unrter and year ended 31 Mar ch 2026
+
+(INR in lakhs except as otherwise stated)
+
+SI. No. Particulars
+
+I
+
+Segment revenue
+a) Hydraulics
+
+b) Aerospace
+c) Metallurgy
+d) Others
+Revenue from operatio ns
+2
+
+3
+
+13,123
+2 1,020
+9,1 55
+18
+43,31 6
+
+12,374
+2 1,397
+8,714
+2
+42,487
+
+11,048
+17,280
+9,443
+296
+38,067
+
+48,738
+77,561
+35,8 10
+25
+1,62, 134
+
+Previous year
+ended 31
+March 2025
+(Audited)
+
+45,804
+60,785
+33,483
+308
+1,40,380
+
+Segment results [profi t/ (loss) before fin ance costs,
+other income and tax from eac h segment!
+
+a) Hydraulics
+b) Aerospace
+c) Metallurgy
+d) Others
+e) Unallocated
+Total
+Unallocable
+- Finance costs
+- Other income
+- Exceptional Items (Refer Note 3 & 4)
+
+686
+3,267
+(38)
+(22)
+(967)
+2,926
+
+1,030
+3,394
+(410)
+(124)
+(850)
+3,040
+
+(5 16)
+3,363
+49
+127
+(954)
+2,069
+
+(1,448)
+692
+(642)
+
+( 1,407)
+588
+(1,427)
+
+( 1,398)
+1,258
+
+Profit before tax
+
+1,528
+
+794
+
+34,903
+1,06,443
+27,890
+7,870
+7,847
+1,84,953
+
+36,520
+1,02,126
+27,394
+7,026
+6,764
+
+20,936
+22,887
+5,668
+582
+55,528
+1,05,601
+
+Segment assets
+a) Hydraulics
+
+b) Aerospace
+c) Metallurgy
+d) Others
+c) Unallocated
+Total Segmen t assets
+4
+
+Corres1>0nding
+Preceding
+Year to date
+3 months
+3 months ended
+3 months
+figure for the
+ended
+in previous
+end ed
+current year
+31 March 2026
+period
+31 December
+ended 31
+31 March 2025
+(Unaudited)
+2025
+March 2026
+(Refer Note 6)
+(Unaudited)
+(Unaudited)
+(Audited)
+(Refer Note 6)
+
+Segmen t liabilities
+a) Hydraulics
+
+b) Aerospace
+c) Metallurgy
+d) Others
+e) Unallocated
+Total Segment liabilities
+See accompanymg notes to the financ ial results.
+
+2,146
+13,239
+(1,099)
+(502)
+(3,178)
+10,606
+
+1,145
+11,863
+(296)
+(488)
+(3,321)
+8,903
+
+(5,672)
+2,280
+
+-
+
+(5,801)
+2,971
+(2,757)
+
+l,929
+
+5,019
+
+5,511
+
+1,79,830
+
+34,009
+93,960
+25,256
+5,375
+6,428
+t ,65,028
+
+34,903
+1,06,443
+27,890
+7,870
+7,847
+1,84,953
+
+34,009
+93,960
+25,256
+5,375
+6,428
+t ,65,028
+
+24,928
+2 1, 190
+4,824
+544
+50,913
+1,02,399
+
+20,942
+21,702
+4,476
+304
+45,854
+93,278
+
+20,936
+22,887
+5,668
+582
+55,528
+1,05,601
+
+20,942
+2 1,702
+4,476
+304
+45,854
+93,278
+
+-
+
+
+DYNAMATIC TECHNOLOGIES LIMITED
+ClN: L72200KA1973PLC002308
+JKM PLAZA, DYNAMATIC AEROTROPOLIS, 55, KIADB AEROSPACE PARK, BANGALORE- 562 149, l l\'DIA
+Statement of Consolida ted Financial Results for the quarter and year ended 31 March 2026
+Statement of Consolidated assets and liabilities:
+
+Particu lars
+ASSETS
+Non-current assets
+a) Property plant and equipment
+b) Right-of-use assets
+c) Capital work in progress
+d) Goodwill
+e) Other intangible assets
+t) Intangible assets under development
+g) Financial assets
+(i) Investments
+(ii) Other financial assets
+h) Income tax assets (net)
+i) Other non-current assets
+Total non - c urrent assets
+Current assets
+a) Inventories
+b) Financial assets
+(i) Trade receivables
+(ii) Cash and cash equivalents
+(iii) Bank balances other than cash and cash equivalents above
+(iv) Loans
+(v) Other financial assets
+c) Other current assets
+Total current assets
+Total Assets
+
+(INR in lakhs, except as otherwise stated)
+As at
+As at
+31 March 2026
+31 March 2025
+(Audited)
+(Audited)
+
+64,010
+7,513
+716
+10,499
+2,426
+3,536
+
+58,541
+9,172
+1,816
+9,802
+2,568
+1,071
+
+33
+622
+2
+3,083
+92,440
+
+33
+681
+528
+399
+84,611
+
+41 , 184
+
+34,662
+
+3 1,845
+5,252
+1,5 13
+216
+105
+12,398
+92,513
+
+28,935
+3,31 1
+1,279
+195
+354
+11,681
+80,417
+
+1,84,953
+
+1,65,028
+
+EQUITY AND LIABILITrES
+Equity
+a) Equity share capital
+b) Other equity
+Tota l equity
+
+679
+78,673
+79,352
+
+679
+7 1,07 1
+71,750
+
+Liabilities
+Non-current liabilities
+a) Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+b) Provisions
+c) Deferred tax liabi lities (net)
+d) Other non-current liabilities
+Total non-current liabilities
+
+24,936
+8,401
+5,056
+89
+100
+38,582
+
+17,524
+9,447
+3,389
+I 14
+96
+30,570
+
+28,002
+2,450
+
+27,580
+2,574
+
+3,537
+22,039
+6, 143
+1,419
+1,808
+1,621
+67,019
+
+1,886
+21,124
+5,611
+1,712
+1,226
+995
+62,708
+
+Total liabilities
+
+1,05,601
+
+93,278
+
+Total equ ity and liabilities
+
+1,84,953
+
+1,65,028
+
+Current liabilities
+a) Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+(iii) Trade payables
+(a) total outstanding dues of micro and small e nterprises
+(b) total o utstanding dues of creditors other than micro and small enterprises
+(iv) Other financial liabilities
+b) Other current liabilities
+c) Provisions
+d) Current tax liabilities (net)
+Total current liabilities
+
+See accompanying notes to these financial results.
+
+~
+
+
+DYNAMATlC TECHNOLOGIES LIMITED
+CIN: L72200KA1973PLC002308
+JKM PLAZA, DYNAMATIC AEROTROPOLIS, 55, l(IADB AEROSPACE PARK, BANGALORE- 562 149, INDIA
+Statement of Consolidated Financial Results for the quarter and year ended 31 March 2026
+Statement of Consolidated cash flows:
+INR in lakhs
+Particulars
+
+For the year ended
+31 March 2026
+(Audited)
+
+For the year ended
+31 March 2025
+(Audited)
+
+Operating activities
+
+Profit before tax all.er exceptional items
+
+5,019
+
+5,511
+
+5,278
+
+4,423
+2,506
+4,875
+679
+
+Adjustments:
+
+Depreciation and amortisation expense on property, plant and equipment and intangible assets
+Amortisation expense on Right-of-use assets
+Finance costs
+!merest expense on lease liabilities
+Exceptional Items (Refer Note 3 & 4)
+Unrealised foreign exchange differences loss/(gain) (net)
+Interest income
+Interest income on income tax refund
+Net loss allowance on financial assets
+Loss on sale of property, plant and equipment (net)
+Write-back of liabilities
+Gain on lease modification
+Opcratin2 cash flow before movements in working capital
+Changes in operating assets and liabilities:
+
+2,384
+
+5,184
+617
+2,757
+(1,367)
+(123)
+(98)
+278
+64
+
+136
+(115)
+
+-
+
+-
+
+6
+40
+(699)
+(3 1)
+
+19,993
+
+17,331
+
+(5,802)
+
+(3,354)
+1,610
+264
+
+Increase in inventories
+Decrease/(lncrease) in trade receivables
+Decrease/(Increase) in loans
+Decrease in other financial assets
+Increase in other assets
+Increase in trade payables
+Increase in provisions
+Decrease in other financial Liabilities
+lncrease/(Decrease) in other current liabilities
+
+(3,039)
+(10)
+17
+(2,475)
+2,769
+698
+(273)
+(1,419)
+
+C:1sh generated from operations
+
+10,459
+
+849
+
+(4,467)
+3,826
+24
+(158)
+172
+16,097
+
+Income taxes paid (net of refunds)
+
+(925)
+
+(1,664)
+
+Net cash generated from operating activities (A)
+
+9,534
+
+14,433
+
+Purchase of property, plant and equipment and intangibles assets
+Proceeds from sale of property, plant and equipment
+Changes in bank deposits with original maturity of more than three months, net
+Interest received
+
+(6,598)
+52
+(254)
+113
+
+(6,655)
+
+Net cash used in investing activities (B)
+
+(6,687)
+
+(6,703)
+
+Proceeds from Iong-tenn borrowings
+Repayment of long tenn borrowings
+Repayment of short-tenn borrowings (net)
+Payment of lease liabilities
+Interest paid
+Dividends paid
+
+13,587
+(5,273)
+(1,437)
+(2,909)
+(5,030)
+(340)
+
+Net cash used in financing activities (C)
+
+(1,402)
+
+2,891
+(3,973)
+(126)
+(3,091)
+(4,863)
+(475)
+(9,637)
+
+Net decrease in cash and cash equivalents (A + B + C)
+Cash and cash equivalents at the beginning of the year
+Effect of exchange rate changes on cash and cash equivalent
+Cash and cash eQuivalents at the end of the year
+. ..
+Cash flows from operallng act1v1t1es ts arrived using Indirect method.
+
+1,445
+3,311
+496
+
+(1,907)
+5,083
+135
+
+5 252
+
+3,311
+
+Investing activities:
+
+(221)
+173
+
+Financing activities:
+
+
+DYNAMATIC TECHNOLOGIES LIMITED
+CIN: L 72200KA l 973PLC002308
+JKM PLAZA, DYNAMATIC AEROTROPOLIS, 55, KIADB AEROSPACE PARK, BANGALORE - 562 149,
+Statement of Consolidated Financial Results for the quarter and year ended 31 March 2026
+Notes:
+The above consolidated financial results of the Company as reviewed by the Audit Committee and has been approved by
+the Board of Directors at its meeting held on 19 May 2026. The results for the quarter and year ended 31 March 2026
+has been reviewed by the Statutory auditors of the Company. The statutory auditors of the Company has issued an
+unmodified conclusion in respect of the limited review for the qumter and year ended 31 March 2026.
+
+2 Information on standalone financial results:
+
+(/NR ill lakhs, except as othenvise stated)
+Corresponding
+Year to date
+3 months ended
+figure for the
+Previous year
+in previous
+current year ended 31 March
+period
+2025
+ended 31 March
+31 March 2025
+2026
+(Audited)
+(Unaudited)
+(Audited)
+(Refer Note 6)
+
+3 months
+ended
+31 March 2026
+(Unaudited)
+(Refer Note 6)
+
+Preceding
+3 months
+ended
+31 December
+2025
+(Unaudited)
+
+a. Revenue from operations
+
+20,552
+
+21,826
+
+17,321
+
+78,393
+
+b. Profit before tax
+
+1,372
+
+618
+
+787
+
+6,028
+
+5,431
+
+c. Profit after tax
+
+1,025
+
+412
+
+1,0 18
+
+4,447
+
+5,066
+
+Particulars
+
+63,918
+
+3 The Hydraulic Division ofDynamatic Limited, UK (DLUK), a wholly owned subsidiary, has faced a continued decline
+in European supply chain reliability over recent quarters. This has created risk to customer lines and unsustainable
+operations for the company with continuous disruptions and fi nancial losses. In view of this, the Group has taken a
+strategic decision to transfer specific production operations from the DLUK Hydraulic division to India, while retaining
+select strategic product lines in the UK.
+During the quarter ended 30 September 2025 & 31 March 2026, the following key actions were implemented:
+a) The management announced a restructuring initiative to align operations with current market conditions and to
+rationalise the product range. As part of this initiative, certain positions were identified as being at potential risk of
+redundancy. Accordingly, a provision of GBP 0.6 Million (INR 688 Lakhs) in the quarter ended 30 September 2025 and
+GBP 0.5 Million (INR 642 Lakhs) in current quarter ended 31 March 2026 has been recognised under Exceptional Items
+towards the estimated costs associated with the planned workforce reduction.
+b) DLUK Hydraulic division has transferred certain Intellectual Property (IP) rights to Dynamatic Manufacturing
+Limited (DML), a wholly owned subsidiary, which has been capitalised in DML. While the above transaction being
+intra-group is eliminated in the consolidated financial results, a non-cash tax charge was recognised in DLUK of INR
+562 lakhs which has impacted the Group's effective tax rate for the period, since a corresponding deferred tax credit
+has not been recognised at DML in line with Ind AS 12 "Income Taxes".
+
+
+DYNAMATIC TECHNOLOGIES LIMITED
+CIN: L72200KA1973PLC002308
+JKM PLAZA, DYNAMATIC AEROTROPOLIS, 55, KIADB AEROSPACE PARK, BANGALORE- 562 149,
+Statement of Consolidated Financial Results for the quarter and year ended 31 March 2026
+Notes:
+4 On 21 November 2025, the Government of India formally notified the enforcement of four Labour Codes-the Code on
+Wages, 2019; the Industrial Relations Code, 2020; the Code on Social Security, 2020; and the Occupational Safety,
+Health and Working Conditions Code, 2020-thereby consolidating 29 erstwhile labour legislations into a unified
+framework. The Ministry of Labour & Employment, in alignment with this legal mandate, issued draft Central Rules and
+Frequently Asked Questions (FAQs) to facilitate the assessment of financial consequences, underscoring both statutory
+and regulatory guidance for compliance.
+The above Labour Laws introduced a revised definition of 'wages', which impacted the computation of gratuity and
+compensated absences. Pursuant to the new definition of wages, an incremental one-time non-cash cost of Rs. 1,427
+lakhs, predominantly relating to past service costs, has been debited to the Statement of Profit and Loss in order to
+comply with Jnd AS 19 "Employee Benefits" and treated as an exceptional item in line with the accounting standards
+and clarifications issued by the Institute of Chartered Accountants of India (!CAI) regarding the accounting treatment
+for the above amendment in law during the quarter ended 31 December 2025.
+The Government of India is in the process of notifying the final rules to the new Labour codes and an impact of these
+will be evaluated and accounted for in accordance with applicable standards in the period in which they are notified.
+
+5 On 09 February 2026, the Board of Directors of the company have declared an interim dividend of fNR 5 per equity
+share (50%) for the financial year 2025-26 and same has been paid during the current quarter.
+The Board of Directors of the Company, vide their meeting dated 19 May 2026, have, subject to the approval of the
+shareholders, declared final dividend of INR 5 per equity share (50%) for the financial year 2025-26. The same will be
+disbursed to the shareholders after the ensuing Annual General Meeting.
+6 The figures for the quarter ended 31 March 2026 and 31 March 2025 are the balancing figures between the audited
+figures in respect of the full financial year ended 31 March 2026 and 31 March 2025 and published year to date figures
+up to third quarter ended 31 December 2025 and 31 December 2024 respectively.
+for and on behalf of Board of Directors of
+Dynamatic Technologies Limited
+
+Udayant Malhoutra
+Chief Executive Officer and Managing Director
+Date: 19 May 2026
+Place: Bangalore
+
+
+Deloitte
+Haskins & Sells LLP
+
+Chartered Accountants
+Prestige Trade Tower, Level 19
+46, Palace Road, High Grounds
+Bengaluru – 560 001
+Karnataka, India
+Tel: +91 80 6188 6000
+Fax: +91 80 6188 6011
+
+INDEPENDENT AUDITOR’S REPORT ON AUDIT OF ANNUAL STANDALONE FINANCIAL
+RESULTS AND REVIEW OF QUARTERLY FINANCIAL RESULTS
+TO THE BOARD OF DIRECTORS OF DYNAMATIC TECHNOLOGIES LIMITED
+Opinion and Conclusion
+We have (a) audited the Standalone Financial Results for the year ended March 31, 2026 and (b)
+reviewed the Standalone Financial Results for the quarter ended March 31, 2026, which were subject
+to limited review by us, both included in the accompanying “Statement of Standalone Financial
+Results for the Quarter and Year Ended March 31, 2026” of Dynamatic Technologies Limited (the
+“Company”), (the “Statement”), being submitted by the Company pursuant to the requirements of
+Regulation 33 the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended (the “LODR Regulations”).
+(a) Opinion on Annual Standalone Financial Results
+In our opinion and to the best of our information and according to the explanations given to us,
+the Standalone Financial Results for the year ended March 31, 2026:
+i. are presented in accordance with the requirements of Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended; and
+ii. give a true and fair view in conformity with the recognition and measurement principles laid
+down in the Indian Accounting Standards and other accounting principles generally accepted
+in India of the net profit and other comprehensive income and other financial information of
+the Company for the year then ended.
+(b) Conclusion on Unaudited Standalone Financial Results for the quarter ended March
+31, 2026
+With respect to the Standalone Financial Results for the quarter ended March 31, 2026, based
+on our review conducted as stated in paragraph (b) of Auditor’s Responsibilities section below,
+nothing has come to our attention that causes us to believe that the Standalone Financial Results
+for the quarter ended March 31, 2026, prepared in accordance with the recognition and
+measurement principles laid down in the Indian Accounting Standards and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed
+in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended, including the manner in which it is to be disclosed, or that it
+contains any material misstatement.
+Basis for Opinion on the Audited Standalone Financial Results for the year ended March
+31, 2026
+
+tJJ'};
+
+We conducted our audit in accordance with the Standards on Auditing (“SA”s) specified under Section
+143(10) of the Companies Act, 2013 (the “Act”). Our responsibilities under those Standards are
+further described in paragraph (a) of Auditor’s Responsibilities section below. We are independent of
+the Company in accordance with the Code of Ethics issued by the Institute of Chartered Accountants
+of India (the “ICAI”) together with the ethical requirements that are relevant to our audit of the
+Standalone Financial Results for the year ended March 31, 2026 under the provisions of the Act and
+the Rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with these
+requirements and the ICAI’s Code of Ethics. We believe that the audit evidence obtained by us is
+sufficient and appropriate to provide a basis for our audit opinion.
+
+Page 1 of 3
+Regd Office :31st Floor, Tower 3, One International Center, Senapati Bapat Marg, Elphinstone Road
+(West), Mumbai – 400013
+
+
+Deloitte
+
+Haskins & Sells LLP
+Management’s and Board of Directors’ Responsibilities for the Statement
+This Statement which includes the Standalone Financial Results is the responsibility of the Company’s
+Board of Directors and has been approved by them for issuance. The Standalone Financial Results
+for the year ended March 31, 2026 has been compiled from the related audited standalone financial
+statements. This responsibility includes the preparation and presentation of the Standalone Financial
+Results for the quarter and year ended March 31, 2026 that give a true and fair view of the net profit
+and other comprehensive income and other financial information in accordance with the recognition
+and measurement principles laid down in the Indian Accounting Standards prescribed under Section
+133 of the Act read with relevant rules issued thereunder and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the LODR Regulations. This responsibility
+also includes maintenance of adequate accounting records in accordance with the provisions of the
+Act for safeguarding the assets of the Company and for preventing and detecting frauds and other
+irregularities; selection and application of appropriate accounting policies; making judgments and
+estimates that are reasonable and prudent; and the design, implementation and maintenance of
+adequate internal financial controls that were operating effectively for ensuring the accuracy and
+completeness of the accounting records, relevant to the preparation and presentation of the
+Standalone Financial Results that give a true and fair view and is free from material misstatement,
+whether due to fraud or error.
+In preparing the Standalone Financial Results, the Board of Directors is responsible for assessing the
+Company’s ability, to continue as a going concern, disclosing, as applicable, matters related to going
+concern and using the going concern basis of accounting unless the Board of Directors either intends
+to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The Board of Directors is also responsible for overseeing the financial reporting process of the
+Company.
+Auditor’s Responsibilities
+(a)
+
+Audit of the Standalone Financial Results for the year ended March 31, 2026
+Our objectives are to obtain reasonable assurance about whether the Standalone Financial
+Results for the year ended March 31, 2026 as a whole are free from material misstatement,
+whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit
+conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in
+the aggregate, they could reasonably be expected to influence the economic decisions of users
+taken on the basis of this Standalone Financial Results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain
+professional skepticism throughout the audit. We also:
+
+tJJ'};
+
+•
+
+Identify and assess the risks of material misstatement of the Annual Standalone Financial
+Results, whether due to fraud or error, design and perform audit procedures responsive to
+those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis
+for our opinion. The risk of not detecting a material misstatement resulting from fraud is
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional
+omissions, misrepresentations, or the override of internal control.
+
+•
+
+Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Company’s internal control.
+Evaluate the appropriateness of accounting policies used and the reasonableness of
+accounting estimates made by the Board of Directors.
+
+•
+
+Page 2 of 3
+
+

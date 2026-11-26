@@ -1,0 +1,2930 @@
+--- CIM_5649_WebXMLFile_20261113_184759588_2.xml (the exchange's structured disclosure) ---
+NSESymbol: RHIM ; Name Of The Company: RHI Magnesita India Limited ; Scrip Code: 534076 ; MSEISymbol: NOTLISTED ; ISIN: INE743M01012 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-13 ; Start Time Of Board Meeting: 14:30:00 ; End Time Of Board Meeting: 17:10:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Date Of Report: 2026-11-13 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Azim Syed ; Effective Date Of Reason Of Change: 2026-12-31 ; Designation Of Designated Person: Others ; Description Of Other Designation: Chief Investor Relations Officer ; Type Of Change: Appointment ; Name Of Designated Person: Abhishek Bajaj ; Effective Date Of Reason Of Change: 2027-01-01 ; Term Of Appointment In Months: 0 ; Brief Profile: Abhishek Bajaj is an accomplished finance executive with extensive experience in strategic financial leadership and corporate governance with over two decades of diversified experience spanning financial strategy, corporate finance, domestic and international taxation, treasury, capital markets, mergers & acquisitions, enterprise risk management, corporate governance, and business transformation. His professional journey encompasses leadership exposure across listed companies, multinational corporations, promoter-led enterprises, and Big Four consulting environments. He is a Fellow Member of the Institute of Chartered Accountants of India (FCA) and holds a Bachelor of Commerce (Honours) degree from the University of Delhi. He currently serves as the Chief Financial Officer of RHI Magnesita India Refractories Limited and Head of Finance and FP&A for the India Region of the RHI Magnesita Group. He has successfully spearheaded significant capital market transactions, strategic investment initiatives, finance transformation programmes, and operational excellence projects. Prior to joining the RHI Magnesita Group, he held senior finance leadership positions with Dalmia Bharat Refractories Limited and Eli Global, where he played a pivotal role in business turnaround initiatives, financial planning and analysis, mergers & acquisitions, financial controllership, and performance management. Earlier, he worked with KPMG India, leading audit and assurance engagements for listed and multinational organizations across diverse industries. ; Salutation: Mr. ; Name Of The Person: Azim Syed ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-11-13 ; Effective Date Of Resignation: 2026-12-31 ; Reason Of Resignation In Brief: Resignation of Mr. Azim Syed from the position of Chief Financial Officer and Chief Investor Relations Officer of the Company with effect from the close of business hours on December 31, 2026 consequent upon to continue a senior leadership role within another group company of the RHI Magnesita Group. ; Designation Of Person: Others ; Description Of Other Designation Person: Chief Investor Relations Officer
+
+--- CIMG_534076_13112026184729_1.pdf ---
+�
+
+RHI MAGNESITA
+RHI MAGNESITA INDIA LTD.
+(Formerly Orient Refractories Ltd.)
+19th & 20th Floor, DLF Square,
+M-Block, Phase 11, Jacranda Marg,
+DLF City, Gurugram, Haryana-122002
+T +91 124 4299000
+E corporate.india@rhimagnesita.com
+www.rhimagnesitaindia.com
+
+13 November 2026
+BSE Limited
+Phiroze Jeejeebhoy Towers
+DalalStreet
+Mumbai -400 001, India
+BSE Scrip Code: 534076
+
+National Stock Exchange of India Limited
+Exchange Plaza, Plot No. C/1, G Block, Bandra Kurla
+Complex, Bandra (East)
+Mumbai-400 051, India
+NSE Symbol: RHIM
+Total number of pages including covering: 18
+
+Sub: Outcome of Board Meeting dated 13 November 2026
+Dear Sir/ Ma'am,
+Pursuant to Regulations 30 and 33 of Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements). Regulations 2015 ('Listing Regulations') and in reference to Company's letter
+dated 28 October 2026, we wish to inform you that the Board of Directors of the Company at the meeting
+held today i.e. 13 November 2026 has inter-alia took note, considered and approved the following:
+,
+i.
+
+Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended 30
+September 2026.
+Further, we would like to state that M/s. BS R & Co. LLP, Chartered Accountants, Statutory Auditors of
+the Company have issued limited review reports on the above-mentioned financial results.
+(Annexure A)
+
+ii.
+
+Resignation of Mr. AzimSyed from the position of Chief Financial Officer and Chief Investor Relations
+Officer of the Company effective from closure of business hours on 31 December 2026 consequent
+upon to continue a senior leadership role within another group company of the RHI Magnesita.
+The Board has taken note of and accepted his resignation. Further, Mr. Azim has confirmed that there
+are no material reasons for his resignation other than those mentioned in his letter of resignation.
+
+iii. Appointment of Mr. Abhishek Bajaj as Chief Financial Officer and Chief Investor Relations Officer of
+the Company with effect from 1 January 2027.
+iv. Post resignation of Mr. Azim Syed as Chief Financial Officer of the Company, he will cease to be Key
+Managerial Personnel ("KMP") of the Company with effect from 31 December 2026.
+Effective 1 January 2027, Mr. Abhishek Bajaj will be KMP of the Company.
+Revised List of KMP with effect from 1 January 2027 is as follows:
+Mr. Pankaj Malhan, Managing Director & CEO
+Mr. Abhishek Bajaj, Chief Financial Officer
+Mr.Sanjay Kumar, Company Secretary
+
+
+»
+RHI MAGNESITA
+RHI MAGNESITA INDIA LTD.
+(Formerly Orient Refractories Ltd.)
+19th & 20th Floor, DLF Square,
+
+M-Block, Phase Il, Jacranda Marg,
+DLF City, Gurugram, Haryana- 122002
+T +91 124 4299000
+
+E corporate.india@rhimagnesita.com
+www.rhimagnesitaindia.com
+
+The requisite disclosures pursuant to the SEBI Circular HO/49/14/14(7)2025-CFD-POD2/1/3762/2026
+dated 30 January 2026, are enclosed as Annexure B.
+The meeting started at 2:30 P.M. and concluded at 5:10 P.M.
+You are requested to kindly take note of above and oblige.
+Yours Faithfully,
+
+For RHI Magnesita India Limited
+A
+
+aA1
+Sanjay Kumar
+Company Secretary
+
+(ICSI Membership No. -A17021)
+Annexure:
+A.
+B.
+
+Review Reports with financial results
+Detailed disclosures for appointment and resignation
+
+
+Annexure A
+
+
+BSR&Co. LLP
+Limited Review Report (Continued)
+
+RHI Magnesita India Limited
+6.
+
+The standalone financial results of the Company for the three months ended 3Q June 2026 were
+reviewed by the predecessor auditor whose report dated 11 August 2026 had expressed an
+unmodified conclusion.
+ForBSR & Co. LLP
+Chartered Accountants
+
+Firm’s Registration No.:101248W/W-100022
+o
+
+/
+Ashwin Bakshi
+Partner
+
+Gurugram
+13 November 2026
+
+Membership No.: 506777
+UDIN:26506777JDOEDQ3625
+
+Page 2 of 2
+
+
+RHI MAGNESITA INDIA LIMITED
+CIN : L28n3MH2010PLC312871
+Regd. Office : Unit No.7o5, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East), Mumbai, Maharashtra - 400042
+
+Phone No : +91-22-66090600; Fax No : +91-22-66090601
+Email : corporate.india@rhimagnesita.com ; Website : www.rhimagnesitaindia.com
+Statement of Standalone Financial Results for the Quarter and Half-year ended September 30, 2026
+
+Particulars
+
+Income
+Revenue from operations
+Other mcome
+‘Yotal mcome
+
+Quarter ended
+September 30,2026
+
+Quarter ended
+June 30, 2026
+
+Quarter ended
+September 30, 2025|
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(All amount in Rs. Lakhs, unless otherwise stated)
+Half-year ended
+Half-year ended
+Year ended
+September
+30, 2026 |September 30, 2025
+March 31,2026
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+87,815.11
+2091.68
+88,106.79
+
+86,345.25
+679.84
+8'7,025.0
+
+86,212.85
+59.83
+86,272.68
+
+174,160.36
+971.52
+lviirl‘l.ss
+
+166,739.77
+132.70
+1606,872.47
+
+335,058.78
+562.64
+“glzzl..u
+
+Expenses
+Cost of matenals consumed
+Purchases of stock-in-trade
+Changes in inventories of finished goods, stock-in-trade and work-in-progress
+
+32,586.25
+20,871.73
+722.98
+
+35,275.90
+20,105.15
+(1,952.22)
+
+45,228.19
+25,117.36
+(1,015.47)
+
+67,862.15
+40,976.88
+(1,229.24)
+
+68,336.46
+46,980.19
+(1,933.98)
+
+134,772.97
+91,968.64
+(4,232.13)
+
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Othier expenses
+Total expenses
+
+7,577.08
+156.77
+2,115.46
+14.419.44
+78,449.71
+
+6,997.70
+153.67
+2,074.55
+13,884.54
+76,539.29
+
+6,127.12
+157.03
+2,085.16
+13,013.43
+80,712.82
+
+14,574.78
+310.44
+4,190.01
+28,303.98
+154,989.00
+
+11,959.93
+299 .50
+4,990.01
+25,447.07
+155,079.18
+
+25,470.89
+630.48
+8,394.69
+5:3,159.09
+310,164.63
+
+Profit before exceptional items and tax
+
+9,657.08
+
+10,485.80
+
+5.559.86
+
+20,142.88
+
+11,793.29
+
+20,056.79
+
+Exceptional item
+Impairment of investment in subsidiary (refer note 3)
+
+-
+
+Profit / (loss) before tax
+Tax expense:
+- Current tax
+- Carrent tax expense relating to prior years
+
+-
+
+-
+
+-
+
+-
+
+6609210
+
+9,657.08
+
+10,485.80
+
+5.559.86
+
+20,142.88
+
+11,793.29
+
+(40,035.31)
+
+2,720.15
+
+2,432.46
+
+1,155.59
+
+5,152.61
+
+2,498.70
+
+6,114.46
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(14.76)
+
+- Deferred tax
+Total tax expense
+
+(160.49)
+2,559.60
+
+234.60
+2,667.00
+
+274.93
+1,430.52
+
+74.11
+5,2206.72
+
+511.22
+3,009.92
+
+033.58
+0,733.28
+
+Prafit / (loss) for the period / year
+
+7,097.32
+
+7,818.73
+
+3,129.34
+
+14,916.16
+
+8,783.37
+
+(46,768.59)
+
+Other Comprehensive Income
+
+Items that will not be reclassified to profit or loss
+- Remeasurement of the defined benefit plans
+- Income tax relating to the above
+
+(60.04)
+15.11
+
+(60.03)
+15.11
+
+(10.19)
+2.56
+
+(120.07)
+30.22
+
+20.38)
+5.13
+
+(218.30)
+54.94
+
+Other comprehensive (loss) for the period / vear, net of tax
+Total comprehensive income / (loss) for the period / year
+
+(44.93)
+7,052.49
+
+(43.92)
+7,773.82
+
+{7.63)
+4.121.71
+
+(89.85)
+14,826.31
+
+(15.25)
+8,768.12
+
+(163.36)
+(46,931.95)
+
+Paid up equity share capital (Face value of Re. 1 per share)
+Other Equity as per the audited balance sheet
+
+2,0065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+353,219.67
+
+3.43
+3.43
+
+3.79
+3.79
+
+2.00
+2.00
+
+7.22
+7.22
+
+Basic earnings/ (loss) per equity share (Face value of Re. 1 each share) (Rs.) #
+Diluted earnings/(loss) per equity share (Face value of Re. 1 each share) (Rs.) #
+#EPS 1s not annualised for the quarters ended September 30, 2026
+
+30, 2026, September 30, 2025, half-year ended September 30, 2026 and September 30, 2025
+
+(22.65)
+(22.65)
+
+
+RHI MAGNESITA INDIA LIMITED
+CIN : L28113MH2010PLC312871
+
+Regd. Office : Unit No.703, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East), Mumbai,
+Maharashtra - 400042
+Phone No : +91-22-66090600; Fax No : +91-22-66090601
+
+Email : corporate.india@rhimagnesita.com ; Website : www.rhimagnesitaindia.com
+Standalone Statement of Assets and Liabilities
+
+Particulars
+
+(All amount in Rs. Lakhs, unless otherwise stated)
+As at
+As at
+
+September 30, 2026
+
+March 31, 2026
+
+(Unaudited)
+
+(Audited)
+
+Assets
+
+Non-current assets
+
+Property, plant and equipment
+
+43,048.30
+
+44,326.62
+
+Right-of-use assets
+Capital work-in-progress
+Goodwill
+
+10,314.33
+
+10,435.20
+
+2,902.35
+
+31,091.69
+
+3,925.07
+31,001.69
+
+Other intangible assets
+
+17,301.44
+
+17,883.99
+
+121,650.70
+
+120,049.36
+
+537.05
+
+584.69
+
+1,342.86
+229,088.72
+
+788.94
+1,274.69
+230,960.25
+
+Financial assets
+(i) Investments
+
+(ii) Other financial assets
+Tax assets (net)
+
+Other non-current assets
+Total non-current assets
+Current assets
+[nventories
+Financial assets
+(i) Investments
+
+(ii) Trade receivables
+(ii1) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+(v) Other financial assets
+Contract assets
+Other current assets
+
+84,233.53
+17,682.30
+63,775.86
+
+2.502.99
+
+10,010.62
+
+5,263.12
+
+174.29
+
+9,574.15
+
+877.78
+
+Total current assets
+
+27,004.37
+5,007.51
+224,787.87
+
+26,715.50
+5,267.01
+203,657.50
+
+Total assets
+
+32‘3‘82.2'2
+
+433.617.75
+
+Equity and liabilities
+Equity
+Equity share capital
+Other equity
+Total Equity
+
+2,065.01
+
+2,065.01
+
+302,933.23
+
+353,219.67
+
+364,998.24
+
+355,284.68
+
+4,074.01
+
+4,114.24
+
+Liabilities
+Non-current liabilities
+
+Financial liabilities
+Lease liabilities
+Provisions
+Deferred tax liabilities (net)
+Other non-current liabilities
+Total non-current liabilities
+
+2,408.17
+
+-
+
+2,665.35
+
+2,621.47
+
+199.22
+
+218.68
+
+9,346.75
+
+6,954.39
+
+6,322.93
+
+5,328.37
+
+490.66
+
+3600.45
+
+Current liabilities
+Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+
+(iii) Trade payables
+(a) Total outstanding dues of micro enterprises and small enterprises
+
+4,044.18
+
+4,222.11
+
+(b) Total outstanding dues of creditors other than micro enterprises
+
+56,372.27
+
+56,183.48
+
+and small enterprises
+(iv) Other financial liabilities
+Contract liabilities
+
+0.980.04
+
+1,396.08
+
+1,498.54
+
+152.60
+
+Other current liabilities
+
+2,628.45
+
+2,455.76
+
+413.37
+
+2,270.83
+
+Provisions
+Current tax liabilities (net)
+Total current liabilities
+Total liabilities
+Total equity and liabilities
+
+775.16
+79,531.60
+
+72,378.68
+
+88.878.35
+
+79,333.07
+
+453.876.59
+
+434.617.75
+
+
+RHI MAGNESITA INDIA LIMITED
+CIN : L28113MH2010PLC312871
+
+Regd. Office : Unit No.703, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East), Mumbai,
+
+Maharashtra - 400042
+Phone No : +91-22-66090600; Fax No : +91-22-66090601
+
+Email : corporate.india@rhimagnesita.com ; Website : www.rhimagnesitaindia.com
+Standalone Statement of Cash Flows
+(All amount in Rs. Lakhs, unless otherwise stated)
+
+Particulars
+
+Half-year ended
+
+Half-year ended
+
+September 30, 2026
+(Unaudited)
+
+September 30, 2025
+(Unaudited)
+
+Profit before tax
+Adjustments for:
+Depreciation and amortisation expense
+
+20,142.88
+
+11,793.29
+
+4,190.01
+
+3,990.01
+
+Employee share-based payment expense
+
+49.79
+
+(35.91)
+
+Interest income
+
+(52.92)
+
+(65.42)
+
+Allowance for doubtful debts - trade receivables (Net)
+Allowance for doubtful debts - contract assets (Net)
+Gain on redemption of mutual funds
+Unrealised gain on fair valuation of mutual funds through profit and loss
+Bad debts written off
+Finance costs
+(Gain) on property, plant and equipment sold / serapped (Net)
+
+(162.27)
+(656.74)
+(54.29)
+160.16
+310.44
+(137.86)
+
+3.51
+(626.94)
+(61.53)
+509.47
+209.50
+(1.72)
+128.96
+
+Cash flow from operating activities
+
+Net unrealised foreign exchange loss
+
+313.65
+
+Impairment loss/(reversal) on capital work-in-progress
+
+(0.60)
+
+Operating profit before working capital changes
+
+24,102.30
+
+15,933.22
+
+(8,994.04)
+(5,918.30)
+
+(6,001.30)
+(10,517.46)
+444.23
+
+Changes in operating assets and liabilities
+(Increase) in inventories
+(Increase) in trade receivables
+
+.
+
+(Increase) / Decrease in other financial assets - current
+
+(634.60)
+
+(Increase) / Decrease in other current assets
+
+(400.50)
+
+(Increase) in contract assets
+Decrease in other finanecial assets-non-current
+
+(378.87)
+47.64
+
+13.40
+
+Decrease / (Increase) in other non-current assets
+
+5.55
+
+(22.39)
+
+(Decrease) / Increase in trade payables
+Increase / (Decrease) in other financial liabilities
+Increase in provisions
+(Decrease) in other non current liabilities
+
+(303.00)
+410.55
+430.64
+(19.46)
+
+12,666.89
+(1,709.50)
+145.18
+(19.52)
+
+[nerease / (Decrease) in contract labilities
+
+1,345.04
+
+(104.64)
+
+129.59
+9,823.44
+
+11.76
+5,674.21
+
+Increase in other current liabilities
+Cash generated from operations
+
+Income tax paid (Net)
+
+(3,588.51)
+
+(1,894.13)
+
+Net cash inflow from operating activities (A)
+
+6,234.93
+
+3,780.08
+
+Cash flows from investing activities
+Investment in National Saving Certificate
+
+-
+
+(0.12)
+
+Investment in subsidiary
+
+(1,001.34)
+
+(249.71)
+
+(Increase) in other bank balances
+Capital expenditure on property, plant and equipment and intangible assets
+Proceeds from sale of property, plant and equipment and intangible assets
+
+(5,164.18)
+(2,044.17)
+355.11
+
+(5,161.27)
+(5,529.37)
+48.20
+
+Payments for purchase of investments (current)
+
+(151,892.41)
+
+(82,395.88)
+
+Proceeds from sale of investments (current)
+
+145,443.65
+
+82,457.41
+
+Interest received
+
+Net cash (outflow) from investing activities (B)
+
+66.50
+
+76.25
+
+(13.236.83)
+
+(10.754.49)
+
+Cash flows from financing activities
+Proceeds from current borrowings (excluding supplier finance arrangement)
+
+1.038.54
+
+3.436.10
+
+Repayment of current borrowings (excluding supplier finance arrangement)
+
+(1,038.54)
+
+(1,500.00)
+
+Proceeds received under a supplier finance arrangement
+
+25,105.74
+
+-
+
+Repayments under a supplier finance arrangement
+
+(24,111.18)
+
+-
+
+Principal payment of lease liabilities
+
+(232.93)
+
+(167.12)
+
+Interest payment of lease liabilities
+
+(201.11)
+
+(196.29)
+
+Interest paid
+Net cash inflow from financing activities (C)
+
+(66.24)
+394.28
+
+(40.76)
+1,531.93
+
+(7.507.63)
+
+(5.442.48)
+
+Net (decrease) in cash and cash equivalents (A+B+C
+
+Cash and cash equivalents at the beginning of the year
+Cash and cash equivalents at the end of the peri
+
+S
+
+10,010.62
+
+7,004.10
+
+2,502.99
+
+1.6§|_.6:z
+
+
+Notes 1,
+L 'The ab
+
+Slandal
+
+oye Smml
+
+unc l“in
+
+anciaI Re
+
+sults:
+
+u!um- Fi
+
+nangiy Ke
+2 These
+sultg haye
+S(unduh
+been TCVi
+mc Fitian
+PECSErifp
+eywp by
+g,y Resu
+g tnidey Se
+the Audijy
+lt
+s iy be
+ction 33
+('«unmitte
+en DPrepa
+of
+c and AP
+th
+e (‘mnpa
+red iy dC
+3 Duripg
+Proyed b
+ni
+cordanee
+vs Act, 2
+the ey,
+y the Bo
+013 reaq
+with Teco
+Cnded M
+ard ¢ Di
+Mugm-si
+gnitioy,
+with Ryje
+arch 3L
+recteyg at
+m Indiy
+a
+. 3 of the
+nd meas
+2026 (j
+Rvﬁm'lu
+thejy Meet
+urcmem
+('umpani
+, L‘urnp
+rim Limi
+ing heq
+Pr
+cs (India
+any on th
+incipjpg
+teg ("R
+on N(n'em
+n
+laid dow
+e basis f
+A('mumi
+HHRJ.")
+bt-r 13,
+n jp, the
+ng Stunda
+evalving
+and hy,g
+2026
+4- The ('
+la
+diay A(rd) Rules,
+Market Co
+TeCagnis
+umpan,\‘
+cnuming
+eg
+nd
+2
+0
+it
+&
+1
+io
+is
+pr
+5
+ng and S8
+5 ameng
+primeu'i{r
+ovision
+Stimdar
+aﬂm:utin
+d
+fo
+e
+eopoliticy
+u and aS
+: "Inter
+, and ot
+“Ngaged
+r impair
+Sessmeny
+he) zu'('u
+ment of
+iy the hu
+ip, Finane
+dcvelupm
+|
+Rs, 66,0
+sincss of
+untiug Pr
+of ‘wnurn
+ent.s as
+ig) Rr,m
+92 1 Ta
+incipleg
+sessed th
+rh’ng" ("
+mm-(-, th
+]
+munufuct
+kh
+Senerall
+e
+s towiid
+uring rc
+ere are n
+Ind A5 34
+fu
+tu
+re
+y aceept
+hu
+y
+!'
+5 Divige
+g Cporta
+"),
+si
+ra
+th
+nc
+cm
+e
+Ca
+ri
+ss
+ed jp Tndi
+es
+rt
+Pr
+y,g OtRs.
+pje Segr
+ying valy
+and mono
+oj
+ec
+ti
+y,
+01
+nn
+5,
+u
+3¢ PEr
+lithjeg.
+e o its
+g of its wh
+ens jy, ac
+M
+eq
+Ba
+Vestmen
+cordan e
+oljy Gwn
+uity shar
+sed oy th
+5% J)m'in
+g and di
+ed .snbs)
+With the
+e {250%
+e inﬂtm
+g th Ma
+’dial_\' Vi
+scloged th
+n-quircn
+o5 equity
+mﬁun fe
+rter gy
+z. REyy
+wnl of In
+ported ¢,
+e siume 48
+shares of
+CRIK M
+half Year
+diay Acv
+ELY) o
+the chijop
+Pa
+a
+r
+p XCepti
+va
+e
+n
+jy
+d
+v
+July 16,
+e of Re.
+eg Scph‘
+uming St
+Pberatin,
+on,y
+e1
+[
+2016 ¢,
+mbvr 30,
+pey share)
+andagg (I
+decision
+Underty
+AS 11 ¢
+2a26, th
+ng AS) 1
+Makey ¢ C
+been Appr
+ke tiney
+'nn.w!idut
+e (‘mnpun_
+08 on '(
+O
+b
+oy
+,
+A
+pr
+e
+for the P
+wl l’l‘nunv
+);»:mting
+y, jnintl_v
+uc('.\;sl'ng
+by the sh
+urpose of
+Segmeny
+ial Sl'.me
+Activities
+with Khe
+urchnld
+nn-ms", th
+Rcpurtin
+mpg Ruﬁ
+Tesaure,
+cm of the
+1y s (.‘um;
+g‘ Rotifje
+e im'rsl
+adurius
+('umpun
+mn_y hold
+mcnt Mad
+y in the
+Privage Li
+under th
+s 4 5% eq
+e jn RHI
+Annyyg
+miteg ({ 'K
+e
+uity stak
+Ge
+KMPI. ha
+nery) Mt
+heml-m')
+e, yyjp, K
+g been Lo
+-ﬂing tiel
+imruqmm
+hemp, hu
+nsideceg
+d g5 S«-p
+tvd a ne
+]ding the
+as in\'es
+te
+w €ntigy
+mbcr 29,
+rcmuinin
+mlvm in su
+named Ri
+2026,
+g 49% st
+hsidimy.
+g; Khemip
+ake in Rf
+e, Minpi
+y IKMpy
+, Privyg
+asiy Salu
+e
+Limiteq
+ati,y, nt
+'criteriu
+oF contyp
+Place, G
+urugra
+m
+Date,; Nm
+'cmher
+13, 2024
+
+NN -085
+
+:6185)
+
+
+BSR&Co.LLP
+Chartered Accountants
+
+Ciy. Phase1l
+OLFCyoer
+Gurugram - 122 002, India
+
+Tel: 491 124 719 1000
+
+Fax: +91 124 235 8613
+
+Limited Review Report on unaudited consolidated financial results of RHI Magnesita
+India Limited for the quarter ended 30 September 2026 and year to date results for
+the period from 1 April 2026 to 30 September 2026 pursuant to Regulation 33 of
+Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+
+To the Board of Directors of RHI Magnesita India Limited
+1.
+
+We have reviewed the accompanying Statement of unaudited consolidated financial results of RHI
+
+Magnesita India Limited (hereinafter referred to as “the Parent”), and its subsidiaries (the Parent and
+its subsidiaries together referred to as “the Group”) for the quarter ended 30 September 2026 and
+year to date results for the period from 1 April 2026 to 30 September 2026 (‘the Statement”) being
+submitted by the Parent pursuant to the requirements of Regulation 33 of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations").
+
+2.
+
+This Statement, which is the responsibility of the Parent's management and approved by the Parent's
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34"),
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility
+is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial
+
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion.
+
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4.
+
+The Statement includes the results of the following entities:
+
+a. RHI Magnesita India Limited (the Parent company)
+b. RHI Magnesita India Refractories Limited (Subsidiary)
+c. Ashwath Technologies Private Limited (Subsidiary) *
+
+d. RHIM Khemka Minpro Private Limited [w.e.f 16 July 2026] (Subsidiary)
+*Intermetal Engineers (India) Private Limited has been merged with Ashwath Technologies Private Limited
+with an appointed date of 1 April 2026, pursuant to the order issued by the Regional Director, Ministry of
+Carparate Affairs dated 17 August 2026.
+5.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing
+has come to our attention that causes us to believe that the accompanying Statement, prepared in
+
+accordance with the recognition and measurement principles laid down in the aforesaid Indian
+Accounting Standard and other accounting principles generally accepted in India, has not disclosed
+the information required to be disclosed in terms of Regulation 33 of the Listing Regulations, including
+the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+Registered Office
+B S R & Co. (a partnership firm with Registration No. BA61223) converted nto B S R & Co. LLP (a
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+
+Limited Liability Partnership with |LP Registration No AAR-8181) with affect from October 14, 2013
+
+Genter,
+
+Westem CApress Highway, Goregaor (East), Mumbal - 400063
+
+Page 1 of 2
+
+
+BSR&Co.
+LLP
+Limited Review Report (Continued)
+RHI Magnesita India Limited
+6.
+
+The consolidated financial results of the Group for the year ended 31 March 2026 were audited by
+the predecessor auditor whose report dated 29 May 2026 had expressed an unmodified opinion. The
+
+consolidated financial results of the Group for the corresponding quarter ended 30 September 2025
+and the corresponding period from 1 April 2025 to 30 September 2025 were reviewed by the
+predecessor auditor whose report dated 10 November 2025 had expressed an unmodified
+conclusion.
+
+7.
+
+The consolidated financial results of the Group for the three months ended 30 June 2026 were
+reviewed by the predecessor auditor whose report dated 11 August 2026 had expressed an
+unmodified conclusion.
+
+8.
+
+We did not review the interim financial results of two subsidiaries included in the Statement, whose
+interim financial results reflects total assets (before consolidation adjustments) of Rs. 4,849.46 lakhs
+as at 30 September 2026 and total revenues (before consolidation adjustments) of Rs. 678.84 lakhs
+and Rs. 1,357.33 lakhs, total net profit after tax (before consolidation adjustments) of Rs. 55.56 lakhs
+
+and Rs. 158.90 lakhs and total comprehensive income (before consolidation adjustments) of Rs.
+55.03 lakhs and Rs. 157.84 lakhs, for the quarter ended 30 September 2026 and for the period from
+1 April 2026 to 30 September 2026 respectively, and cash inflows (net) (before consolidation
+
+adjustments) of Rs. 1,944.06 lakhs for the period from 1 April 2026 to 30 September 2026 as
+considered in the Statement. These interim financial results have been reviewed by other auditor
+whose reports have been furnished to us by the Parent's management and our conclusion on the
+Statement, in so far as it relates to the amounts and disclosures included in respect of these
+subsidiaries, is based solely on the reports of the other auditor and the procedures performed by us
+as stated in paragraph 3 above.
+
+Our conclusion is not modified in respect of this matter.
+ForBSR & Co. LLP
+
+Chartered Accountants
+Firm's Registration No.:101248W/W-100022
+0
+
+#
+Ashwin Bakshi
+Partner
+Gurugram
+
+13 November 2026
+
+Membership No.: 506777
+
+UDIN:26506777MYDEQL1954
+
+Page 2 of 2
+
+
+RHI MAGNESITA INDIA LIMIT ‘D
+CIN : 128113MH2010P1LC312871
+Regd, Office : Unit No.705, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East), Mumbai, Maharashtra - Jooo4z2
+Phone No : +91-22-660 90000; Fax No : +91-22-66090001
+
+Email : corporate.i
+St
+
+of C
+
+lid
+
+d Fi
+
+com ; Website : www.rhimagnesitaindia.com
+ial Results
+
+for the Quarter and Half-year ended September 30, 20206
+(All amount in Rs. Lakhs, unless otherwise stated)
+
+Particulars
+
+Quarter ended
+
+Quarter ended
+
+Seplember 30, 2026
+
+June 30, 2020
+
+(Unaudited)
+
+(Unaudited)
+
+Quarter ended
+
+Half-year ended
+
+Half-year ended
+
+September 30, 2025 | September 30, 2026 | September 30, 2025
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+Year ended
+March 31, 2026
+(Audited)
+
+Iicome
+Revenue from operations
+ther income
+Total income
+
+103,029.273
+
+101,396.74
+
+103,535.05
+
+204.425.97
+
+199,567 21
+
+797.66
+
+928.46
+
+11017
+
+1,726.12
+
+220.72
+
+40196450
+2.858.75
+
+103,826.89
+
+102,325.20
+
+1033,645.82
+
+200,152.09
+
+199,787.93
+
+404,853.25
+
+Expenses
+Cost of materials consumed
+
+40.841.34
+
+41,679 10
+
+45.391.25
+
+8252044
+
+85.480.04
+
+163.115.22
+
+Purchuses of stock-mn-trade
+
+20,454.22
+
+19,820.14
+
+20,815.40
+
+40.274.30
+
+40.490.41
+
+8021317
+
+(2.536.18)
+
+(1.306.92)
+
+(3.987.48)
+
+(1,024.20)
+
+(3,753.74)
+
+10,72673
+
+10,135.29
+
+9,045.28
+
+20,862,
+
+17,726.36
+
+37,608.65
+
+884.65
+
+984.56
+
+Changes ninventories of finished goods, stock-in-trade and work-in-progress
+Employee benefils expense
+Finance costs
+Depreciation and amortisation expense
+
+5,012.52
+
+94492
+
+1,869.21
+
+1.777.53
+
+3.699.81
+
+493040
+
+998515
+
+9.638.34
+
+19,702.2;
+
+Other expenses
+
+18.838.09
+
+18,0647.90
+
+47,360.92
+
+35,722.34
+
+74.021.18
+
+Tolal expenses
+
+95,300.25
+
+93,584.37
+
+98.468.29
+
+188 .890.62
+
+.
+
+189,817, 42
+
+381,200.52
+
+Profit before exceptional item and tax
+
+8.520.04
+
+8,740.83
+
+5,177.53
+
+17,201.47
+
+9,970.51
+
+23,046.73
+
+Exceptional item
+Impairment loss of Goodwill (reter note 6)
+Pralit [ (lass) belove tux
+
+-
+
+-
+
+-
+
+55,624.03
+
+8B.520.64
+
+8,740.83
+
+5.177.533
+
+17,201.47
+
+9,970.51
+
+(31,977.30)
+
+2,745-00
+
+2,452.83
+
+1.178.88
+
+5.197.83
+
+2,561.50
+
+2
+
+-
+
+-
+
+»
+
+-
+
+(15.20)
+
+(434.09)
+
+{17278)
+
+163.08
+
+(60b.87)
+
+47.59
+
+12968
+
+Tolal tax expense
+
+2,:310.91
+
+2,280.05
+
+1,342,960
+
+4,590.90
+
+2,009.13
+
+0,:310.48
+
+Profit [ oss) tor the period [ year
+
+6.209.73
+
+0,400.78
+
+3,834.57
+
+12,070.51
+
+7,301.30
+
+(38,293.78)
+
+- Remeastrerent of the defined benefit plans
+
+(70.71)
+
+(71.71)
+
+(10.83)
+
+(21.67)
+
+(259.02)
+
+= Income tax relating to the above
+
+18.05
+
+18.05
+
+292
+
+30.1¢
+
+343
+
+6519
+
+(53.66)
+
+(53.60)
+
+(8.11)
+
+(107.32)
+
+(16.22)
+
+(193.83)
+
+Total comprehensive income / (loss) for the period / year
+
+6,156,07
+
+0,407.12
+
+3.820.40
+
+12,503.19
+
+7,345.14
+
+(38,487.01)
+
+Profit for the year attributable to:
+Owner of the parent
+
+6,214.42
+
+12,675.20
+
+7.361.30
+
+(38,29:3.78)
+
+Tax expense:
+- Covvent tax
+-
+
+Current tax expense relating to prior years
+
+- Deferred tax
+
+Other Comprehensive Income
+
+Items that will not be reclassified to profit or loss
+
+Other comprehensive (loss) for the period / year, net of tax
+
+Non-Contsobling nterest
+
+0.460.78
+
+3.834.57
+
+(4.69)
+
+-
+
+-
+
+(5360)
+
+(53.60)
+
+-
+
+-
+
+-
+
+6,160.76
+(4.69)
+
+0.407.12
+-
+
+2,065.01
+
+2,005.01
+
+(4.69)
+
+-
+
+-
+
+(107.32)
+
+(16.22
+
+(193.83)
+
+-
+
+°
+
+R
+
+3,826,460
+-
+
+12,507.88
+(4.09)
+
+7.345-14
+-
+
+2,005.01
+
+2,005.01
+
+2,005.01
+
+Other Comprehensive (loss) for the year attributable to:
+
+Owner of the parent
+Non-Controlling Interest
+
+(8.11),
+
+Total Comprehensive Income for the year attributable to:
+Owner of the parent
+Non-Comvolling terest
+
+Paid up equity share capital (Face Value of Re. 1 per share)
+Othier Fyguity as per the audited balance sheet
+
+(38.487.01)
+.
+
+2,065.01
+353:979.08
+
+Basic earnings/ (loss) per equity share (Face value of Re. 1 each share) (Rs.) #
+
+301
+
+313
+
+185
+
+6.14
+
+3560
+
+(18.54)
+
+Uitduted
+
+3.01
+
+3.13
+
+185
+
+6.14
+
+3.50
+
+(18.54)
+
+¢ m:\g-mh »ss) pes equity share {Fave value
+of Re. 1 each share) (Rs) #
+
+S is not annualised for the quarters ended September 30, 2026, June 30. 2026, September 30, 2023, half year ended September 30, 2026 and September 30, 2025
+
+
+RHI MAGNESITA INDIA LIMITED
+CIN : L28113MH2010PLC312871
+Regd. Office : Unit No.~7035, ~th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East),
+Mumbai, Maharashtra - Jooo42
+Phone No : +91-22-66090600; Fax No : +91-22-66090601
+
+Email : corporate.india@rhimagnesita.com ; Website : www.rhimagnesitaindia.com
+
+Consolidated Statement of Assets and Liabilities
+Particulars
+
+(All amount in Rs. Lakhs, unless otherwise stated)
+As at
+As at
+September 30, 2026
+March 31, 2026
+(Unaudited)
+
+(Audited)
+
+Assets
+Non-current assets
+Property, plant and equipment
+
+65,086.77
+
+67,022.04
+
+Right-of-use assets
+
+19,900.59
+
+20,148.55
+
+Capital work-in-progress
+
+3,640.00
+
+4.774.01
+
+Goodwill
+
+32,448.35
+
+32,448.35
+
+Other intangible assets
+Financial assets
+
+89,021.51
+
+93.161.95
+
+1.09
+539.58
+
+1.09
+605.52
+
+5,401.05
+564.58
+4,211.32
+
+4.719.09
+1,305.47
+3,219.29
+
+221,414.84
+
+227,405.36
+
+118.875.40
+
+109,886.08
+
+(1) Investments
+(11) Other financial assets
+Deferred tax assets (net)
+Tax Assets (net)
+Other non-current assets
+
+Total non-current assets
+Current assets
+Inventories
+Financial assets
+(i) Investments
+
+(11) Trade receivables
+(i11) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+
+(v) Other financial assets
+
+27,003.21
+
+23,097.89
+
+74,634.30
+
+70,312.69
+
+5.341.60
+5,303.74
+
+15,757.11
+217.63
+
+9,006.68
+
+542.50
+
+31,347.08
+
+31,429.42
+
+Other currvent assets
+Total current assets
+
+72,574.54
+279,086.55
+
+2.,423.08
+258,666.40
+
+Total assets
+
+500,501.39
+
+58610'1."6 ;
+
+Contract assets
+
+Equity and liabilities
+
+Equity
+Equity share capital
+
+Other equity
+Equity attributable to the owners of the Holding Company
+Non-controlling interest (NCI)
+Total equity
+
+2,065.01
+
+2,065.01
+
+360,786.11
+362,851.12
+
+353,979.68
+356,044.60
+
+1,050.42
+
+-
+
+363,901.54
+
+356,044.69
+
+(i) Borrowings
+(i1) Lease liabilities
+(ii1) Other financial liabilities
+Provisions
+
+18,385.33
+10,387.00
+747.52
+4.681.43
+
+21,254.18
+11,764.22
+204.14
+
+Deferred tax liabilities (net)
+
+2,686.77
+
+2,647.80
+
+Liabilities
+Non-current liabilities
+Financial liabilities
+
+Other non-current liabilities
+Total non-current liabilities
+
+218.68
+36,089.02
+
+Current liabilities
+Financial liabilities
+(1) Borrowings
+
+13,628.16
+
+10,923.17
+
+(i1) Lease liabilities
+
+2,624.58
+
+902.93
+
+(ii1) Trade pavables
+(a) Total outstanding dues of micro enterprises and small enterprises
+(b) Total outstanding dues of creditors other than micro enterprises
+
+5,474.56
+59.352.29
+
+5,842.73
+61,964.08
+
+and small enterprises
+(iv) Other financial liabilities
+
+9.087.37
+
+2.672.60
+
+Contract liabilities
+
+2,211.55
+
+983.12
+
+Other current liabilities
+
+5.570.02
+
+6.310.17
+
+Provisions
+
+531.59
+
+4,328.98
+
+Current tax liabilities (Net)
+
+-86.15
+
+10.27
+
+99,206.2~
+136,599.85
+300,501.39
+
+93,938.05
+130,027.07
+_486.071.76
+
+Total current liabilities
+Total liabilities
+Total equity and liabilities
+
+
+RHI MAGNESITA INDIA LIMITED
+CIN : L28113MH2010PLC3128~1
+Regd. Office : Unit No.703, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East),
+
+Mumbai, Maharashtra - Joo042
+Phone No : +91-22-66090600; Fax No : +91-22-66090601
+Email : corporate.india@rhimagnesita.com ; Website : www.rhimagnesitaindia.com
+Consolidated Statement of Cash Flows
+(All amount in Rs. Lakhs, unless otherwise stated)
+
+<
+
+Particulars
+
+Cash flow from operating activities
+Profit before tax
+Adjustments for:
+Depreciation and amortisation expense
+Employee share-based option expense
+Interest income
+
+Allowance for doubtful debts - trade receivables (Net)
+Allowance for doubtful debts - contract assets (Net)
+Amortisation of mines
+
+Half-year ended
+
+Half-year ended
+
+September 30, 2026
+
+September
+30, 2025
+
+(Unaudited)
+
+(Unaudited)
+
+7.261.47
+
+9.970.51
+
+9.085.15
+
+9,638.34
+
+49.79
+
+(35.91)
+
+(60.33)
+(180.70)
+s
+
+(94.43)
+(4.69)
+(626.94)
+
+s
+
+288.00
+
+Gain on redemption of mutual funds
+Liabilities/provisions no longer required written back
+
+(987.13)
+
+(90.28)
+
+(38.43)
+
+(8.40)
+
+Government grant income
+Unrealised gain on fair valuation of mutual funds through profit and loss
+Bad debts written off
+Finance costs
+
+(281.00)
+(118.54)
+
+-
+
+(Gain) on property, plant and equipment sold / scrapped (Net)
+
+Net unrealised foreign exchange loss
+Impairment loss /(reversal) on capital work-in-progress
+
+Operating profit before working capital changes
+
+226.92
+
+509.88
+
+1,869.21
+(137.98)
+
+1,777.53
+(2.10)
+
+257.41
+(0.60)
+27,845.24
+
+3.685.18
+23,006.69
+
+Changes in operating assets and liabilities
+(Increase) in inventories
+
+(8,989.32)
+
+(2,833.63)
+
+(Increase) in trade receivables
+
+(4.280.03)
+
+(12,624.42)
+
+Decrease / (Increase) in other financial assets - current
+
+132.73
+
+(143.70)
+
+(Increase) / Decrease in other current assets
+
+(151.46)
+
+672.64
+
+Decrease / (Increase) in contract assets
+
+82.34
+
+(9,476.61)
+
+Decrease in other financial assets - non-current
+
+65.94
+15.28
+
+13.22
+12.12
+
+Decrease in other non-current assets
+(Decrease) / Increase in trade payables
+
+(3,304.31)
+
+9,747.99
+
+Increase / (Decrease) in other financial liabilities - current
+
+1,219.97
+
+(2,827.76)
+
+Increase in provisions
+
+536.48
+
+173.74
+
+(Decrease) in other liabilities - non current
+
+(19.46)
+
+(19.52)
+
+1,228.43
+
+250.68
+
+(830.01)
+13.551-82
+
+145.58
+8,097.02
+
+Increase in contract liabilities
+
+(Decrease) / Increase in other current liabilities
+Cash generated from operations
+Income tax paid (Net)
+
+(3,681.06)
+
+(2,068.87)
+
+Net cash inflow from operating activities (A)
+
+9,870.76
+
+6,028.15
+
+. Cash flows from investing activities
+Investment in National saving certificate
+
+2
+
+(0.12)
+(1,304.22)
+
+Payment for acquisition of business (Net)
+(5,182.68)
+
+(4,853.26)
+
+(3,839.08)
+367.02
+74.09
+
+(6,101.37)
+
+(200,689.98)
+
+(99,995.00)
+
+189.890.33
+(19,380.30)
+
+(11,964.40)
+
+Proceeds from issue of equity shares from NCI (including security premium)
+Proceeds from current borrowings (excluding supplier finance arrangement)
+
+961.96
+1,053.84
+
+3.706.66
+
+Proceeds received under a supplier finance arrangement
+
+31,051.18
+
+-
+
+Repayment of current borrowings (excluding supplier finance arrangement)
+
+(2,452.97)
+
+(3.600.15)
+
+Repayments under a supplier finance arrangement
+Principal pavment of lease liabilities
+
+(29,771.77)
+
+-
+
+(232.94)
+
+(181.13)
+
+Interest pavment of lease liabilities
+
+(201.11)
+
+(205.33)
+
+(Loss) realised on derivative contracts
+
+(654.75)
+(659.41)
+
+”
+(911.05)
+
+(9035.97)
+
+(1,191.00)
+
+(10.413.51)
+
+(7.127.25)
+
+(Increase) in other bank balances
+Capital expenditure on property, plant and equipment and intangible assets
+Proceeds from sale of property, plant and equipment and intangible assets
+Interest received
+Payments for purchase of investments (current)
+Proceeds from sale of investments (current)
+
+Net cash (outflow) from investing activities (B)
+
+149.75
+100,085.28
+
+Cash flows from financing activities
+
+Interest paid
+Net cash (outflow) from financing activities (C)
+Net (decrease) in cash and cash equivalents (A+B+C)
+Cash and cash equivalents at the beginning of the vear
+
+Cash and cash equivalents at the end of the period
+
+5,757-11
+15,75
+
+9.674.80
+
+5.:34 1.60
+
+2.547.55
+
+
+Notes to Consolidated Fina
+ncial
+
+Results:
+
+L The above Consalidated Fina
+ncial Results have heen revi
+ewed by the Audit Committe
+e and approved by the Boar
+2. These Consolidated Financia
+d of Directors at their meetings
+l Results have been prepared
+held on November 13, 2006
+in accordance with recognit
+Section 193 of the Companie
+ion and measurement principl
+s Act, 2013 read with Rule
+3 af the Companies (Indian
+es
+laid
+dow
+n
+in
+the
+Indi
+an Accounting Standard 44
+Accounting Standard) Rules,
+3. During the quarter and
+"Interim Financial Reportin
+2015 as amended and other
+haif year ended September
+g” (“Ind AS 34"), prescribed
+accounting principles generall
+30, 2026, RHI Magnesita Indi
+under
+y aceepted in India.
+Khemka Minpro Private
+a Limited (the ‘Company' /
+Lunited 'Ry KMPL) on
+July 16, 2026 to undertak
+‘Hol
+ding
+Comp
+control under Ind AS 110
+any’
+) jotatly with Khenika Refr
+e mineral processing activ
+"Consolidated Finaneia
+actories Private Limited ('Kh
+ities. The Company hold
+) Statements", the investen
+s a 51% equity stuke, with
+emka') incorporated a new
+t made in Rf ITKMPL has
+Khemka holding the
+entity named RH1
+4. The
+been
+
+remaining 49% stake in
+considered as investment
+Consolidated Financial
+RHIKM PL. Basis evaluati
+Results mctude financial
+in subsidiary.
+on of criteria of
+results of the Company
+referred to as “the Group".
+and its subsidiaries viz.
+The Company does not
+R1] Magnesita India Refr
+have any assoctate and joint
+actories Limiped CRHIMI
+venture during the quar
+RL), Ashwath Technolo
+ter and half-year ended
+5 Parswant o an arder date
+gies Private Limited (‘As
+September 30, 2026,
+d August 17, 2026, issued
+hwath’) gnd RHIKMPL,
+by the Regional Director, Mini
+together
+Company”), wholly owne
+stry of Corporate Affairs, Navi
+d subsidiary of the Hold
+ing Company, with Ashw
+Mumb
+ai,
+appointed date is April o1, 2026
+the
+sche
+ath Technologies Private
+me of Amalgamation (“the
+, and the Scheme has heeome
+Limited (“Transferee Comp
+Sche
+me”) of Intermetal Engineer
+any”), wholly owned step
+effective from September 15,
+s (India) Private Limited (“I'r
+down subsidiary of the Hold
+2026, being the date of filin
+ansferor
+ing Company, has been
+g of the certified copy of the
+As bath the Transferor Com
+approved. As per the Sche
+order with the Registrar of Comp
+pany and the Transferee
+me, the
+anies,
+Company were wholly owne
+themerger has no effect
+d subsidiaries under the
+ati the Consolidated Finan
+Company's control, their
+cial Results.
+financial results were alre
+ady included in the Consolid
+ated Financial Results befo
+6. buring the year ended
+March 31, 2026, the Grou
+re the merger. As a resul
+t,
+p on the hasis of evalving
+55,624.03 Takhs towards
+market conditions and geopo
+the carrying value of its
+litical developments asse
+goodwill and disclosed the
+ssed
+the future business proj
+same as an exceptional item.
+ections of RHIMIRI. and
+had recognised 2 provisio
+7. The Group is primanly enga
+n for impairment of Rs.
+ged in the business of manufact
+uring refractories and monolith
+pertormance, there are ng
+repartable segments in
+ics. Based on the information
+accordatice with the requ
+reported to the chief operatin
+irement of Indian Accounti
+g decision maker (CODM] for
+ng Standard (Ind AS) 108
+8. bividend
+the purpose of resource alloc
+on ‘Operating Segment Repo
+of Rs. 2.50 per equity share
+ation and assessment of
+rting' notified under the
+(250% an equity shares of par
+Companies {(Indian Acco
+value of Re. 1 per share) has
+unting Standurd) Rules,
+been approved by the sharehol
+2015,
+ders of the Hald
+
+ing Company in the Annual
+
+General Meeting held on Sept
+
+Fora
+
+RHI
+
+ember 29, 2026,
+
+on behalf
+of the Board of
+
+Place: Gurugram
+Date: November 13,2020
+
+Di rectors of
+
+gnesita India Limited
+
+Pankaj Malhau
+
+-
+
+.
+
+Managing Divector & CEO
+(DIN - 08516185)
+
+
+|
+
+|
+
+RHI MAGNESITA INDIA LIMITED
+
+CIN : L28uu3MH2010PLC312871
+Regd. Office : Unit N6.705, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East), Mumbai, Maharashtra - Jooo42
+Phone No : +91-22-66000600; Fax No : +91-22-66090601
+Email : corporate.india@rhimagnesita.com ; Website : www.rhimagnesitaindia.com
+Extract of Standalone and Consolidated Financial Results for the Quarter and Half-year ended September 30, 2026
+(All amount in Rs. Lakhs,
+
+Particulars
+
+Standalone
+Quarter ended
+Half-year ended
+Quarter ended
+September 30, 2026 | September 30, 2026 | September 30, 2025 |
+(Unaudited)
+
+Revenue from operations
+
+Net profit for the period c}n‘
+(I)ef:u-c tax and ex'ccptiu{l)al item#)
+
+9,657.08
+
+Exceptional item #
+;l *l'( fit/(loss)
+
+(Unaudited)
+
+87.815.11
+
+(Unaudited)
+
+174,160.36
+
+20,142.88
+
+for
+
+the
+
+criod/year
+
+sq,:’io;m|/I(I:::: Nondiact
+
+(e
+
+ft
+
+s
+
+tax
+
+i
+
+and
+
+otherwise stated)
+
+unl
+
+Consolidated
+Year ended
+Quarter ended
+Half-year ended
+Quarter ended
+March 31, 2026 | September 30, 2026 | September 30, 2026 | September 30, 2025|
+(Audited)
+
+86,212.85
+
+335,658.78
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+Year ended
+March 31, 2026
+(Audited)
+
+103,029.23
+
+204,425.97
+
+103,535.65]
+
+401,994.50
+
+5,177.53
+
+23,646.73
+
+5,559.86
+
+26,056.79
+
+8,520.64
+
+R
+17,261.47
+
+-
+
+66,092.10
+
+-
+
+-
+
+-
+
+55,624.03
+
+7,097.42
+
+14,916.16
+
+4.120.34
+
+(46,768.59)
+
+6,209.73
+
+12,670.51
+
+3,834.57
+
+(38,293.78)
+
+Total aimprelwnsi\'e Income/(Loss) for the period/year
+[Comprising Profit/(Loss) for the period/year (after tax) and
+Other Comprehensive Income (after tax)]
+
+7,052.49
+
+14,826.31
+
+4,121.71
+
+(46,931.95)’
+
+6,156.07
+
+12,563.19
+
+3,826.46
+
+(38,487.61)
+
+::l::':)\:lln‘:.:.‘:ul:;'.-il:ﬂ i
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+2,065.01
+
+Res r\“cs (excluding Re\alualiun Reserve) as shown in the
+Audited Balance Sheet
+Basic and Diluted earnings/(loss)
+r
+equity share (Face
+value of Re. 1 each share) “l:;{) ##
+s
+
+2,065.01
+
+Rebd
+353,219.67
+3-43
+
+7:2%
+
+K00
+
+(22.65)
+
+o
+353,979.68
+e
+
+f:id
+
+185
+
+(18.54)
+
+es to financial results:
+ges under gulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. The full format of the quarterly financial results is available on
+The above is an extract of the detailed format of quarterly financial results filed with the stock excl
+the Stock Exchange websites: www.bseindia.com and www.nseindia.com, and on the Company's website: www.rhimagnesitaindia.com. The same can be accessed by scanning the QR code provided below.
+# Exception item adjusted in the Statement of Profit and Loss in accordance with Ind-AS Rules.
+## EPS is not annualised for the quarters ended September 30, 2026, September 30, 2025 and half year ended September 30, 2026.
+Dividend of Rs. 2.50 per equity share (250% on equity shares of par value of Re. 1 per share) has been approved by the shareholders of the Company in the Annual General Meeting held on September 29, 2026
+
+.
+.
+
+e Gurugram
+
+Pankaj Malhan
+Managing Director & CEO
+
+e: November a3, 2026
+
+{DIN - 08510185)
+
+

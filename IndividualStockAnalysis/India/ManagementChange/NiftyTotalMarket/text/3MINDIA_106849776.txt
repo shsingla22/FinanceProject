@@ -1,0 +1,1622 @@
+--- CIM_1158_WebXMLFile_20261106_124355884_2.xml (the exchange's structured disclosure) ---
+NSESymbol: 3MINDIA ; Name Of The Company: 3M INDIA LIMITED ; Scrip Code: 523395 ; MSEISymbol: NA ; ISIN: INE470A01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-06 ; Start Time Of Board Meeting: 11:15:00 ; End Time Of Board Meeting: 12:20:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Remarks For Website Dissemination: Cessation as director in 3M India Limited from the close of India business hours on 6th November 2026 ; Date Of Report: 2026-11-06 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Kong Sau Wai Elizabeth ; Effective Date Of Reason Of Change: 2026-11-06 ; Type Of Change: Appointment ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Chun Hao Lok ; Effective Date Of Reason Of Change: 2026-11-07 ; Term Of Appointment In Months: 60 ; Brief Profile: Mr. Chun Hao Lok is Vice President of Asia Operations and Singapore Country Governance Leader, he joined 3M in July 2025. He has over 25 years working experience in USA and European multi-national companies. In his last role as Global VP for Supply Chain and Operations for Huntsman Textile Effects / Archroma, he was managing 23 factories globally. Mr. Chun Hao has held several senior leadership roles in Akzo Nobel and Flextronics. With expertise in Supply Chain Management and operations. Mr. Chun Hao holds a Masters (Hons) in Electrical and Electronics Engineering, INSEAD Supply Chain Management and APICS Certified Supply Chain Professional (CSCP). ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Chuan Hao is not related to any of the Directors of the Company ; Salutation: Ms. ; Name Of The Person: Kong Sau Wai Elizabeth ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-20 ; Effective Date Of Resignation: 2026-11-06 ; Reason Of Resignation In Brief: As she has decided to pursue professional opportunities outside 3M
+
+--- CIMG_523395_06112026124240_1.pdf ---
+3M India Limited
+5th Floor Marksquare
+61, St Marks Road
+Bengaluru 560001, India
+Tel: +91 80 22231414
+www.3M.com/in
+
+Corporate Relationship Department
+BSE Limited
+1st Floor, New Trading Ring, Rotunda Building
+P.J. Towers, Dalal Street, Fort
+Mumbai - 400 001
+
+November 6, 2026
+
+Scrip Code - 523395
+
+The Secretary
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra – Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+Scrip Code – 3MINDIA
+
+Dear Sirs,
+Sub: Outcome of the Board Meeting held on November 6, 2026.
+Ref: Reg. 30(2) and Reg. 33 of SEBI (LODR) Regulations, 2015.
+In continuation of our letter dated October 14, 2026, we hereby inform you that the Board of Directors of
+the Company at its Meeting held on November 6, 2026 (Friday) has transacted the following business items
+inter-alia others:
+1. The Un-audited Financial Results for the quarter and half year ended September 30, 2026 were
+approved by the Board of Directors and were signed by Mr. Jayanand Kaginalkar, Whole time Director
+of the Company; same are attached as “Annexure-1”.
+We are arranging publication of financial results in the newspapers and on the website of the
+Company as required under Reg. 33 read with 47 of SEBI (LODR) Regulations, 2015.
+2. The Limited Review Report by the Statutory Auditors on the Un-audited Financial Results is attached
+herewith as “Annexure-2”.
+3. 3. The Board of Directors, based on the recommendation of the Nomination and Remuneration
+Committee, has:
+(a) Appointed Mr. Chun Hao Lok (DIN: 12029181) as an Additional Director of the Company,
+categorized as a Non-Executive, Non-Independent Director, with effect from November 7, 2026.
+(b) Taken note of the resignation of Ms. Kong Sau Wai Elizabeth (DIN: 10879418) as a Director of the
+Company, categorized as a Non-Executive, Non-Independent Director, with effect from November 6,
+2026, as she has decided to pursue professional opportunities outside 3M.
+The relevant details in terms of SEBI (LODR) Regulations, 2015 is enclosed as “Annexure-3”
+
+Regd Office: Plot No 48-51
+Electronics City, Bengaluru 560100, India
+CIN No: L31300KA1987PLC013543
+Email: investorhelpdesk.in@mmm.com
+
+
+4. Approved the commencement of a Postal Ballot process to seek shareholder approval for the
+appointment of Mr. Chun Hao Lok (DIN:12029181) as Director of the Company.
+5. In view of the induction of new Director and the resignation of Ms. Elizabeth Kong, the Board
+reconstructed the Committees of the Board as under effective November 7, 2026.
+(A)
+1)
+2)
+3)
+
+Audit Committee
+Mr. NV Sivakumar
+Mr. MD Ranganath
+Mr. Chua Hao Lok
+
+(C)
+1)
+2)
+3)
+4)
+5)
+
+Risk Management Committee
+Mr. NV Sivakumar (Chair) Chairman
+Ms. Kavita Nair
+Member
+Mr. Aseem Joshi
+Member
+Mr. Jayanand K
+Member
+Mr. Chua Hao Lok
+Member
+
+Chairman
+Member
+Member
+
+(B)
+1)
+2)
+3)
+
+Stakeholders Relationship Committee
+Mr. MD Ranganath
+Chairman
+Mr. Aseem Joshi
+Member
+Mr. Chua Hao Lok
+Member
+
+6. Press Release is enclosed as - “Annexure 4”.
+The Meeting commenced at 11.15 A.M.(IST) and concluded at 12.20 P.M.(IST).
+Please take all the above on record and kindly treat this as compliance with Regulations 30 and 33 of
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+Thanking you
+Yours faithfully
+For 3M India Limited
+
+Pratap Rudra Bhuvanagiri
+Company Secretary & Compliance Officer
+Encl: as above
+
+
+Annexure-1
+
+3M
+3M INDIA LIMITED
+REGISTERED OFFICE: PLOT NO. 48-51, ELECTRONICS CITY, HOSUR ROAD, BENGALURU - 560100
+CIN:L31300KA1987PLC01 3543 1 WEBSITE: WWW.3M.COM/IN I MAI : INVESTORHELPDESK. IN@MMM COM
+EXTRACT OF THE STATEMENT OF UNAUDITED FINANCIAL RESULTS FORTHE QUARTER AND SIX MONTHS PERIOD ENDED 30 SEPTEMBER 202$
+{Rs. in Crores, except per share data, unless otherwise stated)
+
+Particulars
+
+Total income from operations {including other income)
+Net Profit for the period (before tax, Exceptional and / or Extraordinary items)
+Net Profit for the period before tax (after Exceptional and / or Extraordinary items)
+Net (Loss) / Profit for the period after tax
+Total comprehensive (loss) 1 income for the period [Comprising Profit / (Loss) for the period (after tax)
+and other comprehensive income/ (loss) (after tax)]
+Equity share capital
+Reserves (excluding revaluation reserves) as shown in the Audited Balance Sheet
+Earnings per share (in Rs.) (of Rs. 1 0/- each)
+a) Basic (in Rs.)
+b) Diluted (in Rs.)
+
+3 months period ended
+30 September 2026
+(Unaudited)
+
+6 months period ended
+30 September 2026
+(Unaudited)
+
+3 months period ended
+30 September 2025
+(Unaudited)
+
+12 months period ended
+31 March 2026
+(Audited)
+
+1,463.66
+212.32
+212.32
+158.48
+
+2,898.51
+441.35
+514.48
+391.55
+
+1,278.81
+250.81
+250.81
+191.34
+
+5,138.50
+928.36
+894.03
+522.32
+
+158.41
+
+391.41
+
+190.14
+
+522.07
+
+11.27
+
+11.27
+
+11.27
+
+11.27
+1,756.88
+
+140.68
+140.68
+
+347.58
+347.58
+
+169.85
+169.85
+
+463.66
+463.66
+
+Notas:
+1 . The above Statement of Unaudited Financial Results of 3M India Limited ("the Company") which includes Statement of Unaudited Financial Results for the quarter and six months perod ended 30 September 2026,
+including the Unaudited Statement of Assets and Liabilities as at 30 September 2026 and the Unaudited Statement of Cash Flows for the six months period ended 30 September 2026, together with notes thereon
+(“Statement of Unaudited Financial Results") have been reviewed by the Audit Committee and thereafter approved by the Board of Directors and taken on record at their respective meetings held on 06 November 2026.
+2. The a neve Statement of Unaudited Financial Results has been prepared m accordance with the recognition and measurement principles laid down in Ind AS 34 "Interim Financial Reporting" under Section 133 of the
+Companies Act, 2013, and other accounting principles generally accepted in India, read with the relevant rules issued thereunder and m terms of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended ("ListingRegulations, 2015").
+3. The above is an extract of the detailed format for the unaudited financial results for the quarter and six months period ended 30 September 2026 filed with the Stock Exchanges under Regulation 33 of the SEBI (Listing
+and Other Disclosure Requirements) Regulations, 2015. The full format for the unaudited financial results for the quarter and six months ended 30 September 2026 are available on the Stock Exchange websites viz.
+www.bseindia.com, www.nseindia.com and on the Company's website (https://www.3mindia.in/3M/en_fN/company-in/about-3m/financial-facts-local/). The same can be accessed by scanning the QR code provided
+below.
+
+For and on behalf of the Board
+
+QRCODE
+
+Place: Bengaluru
+Date: 06 November 2026
+
+Registered Office. Plot No 48-51, Electronics City, Hosur Road, Bengaluru *560100
+www.3m.com/in
+
+
+3M INDIA LIMITED
+Sth Floor Marksquare
+61, St Marks Road
+Bengaluru 560001
+
+India
+Tele: +91 30 2223 1414
+CIN No.: L31300KA1987PLC013543
+
+3M INDIA LIMITED
+REGISTERED OFFICE: PLOT NO. 48-51, ELECTRONICS CITY, HOSUR ROAD, BENGALURU 560 100
+STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS PERIOD ENDED 30 SEPTEMBER 2026
+
+Rs. in Crores (except in respect of per share data)
+3 months period
+ended
+
+6 months period
+
+6 months period
+
+ended
+
+3 months period
+ended
+
+ended
+
+ended
+
+30 September 2026
+{Unaudited)
+
+30 June 2026
+(Unaudited)
+
+30 September 2025
+
+30 September 2026
+(Unaudited)
+
+30 September 2025
+(Unaudited)
+
+12 months period
+ended
+31 March 2026
+(Audited)
+
+2,875.70
+22.81
+2,898.51
+
+2,462.46
+
+5,089.76
+
+3 months period
+
+SI Particulars
+
+No
+
+1 Income
+(a) Revenue from operations
+(b) Other income
+Total income
+2 Expenses
+(a) Cost of materials consumed
+(b) Purchases of stock-in-trade
+(c) Changes in inventories of finished goods, stock-in-trade and work-in-progress
+(d) Employee benefit expenses
+(e) Finance costs
+(f) Depreciation and amortisation expense
+(g) Other expenses
+Total expenses
+3 Profit before exceptional items and tax (1-2)
+4 Exceptional items (income) / expenses
+(a) Labour code impact
+(b) Sale of land (refer note 5)
+Total exceptional items
+5 Profit before tax (3-4)
+6 Tax expense:
+(a) Current tax
+(b) Deferred tax (credit) / charge
+Total
+7 Profit after tax (5-6)
+8 Other comprehensive income/(loss) (net of tax) Items that will not be reclassified subsequently to statement of profit and loss
+(a) Remeasurements of net defined benefit liability/ (asset)
+(b) Income tax relating to items not to be reclassified subsequently to statement of
+profit and loss
+Total other comprehensive income/(loss) (net of tax)
+9 Total comprehensive income (7+8)
+10 Paid up equity share capital (face value of Rs.10 each)
+11 Reserves (excluding revaluation reserves) as shown in the Audited Balance Sheet
+12 Earnings per share (in Rs.)
+(face value of Rs. 1 0 each) (not annualised for the quarters)
+
+(Unaudited)
+
+1,452.49
+
+1,423.21
+
+1,266.49
+
+11.17
+
+11.64
+
+12.32
+
+1,463.66
+
+1,434.85
+
+1,278.81
+
+526.12
+377.55
+(1 33)
+127.38
+4.27
+17.6i
+
+549.76
+390.25
+(65.05)
+
+439.84
+
+136.71
+3.98
+
+16.68
+
+266.45
+(1-10)
+120.92
+
+2.32
+
+27.30
+
+48.74
+
+2,489.76
+
+5,138.50
+
+871.32
+
+1,790.68
+
+2,457.16
+
+525.22
+(12.51)
+239.00
+4.46
+30.23
+341.84
+1,999.56
+
+441.35
+
+490.20
+
+1,224.41
+(81.77)
+48 \72
+43.50
+62.64
+688.96
+4,210.14
+928.36
+
+1,075.88
+767.80
+(66.38)
+264.09
+8.25
+34.29
+373.23
+
+229.03
+
+15.04
+184.53
+1,028.00
+250.81
+
+•
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(73.13)
+
+-
+
+-
+
+(73.13)
+302.16
+
+-
+
+(73.13)
+(73.13)
+514.48
+
+-
+
+34.33
+
+490.20
+
+894.03
+
+125.76
+(2.83)
+122.93
+
+121.18
+
+391.55
+
+369.02
+
+(3.22)
+0.81
+
+199.74
+
+173.49
+
+1,251.34
+212.32
+
+1,205.82
+
+212.32
+
+250.81
+
+55.50
+(1.66)
+
+70.26
+(1-17)
+
+60.46
+(0.99)
+
+53.84
+
+69.09
+233.07
+
+59.47
+191.34
+
+(0.09)
+0.02
+
+(1.6i)
+0.41
+
+(0.18)
+
+(0.07)
+233.00
+
+(1.20)
+190.14
+11.27
+
+(0.14)
+391.41
+
+347.58
+347.58
+
+158.48
+
+(0.09)
+
+0.02
+(0.07)
+158.41
+11.27
+
+11.27
+
+(a) Basic
+
+140.68
+
+206.90
+
+169.85
+
+(b) Diluted
+
+140.68
+
+206.90
+
+169.85
+
+0.04
+
+11.27
+
+34.33
+
+122.84
+
+374.24
+
+(1-66)
+
+(2.53)
+371.71
+522.32
+
+(2.41)
+366.61
+11.27
+
+(0.34)
+
+0.09
+(0.25)
+
+522.07
+11.27
+1,756.88
+
+327.58
+
+463.66
+
+327.58
+
+463.66
+
+Notes:
+1 The above Statement of Unaudited Financial Results of 3M India Limited ("the Company”) which includes Statement of Unaudited Financial Results for the quarter and six months period ended 30 September 2026, including the
+Unaudited Statement of Assets and Liabilities as at 30 September 2026 and the Unaudited Statement of Cash Flows for the six months period ended 30 September 2026, together with notes thereon (“Statement of Unaudited
+Financial Results") have been reviewed by the Audit Committee and thereafter approved by the Board of Directors and taken on record at their respective meetings held on 06 November 2026.
+
+2 The above Statement of Unaudited Financial Results have been reviewed by the Statutory Auditors and they have issued an unmodified review opinion on the same. The review report of the Statutory Auditors is being filed with
+National Stock Exchange of India Limited ("NSE") and BSE Limited (''BSE”) and is also available on the Company's website at https://www.3mindia.in/3M/en IN/company-in/about-3m/financial-facts-local/.
+3 The above Statement of Unaudited Financial Results has been prepared in accordance with the recognition and measurement principles laid down in Indian Accounting Standard 34 " nterim Financial Reporting” (“Ind AS 34”)under
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India, read with the relevant rules issued thereunder and in terms of the Securities and Exchange Board of India (Listing Obligations
+
+and Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations, 2015”).
+4 The Company has no subsidiary/ associate/ joint venture company(ies) for all the periods presented above.
+
+5 Exceptional item for the 3 months period ended 30 June 2026 and six months period ended 30 September 2026 represent gain (net of cost of asset and related expenses) on sale of land located at Pimpri, Pune, pursuant to a
+conveyance deed executed on 29 June 2026 for a totalconsideration of Rs. 82.00 crores.
+6 During the quarter ended 30 September 2026, pursuant to the approval of the shareholders at the Annual General Meeting held on 26 August 2026, the Company paid a dividend of Rs. 506 per equity share of face value Rs. 1 0 each,
+comprising of final dividend of Rs. 1 60 per equity share and a special dividend of Rs. 346 per equity share, for the financial year ended 31 March 2026.
+
+7 The Company's annual financial statements for the year ended 31 March 2026, were presented in Rs. crores Accordingly, the comparative figures for the corresponding 3 months period ended and 6 months period ended 30
+September 2025, which were presented in Rs. lakhs, have been rounded off to Rs. crores for comparative purposes. The change in presentation has no impact on the unaudited financial results (including segment disclosure) or
+financial position or cash flows of the Company.
+8 Subsequent to 30 September 2026, the Board of Directors of the Company, on 26 October 2026, approved the key commercial terms for proposed amendments to certain agreements relating to the Company's health care
+
+business. Under the proposed amendments, subject to satisfaction of the agreed conditions, certain rights and obligations relating to specified products will be terminated, for which the Company will receive a one-time
+compensation of US$13 million from Thermo Fisher Scientific Inc. and/or its nominated affiliate. The same has been considered as a non-adjusting event after the reporting period. Accordingly, no adjustment has been made to the
+
+unaudited financial results for the 3 months period ended and 6 months period ended 30 September 2026.
+9 Refer subsequent page fordisclosure of unaudited segment wise revenue, results, assetsand liabilities for the quarter and six months period ended 30 September 2026.
+
+Registered Office: Plot No. 48-51, Electronics City, Hosur Road, Bengaluru - 560100
+
+www.3m.com/in
+
+
+3M INDIA LIMITED
+5th Floor Marksquare
+61, St Marks Road
+
+Bengaluru 560001
+India
+Tele: +91 80 22231414
+CIN No.: L31300KA1987PLC013543
+
+3M INDIA LIMITED
+REGISTERED OFFICE: PLOT NO. 48-51, ELECTRONICS CITY, HOSUR ROAD, BENGALURU 560 100
+UNAUDITED SEGMENT-WISE REVENUE, RESULTS, ASSETSAND LIABILITIES FOR THE QUARTER AND SIX MONTHS PERIOD ENDED 30 SEPTEMBER 2026
+(Rs. in Crores)
+
+Particulars
+
+Segment revenue
+(a) Safety & Industrial
+(b) Transportation & Electronics
+(c) Health Care
+(d) Consumer
+(e) Others
+Revenue from operations
+1
+1
+
+3 months period
+ended
+
+3 months period
+ended
+
+3 months period
+
+30 September 2026
+
+30 June 2026
+
+(Unaudited)
+
+(Unaudited)
+
+30 September 2025
+(Unaudited)
+
+30 September 2026 30 September 2025
+(Unaudited)
+
+(Unaudited)
+
+ended
+
+31 March 2026
+(Audited)
+
+917.64
+
+782.79
+
+434.89
+
+874.93
+
+278.00
+170.84
+
+507.40
+
+147.96
+
+14.73
+1,452.49
+
+9.57
+1,423.21
+
+142.96
+17.10
+1,266.49
+
+1,039.97
+574.99
+318.80
+24.30
+2,875.70
+
+23.86
+2,462.46
+
+1,640.04
+1,845.54
+1,016.58
+537.24
+50.36
+5,089.76
+
+266.93
+
+273.48
+
+31.24
+
+69.82
+
+68.21
+
+101.06
+
+130.74
+
+257.57
+
+76.72
+60.22
+
+67.72
+
+144.44
+
+173.41
+
+347.79
+
+119.14
+
+109.68
+
+29.44
+
+23.13
+
+83.43
+59.70
+24.06
+
+52.57
+
+47.03
+
+5.41
+
+9.58
+
+6.50
+
+240.81
+
+426.79
+8.25
+22.81
+(73.13)
+514.48
+
+467.36
+4.46
+27.30
+
+209.82
+94.11
+13.83
+923.12
+43.50
+48.74
+34.33
+894.03
+
+607.89
+658.17
+
+7.80
+205.42
+4.27
+11.17
+
+212.32
+
+Segment assets
+(a) Safety & Industrial
+(b) Transportation & Electronics
+(c) Health Care
+(d) Consumer
+(e) Unallocated segment assets
+Total segment assets
+Segment liabilities
+(a) Safety & Industrial
+(b) Transportations Electronics
+(c) Health Care
+(d) Consumer
+(e) Unallocated segment liabilities
+
+324.35
+149.49
+74.39
+537.76
+
+Total segment liabilities
+
+12 months period
+
+404.61
+
+536.61
+
+Total
+Less: Finance costs
+Add: Other income
+Add / Less: Exceptional item (income) / expenses
+Profit before tax
+
+6 months period
+ended
+
+465.33
+503.36
+296.99
+
+452.31
+
+Segment results
+(a) Safety & Industrial
+(b) Transportation & Electronics
+(c) Health Care
+(d) Consumer
+(e) Others
+
+ended
+
+6 months period
+ended
+
+660.52
+844.28
+
+58.92
+1.78
+221.37
+3.98
+11.64
+(73.13)
+302.16
+
+2.32
+
+12.32
+-
+
+250.81
+
+-
+
+490.20
+
+713.66
+
+607.89
+658.17
+
+660.52
+844.28
+
+321.36
+
+1,296.98
+3,294.44
+
+182.44
+981.71
+2,976.38
+
+139.48
+
+981.71
+2,976.38
+
+321.36
+139.48
+931.18
+2,658.08
+
+307.43
+
+182.44
+
+813.40
+306.84
+163.56
+
+300.06
+
+278.15
+270.84
+
+224.56
+214.45
+
+300.06
+324.35
+
+162.68
+57.75
+
+125.80
+57.63
+425.22
+1,047.66
+
+307.43
+
+1,386.05
+
+523.51
+1,292.93
+
+668.72
+
+931.18
+2,658.08
+
+834.27
+324.06
+147.67
+1,162.53
+3,137.25
+
+149.49
+74.39
+
+224.56
+214.45
+125.80
+57.63
+
+287.85
+311.66
+156.05
+64.06
+
+537.76
+1,386.05
+
+425.22
+1,047.66
+
+549.48
+1,369.10
+
+Notes:
+
+1. The assets and liabilities are allocable to the extent they are identifiable to the respective segments. AU the others are grouped under ’Unallocated'.
+2. Segment Reporting in the above financial results is based on the "management approach" as defined in Ind AS 108 - Operating segments, the Chief Operating Decision Maker evaluates the
+Company’s performance and allocates resources based on an analysis of various performance indicators by business segments. Accordingly, information has been presented along these
+business segments. The accounting principles used in the preparation of these above financial results are consistently applied to record revenue and expenditure in individual segments.
+3. Unallocated segment assets primarily comprise cash and cash equivalents, income tax assets (net) and other corporate assets, while unallocated liabilities primarily comprise of lease
+liabilities, provisions and other corporate liabilities, which are not directly attributable to the reportable segments.
+For and on behalf of the Board
+3M India Limited
+
+Jay a
+
+Place: Bengaluru
+Date: 06 November 2026
+
+nalkar
+
+Whq(e-timepirector
+
+Registered Office: Plot No. 48-51, Electronics City, Hosur Road, Bengaluru -560100
+
+www.3m.com/in
+
+
+3M INDIA LIMITED
+5th Floor Marksquare
+61, St Marks Road
+Bengaluru 560001
+India
+Tele: +91 80 22231414
+CIN No.: L31300KA1987PLC013543
+
+3M INDIA LIMITED
+REGD OFFICE : 48-51, ELECTRONICS CITY, HOSUR ROAD, BENGALURU 560 100
+UNAUDITED STATEMENT OF ASSETS AND LIABILITIES
+
+Rs. in Crores
+
+Particulars
+
+As at
+30 September 2026
+(Unaudited)
+
+ASSETS
+Non-current assets
+(a) Property, plant and equipment
+(b) Right - of - use assets
+(c) Capital work - in - progress
+(d) Other intangible assets
+(e) Financial assets
+(i) Loans
+(ii) Other financial assets
+(f) Deferred tax assets (net)
+(g) Income tax assets (net)
+(h) Other non - current assets
+Total non - current assets
+
+Current assets
+(a) Inventories
+(b) Financial assets
+(i) Trade receivables
+(ii) Cash and cash equivalents
+(iii) Bank balances other than (ii) above
+
+As at
+31 March 2026
+(Audited)
+
+335.55
+171.67
+15.52
+1.21
+
+320.24
+162.96
+13.81
+1.40
+
+0.13
+11.41
+25.12
+26.61
+40.84
+628.06
+
+0.12
+10.11
+22.25
+19.06
+44.92
+594.87
+
+801 .46
+
+822.96
+
+874.21
+597.33
+6.59
+0.34
+
+(iv) Loans
+(v) Other financial assets
+(c) Other current assets
+(d) Asset held for sale
+Total current assets
+
+2,348.32
+
+838.60
+812.14
+5.64
+0.36
+2.09
+52.98
+7.61
+2,542.38
+
+Total assets
+
+2,976.38
+
+3,137.25
+
+4.00
+64.39
+-
+
+EQUITY AND LIABILITIES
+Equity
+(a) Equity share capital
+(b) Other equity
+Total equity
+
+11.27
+
+11.27
+
+1,579.06
+1,590.33
+
+1,756.88
+1,768.15
+
+170.41
+53.49
+223.90
+
+159.22
+44.85
+204.07
+
+13.97
+
+10.53
+
+86.22
+734.20
+91.01
+54.95
+82.97
+105.15
+
+Total liabilities
+
+59.39
+789.83
+119.14
+51.12
+83.45
+45.25
+1,162.15
+1,386.05
+
+1,369.10
+
+Total equity and liabilities
+
+2,976.38
+
+3,137.25
+
+Liabilities
+Non- current liabilities
+(a) Financial liabilities
+(i) Lease liabilities
+(b) Provisions
+Total non - current liabilities
+Current liabilities
+(a) Financial liabilities
+(i) Lease liabilities
+(ii) Trade payables
+- Total outstanding dues of micro and small enterprises
+- Total outstanding dues of creditors other than micro and small enterprises
+(iii) Other financial liabilities
+(b) Other current liabilities
+(c) Provisions
+(d) Current tax liabilities (net)
+Total current liabilities
+
+1,165.03
+
+LI
+Registered Office: Plot No. 48-51, Electronics City, Hosur Road, Bengaluru - 560001
+www.3m.com/in
+
+
+3M INDIA LIMITED
+5th Floor Marksquare
+61, St Marks Road
+Bengaluru 560001
+India
+Tele: +91 80 22231414
+CIN No.: L31300KA1987PLC013543
+
+3M INDIA LIMITED
+REGISTERED OFFICE: 48-51, ELECTRONICS CITY, HOSUR ROAD, BENGALURU 560 100
+UNAUDITED STATEMENT OF CASH FLOWS
+Rs. in Crores
+Six months period ended
+30 September 2026 30 September 2025
+(Unaudited)
+(Unaudited)
+
+Particulars
+
+Cash flow from operating activities
+Profit before tax
+Adjustments for:
+Depreciation and amortisation expense
+(Reversal) / allowance for doubtful trade receivables (net)
+Liabilities no longer required written back (net)
+Share based payments, equity settled
+Unrealised exchange loss/ (gain) on foreign currency transactions (net)
+(Gain) / loss on disposal and write off of property, plant and equipment (net)
+Interest income
+Finance costs
+Movements in working capital:
+Increase / (decrease) in trade payables
+Increase / (decrease) in provisions
+(Decrease) 1 increase in other financial liabilities and other liabilities
+(Increase) / decrease in trade receivables
+(Increase) / decrease in inventories
+(Increase) / decrease in loans, other financial assets, other current and non current assets
+Cash generated from operating activities
+Income tax paid (net of refund)
+Net cash generated from operating activities (A)
+Cash flow from investing activities
+Purchase of property, plant and equipment and intangible assets including capital work - in - progress
+Proceeds from sale of property, plant and equipment
+
+Interest received
+Net cash generated from investing activities (B)
+
+514.48
+
+490.21
+
+34.29
+1.63
+
+30.23
+(0.15)
+
+(0.20)
+
+0.78
+1.23
+(73.52)
+(22.01)
+
+8.25
+464.93
+27.74
+8.95
+22.31
+(37.20)
+21.50
+(15.13)
+
+493.10
+(193.23)
+
+299.87
+
+(34.26)
+
+81.01
+22.00
+68.75
+
+1.34
+(0.70)
+(26.51)
+4.46
+
+498.88
+(133.91)
+
+11.54
+0.55
+21.19
+2.59
+17.41
+418.25
+(136.07)
+282.18
+
+(16.12)
+1.24
+
+26.51
+11.63
+
+Cash flow from financing activities
+Payment of lease liability (including interest thereon)
+Dividends paid
+Net cash (used in) financing activities (C)
+
+(13.42)
+(570.01)
+(583.43)
+
+(10.29)
+(602.68)
+(612.97)
+
+Net decrease in cash and cash equivalents (A+B+C)
+Cash and cash equivalents at the beginning of the year
+Cash and cash equivalents at the end of the year
+
+(214.81)
+812.14
+597.33
+
+(319.16)
+932.78
+613.62
+
+27.51
+569.82
+597.33
+
+29.80
+583.82
+613.62
+
+Cash and cash equivalents comprise of :
+Balances with banks:
+- in current accounts
+- deposits accounts (original maturity of three months or less)
+
+Registered Office: Plot No. 48-51, Electronics City, Hosur Road, Bengaluru - 560001
+
+www.3m.com/in
+
+
+Annexure-2
+
+Price Waterhouse & Co Chartered Accountants LLP
+Review Report
+To
+The Board of Directors
+3M India Limited
+Plot Nos. 48-51,
+Electronics City, Hosur Road,
+Bengaluru - 560 100
+1.
+
+We have reviewed the unaudited financial results of 3M India Limited (the “Company”)
+for the quarter ended 30 September 2026 and the year to date results for the period 1
+April 2026 to 30 September 2026, and the Unaudited Statement of Assets and
+Liabilities as on that date and the Unaudited Statement of Cash Flows for the half-year
+ended on that date which are included in the accompanying “Statement of Unaudited
+Financial Results for the quarter and six months period ended 30 September 2026”
+(the “Statement”). The Statement has been prepared by the Company pursuant to
+Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 20 15, as amended (the “Listing Regulations,
+2015”), which has been initialled by us for identification purposes.
+
+2. This Statement, which is the responsibility of the Company’s Management and
+approved by the Board of Directors, has been prepared in accordance with the
+recognition and measurement principles laid down in Indian Accounting Standard 34
+“Interim Financial Reporting” (“ Ind AS 34”) , prescribed under Section 133 of the
+Companies Act, 20 13, and other accounting principles generally accepted in India. Our
+responsibility is to express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410 “Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity”, issued by the Institute of Chartered Accountants of
+India. This Standard requires that we plan and perform the review to obtain moderate
+assurance as to whether the Statement is free of material misstatement. A review of
+interim financial information consists of making inquiries, primarily of persons
+responsible for financial and accounting matters, and applying analytical and other
+review procedures . A review is substantially less in scope than an audit conducted in
+accordance with Standards on Auditing and consequently does not enable us to obtain
+assurance that we would become aware of all significant matters that might be
+identified in an audit. Accordingly, we do not express an audit opinion .
+4.
+
+Based on our review conducted as above, nothing has come to our attention that causes
+us to believe that the Statement has not been prepared in all material respects in
+accordance with the recognition and measurement principles laid down in the aforesaid
+Indian Accounting Standard and other accounting principles generally accepted in
+India and has not disclosed the information required to be disclosed in terms of
+Regulation 33 of the Listing Regulations, 2015 including the manner in which it is to be
+disclosed, or that it contains any material misstatement.
+
+Price Waterhouse & Co Chartered Accountants LLP, 5th Floor, Tower ‘D’, The Millenia, 1 & 2 Murphy Road, Ulsoor
+Bengaluru - 560 008
+T:+ 91 (80) 40794188
+Registered office and Head offi ce : Plot No. 56 & 57, Block DN , Sector-V, Salt Lake. Kolkata - 700 09 1
+Price Waterhouse & Co. (a Partnership Firm) co nverted i nto Price Waterhouse & C o Chartered Ac countant s L LP (a Lim ited Liability Partnershi p with LLP identity no:
+LLPIN AAC-4 362) with effec t from July 7, 2014. Post its convers ion to Price Waterhouse & Co Charte red Accountant s LLP , its ICAI registratio n number is
+3O402 6E/E3O0 00 9 (I CAI registrat io n n u m ber before con vers io n was 30402 6E)
+
+
+Price Waterhouse & Co Chartered Accountants LLP
+
+5. (a) The financial results of the Company for the quarters ended 30 June 2026 and 30
+September 2025 and the year to date results for the period 1 April 2025 to 30
+September 2025 were reviewed by another firm of Chartered Accountants who issued
+their unmodified conclusion, vide their reports dated 14 August 2026 and 3 November
+2025, respectively.
+
+(b) The financial statements of the Company for the year ended 31 March 2026 were
+audited by another firm of Chartered Accountants, who issued an unmodified opinion
+vide their report dated 22 May 2026.
+
+Our conclusion is not modified in respect of these matters.
+For Price Waterhouse & Co Chartered Accountants LLP
+Firm Registration Number: 304026E/E300009
+
+0 '
+
+Place: Bengaluru
+Date: 6 November 2026
+
+Prasanna Padar Mahabala
+Partner
+Membership Number: 206477
+UDIN: 262O6477OKGIRH7313
+
+.
+
+
+“Annexure 3”
+Details as required in terms of SEBI Master Circular No. SEBI/HO/49/14/14(7)2025-CFDPOD2/l/3762/2026
+dated January 30, 2026:
+Sl. Particulars
+Details
+Details
+1 Name & DIN
+Mr. Chun Hao Lok
+Ms. Kong Sau Wai Elizabeth
+(DIN:12029181)
+(DIN: 10879418)
+2 Reason for Change viz.
+Appointment as an Additional Director, Resignation as Director of the
+appointment, recategorized as Non-Executive and Non- Company with effect from
+appointment, resignation,
+Independent Director of the Company November 6, 2026. Letter of
+removal, death or
+with effect from November 7, 2026.
+resignation is attached. The reason
+otherwise
+for resignation is as disclosed in the
+letter.
+3 Date of appointment /
+November 7, 2026
+November 6, 2026
+cessation / Term of
+Appointment
+Cessation
+Appointment
+4 Brief profile (in case of
+Mr. Chun Hao Lok is Vice President of Asia Not Applicable
+appointment)
+Operations and Singapore Country
+Governance Leader, he joined 3M in July
+2025. He has over 25 years working
+experience in USA and European multinational companies. In his last role as
+Global VP for Supply Chain and
+Operations for Huntsman Textile Effects /
+Archroma, he was managing 23 factories
+globally. Mr. Chun Hao has held several
+senior leadership roles in Akzo Nobel and
+Flextronics. With expertise in Supply
+Chain Management and operations.
+Mr. Chun Hao holds a Masters (Hons) in
+Electrical and Electronics Engineering,
+INSEAD Supply Chain Management and
+APICS Certified Supply Chain Professional
+(CSCP).
+5 Disclosure of relationship
+Mr. Chuan Hao is not related to any of the Not Applicable
+between Directors (in case
+Directors of the Company
+of appointment)
+6 Confirmation in compliance Not debarred from holding the office of
+Not Applicable
+with SEBI Letter dated June Non-Executive and Non-Independent
+14, 2018 read along with
+Director of the Company, by virtue of any
+Exchange Circular dated
+SEBI order or any other authority.
+June 20, 2018
+7 Shareholding, if any in the
+Nil
+Nil
+Company.
+
+
+“Annexure 4”
+
+3M India Limited
+5th Floor Marksquare
+61, St Marks Road
+Bengaluru 560001, India
+Tel: +91 80 22231414
+www.3M.com/in
+
+Bengaluru, November 6, 2026
+Press Release
+3M India Limited (the Company) held a meeting of its Board of Directors on November 6, 2026 and is
+pleased to announce the following highlights of results for the quarter ended September 30, 2026.
+- The Company registered revenue growth in Q2 FY26 of 14.7% on a YoY basis.
+- PBT declined by 15.3% on a YoY basis.
+- All Businesses segments: Safety and Industrial, Transportation & Electronics, Health Care and
+Consumer registered revenue growth on a YoY basis.
+Financial Results: (Rs. Crores)- YoY (vs prior year)
+Particulars
+Sales & Other Operating Income
+Other Income
+EBITDA
+PBT
+PAT
+
+(Note: all figures are rounded off to nearest digit)
+
+July - Sept 2026
+1,452
+11
+234
+212
+158
+
+July - Sept 2025
+1,266
+12
+268
+251
+191
+
+% Growth
+14.7%
+-9.3%
+-12.7%
+-15.3%
+-17.2%
+
+April-June 2026
+1,423
+12
+250
+229
+302
+233
+
+% Growth
+2.1%
+-4.0%
+-6.2%
+-7.3%
+-29.7%
+-32.0%
+
+Financial Results: (Rs. Crores)- QoQ (vs prior quarter)
+Particulars
+Sales & Other Operating Income
+Other Income
+EBITDA
+PBT before exceptional items
+PBT after exceptional items
+PAT
+
+July - Sept 2026
+1,452
+11
+234
+212
+212
+158
+
+Commenting on the financial results for current quarter, and half year ended September 30, 2026
+Mr. Aseem Joshi, Managing Director of 3M India Limited, said “The Company delivered 14.7% sales
+growth in the second quarter versus Q2 of the prior year and delivered broad-based growth across
+business segments. For the quarter, Transportation & Electronics grew by 23.4%, Consumer
+segments by 19.5%, Safety & Industrial by 11.8% and Healthcare by 4.1% versus prior year.
+We are encouraged with the continued Sales growth momentum in Q2 FY 26-27, driven by our
+continued focus on Commercial and Innovation excellence. The Company’s profit after tax for Q2
+FY 26-27 declined by 17.2% to INR 158 crores versus prior year, primarily due to the impact of
+Indian Rupee depreciation and the input cost inflation due to the Middle East crisis. I thank our
+teams for their disciplined execution during the quarter, and for maintaining a strong customer
+focus.”
+
+Regd Office: Plot No 48-51,
+Electronics City, Bengaluru 560100
+CIN No: L31300KA1987PLC013543
+
+
+In October 2026, the Company approved amendments extending its healthcare distribution
+relationship with Solventum until March 31, 2031, subject to the provisions set forth in the
+agreement, and facilitating the transition of the rights to distribute the Purification & Filtration (P&F)
+portfolio previously acquired by Thermo Fisher in India from the scope of such distribution
+relationship to Thermo Fisher, subject to agreed closing conditions.
+Commenting on the development, Mr. Aseem Joshi, Managing Director, 3M India Limited, said
+“The extended term reflects our successful ongoing commercial relationship with Solventum and
+provides a platform for the continued growth and focus on the healthcare product portfolio in
+India.”
+-------
+
+About 3M in India,
+3M India Limited, an Indian Subsidiary of US based 3M Company, was established in 1987 and has its headquarters in Bengaluru with branch offices at
+Gurgaon. 3M leverages its global innovation expertise to develop homegrown solutions that addresses unique needs of diverse customers in India. 3M has
+invested in Innovation centers at Bengaluru and Gurgaon to boost local product development. Its manufacturing footprint is spread across Bengaluru, Pune,
+and Ahmedabad. From products that improve manufacturing efficiency and impact, improved healthcare delivery, to safety solutions that help increase road
+visibility, everyday kitchen aids and car care products, today, 3M science is improving the lives of millions of Indians.
+Learn how we’re working to improve lives and make what’s next at 3m.com/news-center.
+
+
+October 20, 2026
+To,
+The Board of Directors
+3M India Limited
+CIN: L31300KA1987PLC013543
+Plot No.48-51, Electronic City, Hosur Road
+Bangalore - 560 100
+Subject: Resignation from the Board of Directors of 3M India Limited.
+I am writing to inform you of my decision to resign from the position of Non-Executive Director
+of 3M India Limited from the close of India business hours on November 6, 2026, as I will soon
+be moving on to another professional opportunity outside the 3M Group.
+Consequently, I will also step down from all the Committees of the Board of which I am a
+member, effective the said date.
+I request that this resignation be placed before and noted by the Board of Directors at the
+meeting scheduled on November 6, 2026.
+It was a great pleasure working with you all. I thank the Directors and the Management of the
+Company for all the support extended to me during my tenure.
+I wish 3M India Limited continued success in the years ahead.
+Thanking you,
+
+Kong Sau Wai Elizabeth
+Non-Executive Director
+DIN: 10879418
+Place: Singapore
+
+

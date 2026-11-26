@@ -1,0 +1,166 @@
+--- CIM_2281_WebXMLFile_20260930_212944899_2.xml (the exchange's structured disclosure) ---
+NSESymbol: IIFL ; Name Of The Company: IIFL Finance Limited ; Scrip Code: 532636 ; MSEISymbol: NOTLISTED ; ISIN: INE530B01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-30 ; Time Of Occurrence Of Event Or Information: 14:57:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Remarks For Website Dissemination: The term of appointment of Mr. Anubhav Rajput as Chief Technology Officer has been indicated as '0.00' since he is an employee of the Company and is not appointed for any fixed tenure or term of employment. ; Date Of Report: 2026-09-30 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Technology Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Gaurav Sharma ; Effective Date Of Reason Of Change: 2026-09-30 ; Type Of Change: Appointment ; Name Of Designated Person: Anubhav Rajput ; Effective Date Of Reason Of Change: 2026-10-01 ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Anubhav Rajput is a seasoned technology leader with over 26 years of experience across India, the Middle East, and Europe. He has extensive expertise in strategic IT transformation, digital transformation, cloud computing, advanced analytics, machine learning, and AI-driven business transformation, primarily within the banking and financial services sector. Mr. Rajput holds a degree in Computer Engineering and an MBA with specializations in Information Management and Finance and advanced technology leadership courses from MIT. Prior to joining IIFL Finance, he served as the Chief Information Officer (CIO) and Chief Technology Officer (CTO) at PNB Housing Finance, where he led the organization's end-to-end technology strategy and operations. He has also held the position of CIO at Cholamandalam MS General Insurance and Niva Bupa Health Insurance. ; Salutation: Mr. ; Name Of The Person: Gaurav Sharma ; Designation Of Person: Chief Technology Officer ; Date On Which The Resignation Letter Was Received: 2026-09-30 ; Effective Date Of Resignation: 2026-09-30 ; Reason Of Resignation In Brief: To explore new opportunities
+
+--- SE_Intimation_Change_in_Mgt_1.pdf ---
+September 30, 2026
+The Manager,
+Listing Department,
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai 400 001.
+BSE Scrip Code: 532636
+
+The Manager,
+Listing Department,
+The National Stock Exchange of India Limited,
+Exchange Plaza, 5th Floor, Plot C/1, G Block,
+Bandra - Kurla Complex, Bandra (E),
+Mumbai 400 051.
+NSE Symbol: IIFL
+
+Subject: Change in Senior Management Personnel of the Company
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, we wish to inform that, based on the recommendation
+of the Nomination and Remuneration Committee, the Board of Directors approved the appointment
+of Mr. Anubhav Rajput as the Chief Technology Officer and Senior Management Personnel of the
+Company w.e.f. October 1, 2026, consequent to the resignation of Mr. Gaurav Sharma, Chief
+Technology Officer of the Company, effective September 30, 2026, close of business hours.
+The details pursuant to Regulation 30 of the SEBI Listing Regulations read with SEBI Master Circular
+No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, are provided in the
+Annexures.
+Kindly take the same on record and oblige.
+Thanking you,
+For IIFL Finance Limited
+signed by
+SAMRAT Digitally
+SAMRAT SANYAL
+Date: 2026.09.30
+SANYAL 21:16:45 +05'30'
+___________________
+
+Samrat Sanyal
+Company Secretary & Compliance Officer
+ACS-13863
+Email Id: csteam@iifl.com
+Place: Mumbai
+Encl: as above
+CC:
+India International Exchange (IFSC) Limited
+1st Floor, Unit No. 101, The Signature,
+Building No. 13B, Road 1C, Zone 1, GIFT SEZ,
+GIFT City, Gandhinagar, Gujarat – 382050
+
+NSE IFSC Limited
+Unit-1201, 12th Floor, Brigade International Financial Centre, Block-14, Road 1C,
+Zone-1, GIFT SEZ, GIFT City, Gandhinagar,
+Gujarat – 382355
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hub Town Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000. Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604 Tel: (91-22)
+41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+Annexure A
+Details as required under Regulation 30 read with Schedule III of the Listing Regulations and SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Appointment of Mr. Anubhav Rajput as Chief Technology Officer
+Sr. No.
+a.
+b.
+c.
+
+Particulars
+Reason for change viz. appointment, reappointment, resignation, removal,
+death or otherwise
+Date of appointment/ re-appointment/
+cessation (as applicable) & term of
+appointment/ re-appointment
+Brief profile (in case of appointment)
+
+Details
+Appointment
+October 1, 2026
+Mr. Anubhav Rajput is a seasoned technology
+leader with over 26 years of experience across
+India, the Middle East, and Europe. He has
+extensive
+expertise
+in
+strategic
+IT
+transformation, digital transformation, cloud
+computing, advanced analytics, machine
+learning,
+and
+AI-driven
+business
+transformation, primarily within the banking
+and financial services sector.
+Mr. Rajput holds a degree in Computer
+Engineering and an MBA with specializations
+in Information Management and Finance and
+advanced technology leadership courses from
+MIT.
+Prior to joining IIFL Finance, he served as the
+Chief Information Officer (CIO) and Chief
+Technology Officer (CTO) at PNB Housing
+Finance, where he led the organization's endto-end technology strategy and operations. He
+has also held the position of CIO at
+Cholamandalam MS General Insurance and
+Niva Bupa Health Insurance.
+
+d.
+
+Disclosure of relationships between
+directors (in case of appointment of a Not Applicable
+director)
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hub Town Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000. Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604 Tel: (91-22)
+41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+Annexure B
+Details as required under Regulation 30 read with Schedule III of the Listing Regulations and SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Resignation of Mr. Gaurav Sharma as Chief Technology Officer
+Sr. No.
+a.
+b.
+c.
+d.
+
+Particulars
+Reason for change viz. appointment, reappointment, resignation, removal,
+death or otherwise
+Date of appointment/ re-appointment/
+cessation (as applicable) & term of
+appointment/ re-appointment
+Brief profile (in case of appointment)
+Disclosure of relationships between
+directors (in case of appointment of a
+director)
+
+Details
+To explore new opportunities
+September 30, 2026, close of business hours
+Not Applicable
+Not Applicable
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hub Town Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000. Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604 Tel: (91-22)
+41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+

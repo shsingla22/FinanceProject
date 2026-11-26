@@ -1,0 +1,1042 @@
+--- CIM_1202_WebXMLFile_20260824_210407322_1.xml (the exchange's structured disclosure) ---
+NSESymbol: HEG ; Name Of The Company: HEG Limited ; Scrip Code: 509631 ; MSEISymbol: NOTLISTED ; ISIN: INE545A01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-24 ; Start Time Of Board Meeting: 13:30:00 ; End Time Of Board Meeting: 16:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 35 ; Date Of Report: 2026-08-24 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Manish Sharma ; Effective Date Of Reason Of Change: 2026-09-01 ; Term Of Appointment In Months: 60 ; Brief Profile: Shri Manish Sharma holds graduate degree from Bhilai Institute of Technology. He is the founder of a thought leadership platform — Exploverse to support the Indian business community and engage with the Government to drive the agenda of Viksit Bharat. He has served as Chairman and Enterprise Growth Officer of Panasonic Life Solutions India & South Asia since 2018. During his career of three decades, he has held several leadership positions in various electronic majors like LG, Samsung India and Haier India. His innate understanding of the industry landscape and consumer behaviour catapulted his role from engineering and research assignments to leading strategic product and business planning. Manish actively drives the electronics industry agenda and holds multiple leadership positions with the industry body — FICCI and is part of several Govt appointed committees. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Manish Sharma is not related to any of the Directors of the Company ; Name Of Designated Person: Pushp Jain ; Brief Profile: Shri Pushp Jain is Commerce Graduate from University of Delhi, he holds MBA with specialization in Finance and Marketing from the University of Southern California, Los Angeles, U.S.A. He also completed a Certificate Course in Managerial Finance and Capital Markets from Harvard University, U.S.A. After completing his education, he joined the family business, KLJ Group. He is responsible for the overall management of the Group's chemicals manufacturing business. In addition, he is a Trustee of the Terapanth Professional Forum and the Akhil Bhartiya Anuvrat Vyas. He also serves as a Member of the Board of Sumermal Jain Public School, New Delhi. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Pushp Jain is not related to any of the Directors of the Company ; Name Of Designated Person: Sanjeev Mehra ; Brief Profile: Shri Sanjeev Mehra holds a degree in B. Tech. (Electrical Engineering) and P.G. Diploma in Business Administration. He is a seasoned power sector professional with plentiful experience in managing big companies in power sector ranging across power trading, power project companies, power transmission etc. He has vast experience of more than 40 years in power sector. He was Managing Director at Tata Power Trading Company Ltd. from September 2011 till November 2019 and thereafter held position of Director (Governmental and Regulatory Affairs) in Statkraft India Private Ltd. and Managing Director of Statkraft Markets till 1st November, 2024. He is also Independent Director of Malana Power Company Limited and AD Hydro Power Limited. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Sanjeev Mehra is not related to any of the Directors of the Company ; Name Of Designated Person: Ameya Suresh Prabhu ; Brief Profile: Shri Ameya Prabhu is the Managing Director of Aarna Holdings, the Founder and CEO of NAFA Capital & a Partner in UAP Advisors LLP. He has been designated as a Young Global Leader by the World Economic Forum. He is also the Co-Chairman of Confederation of Indian Industries (CII), International. He holds BSc. Degree in Economics, Politics and International Studies from the University of Warwick, MSc. in Financial Management from IE Business School, Madrid and has been Awarded a certificate of completion for the Global Leadership and Public Policy ,21st Century Program in April 2022, John F. Kennedy School of Government at Harvard University, Executive Education. He is the Former President of the Indian Chamber of Commerce (ICC) and the Author of The Rock Babas and other stories. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Ameya Suresh Prabhu is not related to any of the Directors of the Company ; Name Of Designated Person: Rajiv Dewan ; Brief Profile: Shri Rajiv Dewan is a Fellow Member of the Institute of Chartered Accountants of India and is a practicing Chartered Accountant. He possesses four decades of rich and varied experience in Tax Planning, Management Consultancy, Business Restructuring, Capital Market Operations, SEBI-related Matters and other corporate laws. Prior to starting his own practice, Shri Dewan worked in senior positions in renowned textile companies. He is also Independent Director on the Board of Mrs. Bector Food Specialities Limited and Non-Executive Director of Trident Limited in addition to other unlisted entity. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Rajiv Dewan is not related to any of the Directors of the Company ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Name Of Designated Person: Om Prakash Ajmera ; Term Of Appointment In Months: 0 ; Brief Profile: Shri Om Prakash Ajmera is a Fellow member of The Institute of Chartered Accountants of India and also Associate member of The Institute of Company Secretaries of India. He is seasoned professional and has rich experience in restructuring, corporate finance, merger & acquisition. He has been associated with LNJ Bhilwara Group for more than four decades and was involved in various business segments of the Group namely, Petroleum, Sponge Iron, Waste Heat to power generation, Telecom. Currently, Shri Ajmera is heading the hydro power business of the Group in the capacity of Executive Director, CEO & CFO of Malana Power Company Ltd, Director and CFO of AD Hydro Power Limited and also holding directorship in various companies. He also continues to be the Group CFO of the Company. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Om Prakash Ajmera is not related to any of the Directors of the Company ; Name Of Designated Person: Yash Kela ; Brief Profile: Shri Yash Kela holds a Bachelor's Degree in Engineering (IT) from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (2013). Shri Yash Kela is an entrepreneur and investment professional with over a decade of experience in investment management, alternative assets, venture capital, and financial services. He is the Founder of Singularity Green Private Limited, Singularity Ventures Private Limited, Singularity Furniture Private Limited (Arnivae) and serves as the Founder & Managing Partner of Singularity AMC LLP. Under his leadership, Singularity acts as the Investment Manager for Category II and Category III Alternative Investment Funds (AIFs), managing cumulative assets of over ₹3,000 crore. Shri Kela has extensive expertise in investment management, venture investing, alternative assets, corporate strategy, risk management, and fund management, making him a seasoned leader in the Indian investment ecosystem. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Shri Yash Kela is not related to any of the Directors of the Company. ; Type Of Change: Change in designation ; Previous Designation Of Designated Person: Chairman Managing Director and CEO ; Name Of Designated Person: Ravi Jhunjhunwala ; Designation Of Designated Person: Executive Director ; Previous Designation Of Designated Person: Vice-Chairman (Non Executive) ; Position Of Director In Board Two: Chairperson related to Promoter ; Position Of Director In Board Three: CEO-MD ; Name Of Designated Person: Riju Jhunjhunwala ; Type Of Change: Cessation ; Category Of Cessation: Cessation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary ; Name Of Designated Person: Vivek Chaudhary ; Remarks For Change In Management: Cessation of Shri Vivek Chaudhary as Company Secretary & Compliance Officer of the Company consequent upon transfer of his employment to HEG Graphite Limited pursuant to the effectiveness of the Composite Scheme of Arrangement. ; Designation Of Designated Person: Chief Financial Officer ; Name Of Designated Person: Ravi Kant Tripathi ; Remarks For Change In Management: Cessation of Shri Ravi Kant Tripathi as Chief Financial Officer of the Company consequent upon transfer of his employment to HEG Graphite Limited pursuant to the effectiveness of the Composite Scheme of Arrangement. ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Neha Rajvanshi ; Brief Profile: Ms. Neha Rajvanshi is a Chartered Accountant with over 18 years of comprehensive experience across the Renewable Energy, Oil & Gas, and Infrastructure sectors. She holds a Master’s degree in Business Administration (MBA) from Amity University, along with Master’s and Bachelor’s degrees in Commerce. Additionally, she has completed a Management Program at the Indian Institute of Management (IIM), Lucknow. Ms. Rajvanshi joined Bhilwara Energy Limited (Transferor Company) in April 2026 as Senior Vice President – Finance and was subsequently elevated to President – Finance. Prior to her role at Bhilwara Energy Limited, she served as the Chief Financial Officer (CFO) at Serentica Renewables, where she spearheaded capital structuring, debt/equity fund-raising, and strategic financial planning for multi-billion-dollar clean energy projects. She has also held leadership positions at Azure Power and Bharat Petroleum Corporation Limited (BPCL) ; Name Of Designated Person: Ravi Gupta ; Brief Profile: Mr Ravi Gupta is a commerce graduate from Delhi University, Fellow member of Institute of Company Secretaries of India and also holds law degree from Delhi University. He is a seasoned professional with experience of more than 25 years in the fields of banking, finance, accounts, legal and secretarial. He worked in various capacity in different industry. He is actively involved in new ventures including funds raising, debt financing, acquisition, divestment, negotiation of contracts etc. He was working in Senior Position as Company Secretary in Bhilwara Energy Limited (“Transferor Company”) since July, 2009. ; Category Of Cessation: Resignation ; Name Of Designated Person: Jayant Davar ; Name Of Designated Person: Priya Shankar Dasgupta ; Name Of Designated Person: Nand Gopal Khaitan ; Name Of Designated Person: Sandip Somany ; Name Of Designated Person: Kamal Gupta ; Name Of Designated Person: Shekhar Agarwal ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Vice President – Operations / R&D / Design / EHS ; Name Of Designated Person: Jasvinder Singh Khosla ; Remarks For Change In Management: The cessation is consequent upon transfer of his employment to HEG Graphite Limited pursuant to the Composite Scheme of Arrangement and does not constitute resignation ; Designation Of Designated Person: Vice President Maintenance & Power ; Name Of Designated Person: Atul Laxman Moghe ; Designation Of Designated Person: General Manager- Commercial ; Name Of Designated Person: Prasant Kumar Jha ; Designation Of Designated Person: Sr. General Manager- IT ; Name Of Designated Person: Rajesh Jetha ; Designation Of Designated Person: General Manager HR & IR ; Name Of Designated Person: Axay Saxena ; Designation Of Designated Person: DY. General Manager- Marketing ; Name Of Designated Person: Madhur Sharma ; Designation Of Designated Person: Dy. General Manager- Technical ; Name Of Designated Person: Nagarajan T ; Designation Of Designated Person: General Manager Marketing ; Name Of Designated Person: Ashish Gaur ; Designation Of Designated Person: DGM- Maintenance & Power ; Name Of Designated Person: Tajender Bhatia ; Designation Of Designated Person: DGM- SCM ; Name Of Designated Person: Devendra Singh Lodhi ; Designation Of Designated Person: President- Corporate Affairs ; Name Of Designated Person: Karunesh Kumar Chaturvedi ; Brief Profile: Karunesh Chaturvedi is an accomplished leader in Corporate Affairs, holding an MBA in Marketing and Finance. With extensive expertise in corporate affairs, policy advocacy, and government relations, he drives strategic policy engagement and stakeholder alignment. His impressive corporate background includes key leadership roles at prominent organizations such as Welspun, Waaree, Vikram Solar, Avantha, and Pratibha Syntex. A seasoned industry expert, Shri Chaturvedi excels at bridging business objectives with regulatory frameworks, fostering vital public-private partnerships, and navigating complex institutional landscapes to secure sustainable long-term growth and market influence for his organizations. ; Designation Of Designated Person: President- Group CHRO ; Name Of Designated Person: Ranjan Sarkar ; Brief Profile: Shri Rajan Sarkar holds Master Degree in Personnel Management (MPM) / MBA in Human Resource Management from Symbiosis Institute of Business Management, Pune. Shri Sarkar is currently serving as the Group CHRO leading the overarching human resources strategy across five distinct and complex business sectors: Textiles, Graphite, Renewables (Hydro, Solar, Wind), Energy Storage & Lithium Batteries, and Advanced Carbon Materials. Prior to current leadership, he spent eight impactful years as President HR at Exide Industries Limited and also served nearly a decade as Vice President of HR at CEAT Tyres Limited ; Designation Of Designated Person: President- Brand Communication & Chief Sustainability Officer ; Name Of Designated Person: Indu Mehta ; Brief Profile: Ms. Indu Mehta is a seasoned international brand and corporate communications specialist, holding an MBA in International Marketing from the University of Leicester, and an alumna of the Indian Institute of Management (IIM) Calcutta and Indore, having completed their Advanced Strategic Management Programme, and the Advanced Programme in CSR and Sustainable Strategic Leadership, respectively. She brings more than three decades of corporate experience spanning a broad range of sectors, including manufacturing, hospitality, aviation, real estate and entertainment. She is recognised for her expertise in shaping strategic communication, cultivating stakeholder relationships and strengthening corporate reputation. In addition to her professional responsibilities, Ms. Mehta actively drives ESG initiatives across the LNJ Bhilwara Group of companies. ; Designation Of Designated Person: Sr. Vice President Head- Administration ; Name Of Designated Person: Jyoti Gupta ; Brief Profile: Ms. Jyoti Gupta is a Graduate from University of Kolkata. She has more than 30 years of experience in various sectors including administrative functions. She has also served as a Director at Institute of Integrated Learning Management. She is also Non-Executive Non-Independent Director on the Board of Malana Power Company Limited and AD Hydro Power Limited. ; Position Of Director In Board Three: WTD ; Name Of Designated Person: Manish Gulati ; Remarks For Change In Management: Cessation from the position of Executive Director consequent upon transfer of his employment to HEG Graphite Limited pursuant to the effectiveness of the Composite Scheme of Arrangement ; Designation Of Designated Person: Others ; Description Of Other Designation: Chief Strategy Officer ; Name Of Designated Person: Puneet Anand ; Remarks For Change In Management: Cessation of Shri Puneet Anand from Key Managerial Personnel of the Company which was designated by the Board. ; Salutation: Mr. ; Name Of The Person: Jayant Davar ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-24 ; Effective Date Of Resignation: 2026-09-01 ; Reason Of Resignation In Brief: Resignation is tendered solely to facilitate the proposed reconstitution of the Board following the effectiveness of the Scheme. ; Name Of The Person: Priya Shankar Dasgupta ; Date On Which The Resignation Letter Was Received: 2026-08-21 ; Name Of The Person: Nand Gopal Khaitan ; Name Of The Person: Sandip Somany ; Name Of The Person: Kamal Gupta ; Designation Of Person: Non - Executive Non -Independent Director ; Name Of The Person: Shekhar Agarwal ; Name Of Director: Jayant Davar ; Name Of The Company In Which Holding Directorship: HEG Limited ; Category Of Directorship: Independent Director ; Membership Of Board Committee: NRC, AC, SRC, CSR & ESG, Board Committee concerning Shares- Member ; Name Of The Company In Which Holding Directorship: Sandhar Technologies Limited ; Category Of Directorship: Whole-time Director ; Membership Of Board Committee: SRC, CSR Finance and Strategy Committee Share Transfer and Allotment Committee ; Name Of Director: Priya Shankar Dasgupta ; Membership Of Board Committee: Audit Committee- Member ; Name Of The Company In Which Holding Directorship: Vindhya Telelinks Limited ; Membership Of Board Committee: AC, NRC, RMC Committee of Independent Directors- Member ; Name Of Director: Nand Gopal Khaitan ; Membership Of Board Committee: AC, NRC, RMC ; Name Of The Company In Which Holding Directorship: Hindware Home Innovation Limited ; Membership Of Board Committee: AC, NRC, SRC, RMC Right Issue Committee Corporate Affairs Committee- ; Name Of The Company In Which Holding Directorship: JK Tyre & Industries Limited ; Membership Of Board Committee: Audit Committee, Chairman Nomination and Remuneration Committee, Member ; Name Of The Company In Which Holding Directorship: Mangalam Cement Ltd ; Category Of Directorship: Non-executive Non-Independent Director ; Membership Of Board Committee: AC, NRC, SRC, RMC, Investment Committee Internal Compliant Committee Share Transfer Committee ; Name Of Director: Sandip Somany ; Membership Of Board Committee: Stakeholders Relationship Committee- Member ; Name Of The Company In Which Holding Directorship: AGI Greenpac Limited ; Category Of Directorship: Managing Director ; Membership Of Board Committee: Risk Management Committee- Chairman, Corporate Social Responsibility Committee- Member ; Name Of The Company In Which Holding Directorship: JK Paper Limited ; Membership Of Board Committee: Stakeholders Relationship Committee- Chairman ; Name Of The Company In Which Holding Directorship: Indraprastha Medical Corporation Limited
+
+--- CIMG_509631_24082026210105_2.pdf ---
+HEG/SECTT/2026
+
+August 24, 2026
+
+To
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai - 400 001
+SCRIP CODE: 509631
+
+To
+Na onal Stock Exchange of India Limited
+Exchange Plaza, C-1, Block- G,
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051
+SYMBOL: HEG
+
+Outcome of Board Mee ng held on August 24, 2026
+Sub: Disclosures under Regula on 30, 42 and other applicable provisions of the Securi es and Exchange
+Board of India (Lis ng Obliga ons and Disclosure Requirements) Regula ons, 2015 (“Lis ng Regula ons”)
+Ref: Composite Scheme of Arrangement amongst HEG Limited (“Company”) and HEG Graphite Limited
+(“Resul ng Company”) and Bhilwara Energy Limited (“Transferor Company”) and their respec ve
+shareholders and creditors under Sec ons 230 to 232 and other applicable provisions of the Companies Act,
+2013 (“Scheme”)
+Dear Sir / Madam
+In furtherance to our le er dated August 18, 2026, thereby informing, that the Composite Scheme of
+Arrangement amongst HEG Limited (“Company” or “Demerged Company” or “Transferee Company”) and
+HEG Graphite Limited (“Resul ng Company”) and Bhilwara Energy Limited (“Transferor Company”) and their
+respec ve shareholders and creditors under Sec ons 230 to 232 and other applicable provisions of the
+Companies Act, 2013 (“Scheme”) has been sanc oned by the Na onal Company Law Tribunal, Indore Bench
+(“Tribunal") on August 13, 2026, this is to inform you that the Board of Directors of the Company ("Board"),
+at its mee ng held today i.e. August 24, 2026, has inter alia:
+1. Taken on record the cer ﬁed copy of the Order dated August 13, 2026 passed by the Hon’ble Na onal
+Company Law Tribunal, Indore Bench (“Tribunal") sanc oning the Scheme. Cer ﬁed copy of the
+Tribunal Order was received on August 21, 2026;
+2. Approved to make the Scheme eﬀec ve on Tuesday, September 01, 2026 (“Eﬀec ve Date”);
+3. In consulta on with the Resul ng Company, ﬁxed Monday, September 7, 2026, as the record date
+for determining the shareholders of the Company eligible to receive considera on pursuant to the
+Scheme (“Record Date”).
+Further, the considera on under the Scheme is as follows:
+a) For demerger, transfer and ves ng of the Demerged Undertaking (as deﬁned in the Scheme) from
+the Company into the Resul ng Company
+The Resul ng Company shall issue and allot to each shareholder of the Company as on Record
+Date, as under:
+1 (One) fully paid-up equity share of INR 2 (Indian Rupees Two only) each of the Resul ng
+Company, credited as fully paid up, for every 1 (One) equity share of INR 2 (Indian Rupees Two
+only) each of the Company.
+
+
+b) For amalgama on of the Transferor Company with the Company
+The Company shall issue and allot to each shareholder of the Transferor Company (except the
+Company itself) as on Eﬀec ve Date, as under:
+8 (Eight) fully paid-up equity shares of INR 2 (Indian Rupees Two only) each of the Company,
+credited as fully paid up, for every 7 (Seven) equity shares of INR 10 (Indian Rupees Ten only)
+each of the Transferor Company.
+4. Subsequent to the eﬀec veness of the Scheme and to ensure con nuity of the Graphite Business (as
+deﬁned in the Scheme), the Board based on the recommenda on from the Nomina on and
+Remunera on Commi ee and Audit Commi ee (as applicable), has approved/taken note of the
+following appointment and resigna ons;
+Sr. No.
+
+Name of the Directors/ KMP/SMP
+
+1.
+
+Shri Vivek Chaudhary
+
+2.
+
+Shri Ravi Kant Tripathi
+
+3.
+
+Ms. Neha Rajvanshi
+
+4.
+
+Shri Ravi Gupta
+
+Par culars of change with
+eﬀect from the Eﬀec ve Date
+i.e. September 01, 2026
+Cessa on as Company Secretary
+& Compliance Oﬃcer and Key
+Managerial Personnel of the
+Company consequent upon
+transfer of his employment to
+HEG Graphite Limited pursuant
+to the eﬀec veness of the
+Composite
+Scheme
+of
+Arrangement
+Cessa on as Chief Financial
+Oﬃcer and Key Managerial
+Personnel of the Company
+consequent upon transfer of his
+employment to HEG Graphite
+Limited
+pursuant to the
+eﬀec veness of the Composite
+Scheme of Arrangement
+Appointed as Chief Financial
+Oﬃcer and Key Managerial
+Personnel of the Company
+Appointed
+as
+Company
+Secretary & Compliance Oﬃcer
+and Key Managerial Personnel
+of the Company
+
+Ref. Annexure*
+
+Annexure A
+
+Annexure A
+
+Annexure B
+
+Annexure B
+
+
+5.
+
+Shri Ravi
+00060972)
+
+Jhunjhunwala
+
+6.
+
+Shri Riju Jhunjhunwala
+00061060)
+
+7.
+
+a) Shri Manish Sharma (DIN:
+06549914)
+b) Shri
+Pushp
+00033289)
+
+Jain
+
+c) Shri Sanjeev
+02626778)
+
+Mehra
+
+(DIN: Relinquishment from the oﬃce Annexure C
+of Chairman, Managing Director
+& Chief Execu ve Oﬃcer and
+Key Managerial Personnel of
+the Company consequent upon
+transfer of his employment/
+appointment as Chairman,
+Managing Director & Chief
+Execu ve Oﬃcer to/of HEG
+Graphite Limited pursuant to
+the eﬀec veness of the
+Composite
+Scheme
+of
+Arrangement i.e. September 1,
+2026 and con nue as the NonExecu ve Non Independent
+Director of the Company, liable
+to re re by rota on.
+(DIN: Elevated from Vice-Chairman Annexure C
+(Non-Execu ve) to Chairman,
+Managing Director & Chief
+Execu ve Oﬃcer and Key
+Managerial Personnel of the
+Company with eﬀect from
+September 1, 2026, up to
+August 31, 2031, subject to the
+approval of the shareholders of
+the Company
+Appointed
+as
+Addi onal Annexure D
+Directors in the category of
+Non-Execu ve
+Independent
+(DIN: Directors for ﬁrst term of 5 (ﬁve)
+consecu ve
+years
+from
+September 1, 2026 ll August
+(DIN:
+31, 2031, subject to the
+approval of the shareholders
+
+d) Shri Ameya Suresh Prabhu
+(DIN: 00629670)
+
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+e) Shri Rajiv Dewan (DIN:
+00007988)
+a) Shri Om Prakash Ajmera (DIN: Appointed
+as
+Addi onal Annexure E
+00322834)
+Directors in the category of
+Non-Execu ve
+Nonb) Shri Yash Kela (DIN: 06987721) Independent Directors, liable to
+re re by rota on, subject to the
+approval of the shareholders.
+a) Shri Jayant Davar (DIN: Resigna on as Independent Annexure F
+00100801)
+Directors of the Company solely
+to facilitate the proposed
+b) Shri Priya Shankar Dasgupta recons tu on of the Board
+(DIN: 00012552)
+following the eﬀec veness of
+the Scheme.
+c) Dr. Nand Gopal Khaitan (DIN:
+00020588)
+d) Shri Sandip
+00053597)
+
+Somany
+
+(DIN:
+
+a) Dr. Kamal
+00038490)
+
+Gupta
+
+(DIN:
+
+Resigna on as Non-Execu ve Annexure G
+Non-Independent
+Directors
+solely to facilitate the proposed
+b) Shri Shekhar Agarwal (DIN: recons tu on of the Board
+00066113)
+following the eﬀec veness of
+the Scheme.
+Shri Manish Gula (DIN: 08697512) Cessa on from the posi on of Annexure H
+Execu ve Director consequent
+upon
+transfer
+of
+his
+employment to HEG Graphite
+Limited pursuant to the
+eﬀec veness of the Composite
+Scheme of Arrangement.
+a) Shri
+Karunesh
+Kumar Appointed
+as
+Senior Annexure I
+Chaturvedi,
+(President
+- Management Personnel of the
+Corporate Aﬀairs)
+Company
+b) Shri Ranjan Sarkar (PresidentGroup CHRO)
+
+
+c) Ms. Indu Mehta, (PresidentBrand Communica on, PR &
+Chief Sustainability Oﬃcer)
+
+d) Ms. Jyo
+13.
+
+Gupta, (Sr. Vice
+President,
+Head
+Administra on)
+a) Shri Jasvinder Singh Khosla, Cessa on
+as
+Senior Annexure J
+Vice President – Opera ons / Management Personnel of the
+R&D / Design / EHS
+Company consequent upon
+transfer of their employment to
+b) Shri Atul Laxman Moghe, Vice
+HEG Graphite Limited pursuant
+President – Maintenance &
+to the eﬀec veness of the
+Power
+Composite
+Scheme
+of
+c) Shri Prasant Kumar Jha, Arrangement
+General
+Manager
+–
+Commercial
+d) Shri Rajesh Jetha, Sr. General
+Manager – IT
+e) Shri Axay Saxena, General
+Manager - HR & IR
+f) Shri Madhur Sharma, Dy.
+General Manager – Marke ng
+g) Shri Nagarajan T, Dy. General
+Manager – Technical
+h) Shri Ashish Gaur, General
+Manager – Marke ng
+i) Shri Tajender Bha a,
+General
+Manager
+Maintenance & Power
+
+Dy.
+-
+
+j) Shri Devendra Singh Lodhi, Dy.
+General Manager – SCM
+k) Puneet Anand- President and
+Group Chief Strategy Oﬃcer**
+
+
+14.
+
+Shri Puneet Anand
+
+Ceased from Key Managerial
+Personnel of the Company,
+which was designated by the
+Board.
+
+Annexure K
+
+* The details as required under Regula on 30 of the SEBI (LODR) Regula ons, 2015 read with SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 are
+enclosed as annexure.
+5. The Board of Directors of the Company have approved the recons tu on of the following Commi ees
+in compliance with applicable provisions of the SEBI (LODR) Regula ons, 2015 and Companies Act,
+2013 w.e.f. September 01, 2026 (date of eﬀec veness of the scheme):
+a. Audit Commi ee
+Sl. No.
+1.
+
+Name of the Members
+Shri Rajiv Dewan
+
+Designa on
+Chairman
+
+2.
+
+Smt. Ramni Nirula
+
+Member
+
+3.
+
+Shri Sanjeev Mehra
+
+Member
+
+4.
+
+Shri Pushp Jain
+
+Member
+
+5.
+
+Shri Om Prakash Ajmera
+
+Member
+
+b. Nomina on and Remunera on
+Sl. No.
+Name of the Members
+1
+Shri Pushp Jain
+
+Designa on
+Chairman
+
+2
+3
+
+Shri Ameya Suresh Prabhu
+Shri Rajiv Dewan
+
+Member
+Member
+
+4
+
+Shri Sanjeev Mehra
+
+Member
+
+5.
+
+Shri Om Prakash Ajmera
+
+Member
+
+c. Stakeholders Rela onship Commi ee
+Sl. No.
+1.
+2.
+3.
+
+Name of the Members
+Shri Om Prakash Ajmera
+
+Designa on
+Chairman
+
+Smt. Ramni Nirula
+
+Member
+Member
+
+Shri Riju Jhunjhunwala
+
+
+d. Risk Management Commi ee
+Sl. No.
+1.
+2.
+3.
+
+Name of the Members
+Shri Riju Jhunjhunwala
+Shri Rajiv Dewan
+Shri Yash Kela
+
+Designa on
+Chairman
+Member
+Member
+
+e. Corporate Social Responsibility & ESG Commi ee
+Sl. No.
+1.
+2.
+3.
+
+Name of the Members
+Shri Ravi Jhunjhunwala
+Shri Riju Jhunjhunwala
+Shri Sanjeev Mehra
+
+Designa on
+Chairman
+Member
+Member
+
+6. In compliance with Regula on 30(5) of Lis ng Regula ons, the Board of Directors of Company have
+authorized the following Key Managerial Personnel of the Company for the purpose of determining
+materiality of an event or informa on in line with the Lis ng Regula ons w.e.f September 01, 2026
+(date of eﬀec veness of the scheme):
+Sr. No.
+Name of the KMP
+Par culars of change
+1.
+a) Shri Riju Jhunjhunwala,
+In compliance with Regula on 30 of the
+Chairman, Managing Director & Lis ng Regula ons Authorized as Key
+Chief Execu ve Oﬃcer
+Managerial Personnel of the Company for
+the purpose of determining materiality of
+b) Shri Ravi Gupta,
+an event or informa on
+Company Secretary & Compliance
+Oﬃcer
+c) Ms. Neha Rajvanshi,
+Chief Financial Oﬃcer
+Contact Details
+Bhilwara Towers,
+A-12, Sector 1 Noida- 201301
+U ar Pradesh, India
+Phone Number: +91 (0120) 4390300
+Fax: +91 (0120) 4277841
+E-mail: heg.investor@Injbhilwara.com
+Further, all Key Managerial Personnel, whose contact details are the same as men oned, are severally
+authorised for the purpose of submi ng disclosures/ dissemina on of such material informa on to
+Stock Exchanges.
+
+
+7. Pursuant to the Scheme becoming eﬀec ve and subject to approval of the Registrar of Companies
+and other statutory authori es, the name of “HEG Limited” is proposed to be changed to “HEG
+Advanced Materials Limited” and therea er, “HEG Graphite Limited” is proposed to be renamed as
+“HEG Limited”.
+This disclosure is being made pursuant to Regula on 30, 42 and other applicable provisions of the SEBI
+(Lis ng Obliga ons and Disclosure Requirements) Regula ons, 2015.
+The mee ng of the Board of Directors of the Company commenced at 01:30 PM IST and concluded at
+04:00 PM IST.
+Kindly take the above informa on on record.
+Thanking you.
+Yours faithfully,
+For HEG Limited
+Digitally signed by
+VIVEK
+VIVEK
+CHAUDHA CHAUDHARY
+Date: 2026.08.24
+RY
+18:20:21 +05'30'
+
+Vivek Chaudhary
+Company Secretary
+M. No. A13263
+heg.investor@lnjbhilwara.com
+Encl: As above
+
+
+Annexure A
+Sl.
+No.
+
+Disclosure requirement
+
+1.
+
+Reason for change viz.
+appointment,
+reappointment, resigna on,
+removal,
+death
+or
+otherwise
+
+2.
+
+Date of appointment/
+reappointment/ cessa on
+(as applicable) & term of
+appointment/
+reappointment
+Brief proﬁle (in case of
+appointment)
+Disclosure of rela onships
+between directors (in case
+of appointment of a
+director)
+The le er of resigna on
+alongwith
+detailed
+reasons for resigna on
+
+3.
+4.
+
+5.
+
+Details
+Shri Vivek Chaudhary
+Shri Ravi Kant Tripathi
+Cessa on of Shri Vivek Chaudhary Cessa on of Shri Ravi Kant
+as
+Company
+Secretary
+& Tripathi as Chief Financial Oﬃcer
+Compliance Oﬃcer of the Company of the Company consequent
+consequent upon transfer of his upon transfer of his employment
+employment to HEG Graphite to HEG Graphite Limited
+Limited
+pursuant
+to
+the pursuant to the eﬀec veness of
+eﬀec veness of the Composite the Composite Scheme of
+Scheme of Arrangement.
+Arrangement.
+Date of Cessa on: September 01, Date of Cessa on: September
+2026
+01, 2026
+
+NA
+
+NA
+
+NA
+
+NA
+
+Not Applicable, as the cessa on is consequent upon transfer of their
+employment to HEG Graphite Limited pursuant to the Composite
+Scheme of Arrangement and does not cons tute resigna on.
+
+
+Annexure B
+Sl.
+No.
+1.
+
+2.
+
+3.
+
+Disclosure requirement
+Reason for change viz.
+appointment,
+reappointment, resigna on,
+removal,
+death
+or
+otherwise
+Date of appointment/
+reappointment/ cessa on
+(as applicable) & term of
+appointment/
+reappointment
+
+Brief proﬁle (in case of
+appointment)
+
+Details
+Ms. Neha Rajvanshi
+Shri Ravi Gupta
+Appointment of Ms. Neha Appointment of Shri Ravi Gupta
+Rajvanshi as Chief Financial Oﬃcer as Company Secretary &
+and Key Managerial Personnel of Compliance Oﬃcer and Key
+the Company.
+Managerial Personnel of the
+Company.
+Date of appointment: September Date
+of
+appointment:
+01, 2026
+September 01, 2026
+Terms of appointment: Full- me Terms of appointment: Full- me
+employment.
+employment
+(Transferred from Bhilwara Energy (Transferred from Bhilwara
+Limited and elevated to the Energy Limited)
+posi on of CFO)
+Ms. Neha Rajvanshi is a Chartered Mr Ravi Gupta is a commerce
+Accountant with over 18 years of graduate from Delhi University,
+comprehensive experience across Fellow member of Ins tute of
+the Renewable Energy, Oil & Gas, Company Secretaries of India
+and Infrastructure sectors. She and also holds law degree from
+holds a Master’s degree in Business Delhi University.
+Administra on (MBA) from Amity He is a seasoned professional
+University, along with Master’s and with experience of more than 25
+Bachelor’s degrees in Commerce. years in the ﬁelds of banking,
+Addi onally, she has completed a ﬁnance, accounts, legal and
+Management Program at the Indian secretarial.
+Ins tute of Management (IIM), He worked in various capacity in
+Lucknow.
+diﬀerent industry. He is ac vely
+involved in new ventures
+Ms. Rajvanshi joined Bhilwara including funds raising, debt
+Energy
+Limited
+(Transferor ﬁnancing,
+acquisi on,
+Company) in April 2026 as Senior divestment, nego a on of
+Vice President – Finance and was contracts etc.
+subsequently elevated to President
+– Finance.
+He was working in Senior
+Posi on as Company Secretary
+Prior to her role at Bhilwara Energy in Bhilwara Energy Limited
+Limited, she served as the Chief
+
+
+4.
+
+Financial Oﬃcer (CFO) at Seren ca (“Transferor Company”) since
+Renewables,
+where
+she July, 2009.
+spearheaded capital structuring,
+debt/equity fund-raising, and
+strategic ﬁnancial planning for
+mul -billion-dollar clean energy
+projects. She has also held
+leadership posi ons at Azure Power
+and Bharat Petroleum Corpora on
+Limited (BPCL).
+Disclosure of rela onships NA
+NA
+between directors (in case
+of appointment of a
+director)
+
+
+Annexure C
+Sl.
+No.
+
+Disclosure requirement
+
+1.
+
+Reason for change viz.
+appointment,
+reappointment, resigna on,
+removal,
+death
+or
+otherwise
+
+2.
+
+Date of appointment/
+reappointment/ cessa on
+(as applicable) & term of
+appointment/
+reappointment
+
+3.
+
+Brief proﬁle (in case of
+appointment)
+
+Details
+Shri Ravi Jhunjhunwala
+Shri Riju Jhunjhunwala
+Relinquishment from the oﬃce of Elevated from Vice-Chairman
+Chairman, Managing Director & (Non-Execu ve) to Chairman,
+Chief Execu ve Oﬃcer and Key Managing Director & Chief
+Managerial Personnel of the Execu ve Oﬃcer and Key
+Company
+consequent
+upon Managerial Personnel of the
+transfer of his employment/ Company with eﬀect from
+appointment
+as
+Chairman, September 01, 2026, up to
+Managing Director & Chief August 31, 2031, subject to the
+Execu ve Oﬃcer to/of HEG approval of the shareholders of
+Graphite Limited pursuant to the the Company.
+eﬀec veness of the Composite
+Scheme of Arrangement and
+con nue as the Non-Execu ve Non
+Independent Director of the
+Company, liable to re re by
+rota on.
+Shri Ravi Jhunjhunwala shall Date
+of
+appointment:
+con nue as a Non- Execu ve and September 01, 2026.
+Non-Independent Director, liable to Term of appointment: For a
+re re by rota on.
+period of 5 years, not liable to
+re re by rota on.
+Eﬀec ve Date: September 1, 2026
+Shri Ravi Jhunjhunwala was the Mr. Riju Jhunjhunwala possesses
+Chairman, Managing Director & rich and diversiﬁed experience in
+CEO of HEG Limited, which is one of industry
+and
+business
+the en es of LNJ Bhilwara Group. management. He served as the
+LNJ Bhilwara Group is a diversiﬁed Managing Director of Bhilwara
+conglomerate with interests in Energy Limited (the “Transferor
+Tex les,
+Graphite
+Electrodes, Company”) from August 2010
+Power and IT enabled services. Shri and currently holds the posi on
+Ravi Jhunjhunwala holds a B. Com of Chairman & Managing
+(Hons.) Degree (1976 batch) from Director of RSWM Limited.
+Hindu College and Masters in
+Business Administra on (Corp. Prior to his appointment as
+Finance) from the Centre D'etudes Chairman & Managing Director,
+Industrielles (CEl), Geneva (1980- he served as the Vice Chairman
+
+
+4.
+
+5.
+
+Disclosure of rela onships
+between directors (in case
+of appointment of a
+director)
+Informa on as required
+under
+Circular
+No.
+LIST/COMP/14/2018-19
+and
+NSE/CML/2018/02
+dated June 20, 2018 issued
+by the BSE and NSE,
+respec vely
+
+81). He is the Chairman &
+Managing Director of Malana
+Power Company Limited since
+2001. Shri Ravi Jhunjhunwala has
+been associated with the Company
+since 1979 when he was inducted in
+the Board of the Company. Shri Ravi
+Jhunjhunwala
+became
+the
+Managing Director of the Company
+in 1989 and took over as Chairman
+of the Company in 1996. He has
+taken Company to greater heights
+since his associa on with the
+Company.
+Shri Ravi Jhunjhunwala is father of
+Shri Riju Jhunjhunwala, Chairman,
+Managing Director & Chief
+Execu ve Oﬃcer of the Company.
+Shri Ravi Jhunjhunwala is not
+debarred from holding oﬃce of a
+Director by virtue of any SEBI Order
+or any other such authority.
+
+of HEG Limited. His associa on
+with HEG Limited also includes
+serving as an Execu ve Director
+from 30 April 2009 to 27 July
+2010. Earlier, he was the Joint
+Managing Director/Managing
+Director of RSWM Limited from
+23 October 2003 to 29 April
+2009. His extensive leadership
+experience
+spans
+diverse
+sectors, including tex les, power
+genera on,
+and
+industrial
+manufacturing.
+Shri Riju Jhunjhunwala is son of
+Shri Ravi Jhunjhunwala, Nonexecu ve Director of the
+Company.
+Shri Riju Jhunjhunwala is not
+debarred from holding oﬃce of a
+Director by virtue of any SEBI
+Order or any other such
+authority.
+
+
+Annexure D
+Sl.
+No.
+
+Disclosure requirement
+
+1.
+
+Reason for change viz.
+appointment,
+reappointment, resigna on,
+removal,
+death
+or
+otherwise
+
+2.
+
+Date of appointment/
+reappointment/ cessa on
+(as applicable) & term of
+appointment/
+reappointment
+Brief proﬁle (in case of Shri Manish Sharma holds graduate Shri Pushp Jain is Commerce
+appointment)
+degree from Bhilai Ins tute of Graduate from University of
+Technology.
+Delhi, he holds MBA with
+specializa on in Finance and
+He is the founder of a thought Marke ng from the University of
+leadership pla orm — Exploverse Southern California, Los Angeles,
+to support the Indian business U.S.A. He also completed a
+community and engage with the Cer ﬁcate Course in Managerial
+Government to drive the agenda of Finance and Capital Markets
+Viksit Bharat. He has served as from Harvard University, U.S.A.
+Chairman and Enterprise Growth
+Oﬃcer of Panasonic Life Solu ons A er comple ng his educa on,
+India & South Asia since 2018.
+he joined the family business,
+KLJ Group.
+During his career of three decades,
+he has held several leadership He is responsible for the overall
+posi ons in various electronic management of the Group's
+majors like LG, Samsung India and chemicals
+manufacturing
+Haier
+India.
+His
+innate business.
+understanding of the industry
+landscape and consumer behaviour In addi on, he is a Trustee of the
+catapulted
+his
+role
+from Terapanth Professional Forum
+engineering
+and
+research and the Akhil Bhar ya Anuvrat
+
+3.
+
+Details
+Shri Manish Sharma
+Shri Pushp Jain
+Appointment of Shri Manish Appointment of Shri Pushp Jain
+Sharma (DIN: 06549914) as an (DIN: 00033289) as an Addi onal
+Addi onal Director (Category: Non- Director
+(Category:
+NonExecu ve Independent Director), Execu ve
+Independent
+subject to approval of the Director), subject to approval of
+shareholders of the Company.
+the shareholders of the
+Company.
+Date of Appointment: September Date
+of
+Appointment:
+01, 2026
+September 01, 2026
+Term of Appointment: 5 years
+Term of Appointment: 5 years
+
+
+4.
+
+5.
+
+assignments to leading strategic Vyas. He also serves as a
+product and business planning.
+Member of the Board of
+Sumermal Jain Public School,
+Manish ac vely drives the New Delhi.
+electronics industry agenda and
+holds mul ple leadership posi ons
+with the industry body — FICCI and
+is part of several Govt appointed
+commi ees.
+Disclosure of rela onships Shri Manish Sharma is not related Shri Pushp Jain is not related to
+between directors (in case to any of the Directors of the any of the Directors of the
+of appointment of a Company.
+Company.
+director)
+Informa on as required Shri Manish Sharma is not debarred Shri Pushp Jain is not debarred
+under
+Circular
+No. from holding oﬃce of a Director by from holding oﬃce of a Director
+LIST/COMP/14/2018-19
+virtue of any SEBI Order or any by virtue of any SEBI Order or
+and
+NSE/CML/2018/02 other such authority.
+any other such authority.
+dated June 20, 2018 issued
+by the BSE and NSE,
+respec vely
+
+Sl.
+No.
+
+Disclosure requirement
+
+1.
+
+Reason for change viz.
+appointment,
+reappointment, resigna on,
+removal,
+death
+or
+otherwise
+
+2.
+
+Date of appointment/ Date of Appointment:
+reappointment/ cessa on September 01, 2026
+(as applicable) & term of Term of Appointment:
+5 years
+
+Shri Sanjeev Mehra
+Appointment of Shri
+Sanjeev Mehra (DIN:
+02626778)
+as
+an
+Addi onal
+Director
+(Category:
+NonExecu ve Independent
+Director), subject to
+approval
+of
+the
+shareholders of the
+Company.
+
+Details
+Shri Ameya Suresh
+Prabhu
+Appointment of Shri
+Ameya
+Suresh
+Prabhu
+(DIN:
+00629670) as an
+Addi onal Director
+(Category:
+NonExecu ve
+Independent
+Director), subject to
+approval of the
+shareholders of the
+Company.
+Date
+of
+Appointment:
+September 01, 2026
+
+Shri Rajiv Dewan
+Appointment of Shri
+Rajiv Dewan (DIN:
+00007988) as an
+Addi onal Director
+(Category:
+NonExecu ve
+Independent
+Director), subject to
+approval
+of
+the
+shareholders of the
+Company.
+Date of Appointment:
+September 01, 2026
+Term of Appointment:
+5 years
+
+

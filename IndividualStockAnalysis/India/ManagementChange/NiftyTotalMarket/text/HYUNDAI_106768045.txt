@@ -1,0 +1,207 @@
+--- CIM_23919_WebXMLFile_20260903_164112773_1.xml (the exchange's structured disclosure) ---
+NSESymbol: Hyundai ; Name Of The Company: Hyundai Motor India Limited ; Scrip Code: 544274 ; MSEISymbol: NOTLISTED ; ISIN: INE0V6F01027 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-03 ; Time Of Occurrence Of Event Or Information: 16:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-03-09 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: General Counsel & Function Head – Legal & Corporate Governance ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Yogesh Wadhwa ; Effective Date Of Reason Of Change: 2026-09-05 ; Brief Profile: Mr. Yogesh Wadhwa is an experienced Legal & Corporate Governance leader with 26 years of experience in handling legal, compliance, litigation, regulatory affairs, and corporate governance matters. Currently he is leading the Legal & Corporate Governance function at Hyundai Motor India Limited (HMIL). As part of HMIL, he has successfully driven key initiatives including IPO readiness, the Pune Plant acquisition, and enterprise-wide ethics and compliance frameworks. With leadership experience across organizations such as General Motors, Renault Nissan, Halliburton, PwC, and Fox Mandal in markets of India and Middle East, he is known for strengthening governance, managing legal risks, aligning legal strategy with business goals, and building high-performing teams ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Business Head - Chief Legal Office ; Name Of Designated Person: Amitabh Lal Das ; Effective Date Of Reason Of Change: 2026-09-30 ; Salutation: Mr. ; Name Of The Person: Amitabh Lal Das ; Designation Of Person: Business Head - Chief Legal Office ; Date On Which The Resignation Letter Was Received: 2026-07-01 ; Effective Date Of Resignation: 2026-09-30 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- CIMG_544274_03092026163518_2.pdf ---
+Date: September 03, 2026
+To,
+National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G
+Bandra Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street, Mumbai – 400 001
+
+SYMBOL: HYUNDAI
+
+SCRIP CODE: 544274
+
+Dear Sir/Ma’am
+Sub: Intimation under Regulation 30 of SEBI Listing Obligations and Disclosure
+Requirements Regulations, 2015 (SEBI LODR) – Change in Senior Management Personnel
+In terms of Regulation 30 read with Schedule III of the SEBI LODR we wish to inform you the following
+changes in the Company’s Senior Management Personnel:
+•
+
+Appointment of Mr. Yogesh Wadhwa, General Counsel & Function Head – Legal & Corporate
+Governance, as Senior Management Personnel w.e.f. September 05, 2026
+
+•
+
+Exclusion of Mr. Amitabh Lal Das, Business Head – Chief Legal Office, from the list of Senior
+Management Personnel w.e.f. September 30, 2026
+
+The details required under Regulation 30 and other applicable provisions of the SEBI LODR read with
+SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 is
+enclosed herewith in Annexure I & II.
+This
+information
+is also
+being
+uploaded on the website
+of
+https://www.hyundai.com/in/en/hyundai-story/announcements-2026-2027.
+
+the
+
+Company
+
+at
+
+Thanking you,
+For Hyundai Motor India Limited
+
+Pradeep Chugh
+
+Digitally signed by Pradeep Chugh
+DN: cn=Pradeep Chugh,
+email=276223@hmil.net, c=IN
+Date: 2026.09.03 16:01:00 +05'30'
+
+Pradeep Chugh
+Company Secretary &
+Compliance Officer
+Encl: As above
+
+Hyundai Motor India Ltd.
+Regd. Office: Plot No. H-1, SIPCOT Industrial Park, Irrungattukottai,
+Sriperumbudur Taluk, Kancheepuram District, Tamil Nadu-602117, India.
+CIN (Corporate Identity Number): L29309TN1996PLC035377, T +91(44) 47100000
+
+Corporate Office: Plot No. C11& C11A, City Centre, Urban Estate
+Gurgaon II, Sector 29 Gurugram, Haryana – 122001, India
+T+91(124) 6962000
+www.hyundai.com/in/en
+
+
+Annexure I
+Details as required under SEBI Master
+POD2/I/3762/2026 dated January 30, 2026
+Sr. No
+1.
+
+2.
+
+3.
+
+4.
+
+Name of SMP
+Reason
+for
+change
+viz.
+appointment,
+re-appointment,
+resignation, removal, death or
+otherwise
+Date
+of
+appointment/reappointment/
+cessation (as applicable) & term of
+appointment/re-appointment;
+Brief
+profile
+(in
+case
+of
+appointment)
+
+Disclosure of relationships between
+directors (in case of appointment of
+a director)
+
+Circular
+
+No.
+
+HO/49/14/14(7)2025-CFD-
+
+Mr. Yogesh Wadhwa, General Counsel & Function
+Head – Legal & Corporate Governance
+Appointment
+
+September 05, 2026
+
+Yogesh Wadhwa is an experienced Legal &
+Corporate Governance leader with 26 years of
+experience in handling legal, compliance, litigation,
+regulatory affairs, and corporate governance
+matters. Currently he is leading the Legal &
+Corporate Governance function at Hyundai Motor
+India Limited (HMIL). As part of HMIL, he has
+successfully driven key initiatives including IPO
+readiness, the Pune Plant acquisition, and
+enterprise-wide ethics and compliance frameworks.
+With leadership experience across organizations
+such as General Motors, Renault Nissan,
+Halliburton, PwC, and Fox Mandal in markets of
+India and Middle East, he is known for
+strengthening governance, managing legal risks,
+aligning legal strategy with business goals, and
+building high-performing teams.
+Not applicable
+
+Annexure II
+Details as required under SEBI Master
+POD2/I/3762/2026 dated January 30, 2026
+Sr. No
+1.
+
+2.
+
+3.
+4.
+
+Name of SMP
+Reason
+for
+change
+viz.
+appointment,
+re-appointment,
+resignation, removal, death or
+otherwise
+Date
+of
+appointment/reappointment/
+cessation (as applicable) & term of
+appointment/re-appointment;
+Brief
+profile
+(in
+case
+of
+appointment)
+Disclosure of relationships between
+directors (in case of appointment of
+a director)
+
+Hyundai Motor India Ltd.
+Regd. Office: Plot No. H-1, SIPCOT Industrial Park, Irrungattukottai,
+Sriperumbudur Taluk, Kancheepuram District, Tamil Nadu-602117, India.
+CIN (Corporate Identity Number): L29309TN1996PLC035377, T +91(44) 47100000
+
+Circular
+
+No.
+
+HO/49/14/14(7)2025-CFD-
+
+Mr. Amitabh Lal Das, Business Head – Chief Legal
+Office
+Resignation
+
+September 30, 2026
+
+Not applicable
+Not applicable
+
+Corporate Office: Plot No. C11& C11A, City Centre, Urban Estate
+Gurgaon II, Sector 29 Gurugram, Haryana – 122001, India
+T+91(124) 6962000
+www.hyundai.com/in/en
+
+
+

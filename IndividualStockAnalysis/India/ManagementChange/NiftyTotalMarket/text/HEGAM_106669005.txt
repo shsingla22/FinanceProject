@@ -1,0 +1,133 @@
+--- NSEXML_VS_ROID_WebXMLFile_20260621_120325413_1.xml (the exchange's structured disclosure) ---
+NSESymbol: HEG ; Name Of The Company: HEG LIMITED ; Scrip Code: 509631 ; MSEISymbol: NOTLISTED ; ISIN: INE545A01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-06-21 ; Time Of Occurrence Of Event Or Information: 10:49:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-06-21 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 2026/Jun/390171/10790 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-06-21 ; Salutation: Mrs. ; Name Of The Person: Vinita Singhania ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-06-21 ; Effective Date Of Resignation: 2026-06-21 ; Reason Of Resignation In Brief: In view of the Company’s objective to maintain an optimal and balanced Board composition, including an appropriate mix of Independent and Non-Independent Directors, in line with applicable governance requirements and best practices.
+
+--- Stxintimation210626S_2.pdf ---
+HEG/SECTT/2026
+1
+
+BSE Limited
+P J Towers
+Dalal Street
+MUMBAI - 400 001.
+Scrip Code : 509631
+
+21st June, 2026
+2
+
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor
+Plot No.C/1, G Block, Bandra - Kurla Complex
+Bandra (E), MUMBAI - 400 051.
+Scrip Code : HEG
+
+Subject: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015- Resignation of Non-Executive Non-Independent Director
+
+Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, we wish to inform you that Smt. Vinita Singhania (DIN: 00042983), NonExecutive Non-Independent Director, has resigned from the Board of Directors of the Company with effect
+from June 21, 2026.
+The details required under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read with SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated
+January 30, 2026 are enclosed as Annexure A, and the reason for resignation is set out in the resignation letter
+submitted by Smt. Vinita Singhania, a copy of which is enclosed herewith as Annexure B.
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For HEG Limited
+Digitally signed by
+
+VIVEK
+VIVEK CHAUDHARY
+2026.06.21
+CHAUDHARY Date:
+11:27:48 +05'30'
+(Vivek Chaudhary)
+Company Secretary
+M.No. A-13263
+heg.investor@lnjbhilwara.com
+Encl: as above
+
+
+Annexure A
+
+Sr.
+No.
+1.
+
+2.
+3.
+4.
+
+Particulars
+
+Details
+
+Reason for change viz. appointment, re-appointment,
+resignation, removal, death or otherwise
+
+Resignation of Smt. Vinita Singhania
+(DIN: 00042983) as Non-Executive
+Non-Independent Director.
+
+Date of appointment/re-appointment/cessation (as
+applicable) & term of appointment/re-appointment
+
+June 21, 2026
+
+Brief profile (in case of appointment)
+Disclosure of relationships between directors (in case
+of appointment of a director)
+
+5.
+
+Detailed reason for resignation
+
+6.
+
+Letter of resignation along with detailed reasons for
+resignation
+
+Not Applicable
+Not Applicable
+The reason for resignation is set out in
+the resignation letter submitted by
+Smt. Vinita Singhania, enclosed as
+Annexure B.
+Enclosed as Annexure B.
+
+
+Annexure B
+
+To
+
+The Board of Directors
+HEG Limited
+
+Mandideep (Near Bhopal),
+Distt. Raisen - 462046,
+
+Madhya Pradesh, India
+
+Subject: Resignation from the Board of Directors
+Dear Sir/Madam,
+
+I hereby tender my resignation from the position of Non-Independent Director of the
+Company with immediate effect.
+This decision has been taken in view of the Company’s objective to maintain an optimal and
+balanced Board composition, including an appropriate mix of Independent and NonIndependent Directors, in line with applicable governance requirements and best practices.
+
+[ would like to place on record my sincere appreciation for the trust and cooperation
+extended to me by the Board and the management during my tenure. I am grateful for the
+opportunity to have been associated with the Company and contribute to its growth and
+governance framework.
+I confirm that there are no material reasons for my resignation other than those stated above.
+[ take this opportunity to convey my best wishes for the continued success and growth of
+the Company.
+Thanking you,
+Yours sincerely,
+
+Vinita Singhania
+DIN: 00042983
+Date: 21-06-2026
+
+

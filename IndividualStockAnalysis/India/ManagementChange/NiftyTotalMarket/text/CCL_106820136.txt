@@ -1,0 +1,229 @@
+--- CIM_2196_WebXMLFile_20261016_154642790_2.xml (the exchange's structured disclosure) ---
+NSESymbol: CCL ; Name Of The Company: CCL PRODUCTS (INDIA) LIMITED ; Scrip Code: 519600 ; MSEISymbol: NOTLISTED ; ISIN: INE421D01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-15 ; Start Time Of Board Meeting: 18:15:00 ; End Time Of Board Meeting: 19:50:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-10-16 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary and Compliance Officer ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Sridevi Dasari ; Effective Date Of Reason Of Change: 2026-11-14 ; Type Of Change: Appointment ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Kallepally Bharath Kumar ; Effective Date Of Reason Of Change: 2026-11-15 ; Brief Profile: Kallepally Bharath Kumar is an Associate Member of the Institute of Company Secretaries of India (ICSI), a Law Graduate, and holds a postgraduate degree in Finance (MBA-Finance). He has over six years of professional experience in the areas of corporate governance, finance, compliance, and administration. With his multidisciplinary academic background and practical experience, Mr. K. Bharath Kumar supports the Company in ensuring statutory and regulatory compliance, strengthening corporate governance practices, and facilitating effective corporate administration. He joined the Company in 2024 as Manager – Secretarial Department and has since gained a comprehensive understanding of the Company’s operations and activities. ; Salutation: Ms. ; Name Of The Person: Sridevi Dasari ; Designation Of Person: Company Secretary and Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-10-15 ; Effective Date Of Resignation: 2026-11-14 ; Reason Of Resignation In Brief: Due to personal reasons. Further it was confirmed by Ms. Sridevi Dasari, that there are no other material reasons.
+
+--- Reg30CS_1.pdf ---
+Date: 15.10.2026
+To
+The Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor, Plot No. C-1,
+G Block, Bandra – Kurla Complex,
+Bandra East, Mumbai – 400051.
+
+To
+The Corporate Relations Department
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400001.
+
+Scrip Code: CCL
+
+Scrip Code: 519600
+
+Dear Sir/Madam,
+Sub: Change in the office of Company Secretary and Compliance Officer of the Company.
+Ref: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements),
+Regulations, 2015
+This is to hereby bring to your kind notice, the Board of Directors, at their just concluded meeting,
+have transacted the following items of business:
+1. Accepted the resignation of Ms. Sridevi Dasari from the office of Company Secretary and
+Compliance Officer (Key Managerial Personnel) of the Company with effect from the closing business
+hours of November 14, 2026. (a copy of the resignation letter is attached herewith as AnnexureI).
+2. Appointed Mr. Kallepally Bharath Kumar to the office of Company Secretary and Compliance
+Officer (Key Managerial Personnel) of the Company effective November 15, 2026, as recommended
+by the Nomination and Remuneration Committee.
+Details as required, pursuant to Clause 7 of Para A of Part A of Schedule III of SEBI (Listing
+Obligations and Disclosure Requirements), Regulations 2015 & SEBI Circular No
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, are mentioned below:
+S. No Particulars
+Details
+1. Resignation of Ms. Sridevi Dasari from the office of Company Secretary and
+Compliance Officer (Key Managerial Personnel) of the Company.
+Reason for Change
+Resignation
+1
+Date of Cessation
+Closing business hours of November 14, 2026
+2
+Brief
+Profile
+Not Applicable
+3
+(In case of appointment)
+Relationship with any other KMP’s Nil
+4
+and/or Directors of the Company
+signed by
+SRIDEVI Digitally
+SRIDEVI DASARI
+2026.10.15
+DASARI Date:
+20:45:04 +05'30'
+
+CCL PRODUCTS (INDIA) LIMITED
+CORPORATE OFFICE:
+7-1-24/2/D, "Greendale", Ameerpet, Hyderabad - 500016, T.S., India.
++91 40 2373 0855
+REGISTERED OFFICE:
+Duggirala, Guntur Dist. 522330, A.P., India. | CIN L15110AP1961PLC000874
+
++918644 277294 |
+
+info@continental.coffee |
+
+www.cclproducts.com |
+
+www.continental.coffee
+
+
+S. No Particulars
+Details
+2. Appointment of Mr. Kallepally Bharath Kumar to the office of Company Secretary
+and Compliance Officer (Key Managerial Personnel) of the Company
+1
+Reason for Change
+Appointment
+2
+Date of Appointment &
+November 15, 2026
+Term of Appointment
+Term of Appointment: Not Applicable
+3
+Brief Profile
+The brief profile of Mr. Kallepally Bharath Kumar is
+(In case of appointment)
+attached herewith as Annexure - II
+4
+
+Relationship with any other KMP’s Nil
+and/or Directors of the Company
+
+The above information is also available on the website of the Company: www.cclproducts.com.
+The Board Meeting commenced at 06:15 p.m. and concluded at 07:50 p.m.
+This is for your information and necessary records.
+Regards,
+For CCL PRODUCTS (INDIA) LIMITED
+Digitally signed by
+SRIDEVI DASARI
+SRIDEVI DASARI Date: 2026.10.15
+20:45:25 +05'30'
+
+Sridevi Dasari
+Company Secretary & Compliance Officer
+
+CCL PRODUCTS (INDIA) LIMITED
+CORPORATE OFFICE:
+7-1-24/2/D, "Greendale", Ameerpet, Hyderabad - 500016, T.S., India.
++91 40 2373 0855
+REGISTERED OFFICE:
+Duggirala, Guntur Dist. 522330, A.P., India. | CIN L15110AP1961PLC000874
+
++918644 277294 |
+
+info@continental.coffee |
+
+www.cclproducts.com |
+
+www.continental.coffee
+
+
+’A WNRAMN L —
+
+Date: October 15, 2026
+
+To
+The Board of Directors
+CCL Products (India) Limited
+8-2-269/4A, Road No. 2
+Banjara Hills, Hyderabad — 500034
+Respected Sirs/Madam,
+| hereby tender my resignation as Company Secretary and Compliance Officer of the
+Company, effective from the closing business hours of November 14, 2026 (last working day),
+on personal grounds.
+| want to express my sincere gratitude to the Board and the leadership team for your guidance,
+support, and the opportunities | have been given during my tenure. It has been a privilege to
+work alongside such a dedicated group, and | am proud of the progress and milestones we
+have achieved together.
+During my remaining time here, | am fully committed to ensuring a smooth transition of my
+
+duties.
+Further, | wish to confirm that there are no material reasons other than those stated above.
+
+Yours sincerely
+
+/5222
+Sridevi Dasari
+Company Secretary and Compliance Officer
+CCL Products (India) Limited
+
+SRIDEVI
+DASARI
+
+Digitally signed by
+SRIDEVI DASARI
+Date: 2026.10.15
+20:45:40 +05'30'
+
+
+Annexure-II
+Brief Profile
+Name of the Appointee
+
+Mr. Kallepally Bharath Kumar
+
+Expertise in
+Specific
+Functional areas and
+experience
+
+Kallepally Bharath Kumar is an Associate Member of the
+Institute of Company Secretaries of India (ICSI), a Law
+Graduate, and holds a postgraduate degree in Finance
+(MBA-Finance). He has over six years of professional
+experience in the areas of corporate governance, finance,
+compliance, and administration.
+With his multidisciplinary academic background and
+practical experience, Mr. K. Bharath Kumar supports the
+Company in ensuring statutory and regulatory
+compliance,
+strengthening
+corporate
+governance
+practices,
+and
+facilitating
+effective
+corporate
+administration. He joined the Company in 2024 as
+Manager – Company Secretary Department and has since
+gained a comprehensive understanding of the Company’s
+operations and activities.
+
+Educational Qualification
+
+Company Secretary (ICSI), MBA (Finance), LLB
+
+signed by
+SRIDEVI Digitally
+SRIDEVI DASARI
+2026.10.15
+DASARI Date:
+20:45:59 +05'30'
+
+CCL PRODUCTS (INDIA) LIMITED
+CORPORATE OFFICE:
+7-1-24/2/D, "Greendale", Ameerpet, Hyderabad - 500016, T.S., India.
++91 40 2373 0855
+REGISTERED OFFICE:
+Duggirala, Guntur Dist. 522330, A.P., India. | CIN L15110AP1961PLC000874
+
++918644 277294 |
+
+info@continental.coffee |
+
+www.cclproducts.com |
+
+www.continental.coffee
+
+

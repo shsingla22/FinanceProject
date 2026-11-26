@@ -1,0 +1,1028 @@
+{
+ "EPL::seat": {
+  "stamp": "0eb748d5ed78eecb243a04f397c34697",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director & Global Chief Executive Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Anand Kripalu",
+      "last_day": "2025-12-31",
+      "reason": "retirement",
+      "reason_in_their_words": "As many of you know, I will be retiring at the end of this year, and Hemant will be taking over as MD and Global CEO, with effect from Jan 1, 2026.",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Non-Executive, Non-Independent Director of the Company, with effect from April 1, 2026"
+     },
+     "incoming": {
+      "name": "Hemant Bakshi",
+      "effective": "2026-01-01",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-02-23",
+     "quote": "appointment of Mr. Hemant Bakshi (holding Director Identification Number 02362738) as the Managing Director & Global Chief Executive Officer of the Company, for a term of five years with effect from January 1, 2026."
+    }
+   ],
+   "read": ""
+  }
+ },
+ "COROMANDEL::seat": {
+  "stamp": "722997783d5a5bbfcee94b6cca8b90b3",
+  "answer": {
+   "changes": [
+    {
+     "seat": "Executive Chairman",
+     "designation_as_written": "Whole-time Director, designated as the Executive Chairman of the Company",
+     "is_change": false,
+     "not_a_change_because": "re-appointment",
+     "outgoing": {
+      "name": "Arun Alagappan",
+      "last_day": "2026-02-14",
+      "reason": "end of term",
+      "reason_in_their_words": "following the conclusion of his current tenure on February 14, 2026",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Whole-time Director, designated as the Executive Chairman of the Company"
+     },
+     "incoming": {
+      "name": "Arun Alagappan",
+      "effective": "2026-02-15",
+      "interim": false,
+      "from_where": "promoter family",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [
+       {
+        "company": "GE Capital Services India",
+        "role": "started his career",
+        "from": "1997",
+        "to": "1999"
+       },
+       {
+        "company": "Parryware (part of EID Parry India Ltd.)",
+        "role": "joined the Murugappa Group",
+        "from": "1999",
+        "to": "not stated"
+       },
+       {
+        "company": "Tube Investments of India Limited",
+        "role": "heading various divisions and eventually took over as Business Head of TI Cycles",
+        "from": "2005",
+        "to": "2017"
+       },
+       {
+        "company": "Cholamandalam Investment and Finance Company Limited",
+        "role": "Executive Director, subsequently Managing Director",
+        "from": "2017",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Arun Alagappan is the Executive Chairman of Coromandel International Limited (CIL) and is a member of the Murugappa Family. He is presently the President of Southern India Chamber of Commerce & Industry (SICCI). He is also an Executive Member in Federation of Indian Chambers of Commerce and Industry (FICCI). Mr. Arun Alagappan is the Non-Executive Chairman in NACL Industries Limited, an Independent Director in LMW Limited and Thirumalai Chemicals Limited. Mr. Arun Alagappan started his career with GE Capital Services India in 1997. After a two-year stint with GE, he joined the Murugappa Group in 1999 in Parryware (part of EID Parry India Ltd.). Between 2005 to 2017, he served in Tube Investments of India Limited heading various divisions."
+     },
+     "status": "announced, not yet effective",
+     "announced_on": "2025-12-05",
+     "quote": "We refer to our earlier communication today regarding the outcome of postal ballot results pertaining to the re-appointment of Mr. Arun Alagappan as Whole-time Director, designated as the Executive Chairman of the Company, effective February 15, 2026, following the conclusion of his current tenure on February 14, 2026."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (\"CFO\")",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "Anish Mathew",
+      "last_day": "2025-12-01",
+      "reason": "resignation",
+      "reason_in_their_words": "Took note of the resignation of Mr. Anish Mathew, Chief Financial Officer (\"CFO\") from the position of CFO with effect from December 01, 2025.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "N. Shankar",
+      "effective": "2025-12-01",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2025-12-01",
+     "quote": "Approved the appointment of Mr. N. Shankar as the Chief Financial Officer and Key Managerial Personnel of the Company, in terms of Section 203 of the Companies Act, 2013, with effect from December 01, 2025, based on the recommendations of the Nomination and Remuneration Committee and Audit Committee."
+    }
+   ],
+   "read": "The filings cover the postal-ballot re-appointment of the same Executive Chairman from February 15, 2026, a board approval to subscribe to a rights issue of listed subsidiary NACL Industries Limited (including that subsidiary's own CFO change), a new wholly owned subsidiary in the Philippines, and two senior-management designations at Coromandel International Limited."
+  }
+ },
+ "CCAVENUE::seat": {
+  "stamp": "5aaa3cad96ea8894318322226337fe30",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director and Chief Executive Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Vishwas Ambalal Patel",
+      "effective": "2025-12-11",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "Mr. Patel has studied law and was a practicing counsel on the original side of the Bombay High Court.",
+      "experience_years": "For the past 23 years, he has made significant contributions towards giving shape and direction to the digital payments industry in various capacities.",
+      "previous_roles": [
+       {
+        "company": "Infibeam Avenues Limited",
+        "role": "Joint Managing Director",
+        "from": "not stated",
+        "to": "2025"
+       },
+       {
+        "company": "Payments Council of India (PCI)",
+        "role": "Chairman",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Bombay High Court",
+        "role": "practicing counsel on the original side",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Vishwas Ambalal Patel is currently the Chairman of Payments Council of India (PCI), the primary industry body representing all the digital payments providers in India. He also serves as a member in various RBI committees to deepen digital payments in India. Mr. Patel is currently the Joint Managing Director at Infibeam Avenues Limited, one of India's leading digital payments and Fintech Company operating under the flagship brand CCAvenue. Under his able leadership, the Company has developed a full stack payments portfolio covering Payments Acquiring, Payments Issuance, Domestic and International Remittance and Assisted Commerce in financial services. Mr. Patel has studied law and was a practicing counsel on the original side of the Bombay High Court."
+     },
+     "status": "effective",
+     "announced_on": "2025-12-11",
+     "quote": "Based on the recommendation of Nomination and Remuneration Committee and subject to approval of Shareholders, the Board considered and approved the elevation in designation of Mr. Vishwas Ambalal Patel (DIN: 00934823), from Joint Managing Director to Managing Director and Chief Executive Officer of the Company for a term of 5 years w.e.f. December 11, 2025."
+    },
+    {
+     "seat": "CMD",
+     "designation_as_written": "Chairman & Managing Director",
+     "is_change": false,
+     "not_a_change_because": "other: the documents state the same person continues in this seat; no appointment, cessation or vacancy",
+     "outgoing": {
+      "name": "Vishal Mehta",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": "Chairman and Managing Director of Infibeam Avenues Limited (also Chairman and Managing Director of Rediff.com India Ltd.)"
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2025-12-11",
+     "quote": "Mr. Vishal Mehta will continue to head the Company's board as Chairman and Managing Director, driving long-term AI-first strategic vision."
+    }
+   ],
+   "read": "A December 11, 2025 board-outcome filing and accompanying press release in which Infibeam Avenues Limited elevated Joint Managing Director Vishwas Ambalal Patel to Managing Director & CEO for five years, appointed Dr. Neharika Vohra as an Additional Independent Woman Director, and approved renaming the company AvenuesAI Limited plus an AI object-clause amendment; no CFO change is reported."
+  }
+ },
+ "APARINDS::seat": {
+  "stamp": "9e01d3ff8e83e8f8eca645938d085827",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Independent Director (Non-Executive)",
+     "is_change": false,
+     "not_a_change_because": "other: appointment is to a Non-Executive Independent Director seat, not the chief executive or finance seat; the 'MD & CEO' reference is a past job at another company in his profile",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Pitamber Shivnani",
+      "effective": "2026-01-29",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "holds the Degree of Bachelor of Engineering of University of Roorkee in 1986 in the field of Electrical Engineering and has been placed in First Division with Honours. He has successful ly completed a short duration High Potential Leadership Program in 2013 from Harvard Business School. He has also attended ABB Senior Leadership Development Program IV conducted by IMD.",
+      "experience_years": "extensive rich experience of almost 4 decades in the Transmission and Distribution sector in India",
+      "previous_roles": [
+       {
+        "company": "GE Vernova T&D India Limited",
+        "role": "Managing Director & Chief Executive Officer",
+        "from": "2020",
+        "to": "2022"
+       },
+       {
+        "company": "ABB India Limited",
+        "role": "many leadership positions for a tenure of more than 32 years",
+        "from": "1987",
+        "to": "2019"
+       },
+       {
+        "company": "Grid Equipments Private Limited",
+        "role": "Director",
+        "from": "2020",
+        "to": "2023"
+       },
+       {
+        "company": "Indian Electrical and Electronics Manufacturers Association (IEEMA)",
+        "role": "Director",
+        "from": "2011",
+        "to": "2019"
+       }
+      ],
+      "profile": "He was Managing Director & Chief Executive Officer - GE Vernova T&D India Limited — Listed Entity from 1 July 2020 and retired from the position of Managing Director & Chief Executive Officer from the close of business hours of December 31, 2022. Prior to GE he was in ABB India Limited from Sept 1987 to Dec 2019. He held many leadership positions for a tenure of more than 32 years with ABB India Limited, a listed entity of ABB Group, a world leader in power and automation as declared by him. He has extensive rich experience of almost 4 decades in the Transmission and Distribution sector in India."
+     },
+     "status": "effective",
+     "announced_on": "2026-01-29",
+     "quote": "Appointment of Mr. Pitamber Shivnani (DIN: 05187407) as Independent Director (Non-Executive) pursuant to recommendation of Nomination and Compensation -cum-Remuneration Committee subject to the approval of Shareholders of the Company and such other approvals as may be required."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "the CEO [of the Cable Solutions business]",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "not stated",
+      "last_day": "not stated",
+      "reason": "resignation",
+      "reason_in_their_words": "the CEO sort of resigned and then we saw that the CEO joined our competitor",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Chandrashekhar Shrotri",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "not stated",
+     "quote": "Second question, sir, is more on the recent management change that we saw in the Cable Solutions business where the CEO sort of resigned and then we saw that the CEO joined our competitor."
+    }
+   ],
+   "read": "These are Apar Industries' January 29, 2026 board-meeting outcome (Q3/nine-month FY26 unaudited results, auditor review reports and press release) plus the appointment of Pitamber Shivnani as a Non-Executive Independent Director, with Kushal N. Desai continuing to sign as Chairman & Managing Director and no change to the chief executive or CFO seat; the only management exit mentioned is the divisional CEO of the Cable Solutions business."
+  }
+ },
+ "CANBK::seat": {
+  "stamp": "92a85963d65a9b2db860261580fd61ab",
+  "answer": {
+   "changes": [
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director & Chief Executive Officer (MD&CEO)",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "K. Satyanarayana Raju",
+      "last_day": "2025-12-31",
+      "reason": "retirement",
+      "reason_in_their_words": "ceased to be the Managing Director & Chief Executive Officer of the Bank w.e.f. close of business hours on 31.12.2025, on attaining superannuation",
+      "in_seat_since": "2023-02",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Hardeep Singh Ahluwalia",
+      "effective": "2026-01-01",
+      "interim": true,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management.",
+      "experience_years": "more than three decades",
+      "previous_roles": [
+       {
+        "company": "Allahabad Bank (now Indian Bank)",
+        "role": "Agricultural Field Officer",
+        "from": "1992",
+        "to": "not stated"
+       },
+       {
+        "company": "Indian Bank",
+        "role": "General Manager of the Recovery Department at Corporate office",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Canara Bank",
+        "role": "Executive Director",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Shri. Hardeep Singh Ahluwalia, started his banking career as Agricultural Field Officer on 30.03.1992 at Allahabad Bank (now Indian Bank). He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management. He has rich banking experience for more than three decades in various functional areas of banking system (Rural/Semi-Urban/Urban/Metro geographies) in India and abroad (HK). He has worked particularly in strategic positions as Lead District Manager, Head of the International Branch, Moradabad Zonal Head, Chandigarh & Field General Manager, Kolkata and various other verticals at administrative offices."
+     },
+     "status": "effective",
+     "announced_on": "2025-12-31",
+     "quote": "The Stock Exchanges are hereby informed that in terms of Department of Financial Services, Ministry of Finance, Government of India Notification No. eF.no. 4/3/2024-B O.I, dated 30th December, 2025, Shri Hardeep Singh Ahluwalia, Executive Director, Canara Bank, has been assigned additional charge of the post of MD & CEO, Canara Bank, with effect from 01.01.2026 for a period of three months, i.e., up to 31.03.2026, or until the appointment of a regular incumbent to the post of MD & CEO, Canara Bank, or until further orders, whichever is earlier."
+    },
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "Managing Director and Chief Executive Officer (MD&CEO)",
+     "is_change": false,
+     "not_a_change_because": "re-appointment",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "2026-01",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Hardeep Singh Ahluwalia",
+      "effective": "2026-04-09",
+      "interim": true,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management.",
+      "experience_years": "more than three decades",
+      "previous_roles": [
+       {
+        "company": "Allahabad Bank (now Indian Bank)",
+        "role": "Agricultural Field Officer",
+        "from": "1992",
+        "to": "not stated"
+       },
+       {
+        "company": "Indian Bank",
+        "role": "General Manager of the Recovery Department at Corporate office",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Canara Bank",
+        "role": "Executive Director",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Shri Hardeep Singh Ahluwalia, started his banking career as Agricultural Field Officer on 30.03.1992 at Allahabad Bank (now Indian Bank). He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management. He has rich banking experience for more than three decades in various functional areas of banking system (Rural/Semi - Urban/Urban/Metro geographies) in India and abroad (HK). He has worked particularly in strategic positions as Lead District Manager, Head of the International Branch, Moradabad Zonal Head, Chandigarh & Field General Manager, Kolkata and various other verticals at administrative offices."
+     },
+     "status": "effective",
+     "announced_on": "2026-04-09",
+     "quote": "The Stock Exchanges are hereby informed that Department of Financial Services, Ministry of Finance, Government of India, vide its Notification No. 4/3/2024-BO.I dated April 09, 2026, has extended the Additional Charge for the post of Managing Director and Chief Executive Officer (MD&CEO), Canara Bank, assigned to Shri Hardeep Singh Ahluwalia, Executive Director, Canara Bank, for a period of three months beyond 31.03.2026, i.e., upto 30.06.2026, or until the appointment of a regular incumbent to the post of MD & CEO, Canara Bank, or until further orders, whichever is earlier."
+    }
+   ],
+   "read": "Regulation 30 disclosures in which K. Satyanarayana Raju completed his tenure as MD & CEO on superannuation on 31.12.2025, Executive Director Hardeep Singh Ahluwalia was given additional charge of MD & CEO from 01.01.2026, and that additional charge was later extended to 30.06.2026; no CFO or Director (Finance) change is stated."
+  }
+ },
+ "RAYMOND::seat": {
+  "stamp": "f4b5ab6d10400dbcb1aea8abf7940a5b",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Group Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Amit Agarwal",
+      "last_day": "2025-12-02",
+      "reason": "moved to another role in the company or group",
+      "reason_in_their_words": "Relinquishment on account of transition to Lifestyle Business as per the internal organisational restructuring",
+      "in_seat_since": "not stated",
+      "stays_on_as": "moves full-time into the Lifestyle business (Raymond Lifestyle Ltd)"
+     },
+     "incoming": {
+      "name": "Rakesh Tiwary",
+      "effective": "2025-12-03",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "qualified Chartered Accountant, Cost Accountant, Company Secretary and MBA",
+      "experience_years": "around 25 years",
+      "previous_roles": [
+       {
+        "company": "Adani Cement",
+        "role": "CFO",
+        "from": "2025",
+        "to": "not stated"
+       },
+       {
+        "company": "Airports Business (Adani Airports)",
+        "role": "Head of Financial Management and Control, later CFO of the Airports Business",
+        "from": "2022",
+        "to": "2025"
+       },
+       {
+        "company": "Mundra Solar Photovoltaic Limited (Adani Solar)",
+        "role": "CFO",
+        "from": "2016",
+        "to": "2022"
+       },
+       {
+        "company": "Adani Electricity Mumbai Limited",
+        "role": "CFO",
+        "from": "2016",
+        "to": "2022"
+       },
+       {
+        "company": "JSW Steel Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Reliance Industries Limited",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Indian Oil",
+        "role": "not stated",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Rakesh Tiwary is a qualified Chartered Accountant, Cost Accountant, Company Secretary and MBA with around 25 years of experience. Prior to Adani Group, Mr. Tiwary worked with various reputed companies like Indian Oil, Reliance Industries Limited and JSW Steel Limited. He joined the Adani Group in February 2016. From 2016 to 2022, he served as the CFO of Mundra Solar Photovoltaic Limited (Adani Solar) and Adani Electricity Mumbai Limited. In April 2022, he transitioned to the role of Head of Financial Management and Control for the Airports Business and later became CFO of the Airports Business. In April 2025, he was appointed as CFO at Adani Cement, overseeing finance for leading cement brands AMBUJA and ACC."
+     },
+     "status": "effective",
+     "announced_on": "2025-12-02",
+     "quote": "Mr. Rakesh Tiwary has been appointed as Group Chief Financial Officer and Key Managerial Personnel (\"KMP\") of the Company effective from December 3, 2025."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "Chief Executive Officer – Defence",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Bhanu Prakash Srivastava",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "Mechanical Engineering graduate from the Indian Institute of Technology (BHU), Varanasi",
+      "experience_years": "nearly four decades of experience",
+      "previous_roles": [
+       {
+        "company": "Bharat Electronics Limited (BEL)",
+        "role": "Chairman & Managing Director",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Bhanu Prakash is a Mechanical Engineering graduate from the Indian Institute of Technology (BHU), Varanasi, and has dedicated 39 years to advancing India's defence manufacturing and technology capabilities across leadership roles in operations, R&D, marketing, naval systems and strategic programme execution."
+     },
+     "status": "effective",
+     "announced_on": "2026-07-06",
+     "quote": "Raymond Limited today announced the appointment of Bhanu Prakash Srivastava as Chief Executive Officer – Defence, marking a significant milestone in the company's strategic expansion into India's rapidly evolving defence and aerospace ecosystem."
+    }
+   ],
+   "read": "Raymond Limited's filings in this window cover the Group CFO handover from Amit Agarwal to Rakesh Tiwary effective December 3, 2025, and the appointment of a CEO for its Defence business, while Gautam Hari Singhania continues as Chairman & Managing Director."
+  }
+ },
+ "WHIRLPOOL::seat": {
+  "stamp": "b59290e849d16ba440c21b2d66bb451a",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Executive Director and CFO of the Company",
+     "is_change": false,
+     "not_a_change_because": "other: Mr. Aditya Jain is named only as the reporting manager for a newly appointed Head- Manufacturing Finance; no change to the CFO seat is stated",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Aditya Jain",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-08-05",
+     "quote": "Mr. Sourav Chakravarty will be appointed as Head- Manufacturing Finance with eﬀect from 10 th August, 2026 and will report to Mr. Aditya Jain, Executive Director and CFO of the Company."
+    },
+    {
+     "seat": "MD & CEO",
+     "designation_as_written": "CEO & Managing Director of Elica India",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Pralhad Bhutada",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-08-05",
+     "quote": "Mr. Anish Ahuja, Head- Service of Whirlpool of India Limited will move to a new role of Chief Operating Oﬃcer in Whirlpool of India Kitchen Appliances Limited (“Elica India”), a material subsidiary of the Company and will report to Mr. Pralhad Bhutada, CEO & Managing Director of Elica India with eﬀect from 01 st September, 2026."
+    }
+   ],
+   "read": "A single 5 August 2026 board-meeting outcome filing with Whirlpool of India's unaudited Q1 FY27 standalone and consolidated results, auditor limited review reports, and senior-management changes confined to divisional finance and service roles (a Head-Service moving to COO of subsidiary Elica India, the Head-Manufacturing Finance resigning and a successor appointed) — no change to the company's own chief executive or CFO seat."
+  }
+ },
+ "CCAVENUE::own": {
+  "stamp": "81828c0332f384551420ac7904b9ecb9",
+  "answer": {
+   "verdict": "none",
+   "what_happened": "Promoter holding stayed flat (27.27% to 27.34%). On 2026-03-24 Ajit Champaklal Mehta and Jayshreeben Ajitbhai Mehta each transferred 0.86% inter-se to promoter entity Infinium Motors Pvt Ltd (1.72% total). No new controller; block deals in the window involved non-promoter parties.",
+   "outgoing_owner": {
+    "name": "Ajit Champaklal Mehta and Jayshreeben Ajitbhai Mehta",
+    "kind": "founder family",
+    "stake_before": "4.31% each (3.45% after selling 0.86%)",
+    "stake_after": "3.45% each",
+    "why": "not stated"
+   },
+   "incoming_owner": {
+    "name": "Infinium Motors Private Limited",
+    "kind": "other",
+    "stake_after": "9.23%",
+    "price_per_share": "not stated",
+    "deal_value": "not stated",
+    "who_they_are": "Described in the exchange facts only as a promoter of the company, acquiring 1.72% via inter-se transfer and holding 9.23% after."
+   },
+   "mode": "other",
+   "open_offer": {
+    "made": false,
+    "price": "not stated",
+    "size": "not stated",
+    "status": "not stated"
+   },
+   "control_changes": false,
+   "board_or_management_change_with_it": "not stated",
+   "dates": [
+    {
+     "event": "other",
+     "date": "2026-03-24"
+    }
+   ],
+   "announced_on": "2026-03-24",
+   "quote": ""
+  }
+ },
+ "RAYMOND::own": {
+  "stamp": "ab9fd6c80d11328736bc516f8de2f4b4",
+  "answer": {
+   "verdict": "dilution_only",
+   "what_happened": "Raymond approved a preferential issue of 33,28,686 share warrants on private placement to Minerva Ventures Fund, a non-promoter/public category entity taking 4.31% on a fully diluted basis. Shareholders approved it at an EOGM on October 3, 2026; exchange in-principle approval was still pending. Promoter holding stayed 48.87% throughout; no control or board change.",
+   "outgoing_owner": {
+    "name": "",
+    "kind": "not stated",
+    "stake_before": "48.87% (promoter and promoter group, 2025-09-30 through 2026-09-30)",
+    "stake_after": "48.87%",
+    "why": "not stated"
+   },
+   "incoming_owner": {
+    "name": "Minerva Ventures Fund",
+    "kind": "other",
+    "stake_after": "4.31% post-preferential issue on fully diluted basis (0% pre-issue)",
+    "price_per_share": "not stated",
+    "deal_value": "not stated",
+    "who_they_are": "Described only as \"Non-Promoter Group Entity/ Public Category\" proposed allottee of 33,28,686 warrants, with \"Pre – preferential issue holding (in percentage) 0%\" and post-issue holding of 4.31% calculated \"on fully diluted basis assuming full conversion of Share Warrants already issued and proposed to be issued under this Issue and exercise of 6,35,499 Employee Stock Options outstanding as on the date of Notice i.e., September 8, 2026.\" No business, size or other holdings stated."
+   },
+   "mode": "preferential issue",
+   "open_offer": {
+    "made": false,
+    "price": "not stated",
+    "size": "not stated",
+    "status": "not stated"
+   },
+   "control_changes": false,
+   "board_or_management_change_with_it": "\"There will be no change in the composition of the Board nor any change in the control of the Company consequent to the proposed Preferential Issue.\" Promoter group note shows Shri Gautam Hari Singhania continuing as Chairman and Managing Trustee of Smt Sunitidevi Singhania Hospital Trust; one hospital-trust trustee changed (Rakesh Kumar Tiwary and Jitender Agarwal replaced by Dilip Joshi) between the June and September 2026 patterns.",
+   "dates": [
+    {
+     "event": "public announcement",
+     "date": "2026-09-08"
+    },
+    {
+     "event": "other",
+     "date": "2026-09-11"
+    },
+    {
+     "event": "approval",
+     "date": "2026-10-03"
+    },
+    {
+     "event": "other",
+     "date": "2026-10-22"
+    }
+   ],
+   "announced_on": "2026-09-08",
+   "quote": "There will be no change in the composition of the Board nor any change in the control of the Company consequent to the proposed Preferential Issue."
+  }
+ },
+ "WHIRLPOOL::own": {
+  "stamp": "c9bef32e990dbf0bb2f2b645e89f87c9",
+  "answer": {
+   "verdict": "stake_change_no_control_change",
+   "what_happened": "Promoter Whirlpool Mauritius Limited sold 11.24% of the capital in the open market on 2025-12-08, cutting promoter-and-group holding from 51.0% to 39.76%. No new promoter or controlling owner arrived; the same promoter group remains in control at 39.76% through subsequent quarters.",
+   "outgoing_owner": {
+    "name": "Whirlpool Mauritius Limited",
+    "kind": "corporate parent",
+    "stake_before": "51.0%",
+    "stake_after": "39.76%",
+    "why": "not stated"
+   },
+   "incoming_owner": {
+    "name": "",
+    "kind": "public — no single owner",
+    "stake_after": "not stated",
+    "price_per_share": "not stated",
+    "deal_value": "not stated",
+    "who_they_are": "not stated"
+   },
+   "mode": "block or bulk deal",
+   "open_offer": {
+    "made": false,
+    "price": "not stated",
+    "size": "not stated",
+    "status": "not stated"
+   },
+   "control_changes": false,
+   "board_or_management_change_with_it": "not stated",
+   "dates": [
+    {
+     "event": "block deal",
+     "date": "2025-12-08"
+    }
+   ],
+   "announced_on": "2025-12-08",
+   "quote": ""
+  }
+ },
+ "EPL::own": {
+  "stamp": "33b3b765f0d057b635276ac1ad87d568",
+  "answer": {
+   "verdict": "change_of_control",
+   "what_happened": "Promoter Epsilon Bidco Pte. Ltd. (Blackstone vehicle, ultimate beneficial owner Sun Yiming) sold its entire 26.37% holding in EPL on 1 September 2026 through on-market/block trades, falling to 0%. Buyers were institutional investors (Bandhan MF, PSP Investment Board, ADIA and others); no new promoter emerged. Board approved its reclassification from promoter to public.",
+   "outgoing_owner": {
+    "name": "Epsilon Bidco Pte. Ltd. (ultimate beneficial owner Sun Yiming; referred to on the earnings call as promoter Blackstone)",
+    "kind": "private-equity sponsor",
+    "stake_before": "26.37% (26.38% per shareholding register as on 2026-06-30)",
+    "stake_after": "0%",
+    "why": "not stated"
+   },
+   "incoming_owner": {
+    "name": "Open-market buyers — Bandhan Mutual Fund, Public Sector Pension Investment Board, Abu Dhabi Investment Authority, Aditya Birla Sun Life Insurance, IRage Broking Services LLP",
+    "kind": "public — no single owner",
+    "stake_after": "not stated (Bandhan Mutual Fund held 9.39% after 2026-11-13; others below 5%)",
+    "price_per_share": "not stated",
+    "deal_value": "not stated",
+    "who_they_are": "not stated"
+   },
+   "mode": "block or bulk deal",
+   "open_offer": {
+    "made": false,
+    "price": "not stated",
+    "size": "not stated",
+    "status": "not stated"
+   },
+   "control_changes": true,
+   "board_or_management_change_with_it": "The outgoing promoter confirmed it does not exercise control, has no special rights or shareholder agreements, is \"not represented on the board of directors (including not having a nominee director) of the Company\" and does not act as key managerial personnel. No other director/CEO change is stated in these filings (the Oct 2025 call referred to Anand Kripalu's retirement decision, unconnected by management to these developments).",
+   "dates": [
+    {
+     "event": "block deal",
+     "date": "2026-09-01"
+    },
+    {
+     "event": "completion",
+     "date": "2026-09-01"
+    },
+    {
+     "event": "other",
+     "date": "2026-09-03"
+    },
+    {
+     "event": "other",
+     "date": "2026-10-16"
+    },
+    {
+     "event": "approval",
+     "date": "2026-10-21"
+    },
+    {
+     "event": "other",
+     "date": "2026-10-23"
+    }
+   ],
+   "announced_on": "2026-09-03",
+   "quote": "We, Epsilon Bidco Pte. Ltd. (“Outgoing Promoter”), the promoter of EPL Limited (“Company”) have, by way of on-market trades undertaken on 1 September 2026, sold our entire shareholding in the Company i.e. 84,479,781 equity shares aggregating to 26.37% of the paid-up share capital of the Company and since then we have nil (0.00%) shareholding in the Company."
+  }
+ },
+ "COROMANDEL::own": {
+  "stamp": "67572385f220754ead6ace4aacbf9ce3",
+  "answer": {
+   "verdict": "none",
+   "what_happened": "Only promoter-group list housekeeping: Algavista Greentech (holding nil shares) was re-classified out of the promoter group after EID-Parry sold its 50% stake in Algavista to JV partner Synthite; a daughter, two group entities and a family trust were added; a deceased member's shares passed to her legal heir. Promoter holding stayed ~56.9%–56.3%.",
+   "outgoing_owner": {
+    "name": "Algavista Greentech Private Limited (re-classified from promoter group; held nil shares in Coromandel)",
+    "kind": "other",
+    "stake_before": "Nil",
+    "stake_after": "Nil",
+    "why": "\"change in the shareholding of E.I.D.-Parry (India) Limited (EID) in AGPL from 50% to nil holdings, because of stake sale in AGPL by EID to its Joint Venture partner (M/s. Synthite Industries Private Limited)\""
+   },
+   "incoming_owner": {
+    "name": "",
+    "kind": "not stated",
+    "stake_after": "not stated",
+    "price_per_share": "not stated",
+    "deal_value": "not stated",
+    "who_they_are": "not stated"
+   },
+   "mode": "other",
+   "open_offer": {
+    "made": false,
+    "price": "not stated",
+    "size": "not stated",
+    "status": "not stated"
+   },
+   "control_changes": false,
+   "board_or_management_change_with_it": "not stated",
+   "dates": [
+    {
+     "event": "other",
+     "date": "2025-12-18"
+    },
+    {
+     "event": "approval",
+     "date": "2026-03-19"
+    },
+    {
+     "event": "other",
+     "date": "2026-01-19"
+    }
+   ],
+   "announced_on": "2025-12-18",
+   "quote": "AGPL does not fall under the definition of Promoter group specified in 2(pp) of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 and has requested their name to be removed from the Company's Promoter group list."
+  }
+ },
+ "RBLBANK::seat": {
+  "stamp": "bc1e6cb89805f2f5ab171a16d2a2c104",
+  "answer": {
+   "changes": [
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Buvanesh Tharashankar",
+      "last_day": "2025-12-15",
+      "reason": "resignation",
+      "reason_in_their_words": "has tendered his resignation in order to pursue opportunities outside the Bank",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Deepak Ruiya",
+      "effective": "2025-12-30",
+      "interim": true,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "He is a qualified Chartered Accountant, FRM, and CFA Level 2.",
+      "experience_years": "his career spans over 22 years in the banking and financial services sector",
+      "previous_roles": [
+       {
+        "company": "BSE",
+        "role": "management trainee",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "ICICI Lombard",
+        "role": "managed financial operations",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Barclays Bank",
+        "role": "Vice President – Finance (Corporate & Investment Bank)",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "RBL Bank",
+        "role": "Deputy Chief Financial Officer",
+        "from": "2014",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Deepak Ruiya is a finance professional, and his career spans over 22 years in the banking and financial services sector. He is a qualified Chartered Accountant, FRM, and CFA Level 2. He started his career at BSE as a management trainee and later joined ICICI Lombard, where he managed financial operations. He then moved to Barclays Bank, where he spent 9+ years and was last designated as Vice President – Finance (Corporate & Investment Bank). He joined RBL Bank in 2014 and is currently Deputy Chief Financial Officer."
+     },
+     "status": "effective",
+     "announced_on": "2025-12-15",
+     "quote": "Resignation of Mr. Buvanesh  Tharashankar  as Chief Financial Officer  of the Bank  with effect from  the close of business hours on December 15, 2025 , in order to pursue opportunities outside the Bank."
+    },
+    {
+     "seat": "CFO",
+     "designation_as_written": "Chief Financial Officer (\"CFO\") and Key Managerial Personnel (\"KMP\")",
+     "is_change": true,
+     "not_a_change_because": "",
+     "outgoing": {
+      "name": "Deepak Ruiya",
+      "last_day": "2026-06-12",
+      "reason": "interim holder replaced",
+      "reason_in_their_words": "Consequent to the appointment of Mr. Bhavin Lakhpatwala as CFO & KMP of the Bank, Mr. Deepak Ruiya shall cease to be the KMP of the Bank and shall continue as the Deputy CFO of the Bank.",
+      "in_seat_since": "2025-12",
+      "stays_on_as": "Deputy CFO of the Bank"
+     },
+     "incoming": {
+      "name": "Bhavin Lakhpatwala",
+      "effective": "2026-06-12",
+      "interim": false,
+      "from_where": "external",
+      "age": "not stated",
+      "qualifications": "He is a Chartered Accountant",
+      "experience_years": "over twenty-five years of experience",
+      "previous_roles": [
+       {
+        "company": "HDFC Bank",
+        "role": "part of the CFO leadership team",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "HDFC",
+        "role": "part of the senior management team in the CFO's office",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty-five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank–HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO's office. His core responsibilities have spanned Financial Planning & Analysis, corporate finance and business intelligence."
+     },
+     "status": "effective",
+     "announced_on": "2026-06-12",
+     "quote": "the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ( \"CFO\") and Key Managerial Personnel (\"KMP\") of the Bank with effect from June 12, 2026."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Whole-time Director (designated as Executive Director)",
+     "is_change": false,
+     "not_a_change_because": "other: Rajeev Ahuja retired as Executive Director on 2026-02-20 upon completion of term and Jaideep Iyer assumed that charge on 2026-02-21, but the Executive Director is not the Bank's chief executive — Mr. R. Subramaniakumar remains Managing Director & CEO throughout these filings",
+     "outgoing": {
+      "name": "Rajeev Ahuja",
+      "last_day": "2026-02-20",
+      "reason": "end of term",
+      "reason_in_their_words": "has retired from the services of the Bank upon completion of his term and has accordingly ceased to be the Whole-time Director (designated as Executive Director)",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Jaideep Iyer",
+      "effective": "2026-02-21",
+      "interim": false,
+      "from_where": "internal",
+      "age": "not stated",
+      "qualifications": "Mr. Jaideep Iyer holds a Masters in Business Administration from IIM Ahmedabad and Bachelor's degree in Engineering.",
+      "experience_years": "a career spanning over 25 years in the financial sector",
+      "previous_roles": [
+       {
+        "company": "Yes Bank",
+        "role": "Group President and Deputy CFO",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "RBL Bank",
+        "role": "Head Strategy / in charge of Finance, Strategy and Investor Relations",
+        "from": "2018",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Jaideep Iyer is a seasoned banker with a career spanning over 25 years in the financial sector. He has worked across verticals such as Finance, Strategy, Investor Relations, Corporate Banking & Financial Markets. He has been associated with the Bank since February 2018 and in his current role at the Bank, he is in charge of Finance, Strategy and Investor Relations. He also leads the Credit Cards team. Prior to joining RBL Bank, he was the Group President and Deputy CFO at Yes Bank for 9 years and was responsible for Finance & Accounting, Taxation, Business & Management Information Systems, Investor Relations and Financial Strategy."
+     },
+     "status": "effective",
+     "announced_on": "2025-12-30",
+     "quote": "Mr. Rajeev Ahuja (DIN: 00003545), Executive Director of the Bank, has retired from the services of the Bank upon completion of his term and has accordingly ceased to be the Whole-time Director (designated as Executive Director) and Key Managerial Personnel of the Bank with effect from the close of business hours o f February 20, 2026."
+    }
+   ],
+   "read": "These RBL Bank filings cover the CFO seat changing hands twice (Buvanesh Tharashankar's resignation, Deepak Ruiya as Interim CFO, then Bhavin Lakhpatwala as CFO), the Executive Director transition from Rajeev Ahuja to Jaideep Iyer, a new independent director, and an EGM — with Mr. R. Subramaniakumar continuing as Managing Director & CEO throughout."
+  }
+ },
+ "RBLBANK::own": {
+  "stamp": "08ed880b13b485328b1f4523bd4cce7b",
+  "answer": {
+   "verdict": "change_of_control",
+   "what_happened": "Emirates NBD Bank (P.J.S.C.) subscribed to a preferential issue of 929,134,820 shares at ₹280, allotted 18 June 2026, taking 60% of RBL Bank and sole control; it became promoter of a bank that previously had no promoter. The mandatory 26% open offer closed with nil shares tendered.",
+   "outgoing_owner": {
+    "name": "",
+    "kind": "not stated",
+    "stake_before": "0.0%",
+    "stake_after": "0.0%",
+    "why": "not stated"
+   },
+   "incoming_owner": {
+    "name": "Emirates NBD Bank (P.J.S.C.)",
+    "kind": "strategic buyer",
+    "stake_after": "60.00%",
+    "price_per_share": "₹280 (open offer ₹282.38 incl. ₹2.38 interest)",
+    "deal_value": "maximum aggregate of ₹268,532,778,080 for the Subscription Shares (approximately US $3 billion per the Oct 2025 earnings call); open offer consideration ₹117,353,299,774.34 assuming full acceptance",
+    "who_they_are": "\"a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates\"; \"The Acquirer is a leading banking group in the MENATSA region, serving over 10,000,000 active customers with presence in 13 countries; and India is a key strategic market for the Acquirer, and the acquisition of the Target Company represents an opportunity to expand the Acquirer's presence in India.\" Earnings call: \"second largest bank in the UAE, and a leading financial group in the MENAT region\". Listed on Dubai Financial Market; shareholders include ICD and DH 7. Post-completion the Acquirer's India Branches are to be amalgamated into RBL Bank (CCI approval received 20 January 2026)."
+   },
+   "mode": "preferential issue",
+   "open_offer": {
+    "made": true,
+    "price": "₹282.38 per share (Offer Price ₹280 plus Applicable Interest ₹2.38)",
+    "size": "26.00% of Expanded Voting Share Capital (up to 415,586,443 shares)",
+    "status": "completed — nil shares tendered"
+   },
+   "control_changes": true,
+   "board_or_management_change_with_it": "RBI approval was obtained for Acquirer-nominated directors and for amendment of RBL Bank's articles of association to give effect to revised board composition requirements; \"as on the date of the Letter of Offer, the Acquirer has identified relevant persons to be appointed on the Board and as on the date of the Letter of Offer, there are no nominees of the Acquirer on the Board.\" As on 22 May 2026 there were no Acquirer-nominated directors on the board; Chandan Sinha remained Chairman and R. Subramaniakumar Managing Director (CEO).",
+   "dates": [
+    {
+     "event": "agreement",
+     "date": "2025-10-18"
+    },
+    {
+     "event": "public announcement",
+     "date": "2025-10-18"
+    },
+    {
+     "event": "approval",
+     "date": "2025-11-12"
+    },
+    {
+     "event": "approval",
+     "date": "2026-01-20"
+    },
+    {
+     "event": "approval",
+     "date": "2026-04-13"
+    },
+    {
+     "event": "approval",
+     "date": "2026-05-14"
+    },
+    {
+     "event": "open offer opens",
+     "date": "2026-06-01"
+    },
+    {
+     "event": "other",
+     "date": "2026-06-12"
+    },
+    {
+     "event": "completion",
+     "date": "2026-06-18"
+    }
+   ],
+   "announced_on": "2025-10-18",
+   "quote": "Pursuant to the Open Offer and the Preferential Issue, the Acquirer has acquired control over the TC and the Acquirer has become the promoter of the TC in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015."
+  }
+ }
+}

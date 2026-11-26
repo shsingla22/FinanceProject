@@ -1,0 +1,38 @@
+--- CIMG_JSFB_03072026_CIM_WebXMLFile_20260703_181308683_2.xml (the exchange's structured disclosure) ---
+NSESymbol: JSFB ; Name Of The Company: JANA SMALL FINANCE BANK LIMITED ; Scrip Code: 544118 ; MSEISymbol: NA ; ISIN: INE953L01027 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-07-03 ; Time Of Occurrence Of Event Or Information: 05:03:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-07-03 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: CHIEF RISK OFFICER ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Asheesh Maroo ; Effective Date Of Reason Of Change: 2026-08-30 ; Salutation: Mr. ; Name Of The Person: Asheesh Maroo ; Designation Of Person: CHIEF RISK OFFICER ; Date On Which The Resignation Letter Was Received: 2026-07-03 ; Effective Date Of Resignation: 2026-08-30 ; Reason Of Resignation In Brief: due to personal reason of moving back to Mumbai
+
+--- am_resignation_letter_1.pdf ---
+Rashmi.m
+From:
+Sent:
+To:
+Cc:
+Subject:
+
+Asheesh.Maroo <asheesh.maroo@jana.bank.in>
+Friday, 3 July, 2026 15:25
+'Ajay Kanwal'
+'Amit Bakshi'
+Resignation
+
+Dear Ajay ,
+Further to our discussion ,I would like to resign from the services of the bank due to personal reason of
+moving back to Mumbai .
+Request to relieve myself from the responsibilities effective 30th August 2026 .
+Thanking you for all the support during my stint with the bank.
+
+Regards,
+Asheesh Maroo
+Chief Credit Officer
+
+Jana Small Finance Bank Ltd.
+The Fairway Business Park,
+First Floor, Domlur Koramangala Inner Ring Road
+Near Embassy Golf Links Business Park
+Challaghatta, Bangalore-560 071
+M: +91-9036548362
+www.janabank.com
+
+1
+
+

@@ -1,0 +1,57 @@
+--- CIMG_544027_1452026191954_CIM_WebXMLFile_20260514_191958436_2.xml (the exchange's structured disclosure) ---
+NSESymbol: FEDFINA ; Name Of The Company: FEDBANK FINANCIAL SERVICES LIMITED ; Scrip Code: 544027 ; MSEISymbol: NOTLISTED ; ISIN: INE007N01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-05-14 ; Time Of Occurrence Of Event Or Information: 17:02:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-14 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non-Executive - Nominee Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Maninder Singh Juneja ; Effective Date Of Reason Of Change: 2026-05-14 ; Salutation: Mr. ; Name Of The Person: Maninder Singh Juneja ; Designation Of Person: Non-Executive - Nominee Director ; Date On Which The Resignation Letter Was Received: 2026-05-14 ; Effective Date Of Resignation: 2026-05-14 ; Reason Of Resignation In Brief: Mr. Maninder Singh Juneja (DIN: 02680016), Nominee Director (representing True North Fund VI LLP) has tendered his resignation as Nominee Director of the Company with effect from May 14, 2026, consequent to the transaction where True North Fund VI LLP have sold the entire residual stake in the Company. Further, he has confirmed that there are no other material reason for resignation as Director of the Company other than those mentioned above.
+
+--- CIMG_544027_14052026191954_1.pdf ---
+From: Maninder Singh Juneja (True North)
+Sent: 14 May 2026 17:02
+To: Shyam Srinivasan
+Cc: Mona Bhide
+; Parvez Mulla
+Harsh Dugar
+>; Muralidharan Rajamani
+; Sunil Gulati
+Ramesh S
+; sonal Dave
+; Manian KVS
+Parthasarathy Rajagopal Iyengar
+Subject: [External]:Resignation from the position of Nominee Director of the Company
+CAUTION: This email originated from outside the Fedfina Organization. Do not click on links
+or open attachments unless you recognize the sender and know the content is safe.
+Maninder Singh Juneja
+May 14, 2026
+To ,
+The Board of Directors
+Fedbank Financial Services Limited (‘the Company”)
+Unit no. 1101, 11th Floor, Cignus,
+Plot No 71 A, Powai, Paspoli,
+Mumbai – 400087, Maharashtra
+Sub.: Resignation from position of Nominee Director of the Company
+Dear Sirs/Madam,
+This is to inform the Board that I hereby resign as the Nominee Director of the Company
+with eƯect from May 14, 2026, following True North's sale of its entire shareholding in the
+Company. I shall also cease as a Member /Chairperson of all the Committees of the
+Company in which I hold Membership / Chair, if any.
+Further, I hereby confirm that there are no other material reasons for my resignation as the
+Director of the Company other than those mentioned above.
+I again thank each of the members of the Board and Senior Management for giving me full
+support during my term. I wish the Company all the success in the future.
+Thanking you,
+Yours faithfully,
+Maninder Singh Juneja
+DIN: 02680016
+
+
+Sent from my iPhone
+
+Suite F9C, Grand Hyatt Plaza, Santacruz (E), Mumbai 400 055, India.
+
+****** Internet Email Confidentiality Footer ******
+Privileged/Confidential Information may be contained in this message and is intended only for the use of t
+addressee. If you are not the addressee, or person responsible for delivering it to the addressee, you shoul
+or deliver this to anyone else. If you receive this message by mistake, please delete the message from any/
+computer/s and notify the sender immediately by reply email. We appreciate your assistance in preserving
+confidentiality of our correspondence. Any information in this message that does not relate to the oƯicial b
+the organisation shall be understood as neither given nor endorsed by it. Please advise immediately if you
+employer does not consent to internet email for messages of this kind. Thank you.
+
+

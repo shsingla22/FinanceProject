@@ -1,0 +1,811 @@
+--- CIMG_543396_372026213541_CIM_WebXMLFile_20260703_230406258_1.xml (the exchange's structured disclosure) ---
+NSESymbol: PAYTM ; Name Of The Company: ONE 97 COMMUNICATIONS LIMITED ; Scrip Code: 543396 ; MSEISymbol: NOTLISTED ; ISIN: INE982J01020 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-07-03 ; Start Time Of Board Meeting: 20:05:00 ; End Time Of Board Meeting: 20:35:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 7 ; Remarks For Website Dissemination: Notes: 1. The resignation tendered by Ms. Urvashi Sahai (DIN: 09521316), from the office of Whole-time Director and Key Managerial Personnel of the Company is effective from the closure of business hours on July 05, 2026. 2. Further, she will continue to serve the Company in her existing executive capacity as General Counsel & Senior Vice President – Legal and designated as Senior Managerial Personnel of the Company with effect from July 06, 2026. ; Date Of Report: 2026-07-03 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Narasinganallore Venkatesh Srinivasan ; Effective Date Of Reason Of Change: 2026-07-05 ; Term Of Appointment In Months: 36 ; Brief Profile: Mr. Narasinganallore Venkatesh Srinivasan has over four decades of experience in the financial sector in matters relating to Finance, Risk Management, Treasury, International Banking, Capital Markets, Credit Risk, Market Risk, Information Technology, Accounting Standards, Audit & Assurance as well as Bank Taxation and Financial Modeling. Furthermore, he is an expert in Bank Strategy, Mergers & Acquisitions and Turnaround of Banks. He is currently the ex-officio member of Hybrid Securities Committee and the CEO of Bharat InvITs Association. In his last executive role, he was the Chief Executive Officer of Association of Mutual Funds in India. He was a member of Technical Advisory Committee of Reserve Bank of India on Money Market, Securities Market & Foreign Exchange from 2011 to 2016. He was also the Chairman of Fixed Income, Money Markets & Derivatives Association (FIMMDA) during the same period and was the Management Committee Member of Foreign Exchange Dealers’ Association of India (FEDAI). He was a Member of the various Committees constituted by RBI. He worked at IDBI for over 19 years where he held several senior positions including that of Chief Financial Officer and Executive Director. He led the team which transformed IDBI from a Development Financial Institution to a Universal Bank. He has served as the Chief Financial Officer and Executive Director on the Board of Lakshmi Vilas Bank (until 2017). He is an invitee- ex-officio of SEBI Mutual Funds Advisory Committee and was a member of the Corporate Bonds and Securitization Advisory Committee (CoBoSAC) of SEBI. He was a Member of the Government of Maharashtra Advisory Committee to advise the Chief Minister of Maharashtra on Cash Management and Government borrowing. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Narasinganallore Venkatesh Srinivasan is not related to any Director of the Company ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Sachee Trivedi ; Brief Profile: Ms. Sachee Trivedi is the Founder & Managing Partner of Trident Capital Investments, a FPI fund investing in India. Prior to founding Trident, she was a Fund Manager with the Global Equities team at Columbia Threadneedle Investments in London. She began her career at KPMG in New York, where she advised financial services clients through a period of significant regulatory reform following the global financial crisis. She serves on the Board of the Indian Business Chamber of Luxembourg (IBCL) and is a founding member of the Luxembourg chapter of 100 Women in Finance. Ms. Trivedi holds degrees in Electrical Engineering from the Indian Institute of Technology, Kanpur and the University of Maryland, and an MBA from Columbia Business School in New York. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Ms. Sachee Trivedi is not related to any Director of the Company. ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Vice President- Investor Relations ; Name Of Designated Person: Anuj Mittal ; Effective Date Of Reason Of Change: 2026-07-03 ; Brief Profile: Mr. Anuj Mittal, MBA Finance & B. Tech, is Senior Vice President - Investor Relations and has been associated with the Company since March 2022. In his current role, he leads investor relationships and plays a critical role in articulating Paytm’s long-term growth story to the shareholders and investor community. Mr. Mittal brings more than two decades of diversified experience in Capital Markets (Equity and Debt), Strategy, Investor relations and Treasury across leading domestic and international financial institutions. Over the course of his career, he has held leadership roles at various reputed organizations including L&T Finance, J.P. Morgan, Standard Chartered Bank and Piramal Finance. ; Designation Of Designated Person: Chief Operating Officer- Lending (P2P, Merchant Loans) ; Name Of Designated Person: Avijit Jain ; Brief Profile: Mr. Avijit Jain, Masters in Commerce (P), is Senior Vice President & Chief Operating Officer – Loan distribution has been associated with the Company since September 2019. He leads digital lending businesses, driving strategy across sales, partnerships, growth and portfolio management and Collections. Prior to this, he spent over 17 years with HDFC Bank as Senior Vice President, where he led large national sales teams and held leadership roles across retail banking, SME lending, credit, collections, and digital transformation. ; Designation Of Designated Person: CEO- Travel & Chief Operating Officer- Consumer ; Name Of Designated Person: Vikash Jalan ; Brief Profile: Mr. Vikash Jalan, Bachelor of Engineering, is the Chief Operating Officer – Consumer Payments at Paytm and has been associated with the Company since September 2019. He also serves as the Chief Executive Officer of Nearbuy, a subsidiary of Paytm. In his current role, he leads several of the company's core consumer businesses, including UPI, Recharges & Bill Payments, Transit and Gift Vouchers, driving business strategy, product innovation and growth. Mr. Jalan has over 20 years of leadership experience across fintech, consumer internet, digital commerce and travel. He has built, scaled and transformed consumer businesses, with expertise spanning business strategy, product management, technology and operations. Prior to his current role, he served as Chief Executive Officer of Paytm Travel. Earlier, he co-founded RentOnGo, a shared mobility platform, and held leadership positions at Flipkart and Goldman Sachs. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Three: WTD ; Name Of Designated Person: Urvashi Sahai ; Designation Of Designated Person: General Counsel & Senior Vice President-Legal ; Effective Date Of Reason Of Change: 2026-07-06 ; Brief Profile: Ms. Urvashi Sahai, B.A (Hons), LLB. is an experienced legal professional. She has been associated with the Company as General Counsel and Senior Vice President - Legal since 2020. She has been providing strategic legal counsel to the Board of Directors and the senior management on a wide array of critical matters, including corporate law, governance matters, dispute resolution, liaising with law enforcement agencies, investments and intellectual property. Prior to her stint with One 97 Communications Ltd., she served as General Counsel and Senior Vice President – Legal for Walmart India, where she played a pivotal role during critical growth and transformation phases whilst overseeing the legal function and related governance matters. Prior to that, she was with Amarchand Mangaldas and Suresh A. Shroff where she gained a firm grounding in all aspects of corporate law with national and international exposure. With a long and varied career, She brings a unique blend of legal acumen, strategic leadership, and multinational corporate experience ; Salutation: Ms. ; Name Of The Person: Urvashi Sahai ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-07-03 ; Effective Date Of Resignation: 2026-07-05 ; Reason Of Resignation In Brief: To focus on her executive responsibilities within the Company.
+
+--- CIMG_543396_03072026213541_2.pdf ---
+July 03, 2026
+BSE Limited
+Department of Corporate Services,
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort,
+Mumbai - 400 001
+
+National Stock Exchange of India Limited
+The Listing Department,
+Exchange Plaza,
+Bandra Kurla Complex,
+Mumbai - 400 051
+
+Scrip Code: 543396
+
+Symbol: PAYTM
+
+Sub.: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 - Appointment of Independent Directors and Additions to Senior Management Personnel
+Dear Sir/ Ma’am,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI
+Listing Regulations”), we wish to inform that the Board of Directors at its meeting held today i.e., July 03, 2026,
+has approved the following appointments, further strengthening the Company’s Board with independent
+directors as the Company pursues next phase of growth and higher profitability:
+1.
+
+Based on the recommendation of the Nomination and Remuneration Committee, and subject to the approval
+of the members of the Company in the ensuing Annual General Meeting, as per applicable provisions of the
+Companies Act, 2013 and the SEBI Listing Regulations:
+
+a.
+
+Appointment of industry veteran Mr. Narasinganallore Venkatesh Srinivasan (DIN: 01893686) as NonExecutive Independent Director of the Company with effect from July 05, 2026, for a term of three (3)
+consecutive years. Mr. Venkatesh Srinivasan brings over four decades of experience across finance, capital
+markets, banking, risk and treasury management, having held leadership positions at IDBI and the Association
+of Mutual Funds in India (AMFI).
+
+b.
+
+Appointment of Ms. Sachee Trivedi (DIN: 11767043), Founder and Managing Partner of Trident Capital
+Investments, as Non-Executive Independent Director of the Company with effect from July 05, 2026,for a
+term of three (3) consecutive years. Ms. Trivedi brings over two decades of experience spanning global
+equities investing and regulatory advisory in the financial services industry across the US and Europe, with a
+strong background in technology. She also holds leadership roles within Luxembourg’s business organisations.
+
+2.
+
+Accepted the resignation tendered by Ms. Urvashi Sahai (DIN: 09521316), from the office of Whole-time
+Director and Key Managerial Personnel of the Company, in order to focus on her executive responsibilities
+within the Company, with effect from closure of business hours on July 05, 2026. Consequently, her position
+as a member of the Stakeholders’ Relationship Committee of the Company will also conclude with effect from
+the closure of business hours on July 05, 2026. She will continue to serve the Company in her existing
+executive capacity as General Counsel & Senior Vice President – Legal and designated as Senior Managerial
+Personnel of the Company with effect from July 06, 2026.
+The Board has placed on record its deep appreciation for the valuable guidance and services rendered by Ms.
+Sahai during her tenure. The necessary details and a copy of her email dated July 03, 2026, are attached
+herewith as Annexure - II.
+
+3.
+
+Designation of Mr. Anuj Mittal (Senior Vice President – Investor Relations), Mr. Avijit Jain (Senior Vice
+President & Chief Operating Officer – Loan distribution) and Mr. Vikash Jalan (Chief Operating Officer –
+Consumer Payments) as additional Senior Management Personnel of the Company, based on the
+recommendation of the Nomination and Remuneration Committee, with effect from July 03, 2026.
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+
+The relevant details for Items 1, 2 & 3 above, as required under the SEBI Listing Regulations read with SEBI Master
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 (‘SEBI Master Circular’), are
+enclosed herewith as Annexure – I, Annexure – II and Annexure - III, respectively.
+The Board meeting commenced at 08:05 p.m. (IST) and concluded at 08:35 p.m. (IST).
+This disclosure will also be hosted on the Company's website viz. https://ir.paytm.com/.
+Kindly take the same on record.
+Thanking you
+Yours Sincerely,
+For One 97 Communications Limited
+
+SUNIL KUMAR
+BANSAL
+
+Digitally signed by SUNIL
+KUMAR BANSAL
+Date: 2026.07.03 21:11:33
++05'30'
+
+Sunil Kumar Bansal
+Company Secretary & Compliance Officer
+FCS: 4810
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+
+Information as required under Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations 2015 and SEBI Master Circular dated January 30, 2026
+Annexure – I
+S. No. Particulars
+
+1.
+
+2.
+
+3.
+
+Reason for change
+viz. appointment,
+re-appointment,
+removal, death or
+otherwise
+Date
+of
+appointment/reappointment/cessa
+tion (as applicable)
+&
+term
+of
+appointment/reappointment
+Brief profile (in case
+of appointment (as
+provided by them)
+
+Details
+Mr.
+Narasinganallore
+Venkatesh Ms. Sachee Trivedi
+Srinivasan
+Appointment of Mr. Narasinganallore Appointment of Ms. Sachee Trivedi
+Venkatesh Srinivasan (DIN: 01893686) as (DIN: 11767043) as an Additional
+an Additional Director designated as Non- Director designated as Non-Executive
+Executive Independent Director.
+Independent Director.
+Date of appointment: July 05, 2026
+
+Date of appointment: July 05, 2026
+
+Term of appointment: The term of
+appointment as an Independent Director
+shall be three (3) consecutive years w.e.f.
+July 05, 2026, subject to the approval of
+members of the Company.
+
+Term of appointment: The term of
+appointment as an Independent
+Director shall be three (3) consecutive
+years w.e.f. July 05, 2026, subject to the
+approval of members of the Company.
+
+Mr.
+Narasinganallore
+Venkatesh
+Srinivasan has over four decades of
+experience in the financial sector in
+matters relating to Finance, Risk
+Management, Treasury, International
+Banking, Capital Markets, Credit Risk,
+Market Risk, Information Technology,
+Accounting Standards, Audit & Assurance
+as well as Bank Taxation and Financial
+Modeling. Furthermore, he is an expert in
+Bank Strategy, Mergers & Acquisitions and
+Turnaround of Banks.
+
+Ms. Sachee Trivedi is the Founder &
+Managing Partner of Trident Capital
+Investments, a FPI fund investing in
+India. Prior to founding Trident, she was
+a Fund Manager with the Global Equities
+team at Columbia Threadneedle
+Investments in London. She began her
+career at KPMG in New York, where she
+advised financial services clients
+through a period of significant
+regulatory reform following the global
+financial crisis. She serves on the Board
+of the Indian Business Chamber of
+Luxembourg (IBCL) and is a founding
+member of the Luxembourg chapter of
+100 Women in Finance.
+
+He is currently the ex-officio member of
+Hybrid Securities Committee and the CEO
+of Bharat InvITs Association.
+In his last executive role, he was the Chief
+Executive Officer of Association of Mutual
+Funds in India.
+He was a member of Technical Advisory
+Committee of Reserve Bank of India on
+Money Market, Securities Market &
+Foreign Exchange from 2011 to 2016. He
+was also the Chairman of Fixed Income,
+Money Markets & Derivatives Association
+(FIMMDA) during the same period and
+was the Management Committee
+Member of Foreign Exchange Dealers’
+Association of India (FEDAI). He was a
+Member of the various Committees
+constituted by RBI.
+
+Ms. Trivedi holds degrees in Electrical
+Engineering from the Indian Institute of
+Technology, Kanpur and the University
+of Maryland, and an MBA from
+Columbia Business School in New York.
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+
+S. No. Particulars
+Mr.
+Narasinganallore
+Srinivasan
+
+Details
+Venkatesh Ms. Sachee Trivedi
+
+He worked at IDBI for over 19 years where
+he held several senior positions including
+that of Chief Financial Officer and
+Executive Director. He led the team which
+transformed IDBI from a Development
+Financial Institution to a Universal Bank.
+He has served as the Chief Financial Officer
+and Executive Director on the Board of
+Lakshmi Vilas Bank (until 2017).
+
+4.
+
+Disclosure
+of
+relationships
+between directors
+(in
+case
+of
+appointment of a
+director)
+
+5.
+
+Information
+as
+required pursuant
+to BSE Circular with
+ref.
+no.
+LIST/COMP/14/201
+8-19
+and
+the
+National
+Stock
+Exchange of India
+Ltd with ref. no.
+NSE/
+CML/
+2018/24,
+dated
+June 20, 2018.
+
+He is an invitee- ex-officio of SEBI Mutual
+Funds Advisory Committee and was a
+member of the Corporate Bonds and
+Securitization
+Advisory
+Committee
+(CoBoSAC) of SEBI. He was a Member of
+the Government of Maharashtra Advisory
+Committee to advise the Chief Minister of
+Maharashtra on Cash Management and
+Government borrowing.
+Mr.
+Narasinganallore
+Venkatesh Ms. Sachee Trivedi is not related to any
+Srinivasan is not related to any Director of Director of the Company.
+the Company.
+
+Mr.
+Narasinganallore
+Venkatesh
+Srinivasan is not debarred from holding
+the office of director by virtue of any SEBI
+order or any other authority.
+
+Ms. Sachee Trivedi is not debarred from
+holding the office of director by virtue
+of any SEBI order or any other authority.
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+
+Annexure – II
+S. No.
+
+Particulars
+
+Details
+
+1.
+
+Name of Director
+
+Ms. Urvashi Sahai (DIN: 09521316)
+
+2.
+
+Reason for change viz. appointment, re-appointment,
+removal, death or otherwise
+
+To focus on her executive responsibilities
+within the Company.
+
+3.
+
+Date
+of
+appointment/re-appointment/cessation
+applicable) & term of appointment/re-appointment
+
+Date of cessation : July 05, 2026 (from
+closure of business hours)
+
+4.
+
+Brief profile (in case of appointment)
+
+Not Applicable
+
+5.
+
+Disclosure of relationships between directors (in case of
+appointment of a director)
+
+Not Applicable
+
+(as
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+
+From : Urvashi Sahai
+Date: Fri , 3 Jul , 2026, 20:00
+Subject: Resignation from OCL Board
+To: Vijay Shekhar Sharma
+Cc: Sunil Bansal
+
+, Madhur Deora
+
+Dear Vijay,
+I hereby tender my resignation from the Board of Directors of One 97 Communications Limited ,
+with effect from close of business hours on July 5, 2026, in order to focus on my executive
+responsibilities.
+Kindly note that my resignation is limited to my position as a Whole-time Director on the Board and
+I shall continue to serve the company in my existing executive capacity as General Counsel &
+Senior Vice President - Legal.
+I am grateful for the opportunity to have served on the Board, and for the guidance and support
+extended to me during my tenure.
+Best regards ,
+Urvashi Sahai
+
+
+Annexure III
+S. No.
+
+Particulars
+
+Details
+Mr. Anuj Mittal
+
+Mr. Avijit Jain
+
+Mr. Vikash Jalan
+
+Ms. Urvashi Sahai
+
+1.
+
+Reason
+for
+change
+viz.
+appointment,
+reappointment,
+removal, death
+or otherwise
+
+Mr. Anuj Mittal (Senior
+Vice President – Investor
+Relations)
+
+Mr. Avijit Jain [(Chief
+Operating Officer –
+Lending
+(P2P,
+Merchant Loans)]
+
+Mr. Vikash Jalan Chief
+Operating Officer –
+Consumer Payments
+
+Ms. Urvashi Sahai
+(General Counsel &
+Senior
+Vice
+President - Legal)
+
+2.
+
+Date
+of
+appointment/re
+appointment/c
+essation
+(as
+applicable) &
+term
+of
+appointment/re
+-appointment
+
+Date of appointment as
+SMP: July 03, 2026
+
+Date of appointment
+as SMP: July 03, 2026
+
+Date of appointment as
+SMP: July 03, 2026
+
+Date
+of
+appointment
+as
+SMP: July 06, 2026
+
+Term of appointment: As
+per HR policy of the
+Company.
+
+Term of appointment:
+As per HR policy of the
+Company.
+
+Brief profile (in
+case
+of
+appointment) (
+as provided by
+them) )
+
+Mr. Anuj Mittal, MBA
+Finance & B. Tech, is
+Senior Vice President Investor Relations and has
+been associated with the
+Company since March
+2022. In his current role,
+he
+leads
+investor
+relationships and plays a
+critical role in articulating
+Paytm’s long-term growth
+story to the shareholders
+and investor community.
+
+Mr. Avijit Jain, Masters
+in Commerce (P), is
+Senior Vice President
+& Chief Operating
+Officer
+–
+Loan
+distribution and has
+been associated with
+the Company since
+September 2019. He
+leads digital lending
+businesses,
+driving
+strategy across sales,
+partnerships, growth
+and
+portfolio
+management
+and
+collections.
+
+3.
+
+Mr. Mittal brings more
+than two decades of
+diversified experience in
+Capital Markets (Equity
+and Debt), Strategy,
+Investor Relations and
+Treasury across leading
+domestic
+and
+international
+financial
+institutions.
+Over the course of his
+career, he has held
+leadership roles at various
+reputed
+organizations
+including L&T Finance, J.P.
+
+Prior to this, he spent
+over 17 years with
+HDFC Bank as Senior
+Vice President, where
+he led large national
+sales teams and held
+leadership roles across
+retail banking, SME
+lending,
+credit,
+collections, and digital
+transformation.
+
+Term of appointment:
+As per HR policy of the
+Company.
+
+Mr.
+Vikash
+Jalan,
+Bachelor of Engineering,
+is the Chief Operating
+Officer – Consumer
+Payments at Paytm and
+has been associated with
+the
+Company
+since
+September 2019. He also
+serves as the Chief
+Executive Officer of
+Nearbuy, a subsidiary of
+Paytm. In his current role,
+he leads several of the
+company's
+core
+consumer
+businesses,
+including UPI, Recharges
+& Bill Payments, Transit
+and
+Gift
+Vouchers,
+driving business strategy,
+product innovation and
+growth.
+Mr. Jalan has over 20
+years
+of
+leadership
+experience
+across
+fintech,
+consumer
+
+Ms. Urvashi Sahai,
+B.A (Hons), LLB. is an
+experienced
+legal
+professional.
+She
+has been associated
+with the Company as
+General Counsel and
+Senior
+Vice
+President - Legal
+since 2020. She has
+been
+providing
+strategic
+legal
+counsel to the Board
+of Directors and the
+senior management
+on a wide array of
+critical
+matters,
+including corporate
+law,
+governance
+matters,
+dispute
+resolution, liaising
+with
+law
+enforcement
+agencies,
+investments
+and
+intellectual
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+
+S. No.
+
+Particulars
+
+Details
+Mr. Anuj Mittal
+
+Mr. Avijit Jain
+
+Morgan,
+Standard
+Chartered Bank and
+Piramal Finance.
+
+4.
+
+Disclosure
+of
+relationships
+between
+directors
+(in
+case
+of
+appointment of
+a director)
+
+Not Applicable
+
+Not Applicable
+
+Mr. Vikash Jalan
+
+Ms. Urvashi Sahai
+
+internet,
+digital
+commerce and travel. He
+has built, scaled and
+transformed consumer
+businesses,
+with
+expertise
+spanning
+business
+strategy,
+product management,
+technology
+and
+operations. Prior to his
+current role, he served as
+Chief Executive Officer of
+Paytm Travel. Earlier, he
+co-founded RentOnGo, a
+shared mobility platform,
+and held leadership
+positions at Flipkart and
+Goldman Sachs
+
+property. Prior to
+her stint with One 97
+Communications
+Ltd., she served as
+General Counsel and
+Senior
+Vice
+President – Legal for
+Walmart
+India,
+where she played a
+pivotal role during
+critical growth and
+transformation
+phases
+whilst
+overseeing the legal
+function and related
+governance matters.
+Prior to that, she
+was with Amarchand
+Mangaldas
+and
+Suresh A. Shroff
+where she gained a
+firm grounding in all
+aspects of corporate
+law with national
+and
+international
+exposure. With a
+long and varied
+career, she brings a
+unique blend of legal
+acumen, strategic
+leadership,
+and
+multinational
+corporate
+experience.
+
+Not Applicable
+
+Not Applicable
+
+One 97 Communications Limited
+
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304
+
+compliance.officer@paytm.com
+
+T: +91120 4770770
+
+www.paytm.com
+
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019
+
+F: +91120 4770771
+
+CIN: L72200DL2000PLC108985
+
+

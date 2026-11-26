@@ -1,0 +1,73 @@
+--- CIM_2552_WebXMLFile_20260827_101353416_2.xml (the exchange's structured disclosure) ---
+NSESymbol: PAGEIND ; Name Of The Company: PAGE INDUSTRIES LIMITED ; Scrip Code: 532827 ; MSEISymbol: NOTLISTED ; ISIN: INE761H01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-26 ; Time Of Occurrence Of Event Or Information: 18:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-27 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: MURUGESH C ; Effective Date Of Reason Of Change: 2026-08-26 ; Salutation: Mr. ; Name Of The Person: MURUGESH C ; Designation Of Person: Company Secretary ; Date On Which The Resignation Letter Was Received: 2026-05-25 ; Effective Date Of Resignation: 2026-08-26 ; Reason Of Resignation In Brief: To pursue another opportunity outside the organization
+
+--- CIMG_532827_27082026101346_1.pdf ---
+27 August 2026
+The Secretary
+Corporate Relationship Dept.
+The Bombay Stock Exchange
+Phirozee Jeejeebhoy Towers
+Dalal Street, Mumbai 400 001
+
+The Secretary
+National Stock Exchange of India
+Exchange Plaza
+Bandra Kurla Complex
+Mumbai – 400 051
+
+Dear Sir/Madam,
+Sub: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 - Resignation of Mr. Murugesh C as Company Secretary & Compliance Officer
+(Senior Management Personnel)
+This is to inform you that Murugesh C has submitted his resignation from the position of Company
+Secretary & Compliance Officer, as he has decided to pursue another opportunity outside the
+organization. His resignation has been accepted by the management and effective from the close of
+business hours on 26 August 2026.
+Details of Mr. Murugesh C as required under Schedule Ill - Para A (7C) of Part A of SEBI (LODR) Regulations.
+Sr. Details of Information that required to
+No be provided
+1 Reason for Change in Senior Management viz.
+appointment, resignation, removal, death or
+otherwise;:
+2
+3
+4
+5
+
+Information of such events
+The reason for his resignation: To pursue
+another opportunity outside the organization.
+
+Date of appointment/cessation
+(as applicable) & term of appointment
+Brief Profile:
+(In case of Appointment)
+Disclosure of relationship between directors:
+(In case of Appointment)
+
+26 August 2026
+
+Letter of Resignation along with detailed
+reason for resignation
+
+Enclosed herewith.
+
+Kindly take note of the above information on record.
+Thanking you,
+Yours sincerely,
+For Page Industries Limited
+Digitally signed by V S
+
+V S GANESH GANESH
+Date: 2026.08.27
+09:24:35 +05'30'
+
+V S Ganesh
+Managing Director
+Encl: as above
+
+Not Applicable
+Not Applicable
+
+
+

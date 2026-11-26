@@ -1,0 +1,33 @@
+--- CIM_12953_WebXMLFile_20261027_212343710_1.xml (the exchange's structured disclosure) ---
+NSESymbol: SYNGENE ; Name Of The Company: SYNGENE INTERNATIONAL LIMITED ; Scrip Code: 539268 ; MSEISymbol: NOTLISTED ; ISIN: INE398R01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-27 ; Start Time Of Board Meeting: 15:15:00 ; End Time Of Board Meeting: 18:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 3 ; Date Of Report: 2026-10-27 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Head Strategy & Corporate Development ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ajay Tandon ; Effective Date Of Reason Of Change: 2026-10-30 ; Category Of Cessation: Cessation ; Designation Of Designated Person: Head of Chemistry ; Name Of Designated Person: Subhendu Kumar ; Effective Date Of Reason Of Change: 2026-10-27 ; Remarks For Change In Management: Not Applicable ; Designation Of Designated Person: Head of Biology ; Name Of Designated Person: Priyaranjan Pattanaik ; Salutation: Mr. ; Name Of The Person: Ajay Tandon ; Designation Of Person: Head Strategy & Corporate Development ; Date On Which The Resignation Letter Was Received: 2026-10-23 ; Effective Date Of Resignation: 2026-10-30 ; Company Remarks: Not Applicable
+
+--- AjayResignation_2.pdf ---
+Annexure - B
+October 23, 2026
+Mr. Siddharth Mittal
+MD &CEO
+Syngene International Limited
+Bengaluru, India
+Dear Siddharth,
+Subject:
+
+Resignation Letter
+
+As discussed, 1 would request you to accept my resignation from my current position as Head
+of Strategy and Corporate Development with effect from October 30, 2026.
+I would like to sincerely thank you, my fellow Executive Committee members and all our
+colleagues in Syngene who I have had the privilege to work with during my tenure here, for
+their camaraderie and collaboration.
+1 wish you all success and happiness in the journey ahead.
+Warm regards.
+Your� sincerely,
+
+.Qrehl;'-
+
+Ajay Tandon
+
+cc:
+Ms. Maninder Kapoor Puri
+CHRO, Syngene International Limited
+
+

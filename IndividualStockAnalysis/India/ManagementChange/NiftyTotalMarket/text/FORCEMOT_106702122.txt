@@ -1,0 +1,29 @@
+--- CIMG_FORCEMOT_17072026_CIM_WebXMLFile_20260717_205432580_2.xml (the exchange's structured disclosure) ---
+NSESymbol: FORCEMOT ; Name Of The Company: FORCE MOTORS LTD ; Scrip Code: 500033 ; MSEISymbol: NOTLISTED ; ISIN: INE451A01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-07-17 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-07-17 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Associate Vice President ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Amit Pramod Joshi ; Effective Date Of Reason Of Change: 2026-07-17 ; Salutation: Mr. ; Name Of The Person: Amit Pramod Joshi ; Designation Of Person: Associate Vice President ; Date On Which The Resignation Letter Was Received: 2026-07-17 ; Effective Date Of Resignation: 2026-07-17 ; Reason Of Resignation In Brief: on account of personal reasons
+
+--- Resignation_Letter_1.pdf ---
+Dated: 17111 July, 2026
+To,
+Managing Director,
+Force Motors Ltd
+Mumbai - Pune Road,
+Akurdi, Pune- 411 035
+Maharashtra, India
+Sub: Resignation from the position of A VP (Corporate Strategy department) of Force
+Motors limited.
+
+I, Amit Pramod Joshi, hereby tender my resignation from the position of AVP, Corporate
+Strategy department of the Company with effect from 17th July, 2026, owing to personal
+reasons.
+I would like to express my sincere gratitude to the management for the support and cooperation
+extended to me during my tenure of association with the Company.
+I request the management to relieve me from my duty with last working day being 17th July,
+2026.
+Thanking you.
+
+Amit Pramod Joshi
+E ID:405705
+
+Page 11
+
+

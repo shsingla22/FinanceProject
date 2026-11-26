@@ -1,0 +1,84 @@
+--- ROD_3MINDIA_23042026_ROID_WebXMLFile_20260423_134700000_1.xml (the exchange's structured disclosure) ---
+NSESymbol: 3MINDIA ; Name Of The Company: 3M INDIA LIMITED ; Scrip Code: 523395 ; MSEISymbol: NOTLISTED ; ISIN: INE470A01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-04-16 ; Time Of Occurrence Of Event Or Information: 15:40:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-04-16 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 1.60420260338363E+15 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-04-23 ; Salutation: Mr. ; Name Of The Person: Rajiv Gupta ; Designation Of Person: Senior Management Personnel ; Date On Which The Resignation Letter Was Received: 2026-04-16 ; Effective Date Of Resignation: 2026-04-30 ; Reason Of Resignation In Brief: Cessation as Country Business Leader – Healthcare of the Company (Senior Management Personnel), due to transitioning to a senior leadership role as part of internal talent movement within the 3M Group.
+
+--- LettertoSERajiv_2.pdf ---
+3M India Limited
+5th Floor Marksquare,
+61, St Marks Road,
+Bengaluru 560001, India
+Tel: +91 80 22231414
+www.3M.com/in
+
+Corporate Relationship Department
+BSE Limited
+1st Floor, New Trading Ring, Rotunda Building
+P.J. Towers, Dalal Street, Fort
+Mumbai - 400 001
+
+April 23, 2026
+
+Scrip Code - 523395
+
+The Secretary
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra – Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+Scrip Code – 3MINDIA
+
+Dear Sirs,
+Sub: Intimation for Change in Senior Management Personnel.
+Ref.: Disclosure under Regulation 30 read with Schedule III of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015.
+
+This is in continuation of our earlier communication dated April 16, 2026 regarding Mr. Rajiv Gupta’s
+transition to a senior leadership role within the 3M Group effective April 30, 2026, and his
+consequent cessation as a Senior Management Personnel of the Company.
+Pursuant to Regulation 30 read with sub-para 7C of Para A of Part A Schedule III of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, a copy of the letter submitted by
+Mr. Rajiv Gupta is enclosed as Annexure A.
+Please take the above on record.
+Thanking you
+Yours faithfully
+For 3M India Limited
+Digitally signed by PRATAP RUDRA BHUVANAGIRI
+DN: C=IN, CN=PRATAP RUDRA BHUVANAGIRI, O=PERSONAL, ST=
+Karnataka, postalCode=560077, serialNumber=
+78755bfe11aa860cf4f71d66f0afa61d48849211f9be7d6af7071a0ab536a
+948, telephoneNumber=
+88f2af803b04e7e591caa94471be6f8c42519ea4897b43a09bccd48aa01
+0d037, title=8150
+Reason: I am approving this document with my legally binding signature
+Location:
+Date: 2026.04.23 13:07:30+05'30'
+Foxit PDF Editor Version: 2025.3.0
+
+PRATAP RUDRA
+BHUVANAGIRI
+
+Pratap Rudra Bhuvanagiri
+Company Secretary & Compliance Officer
+
+Regd Office: Plot No 48-51
+Electronics City, Bangalore 560100
+CIN No: L31300KA1987PLC013543
+
+
+April 16, 2026
+
+To,
+Aseem Joshi
+Managing Director
+3M India Limited
+Dear Sir,
+As I will be taking up a new role within the 3M Group, I cease to be Country Business Leader –
+Healthcare Business of the Company, and consequently cease to be a Senior Management
+Personnel of the Company, with effect from the close of business hours on April 30, 2026.
+Thank you for the support and opportunities provided during my tenure in the above role.
+Kindly take this submission on record and this may be used for any required disclosures.
+Thanking you,
+Your truly
+
+Rajiv Gupta
+
+

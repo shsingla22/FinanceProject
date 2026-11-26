@@ -1,0 +1,235 @@
+--- CIM_1989_WebXMLFile_20261028_182140216_1.xml (the exchange's structured disclosure) ---
+NSESymbol: UNITDSPR ; Name Of The Company: United Spirits Limited ; Scrip Code: 532432 ; MSEISymbol: NOTLISTED ; ISIN: INE854D01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-28 ; Start Time Of Board Meeting: 14:00:00 ; End Time Of Board Meeting: 15:50:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 3 ; Date Of Report: 2026-10-28 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: General Counsel, India ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sameer Chugh ; Effective Date Of Reason Of Change: 2026-12-01 ; Brief Profile: Mr. Sameer Chugh has over 30 years of experience in legal leadership across highly regulated sectors, with expertise in corporate governance, M&A, litigation, regulatory matters and commercial transactions. He joins the Company from Games24x7, where he serves as Chief Legal Officer/ General Counsel. He has previously served as Group General Counsel at the Bharti Group, leading legal strategy across multiple businesses and geographies. His previous experience includes leadership roles at British Telecom, Essar Group and Cummins, as well as roles with leading law firms. He holds an integrated bachelor’s degree in Socio-Legal Sciences and Law (LL.B.) from Symbiosis Society’s Law College, Pune, a Post Graduate Diploma in Marketing Management from Symbiosis Institute of Management Studies, Pune, and a Master’s degree in Telecom Business from University College of London. He is also enrolled as an Advocate with the Bar Council of Delhi. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Executive Vice President and General Counsel ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Shobana Nikam ; Effective Date Of Reason Of Change: 2026-10-31 ; Type Of Change: Tenure completion ; Designation Of Designated Person: Interim General Counsel ; Name Of Designated Person: Archana Sasan ; Effective Date Of Reason Of Change: 2026-12-31 ; Salutation: Ms. ; Name Of The Person: Shobana Nikam ; Designation Of Person: Executive Vice President and General Counsel ; Date On Which The Resignation Letter Was Received: 2026-10-27 ; Effective Date Of Resignation: 2026-10-31 ; Reason Of Resignation In Brief: Due to personal reasons
+
+--- CIMG_532432_28102026182112_2.pdf ---
+United Spirits Limited
+Registered Office:
+UB Tower
+#24, Vittal Mallya Road,
+Bengaluru 560 001
+Tel: +91 80 2221 0705
+Fax: +91 80 2224 5253
+www.diageoindia.com
+
+28th October 2026
+BSE Limited
+Listing Department
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai – 400 001
+Scrip Code: 532432
+
+The National Stock Exchange of India Limited
+Exchange Plaza, C-1 Block G,
+Bandra Kurla Complex,
+Bandra East, Mumbai – 400 051
+Scrip Code: UNITDSPR
+
+Dear Sirs,
+Sub:
+
+Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing
+Regulations”)
+
+Ref:
+
+Changes in Senior Management Personnel (“SMP”)
+
+This is to inform that based on the recommendation of Nomination and Remuneration Committee, the
+Board of Directors of the Company, at their meeting held today, has inter-alia:
+a) Approved appointment of Mr. Sameer Chugh as General Counsel, India (SMP), effective 1st
+December 2026. Details required under Regulation 30 of the SEBI Listing Regulations for the
+above matters are provided in Annexure A.
+b) Noted the resignation of Ms. Shobana Nikam, Executive Vice President and General Counsel, who
+has tendered resignation from the services of the Company with effect from end of business hours
+of 31st October 2026, and shall consequently cease to be an SMP of the Company, effective the
+aforesaid date.
+c) Noted the completion of tenure of Ms. Archana Sasan, Interim General Counsel (in a consulting
+capacity), with effect from end of business hours of 31st December 2026, and shall consequently
+cease to be an SMP of the Company, effective the aforesaid date.
+Details required under Regulation 30 of the SEBI Listing Regulations for point b and c are provided
+in Annexure B.
+Further, pursuant to provisions of Regulation 30 r/w sub-para 7C of Para A of Part A of Schedule III of
+SEBI Listing Regulations, copy of resignation letter is enclosed as Annexure C.
+
+Corporate Identity Number: L01551KA1999PLC024991
+
+contactus.india@diageo.com
+
+
+Continuation Sheet
+
+The meeting commenced at 14:00 hours IST and concluded at 15:50 hours IST.
+This is for your information and records.
+Thank you,
+For United Spirits Limited
+
+PRAGYA KAUL
+
+Digitally signed by PRAGYA
+KAUL
+Date: 2026.10.28 17:29:17
++05'30'
+
+Pragya Kaul
+Company Secretary and Compliance Officer
+
+Corporate Identity Number: L01551KA1999PLC024991
+
+contactus.india@diageo.com
+
+
+Continuation Sheet
+
+ANNEXURE A
+#
+
+Disclosure Requirement
+
+Details
+
+1)
+
+Name of Senior Management Mr. Sameer Chugh
+Personnel (SMP)
+
+2)
+
+Reason for change viz.,
+appointment, re-appointment,
+resignation, removal, death or
+otherwise
+
+3)
+
+Date of appointment/
+re-appointment/ cessation (as
+applicable) & term of
+appointment/re-appointment
+
+4)
+
+Brief Profile
+(In case of appointment)
+
+The Board of Directors of the Company, based on the
+recommendation of the Nomination and Remuneration
+Committee, has approved appointment of Mr. Sameer
+Chugh, as General Counsel, India, effective 1st December
+2026.
+
+Mr. Sameer Chugh has over 30 years of experience in legal
+leadership across highly regulated sectors, with expertise in
+corporate governance, M&A, litigation, regulatory matters
+and commercial transactions.
+He joins the Company from Games24x7, where he serves as
+Chief Legal Officer/ General Counsel. He has previously
+served as Group General Counsel at the Bharti Group,
+leading legal strategy across multiple businesses and
+geographies. His previous experience includes leadership
+roles at British Telecom, Essar Group and Cummins, as well
+as roles with leading law firms.
+He holds an integrated bachelor’s degree in Socio-Legal
+Sciences and Law (LL.B.) from Symbiosis Society’s Law
+College, Pune, a Post Graduate Diploma in Marketing
+Management from Symbiosis Institute of Management
+Studies, Pune, and a Master’s degree in Telecom Business
+from University College of London. He is also enrolled as an
+Advocate with the Bar Council of Delhi.
+
+5
+
+Disclosure
+of
+relationship Not applicable.
+between Directors (In case of
+appointment of a Director)
+*****
+
+Corporate Identity Number: L01551KA1999PLC024991
+
+contactus.india@diageo.com
+
+
+Continuation Sheet
+
+ANNEXURE B
+#
+
+Disclosure Requirement
+
+Details
+
+1
+
+Name of Senior Management Ms. Shobana Nikam
+Personnel (SMP)
+
+2
+
+Reason for change viz.,
+appointment, re-appointment,
+resignation, removal, death or
+otherwise
+
+Resignation as Executive Noted completion of tenure
+Vice President and General as Interim General Counsel,
+Counsel, due to personal in a consulting capacity.
+reasons.
+
+3
+
+Date of appointment/ reappointment/ cessation (as
+applicable) & term of
+appointment/re-appointment
+
+Ceases to be an SMP
+effective from close of
+business hours of 31st
+October 2026.
+
+4
+
+Brief Profile
+(In case of appointment)
+
+Not applicable.
+
+5
+
+Disclosure
+of
+relationship Not applicable.
+between Directors (In case of
+appointment of a Director)
+
+Ms. Archana Sasan
+
+Ceases to be an SMP
+effective from close of
+business hours of 31st
+December 2026.
+
+*****
+
+Corporate Identity Number: L01551KA1999PLC024991
+
+contactus.india@diageo.com
+
+
+ANNEXURE C
+
+From: Shobhana Nikam
+Sent: 27 October 2026 11:57
+To: Chinmay Sharma
+Subject: Resignation
+Dear Chinmay,
+Trust this finds you well.
+This is to record our discussions over the past few months on my decision to resign from the
+position of EVP & General Counsel effective 31 October 2026 owing to my personal circumstances.
+Kindly acknowledge the same.
+Many Thanks for all the support.
+Best regards,
+Shobhana
+
+

@@ -1,0 +1,20 @@
+--- CIM_26417_WebXMLFile_20260924_191226690_1.xml (the exchange's structured disclosure) ---
+NSESymbol: WAKEFIT ; Name Of The Company: Wakefit Innovations Limited ; Scrip Code: 544642 ; MSEISymbol: NOTLISTED ; ISIN: INE0E7301029 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-24 ; Time Of Occurrence Of Event Or Information: 18:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-24 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Manager - Legal ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Kunal Chandel ; Effective Date Of Reason Of Change: 2026-09-24 ; Salutation: Mr. ; Name Of The Person: Kunal Chandel ; Designation Of Person: Senior Manager - Legal ; Date On Which The Resignation Letter Was Received: 2026-07-27 ; Effective Date Of Resignation: 2026-09-24 ; Reason Of Resignation In Brief: To pursue career outside the organization
+
+--- CIMG_544642_24092026191211_2.pdf ---
+Date: - July 27, 2026
+To,
+Executive Director
+Wakefit Innovations Limited
+Bangalore
+Sub:- Resignation from the position of Senior Manager - Legal
+Dear Sir,
+I hereby tender my resignation from the position of Senior Manager - Legal of Wakefit Innovations
+Limited, to pursue my career outside the organization, effective September 24, 2026.
+Kindly process my resignation and relieve me from my duties effective close of business hours on
+September 24, 2026.
+I would like to thank the Management for the opportunity and I wish Wakefit Innovations Limited
+continued success in all its future endeavors.
+Thanking you,
+
+

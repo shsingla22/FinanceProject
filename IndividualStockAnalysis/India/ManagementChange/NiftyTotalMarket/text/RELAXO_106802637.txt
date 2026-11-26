@@ -1,0 +1,152 @@
+--- CIM_4914_WebXMLFile_20260930_164153736_1.xml (the exchange's structured disclosure) ---
+NSESymbol: RELAXO ; Name Of The Company: RELAXO FOOTWEARS LIMITED ; Scrip Code: 530517 ; MSEISymbol: NOTLISTED ; ISIN: INE131B01039 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-29 ; Time Of Occurrence Of Event Or Information: 18:12:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Remarks For Website Dissemination: Mr. Ankit Jain, Company Secretary and Compliance Officer, a Key Managerial Personnel (KMP) and Senior Management Personnel (SMP) of the Company, has tendered his resignation vide his letter dated September 07, 2026 to pursue a better opportunity outside the organization. The management of the Company has formally accepted his resignation on September 29, 2026, and he shall be relieved from his responsibilities as Company Secretary and Compliance Officer with effect from the closure of business hours on November 03, 2026. ; Date Of Report: 2026-09-30 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary and Compliance Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ankit Jain ; Effective Date Of Reason Of Change: 2026-11-03 ; Salutation: Mr. ; Name Of The Person: Ankit Jain ; Designation Of Person: Company Secretary and Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-09-07 ; Effective Date Of Resignation: 2026-11-03 ; Reason Of Resignation In Brief: To pursue a better opportunity outside the organization
+
+--- Reg_30_Resignation_of_KMP_Signed_2.pdf ---
+September 30, 2026
+BSE Limited
+Corporate Relationship Department
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+
+National Stock Exchange of India
+Limited,
+Listing Department,
+Exchange Plaza, C–1, Block G,
+Bandra Kurla Complex,
+Bandra (E), Mumbai – 400 051
+
+Scrip Code – 530517
+
+Symbol – RELAXO
+
+Subject: Resignation of Company Secretary & Compliance Officer of the
+Company – Disclosure under Regulation 30 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015
+Dear Madam/ Sir,
+Pursuant to Regulation 30 read with Schedule Ill of the SEBI (Listing Obligations
+and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), we
+wish to inform that Mr. Ankit Jain, Company Secretary and Compliance Officer, a
+Key Managerial Personnel (KMP) and Senior Management Personnel (SMP) of the
+Company, has tendered his resignation vide his letter dated September 07, 2026 to
+pursue a better opportunity outside the organization. The management of the
+Company has formally accepted his resignation on September 29, 2026, and he
+shall be relieved from his responsibilities as Company Secretary and Compliance
+Officer with effect from the closure of business hours on November 03, 2026. A
+copy of the accepted resignation letter is enclosed herewith as Annexure I.
+Further, Mr. Ankit Jain has also confirmed that there is no other material reason
+other than mentioned in his resignation letter.
+The details required under Regulation 30 of the Listing Regulations read with SEBI
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026,
+are annexed herewith as Annexure II.
+The same is for your information and records.
+Thanking You,
+For Relaxo Footwears Limited
+
+AMIT ROY
+
+Digitally signed by AMIT ROY
+DN: c=IN, o=Personal, title=4118,
+pseudonym=qklrys9bw24zd5h13epig08jt7xoavnm,
+2.5.4.20=037810a0e91ba189f0e770dbef353450998a1d54d46dbf9a0be
+2364f6273f2e9, postalCode=110019, st=Delhi,
+serialNumber=26ae843e8fab40fcbfa09ae7f6626a2564f20e724bf6302a
+b85c0357223d0720, cn=AMIT ROY
+Date: 2026.09.30 15:45:18 +05'30'
+
+Amit Roy
+Chief Financial Officer
+
+Classification: Public
+
+
+Annexure - I
+
+September 7, 2026
+To,
+The Board of Directors,
+Relaxo Footwears Limited
+Aggarwal City Square,
+Plot No.-10 Manglam Palace,
+District Centre, Sector~3,
+Rohini, Delhi - 110 085
+Sub: Resignation from the post of Comoany Secretary & Compliance Officer
+Dear Sir(s),
+I, Ankit Jain, Company Secretary & Compliance Officer of the Company hereby tender my
+resignation from the position of Company Secretary and Compliance Officer of Relaxo
+Footwears Limited.
+This decision has been made after consideration of my professional aspirations. I confirm that
+there is no other material reason for my resignation apart from this. I am grateful for the
+opportunities, support, and experiences I have gained during my tenure with the Company. It
+has been a privilege to contribute to the company's growth and compliance initiatives. Kindly
+acknowledge receipt of this letter and initiate the necessary formalities for my relieving.
+Kindly relieve me from the services of the organization from the closing business hours of
+November 3, 2026.
+Also request to do the needful Statutory Compliances in relation to this.
+Thanking You,
+
+
+Annexure II
+Disclosure in terms of Regulation 30 of the SEBI Listing Regulations read with SEBI
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+S.N.
+
+Particulars
+
+Details
+
+1.
+
+Reason
+for
+change
+viz.
+appointment,
+re-appointment,
+resignation, removal, death or
+otherwise
+
+2.
+
+Date
+of
+appointment/
+reappointment/ cessation (as
+applicable) & term of appointment
+/ re-appointment
+
+3.
+
+Brief
+profile
+appointment)
+
+4.
+
+Disclosure
+of
+Relationship
+between Directors (in case of
+appointment of a director)
+
+(in
+
+case
+
+Resignation
+
+Resigned from the position of
+Company Secretary & Compliance
+Officer, on September 07, 2026,
+effective from the close of business
+hours on November 03, 2026.
+
+of
+
+Classification: Public
+
+Not Applicable
+
+Not Applicable
+
+

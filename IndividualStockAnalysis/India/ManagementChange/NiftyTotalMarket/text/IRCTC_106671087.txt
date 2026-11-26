@@ -1,0 +1,106 @@
+--- CIMG_542830_236202617953_CIM_WebXMLFile_20260623_171032746_2.xml (the exchange's structured disclosure) ---
+NSESymbol: IRCTC ; Name Of The Company: INDIAN RAILWAY CATERING AND TOURISM CORPORATION LIMITED ; Scrip Code: 542830 ; MSEISymbol: NOTLISTED ; ISIN: INE335Y01020 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-06-23 ; Time Of Occurrence Of Event Or Information: 10:25:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-06-23 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Chairperson ; Position Of Director In Board Three: MD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sanjay Kumar Jain ; Effective Date Of Reason Of Change: 2026-07-20 ; Salutation: Mr. ; Name Of The Person: Sanjay Kumar Jain ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-06-23 ; Effective Date Of Resignation: 2026-07-20 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- CIMG_542830_23062026170953_1.pdf ---
+No. 2019/IRCTC/CS/STEX/356
+
+June 23, 2026
+
+BSE Limited
+(Through BSE Listing Centre)
+1st Floor, New Trade Wing, Rotunda
+Building Phiroze Jeejeebhoy Towers,
+Dalal Street Fort, Mumbai – 400 001
+
+National Stock Exchange of India Limited
+(Through NEAPS)
+“Exchange Plaza”, C-1, Block-G,
+Bandra-Kurla Complex,
+Bandra (East), Mumbai – 400 051
+
+Scrip Code: 542830
+
+Scrip Symbol: IRCTC
+
+Sub: Intimation regarding Change in Composition of the Board.
+Dear Sir/Madam,
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, it is hereby informed that IRCTC is in receipt of Ministry of Railways,
+Government of India letter dated 22.06.2026 (received on 23.06.2026) conveying that
+the Competent Authority has approved resignation of Shri Sanjay Kumar Jain, from the
+post of Chairman and Managing Director, IRCTC w.e.f. 20.07.2026. Further, as per
+aforesaid letter, orders for additional charge of the post of CMD/IRCTC will be issued in
+due course.
+The details required in terms of Regulation 30 read with sub-para 7C of Para A of Part A
+of Schedule III of SEBI (LODR) Regulations, 2015 are enclosed at Annexure – I.
+This is for your kind information and record.
+Thanking you,
+Yours faithfully,
+For and on behalf of Indian Railway Catering &
+Tourism Corporation Limited
+
+suman
+kalra
+
+Digitally signed by suman kalra
+DN: c=IN, o=Indian Railway Catering and Tourism
+Corporation Ltd, ou=Company Secretory,
+2.5.4.20=97d540451782e28473735b6f729b19b35
+8c83ac8f8cc2024f33c3f49078d3e9d,
+postalCode=110001, st=DELHI,
+serialNumber=4deeb12f23f611e01f72faebd9647a
+d036cef3343d11ad1af4409df02068217c,
+cn=suman kalra
+Date: 2026.06.23 16:21:54 +05'30'
+
+(Suman Kalra)
+Company Secretary and Compliance Officer
+Encl: as above
+
+
+Annexure-I
+Information as required under Regulation 30 read with sub-para 7C of Para A of
+Part A of Schedule III of SEBI (LODR) Regulations, 2015:
+SI. No.
+1
+
+2
+
+Particulars
+
+Description
+
+Reason for change viz. appointment, Approval of resignation of Shri Sanjay
+re-appointment, resignation, removal, Kumar Jain, Chairman and Managing
+death or otherwise
+Director, IRCTC (DIN: 09629741),
+with effect from 20.07.2026
+Date
+of
+appointment/re- 20.07.2026
+appointment/cessation (as applicable)
+&
+term
+of
+appointment/reappointment;
+
+3
+
+Brief profile (in case of appointment);
+
+4
+
+Disclosure of relationships between Not Applicable
+directors (in case of appointment of a
+director).
+Letter of Resignation along with Enclosed at Annexure-II
+detailed reason for resignation
+
+5
+
+Not Applicable
+
+
+Annexure-II
+
+

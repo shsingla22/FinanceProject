@@ -1,0 +1,149 @@
+--- RID_509488_225202619626_ROID_WebXMLFile_20260522_190628533_2.xml (the exchange's structured disclosure) ---
+NSESymbol: GRAPHITE ; Name Of The Company: Graphite India Limited ; Scrip Code: 509488 ; MSEISymbol: NA ; ISIN: INE371A01025 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-05-22 ; Time Of Occurrence Of Event Or Information: 17:18:00 ; Reasons For Non Disclosures For Resignation Of Person Was Filed In The General Utility: Separate XBRL utility for cessation of Independent Director is available on the stock exchange. ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-22 ; Salutation: Mr. ; Name Of The Person: Debanjan Mandal ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-05-22 ; Effective Date Of Resignation: 2026-05-22 ; Reason Of Resignation In Brief: Due to his extensive travel and professional and other pre-occupations, he has been unable to regularly attend the meetings of the Board of Directors and Committee of the Company . Hence, he resigned from the position of Director in the Company. ; Name Of Director: Debanjan Mandal ; Name Of The Company In Which Holding Directorship: Spencer’s Retail Limited ; Category Of Directorship: Non-Executive - Independent Director ; Membership Of Board Committee: Audit Committee- Member ; Membership Of Board Committee: Nomination & Remuneration Committee- Member ; Name Of The Company In Which Holding Directorship: Titagarh Rail Systems Limited ; Membership Of Board Committee: Risk Management Committee- Member ; Name Of The Company In Which Holding Directorship: CESC Ltd
+
+--- RID_509488_22052026190626_1.pdf ---
+GIL/SEC/SM/26-27/11
+
+Date: 22/05/2026
+
+BSE Limited,
+Floor 25, P. J. Towers,
+Dalal Street, Fort,
+Mumbai – 400001.
+Scrip Code: 509488
+
+National Stock Exchange of India Limited,
+Exchange Plaza,
+Bandra Kurla Complex, Bandra (E)
+Mumbai – 400051.
+Scrip Code: GRAPHITE
+
+Sub.: Intimation pursuant to Regulation 30 of the Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘Listing
+Regulations’)
+Dear Sir/ Ma'am,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015 (“Listing Regulations”) read with Schedule III of the Listing Regulations, we hereby inform that
+Mr. Debanjan Mandal, has tendered his resignation as the Independent Director of the Company, with
+immediate effect due to extensive travel and professional and other preoccupations. Consequently, he
+shall also cease to be a member of the Audit Committee and Committee of Director of the Company.
+The details as required under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 read with SEBI Master Circular no. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026, dated 30th January 2026 are enclosed as ‘Annexure-I’ and copy of the letter of
+resignation received from Mr. Debanjan Mandal is Annexed..
+
+Kindly take the same at your record.
+Thanking you,
+For Graphite India Limited
+
+Sanjeev
+Marda
+
+Digitally signed by
+Sanjeev Marda
+Date: 2026.05.22
+18:52:59 +05'30'
+
+S. Marda
+Company Secretary
+ACS – 14360
+Encl: as above
+
+
+The details as required under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 read with SEBI Master Circular no. HO/49/14/14(7)2025CFD-POD2/I/3762/2026, dated 30th January 2026:
+Annexure - I
+S. No. Particulars
+1.
+Name of Director
+2.
+Reason for change viz. appointment,
+re-appointment,
+resignation,
+removal, death or otherwise
+3.
+4.
+5.
+
+6.
+7.
+
+8.
+
+Date of appointment / re-appointment /
+cessation (as applicable) & term
+of
+appointment / re-appointment
+Brief profile (in case of appointment)
+
+Details
+Mr. Debanjan Mandal
+Resignation of Mr. Debanjan Mandal,
+Independent Director of the Company with
+immediate effect, due to extensive travel and
+professional and other preoccupations.
+Cessation with immediate effect from today
+i.e. 22.05.2026.
+Not Applicable
+
+Disclosure of relationships between
+Not Applicable
+directors (in case of appointment of a
+director)
+Additional information in case of resignation of an Independent Director
+Letter of Resignation along with detailed Enclosed
+reason for resignation.
+Names of listed entities in which the
+Directorship in Listed Companies:
+resigning director holds directorships,
+indicating the category of directorship 1. Spencer’s Retail Limited
+and membership of board committees, if 2. Titagarh Rail Systems Limited
+any.
+3. CESC Ltd
+Committee Position(s) in Listed
+Companies:
+1. Spencer’s Retail Limited
+(Member of Audit Committee and
+Nomination & Remuneration Committee)
+2. Titagarh Rail Systems Limited
+(Member
+of
+Risk
+Management
+Committee)
+3. CESC Ltd
+(Member of Audit Committee and
+Nomination & Remuneration Committee)
+The independent director shall, along
+Mr. Debanjan Mandal has confirmed that there
+with the detailed reasons, also provide
+are no material reasons for his resignation
+confirmation that there are no other
+other than those mentioned in his resignation
+material reasons other than those
+letter.
+provided.
+
+
+0 E BAN JAN MAN DAL
+Advocate
+22nd May, 2026
+
+Board of Directors,
+Graphite India Limited,
+Kolkata.
+
+Re.: Resignation
+Dear Sirs,
+Due to my extensive travel and professional and other preoccupations, I have been
+unable to regularly attend the meetings of the Board of Directors of the Company.
+In the circumstances, I hereby resign as a Director of the Company with immediate
+effect.
+Kindly accept my resignation and direct the Company Secretary to file appropriate
+forms accordingly.
+I further confirm that there is no material reason other than mentioned above for my
+resignation.
+
+M: +91 98300 26873 I E: debanjan.mandal@foxandmandal.co.in I T: +91 33 2350 8702/0653
+93/3A/2, Acharya Prafulla Chandra Road, Kolkata 700009
+
+

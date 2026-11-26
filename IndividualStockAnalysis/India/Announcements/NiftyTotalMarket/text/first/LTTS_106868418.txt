@@ -1,0 +1,143 @@
+ 
+Registered Office: L&T House, N. M. Marg, Ballard Estate, Mumbai - 400 001. INDIA                  CIN : L72900MH2012PLC232169  
+     Tel: +91 22 68925257  Fax: +91 2267525858  
+     L&T Technology Services is a subsidiary of Larsen & Toubro Limited  
+ 
+L&T Technology Services Limited  
+A.M. Naik Tower,6th Floor, L&T  Campus, 
+Gate No.3, Jogeshwari -Vikhroli Link Road,  
+Powai, Mumbai -400072.  
+www. ltts.com 
+ 
+           
+     November  23, 2026 
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza,  C-1, Block G,  
+Bandra -Kurla Complex  Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Bandra (East), Mumbai — 400 051  
+  Mumbai – 400 001 
+NSE Symbol:  LTTS  BSE Scrip Code:  540115  
+  
+ 
+ 
+ 
+Subject: Press Release  
+ 
+Dear Sir/Madam,  
+ 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are sending herewith a copy of the Press Release titled  “L&T Technology 
+Services Launches SDVault.ai ™ to Bring Engineering Intelligence to the Software -Defined 
+Vehicle V -Cycle” which is self -explanatory . 
+ 
+This is for your information and record s. 
+ 
+ 
+Thanking You,  
+ 
+Yours sincerely,  
+ 
+For L&T Technology Services Limited  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prasad Shanbhag  
+Company Secretary & Compliance Officer  
+(M. No. A 30254 ) 
+ 
+Encl: As above  
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                     IN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services   
+L&T Technology Services Launches SDVault.ai ™ to Bring 
+Engineering Intelligence to the Software -Defined Vehicle V -Cycle  
+ 
+ 
+Highlights:  
+• 250+ domain -aware AI agents , paired  with deterministic automation and safety, cybersecurity and 
+compliance guardrails  
+• 12 interconnected engineering domains across the SDV V -cycle, from requirements to release  
+• Early pilots indicate 30 –40% additional engineering capacity  
+Bengaluru (India), November  23, 2026 : L&T Technology Services (BSE: 540115, NSE: LTTS) , a global 
+leader in Engineering Intelligence Solutions & ER&D Consulting Services, today announced the launch of 
+SDVault.ai ™, an AI -powered engineering and assurance toolchain  that helps automotive OEMs and Tier -1 
+suppliers accelerate the development, integration and validation of Software -Defined Vehicles (SDVs). 
+SDVault.ai ™ is part of LTTS’ EI for Engineering  suite and is built on EIOne , the company’s Engineering 
+Intelligence  platform.  
+SDVault.ai ™ brings Engineering Intelligence across 12 interconnected engineering domains, spanning 
+requirements, system and E/E architecture, functional safety, cybersecurity, process assurance, software and 
+code intelligence, verification, embedded debugging, virtua l ECU validation, trace and network analysis, root -
+cause intelligence and regression and release assurance.  
+ 
+With more than 250 domain -aware AI agents, SDVault.ai ™ combines AI with deterministic, rule -based 
+engineering automation, particularly for safety -critical activities where repeatability, traceability and engineering 
+control are essential. Engineers remain firmly in control of engineering decisions, verification and certificat ion. 
+SDVault.ai ™ creates a connected engineering thread across the V -cycle, linking requirements and architecture 
+with code, tests, failures, corrective actions and release evidence. This enables engineering teams to understand 
+not only what changed, but what is impacted and whether the change has been adequately verified.  
+Designed as a modular platform, SDVault.ai ™ can be adopted end -to-end or deployed selectively alongside 
+existing OEM and Tier -1 engineering toolchains. Sensitive engineering data can remain within customer -
+controlled environments, supporting enterprise security and IP -protection requirements.  
+ 
+
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                     IN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services  In early pilots, engineering teams using SDVault.ai ™ demonstrated the potential to absorb 30–40% additional 
+workload , while selected workflows such as ticket triage were reduced from approximately four hours to 10 
+minutes . SDVault.ai ™ is designed to act as an engineering capacity multiplier, enabling organizations to 
+manage more programs and growing software complexity with their existing engineering teams.  
+LTTS has filed 15 patents related to SDVault.ai ™, reinforcing its investment in Engineering Intelligence for next -
+generation mobility.  
+Amit Chadha, CEO & Managing Director, L&T Technology Services and NASSCOM Executive Council 
+Member , said, “Software -defined vehicles are dramatically increasing the complexity of automotive engineering. 
+AI can help, but in safety -critical engineering, AI alone is not enough. It requires deterministic engineering, 
+domain knowledge, traceability and engineers fir mly in control. SDVault.ai ™ brings these together as 
+Engineering Intelligence across the SDV V -cycle, connecting requirements, architecture, software, verification 
+and evidence. It gives OEMs and Tier -1 suppliers a practical path to engineer more software,  validate it with 
+greater confidence and take more vehicle programs to production with the teams they already have.”  
+ 
+About L&T Technology Services Ltd  
+L&T Technology Services (LTTS) is a global leader in Engineering Intelligence Solutions & ER&D Consulting 
+Services. A listed subsidiary of Larsen & Toubro (L&T), we offer design, development, testing, and sustenance 
+services across products and processes. Purposeful. Agile. Innovation. is how we drive growth across the 
+Mobility, Sustainability and Tech segments. Our customer base includes 69 Fortune 500 companies and 57 top 
+ER&D companies across industrial products, medical devices, transportation, telecom & hi-tech, and process 
+industries. Headquartered in India, we have 24,035 employees across 21 global design centers, 31 global sales 
+offices, and 111 innovation labs, as of September 30, 2026.  
+ 
+For additional information about L&T Technology Services log on to https://www.ltts.com/ . 
+ 
+ 
+Media Contact:  
+USA      INDIA  
+Aniruddha Basu     Sayanti Chakraborty  
+L&T Technology Services Limited  L&T Technology Services Limited   
+E: aniruddha.basu@ltts.com               E: sayanti.chakraborty@ltts.com  
+ 
+ 
+ 
+ 

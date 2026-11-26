@@ -1,0 +1,50 @@
+--- CIM_17875_WebXMLFile_20261106_170751710_1.xml (the exchange's structured disclosure) ---
+NSESymbol: BHARTIHEXA ; Name Of The Company: BHARTI HEXACOM LIMITED ; Scrip Code: 544162 ; MSEISymbol: NOTLISTED ; ISIN: INE343G01021 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-05 ; Start Time Of Board Meeting: 15:30:00 ; End Time Of Board Meeting: 16:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Remarks For Website Dissemination: Mr. Akhil Garg has been appointed as a Non-Executive, Non-Independent Director, liable to retire by rotation. The term of 12 months has been entered only because the XBRL format requires the term in months. ; Date Of Report: 2026-11-06 ; Type Of Change: Appointment ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Executive Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Amit Wadhwa ; Effective Date Of Reason Of Change: 2026-11-06 ; Brief Profile: Amit Wadhwa joined the Company on October 8, 2026, and is currently serving in his second stint with Bharti Group. Prior to joining the Company, he was associated with Jubilant FoodWorks Limited as Head - Business Development, Projects & Partner Management, where he led strategic growth initiatives, network expansion programmes, business transformation projects and partner management functions. Amit brings with him significant experience in business development, strategy execution, project management and operational transformation, which will be valuable in driving the Company's growth and business objectives.A seasoned leader and MBA graduate, Amit brings over two decades of rich leadership experience spanning telecom, consumer services, business development, operations, and large-scale business transformation.He had also previously been associated with Bharti Group (Airtel) for approximately 16 years, from July 2007 to 2023, during which he held leadership roles such as Business Head for Xtream Fiber-Prepaid, Sales Head for Mumbai etc. where he consistently delivered business growth while driving innovation and operational effectiveness. His diverse industry experience and deep understanding of the telecom sector make him well-positioned to accelerate Airtel's growth ambitions. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Marut Dilawari ; Effective Date Of Reason Of Change: 2026-11-05 ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Name Of Designated Person: Akhil Garg ; Term Of Appointment In Months: 12 ; Brief Profile: Akhil has over two decades of experience in finance. He has been with Airtel for nearly 12 years across Circle Commercial, category commercial accounting, compliance and financial planning. He is currently the Chief Financial Officer of Airtel India. Akhil has also been responsible for several strategic initiatives including driving the profitability of Airtel Business, working on the Hexacom IPO and automation of financial reporting through AI.Before joining Airtel, Akhil worked with PepsiCo India and the Eicher Group across various areas of finance. He holds a Master of Business Administration (MBA) and is also a qualified Chartered Accountant. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Akhil Garg is not related to any of the Directors or Key Managerial Personnel of the Company. ; Name Of Designated Person: Soumen Ray ; Salutation: Mr. ; Name Of The Person: Marut Dilawari ; Designation Of Person: Chief Executive Officer ; Date On Which The Resignation Letter Was Received: 2026-11-05 ; Effective Date Of Resignation: 2026-11-05 ; Reason Of Resignation In Brief: pursuant to other commitments and professional occupation ; Name Of The Person: Soumen Ray ; Designation Of Person: Non - Executive Non -Independent Director ; Reason Of Resignation In Brief: Due to transition to the new role within the group
+
+--- CIMG_544162_06112026170636_2.pdf ---
+Annexure B
+Date: November 05, 2026
+To,
+The Board of Directors
+Bharti Hexacom Limited
+Airtel Center, Plot No. 16, Udyog Vihar,
+Phase IV, Gurugram -122015, India
+Sub: Resignation from Directorship of Bharti Hexacom Limited
+Dear Board Members,
+I wish to inform you that pursuant to my other commitments and professional occupation, I hereby
+demit the position of Non-executive Director of Bharti Hexacom Limited with effect from close of
+business hours of November 05, 2026.
+l take this opportunity to thank the Board and other Committee members for the support extended
+to me during my tenure as a Non-Executive Director of the Company and request you to take this
+on record and request the company to complete the necessary formalities.
+~
+
+regards,
+
+Soumen Ray
+DIN: 09484511
+
+
+Annexure C
+
+Date: November 05, 2026
+
+To,
+The Board of Directors
+Bharti Hexacom Limited
+Airtel Center, Plot No. 16, Udyog Vihar,
+Phase IV, Gurugram -122015, India
+Sub: Resignation from the post of Chief Executive Officer of Bharti Hexacom
+Limited
+
+Dear Board Members,
+In view of my transition to a new role within the Group, I hereby demit the position of Chief
+Executive Officer of Bharti Hexacom Limited with effect from close of business hours of
+November 05, 2026.
+I want to express my sincere gratitude for the unwavering support, guidance and
+mentoring received from all members of the Management and the Board Members
+throughout my tenure with the Company.
+
+With warm regards,
+
+

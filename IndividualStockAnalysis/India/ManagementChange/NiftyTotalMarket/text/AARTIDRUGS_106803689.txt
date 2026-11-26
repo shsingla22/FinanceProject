@@ -1,0 +1,176 @@
+--- CIM_1391_WebXMLFile_20260930_195447441_2.xml (the exchange's structured disclosure) ---
+NSESymbol: AARTIDRUGS ; Name Of The Company: AARTI DRUGS LIMITED ; Scrip Code: 524348 ; MSEISymbol: NOTLISTED ; ISIN: INE767A01016 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-30 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-09-30 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Chairperson related to Promoter ; Position Of Director In Board Three: CEO-MD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Prakash Moreshwar Patil ; Effective Date Of Reason Of Change: 2026-09-30 ; Category Of Cessation: Cessation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Name Of Designated Person: Adhish Prakash Patil ; Remarks For Change In Management: Relinquishment of the position of Chief Financial Officer consequent upon his promotion (appointment) as Managing Director of the Company ; Salutation: Mr. ; Name Of The Person: Prakash Moreshwar Patil ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-07-27 ; Effective Date Of Resignation: 2026-09-30 ; Reason Of Resignation In Brief: Pursuant to the approval of the shareholders in the Annual General Meeting dated September 4, 2021, the current term of Shri Prakash M. Patil is scheduled to expire on May 31, 2027. In his communication to the Board, he expressed his desire to resign on ground of his intention to get early retirement. This is in view of his belief that it’s an appropriate time for an orderly leadership transition.
+
+--- ADL_1.pdf ---
+Ref: ADL/SE/2026-27/50
+September 30, 2026
+To,
+Listing/ Compliance Department
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+BSE CODE: 524348
+
+To,
+Listing/ Compliance Department
+National Stock Exchange of India Limited,
+“Exchange Plaza”, Plot No. C/1,
+G Block Bandra - Kurla Complex,
+Bandra (East), Mumbai – 400051
+NSE SYMBOL: AARTIDRUGS
+
+Dear Sir/Madam,
+Ref: Regulation 30 of SEBI (Listing Obligations
+Disclosure Requirements) Regulations, 2015.
+
+and
+
+Sub: Changes in the Directorate/ Management
+Pursuant to the outcome of the Board meeting dated July 31, 2026 and approval of the
+shareholders in 41st Annual General Meeting dated September 26, 2026, kindly take the
+note of following changes in the Directorate and Key Managerial Personnel of the Company:
+A) Cessation of Shri Prakash M. Patil from the positions of Chairman, Managing
+Director and Chief Executive Officer
+With reference to the earlier intimation bearing reference no. ADL/SE/2026-27/28 dated
+July 31, 2026, regarding the decision of Shri Prakash M. Patil to take early retirement
+and resign from the positions of Chairman, Managing Director and Chief Executive
+Officer of the Company, we hereby inform that he has ceased to hold the aforesaid
+positions with effect from the close of business hours on September 30, 2026.
+A copy of the letter received from Shri Prakash M. Patil communicating his decision in
+this regard is enclosed herewith as Annexure-II.
+B) Relinquishment of office of Chief Financial Officer by Shri Adhish P. Patil
+Pursuant to the approval of the Members of the Company at the 41st Annual General
+Meeting held on September 26, 2026, Shri Adhish P. Patil has been promoted to the
+position of Managing Director of the Company with effect from October 1, 2026.
+Consequently, Shri Adhish P. Patil has relinquished the position of Chief Financial
+Officer of the Company with effect from the close of business hours on September 30,
+2026.
+A copy of the letter received from Shri Adhish P. Patil communicating his decision in this
+regard is enclosed herewith as Annexure-III.
+The Company will appoint a Chief Financial Officer in due course, in compliance with
+Regulation 26A(2) of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015.
+
+
+The required details pursuant to SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read with SEBI Circular No. SEBI/HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026 are enclosed herewith as Annexure-I.
+Kindly take the same on record.
+Thanking you
+Yours faithfully,
+FOR AARTI DRUGS LIMITED
+RUSHIKESH
+VIVEK DEOLE
+
+Digitally signed by RUSHIKESH VIVEK DEOLE
+DN: c=IN, postalCode=421301, st=MAHARASHTRA, street=THANE,B-2,
+DEVIPRASAD SOCIETY, AGRA ROAD ,421301, l=THANE, o=Personal,
+serialNumber=9b60f64457feab7f455d17463ebe710861bf01b575f6fc0484483
+273dabfc17f, pseudonym=39fdd8cc665b44adb709d2b2c0bc1ffe,
+2.5.4.20=76af11ab2ea790a8aec8b0d90f9da6fdb715f5b922a7af009bb3f93dc0
+14e116, email=RUSHIKESH.DEOLE@AARTIDRUGS.COM, cn=RUSHIKESH VIVEK
+DEOLE
+Date: 2026.09.30 19:28:12 +05'30'
+
+RUSHIKESH DEOLE
+COMPANY SECRETARY & COMPLIANCE OFFICER
+ICSI M. No.: F12932
+
+
+Annexure – I
+Disclosure of information pursuant to Regulation 30 of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 read with Schedule III and SEBI Circular SEBI/
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026:
+Sr.
+No.
+1.
+
+2.
+
+3.
+4.
+
+Particulars
+Reason for change
+viz. appointment, reappointment,
+resignation, removal,
+death or otherwise;
+date of
+appointment/reappointment/cessation
+(as applicable) & term
+of appointment/reappointment;
+Brief Profile (in case
+of appointment);
+disclosure of
+relationships between
+directors (in case of
+appointment of a
+director).
+
+Shri Prakash M. Patil
+(DIN: 00005618)
+Cessation from the positions of
+Chairman, Managing Director
+and Chief Executive Officer of
+the Company pursuant to his
+desire to take early retirement.
+with effect from the close of
+business hours on September
+30, 2026
+
+Shri Adhish P. Patil
+Relinquishment of the position of
+Chief
+Financial
+Officer
+consequent upon his promotion
+as
+Managing
+(appointment)
+Director of the Company
+with effect from the close of
+business hours on September
+30, 2026
+
+Not Applicable
+
+Not Applicable
+
+Not Applicable
+
+Not Applicable
+
+
+Annexure-II
+
+
+ADHISH PRAKASH PATIL
+
+Annexure-III
+
+September 26, 2026
+To,
+The Board of Directors
+AARTI DRUGS LIMITED
+Plot No. N-198, MIDC Tarapur,
+Village Pamtermbhi,
+Tal And Dist. Palghar 401506.
+Subject: Relinquishment of the position of Chief Financial Officer
+Dear Sir/Madam,
+I, Shri Adhish P. Patil, hereby inform that pursuant to the approval of the
+Members of the Company at the 41st Annual General Meeting held on
+September 26, 2026, I have been appointed as the Managing Director of the
+Company with effect from October 1, 2026.
+Consequent to my appointment as the Managing Director of the Company, I
+hereby relinquish the position of Chief Financial Officer (CFO) of the
+Company with effect from the close of business hours on September 30,
+2026.
+I shall continue to support and oversee the functions under the purview of
+CFO along with my responsibilities as the Managing Director of the
+Company.
+Thanking you,
+Yours faithfully,
+
+ADHISH PRAKASH PATIL
+
+

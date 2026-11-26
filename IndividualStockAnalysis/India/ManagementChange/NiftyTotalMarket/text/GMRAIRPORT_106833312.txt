@@ -1,0 +1,233 @@
+--- CIM_2419_WebXMLFile_20261028_224042864_2.xml (the exchange's structured disclosure) ---
+NSESymbol: GMRAIRPORT ; Name Of The Company: GMR AIRPORTS LIMITED ; Scrip Code: 532754 ; MSEISymbol: NOTLISTED ; ISIN: INE776C01039 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-28 ; Start Time Of Board Meeting: 17:00:00 ; End Time Of Board Meeting: 21:05:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-10-28 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: WTD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sanjeev Gupta ; Effective Date Of Reason Of Change: 2026-10-29 ; Term Of Appointment In Months: 36 ; Brief Profile: Mr. Sanjeev Gupta, aged about 52 years, is a graduate of the French business school HEC. He has over 20 years of professional experience in France, Gabon, Nigeria, United Arab Emirates, and India. He has worked on large capital projects such as the development of the Anyala offshore oil & gas block (Niger Delta, Nigeria) and the divestment of Shell’s partnership in the Majnoon Oil field (Southern Iraq). He has held a multitude of roles ranging from CFO, Project Finance, Treasurer and M&A. He has worked with corporations such as Royal Dutch Shell, SLB (formerly Schlumberger), and Groupe ADP. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Sanjeev Gupta is not related to any Director of the Company ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Alexis Benjamin Riols ; Effective Date Of Reason Of Change: 2026-10-28 ; Salutation: Mr. ; Name Of The Person: Alexis Benjamin Riols ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-10-21 ; Effective Date Of Resignation: 2026-10-28 ; Reason Of Resignation In Brief: due to his professional commitments and other engagements
+
+--- Change_in_Directors_28102026_1.pdf ---
+GMR AIRPORTS LIMITED
+
+(Formerly GMR Airports Infrastructure Limited)
+
+October 28, 2026
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai 400001
+Equity Scrip: 532754
+Debt Scrip: Debt Scrip: 976449,
+976601, 977026, 977027, 978133
+
+National Stock Exchange of India Ltd.
+Exchange Plaza,
+Plot no. C/1, G Block,
+Bandra-Kurla Complex, Bandra (E)
+Mumbai - 400051
+Symbol: GMRAIRPORT
+
+Sub: Change in Directors
+Ref: Intimation under Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“Listing
+Regulations”)
+Dear Sir/Madam,
+Pursuant to Regulation 30, 51 read with Schedule III and any other applicable
+regulations of SEBI Listing Regulations, we wish to inform that the Board of Directors
+of the Company at its meeting held today, i.e., October 28, 2026, has inter-alia
+considered and approved the following:
+a) Appointment of Mr. Sanjeev Gupta (DIN: 11709171) as an Additional Director
+in the category of Executive Director of the Company and designated as “Deputy
+CEO” w.e.f. October 29, 2026;
+b) Resignation of Mr. Alexis Benjamin Riols (DIN: 10497928), Non-Executive
+Director, from Directorship of the Company w.e.f. the close of business hours
+on October 28, 2026.
+In this regard and in accordance with Listing Regulations, please find enclosed herewith
+the following:
+1) Detailed information as required under Regulations 30 of SEBI Listing
+Regulations read with SEBI Master Circular No. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, in respect of appointment of the
+Director is enclosed as 'Annexure A';
+2) Detailed information as required under Regulations 30 of Listing Regulations
+read
+with
+SEBI
+Master
+Circular
+No.
+HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, in respect of resignation of Director
+is enclosed as 'Annexure B'.
+Please take the same on record.
+For GMR Airports Limited
+Digitally signed by VENKAT
+
+VENKAT RAMANA RAMANA TANGIRALA
+Date: 2026.10.28 22:25:13
+TANGIRALA
++05'30'
+
+T. Venkat Ramana
+Company Secretary &
+Compliance Officer
+
+Corporate Office: New Udaan Bhawan, Opp. Terminal 3, Indira Gandhi International Airport, New Delhi - 110 037
+Registered Office: Unit No. 12, 18th Floor, Tower A, Building No. 5, DLF Cyber City, DLF Phase– III, Gurugram– 122002, Haryana, India
+CIN L52231HR1996PLC113564 T +91 124 6637750 E gal.cosecy@gmrgroup.in W www.gmraero.com
+
+
+GMR AIRPORTS LIMITED
+
+(Formerly GMR Airports Infrastructure Limited)
+
+Annexure-A
+Detailed Information as required under Regulation 30 & 51 read with Para A (7) of Part A of Schedule III of Listing
+Regulations and SEBI Master Circular bearing Ref. No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January
+30, 2026, as amended from time to time, in respect of Appointment of Director.
+Sr.
+no.
+1.
+2.
+
+Particular
+
+Details
+
+Reason for Change
+viz. Appointment
+Date of
+Appointment &
+term of
+appointment
+
+Appointment
+Appointment of Mr. Sanjeev Gupta (DIN: 11709171) as an Additional Director in
+the category of Executive Director of the Company
+
+Based on the recommendation of the Nomination and Remuneration Committee, Mr. Sanjeev
+Gupta has been appointed as an Additional Director in the category of Executive Director of
+the Company and designated as “Deputy CEO”, for a period of three years w.e.f. October
+29, 2026. The appointment is subject to the approval of shareholders or any other approval,
+as may be applicable.
+This is in furtherance to our intimation dated October 08, 2026, wherein it was informed
+that Group ADP has nominated replacement for Mr. Riols, as Executive Director of the
+Company designated as “Deputy CEO”.
+
+3.
+
+Brief profile (in
+case of
+appointment);
+
+Mr. Sanjeev Gupta, aged about 52 years, is a graduate of the French business school HEC.
+He has over 25 years of professional experience in France, Gabon, Nigeria, United Arab
+Emirates, and India. He has worked on large capital projects such as the development of
+the Anyala offshore oil & gas block (Niger Delta, Nigeria) and the divestment of Shell’s
+partnership in the Majnoon Oil field (Southern Iraq). He has held a multitude of roles ranging
+
+
+from CFO, Project Finance, Treasurer and M&A. He has worked with corporations such as
+Royal Dutch Shell, SLB (formerly Schlumberger), and Groupe ADP. He joined Groupe ADP
+during January 2024.
+4.
+
+Disclosure of
+relationships
+between directors
+(in case of
+appointment of a
+director)
+
+Mr. Sanjeev Gupta is not a related to any Director of the Company.
+
+5
+
+Confirmation
+regarding
+Debarment
+
+This is to confirm that Mr. Sanjeev Gupta is not debarred from holding the office of Director by
+virtue of any order of Securities and Exchange Board of India (SEBI) or any other such authority.
+
+
+Annexure B
+Detailed Information as required under Regulation 30 & 51 read with Para A (7C) of Part A of Schedule III of Listing
+Regulations and SEBI Master Circular bearing Ref. No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January
+30, 2026, as amended from time to time, in respect of resignation of Director.
+Sr.
+no.
+1.
+
+Particular
+
+Details
+
+Reason for Change
+viz. Resignation
+
+Mr. Alexis Benjamin Riols (DIN: 08734030) has resigned from the position of Non-Executive
+Non-Independent Director of the Company due to his professional commitments and other
+engagements.
+
+2.
+
+Date of
+Appointment &
+term of
+appointment/
+Cessation
+Brief profile (in
+case of
+appointment);
+Disclosure of
+relationships
+between directors
+(in case of
+appointment of a
+director).
+
+Cessation from the position of Non-Executive Non-Independent Director of the Company due to
+resignation with effect from the close of business hours on October 28, 2026.
+
+3.
+4.
+
+Not Applicable
+Not Applicable
+
+Additional Information in case of resignation of a Director as per Para A(7C) of Part A of Schedule III of Listing
+Regulations
+5.
+
+Letter of
+Resignation
+
+Copy of Resignation letter is enclosed as “Annexure B-1”
+
+
+Annexure B-1
+Date: October 21, 2026
+
+To
+The Board of Di.rectors
+GMR Airports Limited
+
+Sub: Resignation from the position of Non-Executive Director of the
+Company
+
+Dear Board Members,
+-
+
+I, Alexis Benjamin Riols, hereby tender my resignation from the position of NonExecutive Director of GMR Airports Limited, with effect from the close of business
+hours on October 28, 2026, due to my professional commitments and other
+engagements.
+I confirm that there are no material reasons for my resignation other than those
+stated above.
+I would like to place on record my sincere appreciation and gratitude to the
+Chairman, my fellow Board members, the management team, and all stakeholders
+for their support, cooperation, and confidence during my tenure on the Board of
+the Company.
+I wish the Company continued success in all its future endeavors.
+
+Kindly take this letter on record as my formal resignation and undertake the
+necessary statutory and regulatory filings in this regard.
+Thank you.
+Yours faithfully,
+
+Alexis Benjamin Riols
+DIN: 10497928
+
+

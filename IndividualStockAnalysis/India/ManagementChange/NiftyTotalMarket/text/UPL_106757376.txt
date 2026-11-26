@@ -1,0 +1,84 @@
+--- CIM_2170_WebXMLFile_20260826_154154394_1.xml (the exchange's structured disclosure) ---
+NSESymbol: UPL ; Name Of The Company: UPL Limited ; Scrip Code: 512070 ; MSEISymbol: NOTLISTED ; ISIN: INE628A01036 ; Whether Disclosure Filed For Listed Entity: false ; Name Of Entity For Which The Disclosure Is Filed: UPL Europe Ltd ; Relationship With The Listed Entity: Step Down Subsidiary ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-31 ; Time Of Occurrence Of Event Or Information: 23:59:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-26 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Group Chief Operating Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Toshan Tamhane ; Effective Date Of Reason Of Change: 2026-08-31 ; Salutation: Mr. ; Name Of The Person: Toshan Tamhane ; Designation Of Person: Group Chief Operating Officer ; Date On Which The Resignation Letter Was Received: 2026-08-26 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: To pursue interest in entrepreneurial ventures.
+
+--- CIMG_512070_26082026154148_2.pdf ---
+UPL Limited, Uniphos House,
+C.D. Marg, 11th Road, Madhu
+Park, Khar (West), Mumbai –
+400052, India
+
+UPL
+
+w: www.upl-ltd.com
+e: contact@upl-ltd.com
+t: +91 22 6856 8000
+
+August 26, 2026
+BSE Limited
+Mumbai
+
+National Stock Exchange of India Ltd.
+Mumbai
+
+SCRIP CODE – 512070
+
+SYMBOL: UPL
+
+Sub:
+
+Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 - Change in Senior Management Personnel
+
+Dear Sir/Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, we wish to inform you that Mr. Toshan Tamhane, Group Chief Operating Officer has decided to
+move on from UPL to pursue entrepreneurial ventures.
+Mr. Tamhane joined UPL from McKinsey & Company and played several significant roles over the
+years, including Chief Digital Officer and Chief Strategy Officer for the Group. During his tenure,
+Mr. Toshan was instrumental in driving multiple strategic initiatives, including inorganic moves, digital
+& analytics journey and building various businesses & transformation projects.
+Management places on record appreciation for his invaluable contributions and partnership during
+association with the Group and wish him every success in his future endeavours. The same takes effect
+from close of business hours on August 31, 2026.
+A copy of the letter received from Mr. Toshan is enclosed herewith.
+Yours faithfully,
+For UPL Limited
+Sandeep
+Mohan
+Deshmukh
+
+Digitally signed by
+Sandeep Mohan
+Deshmukh
+Date: 2026.08.26 15:32:59
++05'30'
+
+Sandeep Deshmukh
+Company Secretary and
+Compliance Officer
+(ACS-10946)
+Encl.: As above
+
+Registered Office: 3-11, GIDC, Vapi, Valsad - 396 195, Gujarat, India. P +91 260 2432716 CIN: L24219GJ1985PLC025132
+
+
+August 26, 2026
+
+To
+Mr. Jal Shroff
+Chief Executive Officer
+UPL Group
+Dear Jai,
+After spending five and a half productive years at UPL, I have decided to embark on a new journey to pursue my
+interest in entrepreneurship. As I step away, I do so with a deep sense of fulfilment and gratitude. It has been a
+privilege to be part of UPL's remarkable growth story and to contribute to several strategic initiatives focused on
+creating unlocking value for stakeholders. UPL's entrepreneurial spirit, agility and unwavering focus on customers
+have always distinguished it from others.
+I am grateful for the opportunities, particularly freedom provided to me throughout my association. I leave with
+immense pride in what the organization has achieved and with confidence in its future. My very best wishes to UPL
+team as the Company continues its mission of providing innovative and sustainable solutions that help farmers
+worldwide improve their resilience and prosperity.
+With wann regards,
+Toshan Tamhane
+
+

@@ -1,0 +1,39 @@
+--- CIM_1675_WebXMLFile_20260820_185900579_1.xml (the exchange's structured disclosure) ---
+NSESymbol: J&KBANK ; Name Of The Company: THE JAMMU & KASHMIR BANK LIMITED ; Scrip Code: 532209 ; MSEISymbol: NOTLISTED ; ISIN: INE168A01041 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-20 ; Time Of Occurrence Of Event Or Information: 00:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-20 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ashish Kundra, IAS ; Effective Date Of Reason Of Change: 2026-08-20 ; Salutation: Mr. ; Name Of The Person: Ashish Kundra, IAS ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-20 ; Effective Date Of Resignation: 2026-08-20 ; Reason Of Resignation In Brief: Due to his official engagements
+
+--- Signed_Resignation_Letter_2.pdf ---
+To,
+The Board of Directors of
+Jammu and Kashmir Bank Limited
+S b:
+
+Resignationfrom the Board of Jammu and Kashmir Bank Limited
+
+Dear 5ir(s)/Mad rn,
+Owing to my official commitments, I hereby tender my resignation from the office of
+Director on the Board of the Bank, with immediate effect.
+I take this opportunity to place on record my sincere appreciation to the Board,
+Management and my fellow Directors for the cooperation and support during my tenure.
+It has been a privilege and an honour to have served on the Board of the Bank.
+l convey my best wishes to the Bank and its Manag.ementfor continued growth, success
+and prosperity in the years ahead.
+
+Thanking you.
+Yours sincerely,
+
+"""
+
+~sh
+
+sr-c-; ~
+Kundra,
+
+DIN: 06966214
+
+Date: 20.08.2026
+
+Place: leh
+
+lAS
+
+

@@ -1,0 +1,102 @@
+--- CIM_2651_WebXMLFile_20260915_183419455_1.xml (the exchange's structured disclosure) ---
+NSESymbol: PURVA ; Name Of The Company: PURAVANKARA LIMITED ; Scrip Code: 532891 ; MSEISymbol: NOTLISTED ; ISIN: INE323I01011 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-15 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-15 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Vice President - Risk and Control ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Vishnumoorthi H ; Effective Date Of Reason Of Change: 2026-09-15 ; Salutation: Mr. ; Name Of The Person: Vishnumoorthi H ; Designation Of Person: Senior Vice President - Risk and Control ; Date On Which The Resignation Letter Was Received: 2026-09-15 ; Effective Date Of Resignation: 2026-09-15 ; Reason Of Resignation In Brief: Resignation on account of Superannuation
+
+--- CIMG_532891_15092026182959_2.pdf ---
+Date: 15.09.2026
+To,
+The General Manager,
+Listing Operations
+Department of Corporate Services
+BSE Limited
+P. J. Towers, Dalal Street, Fort,
+Mumbai- 400 001
+
+The Manager,
+Listing Department,
+National Stock Exchange of India Limited,
+Exchange Plaza, 5th Floor, Plot No. C/1,
+G Block, Bandra-Kurla Complex, Bandra (E),
+Mumbai- 400 051
+
+Stock Code: 532891
+
+Stock Code: PURVA
+
+Dear Sir / Madam,
+Sub: Resignation of Mr. Vishnu Moorthi H, Senior Vice President – Risk and Control, Senior
+Managerial Personnel (“SMP”) of the Company.
+Ref: Regulation 30 read with Para A of Part A of Schedule III to the of the Securities and Exchange
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing
+Regulations”).
+We write to inform you that, Mr. Vishnu Moorthi H, part of the Senior Management Personnel
+of Puravankara Limited (“Company”) has tendered his resignation from the position of Senior Vice
+President – Risk and Control vide resignation letter dated September 15, 2026. A copy of the
+resignation letter containing the detailed reasons for resignation, as provided by Mr. Vishnu Moorthi
+H, is enclosed herewith as Annexure A.
+The details required under Regulation 30 read with Para A of Part A of Schedule III of the SEBI Listing
+Regulations and the SEBI Master circular HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued on July
+11, 2023, and last updated on January 30, 2026, is enclosed herewith as Annexure B.
+This is for your information and records.
+Thanking you,
+Yours sincerely,
+For Puravankara Limited
+signed
+SUDIP Digitally
+by SUDIP
+CHATTE CHATTERJEE
+Date: 2026.09.15
+18:20:50 +05'30'
+RJEE
+
+(Sudip Chatterjee)
+Company Secretary & Compliance Officer
+ICSI Membership No.: F11373
+
+
+Annexure A
+
+
+Annexure B
+Details as per under Regulation 30 read with Para A of Part A of Schedule III of the Listing
+Regulations and the SEBI Master circular HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued
+on July 11, 2023, and last updated on January 30, 2026:
+Sl. No.
+1.
+2.
+
+3.
+
+4.
+5.
+
+Particulars
+Name
+Reason for change viz. appointment, reappointment, resignation, removal,
+death or otherwise
+Date of appointment/re-appointment /
+cessation (as applicable) and term of
+appointment/re-appointment
+Brief Profile (in case of appointment)
+
+Details
+Mr. Vishnu Moorthi H
+Resignation on account of Superannuation.
+
+With effect from the closure of the business hours
+on September 15, 2026.
+Not Applicable.
+
+Disclosure of relationships between Not Applicable.
+directors (in case of appointment of a
+director)
+
+signed
+SUDIP Digitally
+by SUDIP
+CHATTE CHATTERJEE
+Date:
+2026.09.15
+RJEE
+18:21:50 +05'30'
+
+

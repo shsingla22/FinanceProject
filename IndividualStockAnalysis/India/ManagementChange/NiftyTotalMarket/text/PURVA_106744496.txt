@@ -1,0 +1,580 @@
+         
+ 
+ 
+Date : 14.08.202 6 
+ 
+To, 
+ 
+The General Manager,                               
+Listing Operations  
+Department of Corporate Services  
+BSE Limited  
+P. J. Towers, Dalal Street, Fort,    
+Mumbai - 400 001  
+ 
+Stock Code: 532891  The Manager,                                                
+Listing Department,                                                                  
+National Stock Exchange of India Limited,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+G Block, Bandra -Kurla Complex, Bandra (E),  
+Mumbai - 400 051  
+ 
+Stock Code: PURVA  
+ 
+Dear Sir / Madam,  
+ 
+Sub: Outcome of the Board Meeting held on Friday, August  14, 202 6 
+ 
+Ref: Regulation 30, 33 read with Schedule III to the of the SEBI (Listing Obligations and Disclosure  
+Requirements) Regulations, 2015 (“Listing Regulations”)  
+ 
+We write to inform you that  in continuation of our letter dated August 07, 2026, the Board of Directors 
+of the Company at its meeting held on  Friday, August  14, 202 6, inter -alia considered and approved 
+the following : 
+ 
+1. The Un-audited Standalone and Consolidated Financial Results of the Company along with the 
+Limited Review Report  for the quarter ended June 30, 202 6, as reviewed and recommended  by 
+the Audit Committee . 
+ 
+2. Proposal to  convene 40th Annual General Meeting of the Company for the financial year 202 5-26, 
+scheduled to be held on Friday , September 2 5, 2026,  through Video Conferencing / Other Audio 
+Visual Means in accordance with the applicable circulars issued by the Ministry of Corporate 
+Affairs and the Securities and Exchange Board of India , or if any change in date will intimate 
+accordingly . 
+ 
+3. The Annual Report for financial year 202 5-26 including the Directors’ Report and Management 
+Discussion & Analysis, Corporate Governance Report along with all other necessary annexures 
+thereto, for the financial year ended March 31, 2026 .  
+ 
+4. In continuation to the intimation dated May 19, 2026, on the basis of the recommendation of the 
+Nomination and Remuneration Committee, the Board approved the appointment of Mr. 
+Subrahmanya Gupta Boda as Chief Technology Officer designated as Senior Managerial Personnel 
+(“SMP”) of the Company with effect from May 19, 2026.  
+ 
+         
+ 
+ 
+The details required under Regulation 30 of the SEBI (Listing Obligations and Disclosure  Requirements) 
+Regulations, 2015, read with SEBI Circular No. HO/49/14/14(7)2025 -CFDPOD2/I/3762/2026 dated July 
+11, 2023, updated as on January 30,  2026, in respect of the abovementioned items are given in 
+Annexures I, II  respectively.  
+ 
+The meeting commenced at 02:00 P.M. (IST) and concluded at 0 4:20 P.M. (IST).  
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours sincerely,  
+ 
+For Puravankara Limited  
+ 
+ 
+ 
+(Sudip Chatterjee)  
+Company Secretary & Compliance Officer  
+ICSI Membership No.: F11373  
+ 
+  
+         
+ 
+ 
+Annexure I  
+Details as per under Regulation 30 read with Para A of Part A of Schedule III of the Listing 
+Regulations and the SEBI Master circular HO/49/14/14(7)2025 -CFD-POD2/I/3762/2026  issued 
+on July 11, 2023, and last updated on  January 30, 2026:  
+ 
+Sl. No.  Particulars  Appointment of Chief Technology Officer, designated 
+as Senior Managerial Personnel (SMP) of the Company  
+1. Name  Mr. Subrahmanya Gupta Boda  
+2. Reason for change viz. 
+appointment, re-
+appointment, resignation, 
+removal, death or otherwise  Appointment as Chief Technology Officer, designated as 
+Senior Managerial Personnel of the Company with effect 
+from May 19, 2026.  
+3. Date of appointment /re-
+appointment / cessation (as 
+applicable) and term of 
+appointment /re-
+appointment  May 19, 2026  
+ 
+Term of appointment - Not Applicable  
+ 
+4. Brief Profile (in case of 
+appointment)  Mr. Subrahmanya Gupta Boda brings over 29 years of 
+experience in leading Digital Transformation, Enterprise 
+IT, Cybersecurity, Cloud Governance, and GCC setup. He 
+has driven large scale Digital transformations in multi 
+business unit environments and streng thening 
+Cybersecurity. His expertise spans the full spectrum of IT 
+leadership encompassing SAP, SFDC, multi -cloud 
+governance, ISO 27001 and GRC frameworks, PropTech 
+and RPA enablement and Data Centre modernization.  
+5. Disclosure of relationships 
+between directors (in case of 
+appointment of a director)  Not Applicable.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12th Floor
+“UB City” Canberra Block
+No. 24, Vittal Mallya Road
+Bengaluru – 560 001, India
+Tel: +91 80 6648 9000Chartered Accountants
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AAB-4295
+Regd. Of ﬁce : 22, Camac Street, Block ‘B’, 3rd Floor, Kolkata-700 016
+Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited Standalone
+Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended
+Review Report to
+The Board of Directors
+Puravankara Limited
+1. We have reviewed the accompanying statement of unaudited standalone financial results of
+Puravankara Limited (the “Company”) which includes its 3 partnership entities for the quarter ended
+June 30, 2026 (the “Statement”) attached herewith, being submitted by the Company pursuant to the
+requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (the “Listing Regulations”).
+2. The Company’s Management is responsible for the preparation of the Statement in accordance with
+the recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS
+34) “Interim Financial Reporting” prescribed under Section 133 of the Companies Act, 2013 as
+amended, read with relevant rules issued thereunder and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. The Statement
+has been approved by the Company’s Board of Directors. Our responsibility is to express a
+conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, “ Review of Interim Financial Information Performed by the Independent Auditor of
+the Entity” issued by the Institute of Chartered Accountants of India. This standard requires that we
+plan and perform the review to obtain moderate assurance as to whether the Statement is free of
+material misstatement. A review of interim financial information consists of making inquiries,
+primarily of persons responsible for financial and accounting matters, and applying analytical and
+other review procedures. A review is substantially less in scope than an audit conducted in
+accordance with Standards on Auditing and consequently does not enable us to obtain assurance that
+we would become aware of all significant matters that might be identified in an audit. Accordingly,
+we do not express an audit opinion.
+4. Based on our review conducted as above and based on the consideration of the review reports of
+other auditors on the financial results of the partnership entities referred to in paragraph 6 below,
+nothing has come to our attention that causes us to believe that the accompanying Statement,
+prepared in accordance with the recognition and measurement principles laid down in the aforesaid
+Indian Accounting Standards (‘Ind AS’) specified under Section 133 of the Companies Act, 2013 as
+amended, read with relevant rules issued thereunder and other accounting principles generally
+accepted in India, has not disclosed the information required to be disclosed in terms of the Listing
+Regulations, including the manner in which it is to be disclosed, or that it contains any material
+misstatement.
+5. Emphasis of Matter paragraph
+We draw attention to note 3 to the accompanying standalone financial results in connection with
+certain ongoing legal proceedings related to property, income tax search and other matters. Our
+conclusion is not modified in respect of this matter.
+Chartered Accountants
+6. Other Matter
+The accompanying Statement of quarterly unaudited standalone financial results includes the
+financial results and other financial information in respect of 3 partnership entities, whose unaudited
+interim financial results and other financial information include the Company’s share of net
+profit/(loss) after tax of Rs. (6.28) crore for the quarter ended June 30, 2026, as considered in the
+Statement, whose financial results and other financial information have been reviewed by other
+auditors.
+The reports of such auditors on financial results and other financial information of these partnership
+entities have been furnished to us by the Management, and our conclusion on the Statement, in so
+far as it relates to the amounts and disclosures included in respect of these partnership entities, is
+based solely on the reports of such other auditors.
+Our conclusion on the Statement is not modified in respect of the above matter with respect to our
+reliance on the work done and the reports of the other auditors.
+For S.R. Batliboi & Associates LLP
+Chartered Accountants
+ICAI Firm registration number: 101049W/E300004
+per Sudhir Kumar Jain
+Partner
+Membership No.: 213157
+UDIN: 26213157SFWDLM7684
+Place: Bengaluru
+Date: August 14, 2026
+SUDHIR 
+KUMAR 
+JAINDigitally signed by 
+SUDHIR KUMAR JAIN Date: 2026.08.14 15:49:50 +05'30'
+(Rs. in crore)
+Sl.
+No.Particulars Quarter ended
+30.06.2026
+[Unaudited]Preceding Quarter
+ended
+31.03.2026
+[Audited]
+(Refer note 4)Corresponding
+Quarter ended
+30.06.2025
+[Unaudited]Previous Year
+ended 31.03.2026
+[Audited]
+1 Income
+(a) Revenue from operations                   511.92                1,118.73                   126.16                2,302.61
+(b) Other income 28.63 32.52 12.22                     96.40
+Total income 540.55 1,151.25 138.38 2,399.01
+2 Expenses
+(a) Sub-contractor cost 132.22 248.63                   245.38                   983.37
+(b) Cost of raw materials and components consumed 4.71 23.11                     23.47                     76.69
+(c) Land purchase cost 386.45 587.74                           -                   844.13
+(d) (Increase)/ decrease in inventories of
+stock of flats, land stock and work-in-progress                 (232.34)                  (102.12)                  (214.81) (387.68)
+(e) Employee benefits expense 51.78 41.35                     45.40                   177.33
+(f) Finance cost 81.25 75.86                     68.35                   288.29
+(g) Depreciation and amortization expense 3.10 2.95                       3.04                     11.97
+(h) Other expenses 87.43 125.51                     57.95                   308.55
+Total expenses 514.60 1,003.03 228.78 2,302.65
+3 Profit/(loss) before tax (1-2) 25.95 148.22 (90.40) 96.36
+4 Tax expense
+(i) Current tax charge/(credit) - 12.27 - 12.27
+(ii) Deferred tax charge/(credit) 8.08 25.03 (22.25) 13.74
+Total 8.08 37.30 (22.25) 26.01
+5 Net profit/(loss) for the period (3-4) 17.87 110.92 (68.15) 70.35
+6 Other comprehensive income for the period
+(i) Items that will not be reclassified to profit and loss - Re-measurement gains/(losses)
+on defined benefit plans                      0.06                       0.59 (0.84) 0.25
+(ii) Income tax relating to items that will not be reclassified to profit and loss                      (0.02)                      (0.14)                       0.21 (0.06)
+Total 0.04 0.45 (0.63) 0.19
+7 Total Comprehensive Income for the period [Comprising Net profit/(loss) and
+Other Comprehensive Income (5+6)]17.91 111.37 (68.78) 70.54
+8 Earnings per share
+(of Rs. 5/- each) (not annualised):
+a) Basic (in Rs.) 0.75 4.68 (2.87) 2.97
+b) Diluted (in Rs.) 0.75 4.67 (2.87) 2.97
+9 Paid-up equity share capital                   118.58                   118.58                   118.58                   118.58
+(Face value of Rs. 5/- each)
+10 Other equity as shown in the audited balance sheet of the previous year                1,438.52Statement of Unaudited Standalone Financial Results of Puravankara Limited for the quarter ended June 30, 2026PURAVANKARA LIMITED
+Corporate Identity Number (CIN): L45200KA1986PLC051571
+Regd. Office: No. 130/1, Ulsoor Road, Bengaluru - 560042, India
+Phone: +91-80-43439999   Fax: +91-80-2559 9350
+Email: investors@puravankara.com  Website: https://www.puravankara.com
+Page 1 of 2
+Statement of Unaudited Standalone Financial Results of Puravankara Limited for the quarter ended June 30, 2026
+Notes:
+1
+2
+3(a)
+(b)
+4
+5
+For and on behalf of the Board of Directors of
+Puravankara Limited
+CIN: L45200KA1986PLC051571
+Ashish Ravi Puravankara
+Managing Director
+DIN: 00504524
+Place: Bengaluru, India
+Date: August 14, 2026During the quarter ended June 30, 2026, the Company has entered into an arrangement to sell its shareholding in its subsidiary Purva Ruby Properties Private Limited.
+The said arrangement is subject to fulfilment of certain obligations by the Company including obtaining certain regulatory approval and the Company is in the process
+of complying with such obligations as at June 30, 2026.The figures for the quarter ended 31.03.2026 are the balancing figures between audited figures in respect of the full financial year ended 31.03.2026 and the unaudited
+published year-to-date figures in respect of nine months ended 31.12.2025, being the date of the end of the third quarter of the respective financial year which were
+subjected to limited review.The Company’s business activity falls within a single reportable segment, i.e., real estate development and related activity. Hence, there are no additional disclosures to
+be provided under Ind-AS 108 – Operating Segments with respect to the single reportable segment. Further, the Company is domiciled in India and does not have
+significant foreign operations.
+The Company is subject to ongoing legal proceedings in respect of the following matters as summarised below:
+(i) Deposits and advances of Rs. 43.60 crore (March 31, 2026: Rs. 53.70 crore) towards joint development arrangements and land acquisitions which are subject to
+legal proceedings related to obtaining clear and marketable tittle for underlying properties.
+(ii)   Inventories related to launched project of Rs.82.70 crore (March 31, 2026: Rs. 82.70 crore) under land acquisition proceedings by government authorities.
+(iii)  Other balances of Rs.5.20 crore (March 31, 2026: Rs. 5.20 crore) recoverable from joint development partners and other parties which are subject to litigations.
+Pending resolution of the aforesaid legal proceedings, no provision has been made towards aforesaid claims and the deposits, advances, inventory and other balances
+referred above are classified as good and recoverable in the accompanying standalone financial results based on the legal evaluation by the management of the ultimate
+outcome of the legal proceedings.
+A search under section 132 of the Income Tax Act (‘the Act’) was conducted in October 2023 in case of the Company, certain group companies and its promoters.
+Pursuant to the proceedings of the Income tax authorities (‘the authorities’), requisite information was provided by the Company to the authorities.
+The Company has received assessment orders from the authorities disallowing certain expenses on the grounds that the same are not incurred for the purpose of
+business and other adjustments with potential tax impact of Rs.28.84 crore from AY 2016-17 to AY 2024-25 (March 31, 2026: Rs. 28.84 crore from AY 2016-17 to
+AY 2024-25). The Company is of the view that these expenses were incurred in the ordinary course of business towards its ongoing real estate development projects.
+The Company has filed appeal against such assessment orders and is reasonably confident of providing necessary supporting evidences to the authorities in support of
+allowance of such expenses.
+Further, the Company had received notice from the authorities under Prohibition of Benami Property Transactions Act, 1988 requiring the Company to submit response
+as to why Benami proceedings should not be initiated against the Company and why the Company should not be held as the Beneficial owner for the 43.5 acres of land
+parcels with carrying value of Rs. 13.20 crore (March 31, 2026: Rs. 13.20 crore). The Company has filed responses against such notice to the authorities.
+Pending resolution of the aforesaid legal proceedings, no provision has been made towards the consequential impact arising from such assessment orders/notices in the
+accompanying standalone financial results, based on the legal evaluation by the management of the ultimate outcome of the legal proceedings.The above standalone financial results of Puravankara Limited ('the Company') have been reviewed by the Audit Committee and approved at the meeting of the Board
+of Directors of the Company held on 14.08.2026. The statutory auditors of the Company have carried out a limited review on the above standalone financial results of
+the Company for the quarter ended 30.06.2026.
+Page 2 of 2
+Ashish Ravi 
+Puravankar
+aDigitally signed 
+by Ashish Ravi Puravankara Date: 2026.08.14 15:22:12 +05'30'
+12th Floor
+“UB City” Canberra Block
+No. 24, Vittal Mallya Road
+Bengaluru – 560 001, India
+Tel: +91 80 6648 9000Chartered Accountants
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AAB-4295
+Regd. Of ﬁce : 22, Camac Street, Block ‘B’, 3rd Floor, Kolkata-700 016
+Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited Consolidated
+Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended
+Review Report to
+The Board of Directors
+Puravankara Limited
+1.We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of
+Puravankara Limited (the “Holding Company”), its subsidiaries (the Holding Company and its
+subsidiaries together referred to as “the Group”) and its associates for the quarter ended June 30, 2026
+(the “Statement”) attached herewith, being submitted by the Holding Company pursuant to the
+requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (the “Listing Regulations”).
+2.The Holding Company’s Management is responsible for the preparation of the Statement in accordance
+with the recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS
+34) “Interim Financial Reporting” prescribed under Section 133 of the Companies Act, 2013 as amended,
+read with relevant rules issued thereunder and other accounting principles generally accepted in India
+and in compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by
+the Holding Company’s Board of Directors . Our responsibility is to express a conclusion on the
+Statement based on our review.
+3.We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, “ Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity” issued by the Institute of Chartered Accountants of India. This standard requires that we plan and
+perform the review to obtain moderate assurance as to whether the Statement is free of material
+misstatement. A review of interim financial information consists of making inquiries, primarily of
+persons responsible for financial and accounting matters, and applying analytical and other review
+procedures. A review is substantially less in scope than an audit conducted in accordance with Standards
+on Auditing and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the Master Circular issued by the Securities and
+Exchange Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4.The Statement includes the results of the following entities:
+1.  Puravankara Limited
+2.  Provident Housing Limited
+3.  Starworth Infrastructure & Construction Limited
+4.  Welworth Lanka (Private) Limited
+5.  Welworth Lanka Holding Private Limited
+6.  Centurions Housing and Constructions Private Limited
+7.  Melmont Construction Private Limited
+8.  Purva Realities Private Limited
+9.  Purva Star Properties Private Limited
+10.  Purva Sapphire Land Private Limited
+11.  Purva Ruby Properties Private Limited
+12.  Grand Hills developments Private Limited
+13.  Prudential Housing and Infrastructure Development Limited
+14.  T-Hills Private Limited
+15.  Varishtha Property Developers Private Limited
+16.  Purva Property Services Private Limited
+17.  Purva Oak Private Limited
+18.  Purvaland Private Limited
+19.  Provident Meryta Private Limited
+Chartered Accountants
+20.  Provident Cedar Private Limited
+21.  IBID Home Private Limited
+22.  Devas Global Services LLP
+23.  D.V.Infrahomes Private Limited
+24.  Keppel Puravankara Development Private Limited
+25.  Propmart Technologies Limited
+26.  Sobha Puravankara Aviation Private Limited
+27.  Pune Projects LLP
+28.  Purva Good Earth Properties Private Limited
+29.  Whitefield Ventures
+30.  Purva Woodworks Private Limited
+31.  Purva Asset Management Private Limited
+32.  Provident White Oaks LLP
+33.  Pune BLR 99 Developers LLP
+34.  PPL Khondapur Developers Private Limited
+35.  PPL Hebbal Developers Private Limited
+36. Purva Blue Agate Private Limited
+37. Purva Shelters Private Limited
+38. Purva Blue Dwelling Private Limited
+39. Purva Blue Home Ventures Private Limited
+40. NBD Office Park LLP
+41. KVN Property Holdings LLP
+5.Based on our review conducted and procedures performed as stated in paragraph 3 above and based on
+the consideration of the review reports of other auditors referred to in paragraph 7 below, nothing has
+come to our attention that causes us to believe that the accompanying Statement, prepared in accordance
+with recognition and measurement principles laid down in the aforesaid Indian Accounting Standards
+(‘Ind AS’) specified under Section 133 of the Companies Act, 2013, as amended, read with relevant rules
+issued thereunder and other accounting principles generally accepted in India, has not disclosed the
+information required to be disclosed in terms of the Listing Regulations, including the manner in which
+it is to be disclosed, or that it contains any material misstatement.
+6.Emphasis of Matter paragraph
+We draw attention to note 3 to the accompanying consolidated financial results in connection with certain
+ongoing legal proceedings related to property, income tax search and other matters. Our conclusion is
+not modified in respect of this matter.
+7.Other Matter
+(a) The accompanying Statement of unaudited consolidated financial results includes the financial
+results and other financial information, in respect of:
+31 subsidiaries, whose unaudited interim financial results include total revenues of Rs. 201.25
+crore, total net profit/(loss) after tax of Rs. (2.04) crore, and total comprehensive income/(loss)
+of Rs. (2.04) crore, for the quarter ended June 30, 2026, as considered in the Statement, whose
+financial results and other financial information have been reviewed by other auditors.
+2 associates whose unaudited interim financial results include Group’s share of net profit/(loss)
+after tax of Rs. (0.04) crore and Group’s share of total comprehensive income/(loss) of Rs. (0.04)
+crore for the quarter ended June 30, 2026, as considered in the Statement, whose financial results
+and other financial information have been reviewed by other auditors.
+Chartered Accountants
+The reports of such other auditors on the unaudited interim financial results and other financial
+information of these entities have been furnished to us by the Management and our conclusion on
+the Statement, in so far as it relates to the amounts and disclosures included in respect of these
+entities, is based solely on the reports of such other auditors and the procedures performed by us as
+stated in paragraph 3 above.
+(b)  The accompanying Statement of unaudited consolidated financial results include the financial results
+and other information in respect of:
+1 subsidiary, whose unaudited interim financial results include total revenues of Rs. Nil, total
+net profit/(loss) after tax of Rs. (0.00) crore, total comprehensive income of Rs. (0.00) crore, for
+the quarter ended June 30, 2026.
+The unaudited interim financial results and other unaudited financial information of this subsidiary
+have not been reviewed/audited and have been approved and furnished to us by the Management
+and our conclusion on the Statement, in so far as it relates to the affairs of this subsidiary, is based
+solely on such unaudited interim financial results and other unaudited financial information.
+According to the information and explanations given to us by the Management, these interim
+financial results are not material to the Group.
+Our conclusion on the Statement is not modified in respect of the above matters with respect to our reliance
+on the work done and the reports of the other auditors and the financial results and other financial information
+certified by the Management.
+For S.R. Batliboi & Associates LLP
+Chartered Accountants
+ICAI Firm registration number: 101049W/E300004
+per Sudhir Kumar Jain
+Partner
+Membership No.: 213157
+UDIN: 26213157VWJTJG1958
+Place: Bengaluru
+Date: August 14, 2026
+SUDHIR 
+KUMAR 
+JAINDigitally signed by 
+SUDHIR KUMAR JAIN Date: 2026.08.14 
+15:48:42 +05'30'
+(Rs. in crore)
+Sl.
+No.Particulars Quarter ended
+30.06.2026
+[Unaudited]Preceding Quarter
+ended
+31.03.2026
+[Audited]
+(Refer note 5)Corresponding
+Quarter ended
+30.06.2025
+[Unaudited]Previous Year
+ended 31.03.2026
+[Audited]
+1 Income
+(a) Revenue from operations 848.72 1,501.92                   524.40                3,739.83
+(b) Other income 28.43 39.07 14.24                   106.59
+Total income 877.15 1,540.99 538.64 3,846.42
+2 Expenses
+(a) Sub-contractor cost 368.64 588.44                   405.44                2,025.49
+(b) Cost of raw materials and components consumed 96.26 102.76                     76.84                   343.80
+(c) Land purchase cost 716.33 650.05                     57.73                1,233.51
+(d) (Increase)/ decrease in inventories of
+stock of flats, land stock and work-in-progress(796.15) (473.34) (283.01) (1,499.47)
+(e) Employee benefits expense 88.83 76.16                     79.04                   311.07
+(f) Finance cost 178.94 184.39                   160.90                   678.62
+(g) Depreciation and amortization expense 12.07 10.78                     10.15                     42.00
+(h) Other expenses 186.17 256.35                   121.67                   633.93
+Total expenses 851.09 1,395.59 628.76 3,768.95
+3 Profit/(loss) before share of profit/(loss) of associates                     26.06                   145.40                   (90.12)                     77.47
+4 Share of profit/(loss) of associates (net of tax) (0.04) (0.44)                       0.04                     (0.60)
+5 Profit/(loss) before tax (3+4)                     26.02                   144.96                   (90.08)                     76.87
+6 Tax expense
+(i) Current tax charge/(credit)                     18.24                     40.82                       4.80                     58.40
+(ii) Deferred tax charge/(credit)                   (17.45)                     (5.81)                   (26.33)                   (38.28)
+Total                       0.79                     35.01                   (21.53)                     20.12
+7 Net profit/(loss) for the period (5-6)                     25.23                   109.95                   (68.55)                     56.75
+8 Other comprehensive income for the period
+(i) Items that will not be reclassified to profit and loss - Re-measurement gains/(losses)
+on defined benefit plans                    (0.10)                       1.20                     (0.99)                       1.53
+(ii) Income tax relating to items that will not be reclassified to profit and loss                       0.02                     (0.29)                       0.25                     (0.36)
+Total                     (0.08)                       0.91                     (0.74)                       1.17
+9 Total Comprehensive Income for the period
+[Comprising Net profit/(loss) and Other Comprehensive Income (7+8)]                    25.15                   110.86                   (69.29)                     57.92
+Attributable to :
+Owners of the parent                     28.85                   114.15                   (68.42)                     64.88
+Non-controlling interests                     (3.70)                     (3.29)                     (0.87)                     (6.96)
+Of the Total Comprehensive Income above,
+Net profit/(loss) attributable to:
+Owners of the parent                     28.93                   113.24                   (67.68)                     63.71
+Non-controlling interests                     (3.70)                     (3.29)                     (0.87)                     (6.96)
+Of the Total Comprehensive Income above,
+Other Comprehensive income attributable to:
+Owners of the parent                     (0.08)                       0.91                     (0.74)                       1.17
+Non-controlling interests                    -                    -                    -                            -
+10 Earnings per share
+(of Rs. 5/- each) (not annualised):
+a) Basic (in Rs.)                       1.22                       4.77                     (2.85)                       2.69
+b) Diluted (in Rs.)                       1.22                       4.77                     (2.85)                       2.69
+11 Paid-up equity share capital                   118.58                   118.58                   118.58                   118.58
+(Face value of Rs. 5/- each)
+12 Other equity attributable to owners of the parent as shown in the audited balance sheet
+of the previous year               1,668.99PURAVANKARA LIMITED
+Corporate Identity Number (CIN): L45200KA1986PLC051571
+Regd. Office: No. 130/1, Ulsoor Road, Bengaluru - 560042, India
+Phone: +91-80-43439999   Fax: +91-80-2559 9350
+Email: investors@puravankara.com  Website: https://www.puravankara.com
+Statement of Unaudited Consolidated Financial Results of Puravankara Limited for the quarter ended June 30, 2026
+Page 1 of 2
+Statement of Unaudited Consolidated Financial Results of Puravankara Limited for the quarter ended June 30, 2026
+Notes:
+1
+2
+3(a)
+(b)
+4 Figures for unaudited standalone financial results of the Company for the quarter ended 30.06.2026 are as follows:
+(Rs. in Crores)
+Particulars Quarter ended
+30.06.2026
+[Unaudited]Preceding Quarter
+ended 31.03.2026
+[Audited]
+(Refer note 5)Corresponding
+Quarter ended
+30.06.2025
+[Unaudited]Previous Year
+ended 31.03.2026
+[Audited]
+Revenue from operations 511.92 1,118.73 126.16 2,302.61
+Profit/(loss) before tax 25.95 148.22 (90.40) 96.36
+Profit/(loss) after tax 17.87 110.92 (68.15) 70.35
+5
+6
+For and on behalf of the Board of Directors of
+Puravankara Limited
+CIN: L45200KA1986PLC051571
+Ashish Ravi Puravankara
+Managing Director
+DIN: 00504524
+Place: Bengaluru, India
+Date: August 14, 2026During the quarter ended June 30, 2026, the Company has entered into an arrangement to sell its shareholding in its subsidiary Purva Ruby Properties Private Limited.
+The said arrangement is subject to fulfilment of certain obligations by the Company including obtaining certain regulatory approval and the Company is in the process
+of complying with such obligations as at June 30, 2026.The figures for the quarter ended 31.03.2026 are the balancing figures between audited figures in respect of the full financial year ended 31.03.2026 and the unaudited
+published year-to-date figures in respect of nine months ended 31.12.2025, being the date of the end of the third quarter of the respective financial year which were
+subjected to limited review.The Group’s business activity falls within a single reportable segment, i.e., real estate development and related activity. Hence, there are no additional disclosures to
+be provided under Ind-AS 108 – Operating Segments with respect to the single reportable segment. Further, the Group is domiciled in India and does not have
+significant foreign operations.The above consolidated financial results of Puravankara Limited ('the Company' or 'the Holding Company') have been reviewed by the Audit Committee and approved
+at the meeting of the Board of Directors of the Company held on 14.08.2026. The statutory auditors of the Company have carried out a limited review on the above
+consolidated financial results of the Company for the quarter ended 30.06.2026.
+Certain entities in the Group are subject to ongoing legal proceedings in respect of the following matters as summarised below:
+(i) Deposits and advances of Rs.51.31 crore (March 31, 2026: Rs. 61.41 crore) towards joint development arrangements and land acquisitions which are subject to
+legal proceedings related to obtaining clear and marketable tittle for underlying properties.
+(ii)   Claims from minority shareholders of a subsidiary of Rs.35.00 crore (March 31, 2026: Rs. 35.00 crore) towards adherence to project development terms.
+(iii)   Inventories related to launched project of Rs.82.70 crore (March 31, 2026: Rs. 82.70 crore) under land acquisition proceedings by government authorities.
+(iv) Receivables from customers of Rs.64.20 crore (March 31, 2026: Rs. 58.20 crore) and other balances of Rs.20.40 crore (March 31, 2026: Rs. 17.60 crore)
+recoverable from joint development partners and other parties which are subject to litigations.
+Pending resolution of the aforesaid legal proceedings, no provision has been made towards aforesaid claims and the deposits, advances, inventory, receivables and
+other balances referred above are classified as good and recoverable in the accompanying consolidated financial results based on the legal evaluation by the
+management of the ultimate outcome of the legal proceedings.
+A search under section 132 of the Income Tax Act (‘the Act’) was conducted in October 2023 in case of the Company, certain group companies and its promoters.
+Pursuant to the proceedings of the Income tax authorities (‘the authorities’), requisite information was provided by the Group to the authorities.
+The Company and such group companies have received assessment orders from the authorities disallowing certain expenses on the grounds that the same are not
+incurred for the purpose of business and other adjustments with potential tax impact of Rs. 45.08 crore from AY 2016-17 to AY 2024-25 (March 31, 2026: Rs.45.08
+crore from AY 2016-17 to AY 2024-25). The Group is of the view that these expenses were incurred in the ordinary course of business towards its ongoing real estate
+development projects. The Group has filed appeal against such assessment orders and is reasonably confident of providing necessary supporting evidences to the
+authorities in support of allowance of such expenses.
+Further, the Company had received notice from the authorities under Prohibition of Benami Property Transactions Act, 1988 requiring the Company to submit
+response as to why Benami proceedings should not be initiated against the Company and why the Company should not be held as the Beneficial owner for the 43.5
+acres of land parcels with carrying value of Rs. 13.20 crore (March 31, 2026: Rs. 13.20 crore). The Company has filed responses against such notice to the authorities.
+Pending resolution of the aforesaid legal proceedings, no provision has been made towards the consequential impact arising from such assessment orders/notices in
+the accompanying consolidated financial results, based on the legal evaluation by the management of the ultimate outcome of the legal proceedings.
+The Unaudited standalone financial results for the quarter ended 30.06.2026 can be viewed on the Company website https://www.puravankara.com and also be
+viewed on the website of National Stock Exchange of India Ltd. and BSE Ltd.
+Page 2 of 2
+Ashish Ravi 
+Puravankar
+aDigitally signed by 
+Ashish Ravi 
+Puravankara 
+Date: 2026.08.14 
+15:22:42 +05'30'

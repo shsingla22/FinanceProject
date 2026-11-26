@@ -1,0 +1,131 @@
+--- CIM_25642_WebXMLFile_20260820_183409679_2.xml (the exchange's structured disclosure) ---
+NSESymbol: PWL ; Name Of The Company: Physicswallah Limited ; Scrip Code: 544609 ; MSEISymbol: NOTLISTED ; ISIN: INE0LP301011 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-19 ; Time Of Occurrence Of Event Or Information: 18:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-20 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non-Executive - Nominee Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sandeep Singhal ; Effective Date Of Reason Of Change: 2026-08-20 ; Salutation: Mr. ; Name Of The Person: Sandeep Singhal ; Designation Of Person: Non-Executive - Nominee Director ; Date On Which The Resignation Letter Was Received: 2026-08-19 ; Effective Date Of Resignation: 2026-08-20 ; Reason Of Resignation In Brief: Due to his other professional and personal commitments
+
+--- CIMG_544609_20082026183156_1.pdf ---
+PHYSICSWALLAH
+LIMITED
+Date: August 20, 2026
+National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Bandra (E), Mumbai – 400 051 India
+
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001 India
+
+Scrip Code: 544609
+
+Symbol: PWL
+
+Sub: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”) - Resignation of NonExecutive Nominee Director
+Dear Sir/Madam,
+Pursuant to Regulation 30 read with Schedule III of the SEBI Listing Regulations, this is to inform you that
+Mr. Sandeep Singhal, Non-Executive Nominee Director, has tendered his resignation with effect from the
+close of business hours on August 19, 2026.
+The Company sincerely appreciates the valuable contributions and guidance provided by Mr. Singhal during
+his association with the Company.
+The details as required under Regulation 30 of the SEBI Listing Regulations read with SEBI Master Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, along with a copy of the resignation
+letter, are enclosed herewith as Annexure-A.
+This disclosure will also be hosted on the Company's website viz h ps://www.pw.live/investor-rela ons
+Request you to kindly take the same on record.
+Thank you.
+Yours sincerely,
+For Physicswallah Limited
+signed
+Ajinkya Digitally
+by Ajinkya
+Rajendra Rajendra Jain
+Date: 2026.08.20
+Jain
+15:36:59 +05'30'
+
+Ajinkya Jain
+Group General Counsel, Company Secretary & Compliance Oﬃcer
+Membership No.: A33261
+
+Physicswallah Limited (Formerly known as ‘Physicswallah Private Limited’)
+Plot No. B-8, Tower A 101-119, Noida One, Noida, Sector 62, Dadri, Gautam Buddha Nagar,
+Uttar Pradesh - 201309; CIN: L80900UP2020PLC129223; Contact: 0120-6618164;
+Website: www.pw.live; Email Id: compliance@pw.live
+
+
+PHYSICSWALLAH
+LIMITED
+Annexure-A
+Sl.
+1
+2
+3
+4
+
+Par cular
+Reason for change viz. appointment, reappointment, resigna on, removal,
+death or otherwise.
+Date
+of
+appointment/reappointment/cessa on (as applicable) &
+term of appointment/re-appointment
+Brief proﬁle (in case of appointment)
+Disclosure of rela onships between
+directors (in case of appointment of a
+director)
+
+Details
+Resigna on due to his other professional and personal
+commitments.
+Eﬀec ve from the close of business hours on August 19,
+2026.
+Not Applicable
+Not Applicable
+
+Physicswallah Limited (Formerly known as ‘Physicswallah Private Limited’)
+Plot No. B-8, Tower A 101-119, Noida One, Noida, Sector 62, Dadri, Gautam Buddha Nagar,
+Uttar Pradesh - 201309; CIN: L80900UP2020PLC129223; Contact: 0120-6618164;
+Website: www.pw.live; Email Id: compliance@pw.live
+
+
+Date: August 19, 2026
+To
+PhysicsWallah Limited
+Plot No. B-8, Tower A, 101-119, Noida One
+Noida Sector 62, Gautam Buddha Nagar, Dadri
+Uttar Pradesh, India, 201309
+from the
+Subject:
+Sub~ect: Resignation
+Resignation from
+the Board
+Board of
+of Directors
+Directors of
+of PhysicsWallah
+PhysicsWaliah Limited
+Limited
+Dear Members of the BoardI hereby tender my resignation from the office of Non-Executive Nominee Director of PhysicsWallah
+Limited (the “Company”), with immediate effect.
+I confirm that my resignation is on account of the other professional and personal commitments and
+there is no other reason for my resignation.
+I request the Company to kindly take my resignation on record and complete all necessary statutory
+and regulatory filings and disclosures, including the requisite filings with the Registrar of Companies and
+disclosures to the stock exchanges and other applicable regulatory authorities, in accordance with
+applicable law.
+I thank the Board and the management of the Company for the support and cooperation extended to
+me during my tenure on the Board.
+Yours faithfully,
+
+SANDEEP
+SINGHAL
+
+Digitally signed by
+SANDEEP
+SINGHAL
+
+________________
+Sandeep Singhal
+DIN: 00040491
+
+

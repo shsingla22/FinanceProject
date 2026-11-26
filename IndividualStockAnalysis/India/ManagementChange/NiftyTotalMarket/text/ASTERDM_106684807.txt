@@ -1,0 +1,163 @@
+--- CIMXML_CIM_WebXMLFile_20260702_182338187_2.xml (the exchange's structured disclosure) ---
+NSESymbol: ASTERDM ; Name Of The Company: ASTER DM HEALTHCARE LIMITED ; Scrip Code: 540975 ; MSEISymbol: NOTLISTED ; ISIN: INE914M01019 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-07-01 ; Start Time Of Board Meeting: 12:30:00 ; End Time Of Board Meeting: 15:55:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 25 ; Date Of Report: 2026-07-02 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Group Chief People Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: S V Kiran ; Effective Date Of Reason Of Change: 2026-07-01 ; Brief Profile: Mr. S V Kiran is a human capital and operations leader with extensive experience in healthcare workforce transformation, talent management, and organisational development. He is recognised for building high-performing teams and aligning people strategies with business objectives. As Chief Executive Officer of Apollo Health Resources Limited, he leads the Global Workforce Development programme, creating scalable international talent mobility models. Previously, as CHRO of Apollo Hospitals, he led HR transformation for one of India’s largest healthcare systems, covering over 40,000 employees and driving workforce efficiency, leadership development, and digital HR initiatives. He holds a PGDBM in HR and General Management and is recognised for driving large-scale workforce transformation, digital adoption and organisational excellence. His leadership continues to enhance talent strategy and global workforce positioning. ; Designation Of Designated Person: Chief Executive Officer (India III) ; Name Of Designated Person: Vishal Maheshwari ; Brief Profile: Mr. Vishal Maheshwari is an accomplished finance and business leader with over 27 years of experience across oil, pharmaceuticals, medical devices and healthcare services. He brings strong expertise in financial strategy, governance, and operational transformation, with a focus on delivering sustainable growth and profitability. As Group Chief Financial Officer of Quality Care India Limited, he has led strategic initiatives across financial management, business transformation and performance optimisation. His experience includes large-scale treasury management, revenue growth programmes, and value creation across organisations such as Indian Oil Corporation, Abbott and Healthium Medtech. A Chartered Accountant and Cost & Works Accountant, he combines strong financial acumen with strategic insight. He is recognised for advising boards and senior leadership on risk mitigation, capital efficiency and long-term value creation while building high-performance teams and robust governance frameworks. He is recognised for delivering strong financial performance, including sustained revenue growth, EBITDA expansion and improved return on capital across organisations. ; Designation Of Designated Person: Chief Executive Officer (India II) ; Name Of Designated Person: Pawan Kumar ; Brief Profile: Dr. Pawan Kumar is a healthcare leader with over 18 years of experience across hospital operations, business transformation, growth, and people leadership. He is recognised for his execution-driven and people-centric approach, combining operational discipline with a strong focus on culture and institutional development. As Chief Executive Officer of CARE Hospitals, he leads a complex healthcare platform with a focus on performance improvement, scalability, and sustainable growth. He has previously served as CEO of Livasa Hospitals and held leadership roles at Cloudnine Hospitals and Max Healthcare, where he drove operational expansion and transformation initiatives across multiple facilities. He holds an MBBS from JIPMER, an MD in Anaesthesiology from PGIMER, Chandigarh, and a Post Graduate Programme in Management from the Indian School of Business. Recognised among India’s top leadership talent, he is known for driving institutional transformation while fostering collaborative and high-performing teams. ; Designation Of Designated Person: Chief Executive Officer (Bangladesh) ; Name Of Designated Person: Ratnadeep Chaskar ; Brief Profile: Dr. Ratnadeep Chaskar is a healthcare leader with over 30 years of experience in hospital operations and healthcare management, with a strong track record of driving institutional transformation and sustainable performance. He brings expertise across clinical governance, operational efficiency, and patient-centric care delivery. As Chief Executive Officer & Managing Director of Evercare Hospitals Bangladesh, he has led the organisation’s transformation into a leading tertiary-care platform. His leadership has strengthened clinical governance, expanded specialty programmes, and driven growth in utilisation, revenue, and profitability while enhancing care accessibility. He holds an MBBS and an MBA in Hospital Administration and has completed executive programmes at Harvard T.H. Chan School of Public Health and Singapore Management University. Recognised for navigating complex ownership transitions and building resilient healthcare systems, he continues to drive innovation and excellence in healthcare delivery. He is recognised for leading large-scale healthcare transformation initiatives, improving occupancy, financial performance and clinical capabilities in emerging healthcare markets. ; Designation Of Designated Person: Chief Digital Officer ; Name Of Designated Person: Vinod Raman ; Brief Profile: Mr. Vinod Raman is a technology and digital transformation leader with over 25 years of global experience across enterprise software, e-commerce, education and healthcare. He is recognised for delivering large-scale transformation programmes and building high-impact digital platforms. As Group Chief Technology Officer of Quality Care India Limited, he leads digital and technology strategy across India and Bangladesh, covering patient platforms, clinical systems, enterprise architecture and cybersecurity. He has previously led technology transformation at GEMS Education and held leadership roles at Mahindra First Choice and Oracle, delivering cloud, AI and enterprise transformation initiatives. He holds an MBA from IIM Bangalore and a Master’s degree in Electrical Engineering from Texas A&M University. Known for combining technical depth with commercial acumen, he drives innovation, scalability and efficiency across digital ecosystems. He is recognised for leading large-scale digital transformation initiatives, including development of scalable technology platforms, cloud migration programmes and AI-driven enterprise solutions. ; Type Of Change: Cessation ; Category Of Cessation: Cessation ; Designation Of Designated Person: Head of Human Resources ; Name Of Designated Person: Durga Prasanna Nayak ; Remarks For Change In Management: Cessation on account of changes in organisation structure pursuant to scheme of amalgamation. ; Designation Of Designated Person: Country Head – Supply Chain Management ; Name Of Designated Person: Hemakumar Nemmali ; Designation Of Designated Person: Chief Executive Officer, Aster Medcity Kochi & Senior Consultant - Forensic Medicine ; Name Of Designated Person: Nalanda Jayadev ; Designation Of Designated Person: Regional Country Head Sales ; Name Of Designated Person: Vineesh Kumar Ghei ; Category Of Cessation: Resignation ; Designation Of Designated Person: Chief Investor Relations and M&A Officer ; Name Of Designated Person: Hitesh Dhaddha ; Effective Date Of Reason Of Change: 2026-07-18 ; Type Of Change: Change in designation ; Designation Of Designated Person: Group Chief Financial Officer and Head - Investor Relations ; Previous Designation Of Designated Person: Chief Financial Officer ; Name Of Designated Person: Sunil Kumar M R ; Designation Of Designated Person: Chief Executive Officer (India I) ; Previous Designation Of Designated Person: Chief Operating Officer ; Name Of Designated Person: Ramesh Kumar S ; Designation Of Designated Person: Group Medical Officer ; Previous Designation Of Designated Person: Chairman Medical Advisory Board ; Name Of Designated Person: Somashekhar S P ; Designation Of Designated Person: Chief Information Officer ; Previous Designation Of Designated Person: Chief Information Officer & Chief Information Security Officer ; Name Of Designated Person: Sudeep Dey ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Chairperson related to Promoter ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Zeba Azad Moopen ; Position Of Director In Board Two: Not Applicable ; Name Of Designated Person: Shamsudheen Bin Mohideen mammu Haji ; Designation Of Designated Person: Non - Executive Independent Director ; Name Of Designated Person: C J George ; Name Of Designated Person: Maniedath Madhavan Nambiar ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Three: MD ; Name Of Designated Person: Varun Shadilal Khanna ; Term Of Appointment In Months: 60 ; Brief Profile: With 28 years of diverse industry experience across Telecom, Retail, Healthcare, and MedTech, Varun brings a formidable leadership presence and a steadfast commitment to Value Creation and Value Capture in the evolving healthcare landscape. As the Group Managing Director of Quality Care India Ltd (QCIL), he is at the forefront of driving Growth & Synergy, and the group is geared to invest in outstanding businesses where capital, strategic insights, global relationships, and operational support can drive transformation. Building strong foundations of Clinical & Service Excellence powered by technology, he focuses on building a community centered around performance, leadership, and harmony. Unlocking new business synergies between Group Cos (CARE Hospitals, KIMSHEALTH & Evercare Hospitals, Bangladesh) marks the beginning of the Transformational Patient-Centric Care that the industry is poised to experience. A turnaround specialist with cross-border experience across South and Southeast Asian countries, Varun has significantly advanced his expertise. Notably, in his recent role as Managing Director of Siloam Hospitals, he played a key role in driving a 5X increase in EBITDA for his investors and board, showcasing his impact in Digital Healthcare and Investments. Previously, Varun held positions as Chairman at Sahyadri Hospitals in India, Managing Director at Becton Dickinson & Co India, and Executive Vice President & Chief Commercial Officer at Fortis Hospitals. His leadership experience also spans retail and telecom, with significant contributions at Reliance Retail and Bharti Airtel. His expertise in med-tech and healthcare delivery is further evidenced by his prestigious roles, including Co-Chair of the FICCI Health Services Committee, Chairman of the AdvaMed India Working Group& National Executive Board Member of AMCHAM. Other notable accolades include participation in the Guinness World Records, being named Best CEO in the Med-tech category in 2015, receiving the ET Best Healthcare Brand award, and earning the Aon Best Employers 2016 recognition for BD India. Varun enjoys photography, is an ardent golf enthusiast, and has a refined taste in music, all of which define his hobbies. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Varun Khanna is not related to any Director of the Company ; Name Of Designated Person: Ganesh Mani ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Ganesh Mani is a Senior Managing Director in Blackstone’s Private Equity Group. Since joining Blackstone in 2011, Mr. Mani has been involved in Blackstone’s investments in CARE Hospitals, ASK, Sona Comstar, Aadhar Housing Finance, Trans Maldivian Airways, IBS Software, International Tractors Limited, CMS Info Systems, Multi Commodity Exchange of India Ltd., and Jagran Prakashan. Mr. Mani is involved in the evaluation of investment opportunities in the pharma and healthcare, financial services, and automotive sectors in South Asia. Mr. Mani currently serves on the Board of Directors of ASK. Before joining Blackstone, Mr. Mani was an Associate at the Boston Consulting Group. Mr. Mani received a B.Tech. in Mechanical Engineering from the Indian Institute of Technology Bombay. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Ganesh Mani is not related to any Director of the Company ; Name Of Designated Person: Ayshwarya Vikram ; Brief Profile: Ms. Ayshwarya Vikram is a Managing Director with the Blackstone Private Equity Portfolio Operations team based in Mumbai. She has 10+ years of experience working with leading companies across industries on a variety of topics spanning new product development to ESG. Prior to Blackstone, she worked at KKR for 5 years in their India Private Equity team in a role spanning both investing and value creation. She currently serves as the Director of several companies including Simplilearn, ASK Investment Managers and PGP Glass Private Limited. She started her career with the Boston Consulting Group post her M.B.A. from the Indian Institute of Management, Ahmedabad. She also holds a B.E. (Honors) in Electrical & Electronics Engineering from the Birla Institute of Technology & Science, Pilani. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Ms. Ayshwarya Vikram is not related to any Director of the Company ; Name Of Designated Person: Neeraj Jain ; Term Of Appointment In Months: 36 ; Brief Profile: Mr. Neeraj Jain is a rank holder Chartered Accountant and Company Secretary with over 30 years of management experience in finance, supply chain and business across diversified industries at Johnson & Johnson (J&J) and Hindustan Unilever (HUL). Mr. Jain’s key areas of expertise include strategic business partnering, process excellence, controllership, M&A, business reorganization and talent development. Mr. Jain began his career in management consulting at A F Fergusons. He subsequently spent seventeen years with HUL, holding positions of increasing responsibility, the last being the General Manager, Commercial (Exports). He led and executed several M&A and divestment deals, set up joint venture overseeing finance, IT, procurement and HR. Later he reorganized the exports business where he was also the board member of Ponds Exports Limited. Mr. Jain later joined J&J, where he served for thirteen years in senior leadership roles, including Vice President Finance/ Chief Financial Officer. He was a member of the India Management Board and served as a director on the board of the orthopaedics business. He introduced the finance business partnering model in India, led process simplification and standardization while driving compliance and cost optimization. He transitioned in acquired companies, transitioned out businesses while optimising results and remodelled the ASEAN countries to a business unit-based structure. He also worked on a global strategic project to refine key business strategies relevant for next twenty-five years for J&J Medical globally. Post retirement from J&J in 2020, Mr. Jain co-founded Vinners, an angel investment platform comprising approximately 150 CXOs, and serves as founding director of the entity responsible for investment decisions and governance oversight. Mr. Jain was recognized among the 100 most influential CFOs in India by CIMA in 2016 and by 9.9 Media in 2015. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Neeraj Jain is not related to any Director of the Company ; Name Of Designated Person: Kewal Handa ; Brief Profile: Mr. Kewal Handa serves as Non-Executive Chairman & Part-Time Non-Official Director at Union Bank of India. He had been the Non-Executive Chairman at Union Bank of India since July 6, 2017. Mr. Kewal Handa is Chairman at Clariant Chemicals (India) Ltd., Chief Executive Officer at The Third Eye Kreative Films LLP, Committee Member at Confederation of Indian Industry, a Member at Bombay Chamber of Commerce & Industry, a Member at Institute of Co Secretaries of India, a Member at The Institute of Cost & Works Accountants of India and President at Bombay Management Association. He is on the Board of Directors at Greaves Cotton Ltd., ING Vysya Bank Ltd., Mukta Arts Ltd., Organisation of Pharmaceutical Producers of India, Salus Lifecare Pvt Ltd. and Indian Institute of Management. Mr. Handa was previously employed as Executive Director & Managing Director by Wyeth Ltd. (India), Independent Non-Executive Director by Alfa Laval (India) Ltd., Chief Executive Officer, Executive Director & MD by Pfizer India Ltd., and Chairman by Medybiz Pharma Pvt Ltd. Mr. Handa received his graduate degree from Sydenham College. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Kewal Handa is not related to any Director of the Company ; Name Of Designated Person: V K Mathews ; Brief Profile: Mr. V K Mathews is the Founder and Executive Chairman of The IBS Group. Mathews founded IBS in 1997 with a vision to redefine the way the global travel, transportation and logistics industries managed their businesses. With over 17 years of in-depth understanding of the aviation industry, having served Emirates for over a decade, Mathews set out to fulfill his vision for the industry with just 55 employees joining him in his entrepreneurial venture. IBS today is a multinational corporation, serving over 170 clients worldwide, employing over 5000 professionals from 40+ different nationalities and poised to be the No. 1 IT solution provider to the global air transportation industry. Mathews was instrumental in IBS acquiring six international companies (in Europe, USA and India) during its 25 year journey which has added its portfolio of offerings to some of the best airlines, busiest airports, leading cruise lines, top oil & gas companies and renowned travel distributors & hotel groups in the world. With over 30 years of work experience, Mathews is a thought leader and a specialist in aviation business. He is a much sought after speaker at various global aviation events including those organized by IATA, ICAO and AACO. Mathews holds several important positions in Government agencies, academic institutions and trade bodies in India. He was the Executive Council Member of NASSCOM, the premier trade body of the IT-BPO industries in India and has served as the Chairman of the NASSCOM Regional Council. He currently chairs several institutions including Trivandrum Agenda Task Force and Trivandrum City Connect Foundation. He is a Member of the Kerala Chief Minister’s High Power IT Committee (HPIC), as well as the Advisory Body of the Kerala State Higher Education Council and a Member of the Board of Directors of Kerala ICT Academy and Technopark, Kerala, India. Mathews is the past Chairman of Confederation of Indian Industry (CII) Kerala and a current member of CII Southern Regional Council. He has received several awards from the Government, media and trade associations including Management Leadership Award, Business Man of the Year Award, IT Man of the Year Award, Millennium Leadership Award and Enterprise Excellence Award. Mathews holds a Masters degree in Aeronautical Engineering from Indian Institute of Technology, Kanpur and had executive management education from Harvard Business School, Boston, USA. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. V K Mathews is not related to any Director of the Company ; Designation Of Designated Person: Group Legal Officer ; Name Of Designated Person: Richa Singh ; Brief Profile: Ms. Richa Singh is an accomplished legal leader with over 20 years of experience in corporate and regulatory affairs across healthcare and infrastructure sectors. She specialises in IPOs, M&A, corporate governance, risk mitigation and compliance frameworks. As General Counsel at Medanta Group of Hospitals, she has led legal strategy across the group and advised boards and senior management on governance, regulatory matters, capital markets and strategic transactions. She has played a key role in IPO execution, investments from global institutions and structuring of complex business transactions and joint ventures. She holds a law degree from National Law Institute University and is widely recognised among leading General Counsels in India. Known for building robust legal frameworks, she continues to drive compliance excellence and strategic legal advisory across the organisation. She is recognised for advising on complex transactions, including capital markets, strategic investments and large-scale mergers and acquisitions. ; Salutation: Mr. ; Name Of The Person: Shamsudheen Bin Mohideen mammu Haji ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-07-01 ; Effective Date Of Resignation: 2026-07-01 ; Reason Of Resignation In Brief: Pursuant to the implementation of the Scheme of Amalgamation between Quality Care India Limited ("QCIL") and Aster DM Healthcare Limited ("Aster DM") and their respective shareholders and creditors under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013. ; Salutation: Ms. ; Name Of The Person: Zeba Azad Moopen ; Reason Of Resignation In Brief: Consequent to the reconstitution of the Board in accordance with the post-amalgamation governance framework of the Company. ; Name Of The Person: C J George ; Designation Of Person: Non - Executive Independent Director ; Reason Of Resignation In Brief: In view of the imminent closure of the merger with Quality Care, Mr. George tendered his resignation from the position of Independent Director of Aster DM Healthcare Limited. ; Name Of The Person: Maniedath Madhavan Nambiar ; Reason Of Resignation In Brief: Pursuant to the implementation of the Scheme of Amalgamation between Quality Care India Limited ("QCIL'') and Aster DM Healthcare Limited ("Aster DM") and their respective shareholders and creditors under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013, Mr. Nambiar tendered his resignation from the office of Non-Executive Independent Director of the Company. ; Name Of The Person: Hitesh Dhaddha ; Designation Of Person: Chief Investor Relations and M&A Officer ; Effective Date Of Resignation: 2026-07-18 ; Reason Of Resignation In Brief: Due to personal reasons. ; Name Of Director: C J George ; Name Of The Company In Which Holding Directorship: GEOJIT FINANCIAL SERVICES LIMITED ; Category Of Directorship: Executive Chairman and Managing Director ; Membership Of Board Committee: Stakeholders Relationship Committee - Member ; Name Of Director: Maniedath Madhavan Nambiar ; Name Of The Company In Which Holding Directorship: NIL ; Category Of Directorship: NIL ; Membership Of Board Committee: NIL
+
+--- Annexure_II_-_resignation_1.pdf ---
+Maniedath Madhavan Nambiar
+House No. 3, 3 rd Street, Nawab Habibullah Avenue,
+Greams Road, Chennai - 600006
+
+Date: 01 July 2026
+To
+The Board of Directors,
+Aster DM Healthcare Limited,
+No. 7-1-450/20, Plot No. 04, Mythri Vihar, Sanjeev Reddy Nagar,
+Ameerpet, Hyderabad, Telangana, India - 500038
+
+Subject: Resignation as Non-Executive Independent Director of the Company
+Dear Chairman,
+Pursuantto the implementation of the Scheme of Amalgamation between Quality Care India Limited
+("QCIL'' ) and Aster DM Healthcare Limited ("Aster DM") and their respective shareholders and
+creditors under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013, I
+hereby tender my resignation from the office of Non-Executive Independent DirectoroftheCompany,
+with effect from 01 July 2026.
+I confirm that there are no other material reasons or circumstances other than those stated in this
+letter for resigning from the Board of the Company that require disclosure under applicable laws.
+I thank the Board for its trust, and appreciate the support of the management team and my fellow
+directors. It has been a privilege to serve and contribute to the Company.
+I wish the Company continued success in the future.
+Yours sincerely,
+
+fL~~L ·
+
+~
+
+M Madhavan Nambiar
+DIN: 01122411
+
+
+Date; 01.07.2026
+To
+The Board of Directors,
+Aster DM Healthcare Limited,
+No. 7-1-450/20, Plot No. 04, Mythri Vihar, Sanjeev Reddy Nagar,
+Ameerpet, Hyderabad, Telangena, India - 500038
+Subject: Resignation as Non- Executive Independent Director of the Company
+
+Dear Chairman,
+In view of the imminent closure of the merger with Quality Care, I believe this is an appropriate
+time for the Chairman and the Board to reconstitute the Board. Since my current term of
+appointment is nearing completion, I would like to tender my resignatio n from the position of
+Independent Director of Aster OM Healthcare Limited, to enable t he reconstitution of the Board.
+
+I would like to place on record my sincere appreciation fo r the opportu nity to be associated with
+Aster DM Healt hcare Limited as an Independent Director. Th e Company stands out as one of the
+f inest healthcare organisations, driven by strong values, professional m anagement, and an
+unwavering commitment to corporate governance and patient care. It has been a privilege for me
+to be part of the Company's journey and to have worked alongside a legendary Chairman, a
+distinguished Board, and an excellent management team.
+I wish the Chairman, the Board, t he management team, and all family members of Aster DM
+Healthcare Limited and Quality Care Lim ited the very best and continued success in steering t he
+Company towards sustained growth and excellence in the years ahead.
+I confirm that there are no other material rea sons for my resignation other th an those stated
+above.
+
+Independent Director
+DIN : 00003132
+
+
+Dr. Zeba Azad Moopen
+PO Box#8703, Flat-11-47-4704,
+345-Burj Khalifa Premises No. 3 45338901,
+Dubai, United Arab Emirates
+
+Date: 01 July 2026
+To
+The Board of Directors,
+Aster OM Healthcare Limited,
+No. 7-1-450/20, Plot No. 04, Mythri Vihar, Sanjeev Reddy Nagar,
+Ameerpet, Hyderabad, Telangana, India - 500038
+Subject: Resignation as Non-Executive Director of the Company
+
+Dear Chairman,
+I hereby tender my resignation from the position of Non-Executive Director of the Company with
+effect from 01 July 2026, pursuant to the implementation of the Scheme of Amalgamation between
+Quality Care India Limited ("QCIL") and Aster OM Healthcare Limited ("Aster OM") and their
+respective shareholders and creditors under Sections 230 to 232 and other applicable provisions of
+the Companies Act, 2013.
+I confirm that there are no other material reasons or circumstances other than those stated in this
+letter for resigning from the Board of the Company requiring disclosure under the applicable
+provisions of law.
+I would like to sincerely thank the Board, the management team, and my fellow directors for their
+support and cooperation during my tenure. It has been a privilege to serve on the Board and
+contribute to the Company's growth.
+Wishing the company continued success in the years ahead.
+
+Zeba Azad Moopen
+DIN: 03604401
+
+
+Date: 1" July, 2026
+To
+The Board of Directors,
+Aster OM Healthcare Limited,
+No. 7-1-450/20, Plot No. 04, Mythri Vihar, Sanjeev Reddy Nagar,
+Ameerpet, Hyderabad, Telangana, India - 500038
+Subject: Resignation as Non-Executive Director of the Company
+
+Dear Chairman,
+I hereby tender my resignation from the position of Non-Executive Director of the Company with
+effect from the close of business hours on 1"1 July, 2026, consequent to the reconstitution of the
+Board in accordance with the post-amalgamation governance framework of the Company.
+I confirm that there are no other material reasons or circumstances requiring disclosure under the
+applicable provisions of law.
+I would like to express my sincere gratitude to the Board, the management team and my fellow
+directors for their support, cooperation and association during my tenure with the Company. It has
+been a privilege to serve on the Board, and I am grateful for the opportunity to contribute to the growth
+and development of the Company.
+I wish the Company continued success in all its future endeavours.
+Kindly take this letter on record and arrange to complete the necessary statutory filings and other
+formalities in this regard.
+Yours sincerely,
+
+~~~-~A
+,\
+
+Shamsudheen Bin Mohideen Mammu Haji
+Non-Executive Director
+DIN: 02007279
+
+
+01 July 2026
+To
+
+Board of Directors,
+Aster DM Healthcare Limited
+
+Subject: Resignation from the position of Chief Investor Relations and M&A Officer
+(Senior Management Personnel) of the Company
+Respected Board,
+
+Ihereby tender my resignation from the position of Chief Investor Relations and M&A
+Officer (Senior Management Personne!) of the Company with effect from close of
+
+business hours on 18Juty 2026, which shallbe my last working day, due to my personal
+decision, and there are no other material reasons attributable to the Company or its
+management.
+
+Iconfirm that there are no circumstances connected with ny resignation which, in my
+opinion,may be considered material or requiredisclosure under applicable provisions of
+the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, except
+this intimation of resignation itself.
+
+Ishall ensure asmooth and orderly handover of responsibilities during the notice period
+
+and extend myfull cooperation to facilitate continuity of the legal function.
+Thank you for the opportunity to have been associated with the Company.
+Your Sincerely,
+
+Hiteşh Dhaddha
+Chiefnvestor Relations and M&A Officer
+
+Aster DM Healthcare Limited
+
+

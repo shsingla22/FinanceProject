@@ -1,0 +1,22 @@
+--- CIMG_500092_2172026225511_CIM_WebXMLFile_20260721_225520253_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CRISIL ; Name Of The Company: Crisil Limited ; Scrip Code: 500092 ; MSEISymbol: NOTLISTED ; ISIN: INE007A01025 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-07-21 ; Start Time Of Board Meeting: 14:00:00 ; End Time Of Board Meeting: 20:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-07-21 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Abhishek Tomar ; Effective Date Of Reason Of Change: 2026-07-22 ; Term Of Appointment In Months: 0 ; Brief Profile: Abhishek Tomar is the Head of Data for S&P Global's Enterprise Data Organization (EDO) and serves on both the EDO Operating Committee and the S&P Global Energy Operating Committee. In this role, Abhishek leads a broad portfolio of data functions, including data operations, business partnerships, stewardship, and quality, while also driving customer success, data performance, and site operations management — ensuring EDO delivers high-quality, scalable solutions across the enterprise. Abhishek is a strategic advisor to leadership teams across India, Pakistan, and the Philippines. He chairs the India Leadership Council (ILC) — comprising leaders from S&P Global and Crisil — focused on shaping new strategies, strengthening cross-regional collaboration, and unlocking business development growth opportunities across South Asia, and sponsors the ILC-led India Research Chapter. He brings more than 20 years of experience across data, operations, and financial services. Previously, he served as Chief Data Officer for S&P Global Market Intelligence and Managing Director, India Operations, where he led and oversaw a workforce of more than 8,000 employees and delivered strong operational and business outcomes. He was also a member of the Market Intelligence Operating Committee. As Head of Data for EDO, Abhishek drives AI enablement and enterprise data transformation — scaling high-quality, AI-ready data and enabling more automated, insight-driven workflows across the organization. He is a strong advocate for trusted, standardized data foundations that accelerate responsible AI adoption and shape the next phase of enterprise data innovation. Abhishek is an active member of the National Executive Board of the American Chamber of Commerce (AMCHAM) in India. He holds a bachelor's degree in commerce from Delhi University and an MBA from NIILM Centre for Management Studies. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: NA ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Saugata Saha ; Effective Date Of Reason Of Change: 2026-07-21 ; Salutation: Mr. ; Name Of The Person: Saugata Saha ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-07-20 ; Effective Date Of Resignation: 2026-07-21 ; Reason Of Resignation In Brief: Resigned as a Non-executive Director consequent to his decision to leave S&P Global.
+
+--- CIMG_500092_21072026225511_2.pdf ---
+SAUGATASAHA
+
+2 Cooper Rd, Scarsdale, NY 10583, USA
+
+July 20,2026
+The Board of Directors,
+Crisil Limited
+Lightbridge IT Park,
+Saki Vihar Road,
+Andheri East, Mumbai, 400 072
+Dear Board Members,
+Subject: Resignation as Non-Executive Director of Crisil Limited
+In view of my resignation from S&P Global Inc., I hereby tender my resignation as a Non-Executive
+Director of Crisil Limited with effect from close of business hours on July 21, 2026.
+I request that the said resignation be placed before the Board and the necessary intimations be made
+to the Regulators as applicable.
+
+

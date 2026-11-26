@@ -1,0 +1,2515 @@
+--- CIMG_523642_1952026222444_CIM_WebXMLFile_20260519_222457280_1.xml (the exchange's structured disclosure) ---
+NSESymbol: PIIND ; Name Of The Company: PI INDUSTRIES LIMITED ; Scrip Code: 523642 ; MSEISymbol: NOTLISTED ; ISIN: INE603J01030 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-05-19 ; Start Time Of Board Meeting: 14:00:00 ; End Time Of Board Meeting: 20:10:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 10 ; Date Of Report: 2026-05-19 ; Type Of Change: Re-appointment ; Category For Change: Auditors ; Designation Of Designated Person: Cost Auditors ; Salutation Of Designated Person: M/s. ; Name Of Designated Person: K.G. Goyal & Co., Cost Accountants ; Effective Date Of Reason Of Change: 2026-05-19 ; Term Of Appointment In Months: 0 ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Shobinder Duggal ; Effective Date Of Reason Of Change: 2026-11-12 ; Term Of Appointment In Months: 60 ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Pia Singh ; Effective Date Of Reason Of Change: 2027-08-03 ; Type Of Change: Cessation ; Category Of Cessation: Superannuation or retirement ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Name Of Designated Person: Arvind Singhal ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Others ; Description Of Other Designation: Joint Managing Director ; Name Of Designated Person: Rajnish Sarna ; Type Of Change: Change in designation ; Previous Designation Of Designated Person: Joint Managing Director ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Management Personnel ; Name Of Designated Person: Marco Busch ; Brief Profile: Dr. Marco Busch, age 54 years, brings over two decades of experience in agricultural research and development. He holds a degree in Biotechnology, a Ph.D. in Plant Biotechnology & Physiology, and completed postdoctoral in the United States. He has held senior leadership roles at Bayer AG, contributing across Crop Protection, Seeds and Traits, and the full spectrum of R&D from early discovery to late-stage development. Most recently, he served as Senior Vice President and Head of Field Solutions, where he led global agronomic product development for chemical and biological crop-protection solutions. In addition, Dr. Marco Busch has worked as a strategy consultant on major corporate initiatives at Bayer AG. He has a proven track record of driving new technologies, automation, digital capabilities, and strengthening R&D processes, while fostering a strong talent and leadership culture within scientific teams. At Pl, he is leading the next phase of PI AgSciences innovation journey-strengthening research capabilities, advancing biologicals platform, and driving an integrated approach from discovery to farmer-centric solutions. ; Name Of Designated Person: Rafael Del Rio Donoso ; Description Of Other Designation: Additional Director ; Name Of Designated Person: Atul Kumar Gupta ; Brief Profile: Dr. Atul Kumar Gupta holds a Master Degree in Chemistry from the University of Rajasthan, Jaipur, and is Ph.D. in Chemistry from Chhatrapati Shahu Ji Maharaj University, Kanpur, Uttar Pradesh. Dr. Atul Kumar Gupta, CEO-CSM PI AgSciences, age 57 years, brings over 25 years of dedicated leadership to PI Industries Limited. A pivotal figure in the Company’s journey, he has played a key role in driving its sustained growth and transformation. Throughout his tenure, Dr. Gupta has led critical initiatives that have shaped the strategic direction of the organization. He is renowned for his excellence in P&L Management, Resource Optimization, and fostering cross-functional collaboration. As a visionary in the Custom Synthesis & Manufacturing (CSM) business, he has consistently spearheaded innovative process developments that have enhanced operational efficiency and competitive advantage. Dr. Gupta’s deep scientific acumen, combined with his strategic leadership, continues to make a lasting impact on PI Industries’ performance and its position as a global leader in the chemical industry. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: None ; Description Of Other Designation: Whole Time Director ; Term Of Appointment In Months: 36 ; Salutation: Mr. ; Name Of The Person: Rajnish Sarna ; Designation Of Person: Others ; Description Of Other Designation Person: Joint Managing Director ; Date On Which The Resignation Letter Was Received: 2026-05-19 ; Effective Date Of Resignation: 2026-05-19 ; Reason Of Resignation In Brief: Mr. Rajnish Sarna (DIN: 06429468) has resigned from the position of Joint Managing Director of the Company with effect from May 19, 2026, to focus on his health recovery. However, Mr. Rajnish Sarna shall continue his association with the Company as a Non-Executive, Non-Independent Director with effect from May 19, 2026
+
+--- CIMG_523642_19052026222444_2.pdf ---
+PIIL:SEC:NSE/BSE:
+NSE/BSE:06/2026-27
+PIIL:SEC:
+0 6/202 6 - 27
+
+May 79,
+19, 2026
+2026
+BSELimited
+Limited
+BSE
+Corporate
+Department.
+CorporateRelationship
+Relationship
+Department.
+Towers,25th
+25thFloor,
+Floor,Dalal
+Dalal
+Street,
+PJ Towers,
+Street,
+400001
+007
+Mumbai – 400
+
+NationalStock
+Stock
+Exchange
+of India Ltd.
+National
+Exchange
+of India Ltd.
+Exchange Plaza,
+Plaza, Plot
+Plot No. C/1,
+C/7, G
+G-Block
+Bandra
+Exchange
+- Block Bandra
+Kurla
+Kurla Complex,
+Complex,
+Bandra (East), Mumbai – 400
+400 051
+057
+Bandra
+
+CodeNo.
+No.523642
+523642
+Code
+
+Code
+Code No.
+No. PIIND
+PIIND
+
+Dear Sir/Madam,
+Sir/Madam,
+Dear
+
+Sub:Outcome
+Outcome
+Board
+Meeting
+Sub:
+ofof
+Board
+Meeting
+
+In compliance
+with
+Part
+A ofASchedule
+Ill of Ill
+theofSEBI
+Obligations
+&
+compliance with Regulation
+Regulation30
+30read
+read
+with
+Part
+of Schedule
+the (Listing
+SEBI (Listing
+Obligations
+&
+DisclosureRequirements)
+Requirements)Regulations,
+Regulations,
+2075
+SEBIListing
+ListingRegulations
+Regulations”),
+), we hereby
+herebyinform
+informyou
+youthat
+that
+Disclosure
+2015
+( (“SEBI
+Boardof
+ofDirectors
+Directors( (“the
+the Board
+Board ”)) of the Company
+Companyatatitsitsmeeting
+meetingheld
+held
+today
+i.e.,
+May
+2026,
+the Board
+today
+i.e.,
+May
+19,79,
+2026,
+hashas
+interalia, considered
+thethe
+following:
+inter-alia,
+consideredand
+andapproved
+approved
+following:
+i.
+
+The audited standalone
+financial
+results
+of theofCompany
+for the for
+quarter
+and
+standalone&&consolidated
+consolidated
+financial
+results
+the Company
+the quarter
+and
+financial
+the
+SEBI
+Listing
+Regulations
+financialyear
+yearended
+endedMarch
+March31,
+37,2026
+2026,, pursuant
+pursuantto
+toRegulation
+Regulation3333ofof
+the
+SEBI
+Listing
+Regulations..
+The audited
+along
+withwith
+the the statement
+& liabilities,
+audited financial
+financialresults
+results
+along
+statement ofofassets
+assets
+& liabilities, cash
+cash flow
+flow
+statements,
+statements,auditor
+auditor’ss report
+reportss thereon
+thereon and
+and a declaration
+declarationfrom
+from the Chief
+ChiefFinancial
+FinancialOfficer
+Officer stating
+stating
+that
+herewith
+as as Annexure
+that the
+the auditor
+auditor’ss reports
+reports are with unmodified
+unmodifiedopinion
+opinionare
+areenclosed
+enclosed
+herewith
+AnnexureAA..
+
+ii.
+
+Recommended
+atat
+thethe
+rate
+of of
+Rs.Rs. 10/% on
+Recommendeda afinal
+finaldividend
+dividend
+rate
+70/- per share
+sharei.e.,
+i.e., 1000
+7000%
+onthe
+theequity
+equityshares
+shares
+of the
+of of
+face
+value
+of Re.
+year
+2025
+- 26, subject
+the Company
+Company
+face
+value
+of 1/
+Re. 7/-- each,
+each,for
+forthe
+thefinancial
+financial
+year
+2025-26,
+subjecttotothe
+the
+approval
+the
+ensuing
+Annual
+General
+Meeting
+(
+approvalofofthe
+theMembers
+Membersatat
+the
+ensuing
+Annual
+General
+Meeting
+(“AGM
+AGM ”).
+). The
+The total
+totaldividend
+dividend
+for the year
+5/5/-- per equity
+bebe
+year (including
+(includinginterim
+interimdividend
+dividendofofRs.
+Rs.
+equity share
+sharepaid
+paidduring
+duringthe
+theyear)
+year)would
+would
+Rs.
+15/- per equity
+lue Re.1/byby
+the
+Members
+Rs. 75/equity share
+shareof
+of face
+face va
+value
+Re.7/- each.
+each.The
+Thesaid
+saiddividend,
+dividend,if ifdeclared
+declared
+the
+Members
+of the Company
+shall
+bebe paid to the Members
+Companyatatthe
+theensuing
+ensuingAGM,
+AGM,
+shall
+Members within
+within 30
+30days
+daysofofdeclaration.
+declaration.
+
+iii.
+
+Based
+of the
+Audit
+Committee,
+re re-appointment
+- appointment ofofM/s
+Goyal
+& &
+of the
+Audit
+Committee,
+M/sK.G.
+K.G.
+Goyal
+Basedon
+onthe
+therecommendation
+recommendation
+Co.,
+(Firm
+Registration
+No.No.
+000017),
+as Cost
+Auditors
+of theofCompany
+for thefor the
+Co.,Cost
+CostAccountants
+Accountants
+(Firm
+Registration
+000077),
+as Cost
+Auditors
+the Company
+financial
+- 27. The
+Cost
+Auditors
+is subject
+to to ratification
+financialyear
+year2026
+2026-27.
+The remuneration
+remunerationofofthe
+the
+Cost
+Auditors
+is subject
+ratificationby
+bythe
+the
+Members at
+required
+under
+Regulation
+30 30 - Part
+at the
+the ensuing
+ensuingAGM.
+AGM.Information
+Informationasas
+required
+under
+Regulation
+Part AA of
+of Schedule
+Schedule
+Ill of the SEBI
+is enclosed
+as as Annexure
+SEBIListing
+ListingRegulations,
+Regulations,
+is enclosed
+AnnexureB B..
+
+Registered
+Registered Office:
+
+Pl
+PlIndustries
+Industries Limited
+Limited
+Udaisagar
+Udaisagar Road,
+Road, Udaipur
+Udaipur - 313001,
+373007, Rajasthan,
+Rajasthan, India.
+India.
+Tel
+.: 0294
+2492451
+02946651100,
+6651100,
+2492451 – 55
+55 I CIN
+CIN:: L24211RJ1946PLC000469
+L242llRJl946PLC000469
+Tel.:
+~ info@piind.com
+E@ www.piindustries.com
+www.piindustries.com
+
+
+iv.
+
+Ms. Lisa
+Independent
+Director
+of the
+y, has
+LisaJJBrown
+Brown(DIN:
+(DIN:07053317),
+07053377),
+Independent
+Director
+of Compan
+the Company,
+hasbeen
+beendesignated
+designated
+as the
+the Lead
+LeadIndependent
+IndependentDirector
+Director
+Company..
+as
+of of
+thethe
+Company
+
+v.
+
+Resignation
+from
+the the office
+Resignationofof Mr. Rajnish
+Rajnish Sarna
+Sarna(DIN:
+(DIN:06429468)
+06429468)
+from
+office of Joint
+Joint Managing
+ManagingDirector
+Directorofof
+Company,vide
+videhishis
+letter
+dated
+May
+2026. The Board
+Boardhas
+has also
+also approved
+approvedre
+re-designation
+the Company,
+letter
+dated
+May
+1 79,
+9 , 2026.
+- designation
+and continuation
+continuation of Mr.
+Mr. Rajnish
+RajnishSarna
+Sarna as
+as aaNon
+Non-Executive,
+Non-Independent
+Director,with
+with
+and
+- Executive, Non
+- Independent Director,
+effect from
+fromMay
+May19,
+79,2026.
+2026. A copy
+copyofofthe
+the
+resignation
+letter
+is annexed
+as Annexure
+Annexure C
+C and
+effect
+resignation
+letter
+is annexed
+as
+Information
+under
+Regulation
+30 30 - Part
+Schedule
+Ill ofIlltheofSEBI
+Informationasasrequired
+required
+under
+Regulation
+Part AAofof
+Schedule
+theListing
+SEBI Listing
+Regulations,
+asas Annexure
+Regulations,isisenclosed
+enclosed
+Annexure D
+D..
+
+vi.
+
+ArvindSinghal
+Singhal
+00092425),
+Non-Executive,
+Non-Independent
+Director
+of the
+Mr. Arvind
+(DIN:(DIN: 00092425
+), Non
+- Executive, Non
+- Independent Director
+of the
+Company,
+office
+is liable
+to retire
+by rotation
+at theat
+ensuing
+Company,whose
+whose
+office
+is liable
+to retire
+by rotation
+the ensuing AGM, has
+has expressed
+expressed his
+intention
+re re-appointment
+- appointment at the
+Accordingly,
+Mr. Mr.
+Arvind
+Singhal
+shall shall
+intention not
+nottotoseek
+seek
+thesaid
+saidAGM.
+AGM.
+Accordingly,
+Arvind
+Singhal
+the ensuing
+ensuing AGM in
+inaccordance
+accordance
+with
+provisions
+section 152
+752 of
+ofthe
+theCompanies
+Companies
+retire at the
+with
+thethe
+provisions
+of of section
+Act, 2013.
+2073. Information
+Informationas
+asrequired
+requiredunder
+underRegulation
+Regulation
+Part AA of
+of Schedule
+ScheduleIllIllofofthe
+theSEBI
+SEBIListing
+Listing
+Act,
+3030 - Part
+Regulations,
+asas Annexure
+Regulations,isisenclosed
+enclosed
+Annexure EE..
+
+vii.
+
+Basedon
+onthe
+therecommendation
+recommendation
+of the
+Nomination
+and Remuneration
+Committee, Dr. Marco
+Marco
+Based
+of the
+Nomination
+and Remuneration
+Committee,
+Busch,Global
+GlobalChief
+Chief
+Scientific
+Officer,, PI
+Pl AgSciences
+AgSciences - Research
+Researchand
+andDevelopment
+Development,, is designated
+designated
+Busch,
+Scientific
+Officer
+as
+Personnel
+from
+May
+19,79,
+2026.
+Information
+as Senior
+SeniorManagement
+Management
+Personnel of the
+the Company
+Companywith
+witheffect
+effect
+from
+May
+2026.
+Information
+as
+30 30 - Part
+Ill ofIllthe
+ListingListing
+Regulations,
+is
+as required
+requiredunder
+underRegulation
+Regulation
+Part AAofofSchedule
+Schedule
+of SEBI
+the SEBI
+Regulations,
+is
+enclosed
+enclosedas
+as Annexure
+Annexure FF..
+
+viii.
+
+Based
+of the
+Nomination
+and Remuneration
+Committee,
+Basedon
+onthe
+therecommendations
+recommendations
+of the
+Nomination
+and Remuneration
+Committee, the Board
+Board
+has
+- appointments, subject
+thethe
+approval
+of the
+has approved
+approvedthe
+the following
+following appointments
+appointments/ re
+/ re-appointments,
+subjecttoto
+approval
+of the
+Members of
+AGM.
+Information
+as required
+under
+Regulation
+30 30 of the
+the Company
+Companyatatthe
+theensuing
+ensuing
+AGM.
+Information
+as required
+under
+Regulation
+Part
+Regulations,
+is enclosed
+as as Annexure
+to G
+4.
+Part AAof
+of Schedule
+ScheduleIllIllof
+ofthe
+theSEBI
+SEBIListing
+Listing
+Regulations,
+is enclosed
+Annexure G
+Gl1 to
+G4.
+a.
+
+Re ‑appointment
+Donoso
+(DIN:
+08105128),
+whowho
+retires
+by rotation
+appointmentof
+ofMr.
+Mr.Rafael
+RafaelDel
+DelRio
+Rio
+Donoso
+(DIN:
+08705728),
+retires
+by rotation at
+the ensuing
+andand
+beingbeing
+eligible,
+has offered
+re
+- appointment as
+ensuingAGM
+AGM
+eligible,
+has himself
+offeredfor
+himself
+for re-appointment
+as aa
+Non
+Non ‑Executive
+Executive,, Non
+Non‑Independent
+IndependentDirector
+Directorofofthe
+theCompany
+Company,, along
+along with
+withthe
+theremuneration
+remuneration
+payable
+payableto
+tohim
+him – Annexure
+Annexure G
+Gl1
+
+b.
+
+Re
+- appointment ofofMr.
+Duggal
+(DIN:
+00039580)
+as an Independent
+DirectorDirector
+Re-appointment
+Mr.Shobinder
+Shobinder
+Duggal
+(DIN:
+00039580)
+as an Independent
+of the Company
+term
+ofof
+5 (five)
+consecutive
+years
+withwith
+effect
+from
+November
+Companyfor
+foraasecond
+second
+term
+5 (five)
+consecutive
+years
+effect
+from
+November
+12, 2026,
+2026, upto
+2
+72,
+uptoNovember
+November11,
+77, 2031
+2037 – Annexure
+Annexure G
+G2
+
+c.
+
+Re
+- appointment ofofMs.
+Singh
+(DIN:
+00067233)
+Director
+of the
+Re-appointment
+Ms.PiaPia
+Singh
+(DIN:
+00067233) as
+as an
+anIndependent
+Independent
+Director
+of the
+Company
+years
+with
+effect
+from
+202 7,
+Companyfor
+foraasecond
+secondterm
+termofof5 5(five)
+(five)consecutive
+consecutive
+years
+with
+effect
+from August
+August03
+03,, 2027,
+upto August
+2 – Annexure
+3
+August02
+02,, 203
+2032
+Annexure G
+G3
+
+Registered
+Registered Office:
+
+Pl
+PlIndustries
+Industries Limited
+Limited
+Udaisagar
+Udaisagar Road,
+Road, Udaipur
+Udaipur - 313001,
+373007, Rajasthan,
+Rajasthan, India.
+India.
+Tel
+.: 0294
+2492451
+02946651100,
+6651100,
+2492451 – 55
+55 I CIN
+CIN:: L24211RJ1946PLC000469
+L242llRJl946PLC000469
+Tel.:
+~ info@piind.com
+E@ www.piindustries.com
+www.piindustries.com
+
+
+d.
+
+Appointment
+Atul
+Kumar
+Gupta
+(DIN: (DIN:
+10087955)
+Director
+in in
+AppointmentofofDr.Dr.
+Atul
+Kumar
+Gupta
+70087955),, as
+as an
+anAdditional
+Additional
+Director
+ExecutiveCategory
+Category with effect
+effect from
+from May
+May19,
+79, 2026,
+2026,totohold
+holdoffice
+office
+upto
+the
+date
+next
+Executive
+upto
+the
+date
+of of
+thethe
+next
+three months
+monthsfrom
+fromthe
+thedate
+date
+appointment,
+whichever
+is earlier,
+AGM or within three
+ofof
+appointment,
+whichever
+is earlier,
+and and
+as a as a
+Whole-time
+Directorfor
+foraaterm
+termofof33(three)
+(three)consecutive
+consecutive
+years
+effective
+from
+May
+2026
+Whole
+- time Director
+years
+effective
+from
+May
+19,79,
+2026
+upto May
+4
+May 18,
+78, 2029
+2029 – Annexure
+Annexure G
+G4
+
+ensuingAGM
+AGM of the Company
+Company shall
+shall be convened
+convenedininaccordance
+accordance
+with
+circularss issued
+issued by
+by the
+the relevant
+relevant
+The ensuing
+with
+circular
+authorities,
+authorities, and
+andthe
+the details
+details thereof
+thereofshall
+shallbe
+beintimated
+intimatedseparately.
+separately.
+ofthe
+theBoard
+Boardcommenced
+commenced
+p.m.(IST)
+(1ST)and
+andconcluded
+concluded
+(1ST).
+meetingof
+The meeting
+at 0at 02:00
+2:0 0 p.m.
+at at 008:70
+8 :10 p.m. (IST).
+
+We request
+onon
+record.
+requestyou
+youto
+tokindly
+kindlytake
+takethe
+theabove
+above
+record.
+Thanking
+Thankingyou,
+you,
+Yours faithfully,
+faithfully,
+Yours
+Pl Industries
+Industries
+Limited
+For PI
+For
+Limited
+Digitally signed by
+
+SHRUTI
+SHRUTI RATNAKAR JOSHI
+RATNAKAR JOSHI Date: 2026.05.19
+20:54:36 +05'30'
+
+Shruti
+ShrutiJoshi
+Joshi
+Company
+Secretary
+& Compliance
+OfficerOfficer
+Company
+Secretary
+& Compliance
+Encl.:
+Encl.:As
+Asabove
+above
+
+Registered
+Registered Office:
+
+Pl
+PlIndustries
+Industries Limited
+Limited
+Udaisagar
+Udaisagar Road,
+Road, Udaipur
+Udaipur - 313001,
+373007, Rajasthan,
+Rajasthan, India.
+India.
+Tel
+.: 0294
+2492451
+02946651100,
+6651100,
+2492451 – 55
+55 I CIN
+CIN:: L24211RJ1946PLC000469
+L242llRJl946PLC000469
+Tel.:
+~ info@piind.com
+E@ www.piindustries.com
+www.piindustries.com
+
+
+Pl In ustries Ltd.
+STATEMENT OF STANDALONE AUDITED FINANC IAL RESULTS FOR THE QUARTER AND YEAR ENDED 31ST MARCH 2026
+
+(Int Million)
+Quarter ended
+S.No
+
+Particulars
+
+Year ended
+
+31 .03.2026
+
+31 .12.2025
+
+31.03.2025
+
+Audited"
+
+Unaudited
+
+Audited ..
+
+31.03.2026
+
+31.03.2025
+Audited
+
+13,914
+
+12,696
+
+16,482
+
+61,827
+
+711
+
+763
+
+682
+
+3,077
+
+3,006
+
+14,625
+
+13,459
+
+17,164
+
+64,904
+
+78,718
+
+Cost of materials consumed
+
+6,202
+
+6,230
+
+7,385
+
+27,888
+
+32,190
+
+Purchases of stock -in- trade
+
+63
+
+178
+
+137
+
+1,044
+
+1,105
+
+Changes in inventories of finished goods, work in progress
+and stock-In-trade
+
+(380)
+
+(1,200)
+
+(48)
+
+(2,830)
+
+2,644
+
+Employee benefit expense
+
+5,951
+
+I
+
+Revenue from operations
+
+II
+
+Other Income
+
+Ill Total Income (1+11)
+
+75,712
+
+IV Expenses
+
+1,567
+
+1,524
+
+1,389
+
+6,238
+
+Finance cost
+
+20
+
+29
+
+16
+
+74
+
+68
+
+Depreciation and amortisation expense
+
+847
+
+775
+
+647
+
+3,046
+
+2,626
+
+55
+
+61
+
+113
+
+246
+
+141
+
+Other expense
+
+2,555
+
+2,207
+
+2,467
+
+9,886
+
+10,036
+
+Total Expenses
+
+10,929
+
+9,804
+
+12,106
+
+45,592
+
+54,761
+
+Profit before exceptional item and tax (Ill-IV)
+
+3,696
+
+3,655
+
+5,058
+
+19,312
+
+23,957
+
+VI Exceptional item galn/(loss) (Refer note 6)
+
+(1,117)
+
+(206)
+
+-
+
+(1,323)
+
+-
+
+VII Profit after exceptional but before tax (V+VI)
+
+2,579
+
+3,449
+
+5,058
+
+17,989
+
+23,957
+
+Nel impainnent losses on financial assets
+
+V
+
+VIII Income tax expense
+Current tax
+
+649
+
+623
+
+889
+
+3,383
+
+4,183
+
+Deferred tax
+
+(48)
+
+(7)
+
+368
+
+367
+
+1,281
+
+Income tax of eartier years
+
+-
+
+17
+
+(57)
+
+(109)
+
+(172)
+
+Total Tax Expense
+
+601
+
+633
+
+1,200
+
+3,641
+
+5,292
+
+1,978
+
+2,816
+
+3,858
+
+14,348
+
+18,665
+
+(21)
+
+61
+
+102
+
+56
+
+32
+
+7
+
+(21)
+
+(36)
+
+(20)
+
+(11)
+
+IX Profit for the period/year (VII-VIII)
+X Other Comprehensive Income after tax (OCI)
+A Items that will not be reclassified to profit or loss
+Remeasurements gain/(loss) on defined benefits plans
+Income tax relating to the above item
+B Items that will be reclassified to profit or loss
+
+(1,257)
+
+(121)
+
+415
+
+(2,228)
+
+(353)
+
+Income tax relating lo above items
+
+440
+
+42
+
+(145)
+
+779
+
+123
+
+Total Other Comprehensive Income for the period/year
+
+(831)
+
+(39)
+
+336
+
+(1,413)
+
+(209)
+
+XI Total Comprehensive Income for the period/year (IX+X)
+
+1,147
+
+2,777
+
+4,194
+
+12,935
+
+18,456
+
+152
+
+152
+
+152
+
+152
+
+152
+
+1,13,539
+
+1,02,875
+
+Effective portion of gain/(loss) on cash now hedges
+
+XII Paid-up equity share capital
+(Face value of, 1/- each (Previous Year, 1/- each))
+XIII Other Equity excluding Revaluation Reserves as per Balance
+sheet
+XIV Earning per Share• (In')
+(a) Basic
+
+13.04
+
+18.56
+
+25.43
+
+94.57
+
+123.03
+
+(b) Diluted
+
+13.03
+
+18.56
+
+25.42
+
+94.56
+
+123.02
+
+See accompanying notes to the financial results
+• Actuals for the Quarter, not annualised
+" Refer Note 3
+
+w
+
+
+Pl Industries Ltd.
+STATEMENT OF STANDALONE AUDITED ASSETS AND LIABILITIES AS AT 31ST MARCH 2026
+
+(In f Million )
+As at
+
+$ .No
+I
+1
+
+Particulars
+
+31.03.2026
+Audited
+
+31 .03.2025
+Audited
+
+ASSETS
+Non Current Assets
+
+Property, Plant & Equipment
+
+31,332
+6,135
+
+Capital work-in-progress
+Goodwill
+
+28 ,603
+2,822
+
+671
+
+671
+
+279
+2,618
+
+221
+1,620
+
+(i) Investments
+
+19,290
+
+20,090
+
+(ii) Other financial assets
+
+1,562
+45
+268
+62,200
+
+2,186
+78
+190
+56,481
+
+10,502
+
+8,372
+
+Other Intangible assets
+Intangible asset under development
+Financial Assets
+
+Current tax assets
+Other non-current assets
+Total non-current assets
+2
+
+Current Assets
+
+Inventories
+Financial Assets
+(i) Investments
+(ii) Trade receivables
+
+(iii) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+(v) Loans
+
+(vi) Other financial assets
+Contract assets
+Other current assets
+Total current assets
+Total Assets
+II
+
+EQUITY & LIABILITIES
+
+1
+
+Equity
+Equity Share Capital
+Other Equity
+Total equity
+
+2
+
+Liabilities
+Non Cu rrent Liabilities
+Financial Liabilities
+(i) Lease liabilities
+
+13,271
+
+12,598
+
+13,558
+2,158
+17,730
+
+11,949
+4,573
+18,321
+
+14
+352
+
+30
+201
+
+6,983
+2,918
+67,486
+
+4,043
+2,626
+62,713
+
+1,29,686
+
+1,19,194
+
+152
+1,13,539
+1,13,691
+
+152
+1,02,875
+1,03,027
+
+435
+
+346
+
+1,363
+
+279
+
+Deferred tax liabilities (Net)
+
+138
+140
+
+55
+649
+
+Total Non current llabillties
+
+2,076
+
+1,329
+
+214
+
+176
+
+(ii) Other financial liabilities
+Provisions
+
+Current Liabilities
+Financial Liabilities
+(i) Lease liabilities
+(ii) Trade payables
+
+a) total outstanding dues of micro enterprises and small enterprises
+b) total outstanding dues of creditors other than micro enterprises and small enterprises
+(iii) Other financial liabilities
+Provisions
+Current Tax Liabilities
+
+697
+
+485
+
+7,798
+4,147
+314
+
+10,528
+2,312
+258
+
+Other current liabilities
+
+49
+700
+
+Tota l current liabilities
+
+13,919
+
+Total Liabilities
+
+15,995
+
+16,167
+
+1,29,686
+
+1,19,194
+
+G
+-
+
+Total Equity and Liabi lities
+
+-=,\fies
+
+Ii
+
+<:-
+
+,,-?; .
+~
+
+,t i- ~J
+
+*
+
+--
+
+236
+843
+14,838
+
+
+Pl ndustries L d.
+'
+
+STANDALONE STATEMENT OF AUDITED CASH FLOWS FOR THE YEAR ENDED 31ST MARCH 2026
+
+(Inf Million)
+PARTICULARS
+
+For the year ended
+March 31, 2026
+
+For the year ended
+March 31, 2025
+
+A. CASH FLOW FROM OPERATING ACTIVITIES
+Profit before tax
+
+17,989
+
+23,957
+
+3,046
+(120)
+
+2,626
+
+74
+246
+
+68
+141
+33
+(2, 130)
+(3)
+
+Adjustments for :-
+
+Depreciation and amortisation expense
+Dividend income
+Finance cost
+Net Impairment losses on financial assets
+Provision for advances
+Interest Income on financial assets at amortised cost
+Unwinding of discount on security deposits
+Expense on employee stock option scheme
+Loss on sale/retirement of property, plant & equipment (Net)
+Provision for impairment of investment in the wholly-owned subsidiary
+Net gain on financial assets measured at fair value through profit or loss
+
+0
+(1 ,985)
+(3)
+
+7
+26
+1,100
+{512)
+
+34
+32
+
+129
+
+(549)
+(129)
+(146)
+
+Operating Profit before Working Capital changes
+
+19,997
+
+23,934
+
+(Increase) / Decrease in trade receivables
+
+(1,781)
+
+(4,795)
+
+(Increase) / Decrease in loans
+
+14
+{2,940)
+
+20
+(3 , 154)
+
+(36~)
+24
+
+( 18)
+
+Provision no longer required written back
+Unrealised Loss/(Gain) on foreign currency transactions (Net)
+
+(Increase) / Decrease in contract assets
+(Increase) / Decrease in other current financial assets
+(Increase) / Decrease in other non-current financial assets
+(Increase) / Decrease in other current assets
+(Increase) / Decrease in other non-current assets
+
+(292)
+(3)
+
+(Increase) / Decrease in other bank balances
+(Increase)/ Decrease in inventories
+
+(2,130)
+
+Increase / (Decrease) in current provisions and trade payables
+
+(2 ,586)
+139
+509
+
+Increase/ (Decrease) in non-current provisions
+Increase / (Decrease) in other current financial liabilities
+Increase/ (Decrease) in other non-current financial liabilities
+Increase/ (Decrease) in other current liabilities
+
+10
+(142)
+
+86
+(183)
+(0)
+
+8
+3,296
+(622)
+(87)
+161
+24
+
+I
+
+Cash generated from operations
+
+10,451
+
+Income taxes paid (Net of refunds)
+
+(3 ,509)
+
+(3 ,887)
+
+Net cash inflow from operating activities (A)
+
+6,942
+
+14,784
+
+(9,634)
+
+(7,179)
+
+18,671
+
+B. CASH FLOW FROM INVESTING ACTIVITIES
+
+Payments for property, plant & equipment including capital
+work-in-progress, intangible assets and capital advances
+Proceeds frail) sale of property, plant & equipment
+
+10
+
+109
+
+Payment for purchase of Investment into Subsidiary
+
+(2,613)
+(15,699)
+
+(6,264)
+(4,806)
+
+Payment for Purchase of Investments
+Payment for Purchase of non-current Investments
+
+{1,800)
+
+Proceeds from Sale of Investments
+
+17,852
+
+5,026
+
+Investment in deposits with bank
+
+(2,546)
+
+Interest Received
+
+(17,016)
+18,197
+120
+1,985
+
+Net cash used in investing activities (B)
+
+(6,798)
+
+(15,358)
+
+Maturity of deposits with bank
+Dividend Income
+
+2,102
+
+
+p I
+I
+
+tries Ltd.
+STANDALONE STATEMENT OF AUDITED CASH FLOWS FOR THE YEAR ENDED 31ST MARCH 2026
+
+PARTICULARS
+C. CASH FLOW FROM FINANCING ACTIVITIES
+Payments of lease liabilities (principal)
+Interest paid
+Dividends paid
+Net cash (outflow) from financing activities (C)
+Net increase/(decrease) in cash & cash equivalents (A+B+C)
+Opening balance of cash & cash equivalents
+Closing balance of cash & cash equivalents
+
+(Inf Million)
+For the year ended
+March 31, 2025
+
+For the year ended
+March 31 , 2026
+(207)
+(74)
+(2,278)
+
+(1 69)
+(67)
+(2,275)
+
+(2,559)
+
+(2,511)
+
+(2,415)
+4,573
+2,158
+
+(3,085)
+7,658
+4,573
+
+0
+
+0
+
+297
+1,86 1
+
+675
+2,548
+1,350
+4,573
+
+Note: Cash and cash equivalents included in the Cash Flow Statement
+comprise of the following :i) Cash on hand
+ii) Balance with banks :
+-In Current accounts
+-In EEFC accounts
+-Deposits with original maturity of less than 3 months
+Total
+
+2,158
+
+The above standalone statement of cash flows has been prepared under the Indirect method as set out in IND AS - 7.
+1.Figures in brackets indicate cash outflows.
+2.The sign 'O' in these standalone financial results indicates that the amounts involved are below t' five lacs and the sign'-' indicates that the
+amounts are nil.
+
+~
+
+
+p n ustries Lt •
+Notes
+The above financial results were reviewed and recommended by the Audit Committee of the Company and approved by the Board of
+Directors at their meeting held on May 19, 2026.
+2 The financial results for all the periods presented have been prepared In accordance with the recognition and measurement principles
+of Ind AS notified under the Companies (Indian Accounting Standards) Rules, 2015 as amended from time to time.
+
+3 The figures for the March quarter are the balancing figures between audited figures in respect of full financial year and the published
+unaudited year to date figures up to the third quarter of respective financial year.
+4 The Company is in the business of manufacturing and distribution of Agro Chemicals and accordingly has one reportable business
+segment viz. 'Agro Chemicals'.
+5 The Company raised t 20,000 Mn during the quarter ended September 30, 2020 through Qualified Institutional Placement (QIP) of equity
+shares. Out of the funds received oft 19,750 Mn (net of expense oft 250 Mn), the Company invested f 18,419 Mn in Its subsidiaries
+and f 1,331 Mn towards capital expenditure, thereby the entire QIP funds have been utilized during the year.
+6 a) The carrying value of the Company's equity Investment In PIHS has been reassessed as at March 31, 2026. There is no change in the
+underlying business strategy, however In view of the business losses and based on a valuation carried out by an Independent valuer,
+the Company has recognised a provision of Rs 1,100 million. This has been disclosed as an "Exceptional Item" in the financial results.
+The management remains confident about the long-term business prospects of PIHS.
+b) Pursuant to the notification issued by the Ministry of Labour and Employment, multiple existing labour legislations have been
+consolidated into a unified framework comprising four Labour Codes, collectively referred to as the 'New Labour Codes' which became
+effective from November 21, 2025. The Company has reassessed its employee benefit obligations In accordance with the revised
+definition of "Wages". Considering that this impact Is driven by a regulatory change and is non-recurring in nature, accordingly, an
+Incremental liability oft 206 Mn has been recognised as an "Exceptional Item" during the quarter ended December 31, 2025 and f 17
+Mn during the quarter ended March 31, 2026. The Ministry is In the process of notifying related rules to the New Labour Codes and
+impact of those will be evaluated and accounted for in the period in which they are notified.
+7 The Board of Directors at their meeting held on May 19, 2026 have recommended final dividend of t 10.00 per equity share, subject to
+the approval of the shareholders In the ensuring Annual General Meeting. With this, total dividend for the year (Including interim
+dividend oft 5.00 per equity share paid during the year) is t 15.00 per share.
+
+Place: Mumbai
+Date: May 19, 2026
+
+For Pl Industries Limited
+
+Regd. Office: Udalsagar Road, Udaipur- 313001 {Raj)
+Phone: 0294 2492451-55
+Fax: 0294 2491946
+CIN: L24211RJ1946PLC000469
+
+Mayank Singha!
+Vice Chairperson & Managing Director
+DIN: 00006651
+
+
+Price Waterhouse Chartered Accountants LLP
+Independent Auditor's Report
+To the Members of PI Industries Limited
+Report on the Audit of the Standalone Financial Statements
+Opinion
+1.
+
+We have audited the accompanying standalone financial statements of PI Industries Limited ("the Company"),
+which comprise the Standalone Balance Sheet as at March 31, 2026, and the Standalone Statement of Profit
+and Loss (including Other Comprehensive Income), the Standalone Statement of Changes in Equity and the
+Standalone Statement of Cash Flows for the year then ended, and notes to the standalone financial statements,
+including material accounting policy information and other explanatory information.
+
+2.
+
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid
+standalone financial statements give the information required by the Companies Act, 2013 ("the Act") in the
+manner so required and give a true and fair view in conformity with the accounting principles generally
+accepted in India, of the state of affairs of the Company as at March 31, 2026,· and total comprehensive income
+(comprising of profit and other comprehensive income), changes in equity and its cash flows for the year then
+ended.
+
+Basis for Opinion
+3. We conducted our audit in accordance with the Standards on Auditing (SAs) specified under Section 143(10)
+of the Act. Our responsibilities under those Standards are fmther described in the "Auditor's· Responsibilities
+for the Audit of the Standalone Financial Statements" section of our report. We are independent of the
+Company in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India
+together with the ethical requirements that are relevant to our. audit of the financial statements under the
+provisions of the Act and the Rules thereunder, and we have fulfilled our other ethical responsibilities in
+accordance with these requirements and the Code of Ethics. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion.
+Key audit matters
+4. Key audit matters are those matters that, in our professional judgement, were of most significance in our
+audit of the standalone financial statements of the current period. These matters were addressed in the
+context of our audit of the standalone financial statements as a whole and in forming our opinion thereon,
+and we do not provide a separate opinion on these matters.
+Key audit matter
+
+How our audit addressed the key audit matter
+
+Assessment of carrying values of investment in
+certain wholly owned subsidiaries
+
+Our audit procedm·es included the following:
+
+(Refer to notes 2(-f)(iii), 3A(d)(v), 7(a) and 26A 1
+•
+I
+in the standalone financial statements)
+
+Understood from management, assessed the design
+and tested the operating effectiveness of the
+Company's key controls around assessment of
+recoverable amount of investments in subsidiaries. I
+
+The Company holds investment in equity shares of
+wholly owned subsidiaries, PI Health Sciences Limited •
+("PIHSL")
+and
+PI
+Industries
+Management
+Consultancies LLC ("PIIMC"), whose carrying values
+
+Evaluated the methodology applied by management
+for testing impairment assessment related to
+
+Price Waterhouse Chartered Accountants LLP, Building No. 8, 8th Floor, Tower - B, DLF Cyber City, Gurugram - 122 002
+T: +91 (124) 6169910
+Registered office and Head office: 11 -A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-500 1)
+with effect from July 25, 2014. Post its conversion to Pri ce Waterhouse Chartered Accountants LLP, its !CAI registration number is 012754N/N500016 (ICAI registration
+number before conversion was 012754N)
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of PI Industries Limited
+Report on the Audit of the Standalone Financial Statements
+Page 2 of 6
+as at March 31, 2026 is Rs. 4,410 Million and Rs. 5,579
+Million.
+
+investments in accordance with the requirements of
+Ind AS 36.
+
+The equity investments in wholly owned subsidiaries •
+are carried at cost less accumulated impairment losses,
+if any, and the Management reviews the canying
+amount of such investments at each repo1ting date as
+per Ind AS 36 'Impairment of Assets'.
+
+Evaluated
+the
+competence,
+capability,
+independence and objectivity of the management's
+expert, obtained an understanding of, and evaluated
+the work of the management's expert.
+
+•
+
+Together with the auditor's valuation experts:-
+
+The Company has performed an assessment of
+appropriateness of the carrying amount of investments
+as on the balance sheet date by estimating the
+recoverable value of the investments, using the
+discounted cash flow model with the involvement of an
+independent valuation expert (the "management's
+expert"). Based on the assessment performed,
+management has recognised provision for impairment
+loss amounting to Rs. 1,100 Million in respect of PIHSL
+and concluded that no provision for impairment was I
+necessary for PIIMC as at March 31, 2026.
+We considered this as a key audit matter because of
+management judgement involved in the significant
+assumptions used in the model such as discount rate,
+rate of growth over the estimation period and terminal
+growth rate, which are affected by future market and
+economic conditions and, hence, are inherently
+uncertain.
+
+J
+
+.►
+
+Perused the repo1t issued by the
+management's expert and understood and
+evaluated the cash flow projections by testing
+key inputs and assumptions made in the valuein-use calculations.
+
+►
+
+Assessed the appropriateness of the key
+assumptions considered in forecasting the
+cash flows for assessment of the recoverable
+amount of investments
+
+►
+
+Performed sensitivity analysis on the key
+assumptions such as discount rate, revenue
+growth rates and terminal growth rate within a
+reasonably possible range to assess the impact
+of any change in these assumptions on the
+recoverable amount of the investments.
+
+Assessed the adequacy of the disclosures made in
+the standalone financial statements in accordance
+with the requirements of the applicable accounting
+standards.
+
+Other Information
+
+5. The Company's Board of Directors is responsible for the other information. The other information comprises
+the information included in the integrated annual report, but does not include the financial statements and
+our auditor's report thereon. The integrated annual rep01t is expected to be made available to us after the date
+of this auditor's report. Our opinion on the financial statements does not cover the other information and we
+will not express any form of assurance conclusion thereon. In connection with our audit of the financial
+statements, our responsibility is to read the other information identified above when it becomes available and,
+in doing so, consider whether the other information is materially inconsistent with the financial statements or
+our knowledge obtained in the audit, or otherwise appears to be materially misstated. When we read the
+integrated annual report, if we conclude that there is a material misstatement therein, we are required to
+communicate the matter to those charged with governance and take appropriate action as applicable under
+the relevant laws and regulations.
+
+
+INDEPENDENT AUDITOR'S REPORT
+To the Members of PI Industries Limited
+Rep01t on the Audit of the Standalone Financial Statements
+Page 3 of 6
+
+Responsibilities of Management and Those Chai·ged With Governance for the Standalone
+Financial Statements
+6. The Company's Board of Directors is responsible for the matters stated in Section 134(5) of the Act with respect
+to the preparation of these standalone financial statements that give a true and fair view of the financial
+position, financial performance, changes in equity and cash flows of the Company in accordance with the
+accounting principles generally accepted in India, including the Indian Accounting Standards specified under
+Section 133 of the Act. This responsibility also includes maintenance of adequate accounting records in
+accordance with the provisions of the Act for safeguarding of the assets of the Company and for preventing
+and detecting frauds and other irregularities; selection and application of appropriate accounting policies;
+making judgements and estimates that are reasonable and prudent; and design, implementation and
+maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy
+and completeness of the accounting records, relevant to the preparation and presentation of the standalone
+financial statements that give a true and fair view and are free from material misstatement, whether due to
+fraud or error.
+7. In preparing the standalone financial statements, Board of Directors is responsible for assessing the
+Company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern
+and using the going concern basis of accounting unless Board of Directors either intends to liquidate the
+Company or to cease operations, or has no realistic alternative but to do so.
+8. Those Board of Directors are also responsible for overseeing the Company's financial reporting process.
+
+Auditor's Responsibilities for the Audit of the Standalone Financial Statements
+9. Our objectives are to obtain reasonable assurance about whether the standalone financial statements as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit
+conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements
+can arise from fraud or error and are considered material if, individually or in the aggregate, they could
+reasonably be expected to influence the economic decisions of users taken on the basis of these standalone
+financial statements.
+10. As pait of an audit in accordance with SAs, we exercise professional judgement and maintain professional
+
+scepticism throughout the audit. We also:
+• Identify and assess the risks of material misstatement of the standalone financial statements, whether due
+to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence
+that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+are appropriate in the circumstances. Under Section 143(3)(i) of the Act, we are also responsible for
+expressing our opinion on whether the Company has adequate internal financial controls with reference
+to standalone financial statements in place and the operating effectiveness of such controls.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates
+and related disclosures made by management.
+• Conclude on the appropriateness of management's use of the going concern basis of accounting and, based
+on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that
+may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a
+material uncertainty exists, we are required to draw attention in our auditor's report to the related
+disclosures in the standalone financial statements or, if such disclosures are inadequate, to modify our
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of PI Industries Limited
+Report on the Audit of the Standalone Financial Statements
+Page4 of6
+
+•
+
+opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report.
+However, future events or conditions may cause the Company to cease to continue as a going concern.
+Evaluate the overall presentation, structure and content of the standalone financial statements, including
+the disclosures, and whether the standalone financial statements represent the underlying transactions
+and events in a manner that achieves fair presentation.
+
+11. We communicate with those charged with governance regarding, among other matters, the planned scope and
+timing of the audit and significant audit findings, including any significant deficiencies in internal control that
+we identify during our audit.
+12. We also provide those charged with governance with a statement that we have complied with relevant ethical
+requirements regarding independence, and to communicate with them all relationships and other matters that
+may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+13. From the matters communicated with those charged with governance, we determine those matters that were
+of most significance in the audit of the standalone financial statements of the current period and are therefore
+the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes
+public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter
+should not be communicated in our report because the adverse consequences of doing so would reasonably be
+expected to outweigh the public interest benefits of such communication.
+Report on Other Legal and Regulatory Requh-ements
+
+14. As required by the Companies (Auditor's Report) Order, 2020 ("the Order"), issued by the Central
+Government of India in terms of sub-section (11) of Section 143 of the Act, we give in the Annexure B, a
+statement on the matters specified in paragraphs 3 and 4 of the Order, to the extent applicable.
+15. As required by Section 143(3) of the Act, we report that:
+(a) We have sought and obtained all the information and explanations which to the best of our lmowledge
+and belief were necessary for the purposes of our audit.
+(b) In our opinion, proper books of account as required by law have been kept by the Company so far as it
+appears from our examination of those books, except for the matters stated in paragraph 15(h)(vi) below
+on reporting under Rule n(g) of the Companies (Audit and Auditors) Rules, 2014 (as amended).
+(c) The Standalone Balance Sheet, the Standalone Statement of Profit and Loss (including other
+comprehensive income), the Standalone Statement of Changes in Equity and the Standalone Statement
+of Cash Flows dealt with by this Report are in agreement with the books of account.
+(d) In our opinion, the aforesaid standalone financial statements comply with the Indian Accounting
+Standards specified under Section 133 of the Act.
+(e) On the basis of the written representations received from the directors as on March 31, 2026, taken on
+record by the Board of Directors, none of the directors is disqualified as on March 31, 2026, from being
+appointed as a director in terms of Section 164(2) of the Act.
+(f) With respect to the maintenance of accounts and other matters connected therewith, reference is made
+
+to our remarks in paragraph 15(b) above and paragraph 15(h)(vi) below.
+(g) With respect to the adequacy of the internal financial controls with reference to financial statements of
+the Company and the operating effectiveness of such controls, refer to our separate Report in "Annexure
+A".
+(h) With respect to the other matters to be included in the Auditor's Report in accordance with Rule 11 of the
+Companies (Audit and Auditors) Rules, 2014 (as amended), in our opinion and to the best of our
+information and according to the explanations given to us:
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of PI Industries Limited
+Report on the Audit of the Standalone Financial Statements
+Page 5 of6
+i. The Company has disclosed the impact of pending litigations on its financial position in its
+standalone financial statements - Refer Note 33 to the standalone financial statements.
+ii. The Company has made provision, as required under the applicable law or Indian Accounting
+Standards, for material foreseeable losses, if any, on long-term contracts including derivative
+contracts - Refer Note 14(b) to the standalone financial statements;
+iii. There has been no delay in transferring amounts, required to be transferred, to the Investor
+Education and Protection Fund by the Company during the year.
+iv. (a) The management has represented that, to the best of its knowledge and belief, other than as
+disclosed in Note 41(iii) to the standalone financial statements, no funds have been advanced or
+loaned or invested (either from borrowed funds or share premium or any other sources or kind of
+funds) by the Company to or in any other person(s) or entity(ies), including foreign entities
+("Intermediaries"), with the understanding, whether recorded in writing or otherwise, that the
+Intermediary shall, whether directly or indirectly, lend or invest in other persons or entities
+identified in any manner whatsoever by or on behalf of the Company ("Ultimate Beneficiaries")
+or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries;
+(b) The management has represented that, to the best of its knowledge and belief, as disclosed in the
+Note 41(iii) to the standalone financial statements, no funds have been received by the Company
+from any person(s) or entity(ies), including foreign entities ("Funding Parties"), with the
+understanding, whether recorded in writing or otherwise, that the Company shall, whether
+directly or indirectly, lend or invest in other persons or entities identified in any manner
+whatsoever by or on behalf of the Funding Party ("Ultimate Beneficiaries") or provide any
+guarantee, security or the like on behalf of the Ultimate Beneficiaries; and
+(c) Based on such audit procedures that we considered reasonable and appropriate in the
+circumstances, nothing has come to our notice that has caused us to believe that the
+representations under sub-clause (a) and (b) contain any material misstatement.
+v. The final dividend paid by the Company during the year in respect of the prior year ended March 31,
+2025 is in accordance with Section 123 of the Act to the extent it applies to payment of final dividend
+until the date of this audit report. The interim dividend declared and paid by the Company during
+the year is in accordance with Section 123 of the Act to the extent it applies to declaration and
+payment of interim dividend until the date of this audit report. As stated in Note 13 to the standalone
+financial statements, the Board of Directors of the Company has proposed final dividend for the year,
+which is subject to the approval of the members at the ensuing Annual General Meeting, and is in
+accordance with Section 123 of the Act to the extent applicable.
+vi. Based on our examination, which included test checks, the Company has used accounting software
+for maintaining its books of account which has a feature of recording audit trail (edit log) facility and
+that has operated throughout the year for all relevant transactions recorded in the software, except
+that (a) the audit log at the application level, will not get generated in case of modification, if any
+pe1formed by the users with certain specific access for direct data changes. However, this specific
+access for direct data changes was not used for making any changes during the year; and (b) the audit
+trail at database level contains only the modified values to record any direct changes at the database
+level. During the course of performing our procedures, in respect of the audit trail feature enabled,
+we did not notice any instance of the audit trail feature being tampered with. Also, refer note 46 to
+the standalone financial statements.
+Fmther, the audit trail to the extent maintained in the prior years, has been preserved by the
+Company as per the statutory requirements for record retention.
+
+
+INDEPENDENT AUDITOR'S REPORT
+To the Members of PI Industries Limited
+Report on the Audit of the Standalone Financial Statements
+Page 6 of 6
+
+16. The Company has paid/ provided for managerial remuneration in accordance with the requisite approvals
+mandated by the provisions of Section 197 read with Schedule V to the Act.
+
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+
+k~f'
+gata Mukhe1:jee
+ner
+bership Number: 057084
+UDIN: 26057084GBHATL7583
+Date: May 19, 2026
+Place: Mumbai
+
+
+Annexure A to Independent Auditor's Report
+Referred to in paragraph 15(g) of the Independent Auditor's Repo1t of even date to the members of PI Industries
+Limited on the standalone financial statements as of and for the year ended March 31, 2026
+Page 1 of 2
+
+Report on the Internal Financial Controls with reference to Financial Statements under
+clause (i) of sub-section 3 of Section 143 of the Act
+1.
+
+We have audited the internal financial controls with reference to financial statements of PI Industries
+Limited ("the Company") as of March 31, 2026 in conjunction with our audit of the standalone financial
+statements of the Company for the year ended on that date.
+
+Management's Responsibility for Internal Financial Controls
+2.
+
+The Company's management is responsible for establishing and maintaining internal financial controls
+based on the internal control over financial reporting criteria established by the Company considering
+the essential components of internal control stated in the Guidance Note on Audit of Internal Financial
+Controls Over Financial Reporting ("the Guidance Note") issued by the Institute of Chattered
+Accountants of India ("ICAI"). These responsibilities include the design, implementation and
+maintenance of adequate internal financial controls that were operating effectively for ensuring the
+orderly and efficient conduct of its business, including adherence to company's policies, the
+safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and
+completeness of the accounting records, and the timely preparation of reliable financial information,
+as required under the Act.
+
+Auditor's Responsibility
+
+3. Our responsibility is to express an opinion on the Company's internal financial controls with reference
+to financial statements based on our audit. We conducted our audit in accordance with the Guidance
+Note and the Standards on Auditing specified under Section 143(10) of the Act to the extent applicable
+to an audit of internal financial controls, both applicable to an audit of internal financial controls and
+both issued by the ICAI. Those Standards and the Guidance Note require that we comply with ethical
+requirements and plan and perform the audit to obtain reasonable assurance about whether adequate
+internal financial controls with reference to financial statements was established and maintained and
+if such controls operated effectively in all material respects.
+4. Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal
+financial controls system with reference to financial statements and their operating effectiveness. Our
+audit of internal financial controls with reference to financial statements included obtaining an
+understanding of internal financial controls with reference to financial statements, assessing the risk
+that a material weakness exists, and testing and evaluating the design and operating effectiveness of
+internal control based on the assessed risk. The procedures selected depend on the auditor's judgement,
+including the assessment of the risks of material misstatement of the financial statements, whether due
+to fraud or error.
+5. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinion on the Company's internal financial controls system with reference to financial
+statements.
+Meaning of Internal Financial Controls with reference to financial statements
+
+6. A company's internal financial controls with reference to financial statements is a process designed to
+provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles.
+A company's internal financial controls with reference to financial statements includes those policies
+and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and
+fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable
+assurance that transactions are recorded as necessa1y to permit preparation of financial statements in
+accordance with generally accepted accounting principles, and that receipts and expenditures of the
+
+

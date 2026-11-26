@@ -1,0 +1,25 @@
+--- CIM_12953_WebXMLFile_20260921_232407546_1.xml (the exchange's structured disclosure) ---
+NSESymbol: SYNGENE ; Name Of The Company: SYNGENE INTERNATIONAL LIMITED ; Scrip Code: 539268 ; MSEISymbol: NOTLISTED ; ISIN: INE398R01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-21 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-21 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Head Corporate Affairs and Communications and a member of Executive Committee SMP ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Pramuch Goel ; Effective Date Of Reason Of Change: 2026-09-21 ; Salutation: Mr. ; Name Of The Person: Pramuch Goel ; Designation Of Person: Head Corporate Affairs and Communications and a member of Executive Committee SMP ; Date On Which The Resignation Letter Was Received: 2026-09-15 ; Effective Date Of Resignation: 2026-09-21 ; Reason Of Resignation In Brief: To pursue other career opportunities outside of Syngene
+
+--- Resignation_2.pdf ---
+Annexure B
+
+September 15, 2026
+Mr. Siddharth Mittal
+MD&CEO
+Syngene International Limited
+Sub: Resignation
+Dear Siddharth,
+I wanted to inform you that I have decided to resign from my current position as 'Head of
+Corporate Affairs and Communications', as I would like to pursue other career
+opportunities outside of Syngene. As discussed, my last working day will be Monday,
+September 21, 2026.
+I would like to thank you for all your support. I also want to thank Kiran Mazumdar-Shaw,
+our Executive Chairperson, and the Board for giving me the opportunity to learn and
+contribute at Syngene.
+I wish Syngene and the entire team continued success and growth.
+Regards,
+
+Pramuch Goel
+
+

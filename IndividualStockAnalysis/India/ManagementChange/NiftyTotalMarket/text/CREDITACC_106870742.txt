@@ -1,0 +1,104 @@
+--- CIM_16550_WebXMLFile_20261125_181327180_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CREDITACC ; Name Of The Company: CreditAccess Grameen Limited ; Scrip Code: 541770 ; MSEISymbol: NOTLISTED ; ISIN: INE741K01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-25 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-25 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non-Executive - Nominee Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Udaya Kumar Hebbar ; Effective Date Of Reason Of Change: 2026-11-25 ; Salutation: Mr. ; Name Of The Person: Udaya Kumar Hebbar ; Designation Of Person: Non-Executive - Nominee Director ; Date On Which The Resignation Letter Was Received: 2026-11-23 ; Effective Date Of Resignation: 2026-11-25 ; Reason Of Resignation In Brief: To pursue a full-time professional opportunity outside the Company
+
+--- CIMG_541770_25112026181308_2.pdf ---
+Ref: CAGL/EQ/2026-27/132
+November 25, 2026
+To
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai - 400001
+Scrip code: 541770
+
+National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex, Bandra (East)
+Mumbai - 400051
+Scrip code: CREDITACC
+
+Dear Sir/Madam,
+Sub.: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015
+Pursuant to Regulation 30 read with sub-para 7 of Para A of Schedule III of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations") and
+other applicable provisions, we hereby inform you that Mr. Udaya Kumar Hebbar
+(DIN: 07235226), has tendered resignation from his position as Non-Executive Director of the
+Company vide letter dated November 23, 2026, to take effect from the close of business hours
+on Wednesday, November 25, 2026, in pursuit of a full-time professional opportunity outside
+the Company.
+Further, the details required as per SEBI Master Circular No. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, with respect to the above subject is attached as
+Annexure A.
+In addition to the above, we are also enclosing herewith a copy of the resignation letter
+submitted by Mr. Udaya Kumar Hebbar, in line with sub-para 7C of Para A of Schedule III of SEBI
+Listing Regulations.
+Request you to take the above submission on record.
+Thanking you,
+Yours’ Truly
+For CreditAccess Grameen Limited
+signed
+DEEPTI Digitally
+by DEEPTI R
+Date: 2026.11.25
+R
+17:53:57 +05'30'
+
+Deepti Ramani
+Company Secretary & Compliance Officer
+
+
+Annexure-A
+Disclosure in terms of SEBI Master Circular No. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026
+Particulars
+Reason for change viz. appointment,
+reappointment, resignation, removal,
+death or otherwise;
+Date
+of
+appointment/reappointment/cessation
+(as
+applicable)
+&
+term
+of
+appointment/reappointment;
+Brief profile (in case of appointment);
+Disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Details
+In pursuit of a full-time professional opportunity
+outside the Company
+Effective close of business
+hours on Wednesday, November 25, 2026
+Not Applicable
+Not Applicable
+
+
+November 23, 2026
+To
+The Board of Directors
+CreditAccess Grameen Limited
+Bangalore
+
+Dear Sirs & Madam,
+Sub: Resignation
+
+I, do hereby, t ender my resignation for the post of Non-Executive Director (Nominee) of
+CreditAccess Grameen Limit ed ('the Company') with effect from the close of business
+hours on Wednesday, November 25, 2026, as I wish to pursue a full-time professional
+opportunity outside the Company.
+I take this opportunity to thank the Board of Directors, the Management Team, Entire
+CreditAccess Group and all the stakeholders of the Company for the incredible trust
+placed in me over a decade.
+I confirm that there are no material reasons for my resignation other than those stated
+above.
+Thanking you,
+Yours Sincerely,
+
+Udaya Kumar Hebbar
+
+DIN:07235226
+
+

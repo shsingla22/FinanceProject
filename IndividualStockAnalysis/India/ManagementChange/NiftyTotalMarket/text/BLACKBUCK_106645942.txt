@@ -1,0 +1,110 @@
+--- CIMG_544288_285202619368_CIM_WebXMLFile_20260528_193614678_1.xml (the exchange's structured disclosure) ---
+NSESymbol: BLACKBUCK ; Name Of The Company: BLACKBUCK LIMITED ; Scrip Code: 544288 ; MSEISymbol: NOTLISTED ; ISIN: INE0UIZ01018 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-05-28 ; Time Of Occurrence Of Event Or Information: 18:16:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-28 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary and Compliance Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: BARUN PANDEY ; Effective Date Of Reason Of Change: 2026-07-31 ; Salutation: Mr. ; Name Of The Person: BARUN PANDEY ; Designation Of Person: Company Secretary and Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-05-28 ; Effective Date Of Resignation: 2026-07-31 ; Reason Of Resignation In Brief: To pusue alternate career opportunity outside the Organisation.
+
+--- CIMG_544288_28052026193608_2.pdf ---
+Ref: BLACKBUCK/CORP/2026-27/33
+May 28, 2026
+To
+National Stock Exchange of India Ltd.,
+Exchange Plaza, C-1, Block G
+Bandra Kurla Complex,
+Bandra (E), Mumbai – 400 051
+
+To
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai – 400001
+
+Scrip Code: 544288, Scrip Symbol: BLACKBUCK, Series – EQ
+ISIN- INE0UIZ01018
+Dear Sir/ Madam,
+Sub: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 ("SEBI Listing Regulations")- Resignation of the Company
+Secretary, Compliance Officer and Head legal of the Company.
+In accordance with regulation 30 and Schedule III of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 ("Listing Regulations"), we hereby inform you that Mr. Barun
+Pandey, Company Secretary, Compliance Officer and Head Legal of the Company has tendered his
+resignation, to pursue an alternate career opportunity outside the Organization.
+The Company acknowledges the resignation of Mr. Barun Pandey, Company Secretary, Compliance
+Officer and Head Legal and confirms he will be relieved from his duties with effect from the close of
+business hours on July 31, 2026. The corresponding details as required under Regulation 30 read with
+schedule III of SEBI(LODR) Reg. 2015 are enclosed herewith as per Annexure- A.
+A copy of the said resignation letter is enclosed herewith as Annexure-B.
+We request you to take this on record and treat the same as compliance with the applicable provisions
+of the SEBI (LODR) Reg. 2015.
+Thanking you,
+Yours Sincerely,
+For BlackBuck Limited
+(Formerly known as Zinka Logistics Solutions Limited)
+
+SATYAKA
+______________
+M G NAIK
+
+Digitally signed by SATYAKAM G NAIK
+DN: c=IN, o=Personal, title=0476,
+2.5.4.20=51db4d1598b4bede4a706c5e4a
+f627bbdaaa8684653788e88ab7510ef2cee
+a34, postalCode=560076, st=Karnataka,
+serialNumber=eec59ec0309b4ae2ee6cf14
+d265c4a498c19b9bdcce74078c04a21a87
+9b9e06c, cn=SATYAKAM G NAIK
+Date: 2026.05.28 19:14:53 +05'30'
+
+Satyakam GN
+Chief Financial Officer
+
+
+Annexure-A
+Disclosure as per SEBI Circular No. SEBI/HO/CFD-PoD1/P/CIR/2023/123 dated July 13, 2023,
+in terms of Para B of Part A of Schedule III of the LODR Regulations w.r.t Change in Key
+Managerial Personnel.
+Sno
+A.
+B.
+
+Particular
+Name of SMP/KMP/ Auditors
+Reason for change viz. appointment, reappointment, resignation, removal, death or
+otherwise.
+
+Details
+Mr. Barun Pandey
+Resignation from the position of
+Company Secretary, Compliance
+Officer and Head Legal to pursue
+opportunities
+outside
+the
+organization.
+He will be relieved from his duties
+with effect from the close of
+business hours on July 31, 2026.
+N/A
+
+C.
+
+date of appointment/re-appointment/cessation (as
+applicable) & term of appointment/re-appointment;
+
+D.
+
+brief profile (in case of appointment).
+
+E.
+
+disclosure of relationships between directors (in
+case of appointment of a director).
+
+N/A
+
+F.
+
+Letter of Resignation along with detailed reasons
+for resignation
+
+Enclosed
+
+
+

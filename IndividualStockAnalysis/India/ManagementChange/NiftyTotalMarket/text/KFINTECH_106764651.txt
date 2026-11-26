@@ -1,0 +1,121 @@
+--- ROID_20641_WebXMLFile_20260901_174947883_1.xml (the exchange's structured disclosure) ---
+NSESymbol: KFINTECH ; Name Of The Company: KFIN TECHNOLOGIES LIMITED ; Scrip Code: 543720 ; MSEISymbol: NOTLISTED ; ISIN: INE138Y01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-08-31 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Reasons For Non Disclosures For Resignation Of Person Was Filed In The General Utility: Intimation in PDF form, for resignation of Mr. Saijo Menachery have been duly filed with the Exchanges on August 31, 2026. However, unable to upload the XML file of the same through general utility. ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-01 ; Salutation: Mr. ; Name Of The Person: Saijo Menachery ; Designation Of Person: Senior Management Personnel ; Date On Which The Resignation Letter Was Received: 2026-06-03 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: In pursuit of better opportunity
+
+--- Intimation_2.pdf ---
+Tel. No: +91 22 4962 0337
+Email ID: compliance.corp@lkfintech.com
+Website: https://www.kfintech.com
+
+August 31, 2026
+
+CS&G/STX/SQ2026/28
+
+1) National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex, Bandra (E),
+Mumbai – 400 051
+Scrip Symbol: KFINTECH
+
+2) BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+Scrip Code: 543720
+
+Sub. :
+
+Intimation of Resignation of a Senior Management Personnel
+
+Ref.
+
+Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)
+
+:
+
+Dear Sir / Madam,
+Pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, this is to inform
+that Mr. Saijo Menachery, a Senior Management Personnel of the Company, had tendered his
+resignation as a Head – Fund Accounting Solutions of the Company vide his resignation letter dated
+June 03, 2026, citing pursuit of better opportunity, and his last working day / effective date of
+resignation is August 31, 2026.
+Details as required to be disclosed as per the LODR Regulations read with SEBI’s Master Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, are enclosed herewith as
+Annexure – A.
+The resignation letter received from Mr. Saijo Menachery is enclosed herewith as Annexure – B.
+Details as per BSE’s Circular No. 20230714-34 dated July 14, 2023, and NSE’s Circular No. NSE
+/CML/2023/57 dated July 14, 2023, are as under:
+Date of occurrence of event / information
+
+August 31, 2026
+
+Time of occurrence of event / information
+
+Close of business hours on August 31, 2026 i.e.,
+06:00 p.m. IST
+
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For KFin Technologies Limited
+ALPANA
+UTTAM
+KUNDU
+
+Digitally signed
+by ALPANA
+UTTAM KUNDU
+
+Alpana Kundu
+Company Secretary and Compliance Officer
+ICSI Membership No.: F10191
+Encl.: a/a
+
+KFin Technologies Limited Q
+Registered Office:
+301, The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada,
+Kurla (West), Mumbai - 400070, Maharashtra.
+ICIN: L72400MH2017PLC444072 I
+
+
+Tel. No: +91224962 0337
+Email ID: compliance.corp@kfintech.com
+Website: https:/ /www.kfintech.com
+
+Annexure – A
+Details as required to be disclosed as per the LODR Regulations read with SEBI’s Master
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Sr. No.
+
+Particulars
+
+Details
+
+01
+
+Reason for change viz. appointment, re- Resignation of Mr. Saijo Menachery as Head
+appointment, resignation, removal, – Fund Accounting Solutions, Senior
+death or otherwise
+Management Personnel of the Company
+
+02
+
+Date of appointment / re-appointment / August 31, 2026
+cessation and term of appointment / reappointment
+
+03
+
+Brief profile (in case of appointment)
+
+04
+
+Disclosure of relationships between Not applicable
+directors (in case of appointment of a
+Director)
+
+Not applicable
+
+
+Annexure - B
+
+
