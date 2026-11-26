@@ -1,0 +1,545 @@
+Date: May 06, 2026
+To
+Department of Corporate Services
+BSE Limited
+Phiroze Jeejeebhoy Towers, Dalal Street,
+Mumbai – 400 001
+
+To
+Listing Department
+National Stock Exchange of India Limited
+C-1, G-Block, Bandra-Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+Scrip Code: 542652
+Scrip Symbol: POLYCAB
+ISIN: INE455K01017
+Dear Sir(s) / Madam,
+Subject: Submission of Audited (Standalone and Consolidated) Financial Statements for the
+year ended March 31, 2026.
+With reference to the captioned subject, please find enclosed herewith the Audited (Standalone and
+Consolidated) Financial Statements of the Company along with Auditors Report for the year ended March
+31, 2026 as approved by the Board of Directors at its meeting held today i.e. May 06, 2026.
+Kindly take the same on your record.
+Thanking you
+Yours Faithfully
+For Polycab India Limited
+MANITA
+CARMEN ALBERT
+GONSALVES
+
+Digitally signed by MANITA CARMEN ALBERT GONSALVES
+DN: c=IN, postalCode=400104, st=MAHARASHTRA,
+street=FLAT NO 8BUILDING NO 9PIRAMAL NAGAR S V
+ROADMUMBAIBESIDES PATEL PETROL PUMP 400104,
+l=MUMBAI, o=Personal, title=9350,
+serialNumber=e9923616fb581748338360a9dcca7ddbef537
+92338962e492591c02f91606f5f,
+pseudonym=06cc99809d91787cadb069ca8ac6e070,
+2.5.4.20=d6b37cc9b008ba4c44a5e26aead891e74cc85aea2
+4a8e6ad4562fa78a0802a6d,
+email=MANITA.GONSALVES@POLYCAB.COM, cn=MANITA
+CARMEN ALBERT GONSALVES
+Date: 2026.05.06 17:53:18 +05'30'
+
+________________________
+Manita Carmen A. Gonsalves
+Vice President Legal and Company Secretary
+Membership No.: A18321
+Address: #29, The Ruby, 21st Floor
+Senapati Bapat Marg, Tulsi Pipe Road,
+Dadar(W), Mumbai-400028
+
+Registered Office:
+Unit 4, Plot No 105, Halol Vadodara Road,
+Village Nurpura, Taluka Halol,
+Panchamahal, Gujarat 389 350
+Tel: 2676- 227600 / 227700
+
+Corporate Office:
+Polycab India Limited
+CIN: L31300GJ1996PLC114183
+#29, The Ruby, 21st Floor, Senapati Bapat Marg,
+Tulsi Pipe Road, Dadar (West), Mumbai 400 028
+Tel: +91 22 6735 1400
+Email: shares@polycab.com
+Web: www.polycab.com
+
+
+Audited Consolidated
+Financial Statements
+FY26
+
+
+Polycab India Limited
+Audited Consolidated Financial Statements for the year ended 31 March 2026
+Index
+Auditors' Report
+Balance Sheet
+Statement of Profit and Loss
+Statement of Changes in Equity
+Statement of Cash Flows
+Overview and notes to the financial statements
+A
+Overview
+1
+Corporate Information
+2A
+Basis of preparation
+2B
+Use of estimates and judgements
+2C
+Changes in material accounting policy information
+2D
+New and amended standards
+2E
+Recent Indian Accounting Standards (Ind AS) issued not yet effective
+2F
+Material accounting policy information disclosed in subsequent notes
+B
+
+Notes to financial statements
+3 Property, plant and equipment
+3A Non-current assets classified as held for sale
+4 Investment Property Under Construction
+5 Right of use assets
+6 Other intangible assets
+7 Investment
+8 Trade receivables
+9 Cash and cash equivalents
+10 Bank balance other than cash and cash equivalents
+11 Loans
+12 Other financial assets
+13 Income Tax
+14 Other assets
+15 Inventories
+16 Equity share capital
+17 Other equity
+18 Non-controlling interests
+19 Borrowings
+20 Lease liabilities
+21 Acceptances
+22 Trade payables
+23 Other financial liabilities
+24 Other liabilities
+25 Provisions
+26 Revenue from operations
+27 Other income
+28 Cost of materials consumed
+29 Purchases of stock-in-trade
+30 Changes in inventories of finished goods, stock-in-trade and work-in-progress
+31 Project bought outs and subcontracting cost
+32 Employee benefits expense
+33 Finance cost
+34 Depreciation and amortisation expense
+35 Other expenses
+36 Earnings per share
+37 Contingent liabilities and commitments
+38 Income Tax
+39 Related party disclosure
+40 Segment Reporting
+41 Information for Consolidated Financial Statement pursuant to Schedule III of the Companies Act, 2013
+42 Financial Instruments and Fair Value Measurement
+43 Financial Risk Management Objectives And Policies
+44 Hedging activity and derivatives
+45 Financial performance ratios
+46 Struck off company
+47 Capital management
+48 Environmental, Social and Governance (ESG)
+49 Scheme of Amalgamation
+50 Events after the reporting period
+51 Others
+
+Page No.
+1
+12
+13
+14
+15
+
+17
+17
+20
+21
+21
+21
+21
+
+22
+24
+24
+25
+26
+28
+30
+31
+31
+31
+32
+33
+34
+35
+36
+39
+40
+40
+41
+41
+42
+43
+44
+44
+46
+49
+50
+50
+50
+50
+51
+55
+55
+55
+56
+56
+57
+58
+60
+62
+63
+68
+71
+74
+74
+74
+75
+75
+75
+75
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+Polycab India Limited
+Consolidated Balance Sheet as at 31 March 2026
+
+Notes
+
+As at
+31 Mar 26
+(Audited)
+
+ASSETS
+Non-current assets
+Property, plant and equipment
+Capital work-in-progress
+Investment Property under Construction
+Right of use assets
+Goodwill
+Other intangible assets
+Investments accounted for using the equity method
+Financial assets
+(a) Trade receivables
+(b) Other financial assets
+Non-current tax assets (net)
+Deferred tax assets (net)
+Other non-current assets
+Current assets
+Inventories
+Financial assets
+(a) Investments
+(b) Trade receivables
+(c) Cash and cash equivalents
+(d) Bank balance other than cash and cash equivalents
+(e) Loans
+(f) Other financial assets
+Other current assets
+
+(₹ million)
+As at
+31 Mar 25
+(Audited)
+Restated
+
+3
+3
+4
+5
+6A
+6B
+7A
+
+35,050.71
+11,392.59
+883.02
+1,426.27
+40.97
+-
+
+27,913.26
+7,081.44
+790.08
+1,309.71
+98.45
+-
+
+8
+12A
+13D
+13F
+14A
+
+4,477.84
+571.94
+558.74
+116.02
+3,638.74
+58,156.84
+
+2,994.38
+712.41
+503.73
+270.70
+2,893.54
+44,567.70
+
+15
+
+55,595.98
+
+36,613.00
+
+7B
+8
+9
+10
+11
+12B
+14B
+
+34,048.23
+37,585.04
+3,903.43
+4,921.27
+112.31
+2,632.57
+7,780.05
+1,46,578.88
+26.18
+2,04,761.90
+
+17,490.42
+25,962.68
+2,173.87
+5,532.49
+111.00
+1,147.49
+4,159.01
+93,189.96
+1,37,757.66
+
+1,505.51
+1,18,580.25
+1,20,085.76
+1,181.93
+1,21,267.69
+
+1,504.26
+96,776.29
+98,280.55
+817.69
+99,098.24
+
+3A
+
+Non-current assets classified as held for sale
+Total assets
+EQUITY AND LIABILITIES
+Equity
+(a) Equity share capital
+(b) Other equity
+
+16
+17
+
+Non-controlling interests
+
+18
+
+Liabilities
+Non-current liabilities
+Financial liabilities
+(a) Borrowings
+(b) Lease liabilities
+(c) Other financial liabilities
+Provisions
+Deferred tax liabilities (net)
+Other non-current liabilities
+
+19A
+20A
+23A
+25A
+13F
+24A
+
+392.67
+803.72
+51.70
+563.98
+524.06
+1,505.64
+3,841.77
+
+419.40
+709.34
+105.03
+413.15
+1,025.03
+886.01
+3,557.96
+
+19B
+20B
+21
+22
+
+932.23
+226.55
+42,656.19
+
+670.64
+224.99
+13,062.37
+
+1,635.35
+16,352.79
+2,864.77
+12,871.06
+1,341.95
+771.55
+79,652.44
+2,04,761.90
+
+1,503.85
+12,791.34
+2,988.22
+3,075.51
+628.95
+155.59
+35,101.46
+1,37,757.66
+
+Current liabilities
+Financial liabilities
+(a) Borrowings
+(b) Lease liabilities
+(c) Acceptances
+(d) Trade payables
+Total outstanding dues of micro enterprises and small enterprises
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+(e) Other financial liabilities
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+
+23B
+24B
+25B
+13D
+
+Total equity and liabilities
+Corporate information and summary of material accounting policy information
+Contingent liabilities and commitments
+Other notes to accounts
+The accompanying notes are an integral part of the consolidated financial statements.
+
+1&2
+37
+38 to 51
+
+As per our report of even date
+For B S R & Co. LLP
+Chartered Accountants
+ICAI Firm Registration No. 101248W/W-100022
+
+For and on behalf of the Board of Directors of
+Polycab India Limited
+CIN : L31300GJ1996PLC114183
+
+sd/Sreeja Marar
+Partner
+Membership No. 111410
+
+sd/-
+
+sd/-
+
+sd/-
+
+Inder T. Jaisinghani
+Chairman & Managing Director
+DIN : 00309108
+
+Bharat A. Jaisinghani
+
+Nikhil R. Jaisinghani
+
+Joint Managing Director
+DIN : 00742995
+
+Joint Managing Director
+DIN : 00742771
+
+Place: Mumbai
+Date: 06 May 2026
+
+sd/-
+
+sd/-
+
+Niyant Maru
+Chief Financial Officer
+Membership No. 042136
+
+12
+
+Place: Mumbai
+Date: 06 May 2026
+
+Manita Gonsalves
+
+Company Secretary
+Membership No. A18321
+
+

@@ -1,0 +1,744 @@
+REF: SWIGGY/SE/2026-27/11
+Date: May 08, 2026
+To,
+The Deputy Manager
+Department of Corporate Services
+BSE Limited
+PJ Towers, Dalal Street
+Mumbai -400001
+Scrip Code: 544285
+
+The Manager
+National Stock Exchange of India Limited
+Exchange Plaza, Plot No. C/1, G Block
+Bandra-Kurla Complex, Bandra (E),
+Mumbai 400051
+Symbol: SWIGGY
+
+Dear Sir/ Madam,
+Sub: Shareholders’ Letter dated May 08, 2026.
+We are pleased to enclose the Shareholders' Letter for Q4 2025-26 dated May 08, 2026.
+The above information will also be hosted on the website of the Company i.e.,
+https://www.swiggy.com/corporate/
+We request you to kindly take the same on record.
+Yours faithfully,
+For and on behalf of
+Swiggy Limited
+
+signed by
+CAUVERI Digitally
+CAUVERI SRIRAM
+2026.05.08
+SRIRAM Date:
+15:44:26 +05'30'
+___________________
+
+Cauveri Sriram
+Company Secretary & Compliance Officer
+
+SWIGGY LIMITED
+CIN: L74110KA2013PLC096530 | www.swiggy.com | support@swiggy.in | T: 080-68422422
+Registered & Corporate Office: Sumadhura Capitol Towers, 3rd- 6th Floor – Tower 1, Sy. No. 14 & 158, Pattanduru Agrahara, K R Puram Hobli, Bengaluru East
+Taluk, Bengaluru, Karnataka – 560066
+
+
+
+MISSION
+“Elevate the quality of life of urban consumers by offering unparalleled convenience”
+From the CEO’s desk
+Dear Shareholders,
+It is my pleasure to present to you our Q4 and FY26 Shareholders’ letter.
+Turning to the quarter’s updates, our Food GOV grew 22.6% YoY, which is the highest since demand
+normalised in the post-COVID period. While this acceleration is definitely exciting, we are particularly
+pleased to see this being driven by a sharper increase in order and user volumes as opposed to AOVs.
+These markers make us feel good about the durability of our demand and validate our push to keep
+solving for core user needs in food delivery. Apart from Bolt, One BLCK and 99-store that continue to
+drive user growth, the recently introduced Eat Right offering has gained currency with consumers with
+higher than platform AOVs. We continue to power ahead on the profitability journey with disciplined
+improvement in contribution margin and operating leverage with our best ever Adjusted EBITDA margins
+of 3.3% (+26 bps QoQ).
+While many inputs on price, selection, convenience continue to be important to drive growth in food
+delivery, we believe that affordability will be the biggest amongst these to drive strong growth in food
+delivery. We have been relentless in our pursuit of winning ideas to open up affordability further and our
+experiments in 99-Store, quick food (Snacc) and more recently in affordable restaurant marketplace
+(Toing) have been attempts towards solving this use case. We proactively shut down Snacc during the
+quarter as we were not convinced on the steady state size of the category for the incremental complexity
+involved to run the business.
+The quick commerce category continues to remain a very highly competitive segment in a multi-player
+market. The increasing competition has only made it clearer to us that increasing our staying power and
+doubling down on our differentiation is the only path to winning in the medium term. In a year where the
+number of players and competitive intensity has only increased, we would have paced the most forward
+in our unit economics to secure our staying power. Our contribution margin improved to -1.8% of GOV
+during the quarter and further improved to -1.1% for the month of Mar-26. Adjusted EBITDA losses reduced
+to INR 858 Cr; and we expect to continue demonstrating a glide-path towards profitability, without
+resorting to any short-term decisions. Getting to a CM of zero sooner also will allow us to incentivise
+growth for profitability rather than to see it as a tradeoff. While this focus has meant a temporary order
+volume slowdown, it has also offered us the opportunity to look inward and focus even harder on
+identifying more durable inputs for growth. All of this should come together in subsequent quarters to
+drive faster and profitable growth.
+Beyond the staying power, we fully recognise that our long-term chances of winning are hinged strongly
+on our ability to drive differentiation and distinctive positioning for Instamart. With quick deliveries
+Page 2 of 25
+
+
+increasingly becoming a commoditised market, every participant in the category has to choose between
+being a differentiated platform or a value-led/price-led one. Having reflected hard, and been buoyed by
+early green shoots we are seeing with some differentiation efforts, we feel definitively that the right
+answer for Instamart’s long-term success will be more differentiation-led and not value/price-led. While
+some of these efforts (like Noice, our clean-food private brand) have demonstrated strong stickiness to
+the platform, our job is very clearly cut out to be able to work with partner brands to solve for this
+differentiation across more categories and consumption occasions to allow consumers to feel a more
+broad-based difference in what Instamart can offer them.
+Our Out-of-Home Consumption business continued its steady profitability trajectory in Q4. The Dineout
+platform crossed 52k average monthly active restaurant partners (9% QoQ). GOV grew 43% YoY to INR
+1,245 Cr and Adjusted EBITDA margins expanded to 0.8% during the quarter through growing brand
+advertising revenue, consistent with the playbook that has made this segment a sustainably profitable
+business today. The GIRF (Great Indian Restaurant Festival), our flagship event further accentuated
+restaurant partner depth and advertising monetisation. With the category still significantly
+underpenetrated even in top-tier cities, and discretionary incomes expanding, in-restaurant dining is a
+secular growth opportunity.
+On social security, Swiggy is actively facilitating E-Shram registration for our delivery partners through
+coordinated awareness campaigns and close collaboration with government-led initiatives. To date,
+approximately 100,000 delivery partners have registered on the E-Shram portal, unlocking access to
+accident, health and life insurance, pension, and other government-sponsored schemes, and importantly,
+establishing their eligibility for benefits that will flow through the Code on Social Security, 2020 as it is
+implemented for gig and platform workers.
+In line with our goal to empower 100,000 women across the Swiggy ecosystem by 2030 to cultivate a
+diverse ecosystem, this International Women’s Day, we were proud to host the second edition of She The
+Change: Celebrating Women Chefs and Entrepreneurs, recognising over 30 exceptional women
+entrepreneurs and chefs from across the country, their remarkable drive and contributions to the food
+ecosystem.
+
+Regards
+
+Sriharsha Majety
+Co-founder, MD & Group CEO, Swiggy Ltd​
+
+www.swiggy.com/corporate/
+
+Page 3 of 25
+
+
+Key metrics
+
+1)​
+2)​
+3)​
+
+B2C GOV defined as Consolidated Gross Order Value of completed orders for consumer facing businesses i.e. (i) Food delivery, plus (ii) Quick
+Commerce, plus (iii) Out-of-home Consumption, excluding Platform Innovations
+B2C Adjusted Revenue defined as Consolidated Adjusted Revenue of consumer facing businesses i.e. (i) Food delivery, plus (ii) Quick Commerce, plus
+(iii) Out-of-home Consumption, excluding Platform Innovations
+Adjusted EBITDA defined as Consolidated EBITDA excluding (i) other income (ii) exceptional items (iii) share in net loss of an associate (iv) share based
+payment expense and (v) rental expenses pertaining to 'Ind AS 116 leases
+
+Highlights of the quarter
+●​ Swiggy Platform
+○​
+○​
+○​
+○​
+
+Platform Average Monthly Transacting Users (MTU) grew 27.2% YoY to 25.2 Mn (+3.8% QoQ)
+Consolidated Adjusted Revenue grew 41.3% YoY to INR 6,665 Cr (+3.6% QoQ)
+B2C Adjusted EBITDA Margin (% of B2C GOV) improved by 181bps YoY to -3.0% (+43bps QoQ)
+Consolidated Adjusted EBITDA improved by INR 60 Cr QoQ, to a loss of INR 652 Cr
+
+●​ Food delivery ​
+○​ GOV grew 22.6% YoY to INR 9,005 Cr; ahead of guidance and at a 15 quarter high
+○​ Accelerated MTU growth to 21% YoY (+0.2 Mn QoQ), to reach 18.3 Mn
+○​ Adjusted EBITDA improved by 9.1% QoQ (and 39.8% YoY) to INR 297 Cr, Adjusted EBITDA
+Margin increased to 3.3% of GOV (+41bps YoY, +26bps QoQ)
+
+●​ Quick commerce
+○​ GOV grew 68.8% YoY to INR 7,881 Cr, NOV growth was at 60.3% to INR 5,675 Cr (sequential
+growth at 4%)
+○​ Total darkstore area increased to more than 4.8 Mn sq ft (+21.1% YoY), net addition of 7
+darkstores to reach 1,143 stores across 129 cities
+○​ AOV grew 33% YoY to INR 700, led by sustained non-grocery selection mix and larger-basket
+buying behaviour across user cohorts
+○​ Contribution margin improved by 65bps QoQ (372bps YoY) to -1.8% with the monthly
+contribution improving to -1.1% in Mar-26
+○​ Adjusted EBITDA margin improved by 55bps QoQ to -10.9%, losses reduced by INR 50 Cr QoQ
+to INR 858 Cr
+
+Page 4 of 25
+
+
+Swiggy Platform
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+B2C Gross Order Value (INR Cr)
+
+12,888
+
+14,797
+
+16,683
+
+18,122
+
+18,131
+
+Growth - QoQ
+
+5.9%
+
+14.8%
+
+12.7%
+
+8.6%
+
+0.0%
+
+Growth - YoY
+
+40.3%
+
+45.2%
+
+47.6%
+
+49.0%
+
+40.7%
+
+B2C Adjusted EBITDA margin (% of B2C GOV)
+
+-4.8%
+
+-4.7%
+
+-3.6%
+
+-3.5%
+
+-3.0%
+
+Consolidated Adjusted EBITDA (INR Cr)
+
+-732
+
+-813
+
+-695
+
+-712
+
+-652
+
+Key operating highlights
+
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+B2C Total Orders (million)
+
+246
+
+264
+
+282
+
+294
+
+301
+
+Average Monthly Transacting Users [MTU] (million)
+
+19.8
+
+21.6
+
+22.9
+
+24.3
+
+25.2
+
+Average Monthly Transacting Delivery Partners ('000)
+
+539
+
+606
+
+691
+
+687
+
+612
+
+Platform Frequency (#)
+
+4.22
+
+4.13
+
+4.10
+
+4.04
+
+4.01
+
+Page 5 of 25
+
+
+Food delivery
+
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+Adjusted EBITDA (INR Cr)
+
+212
+
+192
+
+240
+
+272
+
+297
+
+Average Monthly Transacting Users [MTU] (million)
+
+15.1
+
+16.3
+
+17.2
+
+18.1
+
+18.3
+
+Average Monthly Transacting Restaurant Partners ('000)
+
+251.7
+
+255.4
+
+263.7
+
+270.2
+
+275.4
+
+Page 6 of 25
+
+
+Quick commerce
+
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+Total Orders (million)
+
+88.6
+
+92.4
+
+100.8
+
+106.4
+
+112.6
+
+Average Order Value [AOV] (INR per order)
+
+527
+
+612
+
+697
+
+746
+
+700
+
+Net Order Value [NOV] (% of GOV)
+
+76%
+
+74%
+
+70%
+
+69%
+
+72%
+
+Adjusted EBITDA (INR Cr)
+
+-840
+
+-896
+
+-849
+
+-908
+
+-858
+
+Average Monthly Transacting Users [MTU] (million)
+
+9.8
+
+11.1
+
+12.0
+
+12.8
+
+13.3
+
+Active Dark Stores (Exit)
+
+1,021
+
+1,062
+
+1,102
+
+1,136
+
+1,143
+
+Orders/dark store/day (#)
+
+1,190
+
+985
+
+1,025
+
+1,034
+
+1,093
+
+Active Dark store area (Mn Sq ft)
+
+3.97
+
+4.30
+
+4.59
+
+4.79
+
+4.81
+
+GOV per unit area (INR per sq ft)
+
+11,762
+
+13,163
+
+15,287
+
+16,571
+
+16,391
+
+# based on active darkstore-days, as orders should be linked to only the period a darkstore has been active.
+* Discounts to MRP on non-grocery categories typically are substantially higher than grocery. As the non-grocery mix in our GOV continues to increase,
+we believe that disclosing Net Order Value (NOV = GOV less all discounts) will give a better representation of the overall consumer spending on our
+platform.
+
+Page 7 of 25
+
+
+Out-of-Home Consumption
+
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+Adjusted EBITDA (INR Cr)
+
+2
+
+5
+
+6
+
+8
+
+10
+
+Average Monthly Active Restaurants ('000)
+
+39
+
+41
+
+44
+
+48
+
+53
+
+Page 8 of 25
+
+
+Supply Chain & Distribution
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+Revenue (INR Cr)
+YoY %
+Adjusted EBITDA (INR Cr)
+Adjusted EBITDA margin (as a % of Revenue)
+
+2,004
+
+2,259
+
+2,560
+
+2,981
+
+3,135
+
+58.4%
+
+78.1%
+
+76.3%
+
+76.1%
+
+56.4%
+
+-71
+
+-62
+
+-46
+
+-42
+
+-42
+
+-3.5%
+
+-2.7%
+
+-1.8%
+
+-1.4%
+
+-1.3%
+
+Platform Innovations
+Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26
+Adjusted Revenue (INR Cr)
+YoY %
+Adjusted EBITDA (INR Cr)
+Adjusted EBITDA margin (as a % of Adjusted Revenue)
+
+43
+
+27
+
+12
+
+9
+
+13
+
+-9.5%
+
+-8.1%
+
+-69.5%
+
+-76.6%
+
+-70.4%
+
+-36
+
+-52
+
+-46
+
+-40
+
+-58
+
+-85.1%
+
+-192.2% -384.7% -427.2% -462.8%
+
+Page 9 of 25
+
+
+Management Perspectives
+1.​ Food delivery GOV has shown momentum growing over 22% YoY. What are the reasons and is
+it sustainable?
+Food delivery GOV grew 22.6% YoY to INR 9,005 Cr in Q4FY26 (+0.5% QoQ), ahead of our
+guided range of 18-20%. This acceleration is the direct result of disciplined execution and the
+compounding effect of our focused launches across the "selection-speed-affordability"
+framework. This momentum led to a 15-quarter high in growth rate across our transacting user
+base (+21.4% YoY) and order volumes (+19.0% YoY).
+In line with our goal of delivering industry-leading growth by making the platform accessible to
+more users across more occasions, we have continuously launched a series of innovative
+offerings across: a) Speed and Convenience: Our ultra-fast delivery service, Bolt, and the
+premium One BLCK have redefined convenience for time-sensitive users; b) Targeted Selection:
+Specialized offerings like Eat Right (health-focused), Desk Eats (workplace meals), and Food on
+Train have unlocked new use cases; and c) Affordability: The 99-Store has lowered the entry
+barrier for value-conscious consumers. Collectively, these speed and affordability propositions
+now account for approximately one fourth of our total platform volumes.
+We have achieved this growth while maintaining a fine balance in consumer take-rates. While the
+expansion of the Swiggy One subscriber base has reduced average delivery fees, this has been
+effectively offset by our platform fee architecture. The total "Cost of Service" for our users
+(comprising delivery fees, platform fees, and membership costs) has trended down in recent
+quarters, ensuring that the platform remains affordable aiding sustainable growth.
+We are confident of the stickiness of our recent efforts on the growth initiatives, and reiterate our
+sustainable medium term guidance of 18-20% YoY GOV growth.
+2.​ Food delivery Adjusted EBITDA has grown nearly 9x in two years. What drove this, and what
+does it tell us about the path ahead for the overall platform?
+Food delivery hit a lifetime high Adjusted EBITDA margin of 3.3% through structural contribution
+margin improvements (120 bps) and significant operating leverage (160 bps) over the last 2 years.
+Contribution margin improvements were achieved through;
+a)​ Ad-led revenue growth: We have expanded our take-rate by deepening our advertising
+ecosystem allowing higher visibility and high-intent traffic
+b)​ Delivery cost efficiency: Increased order density has unlocked significant operating leverage
+in our fleet costs. By optimizing order-per-hour efficiency, we have lowered the cost of
+delivery while maintaining speed and increasing driver partner earnings
+
+Page 10 of 25
+
+
+c)​ Discounts to Habit: We have disciplined our platform-funded discounting. As specialized
+offerings like Bolt, 99 Store, and Eat Right build genuine consumer habits, we have
+successfully shifted the value proposition from "discount-led" to "utility-led"
+3.​ Given newsflow of new competition in Food delivery, is there a risk to the growth trajectory?
+What are the tradeoffs between growth and profitability?
+We believe that new entrants must find value vectors that established platforms do not already
+address. We have proactively pre-empted these openings through targeted innovations. We have
+been investing in affordability (99-Store, Toing), speed (Bolt, One BLCK), health (Eat Right), and
+occasion-specific propositions (Desk Eats, Food on Train). Each of these is an attempt to pre-empt
+the openings that new entrants typically seek. As a result, we do not see any near term risks to
+our underlying growth trajectory.
+We also remain confident of our margin trajectory. This confidence is based on the structural
+nature of our profitability drivers, which are independent of short-term competitive shifts. Our
+profitability is driven by high-durable levers: a) Take-rate expansion through monetisation: As our
+GOV scales, the advertising pool grows incrementally, allowing us to expand contribution margins
+without taking aggressive pricing actions that could impact consumer demand; b) Operating
+leverage: As order density increases and fleet utilization optimizes, our per-delivery costs
+continue to moderate.
+From a guidance perspective, our Adjusted EBITDA margin guidance of 5% of GOV in the
+medium-term remains unchanged and we continue to progressively move towards that goal.
+4.​ Dineout / Out-of-Home Consumption has grown 43% with steadfast profitability. How should
+we think about the pace and trajectory of margin improvement from hereon ?
+In FY26, Dineout business has now delivered its first full year of profitability. Ever since we
+acquired Dineout (in May-22), the thesis was to grow the offering as a high engagement
+adjacency to the core Food delivery proposition, offering a wrapper around restaurant
+experiences with additional revenue streams for the ecosystem. On a full year basis, we have
+achieved 0.6% EBITDA margin from -12% (in FY23) for the platform while incrementally unlocking
+significant growth for our restaurant partners.
+We now have over 52k active restaurant partners on Dineout, growing at 36% YoY with restaurant
+additions at a multi quarter high. Cross-sell from Food delivery to dining, has created a
+compounding organic flywheel of brand recognition for the restaurant and consumer retention for
+the platform. This under-penetrated market continues to grow faster, command higher AOVs with
+a premium customer wallet, bringing together the premium dining and entertainment experience
+under one umbrella. We believe that this market continues to grow faster than Food delivery, and
+can achieve a 5% Adjusted EBITDA margin profile over the medium term.
+
+Page 11 of 25
+
+
+5.​ How have the two initiatives of Toing and Snacc fared?
+The Platform Innovations segment exists as a deliberate sandbox and a structured home for
+experiments that test new consumer propositions and business models. The thesis has always
+been that unlocking the next wave of growth requires challenging existing paradigms, not just
+optimising them. We launched, tested, and shut down Snacc within the fiscal year. The
+micro-kitchen model requires a high density of demand in micro markets to operate on
+sustainable economics. We proactively shut down Snacc during the quarter as we were not
+convinced on the steady state size of the category for the incremental complexity involved to run
+the business.
+Toing is a recent extension of our affordability push targeting budget-conscious consumers
+through a restaurant-marketplace model with a brand identity distinct from Swiggy's primary
+platform. We are currently in an experimentation phase and will share more details as we
+endeavour to find the product market fit for this offering.
+6.​ Quick commerce growth seems to have decelerated. What is the near and medium term
+growth outlook for the business?
+We had addressed this question in our Q3FY26 shareholders’ letter where we had called out the
+nature of competitive intensity at play in the sector and the choices we are making which makes
+it extremely tough to predict near term growth outlook. We had also tested the saliency and
+velocity of user behaviours through the no-fee campaign and decided to roll it back in January’26
+thereby choosing to forgo such inducement-led volume gains. Despite this, we have delivered
+better sequential volume growth in Q4 (8.2% vs 5.5%, adjusted for number of days).
+We reiterate that a platform’s growth choices should be indexed on economics versus absolute
+volume increase, as theoretically one can grow significantly higher volumes in the short term in a
+large addressable market. However, the sustainability of that approach is questionable
+considering the high operating variable costs in the business as well as the expiry date attached
+to higher than sustainable consumer inducements. We have made massive strides of changing
+the contribution margin profile of the business by 450 bps in a year.
+The medium term opportunity in this sector remains very attractive and we see ourselves well
+placed to appropriate a large share of the industry growth from here, having achieved
+sustainable unit economics. We see ourselves growing to over 1 lakh crore Net order value
+business with 4-5% EBITDA over the medium term.
+
+Page 12 of 25
+
+
+7.​ Can you elaborate more on your contribution margin improvement from -5.6% to -1.8% (-1.1%
+for Mar-26) over the last one year and the structural choices made during the year to drive
+this?
+We had set a goal of contribution margin breakeven latest by Q1FY27 back in Q4FY25 when our
+CM loss had peaked at -5.6%. The peak CM loss was due to the strategic investment choices that
+were made in establishing our network infrastructure to cater to the consumer needs of the
+evolved quick commerce offering.
+We have since made substantial progress of 450 bps of CM improvement till Mar-26 and are
+confident of achieving the break-even guidance in Q1FY27 (in line with our goal). We are
+perhaps the only player in the industry who has made such rapid progress in the CM trajectory in
+a short time. This has been achieved by increased monetisation, larger basket size (increased
+AOV), operating leverage in both fixed and semi-variable costs, and consumer incentive
+rationalization.
+In response to heightened sector competition and the prevalence of irrational discounting even
+on low-value transactions, we made the deliberate choice to prioritize margin integrity over vanity
+volume. By actively pivoting away from unprofitable low AOV consumers and related orders, we
+have significantly changed the order mix by halving their share during this period. We also
+repurposed our consumer incentives to move away from direct wallet subsidy to a concept which
+focuses on sustainable growth, building long-term shopping habits, and attracting a
+high-retention customer cohort. As a result, our NOV to GOV ratio improved by 330 bps from a
+low of 68.7% to 72.0%.
+We continue to see significant improvement in both our mature stores and geographical
+profitability with the top decile of stores across geographies now operating at 3-5% contribution
+margin and the most mature city operating at close to ~3% CM at the consolidated city level.
+8.​ Instamart has added very few stores over the past year while peers have been expanding
+aggressively. Is the restrained pace a reflection of strategy, financial caution, or a different
+view of the market?
+Our store expansion strategy has been designed backwards from our choice of geographical
+expansion and the relevant coverage in those cities to cater to >90% of the addressable demand.
+We also densified the network to achieve the best in class delivery experience and cater to the
+ever widening assortment choices on the platform. As a result, our store count increased 2.2x
+from 523 to 1,143 and more importantly, the dark store footprint area went up by 3.2x over the last
+two years (from 1.5 million sq ft to 4.8 million sq ft).
+This rapid expansion was a necessary investment to make and compete effectively on the
+consumer proposition. This burdened the CM trajectory of the overall platform in the short-term
+which has now started to demonstrate visible operating leverage as the utilization improves. We
+
+Page 13 of 25
+
+
+will continue to see compounding operating leverage with increased utilization from the current
+~40% and can comfortably double our business without the need to add additional stores (other
+than those required for densification due to maxing out on utilization).
+Having achieved the densification and geographical coverage increase, store expansion
+hereafter will be a derivative of growth and utilization. Also, the time to operationalise a new store
+from the point of decision is less than 90 days and therefore we can remain agile to the market
+opportunity and growth curve without having to commit large store expansion numbers in the
+short term.
+
+9.​ What is Instamart’s positioning amidst what is rapidly becoming a cluttered market, with
+serious players having limited differentiation driving significant value-led competition? What
+will drive MTU growth and frequency?​
+Quick commerce is a crowded space as categories with large TAMs, clear consumer love, and
+growing penetration will always attract capital and competition. However, as we take a closer
+look, while many players are indeed participating in the category, some differences do start
+becoming apparent. There are a set of players that either already occupy or intend to occupy
+higher salience in the convenience retailer archetype, and there are another set of players that
+are now taking aim at the price-led/value-led retailer archetype. It’s almost an absolute imperative
+for any platform to pick a choice to improve chances of long-term success. ​
+​
+Our intention is to definitely play in the convenience segment, and cement our positioning on top.
+While a right to play in this segment will be predicated on reliable delivery, width of assortment ( ~
+50k SKUs ) and live SKU availability, our strategy to build a distinctive and durable business is to
+shape stronger positioning for Instamart as a destination for everyday upgrades as opposed to
+just everyday essentials. While serving all latent need states for our core consumers today, we
+Page 14 of 25
+
+

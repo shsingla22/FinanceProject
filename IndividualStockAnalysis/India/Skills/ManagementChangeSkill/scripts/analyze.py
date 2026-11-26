@@ -608,9 +608,12 @@ def outgoing_record(sym: str, ch: dict) -> dict:
     if not o.get("name"):
         return {"available": False, "why": "no outgoing person (a new seat, or not named)"}
     since, basis = T.fy_of(o.get("in_seat_since")), "the filing"
+    at_floor = False
     if not since:
         floor = T.seat_since(sym, o["name"], ch["group"].split("/")[0])
-        since, basis = floor, "the annual reports on file (the person may have held the seat earlier)"
+        at_floor = bool(floor and floor == T.reports_floor(sym))
+        since, basis = floor, ("the earliest annual report on file — they held the seat at least since then, possibly for years before"
+                               if at_floor else "the annual reports on file")
     last = _date(o.get("last_day")) or _date(ch.get("announced_on"))
     end_fy = None
     if last:
@@ -625,7 +628,7 @@ def outgoing_record(sym: str, ch: dict) -> dict:
             last = min(end_fy or max(fys), max(fys))
             rec = T.tenure_record(sym, last - CONTEXT_YEARS + 1, last)
             rec["context_only"] = True
-    rec.update({"name": o["name"], "since_fy": since, "since_basis": basis if since else "",
+    rec.update({"name": o["name"], "since_fy": since, "since_basis": basis if since else "", "at_floor": at_floor,
                 "elsewhere": T.seats_held(o["name"], exclude_symbol=sym)})
     return rec
 
@@ -652,9 +655,13 @@ def incoming_record(sym: str, ch: dict, members: dict[str, str]) -> dict:
             rec = T.tenure_record(psym, a, (b - 1) if b else None)
             if rec.get("available"):
                 out["records"].append({**rec, "company": row["company"], "role": row["role"], "basis": "the filing's profile"})
-    for s in T.seats_held(i["name"]):
+    # seats at OTHER companies only: an insider's earlier years here are in the company's own numbers above,
+    # and the annual-report read of names is too loose to draw a record from a single year
+    for s in T.seats_held(i["name"], exclude_symbol=sym):
         out["seats_on_file"].append(s)
-        if any(r.get("symbol") == s["symbol"] for r in out["records"]):
+        if any(r.get("symbol") == s["symbol"] for r in out["records"]) or s["last_fy"] - s["first_fy"] < 1:
+            continue
+        if not TOP_ROLE_RX.search(s["role"]):
             continue
         rec = T.tenure_record(s["symbol"], s["first_fy"], s["last_fy"])
         if rec.get("available"):
@@ -923,14 +930,18 @@ def render_company(c: dict, verbatim: bool = True) -> list[str]:
             continue
         any3 = True
         A += [f"**{o['name']}** — {ch.get('designation') or ch['seat']}"
-              + (f", in the seat since FY{rec['since_fy']} per {rec['since_basis']}" if rec.get("since_fy") else ", date of taking the seat not on file") + ".", ""]
+              + ((f", in the seat since at least FY{rec['since_fy']} ({rec['since_basis']})" if rec.get("at_floor")
+                  else f", in the seat since FY{rec['since_fy']} per {rec['since_basis']}") if rec.get("since_fy")
+                 else ", date of taking the seat not on file") + ".", ""]
         if rec.get("available") and rec.get("context_only"):
             A += [f"When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context "
                   f"only, the company's results over the last {rec['years']} fiscal years:", ""]
             A += record_md(rec) + [""]
         elif rec.get("available"):
-            A += ["The company's results while they held the seat (the year before they took it, to the last full year they held it"
-                  + ("; the statements on file start later than the tenure" if rec.get("clipped") else "") + "):", ""]
+            A += [("The company's results over the part of the tenure the reports on file cover" if rec.get("at_floor")
+                   else "The company's results while they held the seat (the year before they took it, to the last full year they held it")
+                  + ("; the statements on file start later than the tenure" if rec.get("clipped") else "")
+                  + (":" if rec.get("at_floor") else "):"), ""]
             A += record_md(rec) + [""]
         else:
             A += [f"*No tenure record: {rec.get('why', 'not determinable')}.*", ""]

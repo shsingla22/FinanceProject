@@ -314,6 +314,14 @@ def seat_since(symbol: str, name: str, seat: str) -> int | None:
     return min(hits) if hits else None
 
 
+def reports_floor(symbol: str) -> int | None:
+    """The earliest fiscal year the annual reports on file cover for a
+    company: a person first seen in that year may have held the seat for
+    years before it."""
+    fys = [r["first_fy"] for r in people_on_file() if r["symbol"] == symbol]
+    return min(fys) if fys else None
+
+
 # -------------------------------------------------------------- prices
 
 _PX: dict[str, dict[str, float]] = {}
