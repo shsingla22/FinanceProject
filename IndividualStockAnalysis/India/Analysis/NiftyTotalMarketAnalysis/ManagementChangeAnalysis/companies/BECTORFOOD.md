@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Parveen Kumar Goel (moved to another role in the company or group; last day 2026-08-07) | Anshul Rastogi (external; from 2026-08-07) | effective | 2026-08-07 |
+| **Chief Financial Officer (CFO)** | Parveen Kumar Goel (moved to another role in the company or group) | Anshul Rastogi (external; from 2026-08-07) | effective | 2026-08-07 |
 
 - **Why Parveen Kumar Goel is leaving, in the filing's words:** “Change in the designation of Mr. Parveen Kumar Goel (DIN: 00007297) from Whole-time Director and Chief Financial Officer (CFO) to Whole-time Director.” Stays on as: Whole-time Director.
 - In the documents: “Appointed Mr. Anshul Rastogi, Chief Financial Officer (CFO) of the company w.e.f. 07.08.2026 based on the recommendation of Nomination and Remuneration Committee.” — [2026-08-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026135149_BMOUTCOME07082026.pdf) · [2026-08-07 Change in Management](https://nsearchives.nseindia.com/corporate/BECTORFOOD_07082026141902_CHANGEINMANAGEMENT.pdf)

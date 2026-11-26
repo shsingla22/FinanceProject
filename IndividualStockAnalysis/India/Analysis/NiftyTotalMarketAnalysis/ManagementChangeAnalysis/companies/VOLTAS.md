@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | Mukundan Menon C.P. (end of term; last day 2027-05-24) | Jayant Balan (internal; from 2027-05-25) | announced, not yet effective | 2026-11-06 |
+| **Managing Director of the Company** | Mukundan Menon C.P. (retirement; last day 2027-05-24) | Jayant Balan (internal; from 2027-05-25) | announced, not yet effective | 2026-11-06 |
 
 - **Why Mukundan Menon C.P. is leaving, in the filing's words:** “will complete his tenure as Managing Director on 24th May, 2027 and retire from the services of the Company on that date in line with the Tata Group's retirement policy for Executive Directors”
 - In the documents: “As part of a planned succession process, the Board, based on the recommendation of the Nomination and Remuneration Committee, has approved the appointment of Mr. Jayant Balan (DIN: 03480708), currently Head - Room Air Conditioner Business, as an Additional Director and Managing Director of the Company for a term of five years commencing from 25th May, 2027, subject to the approval of the shareholders.” — [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VOLTAS_RB_06112026165554_02SE_Directorssigned.pdf) · [2026-11-06 Retirement](https://nsearchives.nseindia.com/corporate/VOLTAS_RB_06112026171132_02SE_Directorssigned.pdf) · [2026-11-06 Retirement](https://nsearchives.nseindia.com/corporate/VOLTAS_RB_06112026171317_02SE_Directorssigned.pdf) · +1 more
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Mukundan Menon C.P.** — Managing Director, date of taking the seat not on file.
+**Mukundan Menon C.P.** — Managing Director of the Company, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,7 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Jayant Balan** — Managing Director. from: internal; experience: Over past two and a half decades; qualifications: Mechanical Engineer and PGDM from SP Jain Institute of Management & Research.
+**Jayant Balan** — Managing Director of the Company. from: internal; experience: Over past two and a half decades; qualifications: Mechanical Engineer and PGDM from SP Jain Institute of Management & Research.
 
 The filing's own profile: “Mr. Jayant Balan is a Mechanical Engineer and PGDM from SP Jain Institute of Management & Research. Mr. Balan joined the Tata Group in 1999 as part of the Tata Administrative Service and moved to Voltas in 2001. Over past two and a half decades, Mr. Balan has held leadership roles across manufacturing, supply chain, strategy, international operations, and consumer durables. Mr. Balan was serving as CEO of Voltbek Home Appliances Private Limited since 2019 before transitioning to the role of Head – Room Air Conditioner Business of the Company in January 2026.”
 
@@ -66,7 +66,6 @@ The filing's own profile: “Mr. Jayant Balan is a Mechanical Engineer and PGDM 
 | part of the Tata Administrative Service | Tata Group (Tata Administrative Service) | 1999 | 2001 |
 | CEO | Voltbek Home Appliances Private Limited | 2019 | 2026 |
 | Head – Room Air Conditioner Business | Voltas Limited (VOLTAS) | 2026 | — |
-| Head – Room Air Conditioner Business and Managing Director Designate | Voltas Limited (VOLTAS) | 2026 | 2027 |
 
 ### 5. On the calls
 

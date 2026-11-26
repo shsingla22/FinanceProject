@@ -8,11 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | Mukund Vasudevan (moved to another role in the company or group; last day 2026-08-31) | Sujeeth Pai (internal; from 2026-09-01) | effective | 2026-08-11 |
+| **Managing Director** | Mukund Vasudevan (resignation; last day 2026-08-31) | Sujeeth Pai (internal; from 2026-09-01) | effective | 2026-08-11 |
 
-- **Why Mukund Vasudevan is leaving, in the filing's words:** “Resignation pursuant to change in Mr. Mukund Vasudevan's role within SKF Group.” Stays on as: Non-Executive, Non-Independent Director of the Company w.e.f. 1st September 2026; and President for the Industrial Region covering India, Southeast Asia & Middle East within the SKF Group.
-- In the documents: “we wish to inform change in designation of Mr. Sujeeth Pai (DIN: 07763929) from Whole-Time Director to Managing Director of the Company with effect from 1st September 2026, subject to the approval of the shareholders.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026212338_NSE.pdf) · [2026-08-11 Updates](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026213712_NSE.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026214632_NSE.pdf) · +1 more
-  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
+- **Why Mukund Vasudevan is leaving, in the filing's words:** “Resignation pursuant to change in Mr. Mukund Vasudevan's role within SKF Group.” Stays on as: Non-Executive, Non-Independent Director of the Company with effect from 01st September 2026; also "will assume the role of President for the Industrial Region covering India, Southeast Asia & Middle East within the SKF Group".
+- In the documents: “Mr. Sujeeth Pai ceased to be Whole-Time Director of the Company from closure of business hours of 31st August 2026 and shall hold office as Managing Director for a period of five (5) years with effect from 1st September 2026, subject to the approval of the shareholders of the Company, pursuant to the provisions of Section 203 of the Companies Act, 2013 read with Rule 8 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 and other applicable provisions, if any.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026212338_NSE.pdf) · [2026-08-11 Updates](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026213712_NSE.pdf) · [2026-08-11 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_11082026214632_NSE.pdf) · +1 more
 
 *All 12 filing(s) read for the seats:* [2026-10-15 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SKFINDUS25_15102026204646_NSE.pdf) · [2026-10-15 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_15102026211945_NSE.pdf) · [2026-09-01 Cessation](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026121640_NSE.pdf) · [2026-09-01 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026122810_NSE.pdf) · [2026-09-01 Change in Management](https://nsearchives.nseindia.com/corporate/SKFINDUS25_01092026123358_NSE.pdf) · [2026-08-13 Press Release](https://nsearchives.nseindia.com/corporate/SKFINDUS25_13082026200249_NSE.pdf) · +6 more
 
@@ -65,7 +64,7 @@ The filing's own profile: “Sujeeth brings over four years of leadership experi
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Whole-Time Director | SKF India (Industrial) Limited (SKFINDUS) | — | 2026 |
-| key sales and operations roles across the organization | SKF | — | — |
+| key sales and operations roles across the organization (over four years of leadership experience within SKF) | SKF | — | — |
 | led the Sales and Service business | Danfoss Drives India | — | — |
 | senior positions | Tektronix | — | — |
 | senior positions | Fluke | — | — |

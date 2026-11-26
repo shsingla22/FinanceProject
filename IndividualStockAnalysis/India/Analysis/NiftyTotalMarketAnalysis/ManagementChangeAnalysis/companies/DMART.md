@@ -11,7 +11,7 @@
 | **Managing Director & CEO** | Ignatius Navil Noronha (end of term; last day 2026-01-31) | Anshul Asawa (internal; from 2026-02-01) | effective | 2026-01-10 |
 
 - **Why Ignatius Navil Noronha is leaving, in the filing's words:** “Completion of tenure of Mr. Ignatius Navil Noronha as Managing Director and CEO of the Company on 31st January, 2026.”
-- In the documents: “Consequently , he shall cease to hold office as a Managing Director & CEO of the Company with effect from the close of business hours on 31st January, 2026.” — [2026-02-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/DMART_24022026143253_ASLVotingResultIntimation24022026.pdf) · [2026-01-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DMART_10012026171417_FinalOutcomeofBM10012026.pdf) · [2026-01-10 Change in Management](https://nsearchives.nseindia.com/corporate/DMART_10012026174356_ChangeinManagement10012026.pdf)
+- In the documents: “The appointment of Mr. Anshul Asawa (DIN: 11400809), presently the CEO Designate, as Chief Executive Officer and Key Managerial Personnel of the Company from 1st February, 2026 and as Managing Director of the Company for a term of 3 (three) years with effect from 1st April, 2026, subject to approval of shareholders of the Company.” — [2026-02-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/DMART_24022026143253_ASLVotingResultIntimation24022026.pdf) · [2026-01-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DMART_10012026171417_FinalOutcomeofBM10012026.pdf) · [2026-01-10 Change in Management](https://nsearchives.nseindia.com/corporate/DMART_10012026174356_ChangeinManagement10012026.pdf)
 
 *All 5 filing(s) read for the seats:* [2026-05-02 Change in Management](https://nsearchives.nseindia.com/corporate/DMART_02052026181224_ASLChangeinManagement02052026.pdf) · [2026-04-06 Change in Management](https://nsearchives.nseindia.com/corporate/DMART_06042026190824_ASLChangeinSMP06042026.pdf) · [2026-02-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/DMART_24022026143253_ASLVotingResultIntimation24022026.pdf) · [2026-01-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DMART_10012026171417_FinalOutcomeofBM10012026.pdf) · [2026-01-10 Change in Management](https://nsearchives.nseindia.com/corporate/DMART_10012026174356_ChangeinManagement10012026.pdf)
 
@@ -57,16 +57,16 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Anshul Asawa** — Managing Director & CEO. from: internal; qualifications: an IIT Roorkee and IIM Lucknow alumnus.
+**Anshul Asawa** — Managing Director & CEO. from: internal; experience: a 30-year long stint at Unilever; qualifications: an IIT Roorkee and IIM Lucknow alumnus.
 
-The filing's own profile: “Mr. Anshul Asawa, an IIT Roorkee and IIM Lucknow alumnus, joined DMart on 17th March, 2025 after a 30-year long stint at Unilever where he had leadership roles overseeing the growth of product categories and developing impactful functions in India, Asia, and Europe. Mr. Asawa served as Country Head of Unilever in Thailand and General Manager for the Home Care business unit in Greater Asia. During his tenure of over 19 years in India, he held key leadership positions in sales, marketing and distribution. Mr. Asawa led the digitisation efforts at HUL and was also at the forefront of leading product innovations for homecare categories and sales & distribution transformations in urban and rural markets within India. He is known for his consumer-centricity, commercial discipline, and execution focus”
+The filing's own profile: “Mr. Anshul Asawa, an IIT Roorkee and IIM Lucknow alumnus, joined DMart on 17th March, 2025 after a 30-year long stint at Unilever where he had leadership roles overseeing the growth of product categories and developing impactful functions in India, Asia, and Europe. Mr. Asawa served as Country Head of Unilever in Thailand and General Manager for the Home Care business unit in Greater Asia. During his tenure of over 19 years in India, he held key leadership positions in sales, marketing and distribution. Mr. Asawa led the digitisation efforts at HUL and was also at the forefront of leading product innovations for homecare categories and sales & distribution transformations in urban and rural markets within India.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | CEO Designate | Avenue Supermarts Limited (DMart) | 2025 | 2026 |
 | Country Head of Unilever in Thailand | Unilever | — | — |
 | General Manager for the Home Care business unit in Greater Asia | Unilever | — | — |
-| led the digitisation efforts | HUL | — | — |
+| led the digitisation efforts; key leadership positions in sales, marketing and distribution | HUL | — | — |
 
 ### 5. On the calls
 

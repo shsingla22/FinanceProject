@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Managing Director** | Siddharth Mittal (moved to another role in the company or group; last day 2026-03-31) | Shreehas Pradeep Tambe (group company; from 2026-04-01) | effective | 2026-03-27 |
+| **Chief Executive Officer and Managing Director** | Siddharth Mittal (resignation; last day 2026-03-31) | Shreehas Pradeep Tambe (group company; from 2026-04-01) | effective | 2026-03-27 |
 | **Chief Financial Officer** | Mukesh Kamath (resignation; last day 2026-03-31) | Kedar Narayan Upadhye (group company; from 2026-04-01) | effective | 2026-03-27 |
 
-- **Why Siddharth Mittal is leaving, in the filing's words:** “This is to inform that I hereby step down from my role as the Managing Director and Chief Executive Officer of Biocon Limited, effective from the close of business hours on March 31, 2026, to transition into another leadership role within the Biocon Group.” Stays on as: another leadership role within the Biocon Group.
+- **Why Siddharth Mittal is leaving, in the filing's words:** “to transit into another leadership role within the Biocon Group” Stays on as: another leadership role within the Biocon Group.
 - In the documents: “The Board accepted the resignation of Mr. Siddharth Mittal (DIN: 03230757), tendered vide his letter dated March 20, 2026, from the position of Chief Executive Officer and Managing Director of the Company w.e.f. close of business hours of March 31, 2026 to transit into another leadership role within the Biocon Group.” — [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115323_Outcome_of_BM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115733_OutcomeofBM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026120203_OutcomeofBM27032026.pdf) · +1 more
-- **Why Mukesh Kamath is leaving, in the filing's words:** “This is to inform that I hereby step down from my role as the Interim Chief Financial Officer of Biocon Limited effective from the close of business hours on March 31, 2026, to take up another role in the Biocon Group.” Stays on as: another role in the Biocon Group.
+- **Why Mukesh Kamath is leaving, in the filing's words:** “to take up another role within the Biocon Group” Stays on as: another role within the Biocon Group.
 - In the documents: “Based on the recommendation of Nomination and Remuneration Committee, the Board approved the appointment of Mr. Kedar Narayan Upadhye, Chief Financial Officer of BBL, as the Chief Financial Officer (Key Managerial Personnel and Senior Management Personnel) of the Company, with effect from April 01, 2026.” — [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115323_Outcome_of_BM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115733_OutcomeofBM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026120203_OutcomeofBM27032026.pdf) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-06-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BIOCON_08062026204120_Intimation_to_SE_Postal_Ballot_outcome-SD.pdf) · [2026-05-09 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BIOCON_09052026011847_Intimation_to_SE_Postal_Ballot_Notice.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115323_Outcome_of_BM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026115733_OutcomeofBM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026120203_OutcomeofBM27032026.pdf) · [2026-03-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BIOCON_27032026120510_OutcomeofBM27032026.pdf) · +2 more
@@ -82,13 +82,13 @@ The filing's own profile: “Shreehas Tambe joined Biocon nearly three decades a
 |---|---|---|---|
 | Chief Executive Officer and Managing Director | Biocon Biologics Limited | — | 2026 |
 | Chief Operating Officer and later Deputy CEO | Biocon Biologics | — | — |
-| led the worldwide expansion of the insulins business, including the establishment of Asia's largest integrated insulins facility in Malaysia | Biocon (BIOCON) | — | — |
+| management trainee | Biocon (BIOCON) | — | — |
 
 **Kedar Narayan Upadhye** — Chief Financial Officer. from: group company.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Financial Officer | Biocon Biologics Limited | — | 2026 |
+| Chief Financial Officer | Biocon Biologics Limited (BBL) | — | 2026 |
 
 ### 5. On the calls
 

@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Key Managerial Personnel of the Company** | Rajdipkumar Gupta (moved to another role in the company or group; last day 2026-02-09) | Tushar Agnihotri (internal; from 2026-02-09) | effective | 2026-02-09 |
+| **Chief Executive Officer** | Rajdipkumar Gupta (moved to another role in the company or group; last day 2026-02-09) | Tushar Agnihotri (internal; from 2026-02-09) | effective | 2026-02-09 |
 
-- **Why Rajdipkumar Gupta is leaving, in the filing's words:** “re-designation of Mr. Rajdipkumar Gupta as Managing Director of the Company, upon his ceding the role of Chief Executive Officer, with effect from February 9, 2026” Stays on as: Managing Director of the Company; also Advisor to Mr. Seckin Arikan, CEO of Proximus Global and Chairman of the Route Mobile Group Board.
-- In the documents: “The Board based on recommendation of Nomination and Remuneration Committee, has approved appointment of Mr. Tushar Agnihotri as Chief Executive Officer and Key Managerial Personnel of the Company (erstwhile, Executive Vice President – India & APAC) of the Company, with effect from February 9, 2026, who will be responsible for overseeing the overall operations of the Company and for driving strategic initiatives to accelerate the growth and profitability.” — [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ROUTE_09022026222525_Upload.pdf) · [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ROUTE_09022026222714_Upload.pdf) · [2026-02-09 Appointment](https://nsearchives.nseindia.com/corporate/ROUTE_09022026223558_Upload.pdf) · +1 more
+- **Why Rajdipkumar Gupta is leaving, in the filing's words:** “re-designation of Mr. Rajdipkumar Gupta as Managing Director of the Company, upon his ceding the role of Chief Executive Officer, with effect from February 9, 2026” Stays on as: Managing Director of Route Mobile Limited and Advisor to Mr. Seckin Arikan, CEO of Proximus Global and Chairman of the Route Mobile Group Board.
+- In the documents: “Further, the Company announced that its Board of Directors has elevated Mr. Tushar Agnihotri to the role of Chief Executive Officer and KMP, effective February 9, 2026.” — [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ROUTE_09022026222525_Upload.pdf) · [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ROUTE_09022026222714_Upload.pdf) · [2026-02-09 Appointment](https://nsearchives.nseindia.com/corporate/ROUTE_09022026223558_Upload.pdf) · +1 more
 
 *All 11 filing(s) read for the seats:* [2026-09-01 Appointment](https://nsearchives.nseindia.com/corporate/ROUTE_01092026193832_Upload.pdf) · [2026-09-01 Press Release](https://nsearchives.nseindia.com/corporate/ROUTE_01092026194539_Upload.pdf) · [2026-07-01 Resignation](https://nsearchives.nseindia.com/corporate/ROUTE_01072026181753_SEIntimationResignation01072026signed.pdf) · [2026-07-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ROUTE_ROID_90943_KMP_Doc.zip) · [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ROUTE_09022026222525_Upload.pdf) · [2026-02-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ROUTE_09022026222714_Upload.pdf) · +5 more
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Rajdipkumar Gupta** — Chief Executive Officer and Key Managerial Personnel of the Company, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Rajdipkumar Gupta** — Chief Executive Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -57,7 +57,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Tushar Agnihotri** — Chief Executive Officer and Key Managerial Personnel of the Company. from: internal.
+**Tushar Agnihotri** — Chief Executive Officer. from: internal.
 
 The filing's own profile: “Mr. Agnihotri, with his extensive experience in CPaaS industry and his rich background in sales and operations, strengthens the Company's leadership structure, bringing added clarity and focus and positioning the Company for its next phase of sustainable and profitable growth.”
 

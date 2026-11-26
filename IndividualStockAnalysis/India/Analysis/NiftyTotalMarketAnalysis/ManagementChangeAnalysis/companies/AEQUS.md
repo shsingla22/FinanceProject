@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Dinesh Iyer (resignation; last day 2026-06-30) | Reenah Simon Joseph (external; from 2026-08-31) | effective | 2026-03-24 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Dinesh Iyer (resignation; last day 2026-06-30) | Reenah Simon Joseph (external; from 2026-08-31) | effective | 2026-03-24 |
 
-- **Why Dinesh Iyer is leaving, in the filing's words:** “I further confirm that there are no material reasons for my resignation other than personal reasons.”
-- In the documents: “we hereby inform that Mr. Dinesh Iyer, Chief Financial Officer (Key Managerial Personnel) of Aequs Limited (the “Company”) has tendered his resignation due to his personal reasons vide his Resignation Letter dated March 24, 2026 and will be relieved from his duties with effect from closure of business hours on June 30, 2026.” — [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_26102026162601_Press_Release_for_Financials.pdf) · [2026-08-29 Appointment](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_29082026175255_Intimation_CFO.pdf) · [2026-03-24 Resignation](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_24032026173601_Intimation_for_resignation_of_CFO.pdf)
+- **Why Dinesh Iyer is leaving, in the filing's words:** “has tendered his resignation due to his personal reasons vide his Resignation Letter dated March 24, 2026”
+- In the documents: “Mr. Dinesh Iyer, Chief Financial Officer (Key Managerial Personnel) of Aequs Limited (the “Company”) has tendered his resignation due to his personal reasons vide his Resignation Letter dated March 24, 2026 and will be relieved from his duties with effect from closure of business hours on June 30, 2026.” — [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_26102026162601_Press_Release_for_Financials.pdf) · [2026-08-29 Appointment](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_29082026175255_Intimation_CFO.pdf) · [2026-03-24 Resignation](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_24032026173601_Intimation_for_resignation_of_CFO.pdf)
 
 *All 7 filing(s) read for the seats:* [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_26102026162601_Press_Release_for_Financials.pdf) · [2026-10-09 General Updates](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_09102026135827_Intimation_Allotment_by_Ajna.pdf) · [2026-09-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_07092026192218_Voting_Results.pdf) · [2026-08-29 Appointment](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_29082026175255_Intimation_CFO.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_07082026101004_Intimation_for_appt_of_auditor_and_reappt_director.pdf) · [2026-07-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_29072026161834_Outcome_of_BM_Jul_29_2026.pdf) · +1 more
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Dinesh Iyer** — Chief Financial Officer, date of taking the seat not on file.
+**Dinesh Iyer** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 3 fiscal years:
 
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Reenah Simon Joseph** — Chief Financial Officer. from: external; experience: around 19 years of experience; qualifications: Ms. Reenah Simon Joseph holds an MBA in Finance from ICFAI Business School, Pune..
+**Reenah Simon Joseph** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: external; experience: around 19 years of experience; qualifications: holds an MBA in Finance from ICFAI Business School, Pune.
 
-The filing's own profile: “Ms. Reenah Simon Joseph is a finance and corporate strategy leader with around 19 years of experience, having most recently served as Deputy Group CFO and Head of Corporate Finance, M & A and Investor Relations at PDS Limited. Earlier, she was associated with Future Group as Chief - Corporate Finance & Investor Relations and Credit Suisse Securities as Senior Analyst, Investment Banking Division. Her experience spans capital markets, fundraising, M & A, investors relations, financial governance, FP&A, business transformation, strategic planning, performance management and stakeholder management.”
+The filing's own profile: “Ms. Reenah Simon Joseph is a finance and corporate strategy leader with around 19 years of experience, having most recently served as Deputy Group CFO and Head of Corporate Finance, M & A and Investor Relations at PDS Limited. Earlier, she was associated with Future Group as Chief - Corporate Finance & Investor Relations and Credit Suisse Securities as Senior Analyst, Investment Banking Division. Her experience spans capital markets, fundraising, M & A, investors relations, financial governance, FP&A, business transformation, strategic planning, performance management and stakeholder management. Ms. Reenah Simon Joseph holds an MBA in Finance from ICFAI Business School, Pune.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

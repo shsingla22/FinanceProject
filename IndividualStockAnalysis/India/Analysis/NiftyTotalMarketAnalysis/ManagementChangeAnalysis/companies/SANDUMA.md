@@ -49,14 +49,14 @@
 
 **Manoj Kumar Jha** — Chief Financial Officer. from: internal; experience: more than 3 decades of experience; qualifications: Chartered Accountant.
 
-The filing's own profile: “Manoj Jha is a Chartered Accountant with more than 3 decades of experience holding global leadership positions in manufacturing, trading and distribution businesses across Africa, Europe, Asia and Americas. He has expertise in corporate governance, M & A, fund raising, treasury, risk management and cross border financial operations. He has a proven track record in scaling multi-billion-dollar businesses, optimizing capital structures and drive sustainable profitability. Prior to joining the Company, he was associated with Tata group for more than a decade working for Tata Africa Holdings SA for their Automobile Distribution business in Africa as Chief Financial Officer.”
+The filing's own profile: “Manoj Jha is a Chartered Accountant with more than 3 decades of experience holding global leadership positions in manufacturing, trading and distribution businesses across Africa, Europe, Asia and Americas. He has expertise in corporate governance, M & A, fund raising, treasury, risk management and cross border financial operations. He has a proven track record in scaling multi-billion-dollar businesses, optimizing capital structures and drive sustainable profitability. Prior to joining the Company, he was associated with Tata group for more than a decade working for Tata Africa Holdings SA for their Automobile Distribution business in Africa as Chief Financial Officer and for Tata International Limited for their Global Metals Trading business as Head of Finance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Risk Officer designated as Senior Vice President - Business Governance (continues in this role) | The Sandur Manganese & Iron Ores Limited (SANDUMA) | 2026 | — |
-| Chief Financial Officer, Automobile Distribution business in Africa | Tata Africa Holdings SA | — | — |
-| Head of Finance, Global Metals Trading business | Tata International Limited | — | — |
-| heading their Finance & Accounts function for 8 years | Adani Enterprises Limited (Adani Group, Energy & Minerals business) | — | — |
+| Chief Risk Officer designated as Senior Vice President - Business Governance | The Sandur Manganese & Iron Ores Limited (SANDUMA) | 2026 | — |
+| Chief Financial Officer (Automobile Distribution business in Africa) | Tata Africa Holdings SA | — | — |
+| Head of Finance (Global Metals Trading business) | Tata International Limited | — | — |
+| heading Finance & Accounts function for Energy & Minerals business | Adani Enterprises Limited (ADANIENT) | — | — |
 | — | Olam International | — | — |
 | — | Benckiser | — | — |
 | — | Eicher | — | — |

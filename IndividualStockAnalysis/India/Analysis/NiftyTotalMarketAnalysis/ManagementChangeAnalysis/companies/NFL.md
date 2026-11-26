@@ -9,7 +9,7 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Director (Finance) and CFO** | Hira Nand (retirement; last day 2026-02-28) | Mahesh Chander Gupta (interim; internal; from 2026-03-03) | effective | 2026-03-01 |
-| **Director (Finance); Chief Financial Officer (CFO) and KMP** | Mahesh Chander Gupta (interim holder replaced; last day 2026-05-12) | Arvind Kumar (government appointee; from 2026-05-27) | effective | 2026-05-12 |
+| **Chief Financial Officer and KMP of the Company** | Mahesh Chander Gupta (interim holder replaced; last day 2026-05-12) | Arvind Kumar (government appointee; from 2026-05-27) | effective | 2026-05-12 |
 
 - **Why Hira Nand is leaving, in the filing's words:** “Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026”
 - In the documents: “In terms of Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015, it is hereby informed that Shri Hira Nand (DIN: 09476034), Director(Finance) and CFO has been retired on attaining the age of superannuation on 28.02.2026 and he has ceased to be a Director and CFO of NFL w.e.f. 01.03.2026.” — [2026-05-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NFL_12052026112004_SignedNSEappointment.pdf) · [2026-03-03 Change in Management](https://nsearchives.nseindia.com/corporate/NFL_03032026170805_SignedNSEADDITIONALCHARGE.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/NFL_01032026113304_signedNSEchangeinManagement.pdf)
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 18.0 | 6.8 | -11.2 pts |
 | Borrowings (₹ cr) | 3,993 | 2,001 | -1,992 |
 
-**Mahesh Chander Gupta** — Director (Finance); Chief Financial Officer (CFO) and KMP, in the seat since FY2026 per the filing.
+**Mahesh Chander Gupta** — Chief Financial Officer and KMP of the Company, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -76,21 +76,22 @@ The company's results while they held the seat (the year before they took it, to
 
 **Mahesh Chander Gupta** — Director (Finance) and CFO (interim). from: internal; experience: over 30 years; qualifications: A Management Graduate from FMS, Udaipur as well as Cost & Management Accountant (Gold Medallist) besides advanced management programmes.
 
-The filing's own profile: “Mr Mahesh Chander Gupta has joined the National Fertilizer Board as Director (Marketing). Prior to this, he was serving as Chief General Manager (Business Development -Gas) in Indian Oil Corporation Limited (IOCL) heading Natural Gas Sourcing and Marketing at Corporate Office. A seasoned professional with over 30 years of experience, Mr Gupta has played a pivotal role in upscaling of Natural Gas business for IOCL to new heights, establishing new business streams of Petrochemicals including PTA & Polymers in domestic and global markets and other Business Development Activities. Mr Gupta has held leadership positions across Petroleum Marketing, Petrochemicals Marketing, Natural Gas Marketing business and Vigilance vertical.”
+The filing's own profile: “Mr Mahesh Chander Gupta has joined the National Fertilizer Board as Director (Marketing). Prior to this, he was serving as Chief General Manager (Business Development -Gas) in Indian Oil Corporation Limited (IOCL) heading Natural Gas Sourcing and Marketing at Corporate Office. A seasoned professional with over 30 years of experience, Mr Gupta has played a pivotal role in upscaling of Natural Gas business for IOCL to new heights, establishing new business streams of Petrochemicals including PTA & Polymers in domestic and global markets and other Business Development Activities.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Chief General Manager (Business Development -Gas) heading Natural Gas Sourcing and Marketing at Corporate Office | Indian Oil Corporation Limited (IOCL) | — | — |
 | Director (Marketing) | National Fertilizers Limited (NFL) | — | — |
-| Chief General Manager (Business Development - Gas), heading Natural Gas Sourcing and Marketing at Corporate Office | Indian Oil Corporation Limited (IOCL) | — | — |
 
-**Arvind Kumar** — Director (Finance); Chief Financial Officer (CFO) and KMP. from: government appointee; qualifications: holds the educational qualifications of M.Com. Professionally, he is a Fellow Member of Institute of Cost Accountants of India and an Associate Member of Institute of Company Secretaries of India.
+**Arvind Kumar** — Chief Financial Officer and KMP of the Company. from: government appointee; qualifications: M.Com. Professionally, he is a Fellow Member of Institute of Cost Accountants of India and an Associate Member of Institute of Company Secretaries of India.
 
-The filing's own profile: “Shri Arvind Kumar holds the educational qualifications of M.Com. Professionally, he is a Fellow Member of Institute of Cost Accountants of India and an Associate Member of Institute of Company Secretaries of India. Prior to joining NFL, Shri Arvind Kumar was serving in senior leadership positions in the finance function in Indian Oil Corporation Limited and Hindustan Urvarak & Rasayan Limited. He possesses rich and diverse experience in the areas of financial management, internal audit, budgeting, banking, taxation, commercial accounting, corporate governance and regulatory compliance. Shri Arvind Kumar is known for his professional competence, analytical approach and extensive experience in finance, audit and corporate management.”
+The filing's own profile: “Shri Arvind Kumar holds the educational qualifications of M.Com. Professionally, he is a Fellow Member of Institute of Cost Accountants of India and an Associate Member of Institute of Company Secretaries of India. Prior to joining NFL, Shri Arvind Kumar was serving in senior leadership positions in the finance function in Indian Oil Corporation Limited and Hindustan Urvarak & Rasayan Limited. He possesses rich and diverse experience in the areas of financial management, internal audit, budgeting, banking, taxation, commercial accounting, corporate governance and regulatory compliance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | senior leadership positions in the finance function | Indian Oil Corporation Limited (IOC) | — | — |
 | senior leadership positions in the finance function | Hindustan Urvarak & Rasayan Limited | — | — |
+| Director (Finance) | National Fertilizers Limited (NFL) | 2026 | — |
 
 Results of **Chennai Petroleum Corporation Ltd.** while they were Managing Director there (annual reports on file show the seat FY2022–FY2025):
 

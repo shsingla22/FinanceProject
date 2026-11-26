@@ -9,12 +9,12 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer** | Peter Bains (resignation; last day 2026-06-30) | Siddharth Mittal (group company; from 2026-07-01) | effective | 2026-03-27 |
-| **Chief Financial Officer and Key Managerial Personnel (KMP)** | Deepak Jain (resignation) | — not named | announced, not yet effective | 2026-10-27 |
+| **Chief Financial Officer** | Deepak Jain (resignation) | — not named | announced, not yet effective | 2026-10-27 |
 
 - **Why Peter Bains is leaving, in the filing's words:** “Further to our recent discussions regarding leadership succession and CEO transition, I hereby tender my resignation as Managing Director and Chief Executive Officer of Syngene International Limited with effect closing business hours of June 30, 2026”
-- In the documents: “Siddharth succeeds Peter Bains, who completed his tenure as Managing Director & CEO on 30 June 2026.” — [2026-07-03 Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_03072026171724_SEIntimationPBResignation.pdf) · [2026-07-01 Press Release](https://nsearchives.nseindia.com/corporate/SYNGENE2_01072026173255_PR_SM.pdf) · [2026-04-29 General Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_29042026190743_Materialitydisclosure.pdf) · +1 more
+- In the documents: “Appointment of Mr. Siddharth Mittal as an Additional Director, designated as Managing Director & Chief Executive Officer (a Key Managerial Personnel) of the Company and a member of the Executive Committee, effective July 01, 2026, subject to the approval of the shareholders of the Company.” — [2026-07-03 Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_03072026171724_SEIntimationPBResignation.pdf) · [2026-07-01 Press Release](https://nsearchives.nseindia.com/corporate/SYNGENE2_01072026173255_PR_SM.pdf) · [2026-04-29 General Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_29042026190743_Materialitydisclosure.pdf) · +1 more
 - **Why Deepak Jain is leaving, in the filing's words:** “has decided to move on from the Company for personal reasons and will pursue opportunities outside the Company”
-- In the documents: “Mr. Deepak Jain , Chief Financial Officer and Key Managerial Personnel (KMP) of the Company has decided to move on from the Company for personal reasons and will pursue opportunities outside the Company.” — [2026-10-27 Change in Management](https://nsearchives.nseindia.com/corporate/SYNGENE2_27102026201706_SEDisclosureSMPKMP_Signed.pdf) · [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYNGENE2_29072026180827_PRJuly292026.pdf) · [2026-04-29 General Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_29042026190743_Materialitydisclosure.pdf)
+- In the documents: “Mr. Deepak Jain, Chief Financial Officer and Key Managerial Personnel (KMP) of the Company has decided to move on from the Company for personal reasons and will pursue opportunities outside the Company.” — [2026-10-27 Change in Management](https://nsearchives.nseindia.com/corporate/SYNGENE2_27102026201706_SEDisclosureSMPKMP_Signed.pdf) · [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYNGENE2_29072026180827_PRJuly292026.pdf) · [2026-04-29 General Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_29042026190743_Materialitydisclosure.pdf)
 
 *All 10 filing(s) read for the seats:* [2026-10-27 Change in Management](https://nsearchives.nseindia.com/corporate/SYNGENE2_27102026201706_SEDisclosureSMPKMP_Signed.pdf) · [2026-10-27 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SYNGENE_ROID_102006_KMP_Doc.zip) · [2026-09-21 Resignation](https://nsearchives.nseindia.com/corporate/SYNGENE2_21092026224924_SEDisclosure_Sept212026.pdf) · [2026-09-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SYNGENE_ROID_98731_KMP_Doc.zip) · [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYNGENE2_29072026180827_PRJuly292026.pdf) · [2026-07-03 Updates](https://nsearchives.nseindia.com/corporate/SYNGENE2_03072026171724_SEIntimationPBResignation.pdf) · +4 more
 
@@ -58,7 +58,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 14.4 | 6.6 | -7.8 pts |
 | Borrowings (₹ cr) | 893 | 458 | -435 |
 
-**Deepak Jain** — Chief Financial Officer and Key Managerial Personnel (KMP), in the seat since FY2026 per the annual reports on file.
+**Deepak Jain** — Chief Financial Officer, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

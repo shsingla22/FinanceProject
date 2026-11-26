@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | R. Shankar Raman (last day 2026-06-30) | P. Ramakrishnan (internal; from 2026-07-01) | effective | 2026-05-05 |
 
-- **Why R. Shankar Raman is leaving, in the filing's words:** “Consequent to this, Mr. R. Shankar Raman would cease to be the Chief Financial Officer of the Company with effect from close of business hours of June 30, 2026.” Stays on as: President and Whole-time Director – Finance of the Company, re-appointed for a term of 2 years w.e.f. October 1, 2026 up to and including September 30, 2028, subject to shareholders' approval.
-- In the documents: “Further, based on the recommendations of the Audit Committee and Nomination & Remuneration Committee, the Board of Directors of the Company, have approved the appointment of Mr. P. Ramakrishnan (ICAI Membership No. ACA055919), Senior Vice President - Corporate Accounts, Taxation and Investor Relations, as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from July 1, 2026.” — [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026170641_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026171629_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026172324_LTResultMarch2026.pdf) · +1 more
+- **Why R. Shankar Raman is leaving, in the filing's words:** “Cessation as Chief Financial Officer effective 30 June 2026.” Stays on as: President and Whole-time Director – Finance (re-appointed for a term of 2 years w.e.f. October 1, 2026 up to and including September 30, 2028, subject to shareholders' approval).
+- In the documents: “Further, based on the recommendations of the Audit Committee and Nomination & Remuneration Committee, the Board of Directors of the Company, have approved the appointment of Mr. P. Ramakrishnan (ICAI Membership No. ACA055919), Senior Vice President - Corporate Accounts, Taxation and Investor Relations , as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from July 1, 2026.” — [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026170641_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026171629_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026172324_LTResultMarch2026.pdf) · +1 more
 
 *All 9 filing(s) read for the seats:* [2026-08-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/PAM_04082026194655_OutcomeNCLTConvenedMeeting04082026_1.pdf) · [2026-08-04 Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/PAM_04082026195008_OutcomeNCLTConvenedMeeting04082026_1.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026170641_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026171629_LTResultMarch2026.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PAM_05052026172324_LTResultMarch2026.pdf) · [2026-05-05 General Updates](https://nsearchives.nseindia.com/corporate/PAM_05052026174311_LTResultMarch2026.pdf) · +3 more
 
@@ -61,8 +61,6 @@ When they took the seat is not in the documents or annual reports on file, so no
 ### 4. Track record — the incoming management
 
 **P. Ramakrishnan** — Chief Financial Officer. from: internal; qualifications: ICAI Membership No. ACA055919.
-
-The filing's own profile: “Mr. P. Ramakrishnan (ICAI Membership No. ACA055919), Senior Vice President - Corporate Accounts, Taxation and Investor Relations, as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from July 1, 2026.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

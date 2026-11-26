@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman & Managing Director (outgoing); Managing Director (incoming)** | Ashish Ramesh Saraf (resignation; last day 2026-11-12) | Deep Saraf (promoter family; from 2026-11-12) | effective | 2026-11-12 |
+| **Chairman & Managing Director (outgoing) / Managing Director (incoming)** | Ashish Ramesh Saraf (resignation; last day 2026-11-12) | Deep Saraf (promoter family; from 2026-11-12) | effective | 2026-11-12 |
 
-- **Why Ashish Ramesh Saraf is leaving, in the filing's words:** “consequent to his resignation and in the interest of continuity of management” Stays on as: President - Strategic Planning and Business Development (Senior Management Personnel).
+- **Why Ashish Ramesh Saraf is leaving, in the filing's words:** “Cessation from the office of Chairman & Managing Director of the Company and redesignation as President - Strategic Planning and Business Development (Senior Management Personnel) of the Company.” Stays on as: President - Strategic Planning and Business Development (Senior Management Personnel).
 - In the documents: “Based on the recommendation of Nomination and Remuneration Committee, the Board has approved the appointment of Mr. Deep Saraf (DIN: 00183529) as Managing Director of the Company for a period of 5 (Five) years from November 12, 2026 to November 11, 2031 (both days inclusive), subject to approval of the members of the Company.” — [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193412_SignedFinaloutcome.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193916_SignedFinaloutcome.pdf) · [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · +1 more
 
 *All 9 filing(s) read for the seats:* [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193412_SignedFinaloutcome.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026193916_SignedFinaloutcome.pdf) · [2026-11-12 Resignation](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026200843_SignedFinaloutcome.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201023_SignedFinaloutcome.pdf) · [2026-11-12 Change in Director(s)](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201114_SignedFinaloutcome.pdf) · [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/MANORAMA_12112026201236_SignedFinaloutcome.pdf) · +3 more
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Ashish Ramesh Saraf** — Chairman & Managing Director (outgoing); Managing Director (incoming), in the seat since FY2025 per the annual reports on file.
+**Ashish Ramesh Saraf** — Chairman & Managing Director (outgoing) / Managing Director (incoming), in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it; the statements on file start later than the tenure):
 
@@ -59,9 +59,13 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Deep Saraf** — Chairman & Managing Director (outgoing); Managing Director (incoming). from: promoter family; experience: over two decades of experience.
+**Deep Saraf** — Chairman & Managing Director (outgoing) / Managing Director (incoming). from: promoter family; experience: over two decades.
 
 The filing's own profile: “Mr. Deep Saraf has been associated with the Company since its inception and possesses over two decades of experience in manufacturing operations, business management and strategic leadership. He has been instrumental in the Company's capacity expansion, operational excellence, product development and business growth.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| associated with the Company since its inception | Manorama Industries Limited (MANORAMA) | — | — |
 
 ### 5. On the calls
 

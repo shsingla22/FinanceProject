@@ -63,8 +63,8 @@ The filing's own profile: “Smt. B. Santhi Latha, Chartered Accountant, has bee
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| General Manager (Finance & Accounts) | Avanti Feeds Limited (AVANTIFEED) | 2020 | — |
-| Risk & Compliance Department established under her leadership | Avanti Feeds Limited (AVANTIFEED) | 2011 | — |
+| General Manager (Finance & Accounts) | Avanti Feeds Limited (AVANTIFEED) | 2020 | 2026 |
+| Head of the Risk & Compliance Department | Avanti Feeds Limited (AVANTIFEED) | 2011 | — |
 
 ### 5. On the calls
 

@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Kapish Jain (moved to another role in the company or group; last day 2026-06-26) | Vikas Jain (external; from 2026-06-27) | effective | 2026-06-27 |
 
-- **Why Kapish Jain is leaving, in the filing's words:** “Stepping down from the position of Chief Financial Officer and transitioning into another role within the Company.” Stays on as: another role within the Company (not specified).
+- **Why Kapish Jain is leaving, in the filing's words:** “Stepping down from the position of Chief Financial Officer and transitioning into another role within the Company.” Stays on as: another role within the Company.
 - In the documents: “Based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee of the Board of Directors, appointment of Mr. Vikas Jain as Chief Financial Officer and Key Managerial Personnel of the Company, effective June 27, 2026.” — [2026-06-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFL_27062026135829_Outcome_27062026.pdf) · [2026-06-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFL_27062026140439_Outcome_27062026.pdf) · [2026-06-27 Cessation](https://nsearchives.nseindia.com/corporate/IIFL_27062026140453_Outcome_27062026.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-06-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFL_27062026135829_Outcome_27062026.pdf) · [2026-06-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFL_27062026140439_Outcome_27062026.pdf) · [2026-06-27 Cessation](https://nsearchives.nseindia.com/corporate/IIFL_27062026140453_Outcome_27062026.pdf) · [2026-06-27 Appointment](https://nsearchives.nseindia.com/corporate/IIFL_27062026140512_Outcome_27062026.pdf) · [2026-01-22 Press Release](https://nsearchives.nseindia.com/corporate/IIFL_22012026142615_SEIntimation.pdf)
@@ -53,7 +53,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vikas Jain** — Chief Financial Officer. from: external; experience: over 20 years of experience in finance, treasury and audit; qualifications: Chartered Accountant and certified CISA, CISM, and PMP professional.
+**Vikas Jain** — Chief Financial Officer. from: external; experience: over 20 years; qualifications: Chartered Accountant and certified CISA, CISM, and PMP professional.
 
 The filing's own profile: “Mr. Vikas Jain is a Chartered Accountant and certified CISA, CISM, and PMP professional with over 20 years of experience in finance, treasury and audit. He has served as Chief Financial Officer of Hinduja Leyland Finance, where he led large-scale treasury operations, diversified fund raising including External Commercial Borrowing and Securitisation transactions and facilitated a credit rating upgradation. He has previously also worked with Bajaj Finance, Bajaj Housing Finance, and PwC, and overall brings strong expertise in fund raising, AUM growth, finance transformation, and compliance across financial services.”
 

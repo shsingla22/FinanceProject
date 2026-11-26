@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Managing Director** | Angan Guha (resignation; last day 2026-12-07) | Madhavan Hariharan (group company; from 2026-12-08) | announced, not yet effective | 2026-11-06 |
+| **Chief Executive Officer and Managing Director ("CEO and MD")** | Angan Guha (resignation; last day 2026-12-07) | Madhavan Hariharan (group company; from 2026-12-08) | announced, not yet effective | 2026-11-06 |
 
-- **Why Angan Guha is leaving, in the filing's words:** “I am hereby resigning from the post of Managing Director and CEO due to personal reasons.”
-- In the documents: “Madhavan succeeds Angan Guha , who led the company through an important phase of its evolution and growth.” — [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BSOFT_06112026181237_SEIntimationsigned.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BSOFT_ROID_104160_KMP_Doc.zip) · [2026-11-06 Press Release](https://nsearchives.nseindia.com/corporate/BSOFT_06112026183311_SEIntimationPR.pdf) · +1 more
+- **Why Angan Guha is leaving, in the filing's words:** “I am hereby resigning from the post of Managing Director and CEO due to personal reasons. I will abide by the terms and condition of my employment contract.”
+- In the documents: “Birlasoft Ltd [BSE: 532400, NSE: BSOFT], part of the multibillion-dollar CKA Birla Group today announced the appointment of Madhavan Hariharan as its Chief Executive Officer and Managing Director, effective 8th December 2026.” — [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BSOFT_06112026181237_SEIntimationsigned.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BSOFT_ROID_104160_KMP_Doc.zip) · [2026-11-06 Press Release](https://nsearchives.nseindia.com/corporate/BSOFT_06112026183311_SEIntimationPR.pdf) · +1 more
 
 *All 11 filing(s) read for the seats:* [2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BSOFT_06112026181237_SEIntimationsigned.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BSOFT_ROID_104160_KMP_Doc.zip) · [2026-11-06 Press Release](https://nsearchives.nseindia.com/corporate/BSOFT_06112026183311_SEIntimationPR.pdf) · [2026-09-11 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BSOFT_ROID_98331_KMP_Doc.zip) · [2026-09-11 Cessation](https://nsearchives.nseindia.com/corporate/BSOFT_11092026180327_SEIntimationSMPResignation.pdf) · [2026-04-02 Press Release](https://nsearchives.nseindia.com/corporate/BSOFT_02042026112719_SEIntimationPR.pdf) · +5 more
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Angan Guha** — Chief Executive Officer and Managing Director, in the seat since FY2026 per the annual reports on file.
+**Angan Guha** — Chief Executive Officer and Managing Director ("CEO and MD"), in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -57,7 +57,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Madhavan Hariharan** — Chief Executive Officer and Managing Director. from: group company; qualifications: He holds a Bachelor of Commerce degree from Vivekananda College, Chennai (1986), and is a qualified Chartered Accountant (ICAI, 1989), Company Secretary (ICSI, 2004) and Certified Information Systems Auditor (ISACA, USA, 2004). He has also completed the Mobilizing Non-Profit Boards programme at Harvard University (2016) and various executive development programmes, including at Wharton and IIM-D..
+**Madhavan Hariharan** — Chief Executive Officer and Managing Director ("CEO and MD"). from: group company; qualifications: He holds a Bachelor of Commerce degree from Vivekananda College, Chennai (1986), and is a qualified Chartered Accountant (ICAI, 1989), Company Secretary (ICSI, 2004) and Certified Information Systems Auditor (ISACA, USA, 2004). He has also completed the Mobilizing Non-Profit Boards programme at Harvard University (2016) and various executive development programmes, including at Wharton and IIM-D..
 
 The filing's own profile: “Mr. Madhavan Hariharan is a seasoned professional with extensive international experience in finance, strategy and governance, with a strong focus on institution building and talent development. Since January 2018, he has been associated with the CKA Birla Group, New Delhi, as Group CFO & Head of Strategy, with responsibility for group strategy, finance, governance and risk management across the Group's businesses in India, Europe and the USA, comprising four listed companies, five unlisted companies and multiple non-profit institutions. Prior to joining the CKA Birla Group, he held various leadership roles with Ashok Leyland, PepsiCo, Tata SIA and Royal Philips, Netherlands.”
 

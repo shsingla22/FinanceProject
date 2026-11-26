@@ -11,9 +11,9 @@
 | **Managing Director & Chief Executive Officer** | Parmod Sagar (resignation; last day 2026-06-30) | Pankaj Malhan (external; from 2026-07-01) | effective | 2026-06-30 |
 | **Chief Financial Officer and Chief Investor Relations Officer** | Azim Syed (moved to another role in the company or group; last day 2026-12-31) | Abhishek Bajaj (group company; from 2027-01-01) | announced, not yet effective | 2026-11-13 |
 
-- **Why Parmod Sagar is leaving, in the filing's words:** “Personal Reasons” Stays on as: Chairman of the Company (Non-Executive Non-Independent Director, Chairperson) with effect from 1 July 2026.
+- **Why Parmod Sagar is leaving, in the filing's words:** “I hereby tender my resignation from the position of Managing Director & Chief Executive Officer of RHI Mangesita India Limited [the "Company"], with effect from end of 30 June 2026, due to personal reasons.” Stays on as: Chairman of the Company (change in designation from Executive Director to Non-Executive Director; Non-Executive Chairman with effect from 1 July 2026).
 - In the documents: “Mr. Pankaj Malhan (DIN: 08516185) has been appointed as Managing Director & Chief Executive Officer of the Company with effect from 1July 2026.” — [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RHIM_29092026143410_20260929OutcomeofAGM.pdf) · [2026-06-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RHIM_30062026192852_merged_ocred.pdf) · [2026-06-30 Press Release](https://nsearchives.nseindia.com/corporate/RHIM_30062026194207_PR.pdf) · +1 more
-- **Why Azim Syed is leaving, in the filing's words:** “consequent upon to continue a senior leadership role within another group company of the RHI Magnesita Group.” Stays on as: a senior leadership role within another group company of the RHI Magnesita Group; "transitioning into a Senior Leadership role effective 1st January 2027 for global role at RHI Magnesita, Vienna".
+- **Why Azim Syed is leaving, in the filing's words:** “consequent upon to continue a senior leadership role within another group company of the RHI Magnesita Group.” Stays on as: Senior Leadership role effective 1st January 2027 for global role at RHI Magnesita, Vienna.
 - In the documents: “Appointment of Mr. Abhishek Bajaj as Chief Financial Officer and Chief Investor Relations Officer of the Company with effect from 1 January 2027.” — [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RHIM_13112026175630_Outcome.pdf) · [2026-11-13 Resignation](https://nsearchives.nseindia.in/corporate/RHIM_13112026180912_Outcome.pdf) · [2026-11-13 Change in Management](https://nsearchives.nseindia.in/corporate/RHIM_13112026181326_Outcome.pdf) · +1 more
 
 *All 11 filing(s) read for the seats:* [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RHIM_13112026175630_Outcome.pdf) · [2026-11-13 Resignation](https://nsearchives.nseindia.in/corporate/RHIM_13112026180912_Outcome.pdf) · [2026-11-13 Change in Management](https://nsearchives.nseindia.in/corporate/RHIM_13112026181326_Outcome.pdf) · [2026-11-13 Integrated Filing- Financial](https://nsearchives.nseindia.in/corporate/RHIM_13112026183745_Outcome.pdf) · [2026-11-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/RHIM_ROID_104797_KMP_Doc.zip) · [2026-11-13 Press Release](https://nsearchives.nseindia.in/corporate/RHIM_13112026185528_Press_Release.pdf) · +5 more
@@ -82,9 +82,9 @@ The filing's own profile: “Mr. Pankaj Malhan brings three decades of distingui
 |---|---|---|---|
 | Executive Director-Odisha | Jindal Steel (JINDALSTEL) | — | — |
 | leading the Sales and Marketing function | Jindal Steel (JINDALSTEL) | — | — |
-| served on the Board | JSW Steel Coated Products Limited | — | — |
-| served on the Board | ESL Steel Limited | — | — |
-| served on the Board | Ferro Alloys Corporation Limited | — | — |
+| Board member | JSW Steel Coated Products Limited | — | — |
+| Board member | ESL Steel Limited | — | — |
+| Board member | Ferro Alloys Corporation Limited | — | — |
 
 **Abhishek Bajaj** — Chief Financial Officer and Chief Investor Relations Officer. from: group company; experience: over two decades of diversified experience; qualifications: He is a Fellow Member of the Institute of Chartered Accountants of India (FCA) and holds a Bachelor of Commerce (Honours) degree from the University of Delhi..
 
@@ -94,9 +94,9 @@ The filing's own profile: “Abhishek Bajaj is an accomplished finance executive
 |---|---|---|---|
 | Chief Financial Officer (currently serves) | RHI Magnesita India Refractories Limited | — | — |
 | Head of Finance and FP&A for the India Region | RHI Magnesita Group | — | — |
-| senior finance leadership positions | Dalmia Bharat Refractories Limited | — | — |
-| senior finance leadership positions | Eli Global | — | — |
-| leading audit and assurance engagements for listed and multinational organizations across diverse industries | KPMG India | — | — |
+| senior finance leadership position | Dalmia Bharat Refractories Limited | — | — |
+| senior finance leadership position | Eli Global | — | — |
+| leading audit and assurance engagements | KPMG India | — | — |
 
 ### 5. On the calls
 

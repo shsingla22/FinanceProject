@@ -24,10 +24,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (“CFO”)** | Nitin Jajodia (moved to another role in the company or group) | Rohit Saraogi (external) | announced, not yet effective | 2026-08-14 |
+| **Chief Financial Officer ("CFO")** | Nitin Jajodia (moved to another role in the company or group) | Rohit Saraogi (external) | announced, not yet effective | 2026-08-14 |
 
-- **Why Nitin Jajodia is leaving, in the filing's words:** “will, upon recommendation of the Nomination and Remuneration Committee and the Audit Committee, move to an operating/business role as Chief Commercial Officer (“CCO”)” Stays on as: Chief Commercial Officer (“CCO”).
-- In the documents: “Mr. Nitin Jajodia, the current CFO and Key Managerial Personnel (“KMP”) of the Company, will, upon recommendation of the Nomination and Remuneration Committee and the Audit Committee, move to an operating/business role as Chief Commercial Officer (“CCO”). Concurrently, Mr. Rohit Saraogi will assume charge as CFO and KMP of the Company, subject to receipt of such other approvals as may be necessary.” — [2026-08-14 Change in Management](https://nsearchives.nseindia.com/corporate/9823522970_14082026170850_SEIntimationOutcomeVCSM14082026.pdf)
+- **Why Nitin Jajodia is leaving, in the filing's words:** “will, upon recommendation of the Nomination and Remuneration Committee and the Audit Committee, move to an operating/business role as Chief Commercial Officer ("CCO")” Stays on as: Chief Commercial Officer ("CCO").
+- In the documents: “Concurrently, Mr. Rohit Saraogi will assume charge as CFO and KMP of the Company, subject to receipt of such other approvals as may be necessary.” — [2026-08-14 Change in Management](https://nsearchives.nseindia.com/corporate/9823522970_14082026170850_SEIntimationOutcomeVCSM14082026.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-08-14 Change in Management](https://nsearchives.nseindia.com/corporate/9823522970_14082026170850_SEIntimationOutcomeVCSM14082026.pdf)
 
@@ -59,7 +59,7 @@
 
 **General Atlantic Singapore RR Pte. Ltd.** (private-equity sponsor) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 35.79% → 27.34%.
 
-**Nitin Jajodia** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
+**Nitin Jajodia** — Chief Financial Officer ("CFO"), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -75,7 +75,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rohit Saraogi** — Chief Financial Officer (“CFO”). from: external; experience: over 24 years; qualifications: A qualified Chartered Accountant and Company Secretary.
+**Rohit Saraogi** — Chief Financial Officer ("CFO"). from: external; experience: over 24 years; qualifications: A qualified Chartered Accountant and Company Secretary.
 
 The filing's own profile: “Mr. Rohit Saraogi is a passionate financial professional with over 24 years of experience spanning leading multinational corporations and Indian promoter led enterprises, including Vini Cosmetics, S H Kelkar & Co, Bajaj Consumer Care, Diageo, Marico, Reckitt Benckiser, and Coca Cola. A qualified Chartered Accountant and Company Secretary, he brings expertise across commercial and business finance, cross border M&A, capital allocation, global treasury, investor relations, and large-scale digital finance transformations in both FMCG/B2C and B2B sectors.”
 

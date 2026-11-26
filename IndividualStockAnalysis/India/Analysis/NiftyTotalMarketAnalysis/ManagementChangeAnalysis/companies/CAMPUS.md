@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) & Key Managerial Personnel (KMP)** | Sanjay Chhabra (resignation; last day 2026-07-07) | Rakesh Thakur (external; from 2026-08-17) | effective | 2026-06-12 |
+| **Chief Financial Officer (CFO)** | Sanjay Chhabra (resignation; last day 2026-07-07) | Rakesh Thakur (external; from 2026-08-17) | effective | 2026-06-12 |
 
 - **Why Sanjay Chhabra is leaving, in the filing's words:** “Due to personal reasons”
-- In the documents: “Pursuant to Regulation 30 of SEBI (Listing Regulations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations"), we wish to inform you that Mr. Sanjay Chhabra, Chief Financial Officer (CFO) and Key Managerial Personnel of Campus Activewear Limited ("the company"), has tendered his resignation which will be effective from the close of business hours of 7th July, 2026.” — [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · [2026-06-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CAMPUS_ROID_89864_KMP_Doc.zip) · +1 more
+- In the documents: “Mr. Sanjay Chhabra, Chief Financial Officer (CFO) and Key Managerial Personnel of Campus Activewear Limited ("the company"), has tendered his resignation which will be effective from the close of business hours of 7th July, 2026.” — [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · [2026-06-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CAMPUS_ROID_89864_KMP_Doc.zip) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-08-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143014_BM_Outcome_1708.pdf) · [2026-08-17 Appointment](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026143412_BM_Outcome_1708.pdf) · [2026-08-17 Updates](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_17082026144605_BM_Outcome_1708.pdf) · [2026-06-12 Resignation](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_12062026163931_changeinmanagementcfosigned.pdf) · [2026-06-12 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CAMPUS_ROID_89864_KMP_Doc.zip) · [2026-05-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_25052026144751_outcome.pdf) · +1 more
 
@@ -41,13 +41,13 @@
 
 ### 3. Track record — the outgoing management
 
-**Sanjay Chhabra** — Chief Financial Officer (CFO) & Key Managerial Personnel (KMP), in the seat since FY2024 per the annual reports on file.
+**Sanjay Chhabra** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
 ### 4. Track record — the incoming management
 
-**Rakesh Thakur** — Chief Financial Officer (CFO) & Key Managerial Personnel (KMP). from: external; age 49 years; experience: over 22 years of professional experience; qualifications: a Chartered Accountant; Commerce graduate from the University of Delhi and a qualified Chartered Accountant.
+**Rakesh Thakur** — Chief Financial Officer (CFO). from: external; age 49 years; experience: over 22 years; qualifications: Chartered Accountant; Commerce graduate from the University of Delhi.
 
 The filing's own profile: “Mr. Rakesh Thakur, aged 49 years, is a Chartered Accountant with over 22 years of professional experience across leading consumer and multinational organisations. Prior to joining Campus Activewear Limited, he served as the Group Chief Financial Officer of Imagine Marketing Limited (boAt), where he worked closely with the founders, CEO, Board and leadership team and played a key role in driving the Company's financial and strategic agenda. During his tenure, he contributed to profitable growth, improvement in EBITDA, strengthening of cash and working capital management, enhancement of governance and strengthening organization for its public market journey”
 

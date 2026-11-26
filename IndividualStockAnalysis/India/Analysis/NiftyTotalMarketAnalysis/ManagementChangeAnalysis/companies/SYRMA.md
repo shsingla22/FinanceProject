@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | Satendra Singh (moved to another role in the company or group; last day 2026-06-26) | Jaidit Singh Brar (external; from 2026-06-26) | effective | 2026-06-26 |
+| **Chief Executive Officer** | Satendra Singh (moved to another role in the company or group; last day 2026-06-26) | Jaidit Singh Brar (external; from 2026-06-29) | effective | 2026-06-26 |
 
 - **Why Satendra Singh is leaving, in the filing's words:** “Mr. Satendra Singh, Chief Executive Officer of the Company is moving into a new role of Senior Operating Director.” Stays on as: Senior Operating Director.
-- In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Board of Directors of the Company at its meeting held today i.e. June 26, 2026 on recommendation of the Nomination and Remuneration Committee has appointed Mr. Jaidit Singh Brar, as the Chief Executive Officer of the Company.” — [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYRMASGS_29072026164710_PressRelease29072026Signed.pdf) · [2026-06-26 Change in Management](https://nsearchives.nseindia.com/corporate/SYRMASGS_26062026190657_SEDisclosureCEO260626.pdf)
+- In the documents: “The Board appointed Mr. Jaidit Singh Brar as the Chief Executive Officer of Syrma SGS, effective June 26, 2026.” — [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYRMASGS_29072026164710_PressRelease29072026Signed.pdf) · [2026-06-26 Change in Management](https://nsearchives.nseindia.com/corporate/SYRMASGS_26062026190657_SEDisclosureCEO260626.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-07-29 Press Release](https://nsearchives.nseindia.com/corporate/SYRMASGS_29072026164710_PressRelease29072026Signed.pdf) · [2026-06-26 Change in Management](https://nsearchives.nseindia.com/corporate/SYRMASGS_26062026190657_SEDisclosureCEO260626.pdf)
 
@@ -63,7 +63,7 @@ The filing's own profile: “Mr. Jaidit is an MBA from IIM Calcutta and Ex-Senio
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| senior partner | McKinsey & Company | — | — |
+| Senior Partner | McKinsey & Company | — | — |
 | Independent Director | Exide Industries (EXIDEIND) | — | — |
 | Independent Director | Tenneco Clean Air (TENNIND) | — | — |
 

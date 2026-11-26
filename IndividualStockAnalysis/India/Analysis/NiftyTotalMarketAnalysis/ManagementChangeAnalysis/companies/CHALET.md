@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Managing Director and CEO** | Sanjay Sethi (end of term; last day 2026-01-31) | Shwetank Singh (internal; from 2026-02-01) | effective | 2025-12-11 |
 
-- **Why Sanjay Sethi is leaving, in the filing's words:** “completed his term as Managing Director and CEO of the Company and retired from the services of the Company” Stays on as: Non-Independent Non-Executive Director of the Company with effect from February 1, 2026.
-- In the documents: “Dr. Sanjay Sethi has today i.e. on January 31, 2026 completed his term as Managing Director and CEO of the Company and retired from the services of the Company.” — [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · +1 more
+- **Why Sanjay Sethi is leaving, in the filing's words:** “Dr. Sanjay Sethi has today i.e. on January 31, 2026 completed his term as Managing Director and CEO of the Company and retired from the services of the Company.” Stays on as: Non-Independent Non-Executive Director of the Company with effect from February 1, 2026.
+- In the documents: “appointment of Mr. Shwetank Singh as Managing Director and CEO of the Company with effect from February 1, 2026.” — [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025144540_OutcomeBoardMeeting11122025.pdf)
+*All 7 filing(s) read for the seats:* [2026-08-25 Updates](https://nsearchives.nseindia.com/corporate/CHALET_25082026110800_ATHIVAPulseBrandChange25082026.pdf) · [2026-04-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_24042026114602_Regulation30_DisclosureSeasons.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/CHALET_24042026115819_Regulation30_DisclosureSeasons.pdf) · [2026-01-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CHALET_31012026193214_Reg30AppointmentSuperannuation31012026.pdf) · [2025-12-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CHALET_31122025183507_Reg30PostalBallotNotice30012026.pdf) · [2025-12-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHALET_11122025143758_OutcomeBoardMeeting11122025.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -57,15 +57,15 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Shwetank Singh** — Managing Director and CEO. from: internal; experience: around 26 years of experience; qualifications: B.Tech from IIT and MBA - Finance & Marketing from Faculty of Management Studies (FMS).
+**Shwetank Singh** — Managing Director and CEO. from: internal; experience: around 26 years; qualifications: B.Tech from IIT and MBA - Finance & Marketing from Faculty of Management Studies (FMS).
 
 The filing's own profile: “Shwetank is B.Tech from IIT and MBA - Finance & Marketing from Faculty of Management Studies (FMS) with around 26 years of experience. He was Head of Business with Golden Sands LLC, Dubai, prior to joining Chalet Hotels Limited in August 2023 as its Chief Growth & Strategy Officer.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director | Chalet Hotels Limited (CHALET) | — | — |
-| Chief Growth & Strategy Officer | Chalet Hotels Limited (CHALET) | 2023 | — |
 | Head of Business | Golden Sands LLC, Dubai | — | 2023 |
+| Chief Growth & Strategy Officer | Chalet Hotels Limited (CHALET) | 2023 | — |
+| Executive Director | Chalet Hotels Limited (CHALET) | — | 2026 |
 
 ### 5. On the calls
 

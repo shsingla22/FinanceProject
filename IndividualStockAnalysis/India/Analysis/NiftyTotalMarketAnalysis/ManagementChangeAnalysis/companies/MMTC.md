@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Finance)** | — (new seat) | Kundan Kumar Mishra (government appointee; from 2026-08-03) | effective | 2026-08-07 |
+| **Director (Finance) and Chief Financial Officer (CFO)** | — (new seat) | Kundan Kumar Mishra (government appointee; from 2026-08-03) | effective | 2026-08-07 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “We would like to in timate you that Shri Kundan Kumar Mishra ( DIN 11865137 ), pursuant to office order No. A-12022/9/2016 -E-IV dated 28.06 .2026, of Department of Commerce, Ministry of Commerce & Industry, Govt. of India, has been appointed as Director (Finance) on the Board of MMTC Limited.” — [2026-09-17 General Updates](https://nsearchives.nseindia.com/corporate/ajaymisra_17092026170159_AGMPSD.pdf) · [2026-08-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ajaymisra_24082026131157_NOTICEFILINGF.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ajaymisra_07082026142555_KKMFILINGsd.pdf) · +1 more
+- In the documents: “We would like to intimate you that Shri Kundan Kumar Mishra (DIN 11865137), pursuant to office order No. A-12022/9/2016 -E-IV dated 28.06.2026, of Department of Commerce, Ministry of Commerce & Industry, Govt. of India, has been appointed as Director (Finance) on the Board of MMTC Limited.” — [2026-09-17 General Updates](https://nsearchives.nseindia.com/corporate/ajaymisra_17092026170159_AGMPSD.pdf) · [2026-08-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ajaymisra_24082026131157_NOTICEFILINGF.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ajaymisra_07082026142555_KKMFILINGsd.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-09-17 General Updates](https://nsearchives.nseindia.com/corporate/ajaymisra_17092026170159_AGMPSD.pdf) · [2026-08-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ajaymisra_24082026131157_NOTICEFILINGF.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ajaymisra_07082026142555_KKMFILINGsd.pdf) · [2026-08-07 Appointment](https://nsearchives.nseindia.com/corporate/ajaymisra_07082026145527_final.pdf)
 
@@ -45,7 +45,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Kundan Kumar Mishra** — Director (Finance). from: government appointee; age 54 years; experience: 28 years and counting; qualifications: a graduate in Chemistry. He is also a Fellow Member of Cost & Works Accountant.
+**Kundan Kumar Mishra** — Director (Finance) and Chief Financial Officer (CFO). from: government appointee; age 54 years; experience: 28 years and counting; qualifications: a graduate in Chemistry. He is also a Fellow Member of Cost & Works Accountant.
 
 The filing's own profile: “Shri Kundan Kumar Mishra, aged 54 years, is a graduate in Chemistry. He is also a Fellow Member of Cost & Works Accountant. He has an experience of 28 years and counting. He has held the position of AGM (Business Development). Also, worked at CMHQ RANCHI. He has also worked as DGM/CFO at KBUNL which is a subsidiary of NTPC. Apart from this, he has held various positions where he played a vital role in strengthening the organization's Strategic Financial Planning, Negotiation with Stakeholders. Overall, he was also Monitoring and controlling the total operations and Maintenance of Budget and Capital Budget & recently he has been appointed as Director (Finance) in MMTC Limited.”
 

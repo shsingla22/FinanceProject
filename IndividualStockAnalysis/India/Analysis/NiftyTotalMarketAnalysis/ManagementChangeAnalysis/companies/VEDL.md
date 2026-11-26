@@ -2,9 +2,23 @@
 
 ## VEDL — Vedanta Ltd.
 
-**CEO / MD change**
+**Large stake change, same controller · CEO / MD change**
 
 ### 1. What is changing
+
+**Ownership — Large stake change, same controller.** Promoter entity Twin Star Holdings Ltd sold 65,072,990 shares in the June 2026 quarter, cutting its stake from 40.02% to 38.35%; promoter group fell 56.38% to 54.72% (Ankit Agarwal also sold out of 36,300 shares). Same promoter group retains majority control.
+
+| | Who | Kind | Stake before | Stake after |
+|---|---|---|---|---|
+| Outgoing | Twin Star Holdings Ltd (part of the Promoter and Promoter Group of Vedanta Limited); Mr. Ankit Agarwal (Promoter Group) | corporate parent | 56.38% (promoter & promoter group); TSHL 40.02% | 54.72% (promoter & promoter group); TSHL 38.35% |
+| Incoming | — | — | — | — |
+
+- control does not change
+- Dates: other 2026-06-30; other 2026-09-30
+- In the documents: “During the Quarter ended June 30, 2026, Twin Star Holdings Ltd (TSHL) (part of the Promoter and Promoter Group of Vedanta Limited) has sold 65,072,990 equity shares.”
+
+**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 56.38% (2025-09-30) → 56.38% (2025-12-31) → 56.38% (2026-03-31) → 54.72% (2026-06-30) → 54.72% (2026-09-30)
+**Reg 29 disclosures in the window:** promoters sold 0.0% and bought 0.0%; outside acquirers at 10% or more: GLAS Agency (Hong Kong) Limited (as security trustee for the holders of the Bonds) 54.72% (2026-07-16); Citicorp International Limited (as trustee for the holders of the Bonds) 51.93% (2026-09-28); GLAS Agency (Hong Kong) Limited (as trustee and security agent for the holders of the Tap Bonds) 54.72% (2026-09-28).
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
@@ -38,25 +52,37 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/VEDL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹264.50 on 2026-07-29 (the close before) → ₹259.68 on 2026-11-13: **-1.8%**; Nifty 500 +1.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹284.55 on 2026-06-29 (the close before) → ₹259.68 on 2026-11-13: **-8.7%**; Nifty 500 +3.2% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-No outgoing person or owner is named (a new seat, or the documents do not say).
+**Twin Star Holdings Ltd (part of the Promoter and Promoter Group of Vedanta Limited); Mr. Ankit Agarwal (Promoter Group)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 56.38% (promoter & promoter group); TSHL 40.02% → 54.72% (promoter & promoter group); TSHL 38.35%.
 
 ### 4. Track record — the incoming management
 
-**Arun Misra** — Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: a formidable 35 years of rich and diverse experience in Tata Steel; qualifications: After graduating with a bachelor's degree in electrical engineering from IIT, Kharagpur, Mr. Misra took a Diploma in Mining and Beneficiation from the University of New South Wales Sydney, and another Diploma in General Management from CEDEP, France..
+**Arun Misra** — Executive Director and additionally designated him as Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: 35 years of rich and diverse experience in Tata Steel; qualifications: After graduating with a bachelor's degree in electrical engineering from IIT, Kharagpur, Mr. Misra took a Diploma in Mining and Beneficiation from the University of New South Wales Sydney, and another Diploma in General Management from CEDEP, France.
 
-The filing's own profile: “Mr. Arun Misra was appointed as an Executive Director w.e.f. August 01, 2023. Mr. Misra has also been the CEO of Hindustan Zinc Limited ("HZL"), a subsidiary of the Company, overseeing the operations and growth of HZL. Mr. Misra was appointed as Deputy CEO, HZL on November 20, 2019 and was elevated to CEO & WTD, HZL with effect from August 01, 2020 till July 31, 2026. He is the 1st ever Indian Chairperson of the International Zinc Association. He is also the Vice President of the Indian Institute of Mineral Engineers. He is also present Vice Chairman of CII, Rajasthan.”
+The filing's own profile: “Mr. Arun Misra was appointed as an Executive Director w.e.f. August 01, 2023. Mr. Misra has also been the CEO of Hindustan Zinc Limited ("HZL"), a subsidiary of the Company, overseeing the operations and growth of HZL. Mr. Misra was appointed as Deputy CEO, HZL on November 20, 2019 and was elevated to CEO & WTD, HZL with effect from August 01, 2020 till July 31, 2026. He is the 1st ever Indian Chairperson of the International Zinc Association. He is also the Vice President of the Indian Institute of Mineral Engineers. He is also present Vice Chairman of CII, Rajasthan. Mr. Misra was awarded 'CEO of the Year' in the Business Leader of the Year awards.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director | Vedanta Limited (VEDL) | 2023 | — |
-| CEO & WTD | Hindustan Zinc Limited ("HZL"), a subsidiary of the Company | 2020 | 2026 |
+| CEO & WTD | Hindustan Zinc Limited (HINDZINC) | 2020 | 2026 |
 | Deputy CEO | Hindustan Zinc Limited (HINDZINC) | 2019 | 2020 |
 | Vice President - Raw Materials Division | Tata Steel (TATASTEEL) | — | — |
 | Maintenance Head (Electrical), West Bokaro Coal Washery | Tata Steel (TATASTEEL) | 1988 | — |
+
+Results of **Hindustan Zinc Limited** while they were CEO & WTD there (the filing's profile):
+
+| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 22,629 | 40,844 | +12.5% a year over 5 years |
+| Operating profit (₹ cr) | 11,672 | 22,080 | +13.6% a year over 5 years |
+| PAT (₹ cr) | 7,980 | 13,832 | +11.6% a year over 5 years |
+| Operating profit margin (%) | 51.6 | 54.1 | +2.5 pts |
+| ROCE (%) | 37.0 | — | — |
+| ROE (%) | 24.7 | 61.1 | +36.4 pts |
+| Borrowings (₹ cr) | 7,201 | 8,728 | +1,527 |
 
 ### 5. On the calls
 

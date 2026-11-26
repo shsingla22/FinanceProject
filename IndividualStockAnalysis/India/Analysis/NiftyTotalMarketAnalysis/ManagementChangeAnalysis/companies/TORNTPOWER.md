@@ -11,7 +11,7 @@
 | **Chief Financial Officer & Whole Time Key Managerial Personnel** | Saurabh Mashruwala (retirement; last day 2026-08-20) | Vikas Poddar (external; from 2026-08-21) | effective | 2026-08-20 |
 
 - **Why Saurabh Mashruwala is leaving, in the filing's words:** “due to planned retirement” Stays on as: ED till smooth transition.
-- In the documents: “Accepted the resignation tendered by Saurabh Mashruwala from the position of Chief Financial Officer and Whole Time Key Managerial Personnel of the Company w.e.f. close of business hours of August 20, 2026 due to planned retirement.” — [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026180815_Outcome.pdf) · [2026-08-20 Resignation](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026181245_Outcome.pdf) · [2026-08-20 Appointment](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026181448_Outcome.pdf) · +1 more
+- In the documents: “Approved the appointment of Vikas Poddar as Chief Financial Officer & Whole Time Key Managerial Personnel and Senior Management Personnel of the Company w.e.f. August 21, 2026.” — [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026180815_Outcome.pdf) · [2026-08-20 Resignation](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026181245_Outcome.pdf) · [2026-08-20 Appointment](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026181448_Outcome.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026180815_Outcome.pdf) · [2026-08-20 Resignation](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026181245_Outcome.pdf) · [2026-08-20 Appointment](https://nsearchives.nseindia.com/corporate/TORNTPOWER_20082026181448_Outcome.pdf) · [2026-08-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TORNTPOWER_ROID_96822_KMP_Doc.zip) · [2026-08-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TORNTPOWER_ROID_96824_KMP_Doc.zip)
 
@@ -57,7 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vikas Poddar** — Chief Financial Officer & Whole Time Key Managerial Personnel. from: external; experience: over 27 years of experience; qualifications: MBA from the National University of Singapore and is a Chartered Accountant.
+**Vikas Poddar** — Chief Financial Officer & Whole Time Key Managerial Personnel. from: external; experience: over 27 years; qualifications: MBA from the National University of Singapore and is a Chartered Accountant.
 
 The filing's own profile: “Vikas Poddar is an MBA from the National University of Singapore and is a Chartered Accountant with over 27 years of experience. Prior to joining the Company, he was the Chief Financial Officer at Indus Towers, an Indian telecommunications infrastructure company with revenue of over USD 3.5B and listed on the stock exchanges. He progressed through various finance leadership roles at Vodafone, including Head of FP&A and Decision Support in India and Regional Finance Controller and Finance Director in the UK, contributing to strategic planning, digital transformation, and financial performance improvements. Prior to Vodafone, he held finance management positions at ITC Limited.”
 

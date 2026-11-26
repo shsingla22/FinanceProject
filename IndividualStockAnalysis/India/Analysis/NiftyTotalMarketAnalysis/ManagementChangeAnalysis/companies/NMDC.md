@@ -8,13 +8,14 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **additional charge of the post of Director (Finance), NMDC Limited** | — (new seat) | Amitava Mukherjee (interim; internal; from 2025-12-06) | effective | 2026-01-28 |
-| **Director (Finance) ... deemed to be Chief Financial Officer (CFO) and Key Managerial Person (KMP)** | G Anupama (interim holder replaced; last day 2026-03-31) | Anurag Kapil (government appointee; from 2026-03-31) | effective | 2026-03-18 |
+| **Director (Finance), NMDC Limited (additional charge)** | — (new seat) | Amitava Mukherjee (interim; internal; from 2025-12-06) | effective | 2026-01-28 |
+| **Director (Finance) / deemed Chief Financial Officer (CFO) and Key Managerial Person (KMP)** | G Anupama (interim holder replaced; last day 2026-03-31) | Anurag Kapil (government appointee; from 2026-03-31) | effective | 2026-03-18 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “It is hereby informed that Ministry of Steel, Government of India vide Order No. S-14013/1/2024-BLA-Part(1) dated 27.01.2026 has communicated that the additional charge of the post of Director (Finance), NMDC Limited is assigned to Shri Amitava Mukherjee, Chairman and Managing Director (CMD), NMDC Limited for an initial period of 03 months w.e.f. 06.12.2025 upto 05.03.2026, or until further orders, whichever is earlier.” — [2026-03-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_31032026133701_20260331_SEA2025089_ChangeInDirectorate_DFin.pdf) · [2026-03-19 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_19032026233729_20260319_SEA2025086_ChangeInDirectorate_DPers.pdf) · [2026-01-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_28012026134512_20260128_SEA2025070_DFIN.pdf)
 - **Why G Anupama is leaving, in the filing's words:** “till assumption of Charge of Whole Time Director (Finance) by new incumbent or till further order whichever is earlier” Stays on as: Chief General Manager (Finance).
-- In the documents: “Accordingly, Smt. G Anupama, Chief General Manager (Finance) has ceased to be CFO and KMP of the Company w.e.f. 31.03.2026 (A/N).” — [2026-03-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_31032026133701_20260331_SEA2025089_ChangeInDirectorate_DFin.pdf) · [2026-03-31 Change in Management](https://nsearchives.nseindia.com/corporate/NMDC_31032026233234_20260331_SEA2025090_ChangeInManagement_CFO.pdf) · [2026-03-18 General Updates](https://nsearchives.nseindia.com/corporate/NMDC_18032026183329_20260318_SEA2025085_DFinInti.pdf)
+- In the documents: “Accordingly, Shri Anurag Kapil shall be deemed to be Chief Financial Officer (CFO) and Key Managerial Person (KMP) of the Company w.e.f. 31st March 2026 (A/N) for a period of five (5) years or until further orders, whichever is earlier.” — [2026-03-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_31032026133701_20260331_SEA2025089_ChangeInDirectorate_DFin.pdf) · [2026-03-31 Change in Management](https://nsearchives.nseindia.com/corporate/NMDC_31032026233234_20260331_SEA2025090_ChangeInManagement_CFO.pdf) · [2026-03-18 General Updates](https://nsearchives.nseindia.com/corporate/NMDC_18032026183329_20260318_SEA2025085_DFinInti.pdf)
+  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 5 filing(s) read for the seats:* [2026-03-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_31032026133701_20260331_SEA2025089_ChangeInDirectorate_DFin.pdf) · [2026-03-31 Change in Management](https://nsearchives.nseindia.com/corporate/NMDC_31032026233234_20260331_SEA2025090_ChangeInManagement_CFO.pdf) · [2026-03-19 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_19032026233729_20260319_SEA2025086_ChangeInDirectorate_DPers.pdf) · [2026-03-18 General Updates](https://nsearchives.nseindia.com/corporate/NMDC_18032026183329_20260318_SEA2025085_DFinInti.pdf) · [2026-01-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/NMDC_28012026134512_20260128_SEA2025070_DFIN.pdf)
 
@@ -44,7 +45,7 @@
 
 ### 3. Track record — the outgoing management
 
-**G Anupama** — Director (Finance) ... deemed to be Chief Financial Officer (CFO) and Key Managerial Person (KMP), in the seat since FY2026 per the filing.
+**G Anupama** — Director (Finance) / deemed Chief Financial Officer (CFO) and Key Managerial Person (KMP), in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -60,7 +61,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Amitava Mukherjee** — additional charge of the post of Director (Finance), NMDC Limited (interim). from: internal.
+**Amitava Mukherjee** — Director (Finance), NMDC Limited (additional charge) (interim). from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -78,16 +79,16 @@ Results of **NMDC Steel Ltd.** while they were Chairman there (annual reports on
 | ROE (%) | 0.0 | -18.1 | -18.1 pts |
 | Borrowings (₹ cr) | 3,842 | 5,909 | +2,067 |
 
-**Anurag Kapil** — Director (Finance) ... deemed to be Chief Financial Officer (CFO) and Key Managerial Person (KMP). from: government appointee; experience: versatile experience of 26 years in Indian Railways and CPSUs; qualifications: Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.
+**Anurag Kapil** — Director (Finance) / deemed Chief Financial Officer (CFO) and Key Managerial Person (KMP). from: government appointee; experience: 26 years; qualifications: Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.
 
-The filing's own profile: “Shri Anurag Kapil, an Indian Railway Accounts Service (IRAS) officer of the 1998 batch, brings over 26 years of diverse experience across Indian Railways and Central Public Sector Undertakings. An alumnus of Hans Raj College and Faculty of Management Studies, University of Delhi, with a Master's in Public Affairs from the University of Minnesota, USA, he combines strong academic credentials with rich professional expertise. He has held key positions including FA&CAO, Deputy Chief Vigilance Officer, Director in the Ministry of Coal and Executive Director Finance (Expenditure) in the Railway Board.”
+The filing's own profile: “Shri Anurag Kapil, an officer of Indian Railway Accounts Service (IRAS) of 1998 Batch, has a versatile experience of 26 years in Indian Railways and CPSUs with a blend of operational expertise & strategic vision to drive transformative changes across critical sectors. He is Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA. He has worked in various capacities in Indian Railways viz. 2 tenures of Sr. DFM, FA&CAO/Traffic, FA&CAO/Finance & General and Deputy Chief Vigilance Officer.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Sr. DFM (2 tenures), FA&CAO/Traffic, FA&CAO/Finance & General and Deputy Chief Vigilance Officer | Indian Railways | — | — |
+| Executive Director Finance (Expenditure) | Railway Board, Ministry of Railways | — | — |
+| Director (Finance) (Additional Charge) | Container Corporation of India (CONCOR) | — | — |
 | Director | Ministry of Coal | 2013 | 2017 |
-| Executive Director Finance (Expenditure) | Railway Board | — | — |
-| Director (Finance) (Additional Charge) | CONCOR | — | — |
+| Sr. DFM, FA&CAO/Traffic, FA&CAO/Finance & General and Deputy Chief Vigilance Officer | Indian Railways | — | — |
 
 ### 5. On the calls
 

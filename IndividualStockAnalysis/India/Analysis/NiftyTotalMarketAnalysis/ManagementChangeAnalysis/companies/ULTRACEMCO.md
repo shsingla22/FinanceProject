@@ -68,7 +68,6 @@ The filing's own profile: “Mr. Jayant Dua is a seasoned leader with 37 years o
 | Cement Business – functional and business leadership roles | Aditya Birla Group | 1996 | — |
 | multiple P&L and CEO responsibilities across Insulators, Insurance, Century Cement and Chlor-Alkali | Aditya Birla Group | — | — |
 | Business Head – Renewables and Textiles | Aditya Birla Group | 2023 | — |
-| Managing Director (Designate) and Senior Management Personnel | UltraTech Cement Limited (ULTRACEMCO) | 2026 | — |
 
 ### 5. On the calls
 

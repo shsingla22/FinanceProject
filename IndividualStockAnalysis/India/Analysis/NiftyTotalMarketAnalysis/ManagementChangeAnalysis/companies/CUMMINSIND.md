@@ -11,7 +11,7 @@
 | **Managing Director** | Shveta Arya (resignation; last day 2026-08-31) | Adegbile Adedapo Adewunmi (group company; from 2026-11-01) | effective | 2026-08-05 |
 
 - **Why Shveta Arya is leaving, in the filing's words:** “has resigned as Managing Director, Director and Key Managerial Personnel of the Company to pursue external opportunities”
-- In the documents: “Ms. Arya vide letter dated August 05, 2026, has resigned as Managing Director, Director and Key Managerial Personnel of the Company to pursue external opportunities.” — [2026-10-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026181305_SEintimationBM08102026.pdf) · [2026-10-08 Appointment](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026182130_SEintimationBM08102026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CILINDIA_05082026165940_SEintimationOutcome05082026FINAL.pdf) · +1 more
+- In the documents: “Mr. Adegbile Adedapo Adewunmi (DIN: 11962843) has been appointed as an Additional Director and Managing Director of the Company with effect from November 01, 2026.” — [2026-10-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026181305_SEintimationBM08102026.pdf) · [2026-10-08 Appointment](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026182130_SEintimationBM08102026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CILINDIA_05082026165940_SEintimationOutcome05082026FINAL.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-10-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026181305_SEintimationBM08102026.pdf) · [2026-10-08 Appointment](https://nsearchives.nseindia.com/corporate/CUMMINSIND_08102026182130_SEintimationBM08102026.pdf) · [2026-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CILINDIA_05082026165940_SEintimationOutcome05082026FINAL.pdf) · [2026-08-05 Resignation](https://nsearchives.nseindia.com/corporate/CILINDIA_05082026170532_SEintimationOutcome05082026FINAL.pdf)
 
@@ -63,11 +63,11 @@ The filing's own profile: “Gbile is results-oriented global executive with ove
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Vice President, Power Systems Industrial Markets business (named Corporate Officer in 2024) | Cummins (CUMMINSIND) | — | — |
+| Vice President, leads the $2.5 billion Power Systems Industrial Markets business; named Corporate Officer in 2024 | Cummins (CUMMINSIND) | — | — |
 | Executive Director of Strategy for the Power Systems business | Cummins (CUMMINSIND) | — | — |
 | Director of Global Parts Product Management | Cummins (CUMMINSIND) | — | — |
-| Managing Director of the North and West Africa Distribution business | Cummins (CUMMINSIND) | — | — |
-| engineer, advancing connected vehicle technologies | Delphi Electronics | — | — |
+| Managing Director | Cummins North and West Africa Distribution business | — | — |
+| engineer | Delphi Electronics | — | — |
 | investment banking, executing M&A and IPOs in the technology and telecom sectors | Credit Suisse | — | — |
 
 ### 5. On the calls

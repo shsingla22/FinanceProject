@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Managing Director** | Chetan Shah (end of term; last day 2026-08-31) | Suresh Ramachandran (internal; from 2026-09-01) | effective | 2026-05-26 |
 
-- **Why Chetan Shah is leaving, in the filing's words:** “Mr. Chetan Shah, presently Managing Director whose tenure as MD concludes on 31st August, 2026” Stays on as: Non-Executive Non-Independent Director of the Company with effect from 01 September 2026, and advisor (advisory fees, commission and sitting fees approved for 01 September 2026 to 31 August 2027).
-- In the documents: “At the Meeting of the Board of Directors of the Company held today i.e. on 26th May, 2026, the Board has decided to promote Dr. Suresh Ramachandran, Deputy Managing Director of the Company , to the position of Managing Director of the Company with effect from 1st September, 2026.” — [2026-07-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_03072026104513_Final_Revised_Notice.pdf) · [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_02072026155450_Notice_of_26th_AGM_FINAL.pdf) · [2026-06-30 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_30062026112824_Notice_of_26th_AGM_FINAL.pdf) · +1 more
+- **Why Chetan Shah is leaving, in the filing's words:** “Mr. Chetan Shah , presently Managing Director whose tenure as MD concludes on 31st August , 2026” Stays on as: Non-Executive Non-Independent Director with effect from 01 September 2026, also paid advisory fees for functioning as director and advisor.
+- In the documents: “At the Meeting of the Board of Directors of the Company held today i.e. on 26th May, 2026, the Board has decided to promote Dr. Suresh Ramachandran, Deputy Managing Director of the Company , to the position of Managing Director of the Company with effect from 1st September, 2026 .” — [2026-07-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_03072026104513_Final_Revised_Notice.pdf) · [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_02072026155450_Notice_of_26th_AGM_FINAL.pdf) · [2026-06-30 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_30062026112824_Notice_of_26th_AGM_FINAL.pdf) · +1 more
   > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
 
 *All 5 filing(s) read for the seats:* [2026-07-27 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_27072026164742_AGM_Proceedings_2025_26_signed.pdf) · [2026-07-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_03072026104513_Final_Revised_Notice.pdf) · [2026-07-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_02072026155450_Notice_of_26th_AGM_FINAL.pdf) · [2026-06-30 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SUMICHEM_30062026112824_Notice_of_26th_AGM_FINAL.pdf) · [2026-05-26 Change in Management](https://nsearchives.nseindia.com/corporate/SUMICHEM_26052026171907_Promotion_of_DSR_signed.pdf)
@@ -62,15 +62,15 @@ The company's results over the part of the tenure the reports on file cover:
 
 **Suresh Ramachandran** — Managing Director. from: internal; age 57; experience: over 28 years' experience in the crop protection industry; qualifications: B. Sc. (Agriculture) and M. Sc. (Agriculture) from Tamil Nadu Agricultural University, Coimbatore. He holds degree of Ph. D in entomology from University of Georgia, USA..
 
-The filing's own profile: “Dr. Suresh Ramachandran (57) has done his B. Sc. (Agriculture) and M. Sc. (Agriculture) from Tamil Nadu Agricultural University, Coimbatore. He holds degree of Ph. D in entomology from University of Georgia, USA. Dr. Ramachandran is a versatile, qualified techno-commercial and business professional with experience in leading business teams. He has over 28 years' experience in the crop protection industry and has held various business roles apart from roles in R&D for developing and launching new technologies, and regulatory affairs in crop protection and seeds platforms. He has track record of leadership, resilience, management, technical and entrepreneurial skills.”
+The filing's own profile: “Dr. Suresh Ramachandran (5 7) has done his B. Sc. (Agriculture) and M. Sc. (Agriculture) from Tamil Nadu Agricultural University, Coimba tore. He holds degree of Ph. D in entomology from University of Georgia, USA. Dr. Ramachandran is a versatile, qualified techno -commercial and business professional with experience in leading business teams. He has over 2 8 years' experience in the crop protection industry and has held various business roles apart from roles in R&D for developing and launching new technologies, and regulatory affairs in crop protection and seeds platforms. In past, Dr. Ramachandran has held various managerial and leadership positions in Dow AgroSciences India and Indofil Industries Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Deputy Managing Director | Sumitomo Chemical India Limited (SUMICHEM) | 2024 | 2026 |
-| Whole-time Director | Sumitomo Chemical India Limited (SUMICHEM) | 2023 | 2024 |
-| Chief Commercial Officer | Sumitomo Chemical India Limited (SUMICHEM) | 2021 | 2023 |
 | various managerial and leadership positions | Dow AgroSciences India | — | — |
 | various managerial and leadership positions | Indofil Industries Limited | — | — |
+| Chief Commercial Officer | Sumitomo Chemical India Limited (SUMICHEM) | 2021 | — |
+| Whole-time Director | Sumitomo Chemical India Limited (SUMICHEM) | 2023 | — |
+| Deputy Managing Director | Sumitomo Chemical India Limited (SUMICHEM) | 2024 | 2026 |
 
 ### 5. On the calls
 

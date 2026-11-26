@@ -11,12 +11,12 @@
 | **Chief Financial Officer (CFO) of the Bank** | Avinash Vasant Prabhu (resignation; last day 2026-01-31) | Dhirendra Jain (internal; from 2026-02-01) | effective | 2026-01-28 |
 | **Managing Director and CEO of the Bank** | — (new seat) | Asheesh Pandey | effective | 2026-07-10 |
 
-- **Why Avinash Vasant Prabhu is leaving, in the filing's words:** “Resignation of CA Avinash Vasant Prabhu as the CFO (to be relieved on January 31, 2026) and appointment of CA Dhirendra Jain as the new CFO.”
-- In the documents: “In terms of Regulation 30 and Regulation 51 read with Point No. 7 of Para A of Part A of Schedule III of the SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015, we wish to inform that CA Dhirendra Jain, has been appointed as the Chief Financial Officer (CFO) of the Bank vice CA Avinash Vasant Prabhu.” — [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026201513_28012026_CFO.pdf) · [2026-01-28 Cessation](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026202323_28012026_CFO.pdf)
+- **Why Avinash Vasant Prabhu is leaving, in the filing's words:** “Resignation of CA Avinash Vasant Prabhu as the CFO (to be relieved on January 31, 2026)”
+- In the documents: “we wish to inform that CA Dhirendra Jain, has been appointed as the Chief Financial Officer (CFO) of the Bank vice CA Avinash Vasant Prabhu.” — [2026-04-01 Change in Management](https://nsearchives.nseindia.com/corporate/UNIONBANK_01042026162741_01042026_Elevation_to_CGM.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026201513_28012026_CFO.pdf) · [2026-01-28 Cessation](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026202323_28012026_CFO.pdf)
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Appointment of Shri Asheesh Pandey (DIN: 09295107) as Managing Director and CEO of the Bank.” — [2026-07-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/UNIONBANK_10072026232139_SE_Proceedings.pdf)
 
-*All 3 filing(s) read for the seats:* [2026-07-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/UNIONBANK_10072026232139_SE_Proceedings.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026201513_28012026_CFO.pdf) · [2026-01-28 Cessation](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026202323_28012026_CFO.pdf)
+*All 4 filing(s) read for the seats:* [2026-07-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/UNIONBANK_10072026232139_SE_Proceedings.pdf) · [2026-04-01 Change in Management](https://nsearchives.nseindia.com/corporate/UNIONBANK_01042026162741_01042026_Elevation_to_CGM.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026201513_28012026_CFO.pdf) · [2026-01-28 Cessation](https://nsearchives.nseindia.com/corporate/UNIONBANK_28012026202323_28012026_CFO.pdf)
 
 ### 2. Financials — the last three years
 
@@ -54,13 +54,13 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Dhirendra Jain** — Chief Financial Officer (CFO) of the Bank. from: internal; age 51 years; experience: more than 28 years of experience; qualifications: is a Chartered Accountant and a seasoned Finance Professional with more than 28 years of experience. He is also a Post Graduate in Commerce and Certified Associate from Indian Institute of Bankers (CAIIB)..
+**Dhirendra Jain** — Chief Financial Officer (CFO) of the Bank. from: internal; age 51 years; experience: more than 28 years of experience; qualifications: Chartered Accountant; Post Graduate in Commerce and Certified Associate from Indian Institute of Bankers (CAIIB).
 
 The filing's own profile: “CA Dhirendra Jain, aged 51 years, is a Chartered Accountant and a seasoned Finance Professional with more than 28 years of experience. He is currently working as the General Manager – Finance and Accounts and has rich banking experience of Credit – Large Corporate, as a Regional Head as well as Zonal Head of the Bank. He is also a Post Graduate in Commerce and Certified Associate from Indian Institute of Bankers (CAIIB).”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| General Manager – Finance and Accounts | Union Bank of India (UNIONBANK) | — | — |
+| General Manager – Finance and Accounts | Union Bank of India (UNIONBANK) | — | 2026 |
 | Regional Head as well as Zonal Head of the Bank | Union Bank of India (UNIONBANK) | — | — |
 
 **Asheesh Pandey** — Managing Director and CEO of the Bank.

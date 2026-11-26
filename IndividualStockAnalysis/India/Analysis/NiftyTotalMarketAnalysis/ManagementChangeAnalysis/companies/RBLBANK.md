@@ -27,12 +27,12 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Financial Officer** | Buvanesh Tharashankar (resignation; last day 2025-12-15) | Deepak Ruiya (interim; internal; from 2025-12-30) | effective | 2025-12-15 |
-| **Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”)** | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 |
+| **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Deepak Ruiya (interim holder replaced; last day 2026-06-12) | Bhavin Lakhpatwala (external; from 2026-06-12) | effective | 2026-06-12 |
 
 - **Why Buvanesh Tharashankar is leaving, in the filing's words:** “has tendered his resignation in order to pursue opportunities outside the Bank”
-- In the documents: “Resignation of Mr. Buvanesh Tharashankar as Chief Financial Officer of the Bank with effect from the close of business hours on December 15, 2025 , in order to pursue opportunities outside the Bank.” — [2025-12-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152518_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152957_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Management](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025153312_OutcomeofBMandOtherDisclosure30122025.pdf) · +1 more
+- In the documents: “Pursuant to Regulation 30, Schedule III, Part A, Para A (7) and other applicable provisions of the SEBI Listing Regulations, as amended, we hereby inform you that Mr. Buvanesh Tharashankar, Chief Financial Officer, being Key Managerial Personnel and part of the Senior Management of RBL Bank Limited ("the Bank") has tendered his resignation in order to pursue opportunities outside the Bank.” — [2025-12-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152518_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025152957_OutcomeofBMandOtherDisclosure30122025.pdf) · [2025-12-30 Change in Management](https://nsearchives.nseindia.com/corporate/RBLBANK_30122025153312_OutcomeofBMandOtherDisclosure30122025.pdf) · +1 more
 - **Why Deepak Ruiya is leaving, in the filing's words:** “Consequent to the appointment of Mr. Bhavin Lakhpatwala as CFO & KMP of the Bank, Mr. Deepak Ruiya shall cease to be the KMP of the Bank and shall continue as the Deputy CFO of the Bank.” Stays on as: Deputy CFO of the Bank.
-- In the documents: “the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ( “CFO ”) and Key Managerial Personnel (“KMP”) of the Bank with effect from June 12, 2026.” — [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · +1 more
+- In the documents: “Pursuant to the applicable provisions of the SEBI Listing Regulations, we wish to inform you that basis the recommendations of the Audit Committee and Nomination and Remuneration Committee of the Board, the Board of Directors of the Bank at its meeting held today i.e. on June 12, 2026, approved the appointment of Mr. Bhavin Lakhpatwala as the Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Bank with effect from June 12, 2026.” — [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · +1 more
 
 *All 14 filing(s) read for the seats:* [2026-06-12 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026194146_ChangeinManagement120626Signed.pdf) · [2026-06-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_12062026195417_SEBIIntimation120626Signed.pdf) · [2026-06-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026185647_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-06-05 Appointment](https://nsearchives.nseindia.com/corporate/RBLBANK_05062026190241_BMOutcomeJune052026AppointmentofIDSigned.pdf) · [2026-05-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_04052026192140_EGMProceedingsMay42026Signed.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RBLBANK_25042026133558_BoardMeetingOutcome_Q4FY25_26Signed.pdf) · +8 more
 
@@ -72,7 +72,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | -11.7 | -20.3 | -8.6 pts |
 | ROE (%) | 4.7 | 4.6 | -0.1 pts |
 
-**Deepak Ruiya** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”), in the seat since FY2026 per the filing.
+**Deepak Ruiya** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -90,25 +90,26 @@ The company's results while they held the seat (the year before they took it, to
 
 What the documents say about them: “"EMIRATES NBD BANK (P.J.S.C.), a public joint stock company, incorporated under the laws of Dubai, United Arab Emirates", registered office Baniyas Street, Deira, Dubai. It carries on banking in India through "its network of 3 (three) branches in Mumbai, Chennai and Gurugram". Management described it on the October 2025 call as "the second largest bank in the UAE, and a leading financial group in the MENAT region" investing "approximately US $3 billion through a preferential issue... to acquire a 60% stake in RBL". Entitled to exercise voting rights only up to 26% under Section 12(2) of the Banking Regulation Act, 1949.”
 
-**Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years in the banking and financial services sector; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
+**Deepak Ruiya** — Chief Financial Officer (interim). from: internal; experience: over 22 years; qualifications: He is a qualified Chartered Accountant, FRM, and CFA Level 2..
 
 The filing's own profile: “Mr. Deepak Ruiya is a finance professional, and his career spans over 22 years in the banking and financial services sector. He is a qualified Chartered Accountant, FRM, and CFA Level 2. He started his career at BSE as a management trainee and later joined ICICI Lombard, where he managed financial operations. He then moved to Barclays Bank, where he spent 9+ years and was last designated as Vice President – Finance (Corporate & Investment Bank). He joined RBL Bank in 2014 and is currently Deputy Chief Financial Officer.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| management trainee | BSE | — | — |
-| managed financial operations | ICICI Lombard | — | — |
+| Deputy Chief Financial Officer | RBL Bank Limited (RBLBANK) | 2023 | — |
+| joined RBL Bank in 2014 | RBL Bank Limited (RBLBANK) | 2014 | — |
 | Vice President – Finance (Corporate & Investment Bank) | Barclays Bank | — | — |
-| Deputy Chief Financial Officer | RBL Bank (RBLBANK) | 2023 | — |
+| managed financial operations | ICICI Lombard | — | — |
+| management trainee | BSE | — | — |
 
-**Bhavin Lakhpatwala** — Chief Financial Officer (“CFO”) and Key Managerial Personnel (“KMP”). from: external; experience: over twenty-five years of experience; qualifications: He is a Chartered Accountant with a strong track record in building and strengthening finance functions..
+**Bhavin Lakhpatwala** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). from: external; experience: over twenty-five years; qualifications: He is a Chartered Accountant.
 
-The filing's own profile: “Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty -five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank –HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO’s office.”
+The filing's own profile: “Mr. Bhavin Lakhpatwala is a seasoned finance leader with over twenty-five years of experience across financial control, business finance, investor relations, and strategic initiatives. In his recent role at HDFC Bank, he was part of the CFO leadership team, driving strategy and playing a key role in significant initiatives, including the HDFC Bank–HDFC Limited merger. He is a Chartered Accountant with a strong track record in building and strengthening finance functions. He has spent over twenty years at HDFC and has been part of the senior management team in the CFO's office.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | part of the CFO leadership team | HDFC Bank (HDFCBANK) | — | — |
-| part of the senior management team in the CFO’s office | HDFC | — | — |
+| part of the senior management team in the CFO's office | HDFC | — | — |
 
 ### 5. On the calls
 

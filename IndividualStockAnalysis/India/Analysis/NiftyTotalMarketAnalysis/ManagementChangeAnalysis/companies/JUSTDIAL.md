@@ -8,11 +8,11 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer** | V.S.S. Mani (end of term; last day 2026-07-31) | Dinkar Ayilavarapu (external; from 2026-08-01) | effective | 2026-07-10 |
+| **Chief Executive Officer (designate) / Chief Executive Officer; outgoing holder designated 'Managing Director and Chief Executive Officer'** | V.S.S. Mani (end of term; last day 2026-07-31) | Dinkar Ayilavarapu (external; from 2026-08-01) | effective | 2026-07-10 |
 | **Chief Financial Officer and Key Managerial Personnel** | Abhishek Bansal (resignation; last day 2026-04-15) | Dinesh Taluja (internal; from 2026-07-11) | effective | 2026-04-13 |
 
 - **Why V.S.S. Mani is leaving, in the filing's words:** “Mr. V.S.S. Mani completes his term as the Managing Director and Chief Executive Officer of the Company on July 31, 2026.”
-- In the documents: “Approved the appointment of Mr. Dinkar Ayilavarapu as Chief Executive Officer (designate) and Key Managerial Personnel of the Company w.e.f. July 10, 2026.” — [2026-07-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/chintan_10072026223347_Outcome_sd.pdf) · [2026-07-10 Change in Management](https://nsearchives.nseindia.com/corporate/chintan_10072026225634_Outcome_sd.pdf) · [2026-07-10 Resignation](https://nsearchives.nseindia.com/corporate/chintan_10072026231019_Outcome_sd.pdf) · +1 more
+- In the documents: “Approved the appointment of Mr. Dinkar Ayilavarapu as Chief Executive Officer (designate) and Key Managerial Personnel of the Company w.e.f. July 10, 2026. He shall take over as Chief Executive Officer and Key Managerial Personnel of the Company effective August 1, 2026.” — [2026-07-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/chintan_10072026223347_Outcome_sd.pdf) · [2026-07-10 Change in Management](https://nsearchives.nseindia.com/corporate/chintan_10072026225634_Outcome_sd.pdf) · [2026-07-10 Resignation](https://nsearchives.nseindia.com/corporate/chintan_10072026231019_Outcome_sd.pdf) · +1 more
 - **Why Abhishek Bansal is leaving, in the filing's words:** “This decision is based on personal career considerations, including my intention to take a short professional break and explore opportunities outside the Company.”
 - In the documents: “Noted the resignation of Mr. Abhishek Bansal as Chief Financial Officer and Key Managerial Personnel w.e.f the close of business hours on April 15, 2026 based on personal career considerations and to explore opportunities outside the Company.” — [2026-07-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/chintan_10072026223347_Outcome_sd.pdf) · [2026-07-10 Change in Management](https://nsearchives.nseindia.com/corporate/chintan_10072026225634_Outcome_sd.pdf) · [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/chintan_13042026205515_Outcome_of_Board_Meeting.pdf) · +1 more
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**V.S.S. Mani** — Managing Director and Chief Executive Officer, date of taking the seat not on file.
+**V.S.S. Mani** — Chief Executive Officer (designate) / Chief Executive Officer; outgoing holder designated 'Managing Director and Chief Executive Officer', date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -74,7 +74,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Dinkar Ayilavarapu** — Managing Director and Chief Executive Officer. from: external; experience: over two decades.
+**Dinkar Ayilavarapu** — Chief Executive Officer (designate) / Chief Executive Officer; outgoing holder designated 'Managing Director and Chief Executive Officer'. from: external; experience: over two decades.
 
 The filing's own profile: “Mr. Dinkar Ayilavarapu is a business leader with over two decades of experience in building, transforming and scaling large enterprises across digital commerce, retail and technology. He has expertise in the areas of P&L Leadership, enterprise transformation and long range strategy. He was previously leading Flipkart Wholesale, an omnichannel B2B business serving more than a million customers across India, focusing on reshaping a legacy business into a digital-first, customer-centric platform balancing commercial performance with technology modernisation, operational discipline and cultural renewal. He was earlier Group Head of Strategy for Flipkart and prior to that, he has 15 years experience at Bain & Company, where he led large-scale transformation, merger and turnaround programs for telecom and technology clients globally.”
 
@@ -82,7 +82,7 @@ The filing's own profile: “Mr. Dinkar Ayilavarapu is a business leader with ov
 |---|---|---|---|
 | leading Flipkart Wholesale, an omnichannel B2B business | Flipkart Wholesale | — | — |
 | Group Head of Strategy | Flipkart | — | — |
-| led large-scale transformation, merger and turnaround programs for telecom and technology clients globally (15 years experience) | Bain & Company | — | — |
+| led large-scale transformation, merger and turnaround programs for telecom and technology clients globally | Bain & Company | — | — |
 
 **Dinesh Taluja** — Chief Financial Officer and Key Managerial Personnel. from: internal; experience: over 20 years; qualifications: B. Tech. from IIT Delhi and MBA from IIM Ahmedabad.
 
@@ -90,13 +90,13 @@ The filing's own profile: “Dinesh Taluja has completed his B. Tech. from IIT D
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Non-Executive Non-Independent Director | Just Dial Limited (JUSTDIAL) | — | 2026 |
+| Chief Financial Officer | Reliance Retail Limited | — | — |
+| Deputy Chief Financial Officer | Reliance Retail Ventures Limited | — | — |
 | — | Credit Suisse | — | — |
 | — | Standard Chartered Bank | — | — |
 | — | McKinsey & Company | — | — |
 | — | Peepul Capital | — | — |
-| Chief Financial Officer | Reliance Retail Limited | — | — |
-| Deputy Chief Financial Officer | Reliance Retail Ventures Limited | — | — |
-| Non - Executive Non -Independent Director | Just Dial Limited (JUSTDIAL) | — | 2026 |
 
 ### 5. On the calls
 

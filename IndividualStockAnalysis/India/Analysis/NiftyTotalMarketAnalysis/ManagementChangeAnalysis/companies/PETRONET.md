@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & CEO** | — (new seat) | Sanjay Kumar (group company; from 2027-05-13) | announced, not yet effective | 2026-10-02 |
+| **Managing Director & CEO of the Company** | — (new seat) | Sanjay Kumar (group company; from 2027-05-13) | announced, not yet effective | 2026-10-02 |
 
-- **Why the holder is leaving, in the filing's words:** “with effect from the date of vacancy i.e. 13th May 2027”
+- **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Pursuant to Regulation 30 of SEBI LODR Regulations, 2015, it is hereby informed that the Board, in its Meeting held on 2nd October 2026, has approved the appointment of Shri Sanjay Kumar (DIN: 08346704), Director (Marketing), GAIL (India) Limited as Managing Director & CEO of the Company with effect from the date of vacancy i.e. 13th May 2027 on the recommendation of Nomination and Remuneration Committee of the Board.” — [2026-10-02 Change in Management](https://nsearchives.nseindia.com/corporate/PETRONET_02102026181613_intimationappointmentsigned21026.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-10-02 Change in Management](https://nsearchives.nseindia.com/corporate/PETRONET_02102026181613_intimationappointmentsigned21026.pdf) · [2026-03-18 Appointment](https://nsearchives.nseindia.com/corporate/PETRONET_18032026202805_intimationappointment_sd.pdf) · [2026-03-02 Change in Director(s)](https://nsearchives.nseindia.com/corporate/PETRONET_02032026104840_SEintimationchangeindirectorsi23.pdf)
@@ -45,7 +45,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Sanjay Kumar** — Managing Director & CEO. from: group company.
+**Sanjay Kumar** — Managing Director & CEO of the Company. from: group company.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

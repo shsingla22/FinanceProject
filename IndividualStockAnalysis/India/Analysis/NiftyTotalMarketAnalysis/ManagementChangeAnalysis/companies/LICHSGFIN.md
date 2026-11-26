@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | T Adhikari (retirement; last day 2026-08-28) | Sandeep Kumar (group company; from 2026-08-29) | effective | 2026-08-28 |
+| **Managing Director and Chief Executive Officer** | T Adhikari (retirement; last day 2026-08-28) | Sandeep Kumar (group company; from 2026-08-29) | effective | 2026-08-28 |
 
 - **Why T Adhikari is leaving, in the filing's words:** “pursuant to his superannuation from the services of LIC of India”
-- In the documents: “Shri T. Adhikari (DIN: 10229197), Managing Director and Chief Executive Officer (CEO) and Key Managerial Personnel (KMP) of the Company, has ceased to be a Director on the Board of LIC Housing Finance Limited with effect from the close of business hours on August 28, 2026, pursuant to his superannuation from the services of LIC of India” — [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_22092026171458_Stock_Exchange_Intimation_Postal_Ballot_Notice.pdf) · [2026-08-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026205304_Outcome_of_Meeting_28th_August2026_.PDF) · [2026-08-28 Cessation](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026210642_Cessation_of_T_Adhikari.PDF) · +1 more
+- In the documents: “The Board of Directors of the Company at its meeting held on Friday, August 28, 2026, has based upon the recommendation of the Nomination and Remuneration Committee, approved appointment of Shri Sandeep Kumar (DIN: 11239285) as the Additional Director and the Managing Director and Chief Executive Officer of the Company with effect from August 29,2026, not liable to retire by rotation.” — [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_22092026171458_Stock_Exchange_Intimation_Postal_Ballot_Notice.pdf) · [2026-08-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026205304_Outcome_of_Meeting_28th_August2026_.PDF) · [2026-08-28 Cessation](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026210642_Cessation_of_T_Adhikari.PDF) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-10-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_23102026182216_Binder1.pdf) · [2026-09-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_22092026171458_Stock_Exchange_Intimation_Postal_Ballot_Notice.pdf) · [2026-08-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026205304_Outcome_of_Meeting_28th_August2026_.PDF) · [2026-08-28 Cessation](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026210642_Cessation_of_T_Adhikari.PDF) · [2026-08-28 Appointment](https://nsearchives.nseindia.com/corporate/LICHSGFIN_28082026211129_Appointment_of_Shri_Sandeep_Kumar.PDF)
 
@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**T Adhikari** — Managing Director & Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
+**T Adhikari** — Managing Director and Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -51,19 +51,20 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Sandeep Kumar** — Managing Director & Chief Executive Officer. from: group company; experience: more than three decades; qualifications: He holds a Master's degree in Mathematics from the University of Delhi..
+**Sandeep Kumar** — Managing Director and Chief Executive Officer. from: group company; experience: more than three decades; qualifications: He holds a Master's degree in Mathematics from the University of Delhi..
 
-The filing's own profile: “Shri Sandeep Kumar commenced his career with Life Insurance Corporation of India in 1991 as a Direct Recruit Officer of the 18th (A) Batch. He holds a Master's degree in Mathematics from the University of Delhi. With a distinguished career spanning more than three decades, Shri Sandeep Kumar has held several key positions across marketing and administrative functions within LIC of India. He began his marketing assignments as Branch Manager in Bikaner Division and subsequently served as Senior Branch Manager and Chief Manager in Delhi Division-II and Vadodara Division.”
+The filing's own profile: “Shri Sandeep Kumar commenced his career with Life Insurance Corporation of India in 1991 as a Direct Recruit Officer of the 18th (A) Batch. He holds a Master's degree in Mathematics from the University of Delhi. With a distinguished career spanning more than three decades, Shri Sandeep Kumar has held several key positions across marketing and administrative functions within LIC of India. He began his marketing assignments as Branch Manager in Bikaner Division and subsequently served as Senior Branch Manager and Chief Manager in Delhi Division-II and Vadodara Division. ... Upon elevation to the Zonal Manager Selection Cadre, he was appointed in 2025 as Director & CEO of LIC HFL Financial Services Limited, Mumbai.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Direct Recruit Officer of the 18th (A) Batch | Life Insurance Corporation of India (LICI) | 1991 | — |
-| Branch Manager | LIC of India, Bikaner Division | — | — |
-| Senior Branch Manager and Chief Manager | LIC of India, Delhi Division-II and Vadodara Division | — | — |
-| Marketing Manager | LIC of India, Nadiad and Ahmedabad Divisions | — | — |
-| Senior Divisional Manager In-charge | LIC of India, Nadiad Division and Delhi-III Division | — | — |
-| Secretary (Marketing), Northern Zone and Chief Personnel | LIC of India, Northern Zone / Central Office | — | — |
 | Director & CEO | LIC HFL Financial Services Limited, Mumbai | 2025 | — |
+| Chief Personnel at the Central Office | Life Insurance Corporation of India (LICI) | — | — |
+| Secretary (Marketing), Northern Zone | Life Insurance Corporation of India (LICI) | — | — |
+| Senior Divisional Manager In-charge, Nadiad Division and Delhi-III Division | Life Insurance Corporation of India (LICI) | — | — |
+| Marketing Manager at Nadiad and Ahmedabad Divisions | Life Insurance Corporation of India (LICI) | — | — |
+| Senior Branch Manager and Chief Manager in Delhi Division-II and Vadodara Division | Life Insurance Corporation of India (LICI) | — | — |
+| Branch Manager in Bikaner Division | Life Insurance Corporation of India (LICI) | — | — |
+| Direct Recruit Officer of the 18th (A) Batch | Life Insurance Corporation of India (LICI) | 1991 | — |
 
 ### 5. On the calls
 

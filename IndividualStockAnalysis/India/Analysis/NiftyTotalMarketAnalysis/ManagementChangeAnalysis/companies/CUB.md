@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & CEO** | N. Kamakodi (end of term; last day 2026-04-30) | R. Vijay Anandh (internal; from 2026-05-01) | effective | 2026-02-09 |
+| **Managing Director & CEO of the Bank** | N. Kamakodi (end of term; last day 2026-04-30) | R. Vijay Anandh (internal; from 2026-05-01) | effective | 2026-02-09 |
 
-- **Why N. Kamakodi is leaving, in the filing's words:** “demitted his office at the close of business hours on April 30, 2026 on account of completion of his 15 years tenure pursuant to the relevant povisions of the Reserve Bank of India (Commercial Banks - Governance) Directions,2O25.”
+- **Why N. Kamakodi is leaving, in the filing's words:** “demitted his office at the close of business hours on April 30, 2026 on account of completion of his 15 years tenure pursuant to the relevant povisions of the Reserve Bank of India (Commercial Banks - Governance) Directions,2O25”
 - In the documents: “We hereby inform that w.e.f today, May 1, 2026, Shri. R. Vrjay Anandh [DIN 09656376] has taken charge as the Managing Director & CEO of the Bank.” — [2026-05-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_01052026133935_CUB_MD_Appointment.pdf) · [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_30042026195919_CUBRetirement.pdf) · [2026-03-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CUB_04032026185116_POSTALBALLOTNOTICEBSE04032026.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-05-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_01052026133935_CUB_MD_Appointment.pdf) · [2026-04-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CUB_30042026195919_CUBRetirement.pdf) · [2026-03-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CUB_04032026185116_POSTALBALLOTNOTICEBSE04032026.pdf) · [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/CUB_09022026192708_CUBRBIApprovalMDCEOSD.pdf)
@@ -37,30 +37,30 @@
 
 ### 3. Track record — the outgoing management
 
-**N. Kamakodi** — Managing Director & CEO, date of taking the seat not on file.
+**N. Kamakodi** — Managing Director & CEO of the Bank, in the seat since FY2012 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it; the statements on file start later than the tenure):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2015 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Revenue (₹ cr) | 4,135 | 6,870 | +10.7% a year over 5 years |
-| Financing profit (₹ cr) | 92.0 | 740 | +51.7% a year over 5 years |
-| PAT (₹ cr) | 593 | 1,326 | +17.5% a year over 5 years |
-| Financing profit margin (%) | 2.2 | 10.8 | +8.6 pts |
-| ROE (%) | 10.1 | 12.6 | +2.5 pts |
+| Revenue (₹ cr) | 2,699 | 6,870 | +8.9% a year over 11 years |
+| Financing profit (₹ cr) | 153 | 740 | +15.4% a year over 11 years |
+| PAT (₹ cr) | 395 | 1,326 | +11.6% a year over 11 years |
+| Financing profit margin (%) | 5.7 | 10.8 | +5.1 pts |
+| ROE (%) | 14.7 | 12.6 | -2.1 pts |
 
 ### 4. Track record — the incoming management
 
-**R. Vijay Anandh** — Managing Director & CEO. from: internal; age 51 years; experience: Retail Banker for the last 28 years; qualifications: B,Sc., Computer Science, MBA.
+**R. Vijay Anandh** — Managing Director & CEO of the Bank. from: internal; age 51 years; experience: Retail Banker for the last 28 years; qualifications: B,Sc., Computer Science, MBA.
 
 The filing's own profile: “Shri. R. Vijay Anandh, qualified as B,Sc., Computer Science, MBA, aged 51 years is a Retail Banker for the last 28 years having worked with Banks and NBFCs with strong focus on Retail Credit Undenruriting / Retail Risk Management (Policy formulation / Fraud Control / Litigation and Debt management) and Retail Business along with strong focus on Agriculture and Micro Finance business development. He has managed most of the consumer retail products (both secured and unsecured). He joined as an Executive President of City Union Bank Limited ICUBI during March 2024 and later in June 2024, he was appointed as the Executive Director of the Bank with all necessary approvals.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director | City Union Bank Limited (CUB) | 2024 | 2026 |
 | Executive President | City Union Bank Limited (CUB) | 2024 | 2024 |
-| Group Executive Vice President & Business Head - Retail Assets (excluding cards) & Collections - Retail Business | RBL Bank (RBLBANK) | 2011 | 2024 |
-| Group Executive Vice President & Chief Credit Officer | RBL Bank (RBLBANK) | — | — |
+| Executive Director | City Union Bank Limited (CUB) | 2024 | 2026 |
+| Group Executive Vice President & Business Head - Retail Assets (excluding cards) & Collections - Retail Business | RBL Bank (RBLBANK) | 2011 | — |
+| Group Executive Vice President & Chief Credit Officer for the Retail businesses viz. MSME, Cards, Rural Lending, Agriculture & Financial Inclusion, AML and Fraud Risk for the Liabilities Portfolio | RBL Bank (RBLBANK) | — | — |
 
 ### 5. On the calls
 

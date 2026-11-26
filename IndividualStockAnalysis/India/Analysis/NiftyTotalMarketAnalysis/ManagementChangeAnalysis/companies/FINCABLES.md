@@ -13,7 +13,7 @@
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Elevation of Mr. Mahesh Viswanathan currently designated as Dy. CEO & Chief Financial Officer (CFO) as Chief Executive Officer ("CEO") of the Company with effect from 1st June 2026.” — [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
-- **Why Mahesh Viswanathan is leaving, in the filing's words:** “Elevation from Dy. CEO & Chief Financial Officer (CFO) to as Chief Executive Officer ("CEO") of the Company” Stays on as: Chief Executive Officer (CEO) of the Company.
+- **Why Mahesh Viswanathan is leaving, in the filing's words:** “Elevation from Dy. CEO & Chief Financial Officer (CFO) to as Chief Executive Officer ("CEO") of the Company” Stays on as: Chief Executive Officer ("CEO") of the Company with effect from 1st June 2026.
 - In the documents: “Appointment of Mr. Sachin Naik as Chief Financial Officer (CFO) of the Company with effect from 1st June 2026.” — [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-05-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026173205_BM_Quick_Results_Signed_final.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026181724_BM_Intimation_Final_signed.pdf) · [2026-05-28 General Updates](https://nsearchives.nseindia.com/corporate/FINCABLES_28052026185207_BMIntimation-_Naik_signed.pdf)
@@ -76,7 +76,7 @@ The filing's own profile: “Mr. Sachin Naik has done B.com, CMA, SAP, ISB. He h
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Financial Officer and Head Legal & secretarial | Shalimar Paints Limited | — | — |
+| Chief Financial Officer and Head Legal & secretarial | Shalimar Paints Limited | — | 2026 |
 | — | Supreme Group | — | — |
 | — | UPL Ltd | — | — |
 | — | Shaw Wallace | — | — |

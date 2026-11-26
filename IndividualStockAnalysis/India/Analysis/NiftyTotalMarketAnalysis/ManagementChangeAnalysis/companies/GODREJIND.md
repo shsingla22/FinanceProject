@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming)** | Nadir Godrej (retirement; last day 2026-08-13) | Pirojsha Godrej (promoter family; from 2026-08-14) | effective | 2026-04-13 |
+| **Chairman and Managing Director (outgoing) / 'Whole Time Director' of the Company, designated as 'Executive Chairperson' (incoming)** | Nadir Godrej (retirement; last day 2026-08-13) | Pirojsha Godrej (promoter family; from 2026-08-14) | effective | 2026-04-13 |
 
-- **Why Nadir Godrej is leaving, in the filing's words:** “I will turn 75 in August 2026, and I would Like to step down from the Board of Godrej Industries Limited.” Stays on as: Chairman Emeritus of the Company with effect from August 14, 2026.
-- In the documents: “Pursuant to the retirement of Nadir Godrej as Chairman and Managing Director of the Company, Pirojsha Godrej will succeed him as a Whole-Time Director designated as "Executive Chairperson" of the Company with effect from August 14, 2026, as a part of a planned generational transition.” — [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Anupama_13042026172937_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/Anupama_13042026173957_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Change in Management](https://nsearchives.nseindia.com/corporate/Anupama_13042026174533_BSENSEGILOUTCOMEAPRIL132026.pdf) · +1 more
+- **Why Nadir Godrej is leaving, in the filing's words:** “I will turn 75 in August 2026, and I would Like to step down from the Board of Godrej Industries Limited.” Stays on as: Chairman Emeritus of the Company with effect from August 14, 2026, along with Mr. Adi Godrej.
+- In the documents: “Pursuant to the retirement of Nadir Godrej as Chair man and Managing Director of the Company, Pirojsha Godrej will succeed him as a Whole -Time Director designated as "Executive Chairperson" of the Company with effect from August 14, 2026, as a part of a planned generational transition.” — [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Anupama_13042026172937_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/Anupama_13042026173957_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Change in Management](https://nsearchives.nseindia.com/corporate/Anupama_13042026174533_BSENSEGILOUTCOMEAPRIL132026.pdf) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-08-13 Appointment](https://nsearchives.nseindia.com/corporate/Anupama_13082026133751_BSENSEOTHERMATTER13082026.pdf) · [2026-05-15 Appointment](https://nsearchives.nseindia.com/corporate/Anupama_15052026175313_BSENSOUTCOMEOTHERMATTERS150502026.pdf) · [2026-05-15 General Updates](https://nsearchives.nseindia.com/corporate/Anupama_15052026180021_BSENSOUTCOMEOTHERMATTERS150502026.pdf) · [2026-04-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Anupama_13042026172937_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Retirement](https://nsearchives.nseindia.com/corporate/Anupama_13042026173957_BSENSEGILOUTCOMEAPRIL132026.pdf) · [2026-04-13 Change in Management](https://nsearchives.nseindia.com/corporate/Anupama_13042026174533_BSENSEGILOUTCOMEAPRIL132026.pdf) · +2 more
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Nadir Godrej** — Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Nadir Godrej** — Chairman and Managing Director (outgoing) / 'Whole Time Director' of the Company, designated as 'Executive Chairperson' (incoming), in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -61,16 +61,16 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Pirojsha Godrej** — Chairman and Managing Director (outgoing) / "Whole Time Director" designated as "Executive Chairperson" (incoming). from: promoter family; qualifications: Pirojsha graduated from the Wharton School of Business, completed a Master's in International Affairs from Columbia University, and earned an MBA from Columbia Business School..
+**Pirojsha Godrej** — Chairman and Managing Director (outgoing) / 'Whole Time Director' of the Company, designated as 'Executive Chairperson' (incoming). from: promoter family; qualifications: Pirojsha graduated from the Wharton School of Business, completed a Master's in International Affairs from Columbia University, and earned an MBA from Columbia Business School..
 
-The filing's own profile: “Pirojsha Godrej is Chairperson Designate of the Godrej Industries Group and serves as Chairperson of Godrej Properties, Godrej Capital, and Godrej Ventures. Prior to taking on leadership at the Godrej Industries Group, Pirojsha led Godrej Properties through a phase of rapid growth culminating in it becoming the largest real estate developer in India by residential sales in FY21, a position it continues to hold. He also founded Godrej Capital and Godrej Ventures. Pirojsha graduated from the Wharton School of Business, completed a Master's in International Affairs from Columbia University, and earned an MBA from Columbia Business School.”
+The filing's own profile: “Pirojsha Godrej is Chairperson Designate of the Godrej Industries Group and serves as Chairperson of Godrej Properties, Godrej Capital, and Godrej Ventures. Under his leadership, the Group continues to build on its legacy with a clear ambition for growth, combining strong performance with a deep commitment to values. He has led Godrej Properties through a phase of rapid growth, culminating in its emergence as India's largest real estate developer by sales in FY21—a position it continues to hold. He also founded Godrej Capital and Godrej Ventures.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chairperson-Designate / Chairperson Designate of the Godrej Industries Group | Godrej Industries Group | 2026 | 2026 |
-| Chairperson; led Godrej Properties through a phase of rapid growth | Godrej Properties (GODREJPROP) | — | — |
-| Chairperson; founder | Godrej Capital | — | — |
-| Chairperson; founder | Godrej Ventures | — | — |
+| Chairperson Designate | Godrej Industries Group | 2026 | 2026 |
+| Chairperson | Godrej Properties (GODREJPROP) | — | — |
+| Chairperson (founder) | Godrej Capital | — | — |
+| Chairperson (founder) | Godrej Ventures | — | — |
 
 ### 5. On the calls
 

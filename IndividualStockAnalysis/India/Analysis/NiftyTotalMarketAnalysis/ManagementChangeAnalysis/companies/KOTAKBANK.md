@@ -52,31 +52,41 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Anup Kumar Saha** — Managing Director & Chief Executive Officer ("Managing Director & CEO"). from: internal; experience: over 32 years of professional experience, of which, 25 years has been in financial services across banking and non–banking financial institutions; qualifications: Mr. Saha has a B. Tech degree in Engineering from IIT Kharagpur and has also completed his MBA from IIM Lucknow..
+**Anup Kumar Saha** — Managing Director & Chief Executive Officer ("Managing Director & CEO"). from: internal; experience: over 32 years of professional experience, of which, 25 years has been in financial services; qualifications: B. Tech degree in Engineering from IIT Kharagpur and has also completed his MBA from IIM Lucknow.
 
-The filing's own profile: “Mr. Anup Kumar Saha, currently Whole-time Director (Executive Director) of the Bank, has over 32 years of professional experience, of which, 25 years has been in financial services across banking and non–banking financial institutions. Mr. Saha joined the Bank in January 2026. In his role as Whole-time Director (Executive Director) of the Bank since March 2026, he oversees the entire Retail Bank, Government Business, Data Analytics and Marketing function.”
+The filing's own profile: “Mr. Anup Kumar Saha, currently Whole-time Director (Executive Director) of the Bank, has over 32 years of professional experience, of which, 25 years has been in financial services across banking and non–banking financial institutions. Mr. Saha joined the Bank in January 2026. In his role as Whole-time Director (Executive Director) of the Bank since March 2026, he oversees the entire Retail Bank, Government Business, Data Analytics and Marketing function. Prior to joining the Bank, Mr. Saha was associated with Bajaj Finance Limited ("BFL") (from October 2017 to January 2026) where he progressively held senior roles, starting as President – Consumer Finance (from October 2017 to March 2019)”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Whole-time Director (Executive Director) | Kotak Mahindra Bank Limited (KOTAKBANK) | 2026 | — |
-| Managing Director & CEO | Bajaj Finance Limited (BAJFINANCE) | April 2025 | July 2025 |
-| Deputy Managing Director | Bajaj Finance Limited (BAJFINANCE) | April 2024 | March 2025 |
-| Executive Director | Bajaj Finance Limited (BAJFINANCE) | April 2023 | March 2024 |
-| Deputy CEO – Consumer, MSME, Marketing, Operations & Service and Digital platform | Bajaj Finance Limited (BAJFINANCE) | April 2019 | March 2022 |
-| President – Consumer Finance | Bajaj Finance Limited (BAJFINANCE) | October 2017 | March 2019 |
-| senior roles, leading Retail Secured Assets, Business Intelligence, Retail and Rural Collections, Credit Cards and Retail Structured Finance | ICICI Bank Limited (ICICIBANK) | May 2003 | June 2017 |
+| Managing Director & CEO | Bajaj Finance Limited (BAJFINANCE) | 2025 | 2025 |
+| Deputy Managing Director | Bajaj Finance Limited (BAJFINANCE) | 2024 | 2025 |
+| Executive Director | Bajaj Finance Limited (BAJFINANCE) | 2023 | 2024 |
+| Deputy CEO – Consumer, MSME, Marketing, Operations & Service and Digital platform | Bajaj Finance Limited (BAJFINANCE) | 2019 | 2022 |
+| President – Consumer Finance | Bajaj Finance Limited (BAJFINANCE) | 2017 | 2019 |
+| senior roles, leading Retail Secured Assets, Business Intelligence, Retail and Rural Collections, Credit Cards and Retail Structured Finance | ICICI Bank Limited (ICICIBANK) | 2003 | 2017 |
 | looking after credit cards, sales and analytics | GE Capital | 1999 | 2003 |
 | production engineering | Bharat Heavy Electricals Limited (BHEL) | 1991 | 1995 |
 
+Results of **Bajaj Finance Limited** while they were Executive Director there (the filing's profile):
+
+| Mar 2023 → Mar 2024 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Revenue (₹ cr) | 41,411 | 54,972 | +32.7% a year over 1 year |
+| Financing profit (₹ cr) | 16,018 | 19,987 | +24.8% a year over 1 year |
+| PAT (₹ cr) | 11,508 | 14,451 | +25.6% a year over 1 year |
+| Financing profit margin (%) | 38.7 | 36.4 | -2.3 pts |
+| ROE (%) | 21.2 | 18.8 | -2.4 pts |
+
 Results of **Bajaj Finance Limited** while they were President – Consumer Finance there (the filing's profile):
 
-| Mar 2017 → Mar 2018 | At the start | At the end | Change |
+| Mar 2017 → Mar 2019 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Revenue (₹ cr) | 9,970 | 12,746 | +27.8% a year over 1 year |
-| Financing profit (₹ cr) | 2,867 | 3,935 | +37.3% a year over 1 year |
-| PAT (₹ cr) | 1,836 | 2,496 | +35.9% a year over 1 year |
-| Financing profit margin (%) | 28.8 | 30.9 | +2.1 pts |
-| ROE (%) | 19.1 | 15.7 | -3.4 pts |
+| Revenue (₹ cr) | 9,970 | 18,487 | +36.2% a year over 2 years |
+| Financing profit (₹ cr) | 2,867 | 6,310 | +48.4% a year over 2 years |
+| PAT (₹ cr) | 1,836 | 3,995 | +47.5% a year over 2 years |
+| Financing profit margin (%) | 28.8 | 34.1 | +5.3 pts |
+| ROE (%) | 19.1 | 20.3 | +1.2 pts |
 
 ### 5. On the calls
 

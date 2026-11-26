@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer (Key Managerial Personnel)** | Hari Nair (resignation; last day 2026-04-30) | — not named | seat vacant — no successor named | 2026-03-10 |
+| **Chief Executive Officer** | Hari Nair (resignation; last day 2026-04-30) | — not named | seat vacant — no successor named | 2026-03-10 |
 
 - **Why Hari Nair is leaving, in the filing's words:** “Mr. Hari Nair has resigned from the position of Chief Executive Officer of the Company to pursue new opportunities.”
-- In the documents: “Pursuant to the Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), we hereby inform you that Mr. Hari Nair, Chief Executive Officer (Key Managerial Personnel) has tendered his resignation with effect from the close of business hours of April 30, 2026, in order to pursue new opportunities.” — [2026-03-10 Resignation](https://nsearchives.nseindia.com/corporate/TIPSINDLTD_10032026164201_TIPSMUSICCEOResignationP.pdf)
+- In the documents: “Mr. Hari Nair, Chief Executive Officer (Key Managerial Personnel) has tendered his resignation with effect from the close of business hours of April 30, 2026, in order to pursue new opportunities.” — [2026-03-10 Resignation](https://nsearchives.nseindia.com/corporate/TIPSINDLTD_10032026164201_TIPSMUSICCEOResignationP.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-03-10 Resignation](https://nsearchives.nseindia.com/corporate/TIPSINDLTD_10032026164201_TIPSMUSICCEOResignationP.pdf)
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Hari Nair** — Chief Executive Officer (Key Managerial Personnel), in the seat since FY2024 per the annual reports on file.
+**Hari Nair** — Chief Executive Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

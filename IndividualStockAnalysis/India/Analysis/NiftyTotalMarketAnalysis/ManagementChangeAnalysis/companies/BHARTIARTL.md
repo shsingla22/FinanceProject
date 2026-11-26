@@ -12,11 +12,11 @@
 | **Chief Financial Officer (Airtel India)** | Soumen Ray (moved to another role in the company or group; last day 2025-12-31) | Akhil Garg (internal; from 2026-01-01) | effective | 2025-12-18 |
 
 - **Why Gopal Vittal is leaving, in the filing's words:** “In line with the planned succession, Gopal Vittal will move into the role of Executive Vice Chairman of Bharti Airtel on the 1st of January 2026 overseeing Bharti Airtel and all its subsidiaries.” Stays on as: Executive Vice Chairman (in the capacity of Whole-time Director) of the Company w.e.f. January 01, 2026 for a period of five (5) years.
-- In the documents: “Following a well-structured and successful transition process, Gopal will be succeeded by Shashwat Sharma as MD and CEO of Bharti Airtel India on the 1st of January 2026.” — [2026-02-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02022026192747_BhartiAirtelStxIntimation.pdf) · [2026-01-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02012026211243_STX_intimation_Shareholders_Notice-_Final.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180148_BoardManagementChanges.pdf) · +1 more
-- **Why Soumen Ray is leaving, in the filing's words:** “Soumen Ray, currently the Chief Financial Officer for Bharti Airtel India, will be appointed as Group Chief Financial Officer reporting to Gopal.” Stays on as: Group Chief Financial Officer w.e.f. January 01, 2026.
-- In the documents: “Appointment of Soumen Ray (currently, Chief Financial Officer) as Group Chief Financial Officer and Akhil Garg as Chief Financial Officer (Airtel India) and KMP of the Company w.e.f. January 01, 2026.” — [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180148_BoardManagementChanges.pdf) · [2025-12-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180743_BoardManagementChanges.pdf)
+- In the documents: “Following a well -structured and successful transition process, Gopal will be succeeded by Shashwat Sharma as MD and CEO of Bharti Airtel India on the 1st of January 2026.” — [2026-02-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02022026192747_BhartiAirtelStxIntimation.pdf) · [2026-01-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02012026211243_STX_intimation_Shareholders_Notice-_Final.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180148_BoardManagementChanges.pdf) · +1 more
+- **Why Soumen Ray is leaving, in the filing's words:** “Soumen Ray, currently the Chief Financial Officer for Bharti Airtel India, will be appointed as Group Chief Financial Officer reporting to Gopal.” Stays on as: Group Chief Financial Officer.
+- In the documents: “Appointment of Soumen Ray (currently, Chief Financial Officer) as Group Chief Financial Officer and Akhil Garg as Chief Financial Officer (Airtel India) and KMP of the Company w.e.f. January 01, 2026.” — [2026-05-13 Updates](https://nsearchives.nseindia.com/corporate/BHARTIARTL_13052026202351_STXAuthorisedpersons.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180148_BoardManagementChanges.pdf) · [2025-12-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180743_BoardManagementChanges.pdf)
 
-*All 5 filing(s) read for the seats:* [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18062026224553_STX_Dislcosure_SMP_Signed.pdf) · [2026-02-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02022026192747_BhartiAirtelStxIntimation.pdf) · [2026-01-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02012026211243_STX_intimation_Shareholders_Notice-_Final.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180148_BoardManagementChanges.pdf) · [2025-12-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18122025180743_BoardManagementChanges.pdf)
+*All 8 filing(s) read for the seats:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_05112026162023_FR.pdf) · [2026-06-18 Cessation](https://nsearchives.nseindia.com/corporate/BHARTIARTL_18062026224553_STX_Dislcosure_SMP_Signed.pdf) · [2026-05-13 Updates](https://nsearchives.nseindia.com/corporate/BHARTIARTL_13052026202351_STXAuthorisedpersons.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_05022026161519_FR.pdf) · [2026-02-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02022026192747_BhartiAirtelStxIntimation.pdf) · [2026-01-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BHARTIARTL_02012026211243_STX_intimation_Shareholders_Notice-_Final.pdf) · +2 more
 
 ### 2. Financials — the last three years
 
@@ -82,19 +82,19 @@ The filing's own profile: “Shashwat Sharma is currently the CEO Designate at B
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| CEO Designate | Bharti Airtel Limited (BHARTIARTL) | — | 2025 |
+| CEO Designate, leads the Consumer Business for the Company | Bharti Airtel Limited (BHARTIARTL) | — | 2025 |
 | Chief Operating Officer of Airtel responsible for all Operations | Bharti Airtel Limited (BHARTIARTL) | — | — |
-| various roles across Sales, Marketing and General Management | Hindustan Unilever Limited (HINDUNILVR) | — | — |
+| various roles across Sales, Marketing and General Management (13 years) | Hindustan Unilever Limited (HINDUNILVR) | — | — |
 
 **Akhil Garg** — Chief Financial Officer (Airtel India). from: internal; experience: over two decades of experience in finance; qualifications: He holds a Master of Business Administration (MBA) and is also a qualified Chartered Accountant..
 
-The filing's own profile: “Akhil Garg has over two decades of experience in finance. Akhil has been with Airtel for nearly 12 years across Circle Commercial, category commercial and financial planning. His most recent role was as Financial Controller for Airtel where he led the entire Financial planning and Accounting for the Company. Akhil has also been responsible for several strategic initiatives including driving the profitability of Airtel Business, working on the Hexacom IPO and automation of financial reporting through AI. Before joining Airtel, Akhil worked with PepsiCo India and the Eicher Group across various areas of finance. He holds a Master of Business Administration (MBA) and is also a qualified Chartered Accountant.”
+The filing's own profile: “Akhil Garg has over two decades of experience in finance. Akhil has been with Airtel for nearly 12 years across Circle Commercial, category commercial and financial planning. His most recent role was as Financial Controller for Airtel where he led the entire Financial planning and Accounting for the Company. Akhil has also been responsible for several strategic initiatives including driving the profitability of Airtel Business, working on the Hexacom IPO and automation of financial reporting through AI. Before joining Airtel, Akhil worked with PepsiCo India and the Eicher Group across various areas of finance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Financial Controller | Bharti Airtel Limited (BHARTIARTL) | — | 2025 |
-| across various areas of finance | PepsiCo India | — | — |
-| across various areas of finance | Eicher Group | — | — |
+| various areas of finance | PepsiCo India | — | — |
+| various areas of finance | Eicher Group | — | — |
 
 Results of **Bharti Hexacom Ltd.** while they were CFO there (annual reports on file show the seat FY2024–FY2025):
 

@@ -13,10 +13,10 @@
 
 - **Why Mukul Srivastava is leaving, in the filing's words:** “Due to personal circumstances, I hereby tender my resignation as the CEO of the Company.”
 - In the documents: “Based on the recommendation of the Nomination and Remuneration Committee and Board of Directors, Mr. Satyen J. Mamtora, Managing Director of the Company was appointed as the Chief Executive Officer (CEO) of the Company w.e.f. 08th January, 2026.” — [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144544_OutcomeBM08012026.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144934_OutcomeBM08012026.pdf) · +1 more
-- **Why Chanchal Singh Satyandra Rajora is leaving, in the filing's words:** “The Company confirms that there are no material reasons for resignation of Mr. Chanchal S. S. Rajora from the position of Chief Financial Officer.” Stays on as: Director (Finance) of the Company, designated as Senior Management Personnel.
-- In the documents: “Approved the appointment of Mr. Mehul Shah as the Chief Financial Officer (Key Managerial Personnel) of the Company with effect from 05th March, 2026, pursuant to the recommendation of the Nomination and Remuneration Committee.” — [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf)
+- **Why Chanchal Singh Satyandra Rajora is leaving, in the filing's words:** “As is step down as CFO & Advisor to Board from today I would like to utilise this opportunity to entire Board of Director of TARIL for the opportunity and support extended” Stays on as: Director (Finance) of the Company as Senior Management Personnel.
+- In the documents: “Approved the appointment of Mr. Mehul Shah as the Chief Financial Officer (Key Managerial Personnel) of the Company with effect from 05th March, 2026, pursuant to the recommendation of the Nomination and Remuneration Committee.” — [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf) · [2026-03-05 Updates](https://nsearchives.nseindia.com/corporate/TRIL_05032026131619_KMPUpdateSEBILODR05032026.pdf)
 
-*All 6 filing(s) read for the seats:* [2026-08-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TRIL_29082026110809_IntimationofPostalBallot.pdf) · [2026-04-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TRIL_22042026123245_IntimationofPostalBallot.pdf) · [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144544_OutcomeBM08012026.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144934_OutcomeBM08012026.pdf) · [2026-01-08 Updates](https://nsearchives.nseindia.com/corporate/TRIL_08012026164717_ResignationLetterCEO07012026.pdf)
+*All 7 filing(s) read for the seats:* [2026-08-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TRIL_29082026110809_IntimationofPostalBallot.pdf) · [2026-04-22 Shareholders meeting](https://nsearchives.nseindia.com/corporate/TRIL_22042026123245_IntimationofPostalBallot.pdf) · [2026-03-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf) · [2026-03-05 Updates](https://nsearchives.nseindia.com/corporate/TRIL_05032026131619_KMPUpdateSEBILODR05032026.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144544_OutcomeBM08012026.pdf) · [2026-01-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRIL_08012026144934_OutcomeBM08012026.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -78,7 +78,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Managing Director | Transformers and Rectifiers (India) Limited (TARIL) | — | — |
+| Managing Director | Transformers and Rectifiers (India) Limited (TARIL) | — | 2026 |
 
 **Mehul Shah** — Chief Financial Officer (Key Managerial Personnel). experience: over 26 years; qualifications: Chartered Accountant.
 

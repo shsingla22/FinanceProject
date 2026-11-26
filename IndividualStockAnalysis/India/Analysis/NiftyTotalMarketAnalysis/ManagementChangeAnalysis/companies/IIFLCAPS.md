@@ -90,7 +90,7 @@ The filing's own profile: “As part of its leadership succession, the Board has
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Additional Director and Whole-time Director | IIFL Capital Services Limited (IIFLCAPS) | 2026 | — |
+| — | IIFL Capital Services Limited (IIFLCAPS) | — | — |
 
 ### 5. On the calls
 

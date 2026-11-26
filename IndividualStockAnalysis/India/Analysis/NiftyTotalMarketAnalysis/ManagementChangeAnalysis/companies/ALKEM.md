@@ -9,12 +9,12 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Executive Officer (CEO) and Key Managerial Personnel** | Vikas Gupta (resignation; last day 2026-06-30) | Amrut Naik (from 2026-11-11) | effective | 2026-04-24 |
-| **Chief Financial Officer (CFO)** | Nitin Agrawal (resignation; last day 2026-09-30) | Gopal Kothari (from 2026-12-02) | announced, not yet effective | 2026-09-24 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel** | Nitin Agrawal (resignation; last day 2026-09-30) | Gopal Kothari (from 2026-12-02) | announced, not yet effective | 2026-09-24 |
 
-- **Why Vikas Gupta is leaving, in the filing's words:** “to pursue new professional opportunities”
-- In the documents: “Dr. Vikas Gupta has resigned from the position of Chief Executive Officer & Key Managerial Personnel of the Company to pursue new professional opportunities.” — [2026-11-03 Appointment](https://nsearchives.nseindia.com/corporate/ALKEM_03112026133322_Reg30_Appointment_of_CEO_signed.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/ALKEM_24042026143327_Reg30ResignationofCEOsigned.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ALKEM_ROID_83181_KMP_Doc.zip) · +1 more
-- **Why Nitin Agrawal is leaving, in the filing's words:** “to pursue new professional opportunities”
-- In the documents: “Mr. Nitin Agrawal has resigned on 30th July, 2026 from the position of Chief Financial Officer & Key Managerial Personnel of the Company to pursue new professional opportunities.” — [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/ALKEM_12112026135747_Reg30AppointmentofCFO.pdf) · [2026-09-24 Cessation](https://nsearchives.nseindia.com/corporate/ALKEM_24092026124110_Reg30Intimation_signed.pdf) · [2026-09-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ALKEM_ROID_98892_KMP_Doc.zip)
+- **Why Vikas Gupta is leaving, in the filing's words:** “Dr. Vikas Gupta has resigned from the position of Chief Executive Officer & Key Managerial Personnel of the Company to pursue new professional opportunities.”
+- In the documents: “Pursuant to Regulation 30 of SEBI LODR Regulations, we wish to inform you that Dr. Vikas Gupta has resigned from the position of Chief Executive Officer & Key Managerial Personnel of the Company to pursue new professional opportunities.” — [2026-11-03 Appointment](https://nsearchives.nseindia.com/corporate/ALKEM_03112026133322_Reg30_Appointment_of_CEO_signed.pdf) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/ALKEM_24042026143327_Reg30ResignationofCEOsigned.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ALKEM_ROID_83181_KMP_Doc.zip) · +1 more
+- **Why Nitin Agrawal is leaving, in the filing's words:** “Mr. Nitin Agrawal has resigned on 30th July, 2026 from the position of Chief Financial Officer & Key Managerial Personnel of the Company to pursue new professional opportunities.”
+- In the documents: “the Board of Directors of the Company at its meeting held today i.e. 12th November, 2026 has appointed Mr. Gopal Kothari as the Chief Financial Officer (CFO) and Key Managerial Personnel of the Company with effect from 02nd December, 2026.” — [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/ALKEM_12112026135747_Reg30AppointmentofCFO.pdf) · [2026-09-24 Cessation](https://nsearchives.nseindia.com/corporate/ALKEM_24092026124110_Reg30Intimation_signed.pdf) · [2026-09-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ALKEM_ROID_98892_KMP_Doc.zip)
 
 *All 7 filing(s) read for the seats:* [2026-11-12 Appointment](https://nsearchives.nseindia.in/corporate/ALKEM_12112026135747_Reg30AppointmentofCFO.pdf) · [2026-11-03 Appointment](https://nsearchives.nseindia.com/corporate/ALKEM_03112026133322_Reg30_Appointment_of_CEO_signed.pdf) · [2026-09-24 Cessation](https://nsearchives.nseindia.com/corporate/ALKEM_24092026124110_Reg30Intimation_signed.pdf) · [2026-09-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ALKEM_ROID_98892_KMP_Doc.zip) · [2026-04-24 General Updates](https://nsearchives.nseindia.com/corporate/ALKEM_24042026143327_Reg30ResignationofCEOsigned.pdf) · [2026-04-24 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ALKEM_ROID_83181_KMP_Doc.zip) · +1 more
 
@@ -60,7 +60,7 @@ The company's results while they held the seat (the year before they took it, to
 
 - Also on file: Managing Director at PGEL (FY2021–FY2025, annual reports).
 
-**Nitin Agrawal** — Chief Financial Officer (CFO), in the seat since FY2024 per the annual reports on file.
+**Nitin Agrawal** — Chief Financial Officer (CFO) and Key Managerial Personnel, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -80,7 +80,7 @@ The company's results while they held the seat (the year before they took it, to
 
 The filing's own profile: “Dr. Amrut Naik is a seasoned global pharmaceutical business leader with 26+ years of hands-on experience in building, scaling, and transforming Global businesses across Branded Formulations, Generics, APIs, Biologics, Vaccines, Specialty, and Innovation-led portfolios. He holds a Ph.D. (Tech) in Pharmacology, Master's in Pharmaceutical Science and Bachelor's in Pharmaceutical Science.”
 
-**Gopal Kothari** — Chief Financial Officer (CFO). experience: over 24 years; qualifications: Mr. Kothari is a qualified Chartered Accountant (CA) and Company Secretary (CS), and holds B. Com. (Honours) degree..
+**Gopal Kothari** — Chief Financial Officer (CFO) and Key Managerial Personnel. experience: over 24 years; qualifications: Mr. Kothari is a qualified Chartered Accountant (CA) and Company Secretary (CS), and holds B. Com. (Honours) degree..
 
 The filing's own profile: “Mr. Gopal Kothari has over 24 years of experience in Financial Planning & Analysis, Business Partnering, Cash Flow Management, Business Finance, Cost Management & Productivity, Enabling Growth, Taxation, Management Reporting, Finance Control, dealing with Board of Directors, Business Integration and New Products Development. Mr. Kothari is a qualified Chartered Accountant (CA) and Company Secretary (CS), and holds B. Com. (Honours) degree.”
 

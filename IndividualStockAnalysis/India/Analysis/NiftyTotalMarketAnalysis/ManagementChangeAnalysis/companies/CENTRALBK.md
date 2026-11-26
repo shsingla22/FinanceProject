@@ -21,15 +21,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer** | — (new seat) | Kalyan Kumar | effective | 2026-07-31 |
 | **Chief Financial Officer of the Bank** | — (new seat) | Vivek Kumar (internal; from 2026-06-03) | effective | 2026-06-03 |
+| **Managing Director and Chief Executive Officer on the Board of the Bank** | — (new seat) | Kalyan Kumar | effective | 2026-07-31 |
 
+- **Why the holder is leaving, in the filing's words:** “not stated”
+- In the documents: “Appointment of Shri Vivek Kumar, General Manager (Finance & Accounts) as Chief Financial Officer of the Bank w.e.f. 03rd June, 2026 for period of three years.” — [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CENTRALBK_25112026160231_SE_Resignation_CS_Merge.pdf) · [2026-06-03 General Updates](https://nsearchives.nseindia.com/corporate/CENTRALBK_03062026173506_Final_SE_Outcome_of_Board_Meeting_31032026.pdf) · [2025-12-02 Change in Management](https://nsearchives.nseindia.com/corporate/CENTRALBK_02122025181252_Final_SE_GMs.pdf)
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “To approve the appointment of Shri Kalyan Kumar as Managing Director and Chief Executive Officer on the Board of the Bank.” — [2026-08-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_01082026163928_Final_SE_Outcome_AGM.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_31072026202046_Final_Final_SE_Outcome_AGM_2025-26.pdf) · [2026-05-29 Press Release](https://nsearchives.nseindia.com/corporate/CENTRALBK_29052026173430_Final_SE_Dividend.pdf)
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Shri Vivek Kumar, General Manager (Finance & Accounts) as Chief Financial Officer of the Bank w.e.f. 03rd June, 2026 for period of three years.” — [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CENTRALBK_25112026160231_SE_Resignation_CS_Merge.pdf) · [2026-06-03 General Updates](https://nsearchives.nseindia.com/corporate/CENTRALBK_03062026173506_Final_SE_Outcome_of_Board_Meeting_31032026.pdf)
 
-*All 5 filing(s) read for the seats:* [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CENTRALBK_25112026160231_SE_Resignation_CS_Merge.pdf) · [2026-08-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_01082026163928_Final_SE_Outcome_AGM.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_31072026202046_Final_Final_SE_Outcome_AGM_2025-26.pdf) · [2026-06-03 General Updates](https://nsearchives.nseindia.com/corporate/CENTRALBK_03062026173506_Final_SE_Outcome_of_Board_Meeting_31032026.pdf) · [2026-05-29 Press Release](https://nsearchives.nseindia.com/corporate/CENTRALBK_29052026173430_Final_SE_Dividend.pdf)
+*All 6 filing(s) read for the seats:* [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CENTRALBK_25112026160231_SE_Resignation_CS_Merge.pdf) · [2026-08-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_01082026163928_Final_SE_Outcome_AGM.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CENTRALBK_31072026202046_Final_Final_SE_Outcome_AGM_2025-26.pdf) · [2026-06-03 General Updates](https://nsearchives.nseindia.com/corporate/CENTRALBK_03062026173506_Final_SE_Outcome_of_Board_Meeting_31032026.pdf) · [2026-05-29 Press Release](https://nsearchives.nseindia.com/corporate/CENTRALBK_29052026173430_Final_SE_Dividend.pdf) · [2025-12-02 Change in Management](https://nsearchives.nseindia.com/corporate/CENTRALBK_02122025181252_Final_SE_GMs.pdf)
 
 ### 2. Financials — the last three years
 
@@ -61,19 +61,14 @@
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Kalyan Kumar** — Managing Director and Chief Executive Officer.
-
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
-
 **Vivek Kumar** — Chief Financial Officer of the Bank. from: internal; age 55 years; experience: over 27 years of experience in Banking industry and another 3 years of experience in Financial Services prior to joining the Bank; qualifications: He holds the Degree in Bachelors in Science & Education and a Master of Management Studies (Finance). He is a Certified Associate of Indian Institute of Banking and Finance (IIBF)..
 
 The filing's own profile: “Shri Vivek Kumar, aged 55 years, joined the Bank in 1999. He holds the Degree in Bachelors in Science & Education and a Master of Management Studies (Finance). He is a Certified Associate of Indian Institute of Banking and Finance (IIBF). He has over 27 years of experience in Banking industry and another 3 years of experience in Financial Services prior to joining the Bank. He has worked in the areas of Retail, Credit, DIT, Financial Inclusion & SLBC, General Banking, Merchant Banking etc., He was also Chairman of Regional Rural Bank. He has a varied working experience as Branch Head, Regional Head, and Zonal head apart from being a vertical head of Retail Asset Department of Bank.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| General Manager (Finance & Accounts) | Central Bank of India (CENTRALBK) | — | 2026 |
-| vertical head of Retail Asset Department | Central Bank of India (CENTRALBK) | — | — |
-| Branch Head, Regional Head, and Zonal head | Central Bank of India (CENTRALBK) | — | — |
+| General Manager (Finance & Accounts) | Central Bank of India (CENTRALBK) | 2025 | 2026 |
+| vertical head of Retail Asset Department of Bank | Central Bank of India (CENTRALBK) | — | — |
 | Chairman | Regional Rural Bank | — | — |
 
 Results of **Relaxo Footwears Ltd.** while they were Chairman there (annual reports on file show the seat FY2021–FY2023):
@@ -87,6 +82,10 @@ Results of **Relaxo Footwears Ltd.** while they were Chairman there (annual repo
 | ROCE (%) | 24.0 | 12.0 | -12.0 pts |
 | ROE (%) | 17.8 | 8.3 | -9.5 pts |
 | Borrowings (₹ cr) | 139 | 164 | +25 |
+
+**Kalyan Kumar** — Managing Director and Chief Executive Officer on the Board of the Bank.
+
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 

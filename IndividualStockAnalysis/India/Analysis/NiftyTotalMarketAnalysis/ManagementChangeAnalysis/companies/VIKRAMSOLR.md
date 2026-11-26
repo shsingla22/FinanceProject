@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | Krishna Kumar Maskara (moved to another role in the company or group; last day 2026-03-20) | Sameer Nagpal (external; from 2026-03-20) | effective | 2026-03-20 |
+| **Chief Executive Officer** | Krishna Kumar Maskara (interim holder replaced; last day 2026-03-20) | Sameer Nagpal (external; from 2026-03-20) | effective | 2026-03-20 |
 
-- **Why Krishna Kumar Maskara is leaving, in the filing's words:** “Re-designation of Mr. Krishna Kumar Maskara, Whole-time Director & Chief Executive Officer (Interim) to Whole-Time Director & Chief Operating Officer (COO) w.e.f. March 20, 2026” Stays on as: Whole-Time Director & Chief Operating Officer (COO) and Chief Risk Officer (CRO).
+- **Why Krishna Kumar Maskara is leaving, in the filing's words:** “Approved the re-designation of Mr. Krishna Kumar Maskara, Whole-time Director & Chief Executive Officer (Interim) to Whole-Time Director & Chief Operating Officer (COO) w.e.f. March 20, 2026” Stays on as: Whole-Time Director & Chief Operating Officer (COO) and Chief Risk Officer (CRO).
 - In the documents: “Approved the appointment of Mr. Sameer Nagpal as the Chief Executive Officer of the Company w.e.f. March 20, 2026, based on the recommendation of the Nomination and Remuneration Committee.” — [2026-03-25 General Updates](https://nsearchives.nseindia.com/corporate/VSLCS_25032026225938_VSLINTIMATIONUNDERREG30DATED25032026.pdf) · [2026-03-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VSLCS_20032026184655_VSLOUTCOMEOFBM20032026.pdf) · [2026-03-20 Change in Management](https://nsearchives.nseindia.com/corporate/VSLCS_20032026185015_VSLOUTCOMEOFBM20032026.pdf) · +1 more
 
 *All 14 filing(s) read for the seats:* [2026-08-05 Change in Management](https://nsearchives.nseindia.com/corporate/VSLCS_05082026214956_VSLAGMOUTCOME04082026.pdf) · [2026-08-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VSLCS_04082026183959_VSLSUMMARYPROCEEDINGS.pdf) · [2026-07-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VSLCS_10072026171808_VSLAGMNOTICE2026.pdf) · [2026-05-12 Updates](https://nsearchives.nseindia.com/corporate/VSLCS_12052026183517_VSLOUTCOMEMAR2026.pdf) · [2026-05-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VSLCS_07052026224514_VSLOUTCOMEMAR2026.pdf) · [2026-05-07 Change in Management](https://nsearchives.nseindia.com/corporate/VSLCS_07052026225905_VSLOUTCOMEMAR2026.pdf) · +8 more
@@ -63,12 +63,12 @@ The filing's own profile: “Mr. Sameer Nagpal is the Chief Executive Officer of
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| key leadership roles | Livguard Energy Technologies | — | — |
-| key leadership roles | Dalmia Bharat Group | — | — |
-| key leadership roles | Shalimar Paints | — | — |
-| key leadership roles | Ingersoll Rand | — | — |
-| key leadership roles | Zicom | — | — |
-| key leadership roles | Carrier Air Conditioning | — | — |
+| — | Livguard Energy Technologies | — | — |
+| — | Dalmia Bharat Group | — | — |
+| — | Shalimar Paints | — | — |
+| — | Ingersoll Rand | — | — |
+| — | Zicom | — | — |
+| — | Carrier Air Conditioning | — | — |
 
 ### 5. On the calls
 

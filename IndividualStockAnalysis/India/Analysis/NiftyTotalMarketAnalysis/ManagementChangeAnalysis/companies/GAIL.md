@@ -12,9 +12,9 @@
 | **Director (Finance) & Chief Financial Officer** | R K Jain (retirement; last day 2026-06-30) | Satish Kumar Sinha (internal; from 2026-07-01) | effective | 2026-06-22 |
 
 - **Why Sandeep Kumar Gupta is leaving, in the filing's words:** “ceased to be Chairman and Managing Director of the Company w.e.f. 01.03.2026 consequent upon his superannuation on 28.02.2026 from the services of GAIL”
-- In the documents: “Shri Deepak Gupta (DIN 09503339 ) has assumed the charge as Chairman and Managing Director of the Company w.e .f. 01.03.2026.” — [2026-05-27 General Updates](https://nsearchives.nseindia.com/corporate/Himanshugail_27052026180843_AdditionalCharge_Signed.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/DEVIKA_01032026110712_CMD_Supperanuation.pdf) · [2026-03-01 Appointment](https://nsearchives.nseindia.com/corporate/DEVIKA_01032026110929_Letter_Head_-_CMD_Appointment.pdf) · +1 more
-- **Why R K Jain is leaving, in the filing's words:** “Shri R K Jain , Director (Finance) and Chief Financial Officer ( DIN 08788595 ) ceased to be a Director of the Company w.e.f. 01.07.2026 upon his superannuation on 30.06.2026”
-- In the documents: “Further , in continuation of our letter of even no. dated 22.06.2026 on the subject mentioned above , it is to inform that Shri Satish Kumar Sinha (DIN 10528036) assume d the charge as an Additional Director of the Company w.e.f. 01.07.2026 to hold the post of Director ( Finance ) & Chief Financial Officer .” — [2026-07-01 Appointment](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026104830_1.pdf) · [2026-07-01 Appointment](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026104956_1.pdf) · [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026105156_1.pdf) · +1 more
+- In the documents: “Shri Deepak Gupta (DIN 09503339 ) has assumed the charge as Chairman and Managing Director of the Company w.e.f. 01.03.2026.” — [2026-05-27 General Updates](https://nsearchives.nseindia.com/corporate/Himanshugail_27052026180843_AdditionalCharge_Signed.pdf) · [2026-03-01 Retirement](https://nsearchives.nseindia.com/corporate/DEVIKA_01032026110712_CMD_Supperanuation.pdf) · [2026-03-01 Appointment](https://nsearchives.nseindia.com/corporate/DEVIKA_01032026110929_Letter_Head_-_CMD_Appointment.pdf) · +1 more
+- **Why R K Jain is leaving, in the filing's words:** “ceased to be a Director of the Company w.e.f. 01.07.2026 upon his superannuation on 30.06.2026”
+- In the documents: “Shri Satish Kumar Sinha (DIN 10528036) assumed the charge as an Additional Director of the Company w.e.f. 01.07.2026 to hold the post of Director (Finance) & Chief Financial Officer.” — [2026-07-01 Appointment](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026104830_1.pdf) · [2026-07-01 Appointment](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026104956_1.pdf) · [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026105156_1.pdf) · +1 more
 
 *All 11 filing(s) read for the seats:* [2026-08-13 Change in Management](https://nsearchives.nseindia.com/corporate/Himanshugail_13082026105702_Letter_Nomination_ID130826_signed.pdf) · [2026-07-01 Appointment](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026104830_1.pdf) · [2026-07-01 Appointment](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026104956_1.pdf) · [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026105156_1.pdf) · [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026105245_1.pdf) · [2026-07-01 Press Release](https://nsearchives.nseindia.com/corporate/Himanshugail_01072026142526_Press_Release.pdf) · +5 more
 
@@ -95,23 +95,21 @@ The filing's own profile: “Shri Deepak Gupta, Mechanical Engineer from Delhi C
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Director (Projects) | GAIL (India) Limited (GAIL) | 2022 | 2026 |
-| — | Engineers India Limited (ENGINERSIN) | — | — |
-| Chairman | Maharashtra Natural Gas Limited | — | — |
-| Chairman | Green Gas Limited | — | — |
+| career spanning 32 years at Engineers India Limited previously, he led many large cross-functional teams to execute landmark Projects | Engineers India Limited (ENGINERSIN) | — | — |
+| Chairman | Maharashtra Natural Gas Limited and Green Gas Limited | — | — |
 | Chairman | Talcher Fertilizers Ltd. | — | — |
-| Director | ONGC Petro-additions Limited (OPaL) | — | — |
-| Director | South-East Asia Gas Pipeline Company Limited (SEAGP) | — | — |
+| Director | ONGC Petro-additions Limited (OPaL) & South-East Asia Gas Pipeline Company Limited (SEAGP) | — | — |
 
 **Satish Kumar Sinha** — Director (Finance) & Chief Financial Officer. from: internal; experience: over three decades; qualifications: a Commerce Graduate and a qualified Cost and Management Accountant.
 
-The filing's own profile: “Shri Satish Kumar Sinha is a Commerce Graduate and a qualified Cost and Management Accountant, with over three decades of rich and diverse experience in the oil and gas sector. He joined GAIL (India) Limited in 1994 as a Management Trainee (Finance & Accounts) and has since held several key positions across core finance functions. Over the course of his career, he has gained extensive experience across the entire spectrum of finance functions at both operational and corporate levels. Prior to joining the Bo ard, he was serving as Executive Director (Finance & Accounts).”
+The filing's own profile: “Shri Satish Kumar Sinha is a Commerce Graduate and a qualified Cost and Management Accountant, with over three decades of rich and diverse experience in the oil and gas sector. He joined GAIL (India) Limited in 1994 as a Management Trainee (Finance & Accounts) and has since held several key positions across core finance functions. Over the course of his career, he has gained extensive experience across the entire spectrum of finance functions at both operational and corporate levels. Prior to joining the Board, he was serving as Executive Director (Finance & Accounts). He has also served on the Board of GAIL Global Singapore Pte Limited and GAIL Mangalore Petrochemicals Limited, contributing to key strategic and operational milestones.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director (Finance & Accounts) | GAIL (India) Limited (GAIL) | — | 2026 |
 | Management Trainee (Finance & Accounts) | GAIL (India) Limited (GAIL) | 1994 | — |
-| Board member | GAIL Global Singapore Pte Limited | — | — |
-| Board member | GAIL Mangalore Petrochemicals Limited | — | — |
+| served on the Board | GAIL Global Singapore Pte Limited | — | — |
+| served on the Board | GAIL Mangalore Petrochemicals Limited | — | — |
 
 ### 5. On the calls
 

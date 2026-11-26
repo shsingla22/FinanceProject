@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Joint Managing Director & CEO (Key Managerial Personnel)** | — (new seat) | Amit Uplenchwar (internal; from 2027-01-01) | announced, not yet effective | 2026-11-05 |
+| **Joint Managing Director & CEO** | — (new seat) | Amit Uplenchwar (internal; from 2027-01-01) | announced, not yet effective | 2026-11-05 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “The Board also approved to appoint him as an Additional Director; Joint Managing Director & CEO (Key Managerial Personnel) of the Company effective from 01st January, 2027 and his term will be for a period of 5 (five) years to commence from 01st January, 2027 upto 31st December, 2031 (both days inclusive), subject to the approval of the shareholders of the Company.” — [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KALPATPOWER_05112026181805_SEIntimationOutcomeothers05112026.pdf) · [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KALPATPOWR_05112026183715_SEIntimationOutcomeothers05112026.pdf) · [2026-11-05 General Updates](https://nsearchives.nseindia.com/corporate/KALPATPOWR_05112026183938_SEIntimationOutcomeothers05112026.pdf)
@@ -45,18 +45,18 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Amit Uplenchwar** — Joint Managing Director & CEO (Key Managerial Personnel). from: internal; experience: over three decades of experience; qualifications: Bachelor of Engineering in Mechanical Engineering from Nagpur University and an MBA in Finance and Information Technology from Maastricht University.
+**Amit Uplenchwar** — Joint Managing Director & CEO. from: internal; experience: over three decades; qualifications: Bachelor of Engineering in Mechanical Engineering from Nagpur University and an MBA in Finance and Information Technology from Maastricht University.
 
-The filing's own profile: “Mr. Amit Uplenchwar holds a Bachelor of Engineering in Mechanical Engineering from Nagpur University and an MBA in Finance and Information Technology from Maastricht University. He brings over three decades of experience in Corporate Strategy, Business Operations, Business Development, Mergers & Acquisitions and International Business Management across sectors including Transportation, Power, Water, Oil & Gas, Aerospace & Defence, and Logistics. Prior to joining KPIL, he was associated with Hindustan Construction Company (HCC) and has held key positions with reputed organisations, including Adani Ports and SEZ, Dodsal Engineering and Construction, Arthur Andersen and Sea King Infrastructure Limited.”
+The filing's own profile: “He brings over three decades of experience in Corporate Strategy, Business Operations, Business Development, Mergers & Acquisitions and International Business Management across sectors including Transportation, Power, Water, Oil & Gas, Aerospace & Defence, and Logistics. ... Prior to joining KPIL, he was associated with Hindustan Construction Company (HCC) and has held key positions with reputed organisations, including Adani Ports and SEZ, Dodsal Engineering and Construction, Arthur Andersen and Sea King Infrastructure Limited. ... During his tenure of over six years with KPIL, he has played a pivotal role in strategic initiatives, including the divestment of non-core subsidiaries to unlock value and strengthen the Company's focus on its core EPC business”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| not stated (tenure of over six years with KPIL) | Kalpataru Projects International Limited (KPIL) | — | — |
+| — | Kalpataru Projects International Limited (KPIL) | — | 2026 |
 | — | Hindustan Construction Company (HCC) | — | — |
-| key positions | Adani Ports and SEZ | — | — |
-| key positions | Dodsal Engineering and Construction | — | — |
-| key positions | Arthur Andersen | — | — |
-| key positions | Sea King Infrastructure Limited | — | — |
+| — | Adani Ports and SEZ | — | — |
+| — | Dodsal Engineering and Construction | — | — |
+| — | Arthur Andersen | — | — |
+| — | Sea King Infrastructure Limited | — | — |
 
 ### 5. On the calls
 

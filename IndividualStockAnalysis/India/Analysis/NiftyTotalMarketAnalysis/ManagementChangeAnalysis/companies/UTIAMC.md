@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | Imtaiyazur Rahman (end of term; last day 2026-01-31) | Vetri Subramaniam (internal; from 2026-02-01) | effective | 2026-01-30 |
+| **Managing Director & Chief Executive Officer** | Imtaiyazur Rahman (end of term; last day 2026-01-31) | Vetri Subramaniam (internal; from 2026-02-01) | effective | 2025-10-01 |
 
 - **Why Imtaiyazur Rahman is leaving, in the filing's words:** “Mr. Imtaiyazur Rahman will complete his tenure as Managing Director & Chief Executive Officer of UTI Asset Management Company Limited on 31st January, 2026”
 - In the documents: “Mr. Imtaiyazur Rahman will complete his tenure as Managing Director & Chief Executive Officer of UTI Asset Management Company Limited on 31st January, 2026 and Mr. Vetri Subramaniam will take charge as Managing Director & Chief Executive Officer of the company w.e.f. 1st February, 2026.” — [2026-01-30 General Updates](https://nsearchives.nseindia.com/corporate/CSUTIAMC_30012026175431_Intimation_under_Regulation_30_5_.pdf) · [2025-12-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CSUTIAMC_17122025142843_Intimation_of_Resignation_FM.pdf)
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/UTIAMC.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹969.40 on 2026-01-29 (the close before) → ₹842.20 on 2026-11-13: **-13.1%**; Nifty 500 +2.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,304.10 on 2025-09-30 (the close before) → ₹842.20 on 2026-11-13: **-35.4%**; Nifty 500 +4.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -59,9 +59,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Vetri Subramaniam** — Managing Director & Chief Executive Officer. from: internal.
 
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| MD and CEO Designate | UTI Asset Management Company Limited (UTIAMC) | — | 2026 |
+*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
 ### 5. On the calls
 

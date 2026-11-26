@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Executive Officer (Group CEO) & KMP** | — (new seat) | Gregory Gelhaus (promoter family; from 2026-05-21) | effective | 2026-05-21 |
-| **Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP)** | Alexander Poempner (resignation; last day 2026-11-03) | Ankit Nayyar (internal; from 2026-11-04) | effective | 2026-09-15 |
+| **Group Chief Executive Officer** | — (new seat) | Gregory Gelhaus (promoter family; from 2026-05-21) | effective | 2026-05-21 |
+| **Group Chief Financial Officer** | Alexander Poempner (resignation; last day 2026-11-03) | Ankit Nayyar (internal; from 2026-11-04) | effective | 2026-09-15 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Appointment of Mr. Gregory Gelhaus as Group Chief Executive Officer & Key Managerial Personnel (KMP) with effect from May 21, 2026, subject to ratification by shareholders at ensuing 63rd Annual General Meeting.” — [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026161653_OutcomeMay212026.pdf) · [2026-05-21 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162217_Reg_30_ocred.pdf) · [2026-05-21 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_21052026162422_Pressreleasemay212026signed.pdf) · +1 more
 - **Why Alexander Poempner is leaving, in the filing's words:** “Mr. Alexander Poempner’s requested for early relieving owing to personal exigencies.” Stays on as: Will continue with the organization until December 31, 2026, to ensure an orderly handover and provide transition support.
 - In the documents: “Mr. Ankit Nayyar assumed office as Group Chief Financial Officer and Key Managerial Personnel of the Company, effective November 4, 2026, pursuant to Mr. Alexander Poempner’s request for early relieving owing to personal exigencies.” — [2026-09-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026164140_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Resignation](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026165021_BMOUTCOME15SEPT2026.pdf) · [2026-09-15 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026170558_BMOUTCOME15SEPT2026.pdf) · +1 more
 
-*All 19 filing(s) read for the seats:* [2026-11-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GMMPFAUDLR_20112026123923_BoardMeetingOutcomesigned.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026164915_BMOutcome.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170100_BMOutcome.pdf) · [2026-11-04 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170914_PressRelease.pdf) · [2026-11-04 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026172910_BMOutcome.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026173314_BMOutcome.pdf) · +13 more
+*All 23 filing(s) read for the seats:* [2026-11-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GMMPFAUDLR_20112026123923_BoardMeetingOutcomesigned.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026164915_BMOutcome.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170100_BMOutcome.pdf) · [2026-11-04 Press Release](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026170914_PressRelease.pdf) · [2026-11-04 Change in Management](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026172910_BMOutcome.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026173314_BMOutcome.pdf) · +17 more
 
 ### 2. Financials — the last three years
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Alexander Poempner** — Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP), date of taking the seat not on file.
+**Alexander Poempner** — Group Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -60,27 +60,27 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Gregory Gelhaus** — Group Chief Executive Officer (Group CEO) & KMP. from: promoter family; qualifications: Mr. Gelhaus holds a BBA in Accounting from the Ross School of Business at the University of Michigan and an MBA with concentrations in Finance and Marketing from the Wharton School at the University of Pennsylvania. Mr. Gelhaus is a Certified Public Accountant (CPA) in the State of New York in the United States..
+**Gregory Gelhaus** — Group Chief Executive Officer. from: promoter family; qualifications: Mr. Gelhaus holds a BBA in Accounting from the Ross School of Business at the University of Michigan and an MBA with concentrations in Finance and Marketing from the Wharton School at the University of Pennsylvania. Mr. Gelhaus is a Certified Public Accountant (CPA) in the State of New York in the United States..
 
 The filing's own profile: “Mr. Gelhaus has been the Chief Transformation Officer of GMM Pfaudler Group and SMP effective May 5, 2025, and has now been appointed as a Group Chief Executive Officer and KMP effective May 21, 2026. Prior to joining GMM Pfaudler, he served as the Chief Operating Officer for Asia Pacific and Central Europe at Global Blue, where he managed multi-country operations and served on the Executive Committee. His earlier experience includes roles at PricewaterhouseCoopers, Alvarez & Marsal, and Kirkham Group Pte Ltd.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Transformation Officer of GMM Pfaudler Group and SMP | GMM Pfaudler Group | 2025 | 2026 |
+| Chief Transformation Officer | GMM Pfaudler Group | 2025 | 2026 |
 | Chief Operating Officer for Asia Pacific and Central Europe | Global Blue | — | — |
 | — | PricewaterhouseCoopers | — | — |
 | — | Alvarez & Marsal | — | — |
 | — | Kirkham Group Pte Ltd | — | — |
 
-**Ankit Nayyar** — Group Chief Financial Officer (CFO) & Key Managerial Personnel (KMP). from: internal; experience: nearly two decades of experience; qualifications: Chartered Accountant, Masters’ in Accounting & Finance from Manchester Business School (UK) and B.Com from Shri Ram College of Commerce.
+**Ankit Nayyar** — Group Chief Financial Officer. from: internal; experience: nearly two decades; qualifications: Chartered Accountant, Masters’ in Accounting & Finance from Manchester Business School (UK) and B.Com from Shri Ram College of Commerce.
 
 The filing's own profile: “Ankit Nayyar was appointed Group Chief Financial Officer of GMM Pfaudler with effect from November 4, 2026. Prior to his appointment, he served as Deputy Chief Financial Officer from May 2026. Ankit brings nearly two decades of experience across pharmaceuticals, specialty chemicals, manufacturing and financial services. Most recently, as CFO of PI Health Sciences, he led global finance operations, M&A, deal structuring, and operational scaleup. He also played a key role in the Monsanto – Bayer integration, building finance capabilities and governance at Bayer & Monsanto India. Earlier, he held leadership roles at Pfizer, MSCI and Tata AIG Life Insurance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Deputy Chief Financial Officer | GMM Pfaudler (GMMPFAUDLR) | 2026 | 2026 |
-| CFO | PI Health Sciences | — | — |
-| key role in the Monsanto – Bayer integration, building finance capabilities and governance | Bayer & Monsanto India | — | — |
+| Chief Financial Officer | PI Health Sciences | — | — |
+| key role in the Monsanto–Bayer integration, building finance capabilities and governance | Bayer & Monsanto India | — | — |
 | leadership roles | Pfizer (PFIZER) | — | — |
 | leadership roles | MSCI | — | — |
 | leadership roles | Tata AIG Life Insurance | — | — |

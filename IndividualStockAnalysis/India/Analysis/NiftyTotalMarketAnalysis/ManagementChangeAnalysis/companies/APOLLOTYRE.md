@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (Key Managerial Personnel/ Senior Management)** | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-10-06 |
+| **Chief Financial Officer (Key Managerial Personnel/ Senior Management)** | Gaurav Kumar (resignation; last day 2026-10-06) | Ravi Kumar Shingari (internal; from 2026-11-04) | effective | 2026-08-06 |
 
 - **Why Gaurav Kumar is leaving, in the filing's words:** “to pursue new personal and professional challenges outside the organization”
-- In the documents: “With reference to our aforesaid letter dated August 6, 2026, we wish to inform you that Mr. Gaurav Kumar has resigned as Chief Financial Officer (KMP) of the Company with effect from the close of business hours on October 6, 2026 to pursue new personal and professional challenges outside the organization.” — [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · +1 more
+- In the documents: “Appointment of Mr. Ravi Kumar Shingari as the Chief Financial Officer (Key Managerial Personnel/ Senior Management) of the Company, with effect from November 4, 2026, basis the recommendation of the Nomination and Remuneration Committee and the Audit Committee.” — [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026173839_OutcomeofBoardMeeting.pdf) · [2026-08-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026180728_OutcomeofBoardMeeting.pdf) · [2026-08-06 Change in Management](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06082026181034_OutcomeofBoardMeeting.pdf) · +1 more
 
 *All 10 filing(s) read for the seats:* [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161233_Outcome04112026.pdf) · [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026161533_Outcome04112026.pdf) · [2026-11-04 Appointment](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_04112026163037_Outcome04112026.pdf) · [2026-10-06 Resignation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170148_intimationlettercfo.pdf) · [2026-10-06 Cessation](https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_06102026170644_intimationlettercfo.pdf) · [2026-10-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/APOLLOTYRE_ROID_99856_KMP_Doc.zip) · +4 more
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/APOLLOTYRE.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹401.60 on 2026-10-05 (the close before) → ₹420.80 on 2026-11-13: **+4.8%**; Nifty 500 +8.0% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹444.90 on 2026-08-05 (the close before) → ₹420.80 on 2026-11-13: **-5.4%**; Nifty 500 -0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -63,7 +63,7 @@ The filing's own profile: “Mr. Ravi Kumar Shingari joined the Company in 2018 
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Vice President - Accounts, Tax, Budgeting, Finance, Legal & Investor Relations | Apollo Tyres Ltd. (APOLLOTYRE) | 2018 | — |
+| Vice President - Accounts, Tax, Budgeting, Finance, Legal & Investor Relations | Apollo Tyres Ltd. (APOLLOTYRE) | 2018 | 2026 |
 | Partner in Tax and Regulatory | KPMG India | — | — |
 
 ### 5. On the calls

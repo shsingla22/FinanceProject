@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | Sanjeev Agarwal (resignation; last day 2026-11-13) | — not named | effective | 2026-11-13 |
+| **Chief Executive Officer** | Sanjeev Agarwal (resignation; last day 2026-11-13) | — not named | seat vacant — no successor named | 2026-11-13 |
 
 - **Why Sanjeev Agarwal is leaving, in the filing's words:** “Shri Sanjeev Agarwal has tendered his resignation from the position of Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13th November, 2026.” Stays on as: Advisor providing advisory services to the Company during the transition period upto 31st December, 2026.
-- In the documents: “The Board noted the resignation tendered by Shri Sanjeev Agarwal as Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13th November, 2026.” — [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026175212_IWL_Results_FY2026_27_LR_2.pdf) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026180100_IWL_Results_FY2026_27_LR_2.pdf)
+- In the documents: “The Board noted the resignation tendered by Shri Sanjeev Agarwal as Chief Executive Officer of the Company due to personal reasons with effect from the close of the business hours on 13t November, 2026.” — [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026175212_IWL_Results_FY2026_27_LR_2.pdf) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026180100_IWL_Results_FY2026_27_LR_2.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-11-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/INOXWIND_ROID_104849_KMP_Doc.zip) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026175212_IWL_Results_FY2026_27_LR_2.pdf) · [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INOXWIND_13112026180100_IWL_Results_FY2026_27_LR_2.pdf)
 

@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | S. Ramachandra Reddy (moved to another role in the company or group; last day 2026-02-13) | Ankit Shah (external; from 2026-02-13) | effective | 2026-02-13 |
+| **Chief Financial Officer (CFO)** | S. Ramachandra Reddy (resignation; last day 2026-02-13) | Ankit Shah (external; from 2026-02-13) | effective | 2026-02-13 |
 | **Chief Financial Officer** | Ankit Shah (resignation; last day 2026-07-24) | Narasimha Raju K A (external; from 2026-07-09) | effective | 2026-06-09 |
 
-- **Why S. Ramachandra Reddy is leaving, in the filing's words:** “I, S. Ramachandra Reddy owing to organizational structural changes, hereby tender my resignation from the position of Chief Financial Officer (CFO) of the Company with effect from February 13, 2026.” Stays on as: General Manager – Finance & Accounts.
-- In the documents: “The appointment of Mr. Ankit Shah , as a Chief Financial Officer (CFO) of the Company , with effect from February 13, 2026.” — [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026151254_BMOutcomeWithoutUFR13022026S.pdf) · [2026-02-13 Change in Director(s)](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026151453_BMOutcomeWithoutUFR13022026S.pdf) · [2026-02-13 Resignation](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026152025_BMOutcomeWithoutUFR13022026S.pdf) · +1 more
-- **Why Ankit Shah is leaving, in the filing's words:** “Mr. Ankit Shah, Chief Financial Officer of the Company has resigned from the services of the Company on account of personal reasons.”
+- **Why S. Ramachandra Reddy is leaving, in the filing's words:** “Mr. S. Ramachandra Reddy has stepped down from the position of Chief Financial Officer pursuant to organizational restructuring and will continue to serve the Company in his existing role as General Manager – Finance & Accounts.” Stays on as: General Manager – Finance & Accounts.
+- In the documents: “The appointment of Mr. Ankit Shah, as a Chief Financial Officer (CFO) of the Company, with effect from February 13, 2026.” — [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026151254_BMOutcomeWithoutUFR13022026S.pdf) · [2026-02-13 Change in Director(s)](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026151453_BMOutcomeWithoutUFR13022026S.pdf) · [2026-02-13 Resignation](https://nsearchives.nseindia.com/corporate/VIJAYA_13022026152025_BMOutcomeWithoutUFR13022026S.pdf) · +1 more
+- **Why Ankit Shah is leaving, in the filing's words:** “Mr. Ankit Shah, Chief Financial Officer of the Company has resigned from the services of the Company on account of personal reasons. His last date with the Company would be on or before July 24, 2026.”
 - In the documents: “We hereby inform you that, the Board of Directors of the Company at their meeting held today i.e., on Thursday, July 09, 2026, has inter-alia considered and approved the appointment of Mr. Narasimha Raju K.A. as Chief financial officer of the Company w.e.f. July 09, 2026.” — [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VIJAYA_09072026191111_Outcome_BM_09072026.pdf) · [2026-06-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/VIJAYA_ROID_89730_KMP_Doc.zip) · [2026-06-09 Resignation](https://nsearchives.nseindia.com/corporate/VIJAYA_09062026143402_Stx_intimation_Signed.pdf) · +1 more
 
 *All 10 filing(s) read for the seats:* [2026-09-26 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VIJAYA_26092026131429_Stx_Intimation_Voting_Results_Signed.pdf) · [2026-07-09 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/VIJAYA_09072026191111_Outcome_BM_09072026.pdf) · [2026-07-09 Appointment](https://nsearchives.nseindia.com/corporate/VIJAYA_09072026191334_Outcome_BM_09072026.pdf) · [2026-06-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/VIJAYA_ROID_89730_KMP_Doc.zip) · [2026-06-09 Resignation](https://nsearchives.nseindia.com/corporate/VIJAYA_09062026143402_Stx_intimation_Signed.pdf) · [2026-05-11 Shareholders meeting](https://nsearchives.nseindia.com/corporate/VIJAYA_11052026143234_Stx_Intimation_Voting_Results_Signed.pdf) · +4 more
@@ -79,9 +79,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Ankit Shah** — Chief Financial Officer (CFO). from: external; experience: over two decades of experience; qualifications: Chartered Accountant ... He holds a Bachelor's degree in Commerce from Osmania University and has undertaken advanced professional training and certifications across these domains..
+**Ankit Shah** — Chief Financial Officer (CFO). from: external; experience: over two decades; qualifications: Chartered Accountant ... He holds a Bachelor's degree in Commerce from Osmania University and has undertaken advanced professional training and certifications across these domains..
 
-The filing's own profile: “Mr. Ankit Shah is a Chartered Accountant with over two decades of experience spanning finance and accounts, investment analysis, business planning, strategy, investor relations, transaction advisory, and specialized expertise in healthcare finance. He holds a Bachelor's degree in Commerce from Osmania University and has undertaken advanced professional training and certifications across these domains. In his previous role, Mr. Shah served as Group Chief Financial Officer at Incor Hospitals Private Limited (OMNI Hospitals).”
+The filing's own profile: “Mr. Ankit Shah is a Chartered Accountant with over two decades of experience spanning finance and accounts, investment analysis, business planning, strategy, investor relations, transaction advisory, and specialized expertise in healthcare finance. He holds a Bachelor's degree in Commerce from Osmania University and has undertaken advanced professional training and certifications across these domains. In his previous role, Mr. Shah served as Group Chief Financial Officer at Incor Hospitals Private Limited (OMNI Hospitals). Prior thereto, he was associated with Alexandria Equities Management (India) Private Limited, the Indian subsidiary of a NYSE-listed global real estate investment trust. Prior to this, he was part of Ernst & Young's Transaction Advisory Services practice and earlier in his career with few Audit firms.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -89,15 +89,15 @@ The filing's own profile: “Mr. Ankit Shah is a Chartered Accountant with over 
 | — | Alexandria Equities Management (India) Private Limited | — | — |
 | part of Ernst & Young's Transaction Advisory Services practice | Ernst & Young | — | — |
 
-**Narasimha Raju K A** — Chief Financial Officer. from: external; experience: over 20 years of extensive experience; qualifications: Chartered Accountant.
+**Narasimha Raju K A** — Chief Financial Officer. from: external; experience: over 20 years; qualifications: Chartered Accountant.
 
-The filing's own profile: “Mr. Narasimha Raju K A is a Chartered Accountant and an accomplished Chief Financial Officer with over 20 years of extensive experience in finance, accounting, corporate governance, and strategic leadership. He combines a strong foundation in Big Four audit, having worked with S R Batliboi & Co (an affiliate of Ernst & Young), with senior leadership experience across the healthcare, diagnostics, renewable energy, and real estate sectors. Mr. Narasimha Raju was also the CFO of our Company during March 15, 2021 to March 26, 2025. Prior to rejoining the Company now, Mr. Narasimha Raju served as the Chief Financial Officer of Yashoda Group of Hospitals.”
+The filing's own profile: “Mr. Narasimha Raju K A is a Chartered Accountant and an accomplished Chief Financial Officer with over 20 years of extensive experience in finance, accounting, corporate governance, and strategic leadership. He combines a strong foundation in Big Four audit, having worked with S R Batliboi & Co (an affiliate of Ernst & Young), with senior leadership experience across the healthcare, diagnostics, renewable energy, and real estate sectors. Mr. Narasimha Raju was also the CFO of our Company during March 15, 2021 to March 26, 2025. ... Prior to rejoining the Company now, Mr. Narasimha Raju served as the Chief Financial Officer of Yashoda Group of Hospitals.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Big Four audit | S R Batliboi & Co (an affiliate of Ernst & Young) | — | — |
-| CFO | Vijaya Diagnostic Centre Limited (our Company) | 2021 | 2025 |
 | Chief Financial Officer | Yashoda Group of Hospitals | — | — |
+| CFO | Vijaya Diagnostic Centre Limited (VIJAYA) | 2021 | 2025 |
+| Big Four audit | S R Batliboi & Co (an affiliate of Ernst & Young) | — | — |
 
 ### 5. On the calls
 

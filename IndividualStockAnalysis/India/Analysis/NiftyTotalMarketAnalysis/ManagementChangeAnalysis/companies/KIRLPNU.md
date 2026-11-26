@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director and Managing Director (also occupying the position of Chief Executive Officer and Key Managerial Personnel)** | K Srinivasan (end of term; last day 2026-03-31) | Aman Rahul Kirloskar (promoter family; from 2026-04-01) | effective | 2026-01-23 |
+| **Director and Managing Director** | K Srinivasan (end of term; last day 2026-03-31) | Aman Rahul Kirloskar (promoter family; from 2026-04-01) | effective | 2026-01-23 |
 
-- **Why K Srinivasan is leaving, in the filing's words:** “in view of completion of tenure of Mr. K Srinivasan, Managing Director on March 31, 2026”
-- In the documents: “As informed earlier vide our Letter No(s). SEC&LEG/ 364 dated January 23, 2026 and SEC&LEG/425 dated March 24, 2026, Mr. Aman Kirloskar, Vice President ACR would take over as the Managing Director and Key Managerial Personnel (KMP) effective from April 1, 2026.” — [2026-03-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_24032026115415_RESULTS_OF_POSTAL_BALLOT.pdf) · [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/revatideshpande_20022026155428_KPCL_PB.pdf) · [2026-01-23 Press Release](https://nsearchives.nseindia.com/corporate/truneshgujar_23012026144526_PRESS_RELEASE.pdf) · +1 more
+- **Why K Srinivasan is leaving, in the filing's words:** “Effective March 31, 2026, Mr. Srinivasan has concluded his tenure as Managing Director.”
+- In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015; this is to inform that upon the recommendation of the Nomination and Remuneration Committee the Board of Directors at its meeting held on January 23, 2026 have approved the appointment of Mr. Aman Rahul Kirloskar (DIN 09823056) as a Director and Managing Director (also occupying the position of Key Managerial Personnel), w.e.f. April 1, 2026 upto March 31, 2031 (both days inclusive), with substantial powers of Management, subject to the approval of the Members by way of Postal Ballot, in view of completion of tenure of Mr. K Srinivasan, Managing Director on March 31, 2026.” — [2026-03-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_24032026115415_RESULTS_OF_POSTAL_BALLOT.pdf) · [2026-02-20 Shareholders meeting](https://nsearchives.nseindia.com/corporate/revatideshpande_20022026155428_KPCL_PB.pdf) · [2026-01-23 Press Release](https://nsearchives.nseindia.com/corporate/truneshgujar_23012026144526_PRESS_RELEASE.pdf) · +1 more
 
-*All 15 filing(s) read for the seats:* [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026141219_KPCL_Outcome.pdf) · [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026141639_KPCL_Outcome.pdf) · [2026-04-27 Change in Director(s)](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026141837_KPCL_Outcome.pdf) · [2026-04-27 Acquisition](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026142122_KPCL_Outcome.pdf) · [2026-04-27 Updates](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026143101_KPCL_Outcome.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026190044_KPCL_Outcome.pdf) · +9 more
+*All 20 filing(s) read for the seats:* [2026-10-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_27102026134203_KPCL-OUTCOME.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_21072026132809_KPCL_Outcome.pdf) · [2026-07-21 Acquisition](https://nsearchives.nseindia.com/corporate/truneshgujar_21072026133207_KPCL_Outcome.pdf) · [2026-04-27 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026141219_KPCL_Outcome.pdf) · [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026141639_KPCL_Outcome.pdf) · [2026-04-27 Change in Director(s)](https://nsearchives.nseindia.com/corporate/truneshgujar_27042026141837_KPCL_Outcome.pdf) · +14 more
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**K Srinivasan** — Director and Managing Director (also occupying the position of Chief Executive Officer and Key Managerial Personnel), date of taking the seat not on file.
+**K Srinivasan** — Director and Managing Director, date of taking the seat not on file.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -50,7 +50,7 @@
 
 ### 4. Track record — the incoming management
 
-**Aman Rahul Kirloskar** — Director and Managing Director (also occupying the position of Chief Executive Officer and Key Managerial Personnel). from: promoter family; age 31 years; qualifications: graduated in Business Administration from Bryant University, Smithfield, RI, with a major in Global Supply Chain Management and Minor in Political Science in 2017.
+**Aman Rahul Kirloskar** — Director and Managing Director. from: promoter family; age 31; qualifications: graduated in Business Administration from Bryant University, Smithfield, RI, with a major in Global Supply Chain Management and Minor in Political Science in 2017.
 
 The filing's own profile: “Mr Aman Kirloskar (31 years), graduated in Business Administration from Bryant University, Smithfield, RI, with a major in Global Supply Chain Management and Minor in Political Science in 2017. He was also a proud recipient of University Wide Jeremiah Clark Barber Commencement Award. He also worked for Toyota Motors North America, wherein he focussed on International Logistics. Since moving back to India, he started his career with Kirloskar Group as a Supply Chain Manager with Kirloskar Chillers Private Limited in May 2018. He later on joined Kirloskar Pneumatic Company Limited as a Senior Manager in August 2019 and was instrumental in developing business, playing a vital role in formulating business strategies and effective implementation of the strategies.”
 
@@ -60,7 +60,6 @@ The filing's own profile: “Mr Aman Kirloskar (31 years), graduated in Business
 | Supply Chain Manager | Kirloskar Chillers Private Limited | 2018 | — |
 | Senior Manager | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2019 | — |
 | General Manager (Operations) | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2020 | — |
-| Associate Vice President of Air Conditioning and Refrigeration Business (ACR SBU) / Head of the Air Conditioning and Refrigeration business unit | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2023 | — |
 | Vice President - ACR SBU | Kirloskar Pneumatic Company Limited (KIRLPNU) | 2024 | 2026 |
 
 ### 5. On the calls

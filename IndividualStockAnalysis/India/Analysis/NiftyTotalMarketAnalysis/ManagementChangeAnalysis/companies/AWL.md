@@ -26,7 +26,7 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | — (new seat) | Pankaj Goyal (internal; from 2026-07-31) | effective | 2026-07-30 |
 
-- **Why the holder is leaving, in the filing's words:** “Mr. Pankaj Goyal was serving as Interim Chief Financial Officer of the Company prior to his appointment.”
+- **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Mr. Pankaj Goyal , who has been serving as the Interim Chief Financial Officer of the Company, has been appointed as the Chief Financial Officer of the Company, categorized as Key Managerial Personnel and Senior Management Personnel with effect from 31st July 2026.” — [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf)
 
 *All 5 filing(s) read for the seats:* [2026-07-30 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_30072026174805_Change_in_Mgt_Pankaj_Goyal.pdf) · [2026-07-16 Change in Management](https://nsearchives.nseindia.com/corporate/AWL_16072026123827_Suchandan_Resignation.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026160442_SE_AGM_Proceedings.pdf) · [2026-07-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_07072026164307_SE_AGM_Proceedings.pdf) · [2025-12-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AWL_17122025183438_SE_Inti_Postal_Ballot.pdf)
@@ -65,9 +65,9 @@
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Pankaj Goyal** — Chief Financial Officer. from: internal; experience: over 23 years of extensive experience; qualifications: Mr. Pankaj Goyal is a Chartered Accountant by profession.
+**Pankaj Goyal** — Chief Financial Officer. from: internal; experience: over 23 years; qualifications: Mr. Pankaj Goyal is a Chartered Accountant by profession.
 
-The filing's own profile: “Mr. Pankaj Goyal is a Chartered Accountant by profession and has been associated with the Company as the Finance Controller since 2019. He brings with him over 23 years of extensive experience in financial accounting, taxation, governance framework implementation, mergers and acquisitions (including due diligence and integration), business transformation, and financial planning. During his tenure, he has been at the forefront of strengthening the controllership function, ensuring robust governance, compliance, and financial discipline across the organization.”
+The filing's own profile: “Mr. Pankaj Goyal is a Chartered Accountant by profession and has been associated with the Company as the Finance Controller since 2019. He brings with him over 23 years of extensive experience in ﬁnancial accounting, taxation, governance framework implementation, mergers and acquisitions (including due diligence and integration), business transformation, and ﬁnancial planning. During his tenure, he has been at the forefront of strengthening the controllership function, ensuring robust governance, compliance, and ﬁnancial discipline across the organization. He has been associated with the Adani Group since 2009, contributing to various Group companies, including Adani Ports and Special Economic Zone Limited and Adani Green Energy Limited, where he played a key role in ﬁnancial management and compliance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

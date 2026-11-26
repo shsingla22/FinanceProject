@@ -8,13 +8,13 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
+| **'Managing Director' (Key Managerial Personnel) of the Company** | Jagjeevan Kumar Jain (moved to another role in the company or group; last day 2026-05-31) | Rahul Jain (promoter family; from 2026-06-01) | effective | 2026-05-30 |
 | **CEO & Whole-time Director (Key Managerial Personnel)** | Vineet Sahni (resignation; last day 2026-05-31) | — not named | seat vacant — no successor named | 2026-05-19 |
-| **Managing Director (Key Managerial Personnel)** | Jagjeevan Kumar Jain (moved to another role in the company or group; last day 2026-05-31) | Rahul Jain (promoter family; from 2026-06-01) | effective | 2026-05-30 |
 
-- **Why Vineet Sahni is leaving, in the filing's words:** “For the resignation, he has cited personal reasons and decision to pursue other interests.”
-- In the documents: “The Board of Directors of the Company has accepted resignation of Mr. Vineet Sahni, from the position of CEO & Whole-time Director (Key Managerial Personnel), w.e.f. the close of business hours on May 31, 2026.” — [2026-05-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163132_FIEMINDBMOutcomeMay2026.pdf) · [2026-05-30 Resignation](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163930_FIEMINDCEOResignUpdate.pdf) · [2026-05-30 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/FIEMIND_ROID_89255_KMP_Doc.zip) · +1 more
-- **Why Jagjeevan Kumar Jain is leaving, in the filing's words:** “Re-designation and Appointment as Executive Chairman” Stays on as: Executive Chairman (Key Managerial Personnel) of the Company in the Category of Whole-time Director.
+- **Why Jagjeevan Kumar Jain is leaving, in the filing's words:** “Re-designation and Appointment as Executive Chairman” Stays on as: Executive Chairman (Key Managerial Personnel) of the Company in the Category of Whole-time Director, w.e.f. June 1, 2026 till August 6, 2030.
 - In the documents: “Based on the recommendations of the Nomination & Remuneration Committee, the Board of Directors of the Company have approved the re-designation and appointment of Mr. Rahul Jain (DIN: 00013566) as Managing Director (Key Managerial Personnel) of the Company, w.e.f. June 1, 2026 till the completion of his current term i.e., till September 30, 2030, subject to approval of the shareholders of the Company in ensuing 37th AGM.” — [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_31072026183154_FIEMIND37thAGMProcedings.pdf) · [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_08072026173633_FIEMIND37thAGMNotice.pdf) · [2026-05-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163132_FIEMINDBMOutcomeMay2026.pdf) · +1 more
+- **Why Vineet Sahni is leaving, in the filing's words:** “For the resignation, he has cited personal reasons and decision to pursue other interests.”
+- In the documents: “Pursuant to Regulation 30(2)/(6) read with Para A of Part A of Schedule III of Listing Regulations, we hereby intimate that today Company has received resignation from Mr. Vineet Sahni, CEO & Whole-time Director (Key Managerial Personnel) (DIN: 03616096).” — [2026-05-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163132_FIEMINDBMOutcomeMay2026.pdf) · [2026-05-30 Resignation](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163930_FIEMINDCEOResignUpdate.pdf) · [2026-05-30 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/FIEMIND_ROID_89255_KMP_Doc.zip) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_31072026183154_FIEMIND37thAGMProcedings.pdf) · [2026-07-31 Change in Director(s)](https://nsearchives.nseindia.com/corporate/FIEMIND_31072026185128_FIEMINDDIRReApp31072026.pdf) · [2026-07-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_08072026173633_FIEMIND37thAGMNotice.pdf) · [2026-05-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163132_FIEMINDBMOutcomeMay2026.pdf) · [2026-05-30 Resignation](https://nsearchives.nseindia.com/corporate/FIEMIND_30052026163930_FIEMINDCEOResignUpdate.pdf) · [2026-05-30 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/FIEMIND_ROID_89255_KMP_Doc.zip) · +2 more
 
@@ -44,6 +44,20 @@
 
 ### 3. Track record — the outgoing management
 
+**Jagjeevan Kumar Jain** — 'Managing Director' (Key Managerial Personnel) of the Company, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 1,221 | 2,816 | +18.2% a year over 5 years |
+| Operating profit (₹ cr) | 134 | 396 | +24.2% a year over 5 years |
+| PAT (₹ cr) | 47.0 | 256 | +40.4% a year over 5 years |
+| Operating profit margin (%) | 11.0 | 14.1 | +3.1 pts |
+| ROCE (%) | 12.0 | 29.0 | +17.0 pts |
+| ROE (%) | 8.3 | 21.1 | +12.8 pts |
+| Borrowings (₹ cr) | 77.0 | 66.0 | -11 |
+
 **Vineet Sahni** — CEO & Whole-time Director (Key Managerial Personnel), in the seat since FY2023 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
@@ -58,30 +72,16 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 14.6 | 21.1 | +6.5 pts |
 | Borrowings (₹ cr) | 46.0 | 66.0 | +20 |
 
-**Jagjeevan Kumar Jain** — Managing Director (Key Managerial Personnel), date of taking the seat not on file.
-
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
-
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 1,221 | 2,816 | +18.2% a year over 5 years |
-| Operating profit (₹ cr) | 134 | 396 | +24.2% a year over 5 years |
-| PAT (₹ cr) | 47.0 | 256 | +40.4% a year over 5 years |
-| Operating profit margin (%) | 11.0 | 14.1 | +3.1 pts |
-| ROCE (%) | 12.0 | 29.0 | +17.0 pts |
-| ROE (%) | 8.3 | 21.1 | +12.8 pts |
-| Borrowings (₹ cr) | 77.0 | 66.0 | -11 |
-
 ### 4. Track record — the incoming management
 
-**Rahul Jain** — Managing Director (Key Managerial Personnel). from: promoter family; qualifications: He holds a Bachelor of Science degree and has pursued Management Studies from the University of Bradford..
+**Rahul Jain** — 'Managing Director' (Key Managerial Personnel) of the Company. from: promoter family; qualifications: He holds a Bachelor of Science degree and has pursued Management Studies from the University of Bradford..
 
-The filing's own profile: “Mr. Rahul Jain has been associated with the Board of the Company since November 14, 2004, and currently serves as the Joint Managing Director of the Company. He holds a Bachelor of Science degree and has pursued Management Studies from the University of Bradford. He has played an important role in the Company's growth and operational transformation, with active involvement in manufacturing operations, business development, corporate planning, and strategic affairs across the Company's manufacturing units. With a strong focus on technology adoption, process optimization, and operational excellence, Mr. Rahul Jain has extensively travelled internationally to study advanced manufacturing practices and emerging technologies in the automotive sector.”
+The filing's own profile: “Mr. Rahul Jain has been associated with the Board of the Company since November 14, 2004, and currently serves as the Joint Managing Director of the Company. He holds a Bachelor of Science degree and has pursued Management Studies from the University of Bradford. He has played an important role in the Company's growth and operational transformation, with active involvement in manufacturing operations, business development, corporate planning, and strategic affairs across the Company's manufacturing units.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Joint Managing Director | Fiem Industries Limited (FIEMIND) | 2023 | 2026 |
-| Director (associated with the Board of the Company since November 14, 2004) | Fiem Industries Limited (FIEMIND) | 2004 | — |
+| Director (associated with the Board) | Fiem Industries Limited (FIEMIND) | 2004 | — |
 
 ### 5. On the calls
 

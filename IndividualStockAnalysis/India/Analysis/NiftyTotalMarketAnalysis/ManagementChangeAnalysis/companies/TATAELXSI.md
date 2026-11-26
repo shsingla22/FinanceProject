@@ -11,9 +11,9 @@
 | **Chief Financial Officer** | Gaurav Bajaj (resignation; last day 2026-05-29) | Nalin Rana (group company; from 2026-05-30) | effective | 2026-04-27 |
 
 - **Why Gaurav Bajaj is leaving, in the filing's words:** “Resignation to pursue career opportunities outside the organization”
-- In the documents: “Further, pursuant to the recommendation of the NRC, the Board has approved the appointment of Mr. Nalin Rana as the Chief Financial Officer of the Company effective May 30, 2026, succeeding Mr. Gaurav Bajaj.” — [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/TELNSE_27042026085031_ChangeinKMP.pdf) · [2026-04-27 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TATAELXSI_ROID_83324_KMP_Doc.zip)
+- In the documents: “Further, pursuant to the recommendation of the NRC, the Board has approved the appointment of Mr. Nalin Rana as the Chief Financial Officer of the Company effective May 30, 2026, succeeding Mr. Gaurav Bajaj.” — [2026-05-30 Updates](https://nsearchives.nseindia.com/corporate/TELNSE_30052026103148_KMPsauthorisedtodetermineMaterialevents.pdf) · [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/TELNSE_27042026085031_ChangeinKMP.pdf) · [2026-04-27 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TATAELXSI_ROID_83324_KMP_Doc.zip)
 
-*All 2 filing(s) read for the seats:* [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/TELNSE_27042026085031_ChangeinKMP.pdf) · [2026-04-27 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TATAELXSI_ROID_83324_KMP_Doc.zip)
+*All 3 filing(s) read for the seats:* [2026-05-30 Updates](https://nsearchives.nseindia.com/corporate/TELNSE_30052026103148_KMPsauthorisedtodetermineMaterialevents.pdf) · [2026-04-27 Change in Management](https://nsearchives.nseindia.com/corporate/TELNSE_27042026085031_ChangeinKMP.pdf) · [2026-04-27 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/TATAELXSI_ROID_83324_KMP_Doc.zip)
 
 ### 2. Financials — the last three years
 
@@ -47,7 +47,7 @@
 
 ### 4. Track record — the incoming management
 
-**Nalin Rana** — Chief Financial Officer. from: group company; experience: 17 years; qualifications: post-graduate management degree from Indian Institute of Management Indore and a B.Tech. in Electrical Engineering from National Institute of Technology Silchar.
+**Nalin Rana** — Chief Financial Officer. from: group company; experience: 17 years; qualifications: Nalin holds a post-graduate management degree from Indian Institute of Management Indore and a B.Tech. in Electrical Engineering from National Institute of Technology Silchar..
 
 The filing's own profile: “Mr. Nalin Rana has 17 years of diversified experience across strategic finance, business planning, corporate strategy and investment banking. Nalin joined Tata Group in 2021 and is currently a senior leader in the Group CFO and Group Strategy Office of Tata Sons and a Member of the Board at Tata Teleservices Limited and Tata Teleservices (Maharashtra) Limited. At Tata Sons, he has responsibilities across multiple business verticals and has spearheaded key projects across strategic analysis of businesses, investments, fund raising and mergers & acquisitions. Prior to joining Tata Group, Nalin was an Executive Director in the investment banking team at Standard Chartered Bank where he was responsible for business development and execution.”
 

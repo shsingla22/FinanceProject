@@ -81,7 +81,9 @@ What the documents say about them: “Individual members of the promoter Jain fa
 
 **Chakresh Kumar Jain** — Chief Financial Officer (CFO). from: internal.
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Managing Director | PNC Infratech Limited (PNCINFRA) | — | — |
 
 ### 5. On the calls
 

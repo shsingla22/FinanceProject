@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Snehal Shah (retirement; last day 2026-02-28) | Keyur Shah (group company; from 2026-03-01) | effective | 2026-01-28 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company** | Snehal Shah (retirement; last day 2026-02-28) | Keyur Shah (group company; from 2026-03-01) | effective | 2026-01-28 |
 
 - **Why Snehal Shah is leaving, in the filing's words:** “This appointment is consequent to the superannuation of Mr. Snehal Shah in terms of Company's policy.”
 - In the documents: “This is to inform you pursuant to the Listing Regulations that based on the recommendation of the Nomination and Remuneration Committee and Audit Committee, the Board of Directors ('Board') at its meeting held today i.e. Wednesday, 28th January, 2026 has approved the appointment of Mr. Keyur Shah as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company w.e.f. 1st March, 2026.” — [2026-01-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CENTURYTEX_28012026141114_intimation.pdf) · [2026-01-28 Appointment](https://nsearchives.nseindia.com/corporate/CENTURYTEX_28012026141534_Changeinmanagement.pdf) · [2026-01-28 Retirement](https://nsearchives.nseindia.com/corporate/CENTURYTEX_28012026141652_Changeinmanagement.pdf)
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Snehal Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Snehal Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -57,16 +57,16 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Keyur Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: group company; experience: more than 30 years of professional experience.
+**Keyur Shah** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company. from: group company; experience: more than 30 years of professional experience.
 
-The filing's own profile: “Mr. Keyur Shah joined on 15th May, 2023 as CFO of BEPL. He served HDFC where he joined in August 2005, his last assignment was MD and CEO of HDFC Property Ventures Limited and Non-Executive Director of HDFC Education & Development Services Ltd. He possesses more than 30 years of professional experience and has worked extensively in Real Estate Investment Services as a business leader. Mr. Keyur has a successful track record of setting up large fund corpus, with investors from India and abroad. Prior to joining HDFC he had worked at KPMG and Castro! India Ltd.”
+The filing's own profile: “Mr. Keyur Shah joined on 15th May, 2023 as CFO of BEPL. He served HDFC where he joined in August 2005, his last assignment was MD and CEO of HDFC Property Ventures Limited and Non-Executive Director of HDFC Education & Development Services Ltd. He possesses more than 30 years of professional experience and has worked extensively in Real Estate Investment Services as a business leader. This has helped him develop deep understanding and ability of representing the organizational interests to all external stakeholders from investors, JV partners and to Government /regulators on various policy matters. He has also worked with various constituents of the investor community. Prior to joining HDFC he had worked at KPMG and Castrol India Ltd.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Financial Officer and Key Managerial Personnel | Birla Estates Private Limited (BEPL) | 2023 | — |
+| Chief Financial Officer and Key Managerial Personnel | Birla Estates Private Limited (BEPL), a wholly owned subsidiary of the Company | 2023 | — |
+| joined HDFC in August 2005 | HDFC | 2005 | — |
 | MD and CEO | HDFC Property Ventures Limited | — | — |
 | Non-Executive Director | HDFC Education & Development Services Ltd | — | — |
-| — | HDFC | 2005 | — |
 | — | KPMG | — | — |
 | — | Castrol India Ltd (CASTROLIND) | — | — |
 

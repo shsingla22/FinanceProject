@@ -59,25 +59,25 @@ The filing's own profile: “Mr. Amit Roy is an accomplished finance leader with
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Sr. General Manager - Finance, heading the Taxation Department | Relaxo Footwears Limited (RELAXO) | — | — |
+| Sr. General Manager - Finance, heading the Taxation Department | Relaxo Footwears Limited (RELAXO) | — | 2026 |
 | VP (F&A) heading finance accounts and Treasury departments | Caretel Infotech Ltd. (Dalmia Group CO.) | — | — |
 | Divisional Financial Controller | Jubilant Organosys Ltd. | — | — |
 
 **Gaurav Kumaar Dua** — Co-Chief Executive Officer & Whole-time Director (Co - CEO & WTD). from: promoter family; experience: over 25 years of experience in Sales and marketing in footwear industry; qualifications: He has done MBA from University of Wales.
 
-The filing's own profile: “Mr. Gaurav Kumaar Dua has over 25 years of experience in Sales and marketing in footwear industry. He has done MBA from University of Wales and has been pivotal for various initiatives in the Company for revenue, growth, market expansion and branding rejuvenation. Mr. Gaurav Kumaar Dua is son of Mr. Ramesh Kumar Dua, Managing Director of the Company and is also part of promoter group.”
+The filing's own profile: “Mr. Gaurav Kumaar Dua has over 25 years of experience in Sales and marketing in footwear industry. He has done MBA from University of Wales and has been pivotal for various initiatives in the Company for revenue, growth, market expansion and branding rejuvenation.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Whole time Director (WTD) | Relaxo Footwears Limited (RELAXO) | — | 2026 |
+| Whole time Director (WTD) | Relaxo Footwears Limited (RELAXO) | 2023 | 2026 |
 
 **Ritesh Dua** — Co-Chief Executive Officer (Co-CEO). from: promoter family; experience: over 26 years of experience in Finance, HR, IT & Export; qualifications: He has done MBA from Fore School of Management, Delhi.
 
-The filing's own profile: “Mr. Ritesh Dua has over 26 years of experience in Finance, HR, IT & Export. He has done MBA from Fore School of Management, Delhi and has played the key role in Company's Export, Information Technology, Human Resource and Finance to take the Company in leading manner. Mr. Ritesh Dua is son of Mr. Mukand Lal Dua & brother of Mr. Nikhil Dua, Whole Time Directors of the Company and is also part of promoter group.”
+The filing's own profile: “Mr. Ritesh Dua has over 26 years of experience in Finance, HR, IT & Export. He has done MBA from Fore School of Management, Delhi and has played the key role in Company's Export, Information Technology, Human Resource and Finance to take the Company in leading manner.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Vice President (Finance) | Relaxo Footwears Limited (RELAXO) | — | 2026 |
+| Executive Vice President (Finance) | Relaxo Footwears Limited (RELAXO) | 2023 | 2026 |
 
 ### 5. On the calls
 

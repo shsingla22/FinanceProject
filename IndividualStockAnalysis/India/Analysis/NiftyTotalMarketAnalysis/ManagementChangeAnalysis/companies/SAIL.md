@@ -8,16 +8,16 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman & Managing Director (CMD), Steel Authority of India Limited** | Krishna Kumar Singh (interim holder replaced) | Ashok Kumar Panda (internal; from 2026-05-09) | effective | 2026-05-09 |
-| **Director (Finance), Steel Authority of India Limited** | Ashok Kumar Panda (moved to another role in the company or group) | Ashok Kumar Panda (interim; internal) | effective | 2026-05-09 |
-| **Chairman and Managing Director, Steel Authority of India Limited (SAIL)** | Amarendu Prakash (resignation; last day 2026-04-01) | Krishna Kumar Singh (interim; internal; from 2026-04-02) | effective | 2026-04-02 |
+| **Chairman and Managing Director** | Amarendu Prakash (resignation; last day 2026-04-01) | Krishna Kumar Singh (interim; internal; from 2026-04-02) | effective | 2026-04-02 |
+| **Chairman & Managing Director (CMD)** | Krishna Kumar Singh (interim holder replaced) | Ashok Kumar Panda (internal; from 2026-05-09) | effective | 2026-05-09 |
+| **Director (Finance)** | Ashok Kumar Panda (moved to another role in the company or group) | Ashok Kumar Panda (interim; internal) | effective | 2026-05-09 |
 
+- **Why Amarendu Prakash is leaving, in the filing's words:** “After considerable reflection, I hereby submit my resignation from the position of Chairman and Managing Director of Steel Authority of India Ltd.”
+- In the documents: “Further, in terms of the Order of the Government of India, Ministry of Steel, Shri Krishna Kumar Singh, Director (Personnel), SAIL has been given the additional Charge of the Post of Chairman and Managing Director, SAIL for a period of 3 months from 2"^^ April, 2026 to 1^^ July, 2026, or till appointment and joining of regular incumbent to the post or until further orders, whichever is the earliest.” — [2026-04-02 Resignation](https://nsearchives.nseindia.com/corporate/SAIL_02042026122818_02042026.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/SAIL_02042026123259_02042026.pdf)
 - **Why Krishna Kumar Singh is leaving, in the filing's words:** “not stated” Stays on as: Director (Personnel), SAIL.
-- In the documents: “It is hereby informed that subsequent to appointment by Government of India vide their order dated May, 2026, Dr. Ashok Kumar Panda, Director (Finance), Steel Authority of India Limited has joined as Chairman & Managing Director (CMD), Steel Authority of India Limited, w.e.f. 9 May, 2026.” — [2026-05-09 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_09052026203504_Comp_090592026.pdf) · [2026-04-02 Resignation](https://nsearchives.nseindia.com/corporate/SAIL_02042026122818_02042026.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/SAIL_02042026123259_02042026.pdf)
-- **Why Ashok Kumar Panda is leaving, in the filing's words:** “Prior to taking over as CMD, SAIL, he had been working as the Director (Finance)” Stays on as: Chairman and Managing Director with additional charge of Director of Finance.
-- In the documents: “we welcome Dr. Ashok Panda, Chairman and Managing Director with additional charge of Director of Finance of Steel Authority of India along with his team” — [2026-05-09 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_09052026203504_Comp_090592026.pdf)
-- **Why Amarendu Prakash is leaving, in the filing's words:** “After considerable reflection, I hereby submit my resignation from the position of Chairman and Managing Director of Steel Authority of India Ltd. effective 15 January'2026.”
-- In the documents: “Further, in terms of the Order of the Government of India, Ministry of Steel, Shri Krishna Kumar Singh, Director (Personnel), SAIL has been given the additional Charge of the Post of Chairman and Managing Director, SAIL for a period of 3 months from 2nd April, 2026 to 1st July, 2026, or till appointment and joining of regular incumbent to the post or until further orders, whichever is the earliest.” — [2026-04-02 Resignation](https://nsearchives.nseindia.com/corporate/SAIL_02042026122818_02042026.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/SAIL_02042026123259_02042026.pdf)
+- In the documents: “It is hereby informed that subsequent to appointment by. Government of India vide their order dated May, 2026, Dr. Ashok Kumar Panda, Director (Finance), Steel Authority of India Limited has joined as Chairman & Managing Director (CMD), Steel Authority of India Limited, w.e.f. 9^*^ May, 2026.” — [2026-05-09 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_09052026203504_Comp_090592026.pdf) · [2026-04-02 Resignation](https://nsearchives.nseindia.com/corporate/SAIL_02042026122818_02042026.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/SAIL_02042026123259_02042026.pdf)
+- **Why Ashok Kumar Panda is leaving, in the filing's words:** “Prior to taking over as CMD, SAIL, he had been working as the Director (Finance)” Stays on as: Chairman & Managing Director, SAIL, with additional charge of Director of Finance.
+- In the documents: “It is hereby informed that subsequent to appointment by. Government of India vide their order dated May, 2026, Dr. Ashok Kumar Panda, Director (Finance), Steel Authority of India Limited has joined as Chairman & Managing Director (CMD), Steel Authority of India Limited, w.e.f. 9^*^ May, 2026.” — [2026-05-09 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_09052026203504_Comp_090592026.pdf)
 
 *All 4 filing(s) read for the seats:* [2026-05-09 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_09052026203504_Comp_090592026.pdf) · [2026-04-02 Resignation](https://nsearchives.nseindia.com/corporate/SAIL_02042026122818_02042026.pdf) · [2026-04-02 Change in Management](https://nsearchives.nseindia.com/corporate/SAIL_02042026123259_02042026.pdf) · [2025-12-25 Appointment](https://nsearchives.nseindia.com/corporate/SAIL_25122025201044_24122025.pdf)
 
@@ -47,11 +47,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Krishna Kumar Singh** — Chairman & Managing Director (CMD), Steel Authority of India Limited, in the seat since FY2027 per the filing.
-
-*No tenure record: the tenure is shorter than one full fiscal year on file.*
-
-**Ashok Kumar Panda** — Director (Finance), Steel Authority of India Limited, date of taking the seat not on file.
+**Amarendu Prakash** — Chairman and Managing Director, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -65,7 +61,11 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 9.1 | 5.6 | -3.5 pts |
 | Borrowings (₹ cr) | 37,677 | 31,928 | -5,749 |
 
-**Amarendu Prakash** — Chairman and Managing Director, Steel Authority of India Limited (SAIL), date of taking the seat not on file.
+**Krishna Kumar Singh** — Chairman & Managing Director (CMD), in the seat since FY2027 per the filing.
+
+*No tenure record: the tenure is shorter than one full fiscal year on file.*
+
+**Ashok Kumar Panda** — Director (Finance), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -81,30 +81,31 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ashok Kumar Panda** — Chairman & Managing Director (CMD), Steel Authority of India Limited. from: internal; experience: more than 3 decades; qualifications: B.E. in Electrical Engineering, Full-Time PGDM, Ph.D. in Business Management.
+**Krishna Kumar Singh** — Chairman and Managing Director (interim). from: internal.
 
-The filing's own profile: “Dr. Ashok Kumar Panda is technocrat-cum-finance expert widely recognized for his deep technical knowledge and domain expertise. After completing his B.E. in Electrical Engineering, he joined SAIL as Management Trainee (Technical) in 1992 but kept his zeal to enhance his knowledge alive, and completed his Full-Time PGDM and later also acquired Ph.D. in Business Management. Dr. Panda has more than 3 decades of experience cutting across disciplines, and hierarchy in different Plants/Units of SAIL, a technology driven Company. Prior to taking over as CMD, SAIL, he had been working as the Director (Finance). He has also held the charge of Director (Commercial) for a brief period of about 9 months.”
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Director (Personnel) | Steel Authority of India Limited (SAIL) | — | — |
+
+**Ashok Kumar Panda** — Chairman & Managing Director (CMD). from: internal; experience: more than 3 decades; qualifications: B.E. in Electrical Engineering, Full-Time PGDM and later also acquired Ph.D. in Business Management.
+
+The filing's own profile: “Dr. Ashok Kumar Panda is technocrat-cum-fmance expert widely recognized for his deep technicai^ knowledge and domain expertise. After completing his B.E. in Electrical Engineering, he joined SAIL as Management Trainee (Technical) in 1992 but kept his zeal to enhance his knowledge alive, and completed his Full-Time PGDM and later also acquired Ph.D. in Business Management. Dr. Panda has more than 3 decades of experience cutting across disciplines, and hierarchy in different Plants/Units of SAIL, a technology driven Company. He has major contributions to his credit in the areas of strategic planning and policy making, production, projects appraisal and execution, marketing and sales, procurement, EBITDA improvement, cost and budget, treasury management, taxation, etc.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Management Trainee (Technical) | Steel Authority of India Limited (SAIL) | 1992 | — |
 | Director (Finance) | Steel Authority of India Limited (SAIL) | — | 2026 |
-| Director (Commercial) (charge held for about 9 months) | Steel Authority of India Limited (SAIL) | — | — |
-| Nominee Director | ICVL (joint venture of SAIL) | — | — |
+| Director (Commercial) (charge held for a brief period of about 9 months) | Steel Authority of India Limited (SAIL) | — | — |
+| Nominee Director | ICVL, a joint venture of SAIL | — | — |
 
-**Ashok Kumar Panda** — Director (Finance), Steel Authority of India Limited (interim). from: internal; experience: more than 3 decades; qualifications: B.E. in Electrical Engineering, Full-Time PGDM, Ph.D. in Business Management.
+**Ashok Kumar Panda** — Director (Finance) (interim). from: internal; experience: more than 3 decades; qualifications: B.E. in Electrical Engineering, Full-Time PGDM and later also acquired Ph.D. in Business Management.
 
-The filing's own profile: “Dr. Ashok Kumar Panda is technocrat-cum-finance expert widely recognized for his deep technical knowledge and domain expertise. Prior to taking over as CMD, SAIL, he had been working as the Director (Finance), wherein he took measures for improving operational efficiencies through technical interventions, boosting production with product basket enrichment, revamping of major policies and procedures in the area of Operations, Sales and Marketing, HR, Finance, etc.”
+The filing's own profile: “we welcome Dr. Ashok Panda, Chairman and Managing Director with additional charge of Director of Finance of Steel Authority of India along with his team”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Director (Finance) | Steel Authority of India Limited (SAIL) | — | 2026 |
-
-**Krishna Kumar Singh** — Chairman and Managing Director, Steel Authority of India Limited (SAIL) (interim). from: internal.
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Director (Personnel) | Steel Authority of India Limited (SAIL) | — | — |
+| Chairman & Managing Director | Steel Authority of India Limited (SAIL) | 2026 | — |
 
 ### 5. On the calls
 

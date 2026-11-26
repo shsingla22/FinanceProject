@@ -13,7 +13,7 @@
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “This is to inform that the Board of Directors at their meeting held today, i.e., January 19, 2026, have approved the appointment of Mr. Satyaki Ghosh as the Chief Executive Officer and Key Managerial Personnel of the Company effective from January 19, 2026.” — [2026-05-06 Appointment](https://nsearchives.nseindia.com/corporate/RLL_06052026195701_RLLSEIntimationWTDsigned.pdf) · [2026-05-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RLL_06052026200517_RLLSEIntimationWTDsigned.pdf) · [2026-01-19 Appointment](https://nsearchives.nseindia.com/corporate/RLL_19012026150951_RLLCEOappointmentsigned.pdf) · +1 more
-- **Why Vishal Raigagla is leaving, in the filing's words:** “Mr. Vishal Raigagla ceased to be the Interim Chief Financial Officer, Key Managerial Personnel of the Company on appointment of Mr. Prasad Ellatch Chathuar as Chief Financial Officer and Key Managerial Personnel of the Company”
+- **Why Vishal Raigagla is leaving, in the filing's words:** “Mr. Vishal Raigagla ceased to be the Interim Chief Financial Officer, Key Managerial Personnel of the Company on appointment of Mr. Prasad Ellatch Chathuar as Chief Financial Officer and Key Managerial Personnel of the Company .”
 - In the documents: “Mr. Prasad Ellatch Chathuar has been appointed as the Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. January 27, 2026, in place of Mr. Vishal Raigagla, Interim CFO pursuant to Section 203 of the Companies Act, 2013.” — [2026-01-27 Change in Management](https://nsearchives.nseindia.com/corporate/RLL_27012026114804_Appointment_of_ECP_as_CFO.pdf) · [2026-01-27 Appointment](https://nsearchives.nseindia.com/corporate/RLL_27012026115052_Appointment_of_ECP_as_CFO.pdf) · [2026-01-05 Change in Management](https://nsearchives.nseindia.com/corporate/RLL_05012026185837_SE_Intimation_RLL_SMP.pdf)
 
 *All 10 filing(s) read for the seats:* [2026-07-14 Shareholders meeting](https://nsearchives.nseindia.com/corporate/RLL_14072026164058_RLLAGMProceedingssigned.pdf) · [2026-07-14 Appointment](https://nsearchives.nseindia.com/corporate/RLL_14072026200007_RLLWTDappointmentsigned.pdf) · [2026-05-06 Appointment](https://nsearchives.nseindia.com/corporate/RLL_06052026195701_RLLSEIntimationWTDsigned.pdf) · [2026-05-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RLL_06052026200517_RLLSEIntimationWTDsigned.pdf) · [2026-03-05 Change in Management](https://nsearchives.nseindia.com/corporate/RLL_05032026192715_RLLSEintimationSMPsigned.pdf) · [2026-01-27 Change in Management](https://nsearchives.nseindia.com/corporate/RLL_27012026114804_Appointment_of_ECP_as_CFO.pdf) · +4 more
@@ -50,15 +50,15 @@
 
 ### 4. Track record — the incoming management
 
-**Satyaki Ghosh** — Chief Executive Officer and Key Managerial Personnel of the Company. from: external; experience: over 25 years of experience.
+**Satyaki Ghosh** — Chief Executive Officer and Key Managerial Personnel of the Company. from: external; experience: over 25 years of experience across FMCG, textiles, retail, and consumer businesses.
 
-The filing's own profile: “Mr. Satyaki Ghosh is an accomplished business leader with over 25 years of experience across FMCG, textiles, retail, and consumer businesses, with deep expertise spanning both B2B and B2C environments. He joins Raymond Lifestyle Limited from the Aditya Birla Group, where he most recently served as Chief Executive Officer – Cellulosic Fashion Yarn, Grasim Industries, leading a large, manufacturing-intensive business with a strong focus on operational excellence, sustainability, and profitable growth. Prior to this role, he served as Chief Executive Officer – Domestic Textiles at the Aditya Birla Group and also led the Thai Acrylic Fibre business, overseeing multi-country operations and complex global manufacturing footprints.”
+The filing's own profile: “Mr. Satyaki Ghosh is an accomplished business leader with over 25 years of experience across FMCG, textiles, retail, and consumer businesses, with deep expertise spanning both B2B and B2C environments. He joins Raymond Lifestyle Limited from the Aditya Birla Group, where he most recently served as Chief Executive Officer – Cellulosic Fashion Yarn, Grasim Industries, leading a large, manufacturing-intensive business with a strong focus on operational excellence, sustainability, and profitable growth.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Executive Officer – Cellulosic Fashion Yarn | Grasim Industries (Aditya Birla Group) | — | — |
 | Chief Executive Officer – Domestic Textiles | Aditya Birla Group | — | — |
-| led the Thai Acrylic Fibre business | Thai Acrylic Fibre | — | — |
+| led the business | Thai Acrylic Fibre | — | — |
 | Director – Consumer Products Division | L’Oréal India | — | — |
 | leadership roles | PepsiCo India | — | — |
 | leadership roles | Spencer’s Retail | — | — |
@@ -73,7 +73,7 @@ The filing's own profile: “Mr. Prasad Ellatch Chathuar is a visionary executiv
 |---|---|---|---|
 | Chief Financial Officer | Bajaj Electricals Limited (BAJAJELEC) | — | — |
 | senior position for over 17 years | Voltas Limited (VOLTAS) | — | — |
-| — | Emami Paper Mills Limited | — | — |
+| worked for 5 years | Emami Paper Mills Limited | — | — |
 
 ### 5. On the calls
 

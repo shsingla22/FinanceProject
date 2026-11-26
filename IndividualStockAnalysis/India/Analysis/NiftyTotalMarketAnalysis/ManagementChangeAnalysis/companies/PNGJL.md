@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Whole-time Director & Chief Financial Officer** | Kiran Prakash Firodiya (resignation; last day 2026-01-23) | Deepak Kumar Vijay (external; from 2026-01-24) | effective | 2025-12-18 |
+| **Whole-time Director & Chief Financial Officer (outgoing); Chief Financial Officer (Key Managerial Personnel) (incoming)** | Kiran Prakash Firodiya (resignation; last day 2026-01-23) | Deepak Kumar Vijay (external; from 2026-01-24) | effective | 2025-12-18 |
 
 - **Why Kiran Prakash Firodiya is leaving, in the filing's words:** “Resignation due to personal reasons.”
 - In the documents: “Mr. Kiran Prakash Firodiya (DIN: 03386738) has tendered his resignation from the position of the Whole-time Director & Chief Financial Officer w.e.f. closure of business hours of January 23, 2026, due to personal reasons.” — [2026-01-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_23012026141151_OutcomeJan23.pdf) · [2026-01-23 Appointment](https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_23012026141823_OutcomeJan23.pdf) · [2026-01-23 Appointment](https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_23012026142034_OutcomeJan23.pdf) · +1 more
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Kiran Prakash Firodiya** — Whole-time Director & Chief Financial Officer, date of taking the seat not on file.
+**Kiran Prakash Firodiya** — Whole-time Director & Chief Financial Officer (outgoing); Chief Financial Officer (Key Managerial Personnel) (incoming), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Deepak Kumar Vijay** — Whole-time Director & Chief Financial Officer. from: external; experience: over 18 years; qualifications: He is a Chartered Accountant with executive education from IIM Ahmedabad and has completed CFA Level II..
+**Deepak Kumar Vijay** — Whole-time Director & Chief Financial Officer (outgoing); Chief Financial Officer (Key Managerial Personnel) (incoming). from: external; experience: over 18 years; qualifications: He is a Chartered Accountant with executive education from IIM Ahmedabad and has completed CFA Level II..
 
-The filing's own profile: “Mr. Deepak Vijay is an accomplished finance leader with over 18 years of cross-industry experience across apparel sourcing, retail, manufacturing, and hospitality sectors. He is a Chartered Accountant with executive education from IIM Ahmedabad and has completed CFA Level II. Over the course of his career, he has held senior and leadership roles with globally respected organizations including Techno Design (subsidiary of PDS Limited), Marks & Spencer (India – JV with Reliance Retail), Fossil Group, and IHCL (Taj Hotels).”
+The filing's own profile: “Mr. Deepak Vijay is an accomplished finance leader with over 18 years of cross-industry experience across apparel sourcing, retail, manufacturing, and hospitality sectors. He is a Chartered Accountant with executive education from IIM Ahmedabad and has completed CFA Level II. Over the course of his career, he has held senior and leadership roles with globally respected organizations including Techno Design (subsidiary of PDS Limited), Marks & Spencer (India – JV with Reliance Retail), Fossil Group, and IHCL (Taj Hotels). He is recognized for leading end-to-end finance function, building high performance global finance team, process and digital transformations in finance, board-level business partnering, compliance and governance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

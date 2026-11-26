@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Ravi Dugar (resignation; last day 2026-02-02) | Sumit Rochlani (internal; from 2026-02-03) | effective | 2026-01-05 |
 
-- **Why Ravi Dugar is leaving, in the filing's words:** “to pursue better career opportunities”
-- In the documents: “Mr. Ravi Dugar, Chief Financial Officer and Key Managerial Personnel of the Company has tendered his resignation from the Company to pursue better career opportunities.” — [2026-01-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162148_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Resignation](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162714_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Appointment](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162958_Outcome_Regulation_30_Signed.pdf) · +1 more
+- **Why Ravi Dugar is leaving, in the filing's words:** “has tendered his resignation from the Company to pursue better career opportunities”
+- In the documents: “On the basis of due recommendations of Nomination & Remuneration Committee and subsequent to the approval of the Audit Committee, the Board of Directors appointed Mr. Sumit Rochlani, as Chief Financial Officer (CFO) of the Company (Key Managerial Personnel & Senior Managerial Personnel) w.e.f. February 3, 2026” — [2026-01-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162148_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Resignation](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162714_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Appointment](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162958_Outcome_Regulation_30_Signed.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-01-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162148_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Resignation](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162714_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Appointment](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026162958_Outcome_Regulation_30_Signed.pdf) · [2026-01-05 Updates](https://nsearchives.nseindia.com/corporate/AWFIS2014_05012026164032_Outcome_Regulation_30_Signed.pdf)
 
@@ -56,13 +56,13 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Sumit Rochlani** — Chief Financial Officer. from: internal; experience: over 14 years of experience in finance; qualifications: a Chartered Accountant, having qualified from the Institute of Chartered Accountants of India (ICAI) in 2009.
+**Sumit Rochlani** — Chief Financial Officer. from: internal; experience: over 14 years of experience in finance; qualifications: is a Chartered Accountant, having qualified from the Institute of Chartered Accountants of India (ICAI) in 2009.
 
 The filing's own profile: “Mr. Rochlani brings over 14 years of experience in finance and is a Chartered Accountant, having qualified from the Institute of Chartered Accountants of India (ICAI) in 2009. He has extensive expertise across multiple finance domains, including Audit, Controllership, Financial Planning & Analysis (FP&A), Corporate Finance, and Indirect Taxation.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| deputy Chief Financial Officer | Awfis Space Solutions Limited (AWFIS) | — | — |
+| deputy Chief Financial Officer | Awfis Space Solutions Limited (AWFIS) | — | 2026 |
 
 ### 5. On the calls
 

@@ -23,15 +23,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Group Chief Executive Officer** | Rajaram Narayanan (moved to another role in the company or group) | Haribabu Bodepudi (from 2025-12-16) | effective | 2025-12-16 |
+| **Managing Director and Group Chief Executive Officer** | Rajaram Narayanan (moved to another role in the company or group; last day 2025-12-16) | Haribabu Bodepudi (from 2025-12-16) | effective | 2025-12-16 |
 | **Chief Financial Officer and Key Managerial Personnel** | Saurav Bhala (resignation; last day 2026-01-01) | Ramakant Singani (group company; from 2026-01-01) | effective | 2025-12-16 |
 
-- **Why Rajaram Narayanan is leaving, in the filing's words:** “Change in designation of Mr. Rajaram Narayanan (DIN: 02977405) as whole time director designated as CEO – Animal Health of the Company with effect from December 16, 2025.” Stays on as: Wholetime director designated as Chief Executive Officer – Animal Health.
-- In the documents: “Approved appointment of Dr. Haribabu Bodepudi (DIN: 01119687) as the Managing Director and Group Chief Executive Officer of the Company for a period of 2 consecutive years w.e.f. December 16, 2025, subject to shareholders approval.” — [2026-07-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_17072026165704_SEAnnual_Report_Notice.pdf) · [2026-03-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_13032026194349_SEIntimationVotingResultsWTD.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · +1 more
+- **Why Rajaram Narayanan is leaving, in the filing's words:** “Approved change in designation of Mr. Rajaram Narayanan (DIN: 02977405) to Wholetime director designated as Chief Executive Officer – Animal Health of the Company for the remaining period of his existing tenure w.e.f. December 16, 2025” Stays on as: Wholetime director designated as Chief Executive Officer – Animal Health.
+- In the documents: “Approved appointment of Dr. Haribabu Bodepudi (DIN: 01119687) as the Managing Director and Group Chief Executive Officer of the Company for a period of 2 consecutive years w.e.f. December 16, 2025, subject to shareholders approval.” — [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf) · [2025-12-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025184356_Outcome_BM_Dec_16_2025.pdf) · +1 more
 - **Why Saurav Bhala is leaving, in the filing's words:** “I wish to formally resign from my position as Group Chief Financial Officer of Sequent Scientific Ltd, effective 1 January 2026, to pursue external professional opportunities.”
-- In the documents: “Approved appointment of Mr. Ramakant Singani as Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. January 1, 2026.” — [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf)
+- In the documents: “Approved appointment of Mr. Ramakant Singani as Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. January 1, 2026.” — [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf) · [2025-12-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025184356_Outcome_BM_Dec_16_2025.pdf) · +1 more
 
-*All 4 filing(s) read for the seats:* [2026-07-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_17072026165704_SEAnnual_Report_Notice.pdf) · [2026-03-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_13032026194349_SEIntimationVotingResultsWTD.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · [2025-12-16 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025185518_Outcome_BM_Dec_16_2025.pdf)
+*All 9 filing(s) read for the seats:* [2026-07-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_17072026165704_SEAnnual_Report_Notice.pdf) · [2026-03-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_13032026194349_SEIntimationVotingResultsWTD.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026205627_Outcome_of_Board_Meeting_05022026_signed.pdf) · [2026-02-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026211020_Outcome_of_Board_Meeting_05022026_signed.pdf) · [2026-02-05 Change in Management](https://nsearchives.nseindia.com/corporate/SEQUENT1_05022026225606_Outcome_of_BM_05022026.pdf) · [2025-12-23 Cessation](https://nsearchives.nseindia.com/corporate/SEQUENT1_23122025182851_Binder1.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -95,18 +95,18 @@ The filing's own profile: “Dr. Hari Babu Bodepudi holds a PhD degree in organi
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| COO | Mylan India | — | — |
-| CEO | Mylan India | — | — |
-| Global COO | Mylan | — | — |
+| COO of Mylan India | Mylan India | — | — |
+| CEO of Mylan India | Mylan India | — | — |
+| Global COO of Mylan | Mylan | — | — |
 
-**Ramakant Singani** — Chief Financial Officer and Key Managerial Personnel. from: group company; experience: 31 years.
+**Ramakant Singani** — Chief Financial Officer and Key Managerial Personnel. from: group company; experience: 31 years of experience across all aspects of finance.
 
-The filing's own profile: “• 31 years of experience across all aspects of finance including Business Finance, Accounting, Financial planning and analysis, ERP implementation and cost management • Chief Financial Officer of Viyash since September 2021. • Prior to joining Viyash, was Head of GMO Finance at Dr. Reddy's.”
+The filing's own profile: “31 years of experience across all aspects of finance including Business Finance, Accounting, Financial planning and analysis, ERP implementation and cost management • Chief Financial Officer of Viyash since September 2021. • Prior to joining Viyash, was Head of GMO Finance at Dr. Reddy's.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Viyash | 2021 | — |
-| Head of GMO Finance | Dr. Reddy's | — | — |
+| Head of GMO Finance | Dr. Reddy's | — | 2021 |
 
 ### 5. On the calls
 

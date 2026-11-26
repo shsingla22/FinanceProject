@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company** | Vikas Jain (resignation; last day 2027-01-31) | — not named | announced, not yet effective | 2026-11-23 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | Vikas Jain (resignation; last day 2027-01-31) | — not named | announced, not yet effective | 2026-11-23 |
 
-- **Why Vikas Jain is leaving, in the filing's words:** “I hereby tender my resignation from the position of Chief Financial Officer (CFO) of TBO Tek Limited for external career opportunity. My last working day shall be 31st January 2027.”
-- In the documents: “Mr. Vikas Jain, Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company has resigned from the services of the Company vide email dated November 23, 2026, to pursue external career opportunities.” — [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf)
+- **Why Vikas Jain is leaving, in the filing's words:** “I hereby tender my resignation from the position of Chief Financial Officer (CFO) of TBO Tek Limited for external career opportunity.”
+- In the documents: “Mr. Vikas Jain, Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company has resigned from the services of the Company vide email dated November 23, 2026, to pursue external career opportunities.” — [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf) · [2026-08-05 Updates](https://nsearchives.nseindia.com/corporate/9810411243_05082026151750_SEBRSR05082026.pdf)
 
-*All 1 filing(s) read for the seats:* [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf)
+*All 2 filing(s) read for the seats:* [2026-11-23 Cessation](https://nsearchives.nseindia.in/corporate/9810411243_23112026190836_SEResignation_of_CFOsigned.pdf) · [2026-08-05 Updates](https://nsearchives.nseindia.com/corporate/9810411243_05082026151750_SEBRSR05082026.pdf)
 
 ### 2. Financials — the last three years
 
@@ -39,7 +39,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Vikas Jain** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Vikas Jain** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 

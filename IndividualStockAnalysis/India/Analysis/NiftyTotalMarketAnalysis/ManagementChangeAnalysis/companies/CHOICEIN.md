@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Manoj Singhania (moved to another role in the company or group; last day 2026-08-10) | Ayush Sharma (from 2026-08-10) | effective | 2026-08-10 |
 
-- **Why Manoj Singhania is leaving, in the filing's words:** “Consequent to taking over other responsibilities within the Group” Stays on as: continues with the Company in another role, taking up other responsibilities within the management.
-- In the documents: “Mr. Manoj Singhania has tendered his resignation from the position of Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company, with effect from the close of business hours on August 10, 2026 consequent to taking over other responsibilities within the Group.” — [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOICE_10082026202229_upload.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
+- **Why Manoj Singhania is leaving, in the filing's words:** “due to taking over other responsibilities within the Group.” Stays on as: another role within the Group, taking up other responsibilities within the management.
+- In the documents: “The Board of Directors of the Company based on the recommendations of the Nomination and Remuneration Committee and Audit Committee have approved the appointment of Mr. Ayush Sharma as the Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company with effect from August 10, 2026.” — [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOICE_10082026202229_upload.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-08-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOICE_10082026202229_upload.pdf) · [2026-08-10 Change in Management](https://nsearchives.nseindia.com/corporate/CHOICE_10082026203108_Upload.pdf)
 
@@ -59,7 +59,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Ayush Sharma** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). experience: over 14 years.
 
-The filing's own profile: “Mr. Ayush Sharma is a seasoned finance professional with over 14 years of experience in financial management, strategic planning, corporate finance, financial advisory, audit, regulatory compliance, and business finance. Over the course of his career, he has developed extensive expertise in financial reporting, accounting, taxation, internal controls, treasury management, budgeting, risk management, capital structuring, and statutory compliance.”
+The filing's own profile: “Mr. Ayush Sharma is a seasoned finance professional with over 14 years of experience in financial management, strategic planning, corporate finance, financial advisory, audit, regulatory compliance, and business finance. Over the course of his career, he has developed extensive expertise in financial reporting, accounting, taxation, internal controls, treasury management, budgeting, risk management, capital structuring, and statutory compliance. His international professional exposure in Dubai has enriched his understanding of global financial practices, governance frameworks, and regulatory standards, enabling him to implement robust financial controls and best-in-class financial management processes.”
 
 ### 5. On the calls
 

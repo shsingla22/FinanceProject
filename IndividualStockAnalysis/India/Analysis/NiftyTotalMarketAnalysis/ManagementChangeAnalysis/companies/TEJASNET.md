@@ -12,9 +12,9 @@
 | **Chief Financial Officer** | Sumit Dhingra (resignation; last day 2026-05-15) | AVS Prasad (internal; from 2026-05-16) | effective | 2026-04-15 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointed Mr. Arnob Roy (DIN: 03176672) (currently the Executive Director & Chief Operating Officer), as the Managing Director & Chief Executive Officer of the Company, for the period from April 15, 2026 to August 3, 2028, subject to approval of Shareholders of the Company .” — [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TEJASNET_15042026203628_Changes_in_managementsd.pdf)
+- In the documents: “Appointed Mr. Arnob Roy (DIN: 03176672) (currently the Executive Director & Chief Operating Officer), as the Managing Director & Chief Executive Officer of the Company, for the period from April 15, 2026 to August 3, 2028, subject to approval of Shareholders of the Company.” — [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TEJASNET_15042026203628_Changes_in_managementsd.pdf)
 - **Why Sumit Dhingra is leaving, in the filing's words:** “not stated”
-- In the documents: “Took on record and accepted the resignation of Mr. Sumit Dhingra as the Chief Financial Officer of the Company , effective close of business hours on May 15, 2026.” — [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TEJASNET_15042026203628_Changes_in_managementsd.pdf)
+- In the documents: “Approved the appointment of Mr. AVS Prasad as the Chief Financial Officer of the Company, with effect from May 16, 2026.” — [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TEJASNET_15042026203628_Changes_in_managementsd.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-04-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/TEJASNET_15042026203628_Changes_in_managementsd.pdf)
 
@@ -60,7 +60,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Arnob Roy** — Managing Director & Chief Executive Officer. from: internal; experience: over 30 years of high-technology industry experience.
+**Arnob Roy** — Managing Director & Chief Executive Officer. from: internal; experience: over 30 years.
 
 The filing's own profile: “Mr. Arnob Roy has over 30 years of high-technology industry experience in Research & Development, Operations and Sales. Hitherto, he held the position of Executive Director & Chief Operating Officer of the Company during the period from March 25, 2019 till April 14, 2026.”
 
@@ -69,8 +69,6 @@ The filing's own profile: “Mr. Arnob Roy has over 30 years of high-technology 
 | Executive Director & Chief Operating Officer | Tejas Networks Limited (TEJASNET) | 2019 | 2026 |
 
 **AVS Prasad** — Chief Financial Officer. from: internal.
-
-The filing's own profile: “Mr. AVS Prasad, who is currently the Financial Controller of Tejas, has been appointed as the Chief Financial Officer of the company with effect from 16th of May.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | P Ranjit (moved to another role in the company or group) | Rampraveen Swaminathan (external; from 2026-01-22) | effective | 2026-01-19 |
+| **Managing Director** | P Ranjit (moved to another role in the company or group; last day 2026-01-21) | Rampraveen Swaminathan (external; from 2026-01-22) | effective | 2026-01-19 |
 
-- **Why P Ranjit is leaving, in the filing's words:** “To strengthen the leadership framework of the Company in view of future operational expansion, professionalization and growth trajectory.” Stays on as: Executive Vice Chairman (Whole-time Director) of the Company, for a term of five (5) consecutive years commencing from January 22, 2026 to January 21, 2031; continues as a member of the Board.
-- In the documents: “The Board has approved the appointment of Mr. Rampraveen Swaminathan (DIN: 01300682) as an Additional Director, designated as Managing Director of the Company, for a term of five (5) consecutive years commencing from January 22, 2026 to January 21, 2031, on such terms and conditions as recommended by the Nomination and Remuneration Committee, subject to approval of the shareholders by way of postal ballot.” — [2026-01-19 Change in Management](https://nsearchives.nseindia.com/corporate/ARCHEAN_19012026185801_Intimation_Sd.pdf)
+- **Why P Ranjit is leaving, in the filing's words:** “To strengthen the leadership framework of the Company in view of future operational expansion, professionalization and growth trajectory.” Stays on as: Executive Vice Chairman (Whole-time Director) of the Company, for a term of five consecutive years from January 22, 2026 to January 21, 2031; continues to serve as a member of the Board.
+- In the documents: “The Board has approved the appointment of Mr. Rampraveen Swaminathan (DIN: 01300682) as an Additional Director, designated as Managing Director of the Company, for a term of five (5) consecutive years commencing from January 22, 2026 to January 21, 2031, on such terms and conditions as recommended by the Nomination and Remuneration Committee, subject to approval of the shareholders by way of postal ballot.” — [2026-05-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ARCHEAN_12052026003006_BoardMeetingOutcome.pdf) · [2026-02-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ARCHEAN_04022026195940_BM_Outcome_04022026.pdf) · [2026-01-19 Change in Management](https://nsearchives.nseindia.com/corporate/ARCHEAN_19012026185801_Intimation_Sd.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-11-24 General Updates](https://nsearchives.nseindia.in/corporate/ARCHEAN_24112026215549_Intimation_CEO_Appointment_SicSem.pdf) · [2026-01-19 Change in Management](https://nsearchives.nseindia.com/corporate/ARCHEAN_19012026185801_Intimation_Sd.pdf)
+*All 4 filing(s) read for the seats:* [2026-11-24 General Updates](https://nsearchives.nseindia.in/corporate/ARCHEAN_24112026215549_Intimation_CEO_Appointment_SicSem.pdf) · [2026-05-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ARCHEAN_12052026003006_BoardMeetingOutcome.pdf) · [2026-02-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ARCHEAN_04022026195940_BM_Outcome_04022026.pdf) · [2026-01-19 Change in Management](https://nsearchives.nseindia.com/corporate/ARCHEAN_19012026185801_Intimation_Sd.pdf)
 
 ### 2. Financials — the last three years
 
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rampraveen Swaminathan** — Managing Director. from: external; age 51 years; experience: over 28 years; qualifications: holds a bachelor's degree in commerce, a PGDM in Finance & Strategy, and has completed Executive Education at Harvard Business School.
+**Rampraveen Swaminathan** — Managing Director. from: external; age 51; experience: over 28 years; qualifications: a bachelor's degree in commerce, a PGDM in Finance & Strategy, and has completed Executive Education at Harvard Business School.
 
-The filing's own profile: “Mr. Rampraveen Swaminathan, 51 years, has over 28 years of experience in business leadership, operations, and strategic transformation across industrials, energy, and manufacturing sectors. He has led large-scale growth, technology-enabled transformations, and operational turnarounds across multiple geographies. He previously served as MD & CEO of Mahindra Logistics Limited (2019–2025), where he repositioned the company as an integrated, technology-driven logistics provider and significantly scaled its revenues.”
+The filing's own profile: “Mr. Rampraveen Swaminathan, 51 years, has over 28 years of experience in business leadership, operations, and strategic transformation across industrials, energy, and manufacturing sectors. He has led large-scale growth, technology-enabled transformations, and operational turnarounds across multiple geographies. He previously served as MD & CEO of Mahindra Logistics Limited (2019–2025), where he repositioned the company as an integrated, technology-driven logistics provider and significantly scaled its revenues. He has held senior leadership roles including: Sr Vice President & Zone President – Schneider Electric; Corporate Vice President / President – International Paper Co. (India Operations); Leadership roles at Cummins Inc. and Cummins India Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

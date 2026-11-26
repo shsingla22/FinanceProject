@@ -11,10 +11,10 @@
 | **Chairman, Managing Director & Chief Executive Officer** | Ravi Jhunjhunwala (moved to another role in the company or group; last day 2026-09-01) | Riju Jhunjhunwala (promoter family; from 2026-09-01) | effective | 2026-08-24 |
 | **Chief Financial Officer and Key Managerial Personnel of the Company** | Ravi Kant Tripathi (moved to another role in the company or group; last day 2026-09-01) | Neha Rajvanshi (group company; from 2026-09-01) | effective | 2026-08-24 |
 
-- **Why Ravi Jhunjhunwala is leaving, in the filing's words:** “Relinquishment from the office of Chairman, Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company consequent upon transfer of his employment/ appointment as Chairman, Managing Director & Chief Executive Officer to/of HEG Graphite Limited” Stays on as: Non-Executive Non Independent Director of the Company, liable to retire by rotation; and Chairman, Managing Director & Chief Executive Officer of HEG Graphite Limited (now renamed HEG Limited).
+- **Why Ravi Jhunjhunwala is leaving, in the filing's words:** “Relinquishment from the office of Chairman, Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company consequent upon transfer of his employment/ appointment as Chairman, Managing Director & Chief Executive Officer to/of HEG Graphite Limited” Stays on as: Non-Executive Non-Independent Director of the Company, liable to retire by rotation; Chairman, Managing Director & Chief Executive Officer of HEG Graphite Limited.
 - In the documents: “Elevated from Vice-Chairman (Non-Executive) to Chairman, Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company with effect from September 1, 2026, up to August 31, 2031, subject to the approval of the shareholders of the Company” — [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182611_FinalOutcome24082026.pdf) · [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182755_FinalOutcome24082026.pdf) · [2026-08-24 Cessation](https://nsearchives.nseindia.com/corporate/HEG_24082026184144_FinalOutcome24082026.pdf) · +1 more
-- **Why Ravi Kant Tripathi is leaving, in the filing's words:** “Cessation as Chief Financial Officer and Key Managerial Personnel of the Company consequent upon transfer of his employment to HEG Graphite Limited pursuant to the effectiveness of the Composite Scheme of Arrangement” Stays on as: employment transferred to HEG Graphite Limited.
-- In the documents: “Cessation as Chief Financial Officer and Key Managerial Personnel of the Company consequent upon transfer of his employment to HEG Graphite Limited pursuant to the effectiveness of the Composite Scheme of Arrangement” — [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182611_FinalOutcome24082026.pdf) · [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182755_FinalOutcome24082026.pdf) · [2026-08-24 Cessation](https://nsearchives.nseindia.com/corporate/HEG_24082026184144_FinalOutcome24082026.pdf) · +1 more
+- **Why Ravi Kant Tripathi is leaving, in the filing's words:** “Cessation of Shri Ravi Kant Tripathi as Chief Financial Officer of the Company consequent upon transfer of his employment to HEG Graphite Limited pursuant to the effectiveness of the Composite Scheme of Arrangement.” Stays on as: employment transferred to HEG Graphite Limited.
+- In the documents: “Appointment of Ms. Neha Rajvanshi as Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182611_FinalOutcome24082026.pdf) · [2026-08-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEG_24082026182755_FinalOutcome24082026.pdf) · [2026-08-24 Cessation](https://nsearchives.nseindia.com/corporate/HEG_24082026184144_FinalOutcome24082026.pdf) · +1 more
 
 *All 28 filing(s) read for the seats:* [2026-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEGAM_03112026231804_STEX.pdf) · [2026-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEGAM_03112026232807_STEX.pdf) · [2026-11-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HEGAM_03112026233818_STEX.pdf) · [2026-10-28 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HEGAM_28102026182501_STEX_PostalBallotNotice.pdf) · [2026-10-26 Press Release](https://nsearchives.nseindia.com/corporate/HEGAM_26102026165636_STEX_PR_RijuSir_asChairman.pdf) · [2026-10-26 Updates](https://nsearchives.nseindia.com/corporate/HEGAM_26102026215114_StEX_MPCL_DrChange.pdf) · +22 more
 
@@ -38,17 +38,17 @@ No statements on file for this company.
 
 ### 4. Track record — the incoming management
 
-**Riju Jhunjhunwala** — Chairman, Managing Director & Chief Executive Officer. from: promoter family; qualifications: Shri Riju Jhunjhunwala holds a Bachelor's Degree in Science with Business & Management Studies from the University of Bradford, United Kingdom.
+**Riju Jhunjhunwala** — Chairman, Managing Director & Chief Executive Officer. from: promoter family; qualifications: Bachelor's Degree in Science with Business & Management Studies from the University of Bradford, United Kingdom.
 
 The filing's own profile: “Mr. Riju Jhunjhunwala possesses rich and diversified experience in industry and business management. He served as the Managing Director of Bhilwara Energy Limited (the "Transferor Company") from August 2010 and currently holds the position of Chairman & Managing Director of RSWM Limited. Prior to his appointment as Chairman & Managing Director, he served as the Vice Chairman of HEG Limited. His association with HEG Limited also includes serving as an Executive Director from 30 April 2009 to 27 July 2010. Earlier, he was the Joint Managing Director/Managing Director of RSWM Limited from 23 October 2003 to 29 April 2009. His extensive leadership experience spans diverse sectors, including textiles, power generation, and industrial manufacturing.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Vice-Chairman (Non-Executive) | HEG Limited (now HEG Advanced Materials Limited) | — | 2026 |
-| Executive Director | HEG Limited | 2009 | 2010 |
+| Executive Director | HEG Limited (now HEG Advanced Materials Limited) | 2009 | 2010 |
 | Managing Director | Bhilwara Energy Limited | 2010 | — |
-| Chairman, Managing Director & CEO | RSWM Limited | — | — |
 | Joint Managing Director/Managing Director | RSWM Limited | 2003 | 2009 |
+| Chairman, Managing Director & CEO | RSWM Limited | — | — |
 
 Results of **HEG** while they were Chairman there (annual reports on file show the seat FY2022–FY2026):
 
@@ -62,13 +62,13 @@ Results of **HEG** while they were Chairman there (annual reports on file show t
 | ROE (%) | -0.5 | 7.2 | +7.7 pts |
 | Borrowings (₹ cr) | 298 | 796 | +498 |
 
-**Neha Rajvanshi** — Chief Financial Officer and Key Managerial Personnel of the Company. from: group company; experience: over 18 years; qualifications: Chartered Accountant ... She holds a Master's degree in Business Administration (MBA) from Amity University, along with Master's and Bachelor's degrees in Commerce. Additionally, she has completed a Management Program at the Indian Institute of Management (IIM), Lucknow.
+**Neha Rajvanshi** — Chief Financial Officer and Key Managerial Personnel of the Company. from: group company; experience: over 18 years; qualifications: Chartered Accountant; Master's degree in Business Administration (MBA) from Amity University, along with Master's and Bachelor's degrees in Commerce; Management Program at the Indian Institute of Management (IIM), Lucknow.
 
-The filing's own profile: “Ms. Neha Rajvanshi is a Chartered Accountant with over 18 years of comprehensive experience across the Renewable Energy, Oil & Gas, and Infrastructure sectors. Ms. Rajvanshi joined Bhilwara Energy Limited (Transferor Company) in April 2026 as Senior Vice President – Finance and was subsequently elevated to President – Finance. Prior to her role at Bhilwara Energy Limited, she served as the Chief Financial Officer (CFO) at Serentica Renewables, where she spearheaded capital structuring, debt/equity fund-raising, and strategic financial planning for multi-billion-dollar clean energy projects. She has also held leadership positions at Azure Power and Bharat Petroleum Corporation Limited (BPCL).”
+The filing's own profile: “Ms. Neha Rajvanshi is a Chartered Accountant with over 18 years of comprehensive experience across the Renewable Energy, Oil & Gas, and Infrastructure sectors. She holds a Master's degree in Business Administration (MBA) from Amity University, along with Master's and Bachelor's degrees in Commerce. Additionally, she has completed a Management Program at the Indian Institute of Management (IIM), Lucknow. Ms. Rajvanshi joined Bhilwara Energy Limited (Transferor Company) in April 2026 as Senior Vice President – Finance and was subsequently elevated to President – Finance. Prior to her role at Bhilwara Energy Limited, she served as the Chief Financial Officer (CFO) at Serentica Renewables, where she spearheaded capital structuring, debt/equity fund-raising, and strategic financial planning for multi-billion-dollar clean energy projects.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Senior Vice President – Finance, subsequently elevated to President – Finance | Bhilwara Energy Limited | 2026 | 2026 |
+| Senior Vice President – Finance, subsequently elevated to President – Finance | Bhilwara Energy Limited (Transferor Company) | 2026 | 2026 |
 | Chief Financial Officer (CFO) | Serentica Renewables | — | — |
 | leadership positions | Azure Power | — | — |
 | leadership positions | Bharat Petroleum Corporation Limited (BPCL) | — | — |

@@ -8,13 +8,13 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) of the Company** | N Ganesh (resignation; last day 2026-06-14) | Shyam Shankar (from 2026-06-15) | effective | 2026-05-08 |
-| **Manager of the Company** | N Ganesh (end of term; last day 2026-06-14) | Shyam Shankar (from 2026-06-15) | effective | 2026-05-08 |
+| **Manager** | N Ganesh (end of term; last day 2026-06-14) | Shyam Shankar (from 2026-06-15) | effective | 2026-05-08 |
+| **Chief Financial Officer** | N Ganesh (resignation; last day 2026-06-14) | Shyam Shankar (from 2026-06-15) | effective | 2026-05-08 |
 
-- **Why N Ganesh is leaving, in the filing's words:** “I, N Ganesh, hereby tender my resignation from the position of Chief Financial Officer of the Company with effect from the close of business hours on June 14, 2026, due to my other professional commitments.”
-- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee, Mr. Shyam Shankar has been appointed as the Chief Financial Officer of the Company with effect from June 15, 2026.” — [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026142539_Outcome_of_BM.pdf) · [2026-05-08 Resignation](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164106_Change_in_Management.pdf) · [2026-05-08 Retirement](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164247_Change_in_Management.pdf) · +1 more
 - **Why N Ganesh is leaving, in the filing's words:** “Retirement of Mr. N Ganesh. After serving nine years, his term as the Manager concludes on the close of business hours on June 14, 2026.”
 - In the documents: “Based on the recommendation of the Nomination and Remuneration Committee, Mr. Shyam Shankar has been appointed as the Manager of the Company, for a period of five years (5) with effect from June 15, 2026, subject to the approval of the shareholders of the Company.” — [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026142539_Outcome_of_BM.pdf) · [2026-05-08 Resignation](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164106_Change_in_Management.pdf) · [2026-05-08 Retirement](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164247_Change_in_Management.pdf) · +1 more
+- **Why N Ganesh is leaving, in the filing's words:** “I, N Ganesh, hereby tender my resignation from the position of Chief Financial Officer of the Company with effect from the close of business hours on June 14, 2026, due to my other professional commitments.”
+- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee, Mr. Shyam Shankar has been appointed as the Chief Financial Officer of the Company with effect from June 15, 2026.” — [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026142539_Outcome_of_BM.pdf) · [2026-05-08 Resignation](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164106_Change_in_Management.pdf) · [2026-05-08 Retirement](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164247_Change_in_Management.pdf) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-06-15 General Updates](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_15062026170948_SEintimation.pdf) · [2026-06-13 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_ROID_89909_KMP_Doc.zip) · [2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026142539_Outcome_of_BM.pdf) · [2026-05-08 Resignation](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164106_Change_in_Management.pdf) · [2026-05-08 Retirement](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164247_Change_in_Management.pdf) · [2026-05-08 Appointment](https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_08052026164516_Change_in_Management.pdf) · +1 more
 
@@ -40,19 +40,19 @@
 
 ### 3. Track record — the outgoing management
 
-**N Ganesh** — Chief Financial Officer (CFO) of the Company, date of taking the seat not on file.
+**N Ganesh** — Manager, in the seat since FY2018 per the filing.
 
-When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
-| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+| Mar 2017 → Mar 2026 | At the start | At the end | Change |
 |---|---:|---:|---|
-| Revenue (₹ cr) | 13,900 | 39,156 | +23.0% a year over 5 years |
-| Financing profit (₹ cr) | 2,485 | 7,244 | +23.9% a year over 5 years |
-| PAT (₹ cr) | 1,764 | 5,485 | +25.5% a year over 5 years |
-| Financing profit margin (%) | 17.9 | 18.5 | +0.6 pts |
-| ROE (%) | 32.8 | 35.5 | +2.7 pts |
+| Revenue (₹ cr) | 2,688 | 39,156 | +34.7% a year over 9 years |
+| Financing profit (₹ cr) | 311 | 7,244 | +41.9% a year over 9 years |
+| PAT (₹ cr) | 538 | 5,485 | +29.4% a year over 9 years |
+| Financing profit margin (%) | 11.6 | 18.5 | +6.9 pts |
+| ROE (%) | 19.5 | 35.5 | +16.0 pts |
 
-**N Ganesh** — Manager of the Company, date of taking the seat not on file.
+**N Ganesh** — Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -66,13 +66,13 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Shyam Shankar** — Chief Financial Officer (CFO) of the Company. experience: over 20 years; qualifications: A qualified Chartered Accountant and Cost Accountant.
+**Shyam Shankar** — Manager. experience: over 20 years; qualifications: A qualified Chartered Accountant and Cost Accountant.
 
 The filing's own profile: “A qualified Chartered Accountant and Cost Accountant with over 20 years of experience in senior finance roles within regulated financial services environments. Brings strong expertise in financial reporting oversight, audit governance, internal financial controls, and investor communication.”
 
-**Shyam Shankar** — Manager of the Company. experience: over 20 years; qualifications: A qualified Chartered Accountant and Cost Accountant.
+**Shyam Shankar** — Chief Financial Officer. experience: over 20 years; qualifications: A qualified Chartered Accountant and Cost Accountant.
 
-The filing's own profile: “A qualified Chartered Accountant and Cost Accountant with over 20 years of experience in senior finance roles within regulated financial services environments. Brings strong expertise in financial reporting oversight, audit governance, internal financial controls, and investor communication.”
+The filing's own profile: “A qualified Chartered Accountant and Cost Accountant with over 20 years of experience in senior finance roles within regulated financial services environments. Brings strong expertise in financial reporting oversight, audit governance, internal financial controls, and investor communications.”
 
 ### 5. On the calls
 

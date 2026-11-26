@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | K. Satyanarayana Raju (retirement; last day 2025-12-31) | Hardeep Singh Ahluwalia (interim; government appointee; from 2026-01-01) | effective | 2025-12-31 |
-| **Managing Director & Chief Executive Officer (MD & CEO)** | Hardeep Singh Ahluwalia (interim holder replaced) | Brajesh Kumar Singh (government appointee; from 2026-06-01) | effective | 2026-06-01 |
+| **Managing Director & Chief Executive Officer (MD & CEO)** | K. Satyanarayana Raju (retirement; last day 2025-12-31) | Hardeep Singh Ahluwalia (interim; internal; from 2026-01-01) | effective | 2025-12-31 |
+| **Managing Director & Chief Executive Officer (MD & CEO), Canara Bank** | Hardeep Singh Ahluwalia (interim holder replaced) | Brajesh Kumar Singh (external; from 2026-06-01) | effective | 2026-06-01 |
 
-- **Why K. Satyanarayana Raju is leaving, in the filing's words:** “Shri K. Satyanarayana Raju, ceased to be the Managing Director & Chief Executive Officer of the Bank w.e.f. close of business hours on 31.12.2025, on attaining superannuation.”
+- **Why K. Satyanarayana Raju is leaving, in the filing's words:** “ceased to be the Managing Director & Chief Executive Officer of the Bank w.e.f. close of business hours on 31.12.2025, on attaining superannuation”
 - In the documents: “Shri Hardeep Singh Ahluwalia, Executive Director, Canara Bank, has been assigned additional charge of the post of MD & CEO, Canara Bank, with effect from 01.01.2026 for a period of three months, i.e., up to 31.03.2026, or until the appointment of a regular incumbent to the post of MD & CEO, Canara Bank, or until further orders, whichever is earlier.” — [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CANBK_09042026124402_LettertoexchangeSd.pdf) · [2025-12-31 Retirement](https://nsearchives.nseindia.com/corporate/CANBK_31122025184102_LettertoSE31122025Sd.pdf) · [2025-12-31 Appointment](https://nsearchives.nseindia.com/corporate/CANBK_31122025185500_LettertoSE31122025SdHA.pdf)
-- **Why Hardeep Singh Ahluwalia is leaving, in the filing's words:** “not stated” Stays on as: Executive Director, Canara Bank.
+- **Why Hardeep Singh Ahluwalia is leaving, in the filing's words:** “or until the appointment of a regular incumbent to the post of MD & CEO, Canara Bank, or until further orders, whichever is earlier” Stays on as: Executive Director, Canara Bank.
 - In the documents: “Shri Brajesh Kumar Singh has taken charge as Managing Director & Chief Executive Officer (MD & CEO) of Canara Bank on 01st June 2026.” — [2026-06-01 Appointment](https://nsearchives.nseindia.com/corporate/CANBK_01062026205351_LettertoSE.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CANBK_09042026124402_LettertoexchangeSd.pdf) · [2025-12-31 Appointment](https://nsearchives.nseindia.com/corporate/CANBK_31122025185500_LettertoSE31122025SdHA.pdf)
 
 *All 7 filing(s) read for the seats:* [2026-09-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CANBK_ROID_97655_KMP_Doc.zip) · [2026-07-08 Resignation](https://nsearchives.nseindia.com/corporate/CANBK_08072026180532_Intimation.pdf) · [2026-07-08 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/CANBK_ROID_91363_KMP_Doc.zip) · [2026-06-01 Appointment](https://nsearchives.nseindia.com/corporate/CANBK_01062026205351_LettertoSE.pdf) · [2026-04-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CANBK_09042026124402_LettertoexchangeSd.pdf) · [2025-12-31 Retirement](https://nsearchives.nseindia.com/corporate/CANBK_31122025184102_LettertoSE31122025Sd.pdf) · +1 more
@@ -40,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**K. Satyanarayana Raju** — Managing Director & Chief Executive Officer, date of taking the seat not on file.
+**K. Satyanarayana Raju** — Managing Director & Chief Executive Officer (MD & CEO), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -52,7 +52,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | -25.9 | -5.9 | +20.0 pts |
 | ROE (%) | -4.7 | 16.8 | +21.5 pts |
 
-**Hardeep Singh Ahluwalia** — Managing Director & Chief Executive Officer (MD & CEO), in the seat since FY2026 per the filing.
+**Hardeep Singh Ahluwalia** — Managing Director & Chief Executive Officer (MD & CEO), Canara Bank, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -68,19 +68,19 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Hardeep Singh Ahluwalia** — Managing Director & Chief Executive Officer (interim). from: government appointee; experience: more than three decades; qualifications: He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management..
+**Hardeep Singh Ahluwalia** — Managing Director & Chief Executive Officer (MD & CEO) (interim). from: internal; experience: more than three decades; qualifications: graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management.
 
-The filing's own profile: “Shri. Hardeep Singh Ahluwalia, started his banking career as Agricultural Field Officer on 30.03.1992 at Allahabad Bank (now Indian Bank). He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management. He has rich banking experience for more than three decades in various functional areas of banking system (Rural/Semi-Urban/Urban/Metro geographies) in India and abroad (HK). He has worked particularly in strategic positions as Lead District Manager, Head of the International Branch, Moradabad Zonal Head, Chandigarh & Field General Manager, Kolkata and various other verticals at administrative offices.”
+The filing's own profile: “Shri. Hardeep Singh Ahluwalia, started his banking career as Agricultural Field Officer on 30.03.1992 at Allahabad Bank (now Indian Bank). He is a graduate in Agriculture and a Certified Associate of Indian Institute of Bankers. He has Certification in Credit Management from NIBM Pune & Diploma in Computer Applications in Financial Management. He has rich banking experience for more than three decades in various functional areas of banking system (Rural/Semi-Urban/Urban/Metro geographies) in India and abroad (HK). Before his elevation as Executive Director of Canara Bank, he was General Manager of the Recovery Department at Corporate office of Indian Bank”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Agricultural Field Officer | Allahabad Bank (now Indian Bank) | 1992 | — |
-| General Manager of the Recovery Department at Corporate office | Indian Bank (INDIANB) | — | — |
 | Executive Director | Canara Bank (CANBK) | — | — |
+| General Manager of the Recovery Department at Corporate office | Indian Bank (INDIANB) | — | — |
+| Agricultural Field Officer | Allahabad Bank (now Indian Bank) | 1992 | — |
 
-**Brajesh Kumar Singh** — Managing Director & Chief Executive Officer (MD & CEO). from: government appointee; experience: more than 30 years; qualifications: Shri Brajesh Kumar Singh is an Agriculture graduate from Allahabad Agriculture Institute and MBA Finance. He is also a Certified Associate of Indian Institute of Bankers..
+**Brajesh Kumar Singh** — Managing Director & Chief Executive Officer (MD & CEO), Canara Bank. from: external; age not stated (D.O.B: 23.04.1969); experience: more than 30 years; qualifications: an Agriculture graduate from Allahabad Agriculture Institute and MBA Finance. He is also a Certified Associate of Indian Institute of Bankers.
 
-The filing's own profile: “Shri Brajesh Kumar Singh assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of Canara Bank on 01st June 2026. He has a vast and varied experience in the Banking industry, spanning more than 30 years. Shri Brajesh Kumar Singh was Executive Director of Indian Bank since 10th March 2024 till his appointment as MD & CEO of Canara Bank. In his capacity as Executive Director in Indian Bank, he has overseen various Verticals in Indian Bank including Retail, MSME, Recovery, Credit Monitoring, Human Resource Management, Human Development, Resources and Government Relations, Wealth Management etc.”
+The filing's own profile: “Shri Brajesh Kumar Singh assumed charge as Managing Director & Chief Executive Officer (MD & CEO) of Canara Bank on 01st June 2026. He has a vast and varied experience in the Banking industry, spanning more than 30 years. Shri Brajesh Kumar Singh was Executive Director of Indian Bank since 10th March 2024 till his appointment as MD & CEO of Canara Bank. Shri Brajesh Kumar Singh is an Agriculture graduate from Allahabad Agriculture Institute and MBA Finance. He is also a Certified Associate of Indian Institute of Bankers. Prior to joining as Executive Director of Indian Bank, he was serving as Chief General Manager HR of Bank of Baroda.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

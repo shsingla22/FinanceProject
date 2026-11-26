@@ -21,7 +21,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel of the Company** | D. Muthukumaran (moved to another role in the company or group; last day 2026-02-28) | Sreedhar Krishna Menon (group company; from 2026-03-01) | effective | 2026-02-03 |
+| **Chief Financial Officer** | D. Muthukumaran (moved to another role in the company or group; last day 2026-02-28) | Sreedhar Krishna Menon (group company; from 2026-03-01) | effective | 2026-02-03 |
 
 - **Why D. Muthukumaran is leaving, in the filing's words:** “will relinquish his position as Chief Financial Officer of the Company as he will transition to a new role within the Adani's portfolio & Companies” Stays on as: a new role within the Adani's portfolio & Companies.
 - In the documents: “Mr. Sreedhar Krishna Menon, who is currently serving as Chief Financial Officer of AdaniConnex, (a group Company) will assume the role of Chief Financial Officer and Key Managerial Personnel of the Company effective from March 1, 2026.” — [2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026131652_OutcomeofBM.pdf) · [2026-02-03 Change in Management](https://nsearchives.nseindia.com/corporate/rkbhagia_03022026133005_ChangeinSeniorManagement.pdf)
@@ -54,7 +54,7 @@
 
 ### 3. Track record — the outgoing management
 
-**D. Muthukumaran** — Chief Financial Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
+**D. Muthukumaran** — Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -74,7 +74,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “Described in the exchange facts only as promoters of the company making acquisitions via the open market. The 2026-09-30 shareholding note identifies the significant beneficial owners as Gautambhai Shantilal Adani and Rajeshbhai Shantilal Adani (Indian) and Vinodbhai Shantilal Adani (Cypriot).”
 
-**Sreedhar Krishna Menon** — Chief Financial Officer and Key Managerial Personnel of the Company. from: group company.
+**Sreedhar Krishna Menon** — Chief Financial Officer. from: group company.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

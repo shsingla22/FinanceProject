@@ -9,11 +9,11 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chairman & Managing Director** | Vartika Shukla (retirement; last day 2026-02-28) | Praveen Mal Khanooja (interim; government appointee; from 2026-03-01) | effective | 2026-03-01 |
-| **Chairman & Managing Director, Engineers India Limited** | Praveen M. Khanooja (interim holder replaced; last day 2026-06-29) | Atul Gupta (internal; from 2026-06-29) | effective | 2026-06-29 |
+| **Chairman & Managing Director** | Praveen Mal Khanooja (interim holder replaced; last day 2026-06-29) | Atul Gupta (internal; from 2026-06-29) | effective | 2026-06-29 |
 
 - **Why Vartika Shukla is leaving, in the filing's words:** “ceased as Chairman and Managing Director of the Company w.e.f. 01.03.2026 on attaining the age of superannuation on 28.02.2026”
 - In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform that Smt. Vartika Shukla, Chairman & Managing Director (DIN: 08777885) ceased as Chairman and Managing Director of the Company w.e.f. 01.03.2026 on attaining the age of superannuation on 28.02.2026.” — [2026-06-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03062026104743_extension.pdf) · [2026-03-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03032026155004_channgeindirector03032026.pdf) · [2026-03-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_01032026105856_changeindirector01032026.pdf) · +1 more
-- **Why Praveen M. Khanooja is leaving, in the filing's words:** “the additional charge of the post of Chairman & Managing Director entrusted to Shri Praveen M. Khanooja (DIN:09746472), Additional Secretary, MoPNG, handed over to Shri Atul Gupta w.e.f. above date” Stays on as: Additional Secretary, MoPNG.
+- **Why Praveen Mal Khanooja is leaving, in the filing's words:** “With the above, the additional charge of the post of Chairman & Managing Director entrusted to Shri Praveen M. Khanooja (DIN:09746472), Additional Secretary, MoPNG, handed over to Shri Atul Gupta w.e.f. above date.” Stays on as: Additional Secretary, MoPNG.
 - In the documents: “Shri Atul Gupta, Director (Commercial), Engineers India Limited has been appointed as Chairman & Managing Director, Engineers India Limited vide Ministry of Petroleum & Natural Gas letter CA-31018/1/2024-CA-PNG (49120) dated 29.06.2026, with effect from the date of his assumption of the charge of the post till the date of his superannuation, i.e 30.09.2029,or until further orders, whichever is earlier.” — [2026-06-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_29062026201728_covering.pdf) · [2026-06-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03062026104743_extension.pdf) · [2026-03-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03032026155004_channgeindirector03032026.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-06-29 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_29062026201728_covering.pdf) · [2026-06-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03062026104743_extension.pdf) · [2026-03-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_03032026155004_channgeindirector03032026.pdf) · [2026-03-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_01032026105856_changeindirector01032026.pdf) · [2026-03-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ENGINERSIN_01032026233625_changeindirect01032026.pdf)
@@ -58,7 +58,7 @@ The company's results over the part of the tenure the reports on file cover:
 | ROE (%) | 7.9 | 21.7 | +13.8 pts |
 | Borrowings (₹ cr) | 4.0 | 22.0 | +18 |
 
-**Praveen M. Khanooja** — Chairman & Managing Director, Engineers India Limited, in the seat since FY2026 per the filing.
+**Praveen Mal Khanooja** — Chairman & Managing Director, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -85,9 +85,8 @@ The filing's own profile: “Mr. Praveen Mal Khanooja is working as Additional S
 | Director | Department of Revenue, Ministry of Finance | — | — |
 | Expert | State Audit Institution, Sultanate of Oman, Muscat | — | — |
 | DG | Petroleum Panning & Analysis Cell, Ministry of Petroleum & Natural Gas | — | — |
-| 1994 batch officer, worked in Defence Audit, Railways Audit, State Government Accounts & Audit | Indian Audit & Accounts Service (IA&AS) | 1994 | — |
 
-**Atul Gupta** — Chairman & Managing Director, Engineers India Limited. from: internal.
+**Atul Gupta** — Chairman & Managing Director. from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

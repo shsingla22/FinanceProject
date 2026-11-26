@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO)** | Hrushit Shah (resignation) | Shardul Doshi (from 2025-12-15) | effective | 2025-12-15 |
+| **Chief Financial Officer (CFO)** | Hrushit Shah (resignation) | Shardul Doshi (from 2025-12-15) | effective | 2025-11-01 |
 
-- **Why Hrushit Shah is leaving, in the filing's words:** “you would have noticed the sad news of Hrushit Shah stepping down as CFO to be with his family abroad”
-- In the documents: “In compliance with Regulation 30 read with Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we would like to inform you that Mr. Shardul Doshi has been appointed the Chief Financial Officer (CFO) of the Company and of its subsidiary, by the Boards of Directors of the respective companies, effective 15th December, 2025.” — [2025-12-15 Change in Management](https://nsearchives.nseindia.com/corporate/RadhaWestlife_15122025181829_KMP_change_-_joining.pdf)
+- **Why Hrushit Shah is leaving, in the filing's words:** “the sad news of Hrushit Shah stepping down as CFO to be with his family abroad”
+- In the documents: “Mr. Shardul Doshi has been appointed the Chief Financial Officer (CFO) of the Company and of its subsidiary, by the Boards of Directors of the respective companies, effective 15th December, 2025.” — [2025-12-15 Change in Management](https://nsearchives.nseindia.com/corporate/RadhaWestlife_15122025181829_KMP_change_-_joining.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-08-14 Resignation](https://nsearchives.nseindia.com/corporate/RadhaWestlife_14082026122258_WFL_Intimation_of_Resignation_of_Ms__Amisha_Jain.pdf) · [2026-08-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/WESTLIFE_ROID_96451_KMP_Doc.zip) · [2025-12-15 Change in Management](https://nsearchives.nseindia.com/corporate/RadhaWestlife_15122025181829_KMP_change_-_joining.pdf)
 
@@ -37,7 +37,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/WESTLIFE.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹550.65 on 2025-12-12 (the close before) → ₹659.05 on 2026-11-13: **+19.7%**; Nifty 500 +0.0% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹593.35 on 2025-10-31 (the close before) → ₹659.05 on 2026-11-13: **+11.1%**; Nifty 500 +0.1% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -59,7 +59,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Shardul Doshi** — Chief Financial Officer (CFO).
 
-*The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
+The filing's own profile: “We're also pleased to have Shardul Doshi join us as our new CFO, bringing in strong financial leadership and discipline to our next phase of growth.”
 
 ### 5. On the calls
 

@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer (MD & CEO)** | Sanjeev Nautiyal (retirement; last day 2026-09-01) | Carol Furtado (interim; internal; from 2026-09-01) | effective | 2026-09-01 |
 
-- **Why Sanjeev Nautiyal is leaving, in the filing's words:** “expressed his desire to seek an early retirement from the Bank with 3 months' notice period” Stays on as: On leave w.e.f. September 01, 2026 until the expiry of his notice period i.e. November 30, 2026 (retirement from the Bank).
-- In the documents: “He will cease to be the MD & CEO and Key Managerial Personnel of the Bank effective from today September 1, 2026.” — [2026-11-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/UJJIVANBANK_13112026191424_117_EGM_Outcome_13112026.pdf) · [2026-10-16 Press Release](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_16102026141047_102_Intimation_Press_Release_Q2FY27.pdf) · [2026-09-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_01092026115532_72_Intimation_Retirement_01092026.pdf) · +1 more
+- **Why Sanjeev Nautiyal is leaving, in the filing's words:** “expressed his desire to seek an early retirement from the Bank with 3 months' notice period” Stays on as: On leave from September 01, 2026 until expiry of notice period, i.e. retirement from the Bank on November 30, 2026.
+- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee, the Board, has approved today, the appointment of Ms. Carol Furtado, the existing Executive Director (Whole -Time Director), as the acting MD & CEO of the Bank w.e.f. today, September 01, 2026, subject to the approval of the Reserve Bank of India.” — [2026-11-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/UJJIVANBANK_13112026191424_117_EGM_Outcome_13112026.pdf) · [2026-10-16 Press Release](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_16102026141047_102_Intimation_Press_Release_Q2FY27.pdf) · [2026-09-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_01092026115532_72_Intimation_Retirement_01092026.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-11-20 General Updates](https://nsearchives.nseindia.in/corporate/UJJIVANBANK_20112026162548_121_Intimation_extension_of_Interim_CEO_20112026.pdf) · [2026-11-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/UJJIVANBANK_13112026191424_117_EGM_Outcome_13112026.pdf) · [2026-10-16 Press Release](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_16102026141047_102_Intimation_Press_Release_Q2FY27.pdf) · [2026-09-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_01092026115532_72_Intimation_Retirement_01092026.pdf) · [2026-09-01 General Updates](https://nsearchives.nseindia.com/corporate/UJJIVANBANK_01092026191531_75_Intimation_RBI_Approval_Interim_CEO_01092026.pdf)
 
@@ -57,7 +57,7 @@ The filing's own profile: “Ms. Carol Furtado is a seasoned banker with over th
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director (Whole-Time Director) | Ujjivan Small Finance Bank Limited (UJJIVANSFB) | — | 2026 |
+| Executive Director (Whole-Time Director) | Ujjivan Small Finance Bank (UJJIVANSFB) | — | 2026 |
 
 ### 5. On the calls
 

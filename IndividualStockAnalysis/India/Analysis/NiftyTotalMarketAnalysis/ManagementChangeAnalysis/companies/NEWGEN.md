@@ -59,7 +59,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 **Tarun Nandwani** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP). from: internal; experience: 33 years at Newgen; qualifications: He holds a bachelor's degree in engineering from the University of Delhi..
 
-The filing's own profile: “With 33 years at Newgen, Tarun Nandwani has played a pivotal role in building the company into a globally recognized software product company, helping shape its platform vision, strengthen customer relationships, expand its market presence, and drive sustained growth across industries and geographies. Throughout his tenure, he has played a pivotal role in shaping Newgen's business strategy, customer-centric culture, operational excellence, and growth agenda.”
+The filing's own profile: “With 33 years at Newgen, Tarun Nandwani has played a pivotal role in building the company into a globally recognized software product company, helping shape its platform vision, strengthen customer relationships, expand its market presence, and drive sustained growth across industries and geographies. Throughout his tenure, he has played a pivotal role in shaping Newgen's business strategy, customer-centric culture, operational excellence, and growth agenda. As Chief Operating Officer, Tarun has helped drive strongest growth periods in Newgen's history, contributing to significant expansion in revenue, profitability, customer acquisition, and market presence.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

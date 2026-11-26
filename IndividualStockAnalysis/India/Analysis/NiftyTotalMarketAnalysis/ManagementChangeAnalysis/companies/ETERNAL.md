@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Director, Managing Director & Chief Executive Officer** | Deepinder Goyal (resignation; last day 2026-02-01) | Albinder Singh Dhindsa (internal; from 2026-02-01) | effective | 2026-01-21 |
 
-- **Why Deepinder Goyal is leaving, in the filing's words:** “I am writing to formally tender my resignation as Director, MD & CEO of the Company, along with various committees I am a part of, effective from the close of business hours on February 1, 2026.” Stays on as: Vice Chairman & Director on the Board, effective upon shareholders' approval (for a period of 5 years from the date of receiving shareholder approval).
-- In the documents: “Accepted the resignation of Deepinder Goyal (DIN:02613583) as the Director, Managing Director & Chief Executive Officer of the Company, effective close of business hours on February 1, 2026.” — [2026-02-06 Cessation](https://nsearchives.nseindia.com/corporate/ZOMATO_06022026205813_Intimationsigned.pdf) · [2026-01-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026154849_Outcomesigned.pdf) · [2026-01-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026155723_Outcomeisgnedrevised.pdf) · +1 more
+- **Why Deepinder Goyal is leaving, in the filing's words:** “I am writing to formally tender my resignation as Director, MD & CEO of the Company, along with various committees I am a part of, effective from the close of business hours on February 1, 2026.” Stays on as: Vice Chairman & Director on the Board (recommended, effective upon shareholders' approval).
+- In the documents: “Approved the appointment of Albinder Singh Dhindsa (currently, CEO-Blinkit) as Chief Executive Officer and Key Managerial Personnel of the Company w.e.f. February 01, 2026.” — [2026-02-06 Cessation](https://nsearchives.nseindia.com/corporate/ZOMATO_06022026205813_Intimationsigned.pdf) · [2026-01-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026154849_Outcomesigned.pdf) · [2026-01-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026155723_Outcomeisgnedrevised.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-07-22 Updates](https://nsearchives.nseindia.com/corporate/ZOMATO_22072026161031_Eternalfairdsiclosurecodesigned.pdf) · [2026-02-06 Cessation](https://nsearchives.nseindia.com/corporate/ZOMATO_06022026205813_Intimationsigned.pdf) · [2026-01-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026154849_Outcomesigned.pdf) · [2026-01-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026155723_Outcomeisgnedrevised.pdf) · [2026-01-21 Change in Management](https://nsearchives.nseindia.com/corporate/ZOMATO_21012026160056_Outcomeisgnedrevised.pdf)
 
@@ -63,7 +63,7 @@ The filing's own profile: “Blinkit's journey from acquisition to breakeven hap
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| CEO-Blinkit | Blinkit | — | 2026 |
+| CEO - Blinkit | Blinkit (Blink Commerce Private Limited) | — | 2026 |
 
 ### 5. On the calls
 

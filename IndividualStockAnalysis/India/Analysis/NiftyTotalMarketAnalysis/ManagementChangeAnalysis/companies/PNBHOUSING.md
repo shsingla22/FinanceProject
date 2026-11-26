@@ -41,15 +41,15 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA; holds a post graduate degree in Finance from CSJM University, Kanpur, and has completed his Bachelors in Science from Kanpur University.
+**Ajai Kumar Shukla** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 52 years; experience: over 30 years of experience in Housing and Mortgage Lending business; qualifications: He is an MBA; Mr. Shukla holds a post graduate degree in Finance from CSJM University, Kanpur, and has completed his Bachelors in Science from Kanpur University..
 
 The filing's own profile: “Mr. Ajai Kumar Shukla is aged 52 years. He is an MBA and possesses over 30 years of experience in Housing and Mortgage Lending business. He has been working with TATA Capital Housing Finance Limited for last 16 years. He is currently working with Tata Capital Housing Finance Limited as the Chief Business Officer. He has also headed Credit, Risk, Valuation, Digital Transformation and Affordable Housing Finance in TATA Capital. Prior to TATA Capital, he had worked with ICICI Bank in Mortgage business for more than 7 years in various roles & responsibilities across various regions. Mr Ajai had started his career with LIC Housing Finance Limited and worked there for 7 years.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Business Officer | TATA Capital Housing Finance Limited | — | — |
-| Mortgage business for more than 7 years in various roles & responsibilities across various regions | ICICI Bank (ICICIBANK) | — | — |
-| started his career with LIC Housing Finance Limited and worked there for 7 years | LIC Housing Finance Limited (LICHSGFIN) | — | — |
+| Chief Business Officer | Tata Capital Housing Finance Limited | — | — |
+| Mortgage business, more than 7 years in various roles & responsibilities across various regions | ICICI Bank (ICICIBANK) | — | — |
+| started his career and worked there for 7 years | LIC Housing Finance Limited (LICHSGFIN) | — | — |
 
 ### 5. On the calls
 

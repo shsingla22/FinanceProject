@@ -21,10 +21,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Financial Officer** | — (new seat) | Srinivas Rathnam Mattapalli (external; from 2026-02-14) | effective | 2026-02-14 |
+| **Group Chief Financial Officer, designated as Key Managerial Personnel (KMP)** | — (new seat) | Srinivas Rathnam Mattapalli (external; from 2026-02-14) | effective | 2026-02-14 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “With reference to the captioned matter and in compliance with Regulation 30 read with Schedule III of the SEBI LODR Regulations, we wish to inform you that based on the recommendation of the Nomination & Remuneration Committee and the Audit Committee, the Board has approved the appointment of Mr. Srinivas Rathnam Mattapalli, who will take over as Group Chief Financial Officer , designated as Key Managerial Personnel (KMP), effective February 14, 2026.” — [2026-02-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201032_IntimationChangeinMgt.pdf) · [2026-02-14 Appointment](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201506_IntimationChangeinMgt.pdf)
+- In the documents: “With reference to the captioned matter and in compliance with Regulation 30 read with Schedule III of the SEBI LODR Regulations, we wish to inform you that based on the recommendation of the Nomination & Remuneration Committee and the Audit Committee, the Board has approved the appointment of Mr. Srinivas Rathnam Mattapalli, who will take over as Group Chief Financial Officer, designated as Key Managerial Personnel (KMP), effective February 14, 2026.” — [2026-02-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201032_IntimationChangeinMgt.pdf) · [2026-02-14 Appointment](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201506_IntimationChangeinMgt.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-10-01 Change in Management](https://nsearchives.nseindia.com/corporate/SAGILITY_01102026231512_Changeinmanagement011026.pdf) · [2026-02-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201032_IntimationChangeinMgt.pdf) · [2026-02-14 Appointment](https://nsearchives.nseindia.com/corporate/SAGILITY_14022026201506_IntimationChangeinMgt.pdf)
 
@@ -58,13 +58,13 @@
 
 ### 4. Track record — the incoming management
 
-**Srinivas Rathnam Mattapalli** — Group Chief Financial Officer. from: external; experience: over 30 years of experience; qualifications: Srinivas holds a Bachelor’s degree in Commerce from Osmania University, is a qualified ICWA professional, and is an alumnus of IIM Bangalore with a Post Graduate Diploma in Management, specializing in Finance and International Business..
+**Srinivas Rathnam Mattapalli** — Group Chief Financial Officer, designated as Key Managerial Personnel (KMP). from: external; experience: over 30 years; qualifications: Srinivas holds a Bachelor’s degree in Commerce from Osmania University, is a qualified ICWA professional, and is an alumnus of IIM Bangalore with a Post Graduate Diploma in Management, specializing in Finance and International Business..
 
 The filing's own profile: “Srinivas is an industry veteran in Finance with over 30 years of experience driving P&L growth and business transformation in global organizations. His expertise spans P&L management, pricing and commercial strategy, and digital transformation. He was a Senior Vice President at Genpact (NYSE: G), where he held multiple leadership roles, including Business CFO for the Hi-Tech and Manufacturing vertical. He led enterprise-wide initiatives such as a global Workday implementation to build a future-ready finance ecosystem and a cost transformation program that delivered significant and sustained value. Before joining Genpact, Srinivas worked at eFunds (FIS), Hindustan Coca-Cola, and Colgate-Palmolive, handling roles across SBU finance leadership, ERP implementations, and brand P&L management.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Senior Vice President, including Business CFO for the Hi-Tech and Manufacturing vertical | Genpact (NYSE: G) | — | — |
+| Senior Vice President; Business CFO for the Hi-Tech and Manufacturing vertical | Genpact (NYSE: G) | — | — |
 | — | eFunds (FIS) | — | — |
 | — | Hindustan Coca-Cola | — | — |
 | — | Colgate-Palmolive (COLPAL) | — | — |

@@ -8,11 +8,11 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director and Chief Executive Officer ("MD & CEO")** | Sashidhar Jagdishan (end of term; last day 2026-10-26) | Anup Bagchi (external; from 2026-10-27) | effective | 2026-10-01 |
+| **Managing Director & Chief Executive Officer (“MD & CEO”)** | Sashidhar Jagdishan (end of term; last day 2026-10-26) | Anup Bagchi (external; from 2026-10-27) | effective | 2026-10-01 |
 | **Chief Financial Officer** | Srinivasan Vaidyanathan | Puneet Sharma (external; from 2026-12-01) | announced, not yet effective | 2026-06-29 |
 
-- **Why Sashidhar Jagdishan is leaving, in the filing's words:** “on account of completion of his tenure”
-- In the documents: “Mr. Sashidhar Jagdishan has vacated the office as the MD & CEO of the Bank from the close of business hours on October 26, 2026 on account of completion of his tenure and Mr. Anup Bagchi has assumed charge as MD & CEO of the Bank effective today i.e. October 27, 2026.” — [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf) · [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HDFCBANK_07102026160736_SEIntimationPostalBallotNoticeOct2026.pdf) · [2026-10-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HDFCBANK3_01102026182319_SE_Intimation-_Anup_Bagchi.pdf)
+- **Why Sashidhar Jagdishan is leaving, in the filing's words:** “Mr. Sashidhar Jagdishan has vacated the office as the MD & CEO of the Bank from the close of business hours on October 26, 2026 on account of completion of his tenure”
+- In the documents: “Consequent to the retirement of Mr. Sashidhar Jagdishan as the MD & CEO of the Bank at the close of business hours of October 26, 2026, and receipt of RBI approval, Mr. Anup Bagchi is appointed as MD & CEO of the Bank w.e.f. October 27, 2026.” — [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf) · [2026-10-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HDFCBANK_07102026160736_SEIntimationPostalBallotNoticeOct2026.pdf) · [2026-10-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HDFCBANK3_01102026182319_SE_Intimation-_Anup_Bagchi.pdf)
 - **Why Srinivasan Vaidyanathan is leaving, in the filing's words:** “not stated”
 - In the documents: “Based on the recommendations of the Audit Committee and Governance, Nomination and Remuneration Committee, approved the appointment of Mr. Puneet Sharma as the Chief Financial Officer - Designate (CFO-Designate) w.e.f. September 1, 2026 and as Chief Financial Officer w.e.f. December 1, 2026” — [2026-10-27 General Updates](https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf) · [2026-06-29 Appointment](https://nsearchives.nseindia.com/corporate/HDFCBANK3_29062026225958_SEIntimationJune292026CFOGC.pdf) · [2026-06-29 Appointment](https://nsearchives.nseindia.com/corporate/HDFCBANK3_29062026230501_SEIntimationJune292026CFOGC.pdf)
 
@@ -40,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sashidhar Jagdishan** — Managing Director and Chief Executive Officer ("MD & CEO"), in the seat since FY2024 per the annual reports on file.
+**Sashidhar Jagdishan** — Managing Director & Chief Executive Officer (“MD & CEO”), in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -69,19 +69,17 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Anup Bagchi** — Managing Director and Chief Executive Officer ("MD & CEO"). from: external; experience: over three decades of experience; qualifications: holds Management degree from Indian Institute of Management, Bangalore and an Engineering degree from Indian Institute of Technology, Kanpur.
+**Anup Bagchi** — Managing Director & Chief Executive Officer (“MD & CEO”). from: external; experience: over three decades of experience; qualifications: holds Management degree from Indian Institute of Management, Bangalore and an Engineering degree from Indian Institute of Technology, Kanpur.
 
 The filing's own profile: “Mr. Anup Bagchi is a seasoned financial services leader with over three decades of experience across banking, capital markets, wealth management and insurance. A member of the ICICI Group since 1992, he has built a diverse career spanning treasury, retail banking, wholesale banking, investment banking, and digital financial services. Over the course of his career, he has held several pivotal leadership positions, including CEO & MD of ICICI Securities, Executive Director of ICICI Bank, and currently MD & CEO of ICICI Prudential Life Insurance. His career reflects a strong track record of business building, strategic leadership, and navigating the evolving financial services landscape.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| member of the ICICI Group | ICICI Group | 1992 | — |
 | CEO & MD | ICICI Securities | — | — |
 | Executive Director | ICICI Bank (ICICIBANK) | 2017 | 2023 |
 | Chairman | ICICI Prudential Asset Management Company (ICICIAMC) | — | 2023 |
-| Director | ICICI Prudential Pension Funds Management Company | — | — |
-| Director | ICICI Home Finance | — | — |
 | MD & CEO | ICICI Prudential Life Insurance (ICICIPRULI) | 2023 | — |
+| member of the ICICI Group since 1992 | ICICI Group | 1992 | — |
 
 Results of **ICICI Bank** while they were Executive Director there (the filing's profile):
 

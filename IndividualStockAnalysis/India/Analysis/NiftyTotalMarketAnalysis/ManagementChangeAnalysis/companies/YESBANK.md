@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer (MD & CEO)** | Prashant Kumar (end of term; last day 2026-04-05) | Vinay Muralidhar Tonse (external; from 2026-04-06) | effective | 2026-02-03 |
 
-- **Why Prashant Kumar is leaving, in the filing's words:** “Cessation due to completion of tenure”
+- **Why Prashant Kumar is leaving, in the filing's words:** “has demitted the office as the Managing Director & Chief Executive Officer (MD & CEO) of the Bank on April 05, 2026 on completion of his tenure”
 - In the documents: “Further, we wish to inform that Mr. Vinay Muralidhar Tonse (DIN: 06695367) has taken charge as Managing Director & Chief Executive Officer of the Bank with effect from today i.e. April 06, 2026 on such terms and conditions including remuneration, as approved by Reserve Bank of India and subject to the approval of the shareholders of the Bank.” — [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/YESBANK_06042026090006_SEINTIMATION.pdf) · [2026-03-25 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_25032026165625_YBL_SE_Intimation_Postal_Ballot_signed.pdf) · [2026-03-06 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_06032026190330_SE_Intimation_MD_Designate_Vinay_Tonse_06032026_signed.pdf) · +1 more
 
-*All 6 filing(s) read for the seats:* [2026-09-16 Appointment](https://nsearchives.nseindia.com/corporate/YESBANK_16092026194241_YBL_SE_Intimation_Interim_CVO_Appointment_signed.pdf) · [2026-04-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/YESBANK_24042026214226_YBL_SE_Intimation_PB_Results_Signed.pdf) · [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/YESBANK_06042026090006_SEINTIMATION.pdf) · [2026-03-25 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_25032026165625_YBL_SE_Intimation_Postal_Ballot_signed.pdf) · [2026-03-06 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_06032026190330_SE_Intimation_MD_Designate_Vinay_Tonse_06032026_signed.pdf) · [2026-02-03 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_03022026223356_SE_Intimation_RBI_approval_appointment_of_MD_CEO_signed.pdf)
+*All 9 filing(s) read for the seats:* [2026-10-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/YESBANK_17102026191757_SE_Intimation_Signed.pdf) · [2026-09-16 Appointment](https://nsearchives.nseindia.com/corporate/YESBANK_16092026194241_YBL_SE_Intimation_Interim_CVO_Appointment_signed.pdf) · [2026-07-25 General Updates](https://nsearchives.nseindia.com/corporate/YESBANK_25072026001338_YBL_SE_Annual_Report202526_Signed.pdf) · [2026-07-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/YESBANK_18072026134012_YBL_SE_Intimation_Outcome_BM_June_2026_Signed.pdf) · [2026-04-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/YESBANK_24042026214226_YBL_SE_Intimation_PB_Results_Signed.pdf) · [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/YESBANK_06042026090006_SEINTIMATION.pdf) · +3 more
 
 ### 2. Financials — the last three years
 
@@ -57,13 +57,24 @@ The filing's own profile: “Mr. Vinay M. Tonse was Managing Director (Retail Bu
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Managing Director (Retail Business and Operations) | State Bank of India (SBI) | 2023 | 2025 |
+| Managing Director (Retail Business and Operations) | State Bank of India (SBIN) | 2023 | 2025 |
+| Deputy Managing Director, Corporate Accounts Group, Corporate Centre, Mumbai | State Bank of India (SBIN) | — | — |
 | Managing Director & CEO (on deputation) | SBI Mutual Funds | 2020 | 2022 |
 | Chief General Manager, Chennai Circle | State Bank of India (SBIN) | 2018 | 2020 |
 | General Manager, Corporate Accounts Group, Branch BKC, Mumbai | State Bank of India (SBIN) | 2016 | 2018 |
 | Deputy General Manager, Equity & Commodities (Global Markets), Corporate Centre, Mumbai | State Bank of India (SBIN) | 2013 | 2016 |
 | Chief Executive Officer, SBI Osaka Branch, Japan | State Bank of India (SBIN) | 2009 | 2013 |
-| Deputy Managing Director, Corporate Accounts Group, Corporate Centre, Mumbai | State Bank of India (SBIN) | — | — |
+| Probationary Officer | State Bank of India (SBIN) | 1988 | — |
+
+Results of **State Bank of India** while they were Managing Director (Retail Business and Operations) there (the filing's profile):
+
+| Mar 2023 → Mar 2025 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Revenue (₹ cr) | 350,845 | 490,313 | +18.2% a year over 2 years |
+| Financing profit (₹ cr) | -43,439 | -62,674 | — |
+| PAT (₹ cr) | 57,750 | 80,523 | +18.1% a year over 2 years |
+| Financing profit margin (%) | -12.4 | -12.8 | -0.4 pts |
+| ROE (%) | 16.1 | 16.5 | +0.4 pts |
 
 ### 5. On the calls
 

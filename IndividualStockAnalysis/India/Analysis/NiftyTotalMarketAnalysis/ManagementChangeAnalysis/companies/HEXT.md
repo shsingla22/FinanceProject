@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer (CEO) and Whole-time Director** | Srikrishna Ramakarthikeyan (resignation; last day 2026-10-28) | Vivek Jetley (external; from 2026-10-28) | effective | 2026-09-02 |
+| **Chief Executive Officer (CEO)** | Srikrishna Ramakarthikeyan (resignation; last day 2026-10-28) | Vivek Jetley (external; from 2026-10-28) | effective | 2026-09-02 |
 
 - **Why Srikrishna Ramakarthikeyan is leaving, in the filing's words:** “to pursue personal interests” Stays on as: Senior Advisor to the Company with effect from October 28, 2026.
-- In the documents: “Mr. Srikrishna Ramakarthikeyan (DIN: 03160121), Chief Executive Officer (CEO) and Whole-time Director, vide email dated September 02, 2026, has submitted his resignation as (i) the CEO of Hexaware Technologies Limited (the “Company”) and of Hexaware Technologies Inc., a wholly owned subsidiary of the Company (“HTI”); (ii) Whole-time Director of the Company; and (iii) Director of the subsidiaries of the Company, in each case, with effect from October 28, 2026.” — [2026-09-03 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HEXT_ROID_97846_KMP_Doc.zip) · [2026-09-02 Resignation](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026183321_Intimation_of_change_in_KMP.pdf) · [2026-09-02 Appointment](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026184232_Intimation_of_appointment_of_CEO.pdf) · +1 more
+- In the documents: “Basis recommendation of the Nomination and Remuneration Committee, the Board of Directors of the Company has today i.e., September 02, 2026, approved the appointment of Mr. Vivek Jetley, as the Chief Executive Officer (CEO) of the Company with effect from October 28, 2026.” — [2026-09-03 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HEXT_ROID_97846_KMP_Doc.zip) · [2026-09-02 Resignation](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026183321_Intimation_of_change_in_KMP.pdf) · [2026-09-02 Appointment](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026184232_Intimation_of_appointment_of_CEO.pdf) · +1 more
 
 *All 6 filing(s) read for the seats:* [2026-10-28 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_28102026220736_outcome.pdf) · [2026-09-30 Updates](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_30092026224845_Clarification_to_Proxy_advisory_firms_report.pdf) · [2026-09-03 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HEXT_ROID_97846_KMP_Doc.zip) · [2026-09-02 Resignation](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026183321_Intimation_of_change_in_KMP.pdf) · [2026-09-02 Appointment](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026184232_Intimation_of_appointment_of_CEO.pdf) · [2026-09-02 Press Release](https://nsearchives.nseindia.com/corporate/HEXAWARETECH_02092026185602_Press_Release.pdf)
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Srikrishna Ramakarthikeyan** — Chief Executive Officer (CEO) and Whole-time Director, date of taking the seat not on file.
+**Srikrishna Ramakarthikeyan** — Chief Executive Officer (CEO), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,15 +57,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vivek Jetley** — Chief Executive Officer (CEO) and Whole-time Director. from: external; experience: more than 25 years; qualifications: Vivek holds a bachelor's degree in computer engineering and a master's of business administration from the Indian Institute of Management Calcutta..
+**Vivek Jetley** — Chief Executive Officer (CEO). from: external; experience: more than 25 years; qualifications: Vivek holds a bachelor's degree in computer engineering and a master's of business administration from the Indian Institute of Management Calcutta..
 
-The filing's own profile: “Vivek is a seasoned business leader with more than 25 years of experience at the intersection of AI and data, enterprise transformation and strategy. He has a proven track record of scaling global businesses, leading large P&Ls, and creating new growth engines during periods of technology disruption from data and cloud to GenAI. He brings deep experience in management consulting, analytics, and data and AI-led transformation, delivering measurable outcomes for large global and Fortune 500 enterprise clients. He joins Hexaware from EXL, where he currently serves as President and leads their Insurance, Healthcare and Life Science businesses.”
+The filing's own profile: “Vivek is a seasoned business leader with more than 25 years of experience at the intersection of AI and data, enterprise transformation and strategy. He has a proven track record of scaling global businesses, leading large P&Ls, and creating new growth engines during periods of technology disruption from data and cloud to GenAI. He brings deep experience in management consulting, analytics, and data and AI-led transformation, delivering measurable outcomes for large global and Fortune 500 enterprise clients. He joins Hexaware from EXL, where he currently serves as President and leads their Insurance, Healthcare and Life Science businesses. Prior to this role, he was the President of EXL analytics.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| President and leads their Insurance, Healthcare and Life Science businesses | EXL | — | — |
+| President, leads their Insurance, Healthcare and Life Science businesses | EXL | — | — |
 | President of EXL analytics | EXL analytics | — | — |
-| various leadership roles with responsibility for corporate strategy, strategic partnerships, innovation | EXL | 2006 | — |
 | partner | Inductis | — | 2006 |
 | consultant | Mitchell Madison Group | — | — |
 

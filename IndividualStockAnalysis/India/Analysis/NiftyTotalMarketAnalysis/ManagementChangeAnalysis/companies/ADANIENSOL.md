@@ -23,10 +23,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (Key Managerial Personnel)** | Kunjal Mehta (resignation; last day 2026-05-30) | Ashok Jagetiya (group company; from 2026-05-31) | effective | 2026-05-30 |
+| **Chief Financial Officer and Key Managerial Personnel of the Company** | Kunjal Mehta (resignation; last day 2026-05-30) | Ashok Jagetiya (group company; from 2026-05-31) | effective | 2026-05-30 |
 
 - **Why Kunjal Mehta is leaving, in the filing's words:** “Resignation due to personal reasons .”
-- In the documents: “Noted the r esignation of Mr. Kunjal Mehta as the Chief Financial Officer and Key Managerial Personnel of the Company , with effect from close of business hours of 30th May, 2026 , due to personal reasons ; and Approved the appointment of Mr. Ashok Jagetiya as the Chief Financial Officer and Key Managerial Personnel of the Company, with effect from 31st May, 2026 , based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee of the Company.” — [2026-05-30 Change in Management](https://nsearchives.nseindia.com/corporate/ADANITRANS_30052026161158_OutcomeAESL.pdf)
+- In the documents: “Approved the appointment of Mr. Ashok Jagetiya as the Chief Financial Officer and Key Managerial Personnel of the Company, with effect from 31st May, 2026 , based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee of the Company.” — [2026-05-30 Change in Management](https://nsearchives.nseindia.com/corporate/ADANITRANS_30052026161158_OutcomeAESL.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-05-30 Change in Management](https://nsearchives.nseindia.com/corporate/ADANITRANS_30052026161158_OutcomeAESL.pdf)
 
@@ -56,7 +56,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Kunjal Mehta** — Chief Financial Officer (Key Managerial Personnel), date of taking the seat not on file.
+**Kunjal Mehta** — Chief Financial Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -76,9 +76,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “Existing promoter-group entities of the Adani group; the filings identify Gautam S. Adani as Chairman of Adani Energy Solutions Limited. No further description of the acquirers is given in the documents.”
 
-**Ashok Jagetiya** — Chief Financial Officer (Key Managerial Personnel). from: group company; experience: 30 years of experience in finance and accounting disciplines; qualifications: Chartered Accountant.
+**Ashok Jagetiya** — Chief Financial Officer and Key Managerial Personnel of the Company. from: group company; experience: 30 years of experience in finance and accounting disciplines; qualifications: Chartered Accountant.
 
-The filing's own profile: “Mr. Ashok Jagetiya is a Chartered Accountant and seasoned finance professional with 30 years of experience in finance and accounting disciplines. He bring deep insight in the area of financial management and strategy, capital allocation, treasury operations, merger & acquisition, governance, statutory compliance and risk management across diversified sectors of FMCG, Energy, Family Office and Natural Resources. Mr. Jagetiya has been associated with Adani Group since 2000 and has served at senior leadership positions across multiple group businesses, including AWL Agri Business Limited (formerly Adani Wilmar Limited), Adani Advisory LLP, Adani Green Energy Limited, and Natural Resource business.”
+The filing's own profile: “Mr. Ashok Jagetiya is a Chartered Accountant and seasoned finance professional with 30 years of experience in finance and accounting disciplines. He bring deep insight in the area of financial management and strategy, capital allocation, treasury operation s, merger & acquisition, governance, statutory compliance and risk management across diversified sectors of FMCG, Energy, Family Office and Natural Resources. Mr. Jagetiya has been associated with Adani Group since 2000 and has served at senior leadership position s across multiple group businesses, including A WL Agri Business Limited (formerly A dani Wilmar Limited ), Adani Advisory LLP, Adani Green Energy Limited, and Natural Resource business.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

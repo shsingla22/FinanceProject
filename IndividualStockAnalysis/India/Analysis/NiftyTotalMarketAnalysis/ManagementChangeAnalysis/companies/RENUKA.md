@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Managing Director and Chief Executive Officer (MD & CEO)** | Atul Chaturvedi (resignation; last day 2026-04-01) | Susheel Kumar Kamboj (external; from 2026-03-23) | effective | 2026-03-17 |
 
-- **Why Atul Chaturvedi is leaving, in the filing's words:** “Due to my advancing age, I will not be able to devote my full time to manage the day-to-day affairs of Shree Renuka Sugars Limited (the Company) as an Executive Director and the Chairman of the Board.” Stays on as: Non-Executive Director (Non-Independent) of the Company with effect from 1st April 2026.
-- In the documents: “Appointment of Mr. Susheel Kumar Kamboj (DIN:09531602) as the Managing Director and Chief Executive Officer (MD & CEO) of the Company for a period of 5 years with effect from 1st April 2026, subject to approval of the shareholders of the Company.” — [2026-03-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RENUKA_17032026172430_Reg_30_Final_merged__1_.pdf) · [2026-03-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RENUKA_17032026172551_Reg_30_Final_merged__1_.pdf)
+- **Why Atul Chaturvedi is leaving, in the filing's words:** “Due to my advancing age, I will not be able to devote my full time to manage the day-to-day affairs of Shree Renuka Sugars Limited (the Company) as an Executive Director and the Chairman of the Board.” Stays on as: Non-Executive Director (Non-Independent) of the Company with effect from 1st April 2026, subject to approval of the Board and the shareholders.
+- In the documents: “Appointment of Mr. Susheel Kumar Kamboj (DIN:09531602) as the Managing Director and Chief Executive Officer (MD & CEO) of the Company for a period of 5 years with effect from 1st April 2026, subject to approval of the shareholders of the Company .” — [2026-03-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RENUKA_17032026172430_Reg_30_Final_merged__1_.pdf) · [2026-03-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RENUKA_17032026172551_Reg_30_Final_merged__1_.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-10-30 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/RENUKA_30102026164939_Reg30ApptofCO.pdf) · [2026-03-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RENUKA_17032026172430_Reg_30_Final_merged__1_.pdf) · [2026-03-17 Change in Director(s)](https://nsearchives.nseindia.com/corporate/RENUKA_17032026172551_Reg_30_Final_merged__1_.pdf)
 
@@ -65,7 +65,6 @@ The filing's own profile: “Mr. Susheel Kumar Kamboj is a B.Sc. in Agriculture 
 |---|---|---|---|
 | Managing Director | Syngenta India Private Limited | — | — |
 | — | Maharashtra Hybrid Seeds Co. Ltd. (Mahyco) | — | — |
-| Board Member/office bearer | Syngenta Foundation India, Croplife India, and Agro Chem Federation of India (ACFI) | — | — |
 
 ### 5. On the calls
 

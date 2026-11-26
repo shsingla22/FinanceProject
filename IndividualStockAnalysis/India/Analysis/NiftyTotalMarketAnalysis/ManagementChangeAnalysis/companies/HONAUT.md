@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013** | Pulkit Goyal (resignation; last day 2026-05-20) | Satish Agarwal (group company; from 2026-06-01) | effective | 2026-02-02 |
 
-- **Why Pulkit Goyal is leaving, in the filing's words:** “to pursue other opportunities”
-- In the documents: “Pursuant to Regulation 30 of the SEBI Listing Regulations, please be informed that the Board of Directors of the Company at its meeting held today i.e. February 2, 2026 has, inter alia, accepted and took on record resignation of Mr. Pulkit Goyal as the Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013, with effect from the close of business hours of April 30, 2026.” — [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82792_KMP_Doc.zip) · [2026-04-20 Cessation](https://nsearchives.nseindia.com/corporate/HONAUT_20042026225135_RevSELetter20Apr26signed.pdf) · [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82795_KMP_Doc.zip) · +1 more
+- **Why Pulkit Goyal is leaving, in the filing's words:** “Resignation of Mr. Pulkit Goyal as the Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013, to pursue other opportunities.”
+- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee and the Audit Committee, the Board of Directors of the Company has approved appointment of Mr. Satish Agarwal as the Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013 , w.e.f. June 1, 2026.” — [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82792_KMP_Doc.zip) · [2026-04-20 Cessation](https://nsearchives.nseindia.com/corporate/HONAUT_20042026225135_RevSELetter20Apr26signed.pdf) · [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82795_KMP_Doc.zip) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-05-20 Change in Management](https://nsearchives.nseindia.com/corporate/HONAUT_20052026172835_SELetter20May2026.pdf) · [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82792_KMP_Doc.zip) · [2026-04-20 Cessation](https://nsearchives.nseindia.com/corporate/HONAUT_20042026225135_RevSELetter20Apr26signed.pdf) · [2026-04-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HONAUT_ROID_82795_KMP_Doc.zip) · [2026-02-02 Change in Management](https://nsearchives.nseindia.com/corporate/HONAUT_02022026183501_SELetter2Feb26.pdf)
 
@@ -59,11 +59,11 @@ The company's results while they held the seat (the year before they took it, to
 
 **Satish Agarwal** — Chief Financial Officer of the Company and Key Managerial Personnel under the Companies Act, 2013. from: group company; qualifications: Satish is a chartered accountant from ICAI and did his BCom from University of Calcutta.
 
-The filing's own profile: “Satish is currently the CFO of Building Automation business of Honeywell India, ASEAN & East Asia Region managing finance activities of multiple line of business having products and projects complexities. He has worked with PepsiCo and Tata Steel in the past. In his new role, he will be responsible for overseeing the financial operations and strategy within HAIL. This role encompasses financial planning, risk management, compliance with regulatory requirements, and the management of financial reporting processes.”
+The filing's own profile: “Educational Qualification: Satish is a chartered accountant from ICAI and did his BCom from University of Calcutta. Professional Experience: Satish is currently the CFO of Building Automation business of Honeywell India, ASEAN & East Asia Region managing finance activities of multiple line of business having products and projects complexities. He has worked with PepsiCo and Tata Steel in the past. In his new role, he will be responsible for overseeing the financial operations and strategy within HAIL. This role encompasses financial planning, risk management, compliance with regulatory requirements, and the management of financial reporting processes.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| CFO of Building Automation business | Honeywell India, ASEAN & East Asia Region | — | — |
+| CFO of Building Automation business | Honeywell India, ASEAN & East Asia Region (Building Automation business) | — | — |
 | — | PepsiCo | — | — |
 | — | Tata Steel (TATASTEEL) | — | — |
 

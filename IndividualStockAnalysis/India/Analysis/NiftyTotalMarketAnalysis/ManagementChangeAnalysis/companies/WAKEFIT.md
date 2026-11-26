@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer (Key Managerial Personnel)** | Navesh Gupta (resignation; last day 2025-12-31) | Parul Gupta (internal; from 2026-02-10) | effective | 2025-12-31 |
 
-- **Why Navesh Gupta is leaving, in the filing's words:** “has tendered his resignation from the services of the Company, following careful consideration of his personal and professional plans”
-- In the documents: “Ms. Parul Gupta will be replacing prior CFO, Mr. Navesh Gupta, who resigned from the company, due to his personal and professional plans, with last working day as 31-Dec-2025.” — [2026-02-10 Appointment](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026121601_SignedSEIntimationCIMCFO.pdf) · [2026-02-10 General Updates](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026131631_SignedDeterminationofmateriality.pdf) · [2026-02-10 Press Release](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026134804_1SignedStockexchange.pdf) · +1 more
+- **Why Navesh Gupta is leaving, in the filing's words:** “following careful consideration of his personal and professional plans”
+- In the documents: “Pursuant to Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations") and the relevant circulars issued thereunder, we wish to inform that, the Board of Directors of the Company, at its meeting held on Tuesday, February 10, 2026, approved the appointment of Ms. Parul Gupta as Chief Financial Officer (Key Managerial Personnel) of the Company with effect from February 10, 2026.” — [2026-02-10 Appointment](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026121601_SignedSEIntimationCIMCFO.pdf) · [2026-02-10 General Updates](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026131631_SignedDeterminationofmateriality.pdf) · [2026-02-10 Press Release](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026134804_1SignedStockexchange.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-02-10 Appointment](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026121601_SignedSEIntimationCIMCFO.pdf) · [2026-02-10 General Updates](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026131631_SignedDeterminationofmateriality.pdf) · [2026-02-10 Press Release](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_10022026134804_1SignedStockexchange.pdf) · [2025-12-31 Resignation](https://nsearchives.nseindia.com/corporate/WAKEFIT2025_31122025212212_ResignationofCFONavesh.pdf)
 
@@ -57,7 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Parul Gupta** — Chief Financial Officer (Key Managerial Personnel). from: internal; experience: nearly 20 years; qualifications: member of Institute of Chartered Accountant of India and an alumna of ISB Hyderabad. She also holds dual bachelor's degree in law and commerce from Lucknow University..
+**Parul Gupta** — Chief Financial Officer (Key Managerial Personnel). from: internal; experience: nearly 20 years in leadership roles across diverse industries; qualifications: Ms. Parul Gupta is a member of Institute of Chartered Accountant of India and an alumna of ISB Hyderabad. She also holds dual bachelor's degree in law and commerce from Lucknow University..
 
 The filing's own profile: “Ms. Parul Gupta is a member of Institute of Chartered Accountant of India and an alumna of ISB Hyderabad. She also holds dual bachelor's degree in law and commerce from Lucknow University. With nearly 20 years in leadership roles across diverse industries, Parul has excelled in strategic finance, business partnering and ensuring robust controls & compliance. Her career includes significant positions with Syngene, Myntra, Jabong, Aircel and Airtel. Her professional journey has also been recognized with prestigious awards, including the 'Top 30 e-Commerce Leaders Award', 'Women Leadership Award for Excellence in e-commerce', and inclusion among the 'Top 250 Great Managers in India.”
 
@@ -68,7 +68,6 @@ The filing's own profile: “Ms. Parul Gupta is a member of Institute of Charter
 | — | Jabong | — | — |
 | — | Aircel | — | — |
 | — | Airtel | — | — |
-| She joined the Company in Aug-25 | Wakefit Innovations Limited (WAKEFIT) | 2025 | — |
 
 ### 5. On the calls
 

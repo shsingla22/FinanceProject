@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | **Chief Financial Officer** | Subodh Kumar (resignation; last day 2026-06-20) | Vijay Kumar Yadav (internal; from 2026-08-08) | effective | 2026-06-20 |
 
-- **Why Subodh Kumar is leaving, in the filing's words:** “This decision is a personal one, as I wish to explore new professional opportunities for future gmwth.”
+- **Why Subodh Kumar is leaving, in the filing's words:** “To explore new professional opportunities for future growth.”
 - In the documents: “Pursuant to Regulation 30 of the Listing Regulations, we wish to inform that Mr. Subodh Kumar, Chief Financial Officer of the Company has tendered his resignation from the services of the Company vide his letter dated May 27, 2026, in order to pursue opportunities outside the Company.” — [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026194624_SELetterReAppVGAppCFOOPL08082026.pdf) · [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026195503_SELetterReAppVGAppCFOOPL08082026.pdf) · [2026-06-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_ROID_90194_KMP_Doc.zip) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026194624_SELetterReAppVGAppCFOOPL08082026.pdf) · [2026-08-08 Appointment](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_08082026195503_SELetterReAppVGAppCFOOPL08082026.pdf) · [2026-06-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_ROID_90194_KMP_Doc.zip) · [2026-06-20 Resignation](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_20062026160218_SELetterCFOResgOPL20062026.pdf)
@@ -57,7 +57,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Vijay Kumar Yadav** — Chief Financial Officer. from: internal; experience: over 21 years; qualifications: a distinguished Chartered Accountant (ICAI) and finance professional.
+**Vijay Kumar Yadav** — Chief Financial Officer. from: internal; experience: over 21 years; qualifications: Chartered Accountant (ICAI).
 
 The filing's own profile: “CA Vijay Yadav is a distinguished Chartered Accountant (ICAI) and finance professional with over 21 years of extensive experience in Corporate Finance, Strategic Financial Management, Corporate Governance, Treasury, Taxation, Capital Markets, and Regulatory Compliance across leading listed manufacturing organizations. He was appointed in the Company as Senior GM-Finance on June 22, 2026. Post his association with the Company, he had served as Chief Financial Officer at Duroply Industries Limited. He also held senior finance leadership positions at Gold Plus Glass Industry Limited, Wires, Fabriks (S.A.) Limited, and Texplas Group of Companies, where he was responsible for financial planning, compliance, treasury, and business finance.”
 
@@ -65,9 +65,9 @@ The filing's own profile: “CA Vijay Yadav is a distinguished Chartered Account
 |---|---|---|---|
 | Senior GM-Finance | Oswal Pumps Limited (OSWALPUMPS) | 2026 | 2026 |
 | Chief Financial Officer | Duroply Industries Limited | — | — |
-| senior finance leadership positions | Gold Plus Glass Industry Limited | — | — |
-| senior finance leadership positions | Wires, Fabriks (S.A.) Limited | — | — |
-| senior finance leadership positions | Texplas Group of Companies | — | — |
+| senior finance leadership position | Gold Plus Glass Industry Limited | — | — |
+| senior finance leadership position | Wires, Fabriks (S.A.) Limited | — | — |
+| senior finance leadership position | Texplas Group of Companies | — | — |
 
 ### 5. On the calls
 

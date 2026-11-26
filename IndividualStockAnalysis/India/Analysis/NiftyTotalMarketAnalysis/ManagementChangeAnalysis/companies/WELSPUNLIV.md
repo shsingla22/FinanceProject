@@ -21,7 +21,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | — (new seat) | Manish Bansal (internal; from 2026-01-01) | effective | — |
+| **Chief Financial Officer of Welspun Living** | — (new seat) | Manish Bansal (internal; from 2026-01-01) | effective | 2025-11-01 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Before I conclude, I'm pleased to share that the Board has appointed Mr. Manish Ban sal as the new Chief Financial Officer of Welspun Living, effective 1 January 2026.”
@@ -50,7 +50,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/WELSPUNLIV.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹130.57 on 2025-12-31 (the close before) → ₹250.14 on 2026-11-13: **+91.6%**; Nifty 500 -0.6% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹129.65 on 2025-10-31 (the close before) → ₹250.14 on 2026-11-13: **+92.9%**; Nifty 500 +0.1% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -58,7 +58,7 @@
 
 ### 4. Track record — the incoming management
 
-**Manish Bansal** — Chief Financial Officer. from: internal; experience: over 15 years.
+**Manish Bansal** — Chief Financial Officer of Welspun Living. from: internal; experience: over 15 years.
 
 The filing's own profile: “Manish has been with us for over 15 years and has led leadership roles across our Indian retail, U.K. and U.S. Businesses . His extensive experience across geographies and deep understanding of operations and financial strategy make it exceptionally well -placed to lead our”
 

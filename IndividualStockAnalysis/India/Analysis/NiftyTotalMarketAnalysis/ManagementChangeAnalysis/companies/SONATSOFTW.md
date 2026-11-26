@@ -11,9 +11,9 @@
 | **Managing Director & Chief Executive Officer (outgoing); Chief Executive Officer (incoming)** | Samir Dhir (end of term; last day 2026-05-08) | Rajsekhar Datta Roy (internal; from 2026-05-09) | effective | 2026-04-25 |
 
 - **Why Samir Dhir is leaving, in the filing's words:** “Having regard to my personal priorities at this time, I have decided not to offer myself for reappointment upon expiration of my term.” Stays on as: Advisor to the Board of Directors of Sonata Software until December 31, 2026.
-- In the documents: “Approved the appointment of Mr. Rajsekhar Datta Roy as the Chief Executive Officer of the Company with effect from May 9, 2026 for a period of 3 years.” — [2026-04-26 Updates](https://nsearchives.nseindia.com/corporate/SONATSOFTW_26042026195220_Pressrelease260426.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_25042026200425_outcomeofbm250426.pdf)
+- In the documents: “Approved the appointment of Mr. Rajsekhar Datta Roy as the Chief Executive Officer of the Company with effect from May 9, 2026 for a period of 3 years.” — [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026204512_bmoutcome06082026.pdf) · [2026-04-26 Updates](https://nsearchives.nseindia.com/corporate/SONATSOFTW_26042026195220_Pressrelease260426.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_25042026200425_outcomeofbm250426.pdf) · +1 more
 
-*All 2 filing(s) read for the seats:* [2026-04-26 Updates](https://nsearchives.nseindia.com/corporate/SONATSOFTW_26042026195220_Pressrelease260426.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_25042026200425_outcomeofbm250426.pdf)
+*All 7 filing(s) read for the seats:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_05112026194500_outcomeofbmsefiling.pdf) · [2026-11-05 Record Date](https://nsearchives.nseindia.com/corporate/SONATSOFTW_05112026195807_outcomeofbmsefiling.pdf) · [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026204512_bmoutcome06082026.pdf) · [2026-08-06 Record Date](https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026211948_bmoutcome06082026.pdf) · [2026-04-26 Updates](https://nsearchives.nseindia.com/corporate/SONATSOFTW_26042026195220_Pressrelease260426.pdf) · [2026-04-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SONATSOFTW_25042026200425_outcomeofbm250426.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -59,11 +59,11 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Rajsekhar Datta Roy** — Managing Director & Chief Executive Officer (outgoing); Chief Executive Officer (incoming). from: internal; experience: over three decades.
 
-The filing's own profile: “Mr. Rajsekhar Datta Roy (Raj): He brings over three decades of extensive experience in scaling practices, leading delivery groups for global clients. He has played a pivotal role in expanding Sonata Software's Dynamics and Microsoft practices into some of the largest industry-focused offerings worldwide, spearheading strategy, delivery, and go-to-market initiatives. He has handled key delivery portfolios including product engineering, enterprise systems deployment, and leading large digital transformation programs. Over the past year, Raj has been instrumental in guiding Sonata Software's evolution into an AI-first organization. Raj was serving as the Chief Delivery Officer and a key member of Sonata Software's executive leadership team.”
+The filing's own profile: “Mr. Rajsekhar Datta Roy (Raj): He brings over three decades of extensive experience in scaling practices, leading delivery groups for global clients. He has played a pivotal role in expanding Sonata Software's Dynamics and Microsoft practices into some of the largest industry-focused offerings worldwide, spearheading strategy, delivery, and go-to-market initiatives. He has handled key delivery portfolios including product engineering, enterprise systems deployment, and leading large digital transformation programs. Over the past year, Raj has been instrumental in guiding Sonata Software's evolution into an AI-first organization.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Chief Delivery Officer | Sonata Software Limited (SONATSOFTW) | — | 2026 |
+| Chief Delivery Officer (CDO) | Sonata Software Limited (SONATSOFTW) | 2026 | 2026 |
 
 ### 5. On the calls
 

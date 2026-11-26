@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (“CFO”) and a Key Managerial Personnel of the Bank** | Puneet Sharma (resignation; last day 2026-08-31) | Rajeev Mantri (external; from 2026-09-28) | effective | 2026-06-29 |
+| **Chief Financial Officer ("CFO") and a Key Managerial Personnel of the Bank** | Puneet Sharma (resignation; last day 2026-08-31) | Rajeev Mantri (external; from 2026-09-28) | effective | 2026-06-29 |
 
-- **Why Puneet Sharma is leaving, in the filing's words:** “Puneet Sharma, Chief Financial Officer of the Bank has tendered his resignation on June 28, 2026 to pursue next phase of his professional journey.”
-- In the documents: “We now wish to inform you that based on the recommendations of the Nomination and Remuneration Committee and the Audit Committee, the Board of Directors of the Bank at its meeting held today i.e. July 18, 2026, has approved the appointment of Rajeev Mantri as the Chief Financial Officer (“CFO”) and a Key Managerial Personnel of the Bank with effect from September 28, 2026.” — [2026-07-18 Appointment](https://nsearchives.nseindia.com/corporate/AXISBANK1_18072026160421_SEintimationSigned.pdf) · [2026-06-29 General Updates](https://nsearchives.nseindia.com/corporate/AXISBANK1_29062026162105_SEIntimationJune292026Signed.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/AXISBANK1_29062026162427_SEIntimationJune292026Signed.pdf)
+- **Why Puneet Sharma is leaving, in the filing's words:** “tendered his resignation on June 28, 2026 to pursue next phase of his professional journey”
+- In the documents: “We now wish to inform you that based on the recommendations of the Nomination and Remuneration Committee and the Audit Committee, the Board of Directors of the Bank at its meeting held today i.e. July 18, 2026, has approved the appointment of Rajeev Mantri as the Chief Financial Officer ("CFO") and a Key Managerial Personnel of the Bank with effect from September 28, 2026.” — [2026-07-18 Appointment](https://nsearchives.nseindia.com/corporate/AXISBANK1_18072026160421_SEintimationSigned.pdf) · [2026-06-29 General Updates](https://nsearchives.nseindia.com/corporate/AXISBANK1_29062026162105_SEIntimationJune292026Signed.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/AXISBANK1_29062026162427_SEIntimationJune292026Signed.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-07-18 Appointment](https://nsearchives.nseindia.com/corporate/AXISBANK1_18072026160421_SEintimationSigned.pdf) · [2026-06-29 General Updates](https://nsearchives.nseindia.com/corporate/AXISBANK1_29062026162105_SEIntimationJune292026Signed.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/AXISBANK1_29062026162427_SEIntimationJune292026Signed.pdf)
 
@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Puneet Sharma** — Chief Financial Officer (“CFO”) and a Key Managerial Personnel of the Bank, date of taking the seat not on file.
+**Puneet Sharma** — Chief Financial Officer ("CFO") and a Key Managerial Personnel of the Bank, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -51,7 +51,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rajeev Mantri** — Chief Financial Officer (“CFO”) and a Key Managerial Personnel of the Bank. from: external; age 49 years; experience: nearly three decades of experience; qualifications: A Chartered Accountant from ICAI India and Global Executive MBA from INSEAD Business School, Singapore.
+**Rajeev Mantri** — Chief Financial Officer ("CFO") and a Key Managerial Personnel of the Bank. from: external; age 49; experience: nearly three decades; qualifications: A Chartered Accountant from ICAI India and Global Executive MBA from INSEAD Business School, Singapore.
 
 The filing's own profile: “Rajeev Mantri, age 49 years, is a seasoned financial services leader with nearly three decades of experience across banking, financial services, credit information, consumer goods and international financial institutions. Rajeev Mantri, as the Executive President and Chief Financial Officer at Bandhan Bank, leads all aspects of Finance and Strategy across a 150+ member team spanning financial planning and analysis, accounting, controls, reporting, balance sheet, capital and cost management, tax, procurement, payments and investor relations. He brings deep expertise in banking finance, strategy, regulatory engagement, and business transformation, built over a distinguished career across leading global and Indian banks including Citibank, Standard Chartered, and Mashreq across India, Singapore and UAE.”
 

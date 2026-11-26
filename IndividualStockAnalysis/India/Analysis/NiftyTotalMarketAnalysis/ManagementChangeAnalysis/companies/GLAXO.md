@@ -11,7 +11,7 @@
 | **Whole-Time Director & Chief Financial Officer (CFO)** | Juby Chandy (moved to another role in the company or group; last day 2026-03-11) | Ronojit Biswas (group company; from 2026-04-01) | effective | 2026-03-02 |
 
 - **Why Juby Chandy is leaving, in the filing's words:** “Consequent to my appointment as Finance Head for the Asia Pacific region at GSK, I hereby tender my resignation from the positions of Whole-time Director and Chief Financial Officer of the Company” Stays on as: Finance Head for the Asia Pacific region at GSK (lead APAC Finance within the GSK Group).
-- In the documents: “Following his promotion to lead APAC Finance within the GSK Group, Mr. Juby Chandy (current CFO), will step down from his roles as Whole-Time Director and CFO, effective March 11, 2026.” — [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · [2026-03-07 General Updates](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026173413_PostalBallotNoticeRegulation.pdf) · [2026-03-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_02032026121837_Reg_30_Disclosure_-CFO.pdf) · +1 more
+- In the documents: “In compliance with Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations"), we wish to inform you that the Board of Directors at its meeting held today have approved the appointment Mr. Ronojit Biswas (DIN 07684843) as the Whole-Time Director & Chief Financial Officer (CFO) of the Company for term of three years w.e.f. 1st April 2026 & Juby Chandy (Current CFO) to transition into a new role in GSK Group.” — [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · [2026-03-07 General Updates](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026173413_PostalBallotNoticeRegulation.pdf) · [2026-03-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_02032026121837_Reg_30_Disclosure_-CFO.pdf) · +1 more
 
 *All 9 filing(s) read for the seats:* [2026-11-03 Appointment](https://nsearchives.nseindia.com/corporate/GLAXO1924_03112026185321_Outcome_of_Meeting.pdf) · [2026-05-29 Cessation](https://nsearchives.nseindia.com/corporate/GLAXO1924_29052026124504_Reg_30_Disclosure.pdf) · [2026-05-29 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GLAXO_ROID_88959_KMP_Doc.zip) · [2026-04-08 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_08042026232720_outcome_of_Postal_Ballot.pdf) · [2026-03-16 Change in Management](https://nsearchives.nseindia.com/corporate/GLAXO1924_16032026180007_Reg_30_Disclosure_Resignation_letter.pdf) · [2026-03-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/GLAXO1924_07032026172957_PostalBallotNoticeRegulation.pdf) · +3 more
 
@@ -57,7 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ronojit Biswas** — Whole-Time Director & Chief Financial Officer (CFO). from: group company; experience: over 25 years of experience with GSK across international markets; qualifications: Post Graduate Program in Management (Finance) from the Management Development Institute, Gurgaon, and a Bachelor's degree in Commerce (Hons.) from St. Xavier's College, Kolkata.
+**Ronojit Biswas** — Whole-Time Director & Chief Financial Officer (CFO). from: group company; experience: over 25 years; qualifications: Post Graduate Program in Management (Finance) from the Management Development Institute, Gurgaon, and a Bachelor's degree in Commerce (Hons.) from St. Xavier's College, Kolkata.
 
 The filing's own profile: “Ronojit is a seasoned finance leader with over 25 years of experience with GSK across international markets, including leadership roles in India, Vietnam, Singapore, Brazil, and the UK. He started his career with GSK in India as a Management Trainee in 1999 and has held several senior global and regional leadership roles with the Company. Prior to this appointment, he has most recently served as Senior Finance Director – Global Product Strategy, based in Singapore. Ronojit has previously served as CFO for GSK's Brazil and its Vietnam Businesses. He was also Regional Controller for GSK's International region, where he led financial reporting and performance management with responsibility for internal controls.”
 
@@ -65,7 +65,7 @@ The filing's own profile: “Ronojit is a seasoned finance leader with over 25 y
 |---|---|---|---|
 | Senior Finance Director – Global Product Strategy, based in Singapore | GSK | — | — |
 | CFO | GSK Brazil | — | — |
-| CFO | GSK Vietnam Business | — | — |
+| CFO | GSK Vietnam | — | — |
 | Regional Controller | GSK International region | — | — |
 | Management Trainee | GSK India | 1999 | — |
 

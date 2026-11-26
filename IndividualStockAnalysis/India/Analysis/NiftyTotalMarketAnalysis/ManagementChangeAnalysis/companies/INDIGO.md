@@ -9,13 +9,13 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Executive Officer** | Pieter Elbers (resignation; last day 2026-03-10) | Rahul Bhatia (interim; internal; from 2026-03-10) | effective | 2026-03-10 |
-| **Chief Executive Officer** | Rahul Bhatia (interim holder replaced; last day 2026-08-03) | William Walsh (external; from 2026-08-03) | effective | 2026-03-31 |
+| **Chief Executive Officer** | Rahul Bhatia (interim holder replaced) | William Walsh (external; from 2026-08-03) | effective | 2026-03-31 |
 | **Chief Financial Officer (Key Managerial Personnel)** | Gaurav Negi (moved to another role in the company or group; last day 2026-07-27) | Kiran Thadimarri (internal; from 2026-07-28) | effective | 2026-07-27 |
 
-- **Why Pieter Elbers is leaving, in the filing's words:** “took note of the resignation tendered by Mr. Pieter Elbers, Chief Executive Officer. He will be relieved from the service of the Company effective close of business hours on March 10, 2026.”
-- In the documents: “Mr. Rahul Bhatia, Managing Director, shall in the interim assume management of the affairs of the Company.” — [2026-03-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_23032026191904_SE_disclosure_23032026.pdf) · [2026-03-23 Press Release](https://nsearchives.nseindia.com/corporate/Indigo1_23032026192508_SE_disclosure_23032026.pdf) · [2026-03-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_10032026175934_Disclosure.pdf) · +1 more
-- **Why Rahul Bhatia is leaving, in the filing's words:** “Rahul Bhatia, Managing Director of IndiGo, shall in the interim assume management of the affairs of the airline until such time that the Company announces the arrival of a new leader, which is expected in short order.” Stays on as: Managing Director.
-- In the documents: “IndiGo, India’s preferred airline and one of the world’s fastest growing carriers, today announced that Willie Walsh has assumed charge as its new Chief Executive Officer to lead the airline’s next era of growth and global ambition.” — [2026-03-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_31032026151913_SE_disclosure_31032026.pdf) · [2026-03-31 Press Release](https://nsearchives.nseindia.com/corporate/Indigo1_31032026153024_SE_disclosure_31032026.pdf) · [2026-03-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_23032026191904_SE_disclosure_23032026.pdf) · +1 more
+- **Why Pieter Elbers is leaving, in the filing's words:** “With immediate effect, Pieter Elbers will be stepping down as InterGlobe Aviation Limited's (IndiGo) CEO.”
+- In the documents: “We wish to inform you that the Board of Directors of the Company, at its meeting held today, i.e., March 10, 2026, inter-alia, took note of the resignation tendered by Mr. Pieter Elbers, Chief Executive Officer.” — [2026-03-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_23032026191904_SE_disclosure_23032026.pdf) · [2026-03-23 Press Release](https://nsearchives.nseindia.com/corporate/Indigo1_23032026192508_SE_disclosure_23032026.pdf) · [2026-03-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_10032026175934_Disclosure.pdf) · +1 more
+- **Why Rahul Bhatia is leaving, in the filing's words:** “Rahul Bhatia, Managing Director of IndiGo, shall in the interim assume management of the affairs of the airline until such time that the Company announces the arrival of a new leader” Stays on as: Managing Director.
+- In the documents: “The Board of InterGlobe Aviation Limited (IndiGo) today appointed Mr. William Walsh as the Chief Executive Officer, subject to Regulatory approvals.” — [2026-03-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_31032026151913_SE_disclosure_31032026.pdf) · [2026-03-31 Press Release](https://nsearchives.nseindia.com/corporate/Indigo1_31032026153024_SE_disclosure_31032026.pdf) · [2026-03-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Indigo1_23032026191904_SE_disclosure_23032026.pdf) · +1 more
 - **Why Gaurav Negi is leaving, in the filing's words:** “Being re-designated and transitioned from CFO to the Advisor to the Managing Director” Stays on as: Advisor to the Managing Director.
 - In the documents: “Appointment of Mr. Kiran Thadimarri, Deputy Chief Financial Officer as the Chief Financial Officer (Key Managerial Personnel) of the Company effective July 28, 2026.” — [2026-07-27 Change in Management](https://nsearchives.nseindia.com/corporate/Indigo1_27072026211119_Disclosure_27072026_KMP.pdf)
 
@@ -93,7 +93,7 @@ The company's results while they held the seat (the year before they took it, to
 
 **Rahul Bhatia** — Chief Executive Officer (interim). from: internal.
 
-The filing's own profile: ““Having founded and nurtured IndiGo for twenty two years, I feel a deep sense of personal commitment and responsibility towards our nation, and towards the airline’s customers, employees, shareholders and all other stakeholders”, said Rahul Bhatia.”
+The filing's own profile: “Rahul Bhatia, Managing Director of IndiGo, shall in the interim assume management of the affairs of the airline until such time that the Company announces the arrival of a new leader, which is expected in short order. "Rahul returns to assume management of the affairs of the airline to strengthen the Company's Culture, reinforce Operational Excellence and deepen its commitment to delivering exceptional service of care, reliability and professionalism to its customers", said the Chairman of the Board, Vikram Singh Mehta.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -101,24 +101,24 @@ The filing's own profile: ““Having founded and nurtured IndiGo for twenty tw
 
 **William Walsh** — Chief Executive Officer. from: external; experience: over four decades of global aviation leadership experience.
 
-The filing's own profile: “Mr. Walsh (popularly known as Willie) is currently the Director General of IATA (International Air Transport Association) and was formerly CEO of British Airways and IAG (International Airlines Group, a holding company which owns Aer Lingus, British Airways, Iberia, Level and Vueling). Mr. Walsh is widely considered as one of the most successful, respected, influential and long-lasting leaders in modern aviation history. He is admired for his pragmatic and resolute management, effective complex restructuring, and successful mergers and acquisitions.”
+The filing's own profile: “Mr. Walsh (popularly known as Willie) is currently the Director General of IATA (International Air Transport Association) and was formerly CEO of British Airways and IAG (International Airlines Group, a holding company which owns Aer Lingus, British Airways, Iberia, Level and Vueling). ... Mr. Walsh's distinguished career highlights commence from his role as a pilot, COO and then CEO of Aer Lingus, (2000-2005); CEO of British Airways, (2005-2011); CEO of IAG (2011-2020); and since then, the Director General of IATA (International Air Transport Association).”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | pilot, COO and then CEO | Aer Lingus | 2000 | 2005 |
 | CEO | British Airways | 2005 | 2011 |
-| CEO | IAG (International Airlines Group) | 2011 | 2020 |
-| Director General | IATA (International Air Transport Association) | 2020 | 2026 |
+| CEO | International Airlines Group (IAG) | 2011 | 2020 |
+| Director General | International Air Transport Association (IATA) | — | 2026 |
 
 **Kiran Thadimarri** — Chief Financial Officer (Key Managerial Personnel). from: internal; experience: over 24 years; qualifications: Chartered Accountant.
 
-The filing's own profile: “Mr. Kiran Thadimarri is a Chartered Accountant and a senior Finance professional with diverse experience of over 24 years. He has held in-depth assignments in Controllership, FP&A, Business Finance, Treasury, Capital raising, Audit, Taxation, and Investor Relations. His past assignments include leadership roles at InterGlobe Enterprises, Udaan (India’s largest eB2B ecommerce company), Cofounder & CFO at Genworks Health and over thirteen years at General Electric Company.”
+The filing's own profile: “Mr. Kiran Thadimarri is a Chartered Accountant and a senior Finance professional with diverse experience of over 24 years. He has held in-depth assignments in Controllership, FP&A, Business Finance, Treasury, Capital raising, Audit, Taxation, and Investor Relations. His past assignments include leadership roles at InterGlobe Enterprises, Udaan (India's largest eB2B ecommerce company), Cofounder & CFO at Genworks Health and over thirteen years at General Electric Company.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Deputy Chief Financial Officer | InterGlobe Aviation Limited (IndiGo) | — | 2026 |
-| leadership roles | InterGlobe Enterprises | — | — |
-| leadership roles | Udaan | — | — |
+| leadership role | InterGlobe Enterprises | — | — |
+| leadership role | Udaan | — | — |
 | Cofounder & CFO | Genworks Health | — | — |
 | — | General Electric Company | — | — |
 

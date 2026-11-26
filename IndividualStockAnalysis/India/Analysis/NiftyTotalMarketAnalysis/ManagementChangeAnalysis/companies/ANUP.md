@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (Key Managerial Personnel)** | Nilesh Hirapara (moved to another role in the company or group; last day 2026-11-06) | Vishal Begwani (from 2026-11-06) | effective | 2026-11-06 |
+| **Chief Financial Officer (Key Managerial Personnel)** | Nilesh Hirapara (moved to another role in the company or group; last day 2026-11-06) | Vishal Begwani (internal; from 2026-11-06) | effective | 2026-11-06 |
 
-- **Why Nilesh Hirapara is leaving, in the filing's words:** “in view of his transition to a new and larger role within the Group” Stays on as: a new and larger role within the Group (Group Company).
-- In the documents: “Mr. Nilesh Hirapara has tenedered resignation as Chief Financial Officer of the Company on 6th November, 2026 with immidiate effect and in his place Mr. Vishal Begwani has been appointed as the Chief Financial Officer of the Company w.e.f. 6th November, 2026” — [2026-11-06 Resignation](https://nsearchives.nseindia.com/corporate/ANUP_06112026123708_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Appointment](https://nsearchives.nseindia.com/corporate/ANUP_06112026124301_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ANUP_ROID_104208_KMP_Doc.zip)
+- **Why Nilesh Hirapara is leaving, in the filing's words:** “on account of my elevation in larger role within our Group Company.” Stays on as: a new and larger role within the Group (Group Company).
+- In the documents: “approved the appointment of Mr. Vishal Begwani as the Chief Financial Officer (Key Managerial Personnel) of the Company, pursuant to Section 203 of the Companies Act, 2013, with effect from 6th November, 2026 based on the recommendation of the Nomination and Remuneration Committee & the Audit Committee of the Company.” — [2026-11-06 Resignation](https://nsearchives.nseindia.com/corporate/ANUP_06112026123708_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Appointment](https://nsearchives.nseindia.com/corporate/ANUP_06112026124301_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ANUP_ROID_104208_KMP_Doc.zip)
 
 *All 3 filing(s) read for the seats:* [2026-11-06 Resignation](https://nsearchives.nseindia.com/corporate/ANUP_06112026123708_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Appointment](https://nsearchives.nseindia.com/corporate/ANUP_06112026124301_Reg30IntimationChangeinCFO.pdf) · [2026-11-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/ANUP_ROID_104208_KMP_Doc.zip)
 
@@ -57,14 +57,14 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Vishal Begwani** — Chief Financial Officer (Key Managerial Personnel). experience: over 20 years of experience in finance and corporate management across the engineering and manufacturing sectors; qualifications: a qualified Chartered Accountant (ACA) and has also cleared CS Inter. He is an alumnus of the Indian Institute of Management Ahmedabad (IIMA), having successfully completed the Management Education Programme (MEP).
+**Vishal Begwani** — Chief Financial Officer (Key Managerial Personnel). from: internal; experience: over 20 years of experience in finance and corporate management across the engineering and manufacturing sectors; qualifications: qualified Chartered Accountant (ACA) and has also cleared CS Inter. He is an alumnus of the Indian Institute of Management Ahmedabad (IIMA), having successfully completed the Management Education Programme (MEP)..
 
-The filing's own profile: “Mr. Vishal Begwani is a qualified Chartered Accountant (ACA) and has also cleared CS Inter. He is an alumnus of the Indian Institute of Management Ahmedabad (IIMA), having successfully completed the Management Education Programme (MEP). He brings over 20 years of experience in finance and corporate management across the engineering and manufacturing sectors. Prior to joining The Anup Engineering Limited, he served as the Chief Financial Officer of EIMCO Elecon (India) Limited. Earlier, he was associated with the Larsen & Toubro Group for over 15 years, where he held various leadership positions in finance and commercial functions.”
+The filing's own profile: “Mr. Vishal Begwani is a qualified Chartered Accountant and has also cleared CS Inter. He is an alumnus of the Indian Institute of Management Ahmedabad, having successfully completed the Management Education Programme. He brings over 20 years of experience in finance and corporate management across the engineering and manufacturing sectors. Throughout his professional career with listed companies, Mr. Begwani has gained extensive experience in financial strategy and planning, financial reporting, treasury and working capital management, taxation, investor relations, corporate governance, regulatory compliance, enterprise risk management, and internal financial controls.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | EIMCO Elecon (India) Limited | — | — |
-| various leadership positions in finance and commercial functions | Larsen & Toubro Group | — | — |
+| various leadership positions in finance and commercial functions (over 15 years) | Larsen & Toubro Group | — | — |
 
 ### 5. On the calls
 

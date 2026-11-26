@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’)** | Vikas Poddar (resignation; last day 2026-08-18) | Abhishek Maheshwari (from 2026-08-19) | effective | 2026-05-22 |
+| **Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’)** | Vikas Poddar (resignation; last day 2026-08-18) | Abhishek Maheshwari (group company; from 2026-08-19) | effective | 2026-05-22 |
 
 - **Why Vikas Poddar is leaving, in the filing's words:** “The reason for my resignation is to pursue a new professional opportunity. I confirm that there are no material reasons for my resignation other than those stated herein.”
 - In the documents: “Pursuant to Regulation 30 read with Schedule III of the Listing Regulations, this is to inform you that Mr. Vikas Poddar, Chief Financial Officer and Key Managerial Personnel of the Company, has tendered his resignation on May 21, 2026, to pursue opportunities outside the Company.” — [2026-07-10 Appointment](https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_10072026155811_SECFOIndus10072026.pdf) · [2026-05-22 Resignation](https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_22052026182055_SEResignationCFO22052026.pdf) · [2026-05-22 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/INDUSTOWER_ROID_87921_KMP_Doc.zip)
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Abhishek Maheshwari** — Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’). experience: over 21 years of experience; qualifications: Mr. Maheshwari completed his B. Com Hons and is a qualified Chartered Accountant from ICAI in 2005.
+**Abhishek Maheshwari** — Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’). from: group company; experience: over 21 years; qualifications: Mr. Maheshwari completed his B. Com Hons and is a qualified Chartered Accountant from ICAI in 2005.
 
-The filing's own profile: “Mr. Maheshwari is a seasoned finance leader with over 21 years of experience across multiple facets of finance, including business partnering, strategic planning, budgeting, financial reporting, investor relations, mergers & acquisitions, taxation, compliance, internal controls, and business modelling. He has significant exposure to financial governance frameworks, including US GAAP, Indian GAAP, and IFRS. In his current role, Mr. Maheshwari leads finance for Airtel's B2B Business as CFO. Previously, he has served as CFO - Airtel Direct to Home (DTH) Business for over four years.”
+The filing's own profile: “Mr. Maheshwari is a seasoned finance leader with over 21 years of experience across multiple facets of finance, including business partnering, strategic planning, budgeting, financial reporting, investor relations, mergers & acquisitions, taxation, compliance, internal controls, and business modelling. He has significant exposure to financial governance frameworks, including US GAAP, Indian GAAP, and IFRS. In his current role, Mr. Maheshwari leads finance for Airtel's B2B Business as CFO. Previously, he has served as CFO - Airtel Direct to Home (DTH) Business for over four years. He held the position of Controller and headed the finance function for Airtel's AP & MPCG operations across Mobile, Telemedia, and DTH businesses.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

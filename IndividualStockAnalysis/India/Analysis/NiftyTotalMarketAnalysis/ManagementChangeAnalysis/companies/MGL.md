@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director of the Company** | Ashu Shinghal (removal; last day 2026-04-30) | Praveer Kumar Srivastava (group company; from 2026-04-30) | effective | 2026-04-10 |
+| **Managing Director** | Ashu Shinghal (removal; last day 2026-04-30) | Praveer Kumar Srivastava (group company; from 2026-04-30) | effective | 2026-04-10 |
 
 - **Why Ashu Shinghal is leaving, in the filing's words:** “Mr. Ashu Shinghal ceased to be the Managing Director of the Company pursuant to GAIL nomination withdrawal letter dated March 10, 2026”
-- In the documents: “Mr. Ashu Shinghal (DIN: 08268176 ) shall cease to be the Managing Director of the Company with effect from April 30 , 2026, pursuant to GAIL nomination withdrawal letter dated March 10 , 2026.” — [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180434_ChangeinDirectorateChairmanMD.pdf) · [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180449_ChangeinDirectorateChairmanMD.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/MGL24_10042026194641_changeindirectorMD10042026.pdf) · +1 more
+- In the documents: “The Board of Directors of the Company in its meeting held today, i.e. April 10, 2026, based on recommendation of the Nomination and Remuneration Committee, considered and approved the appointment of Mr. Praveer Kumar Srivastava (DIN: 10874166), as an Additional Director, designated as Managing Director of the Company for a period of 5 (five) consecutive years with effect from April 30, 2026 to April 29, 2031 (both days inclusive) or until further order received from GAIL (India) Limited ('GAIL'), whichever is earlier, subject to approval of shareholders of the Company.” — [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180434_ChangeinDirectorateChairmanMD.pdf) · [2026-05-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MGL25_07052026200326_BoardOutcome07052026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/MGL24_10042026194641_changeindirectorMD10042026.pdf) · +1 more
 
-*All 5 filing(s) read for the seats:* [2026-11-03 General Updates](https://nsearchives.nseindia.com/corporate/MGL25_03112026145154_Fair_Disclosure_Code.pdf) · [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180434_ChangeinDirectorateChairmanMD.pdf) · [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180449_ChangeinDirectorateChairmanMD.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/MGL24_10042026194641_changeindirectorMD10042026.pdf) · [2026-04-10 Cessation](https://nsearchives.nseindia.com/corporate/MGL24_10042026194708_changeindirectorMD10042026.pdf)
+*All 7 filing(s) read for the seats:* [2026-11-03 General Updates](https://nsearchives.nseindia.com/corporate/MGL25_03112026145154_Fair_Disclosure_Code.pdf) · [2026-07-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MGL25_30072026135400_OutcomeResults30092026.pdf) · [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180434_ChangeinDirectorateChairmanMD.pdf) · [2026-05-20 Appointment](https://nsearchives.nseindia.com/corporate/MGL25_20052026180449_ChangeinDirectorateChairmanMD.pdf) · [2026-05-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MGL25_07052026200326_BoardOutcome07052026.pdf) · [2026-04-10 Appointment](https://nsearchives.nseindia.com/corporate/MGL24_10042026194641_changeindirectorMD10042026.pdf) · +1 more
 
 ### 2. Financials — the last three years
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Ashu Shinghal** — Managing Director of the Company, in the seat since FY2024 per the annual reports on file.
+**Ashu Shinghal** — Managing Director, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -57,14 +57,14 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Praveer Kumar Srivastava** — Managing Director of the Company. from: group company; experience: a distinguished professional career spanning over three decades in GAIL (India) Limited; qualifications: a Chemical Engineer from IIT Kharagpur and a certified Energy Auditor by the National Productivity Council.
+**Praveer Kumar Srivastava** — Managing Director. from: group company; experience: spanning over three decades in GAIL (India) Limited; qualifications: a Chemical Engineer from IIT Kharagpur and a certified Energy Auditor by the National Productivity Council.
 
-The filing's own profile: “Mr. Praveer Kumar Srivastava, a Chemical Engineer from IIT Kharagpur and a certified Energy Auditor by the National Productivity Council, has a distinguished professional career spanning over three decades in GAIL (India) Limited ('GAIL'). Throughout his tenure, he has been deeply involved in operations and maintenance of Gas Processing Units and pipeline networks, as well as project execution across multiple strategic GAIL installations.”
+The filing's own profile: “Mr. Praveer Kumar Srivastava, a Chemical Engineer from IIT Kharagpur and a certified Energy Auditor by the National Productivity Council, has a distinguished professional career spanning over three decades in GAIL (India) Limited ('GAIL'). Throughout his tenure, he has been deeply involved in operations and maintenance of Gas Processing Units and pipeline networks, as well as project execution across multiple strategic GAIL installations. He has held several key leadership and corporate-level roles in Planning, Strategy & Advocacy, Business Development, Gas Management Centre and the C&MD Secretariat at GAIL Corporate Office. Currently, he serves as Executive Director, Western Region, leading GAIL's Western Region team and overseeing Operations & Maintenance and Marketing functions across the strategically significant Western Regional Pipeline Network.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director, Western Region | GAIL (India) Limited (GAIL) | — | 2026 |
-| directorship | Mahanagar LNG Private Limited | — | — |
+| Executive Director, Western Region | GAIL (India) Limited (GAIL) | — | — |
+| Director | Mahanagar LNG Private Limited | — | — |
 
 ### 5. On the calls
 

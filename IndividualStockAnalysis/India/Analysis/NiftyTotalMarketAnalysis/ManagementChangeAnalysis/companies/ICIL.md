@@ -2,19 +2,32 @@
 
 ## ICIL — Indo Count Industries Ltd.
 
-**CEO / MD change · CFO change**
+**Large stake change, same controller · CEO / MD change · CFO change**
 
 ### 1. What is changing
 
+**Ownership — Large stake change, same controller.** A non-promoter entity, Lhochhar Trust (through its trustee), disclosed acquiring 31.31% of Indo Count's capital on 2026-10-28. Promoter-and-group holding stayed flat at 58.74% through every quarter in the window, with promoters disclosing zero purchases or sales, so the existing promoters still control the company.
+
+| | Who | Kind | Stake before | Stake after |
+|---|---|---|---|---|
+| Outgoing | — | — | — | — |
+| Incoming | Lhochhar Trust (through its trustee) | other | — | 31.31% |
+
+- mode: other · control does not change
+- Dates: other 2026-10-28
+
+**Promoter-and-group holding, quarter by quarter (NSE shareholding register):** 58.74% (2025-09-30) → 58.74% (2025-12-31) → 58.74% (2026-03-31) → 58.74% (2026-06-30) → 58.74% (2026-09-30)
+**Reg 29 disclosures in the window:** promoters sold 0.0% and bought 0.0%; outside acquirers at 10% or more: Lhochhar Trust (through its trustee) 31.31% (2026-10-28).
+
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel of the Company** | Manish Bhatia (resignation; last day 2026-11-20) | — not named | seat vacant — no successor named | 2026-11-20 |
-| **Chief Executive Officer (CEO) and Key Managerial Personnel (KMP) of the Company** | Kailash R. Lalpuria (removal; last day 2026-02-13) | — not named | seat vacant — no successor named | 2026-02-13 |
+| **Chief Financial Officer** | Manish Bhatia (resignation; last day 2026-11-20) | — not named | seat vacant — no successor named | 2026-11-20 |
+| **Chief Executive Officer (CEO) and Key Managerial Personnel (KMP)** | Kailash R. Lalpuria (removal; last day 2026-02-13) | — not named | seat vacant — no successor named | 2026-02-13 |
 
-- **Why Manish Bhatia is leaving, in the filing's words:** “for pursuing better career prospects”
-- In the documents: “Pursuant to Regulation 30 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI LODR Regulations”), we hereby inform that Mr. Manish Bhatia, Chief Financial Officer and Key Managerial Personnel of the Company, has decided to step down for pursuing better career prospects .” — [2026-11-20 Resignation](https://nsearchives.nseindia.in/corporate/ICIL_20112026160841_Stock_Exchange_Intimation-_Resignation_of_CFO.pdf) · [2026-11-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/ICIL_ROID_105085_KMP_Doc.zip)
-- **Why Kailash R. Lalpuria is leaving, in the filing's words:** “This decision has been taken on account of his prolonged absence from office and his inability to discharge his duties due to health -related reasons.”
-- In the documents: “the Board of Directors of the Company, at its meeting held today, i.e. 13th February, 2026, has approved the cessation of office of Mr. Kailash R. Lalpuria from the position of Chief Executive Officer (CEO) and Key Managerial Personnel (KMP) of the Company w.e.f. 13th February, 2026.” — [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/ICIL_13022026152828_Stock_Exchange_Intimation-_Cessation_as_CEO__KMP_and_Designation_as_KMP.pdf)
+- **Why Manish Bhatia is leaving, in the filing's words:** “has decided to step down for pursuing better career prospects”
+- In the documents: “Pursuant to Regulation 30 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI LODR Regulations"), we hereby inform that Mr. Manish Bhatia, Chief Financial Officer and Key Managerial Personnel of the Company, has decided to step down for pursuing better career prospects.” — [2026-11-20 Resignation](https://nsearchives.nseindia.in/corporate/ICIL_20112026160841_Stock_Exchange_Intimation-_Resignation_of_CFO.pdf) · [2026-11-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/ICIL_ROID_105085_KMP_Doc.zip)
+- **Why Kailash R. Lalpuria is leaving, in the filing's words:** “Cessation as CEO & KMP of the Company pursuant to the Board approval due to prolonged absence and health-related reasons and his incapacity to act as CEO & KMP.”
+- In the documents: “we wish to inform that the Board of Directors of the Company, at its meeting held today, i.e. 13th February, 2026, has approved the cessation of office of Mr. Kailash R. Lalpuria from the position of Chief Executive Officer (CEO) and Key Managerial Personnel (KMP) of the Company w.e.f. 13th February, 2026.” — [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/ICIL_13022026152828_Stock_Exchange_Intimation-_Cessation_as_CEO__KMP_and_Designation_as_KMP.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-11-20 Resignation](https://nsearchives.nseindia.in/corporate/ICIL_20112026160841_Stock_Exchange_Intimation-_Resignation_of_CFO.pdf) · [2026-11-20 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/ICIL_ROID_105085_KMP_Doc.zip) · [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/ICIL_13022026152828_Stock_Exchange_Intimation-_Cessation_as_CEO__KMP_and_Designation_as_KMP.pdf)
 
@@ -44,7 +57,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Manish Bhatia** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2025 per the annual reports on file.
+**Manish Bhatia** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -61,7 +74,7 @@ The company's results while they held the seat (the year before they took it, to
 - Also on file: CFO at PRSMJOHNSN (FY2024–FY2024, annual reports).
 - Also on file: CFO at TRIDENT (FY2024–FY2024, annual reports).
 
-**Kailash R. Lalpuria** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP) of the Company, date of taking the seat not on file.
+**Kailash R. Lalpuria** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -77,7 +90,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-No successor or new owner is named yet.
+**Lhochhar Trust (through its trustee)** (other) — the incoming owner. Holding after: 31.31%.
+
+What the documents say about them: “not stated — the exchange record identifies it only as "Lhochhar Trust (through its trustee)", a non-promoter, whose acquisition is categorised as "Acquisition via Others" and which holds 31.31% after the transaction.”
 
 ### 5. On the calls
 

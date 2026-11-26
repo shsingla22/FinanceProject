@@ -59,12 +59,12 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Ashiss Kumar Dash** — Chief Executive Officer and Managing Director. from: internal; experience: over 3 decades of experience; qualifications: Dash is an alumnus of the Indian Institute of Technology, Kharagpur, India. He has also completed the Global Leadership Program at Stanford University and the Senior Executive Program at London Business School..
 
-The filing's own profile: “As the Global Head for a business portfolio that comprises over twelve industry verticals, Ashiss Kumar Dash (“Dash”) is helping navigate the digital future for leading Fortune 500 and Global 2000 enterprises. A seasoned digital transformation leader with over 3 decades of experience, Dash is focused on driving transformation strategies and shaping the future of industries through the adoption of emerging technologies. Drawing from over 30 years of diverse roles and responsibilities, Dash amalgamates his varied skills into straddling delivery, operational, and financial excellence for his industry group.”
+The filing's own profile: “Having spent over three decades with Infosys, Dash has held senior leadership roles spanning customer-facing businesses, delivery, and global operations across multiple geographies. He also leads the sustainability business across the company. He has consistently delivered strong business performance, helped clients navigate complex business and technology transformations, and built high-performing global teams. The Board believes this combination of strategic and commercial acumen together with his technology delivery experience, uniquely positions him to lead Infosys through its next phase of AI-led transformation, while building on the Company's enduring strengths.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | EVP & Global Head - Services, Utilities, Resources, Energy & Enterprise Sustainability | Infosys (INFY) | — | — |
-| Chief Executive Officer Designate (“CEO Designate”) | Infosys (INFY) | 2026 | 2027 |
+| Chief Executive Officer Designate (‘CEO Designate’) | Infosys (INFY) | 2026 | 2027 |
 | member of the Board of Directors | Infosys Public Services | — | — |
 | member of the Board of Directors | MRE Consulting LLC | — | — |
 | Trustee | Infosys Foundation USA | — | — |

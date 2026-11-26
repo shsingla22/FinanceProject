@@ -32,19 +32,19 @@ No statements on file for this company.
 
 ### 4. Track record — the incoming management
 
-**Rakesh Tiwary** — Group Chief Financial Officer. from: external; experience: around 25 years; qualifications: qualified Chartered Accountant, Cost Accountant, Company Secretary and MBA.
+**Rakesh Tiwary** — Group Chief Financial Officer. from: external; experience: around 25 years; qualifications: a qualified Chartered Accountant, Cost Accountant, Company Secretary and MBA.
 
 The filing's own profile: “Mr. Rakesh Tiwary is a qualified Chartered Accountant, Cost Accountant, Company Secretary and MBA with around 25 years of experience. Prior to Adani Group, Mr. Tiwary worked with various reputed companies like Indian Oil, Reliance Industries Limited and JSW Steel Limited. He joined the Adani Group in February 2016. From 2016 to 2022, he served as the CFO of Mundra Solar Photovoltaic Limited (Adani Solar) and Adani Electricity Mumbai Limited. In April 2022, he transitioned to the role of Head of Financial Management and Control for the Airports Business and later became CFO of the Airports Business. In April 2025, he was appointed as CFO at Adani Cement, overseeing finance for leading cement brands AMBUJA and ACC.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| CFO | Adani Cement | 2025 | — |
-| Head of Financial Management and Control, later CFO of the Airports Business | Airports Business (Adani Airports) | 2022 | 2025 |
+| CFO | Adani Cement (AMBUJA and ACC) | 2025 | — |
+| Head of Financial Management and Control, later CFO of the Airports Business | Adani Airports Business | 2022 | 2025 |
 | CFO | Mundra Solar Photovoltaic Limited (Adani Solar) | 2016 | 2022 |
 | CFO | Adani Electricity Mumbai Limited | 2016 | 2022 |
 | — | JSW Steel Limited (JSWSTEEL) | — | — |
 | — | Reliance Industries Limited (RELIANCE) | — | — |
-| — | Indian Oil (IOC) | — | — |
+| — | Indian Oil Corporation (IOC) | — | — |
 
 ### 5. On the calls
 

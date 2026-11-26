@@ -8,13 +8,13 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel** | Rajeev Srivastava | Prasad Barre (internal; from 2026-02-13) | effective | 2026-02-13 |
+| **Chief Financial Officer** | Rajeev Srivastava | Prasad Barre (internal; from 2026-02-13) | effective | 2026-02-13 |
 | **Chief Financial Officer** | Prasad Barre (resignation; last day 2026-04-30) | Ramana Babu C V (internal; from 2026-05-28) | effective | 2026-05-02 |
 
 - **Why Rajeev Srivastava is leaving, in the filing's words:** “not stated”
 - In the documents: “This is to inform that the Board of Directors of ITI Limited in its Meeting held on 13th February 2026, appointed Shri Prasad Barre (General Manager- Corporate Finance) as the Chief Financial Officer and Key Managerial Personnel of the Company in place of Shri Rajeev Srivastava.” — [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-02-13 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_13022026155254_SE_Intimation_CFO_Appointment_Signed.pdf)
 - **Why Prasad Barre is leaving, in the filing's words:** “Shri Prasad Barre., General Manager -Corporate Finance & Chief Financial Officer, has tendered his resignation on personal grounds.”
-- In the documents: “Accordingly, He was relieved from the services of the Company with effect from the close of business hours on April 30, 2026, and consequently will cease to be a Key Managerial Personnel of the Company.” — [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +1 more
+- In the documents: “This is to inform that the Board of Directors of ITI Limited in its Meeting held on 28th May 2026, appointed Shri Ramana Babu C V (Director Marketing with Additional Charge Director Finance) as the Chief Financial Officer and Key Managerial Personnel of the Company, w.e.f 28th May, 2026.” — [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +1 more
 
 *All 10 filing(s) read for the seats:* [2026-11-04 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ITI_04112026183149_SE_AGM_Proceedings_Signed.pdf) · [2026-10-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_15102026120847_Signed_DF_Ext_.pdf) · [2026-05-29 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_29052026104724_Appointment_of_CFO_Signed_.pdf) · [2026-05-28 Change in Management](https://nsearchives.nseindia.com/corporate/ITI_28052026215658_DrHr_addtl_charge.pdf) · [2026-05-02 Resignation](https://nsearchives.nseindia.com/corporate/ITI_02052026171407_SE_intimation_signed.pdf) · [2026-03-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ITI_20032026183154_SE_Intimation_Additional_Charge_Signed.pdf) · +4 more
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Rajeev Srivastava** — Chief Financial Officer and Key Managerial Personnel, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Rajeev Srivastava** — Chief Financial Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -74,27 +74,28 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Prasad Barre** — Chief Financial Officer and Key Managerial Personnel. from: internal; experience: over three decades of professional experience; qualifications: a Bachelor of Commerce , an MBA (Finance) , Postgraduate degrees in Commerce and Economics , a Postgraduate Diploma in Computer Application and a Doctorate in Management Studies.
+**Prasad Barre** — Chief Financial Officer. from: internal; experience: over three decades of professional experience; qualifications: a Bachelor of Commerce, an MBA (Finance), Postgraduate degrees in Commerce and Economics, a Postgraduate Diploma in Computer Application and a Doctorate in Management Studies. He has also completed professional certification programmes in GST, IFRS and SAP.
 
 The filing's own profile: “Dr Prasad Barre has over three decades of professional experience across Financial Institutions and Public Sector Undertakings. Prior to Joining ITI Limited, he served in various capacities with National Housing Bank (NHB), IFCI Limited, Hindustan Aeronautics Limited (HAL), and Sutlej Jal Vidyut Nigam Limited (SJVNL). His areas of expertise include Corporate Credit, Stressed Asset Management, Project Appraisal, Accounting, Internal Audit, Payroll and Cash Management, and Investment Management. Academically Dr Prasad Barre holds a Bachelor of Commerce, an MBA (Finance), Postgraduate degrees in Commerce and Economics, a Postgraduate Diploma in Computer Application and a Doctorate in Management Studies.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | General Manager- Corporate Finance | ITI Limited | — | — |
-| served in various capacities | National Housing Bank (NHB) | — | — |
-| served in various capacities | IFCI Limited (IFCI) | — | — |
-| served in various capacities | Hindustan Aeronautics Limited (HAL) | — | — |
-| served in various capacities | Sutlej Jal Vidyut Nigam Limited (SJVNL) | — | — |
+| various capacities | National Housing Bank (NHB) | — | — |
+| various capacities | IFCI Limited (IFCI) | — | — |
+| various capacities | Hindustan Aeronautics Limited (HAL) | — | — |
+| various capacities | Sutlej Jal Vidyut Nigam Limited (SJVNL) | — | — |
 
-**Ramana Babu C V** — Chief Financial Officer. from: internal; experience: more than 30 years of experience; qualifications: He is a graduate in Electronics & Communications from Andhra University and has a Diploma in Public policy and Sustainable Development from The Energy and Resource Institute (TERI), New Delhi..
+**Ramana Babu C V** — Chief Financial Officer. from: internal; experience: more than 30 years of experience; qualifications: a graduate in Electronics & Communications from Andhra University and has a Diploma in Public policy and Sustainable Development from The Energy and Resource Institute (TERI), New Delhi.
 
 The filing's own profile: “Shri C V Ramana Babu has taken over charge as Director Marketing of ITI Limited with effect from 25th January 2024 and was later entrusted the additional charge for the post of Director Finance with effect from 15th October 2025. Shri C V Ramana Babu belongs to Indian Telecom Services (ITS) - 90 Batch. He is a graduate in Electronics & Communications from Andhra University and has a Diploma in Public policy and Sustainable Development from The Energy and Resource Institute (TERI), New Delhi. A highly motivated and result oriented person who has more than 30 years of experience in Project planning, execution, installation and commissioning and operations of various telecom networks.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Director Marketing (with Additional Charge Director Finance) | ITI Limited | 2024 | — |
+| Director Marketing | ITI Limited | 2024 | — |
+| Director Finance (additional charge) | ITI Limited | 2025 | — |
 | Chief General Manager | Bharat Broadband Networks Limited (BBNL) | — | — |
-| spectrum issues / design of 4G network | BSNL | — | — |
+| responsible for dealing with spectrum issues; took lead in design of 4G network | BSNL | — | — |
 | worked in Software centre; handled procurement activities | Department of Telecom (DOT) | — | — |
 
 ### 5. On the calls

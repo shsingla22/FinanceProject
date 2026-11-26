@@ -11,8 +11,8 @@
 | **Chief Executive Officer and Key Managerial Personnel of the Company** | Guruprasad Srinivasan (moved to another role in the company or group; last day 2025-12-31) | Lohit Bhatia (internal; from 2026-01-01) | effective | 2025-12-05 |
 | **Chief Financial Officer and Key Managerial Personnel of the Company** | — (new seat) | Neeraj Jain (external; from 2025-12-05) | effective | 2025-12-05 |
 
-- **Why Guruprasad Srinivasan is leaving, in the filing's words:** “Change in the designation of Mr. Guruprasad Srinivasan (DIN: 07596207) from ‘Executive Director & Group Chief Executive Officer’ to the ‘Executive Director’ of the Company w.e.f. January 01, 2026.” Stays on as: Executive Director of the Company and Key Managerial Personnel.
-- In the documents: “Elevation in the role of Mr. Lohit Bhatia, President -India and Global Operations, to the role of the Chief Executive Officer and Key Managerial Personnel of the Company w.e.f. January 01, 2026.” — [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · +1 more
+- **Why Guruprasad Srinivasan is leaving, in the filing's words:** “Change in the designation of Mr. Guruprasad Srinivasan (DIN: 07596207) from 'Executive Director & Group Chief Executive Officer' to the 'Executive Director' of the Company w.e.f. January 01, 2026.” Stays on as: Executive Director of the Company and Key Managerial Personnel (later resigned as Executive Director w.e.f. close of business hours on May 31, 2026, to provide strategic consultancy and advisory support).
+- In the documents: “Elevation in the role of Mr. Lohit Bhatia , President -India and Global Operations, to the role of the Chief Executive Officer and Key Managerial Personnel of the Company w.e. f. January 01, 202 6.” — [2026-03-16 Change in Director(s)](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf) · [2026-03-16 General Updates](https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf) · [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf) · +1 more
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Appointment of Mr. Neeraj Jain , as the Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. December 05, 2025.” — [2025-12-05 Change in Management](https://nsearchives.nseindia.com/corporate/Quesscorp_05122025174420_SE_Intimation_Change_in_KMP_final.pdf)
 
@@ -60,16 +60,18 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Lohit Bhatia** — Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: over 28 years.
+**Lohit Bhatia** — Chief Executive Officer and Key Managerial Personnel of the Company. from: internal; experience: over 28 years of multi-industry leadership.
 
 The filing's own profile: “Mr. Lohit Bhatia brings over 28 years of multi-industry leadership across Textiles, Auto Components, and Services, with deep expertise in sales, product and service strategy, business development, and large-scale manpower outsourcing, particularly managed services across sectors. Lohit joined Quess Corp in 2011 as General Manager – Sales (Staffing) and today serves as the President – India & Global Operations, leading one of the region's largest workforce and business services platforms. Over the past 15 years, he has been instrumental in scaling the Staffing business from 13,000 to over 470,000 associates, making Quess India's No. 1 staffing enterprise and the world's No. 4”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | General Manager – Sales (Staffing) | Quess Corp (QUESS) | 2011 | — |
-| President – India & Global Operations | Quess Corp (QUESS) | — | 2025 |
+| President – India and Global Operations | Quess Corp (QUESS) | — | 2025 |
+| President | Indian Staffing Federation (ISF) | — | — |
+| Board Member, Southern APAC region | World Employment Confederation (WEC) | — | — |
 
-**Neeraj Jain** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: over 2 (two) decades; qualifications: qualified Chartered Accountant and Company Secretary.
+**Neeraj Jain** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: over 2 (two) decades of diverse & rich experience; qualifications: He is a qualified Chartered Accountant and Company Secretary..
 
 The filing's own profile: “Mr. Neeraj Jain is a Business leader with a growth mindset and a strong bias for execution. He is a qualified Chartered Accountant and Company Secretary. He brings over 2 (two) decades of diverse & rich experience in driving Scale and Transformation in Global and complex markets, ranging from large MNCs to startup companies in Global Tech, Services, Fintech, Mfg., and Pharma organizations. Neeraj was previously the global CFO at Startek, a NYSE-listed company, having operations across 12 countries. He was part of the Executive team driving the take-private transaction, Business Restructuring, and Transformation at Startek.”
 

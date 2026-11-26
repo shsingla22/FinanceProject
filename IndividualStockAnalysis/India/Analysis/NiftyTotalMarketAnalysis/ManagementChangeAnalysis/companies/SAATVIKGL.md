@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Abani Kant Jha (resignation; last day 2026-04-07) | Rishabh Mehtta (interim; from 2026-04-23) | effective | 2026-04-08 |
+| **Chief Financial Officer** | Abani Kant Jha (resignation; last day 2026-04-07) | Rishabh Mehtta (interim; external; from 2026-04-23) | effective | 2026-04-08 |
 
 - **Why Abani Kant Jha is leaving, in the filing's words:** “to explore the professional opportunities outside the Saatvik Group with effect from April 07, 2026”
-- In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we wish to inform you that Mr. Abani Kant Jha, has tendered his resignation from the position of Chief Financial Officer (Key Managerial Personnel) of the Company with effect from April 07, 2026.” — [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026172450_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026173053_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-09 Cessation](https://nsearchives.nseindia.com/corporate/SAATVIK_09042026155633_Resignation_of_CFO_signed.pdf) · +1 more
+- In the documents: “We wish to inform you that Mr. Abani Kant Jha, has tendered his resignation from the position of Chief Financial Officer (Key Managerial Personnel) of the Company with effect from April 07, 2026.” — [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026172450_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026173053_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-09 Cessation](https://nsearchives.nseindia.com/corporate/SAATVIK_09042026155633_Resignation_of_CFO_signed.pdf) · +1 more
 
 *All 9 filing(s) read for the seats:* [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SAATVIK_24092026185111_Proceedings_signed.pdf) · [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SAATVIK_24092026190804_Voting_Result_signed.pdf) · [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SAATVIK_24092026201043_Voting_Result_signed.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026172450_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-23 Appointment](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026173053_Intimation_of_CFOCSSMPsigned.pdf) · [2026-04-23 Cessation](https://nsearchives.nseindia.com/corporate/SAATVIK_23042026173554_Intimation_of_CFOCSSMPsigned.pdf) · +3 more
 
@@ -57,7 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rishabh Mehtta** — Chief Financial Officer (interim). experience: over ten years of professional experience; qualifications: qualified Chartered Accountant ... and is also a CFA Charter holder (Mem No.: FCA-171170).
+**Rishabh Mehtta** — Chief Financial Officer (interim). from: external; experience: over ten years of professional experience; qualifications: qualified Chartered Accountant ... and is also a CFA Charter holder (Mem No.: FCA-171170).
 
 The filing's own profile: “Mr. Rishabh Mehtta is a qualified Chartered Accountant with over ten years of professional experience and is also a CFA Charter holder. He has worked with the renowned Chartered Accountants firm, C. B. Chhajed & Co., where he independently handled statutory audits and tax audits of various listed entities, private companies, banks, and insurance companies. He possesses strong expertise in income tax matters, corporate affairs, and has rendered services as a Virtual Chief Financial Officer. Mr. Mehtta has also been associated with the IPO listing team of Tara Jewels Ltd., contributing to the successful execution of the public offering.”
 

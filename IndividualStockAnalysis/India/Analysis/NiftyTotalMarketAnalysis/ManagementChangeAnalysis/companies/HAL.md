@@ -57,9 +57,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Kota Ravi** — Chairman & Managing Director. from: internal; experience: over 30 years of experience across various sectors such as A&D, manufacturing and electronics; qualifications: A Mechanical Engineering graduate from Malnad College of Engineering, Karnataka, Shri Kota Ravi is an alumnus of liM Ahmedabad and lAS, Toulouse, France..
+**Kota Ravi** — Chairman & Managing Director. from: internal; experience: over 30 years of experience; qualifications: A Mechanical Engineering graduate from Malnad College of Engineering, Karnataka, Shri Kota Ravi is an alumnus of IIM Ahmedabad and IAS, Toulouse, France..
 
-The filing's own profile: “Shri Kota Ravi is the Chairman and Managing Director of Hindustan Aeronautics Limited (HAL). In this role, he drives the company's global ambitions while transforming it into a competitive aerospace and defence enterprise, driven by innovation, Artificial Intelligence (AI), operational excellence and people. Previously, as Director (Operations) at HAL, he led strategic planning and played a key role in securing HAL's Maharatna status. A Mechanical Engineering graduate from Malnad College of Engineering, Karnataka, Shri Kota Ravi is an alumnus of liM Ahmedabad and lAS, Toulouse, France. He is also a Nominee Director on the board of Multi-Role Transport Aircraft Ltd.”
+The filing's own profile: “Shri Kota Ravi is the Chairman and Managing Director of Hindustan Aeronautics Limited (HAL). In this role, he drives the company's global ambitions while transforming it into a competitive aerospace and defence enterprise, driven by innovation, Artificial Intelligence (AI), operational excellence and people. Previously, as Director (Operations) at HAL, he led strategic planning and played a key role in securing HAL's Maharatna status. A Mechanical Engineering graduate from Malnad College of Engineering, Karnataka, Shri Kota Ravi is an alumnus of IIM Ahmedabad and IAS, Toulouse, France. He is also a Nominee Director on the board of Multi-Role Transport Aircraft Ltd.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

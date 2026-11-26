@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer** | — (new seat) | Deepak Kumar Sinha (external; from 2026-04-03) | effective | 2026-04-02 |
+| **Chief Executive Officer of the Company** | — (new seat) | Deepak Kumar Sinha (external; from 2026-04-03) | effective | 2026-04-02 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we wish to inform that, the Board of Directors of the Company at their meeting, held today, i.e. April 02, 2026, basis the recommendation of Nomination and Remuneration Committee has appointed Mr. Deepak Kumar Sinha, as the Chief Executive Officer of the Company with effect from April 03, 2026.” — [2026-04-02 Appointment](https://nsearchives.nseindia.com/corporate/TDPOWERSYS_02042026130604_FIANL-SG.pdf)
@@ -45,7 +45,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Deepak Kumar Sinha** — Chief Executive Officer. from: external; experience: over 30 years of rich industrial experience in the power sector; qualifications: holds a Bachelor's degree in Electrical Engineering from Bhagalpur Engineering College and a Post Graduate Diploma in Business Administration from the Indian Institute of Management, Kozhikode.
+**Deepak Kumar Sinha** — Chief Executive Officer of the Company. from: external; experience: over 30 years of rich industrial experience in the power sector; qualifications: holds a Bachelor's degree in Electrical Engineering from Bhagalpur Engineering College and a Post Graduate Diploma in Business Administration from the Indian Institute of Management, Kozhikode.
 
 The filing's own profile: “Mr. Deepak Kumar Sinha, holds a Bachelor's degree in Electrical Engineering from Bhagalpur Engineering College and a Post Graduate Diploma in Business Administration from the Indian Institute of Management, Kozhikode. He brings over 30 years of rich industrial experience in the power sector. Mr. Sinha previously served as Chief Executive and Whole-time Director of L&T-MHI Power Turbine Generators Private Limited (LMTG), focused on the design and manufacture of advanced turbines and generators for large-scale thermal power plants across India.”
 

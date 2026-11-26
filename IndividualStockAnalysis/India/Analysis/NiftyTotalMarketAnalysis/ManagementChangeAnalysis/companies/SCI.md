@@ -24,13 +24,13 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Finance)** | Vikram Dingley (end of term; last day 2025-12-31) | Som Raj (interim; internal; from 2026-01-01) | effective | 2025-12-29 |
-| **Director (Finance)** | Som Raj (interim holder replaced; last day 2026-02-23) | Nitin Khamesra (external; from 2026-02-23) | effective | 2026-02-02 |
+| **Director (Finance) – Additional Charge** | Vikram Dingley (end of term; last day 2025-12-31) | Som Raj (interim; internal; from 2026-01-01) | effective | 2025-12-29 |
+| **Director (Finance)** | Som Raj (interim holder replaced; last day 2026-02-23) | Nitin Khamesra (government appointee; from 2026-02-23) | effective | 2026-02-02 |
 
-- **Why Vikram Dingley is leaving, in the filing's words:** “the tenure of the additional charge of Director (Finance) held by Shri Vikram Dingley, Director (Technical & Offshore Services), will be completed on 31.12.2025.” Stays on as: Director (Technical & Offshore Services).
-- In the documents: “The Ministry of Ports, Shipping and Water ways vide letter No: SS-11012/4/ 2019 -SU dated 29.12.2025 has conveyed the approval of the Hon'ble Minister -in-Charge of Ports, Shipping and Waterw ays to the entrustment of additional charge of the post of Director ( Finance ), SCI to Capt. Som Raj , Director ( P&A), SCl, for the period of 01.01.2026 to 31.03 .2026 or till the post is filled on regular basis or until further orders, whichever is earlier, and subject to the approval of ACC.” — [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_24092026111945_ScrutinizerReportCountersignedsd.pdf) · [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · [2026-02-23 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SCI_23022026181144_Signed.pdf) · +1 more
-- **Why Som Raj is leaving, in the filing's words:** “upon appointment of regular incumbent Shri Nitin Khamesra  as Director (Finance), Capt. Som Raj, Director (P&A), S Cl, has ceased to hold the Additional Charge of Director (Finance) w.e.f. 23.02.2026  at 1630  hours .” Stays on as: Director (Personnel & Administration).
-- In the documents: “In accordance with the Order No.01/08/2025 -EO(PE) dated 31.01.2026 of The Secretariat of the Appointments Committee of the Cabinet , Shri Nitin Khamesra (DIN: 09595247) has assumed the charge of post of Director (Finance) on the Board of Shipping Corporation of India on 23.02.2026 (Time - 1630 hours) and hence his date of appointment as a Director on Board of SCI is effective from 23.02.2026 at 1630 hours .” — [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · [2026-02-23 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SCI_23022026181144_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/SCI_02022026184135_se_intimation.pdf) · +1 more
+- **Why Vikram Dingley is leaving, in the filing's words:** “the tenure of the additional charge of Director (Finance) held by Shri Vikram Dingley, Director (Technical & Offshore Services), will be completed on 31.12.2025” Stays on as: Director (Technical & Offshore Services).
+- In the documents: “The Ministry of Ports, Shipping and Water ways vide letter No: SS-11012/4/2019-SU dated 29.12.2025 has conveyed the approval of the Hon'ble Minister-in-Charge of Ports, Shipping and Waterways to the entrustment of additional charge of the post of Director (Finance), SCI to Capt. Som Raj, Director (P&A), SCl, for the period of 01.01.2026 to 31.03.2026 or till the post is filled on regular basis or until further orders, whichever is earlier, and subject to the approval of ACC.” — [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_24092026111945_ScrutinizerReportCountersignedsd.pdf) · [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · [2026-02-23 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SCI_23022026181144_Signed.pdf) · +1 more
+- **Why Som Raj is leaving, in the filing's words:** “upon appointment of regular incumbent Shri Nitin Khamesra as Director (Finance), Capt. Som Raj, Director (P&A), SCl, has ceased to hold the Additional Charge of Director (Finance) w.e.f. 23.02.2026 at 1630 hours” Stays on as: Director (Personnel & Administration).
+- In the documents: “Shri Nitin Khamesra (DIN: 09595247) has assumed the charge of post of Director (Finance) on the Board of Shipping Corporation of India on 23.02.2026 (Time - 1630 hours) and hence his date of appointment as a Director on Board of SCI is effective from 23.02.2026 at 1630 hours.” — [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · [2026-02-23 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SCI_23022026181144_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/SCI_02022026184135_se_intimation.pdf) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/SCI1_12112026175329_ChangeinSMsd.pdf) · [2026-09-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_29092026155831_Finalsd.pdf) · [2026-09-24 Shareholders meeting](https://nsearchives.nseindia.com/corporate/SCI1_24092026111945_ScrutinizerReportCountersignedsd.pdf) · [2026-02-23 Appointment](https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf) · [2026-02-23 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SCI_23022026181144_Signed.pdf) · [2026-02-02 General Updates](https://nsearchives.nseindia.com/corporate/SCI_02022026184135_se_intimation.pdf) · +1 more
 
@@ -60,7 +60,7 @@
 
 **Government of India (President of India / Ministry of Ports, Shipping and Waterways)** (government) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 63.75% → 63.75%.
 
-**Vikram Dingley** — Director (Finance), in the seat since FY2026 per the filing.
+**Vikram Dingley** — Director (Finance) – Additional Charge, in the seat since FY2026 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
@@ -70,7 +70,7 @@
 
 ### 4. Track record — the incoming management
 
-**Som Raj** — Director (Finance) (interim). from: internal; experience: over 35 years of experience in ship operations, human resource management, and maritime training.
+**Som Raj** — Director (Finance) – Additional Charge (interim). from: internal; experience: over 35 years.
 
 The filing's own profile: “Capt. Som Raj, DIN: 11046394, has taken over as Director (Personnel and Administration) of The Shipping Corporation of India Ltd. (SCI) with effect from 15.07.2025. He also holds the charge of Director Operations of Shipping Corporation of India Land and Assets Ltd. (SCILAL), and Functional Director, Inland & Coastal Shipping Ltd (ICSL). Capt. Som Raj is a seasoned maritime professional with over 35 years of experience in ship operations, human resource management, and maritime training. He began his journey with The Shipping Corporation of India Ltd. in 1990 as a Trainee Nautical Officer and rose through the ranks to become a Ship Master in 2005.”
 
@@ -78,20 +78,24 @@ The filing's own profile: “Capt. Som Raj, DIN: 11046394, has taken over as Dir
 |---|---|---|---|
 | Trainee Nautical Officer | The Shipping Corporation of India Ltd. (SCI) | 1990 | — |
 | Ship Master | The Shipping Corporation of India Ltd. (SCI) | 2005 | — |
-| Marine Superintendent, Quality and Safety; Principal of SCI's Maritime Training Institute; General Manager (Fleet Personnel) | The Shipping Corporation of India Ltd. (SCI) | 2007 | — |
+| Marine Superintendent, Quality and Safety | The Shipping Corporation of India Ltd. (SCI) | 2007 | — |
+| Principal | SCI's Maritime Training Institute | — | — |
+| General Manager (Fleet Personnel) | The Shipping Corporation of India Ltd. (SCI) | — | — |
 | General Manager In-charge (Personnel & Administration) | The Shipping Corporation of India Ltd. (SCI) | — | — |
 | Director (Personnel and Administration) | The Shipping Corporation of India Ltd. (SCI) | 2025 | — |
+| Director Operations | Shipping Corporation of India Land and Assets Ltd. (SCILAL) | — | — |
+| Functional Director | Inland & Coastal Shipping Ltd (ICSL) | — | — |
 
-**Nitin Khamesra** — Director (Finance). from: external; experience: over 28 years of extensive experience in financial management, project evaluation, and maritime logistics; qualifications: a Chartered Accountant and Cost Accountant, and a Graduate in Computer Science.
+**Nitin Khamesra** — Director (Finance). from: government appointee; experience: over 28 years; qualifications: Chartered Accountant and Cost Accountant, and a Graduate in Computer Science.
 
-The filing's own profile: “Shri Nitin Khamesra is a Chartered Accountant and Cost Accountant, and a Graduate in Computer Science, with over 28 years of extensive experience in financial management, project evaluation, and maritime logistics. His career spans the energy and shipping sectors, where he has managed complex financial portfolios and large -scale operations. Prior to his appointment in SCI, Shri Khamesra has served as Chief General Manager at Indian Oil Corporation Limited (IOCL), holding key leadership roles across multiple Strategic Business Units, including Shipping, Refineries, International trade & Treasury Operations, and Manag ement Accounts.”
+The filing's own profile: “Shri Nitin Khamesra is a Chartered Accountant and Cost Accountant, and a Graduate in Computer Science, with over 28 years of extensive experience in financial management, project evaluation, and maritime logistics. His career spans the energy and shipping sectors, where he has managed complex financial portfolios and large-scale operations. Prior to his appointment in SCI, Shri Khamesra has served as Chief General Manager at Indian Oil Corporation Limited (IOCL), holding key leadership roles across multiple Strategic Business Units, including Shipping, Refineries, International trade & Treasury Operations, and Management Accounts.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief General Manager | Indian Oil Corporation Limited (IOCL) | — | 2026 |
 | Chartering & Finance Head (Shipping) | Indian Oil Corporation Limited (IOCL) | — | — |
-| Finance Head of Gujarat Refinery | Indian Oil Corporation Limited (IOCL) - Gujarat Refinery | — | — |
-| Nominee Director on the Board and Chairman of its Audit Committee | Vadodara Enviro Channel Limited (VECL) | — | — |
+| Finance Head | Indian Oil Corporation Limited (IOCL) – Gujarat Refinery | — | — |
+| Nominee Director and Chairman of its Audit Committee | Vadodara Enviro Channel Limited (VECL) | — | — |
 
 ### 5. On the calls
 

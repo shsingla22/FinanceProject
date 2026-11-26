@@ -29,12 +29,12 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Managing Director & CEO** | Suren Jain (resignation; last day 2026-05-22) | — not named | seat vacant — no successor named | 2026-05-22 |
-| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | R. K. Porwal (retirement; last day 2026-09-30) | Jigar Dalal (from 2026-11-01) | effective | 2026-09-30 |
+| **Chief Financial Officer (Key Managerial Personnel)** | R. K. Porwal (retirement; last day 2026-09-30) | Jigar Dalal (from 2026-11-01) | effective | 2026-09-30 |
 
 - **Why Suren Jain is leaving, in the filing's words:** “Change in Management”
 - In the documents: “Resignation of Shri Suren Jain (DIN: 00011026) as the Director (Managing Director & CEO) of the Company, vide his Resignation Letter dated 22nd May, 2026, with immediate effect.” — [2026-05-23 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_87944_KMP_Doc.zip) · [2026-05-22 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_22052026192009_JPVL_Change_in_Management_22052026.pdf)
 - **Why R. K. Porwal is leaving, in the filing's words:** “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.”
-- In the documents: “Upon attaining superannuation, Mr. R. K. Porwal has ceased to be the Chief Financial Officer (CFO) and Key Managerial Personnel (KMP) of the Company with effect from the close of business hours on 30th September 2026.” — [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · +1 more
+- In the documents: “the appointment of Mr. Jigar Dalal as the Chief Financial Officer (Key Managerial Personnel) of the Company, with effect from 1st November, 2026;” — [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-10-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026200955_Outcome.pdf) · [2026-10-19 Change in Management](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202025_Outcome.pdf) · [2026-10-19 Change in Company Secretary/Compl…](https://nsearchives.nseindia.com/corporate/JPPOWER_19102026202531_Outcome.pdf) · [2026-09-30 Retirement](https://nsearchives.nseindia.com/corporate/JPPOWER_30092026181139_SIGNEDchange_in_management.pdf) · [2026-07-06 Resignation](https://nsearchives.nseindia.com/corporate/JPPOWER_06072026152143_Disclosure-Resignation_of_Sh_Manoj_Gaur.pdf) · [2026-07-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/JPPOWER_ROID_91169_KMP_Doc.zip) · +2 more
 
@@ -80,7 +80,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 2.7 | 3.5 | +0.8 pts |
 | Borrowings (₹ cr) | 5,236 | 3,391 | -1,845 |
 
-**R. K. Porwal** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), date of taking the seat not on file.
+**R. K. Porwal** — Chief Financial Officer (Key Managerial Personnel), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -100,7 +100,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “"The buyer in the agreement is Adani Power Limited (APL), which is not related to the Company." "The purchaser (APL) is not related to the Promoter Company (JAL) in any manner at the time of the transaction." APL is part of the Adani Group; the resolution plan was submitted by Adani Enterprises Limited. Director profiles describe APL as having an "entire portfolio of operational thermal power plants" with domestic and imported coal procurement, power sales and scheduling, and the Adani Group as driving "an ambitious portfolio of 25 GW pumped storage and 5 GW hydro projects."”
 
-**Jigar Dalal** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP).
+**Jigar Dalal** — Chief Financial Officer (Key Managerial Personnel).
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 

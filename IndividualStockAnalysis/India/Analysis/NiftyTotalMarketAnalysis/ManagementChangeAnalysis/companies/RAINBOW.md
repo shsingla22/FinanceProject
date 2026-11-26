@@ -9,12 +9,12 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Executive Officer** | — (new seat) | Abrarali Dalal | effective | 2026-01-28 |
-| **Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP")** | Vikas Maheshwari (resignation; last day 2026-08-31) | Sudarshan Patodia (external; from 2026-09-23) | effective | 2026-08-25 |
+| **Chief Financial Officer (Key Managerial Personnel) of the Company and designated as Group Chief Financial Officer** | Vikas Maheshwari (resignation; last day 2026-08-31) | Sudarshan Patodia (external; from 2026-09-23) | effective | 2026-08-25 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “The appointment of Mr. Abrarali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale-up are key.” — [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf)
-- **Why Vikas Maheshwari is leaving, in the filing's words:** “due to personal reasons”
-- In the documents: “the Board of Directors of the Company, by way of a resolution passed by circulation on August 25, 2026, has noted and accepted the resignation of Mr. Vikas Maheshwari from the position of Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP") of the Company, with effect from the close of business hours on August 31, 2026, due to personal reasons.” — [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · +1 more
+- In the documents: “The appointment of Mr. Abrar ali Dalal as Chief Executive Officer further strengthens the leadership team at a stage where operational excellence and scale -up are key .” — [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_28012026164438_SE_Press_Release.pdf)
+- **Why Vikas Maheshwari is leaving, in the filing's words:** “As discussed, due to personal reasons, I hereby resign from the position of Chief Financial Officer (CFO) & Key Managerial Personne l (KMP) of Rainbow Children's Medicare Limited with effect from the close of business hours on August 31, 2026.”
+- In the documents: “The Board of Directors of the Company has appointed Mr. Sudarshan Patodia as the Chief Financial Officer and Key Managerial Personnel of the Company and designated him as Group Chief Financial Officer , with effect from September 23, 2026.” — [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · +1 more
 
 *All 12 filing(s) read for the seats:* [2026-10-31 Press Release (Revised)](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_31102026200311_IntimationPressreleaserev.pdf) · [2026-09-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026183405_Intimation.pdf) · [2026-09-23 Appointment](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23092026184312_Intimation.pdf) · [2026-08-25 Resignation](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25082026161446_SEintimation.pdf) · [2026-08-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/RAINBOW_ROID_97070_KMP_Doc.zip) · [2026-05-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/RAINBOWUSER_23052026195658_Intimation_Outcome.pdf) · +6 more
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Vikas Maheshwari** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"), in the seat since FY2024 per the annual reports on file.
+**Vikas Maheshwari** — Chief Financial Officer (Key Managerial Personnel) of the Company and designated as Group Chief Financial Officer, in the seat since FY2024 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -66,9 +66,9 @@ The company's results while they held the seat (the year before they took it, to
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
-**Sudarshan Patodia** — Chief Financial Officer ("CFO") and Key Managerial Personnel ("KMP"). from: external; experience: nearly two decades of experience in finance; qualifications: Chartered Accountant and a Gold Medalist.
+**Sudarshan Patodia** — Chief Financial Officer (Key Managerial Personnel) of the Company and designated as Group Chief Financial Officer. from: external; experience: nearly two decades of experience in finance across the healthcare, retail and FMCG sectors; qualifications: Chartered Accountant and a Gold Medalist.
 
-The filing's own profile: “Mr. Sudarshan Patodia is a Chartered Accountant and a Gold Medalist with nearly two decades of experience in finance across the healthcare, retail and FMCG sectors. Prior to joining Rainbow Children's Medicare Limited, he served as the Chief Financial Officer of New Delhi Centre for Sight Limited, where he was responsible for finance, treasury, investor relations, strategic planning, fundraising and M&A, and was involved in acquisition transactions and fundraising initiatives. Prior to Centre for Sight, he served as Vice President – Finance at Vishal Mega Mart, where he contributed to business finance, FP&A, investor relations and the company's IPO journey.”
+The filing's own profile: “Mr. Sudarshan Patodia is a Chartered Accountant and a Gold Medalist with nearly two decades of experience in finance across the healthcare, retail and FMCG sectors. Prior to joining Rainbow Children's Medicare Limited, he served as the Chief Financial Office r of New Delhi Centre for Sight Limited, where he was responsible for finance, treasury, investor relations, strategic planning, fundraising and M&A, and was involved in acquisition transactions and fundraising initiatives. Prior to Centre for Sight, he served as Vice President – Finance at Vishal Mega Mart, where he contributed to business finance, FP&A, investor relations and the company's IPO journey.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

@@ -9,11 +9,11 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Executive Officer** | Marut Dilawari (moved to another role in the company or group; last day 2026-11-05) | Amit Wadhwa (from 2026-11-06) | effective | 2026-11-05 |
-| **Chief Financial Officer** | Akhil Garg (resignation; last day 2025-12-31) | Karthikeyan Velu (group company; from 2026-01-01) | effective | 2025-12-18 |
+| **Chief Financial Officer** | Akhil Garg (moved to another role in the company or group; last day 2025-12-31) | Karthikeyan Velu (group company; from 2026-01-01) | effective | 2025-12-18 |
 
-- **Why Marut Dilawari is leaving, in the filing's words:** “In view of my transition to a new role within the Group, I hereby demit the position of Chief Executive Officer of Bharti Hexacom Limited with effect from close of business hours of November 05, 2026.” Stays on as: new role within the Group.
+- **Why Marut Dilawari is leaving, in the filing's words:** “In view of my transition to a new role within the Group, I hereby demit the position of Chief Executive Officer of Bharti Hexacom Limited with effect from close of business hours of November 05, 2026.” Stays on as: new role within the Bharti Group (role not stated).
 - In the documents: “Appointment of Amit Wadhwa as Chief Executive Officer of the Company with effect from November 06, 2026, in place of Marut Dilawari who shall cease to be a Chief Executive Officer and Key Managerial Personnel of the Company with effect from close of business hours of November 05, 2026, consequent to his movement in new role within the Group.” — [2026-11-05 Change in Management](https://nsearchives.nseindia.com/corporate/HexacomApril20_05112026163831_Change_in_management__Stx_intimation.pdf) · [2026-11-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HexacomApril20_05112026164525_Change_in_management__Stx_intimation.pdf)
-- **Why Akhil Garg is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer and Key Managerial Personnel of the Company as I would be taking up a different role within the Bharti Group.” Stays on as: a different role within the Bharti Group; later appointed Additional Director in the capacity of Non-Executive Director with effect from November 06, 2026.
+- **Why Akhil Garg is leaving, in the filing's words:** “I hereby tender my resignation from the post of Chief Financial Officer and Key Managerial Personnel of the Company as I would be taking up a different role within the Bharti Group.” Stays on as: a different role within the Bharti Group; later appointed Additional Director (Non-Executive Director) of the Company w.e.f. November 06, 2026.
 - In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), we wish to inform you the Board of Directors upon recommendation of Nomination and Remuneration Committee and Audit Committee in its meeting held on December 18, 2025, has approved the appointment of Karthikeyan Velu as Chief Financial Officer and Key Managerial Personnel ('KMP') of the Company w.e.f. January 1, 2026.” — [2026-01-14 General Updates](https://nsearchives.nseindia.com/corporate/HexacomApril20_14012026234749_Reg30BHL.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/HexacomApril20_18122025181119_Intimation.pdf) · [2025-12-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HexacomApril20_18122025181332_Intimation.pdf) · +1 more
 
 *All 6 filing(s) read for the seats:* [2026-11-05 Change in Management](https://nsearchives.nseindia.com/corporate/HexacomApril20_05112026163831_Change_in_management__Stx_intimation.pdf) · [2026-11-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HexacomApril20_05112026164525_Change_in_management__Stx_intimation.pdf) · [2026-01-14 General Updates](https://nsearchives.nseindia.com/corporate/HexacomApril20_14012026234749_Reg30BHL.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/HexacomApril20_18122025181119_Intimation.pdf) · [2025-12-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HexacomApril20_18122025181332_Intimation.pdf) · [2025-12-18 Change in Management](https://nsearchives.nseindia.com/corporate/HexacomApril20_18122025211452_Inti.pdf)
@@ -78,15 +78,15 @@ The company's results over the part of the tenure the reports on file cover:
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 
-**Karthikeyan Velu** — Chief Financial Officer. from: group company; experience: over two decades of experience; qualifications: Master's in Business Administration (Finance) and a Bachelors in Engineering.
+**Karthikeyan Velu** — Chief Financial Officer. from: group company; experience: over two decades of experience; qualifications: Karthikeyan has a Master's in Business Administration (Finance) and a Bachelors in Engineering..
 
 The filing's own profile: “Karthikeyan Velu is a seasoned telecom finance leader, with over two decades of experience, combining deep domain expertise and strong business partnering experience. He has worked across Circle commercial, Shared Services, Revenue Assurance and Category commercial roles. His most recent role was as B2C controller overseeing all circles commercial operations and partnering with the leadership teams responsible for the Consumer Business. He is currently Group Financial Controller for Airtel. Karthikeyan has a Master's in Business Administration (Finance) and a Bachelors in Engineering. Karthikeyan joined Airtel as Management Trainee in 2002.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Management Trainee | Airtel | 2002 | — |
-| B2C controller overseeing all circles commercial operations | Airtel | — | — |
 | Group Financial Controller | Airtel | — | — |
+| B2C controller overseeing all circles commercial operations | Airtel | — | — |
+| Management Trainee | Airtel | 2002 | — |
 
 ### 5. On the calls
 

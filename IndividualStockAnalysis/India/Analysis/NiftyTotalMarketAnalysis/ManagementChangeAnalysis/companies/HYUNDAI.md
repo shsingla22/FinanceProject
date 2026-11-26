@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer** | Unsoo Kim (resignation; last day 2025-12-31) | Tarun Garg (internal; from 2026-01-01) | effective | 2025-12-31 |
 
-- **Why Unsoo Kim is leaving, in the filing's words:** “Resignation of Mr. Unsoo Kim from the position of Managing Director & Director of Hyundai Motor India Limited (“Company”) effective from closure of business hours on December 31, 2025.”
-- In the documents: “Further it may be noted that the Company has received shareholders’ approval for appointment of Mr. Tarun Garg as new Managing Director & Chief Executive Officer of the Company w.e.f. January 01, 2026.” — [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_28102026151721_PRESSRELEASE28102026.pdf) · [2026-01-01 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_01012026093340_News_Release_Tarun_Garg_sd.pdf) · [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf)
+- **Why Unsoo Kim is leaving, in the filing's words:** “Resignation of Mr. Unsoo Kim from the position of Managing Director & Director of Hyundai Motor India Limited ("Company") effective from closure of business hours on December 31, 2025.”
+- In the documents: “Hyundai Motor India Limited (HMIL) today announced that Mr. Tarun Garg has officially assumed charge as the Managing Director & Chief Executive Officer (MD & CEO), effective January 01, 2026.” — [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_28102026151721_PRESSRELEASE28102026.pdf) · [2026-01-01 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_01012026093340_News_Release_Tarun_Garg_sd.pdf) · [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_28102026151721_PRESSRELEASE28102026.pdf) · [2026-01-01 Press Release](https://nsearchives.nseindia.com/corporate/HMILNSE_01012026093340_News_Release_Tarun_Garg_sd.pdf) · [2025-12-31 Change in Management](https://nsearchives.nseindia.com/corporate/HMILNSE_31122025165928_Reg_30_Resignation_31122025.pdf)
 
@@ -56,9 +56,9 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Tarun Garg** — Managing Director & Chief Executive Officer. from: internal; experience: over 32 years of automotive industry experience; qualifications: Mr. Garg is a Mechanical Engineer from the reputed Delhi Technological University (formerly known as Delhi College of Engineering) and holds an MBA from the premier management institute IIM Lucknow.
+**Tarun Garg** — Managing Director & Chief Executive Officer. from: internal; experience: over 32 years of automotive industry experience; qualifications: a Mechanical Engineer from the reputed Delhi Technological University (formerly known as Delhi College of Engineering) and holds an MBA from the premier management institute IIM Lucknow.
 
-The filing's own profile: “He possesses proven expertise in sales, marketing, distribution, financial management, product strategy and brand communication with over 32 years of automotive industry experience. Prior to HMIL, he built an illustrious career at Maruti Suzuki India Limited, advancing through key roles to Executive Director of Marketing, Logistics, Parts & Accessories.”
+The filing's own profile: “Mr. Tarun Garg becomes the first Indian to lead Hyundai Motor India Limited as the Managing Director & Chief Executive Officer. He possesses proven expertise in sales, marketing, distribution, financial management, product strategy and brand communication with over 32 years of automotive industry experience. Under his stewardship, first as the Head of Sales, Service & Marketing and then as the Whole-time Director and Chief Operating Officer, Mr. Garg's tenure at HMIL had shaped meaningful contributions that steadily advanced the company's growth and direction.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

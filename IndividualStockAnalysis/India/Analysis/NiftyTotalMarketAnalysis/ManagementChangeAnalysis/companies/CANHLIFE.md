@@ -11,7 +11,7 @@
 | **Chief Financial Officer** | Tarun Rustagi (resignation; last day 2026-11-24) | Indu Swaroop (internal; from 2026-11-25) | effective | 2026-08-31 |
 
 - **Why Tarun Rustagi is leaving, in the filing's words:** “To pursue new and growth opportunities outside the organisation”
-- In the documents: “Accordingly, Mr Tarun Rustagi ceased to be the Chief Financial Officer, Key Managerial Personnel and Senior Management Personnel of the Company with effect from close of business hours of 24th November 2026.” — [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_25112026103742_Resignation_of_CFO.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133033_Appointment_of_CFO.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133352_Appointment_of_CFO.pdf) · +1 more
+- In the documents: “We wish to inform that Mr Tarun Rustagi, Chief Financial Officer of the Company has tendered his resignation to pursue growth opportunities outside the organization; and the same has been accepted on 31st August 2026.” — [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_25112026103742_Resignation_of_CFO.pdf) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133033_Appointment_of_CFO.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133352_Appointment_of_CFO.pdf) · +1 more
 
 *All 6 filing(s) read for the seats:* [2026-11-25 Resignation](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_25112026103742_Resignation_of_CFO.pdf) · [2026-11-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/CANHLIFE_ROID_105199_KMP_Doc.zip) · [2026-11-12 Change in Management](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133033_Appointment_of_CFO.pdf) · [2026-11-12 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CANARAHSBCLIFE_12112026133352_Appointment_of_CFO.pdf) · [2026-09-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_09092026175701_Re-appointment_of_independent_directors-_board_approval.pdf) · [2026-08-31 Updates](https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_31082026171251_Stock_exchange_intimation-_CFO_Resignation.pdf)
 
@@ -59,11 +59,11 @@ The company's results over the part of the tenure the reports on file cover:
 
 **Indu Swaroop** — Chief Financial Officer. from: internal; experience: around 26+ years of experience in Finance.
 
-The filing's own profile: “Mr Indu Swaroop is currently the Financial Controller of the Company, supporting the Chief Financial Officer. He is responsible for handling the statutory audits, overall tax compliances, finance operations, risk control assessment and regulatory compliances relating to financial reporting. He was also part of the IPO core working group, which ensured a successful listing. Mr Swaroop joined the Company in 2008 and is one of the Founder Members. He has held various other roles in the Company, including Head of Treasury, Banking Operations, etc. He has around 26+ years of experience in Finance. Prior to joining the Company, he worked with Aviva Life Insurance.”
+The filing's own profile: “Mr Indu Swaroop is currently the Financial Controller of the Company, supporting the Chief Financial Officer. He is responsible for handling the statutory audits, overall tax compliances, finance operations, risk control assessment and regulatory compliances relating to financial reporting. He was also part of the IPO core working group, which ensured a successful listing. He was responsible for managing various aspects of the listing process. Mr Swaroop joined the Company in 2008 and is one of the Founder Members. He has held various other roles in the Company, including Head of Treasury, Banking Operations, etc. He has around 26+ years of experience in Finance. Prior to joining the Company, he worked with Aviva Life Insurance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Financial Controller | Canara HSBC Life Insurance Company Limited (CANHLIFE) | — | 2026 |
+| Financial Controller of the Company, supporting the Chief Financial Officer | Canara HSBC Life Insurance Company Limited (CANHLIFE) | — | — |
 | Head of Treasury, Banking Operations, etc. | Canara HSBC Life Insurance Company Limited (CANHLIFE) | 2008 | — |
 | — | Aviva Life Insurance | — | — |
 

@@ -57,13 +57,14 @@ The company's results over the part of the tenure the reports on file cover:
 
 ### 4. Track record — the incoming management
 
-**Rakesh Mishra** — Chief Financial Officer (Key Managerial Personnel). from: group company; experience: over 30 years; qualifications: Chartered Accountant; Bachelor of Commerce from Utkal University, Certificate Program in Executive Leadership from Cornell University, Leadership with AI and Mastering Executive Presence from Indian School of Business.
+**Rakesh Mishra** — Chief Financial Officer (Key Managerial Personnel). from: group company; experience: over 30 years; qualifications: Chartered Accountant; Bachelor of Commerce from Utkal University; Certificate Program in Executive Leadership from Cornell University, Leadership with AI and Mastering Executive Presence from Indian School of Business.
 
 The filing's own profile: “Rakesh Mishra is a Chartered Accountant and finance leader with over 30 years of experience in global technology and engineering companies (both Listed & Unlisted). Currently Head of Finance & Compliance at ZF India Pvt Ltd (Tech Centre India - Hyderabad), he specializes in financial strategy, governance, taxation, M&A, regulatory compliance, and finance transformation. A NASSCOM Regional Council Member (2023–24), he has successfully led greenfield projects, restructuring initiatives, and ERP implementations. He holds Bachelor of Commerce from Utkal University and executive leadership certifications from Cornell University & the Indian School of Business.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Head of Finance & Compliance | ZF India Pvt Ltd (Tech Centre India - Hyderabad) | — | — |
+| Regional Council Member | NASSCOM | 2023 | 2024 |
 
 ### 5. On the calls
 

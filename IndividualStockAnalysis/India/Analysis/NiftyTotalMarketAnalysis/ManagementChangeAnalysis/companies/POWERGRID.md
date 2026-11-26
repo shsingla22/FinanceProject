@@ -9,23 +9,23 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chairman & Managing Director (CMD)** | Ravindra Kumar Tyagi (retirement; last day 2026-03-31) | Burra Vamsi Rama Mohan (internal; from 2026-04-01) | effective | 2026-04-01 |
-| **Director (Finance)** | Ravisankar Ganesan (retirement; last day 2026-06-30) | Yatindra Dwivedi (interim; internal; from 2026-07-01) | effective | 2026-07-01 |
 | **Chief Financial Officer (CFO)** | Ravisankar Ganesan (retirement; last day 2026-06-30) | Venkata Subrahamanayam Vallurie (internal; from 2026-07-01) | effective | 2026-06-10 |
+| **Director (Finance)** | Ravisankar Ganesan (retirement; last day 2026-06-30) | Yatindra Dwivedi (interim; internal; from 2026-07-01) | effective | 2026-07-01 |
 | **Director (Finance)** | Yatindra Dwivedi (interim holder replaced; last day 2026-08-18) | Amol Babulal Taori (external; from 2026-08-18) | effective | 2026-08-12 |
 | **Chief Financial Officer (CFO)** | Venkata Subrahamanayam Vallurie (interim holder replaced; last day 2026-08-20) | Amol Babulal Taori (external; from 2026-08-20) | effective | 2026-08-20 |
 
-- **Why Ravindra Kumar Tyagi is leaving, in the filing's words:** “consequent upon attaining the age of superannuation, Dr. Ravindra Kumar Tyagi, (DIN: 09632316) Chairman & Managing Director (CMD), POWERGRID, has ceased to be the CMD of POWERGRID w.e.f. 31st March, 2026”
-- In the documents: “In terms of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirement) Regulations, 2015, as amended, (‘SEBI LODR’) this is to inform that in pursuance of Ministry of Power Order dated 18th March, 2026, Board of Directors of POWERGRID in its Board Meeting held on Wednesday, 01st April, 2026, has approved the appointment of Shri Burra Vamsi Rama Mohan, Director (Projects), POWERGRID, as Chairman & Managing Director (‘CMD’).” — [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_06042026220329_BSENSEReg30AddCharge.pdf) · [2026-04-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01042026102949_BSENSERKTyagi.pdf) · [2026-04-01 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_01042026103104_BSENSEVamsisir.pdf) · +1 more
-- **Why Ravisankar Ganesan is leaving, in the filing's words:** “Shri Ravisankar Ganesan, Director (Finance) & Chief Financial Officer of POWERGRID, upon attaining the age of superannuation on 30th June, 2026, has ceased to be Director (Finance) & Chief Financial Officer (KMP) of POWERGRID.”
-- In the documents: “Dr. Yatindra Dwivedi, Director (Personnel), POWERGRID, has been entrusted with an additional charge of the post of Director (Finance) of POWERGRID for a period of 3 (three) months w.e.f. 01st July, 2026 or till a regular incumbent is posted, whichever is earlier, in terms of Ministry of Power (MoP) Order dated 27th June, 2026 (“said order”).” — [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026114913_BSENSEReg30Dt01072026.pdf) · [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026115837_BSENSEReg30Dt01072026.pdf) · +1 more
-- **Why Ravisankar Ganesan is leaving, in the filing's words:** “Shri Ravisankar Ganesan, Director (Finance) & Chief Financial Officer of POWERGRID, upon attaining the age of superannuation on 30th June, 2026, has ceased to be Director (Finance) & Chief Financial Officer (KMP) of POWERGRID.”
-- In the documents: “Appointment of Shri Venkata S V, Chief General Manager (F&A) as Chief Financial Officer (CFO) of the Company with effect from 01st July, 2026.” — [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026114913_BSENSEReg30Dt01072026.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_10062026194921_BSENSEReg30OutcomeDt10062026v3.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_10062026195056_BSENSEReg30OutcomeDt10062026v3.pdf) · +1 more
-- **Why Yatindra Dwivedi is leaving, in the filing's words:** “Dr. Yatindra Dwivedi, Director (Personnel) relinquished additional charge of the post of Director (Finance) on 18th August, 2026.” Stays on as: Director (Personnel).
+- **Why Ravindra Kumar Tyagi is leaving, in the filing's words:** “consequent upon attaining the age of superannuation, Dr. Ravindra Kum ar Tyagi, (DIN: 09632316) Chairman & Managing Director (CMD), POWERGRID, has ceased to be the CMD of POWERGRID w.e.f. 31st March, 2026”
+- In the documents: “Shri Vamsi has assumed the charge of the post of CMD of Power Grid Corpor ation of India Limited with effect from 01st April, 2026.” — [2026-04-06 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_06042026220329_BSENSEReg30AddCharge.pdf) · [2026-04-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01042026102949_BSENSERKTyagi.pdf) · [2026-04-01 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_01042026103104_BSENSEVamsisir.pdf) · +1 more
+- **Why Ravisankar Ganesan is leaving, in the filing's words:** “upon attaining the age of superannuation on 30th June, 2026, has ceased to be Director (Finance) & Chief Financial Officer (KMP) of POWERGRID”
+- In the documents: “In this regard, this is to inform that Shri Venkata Subrahamanayam Vallurie has assumed the charge of CFO of the Company w.e.f. 01st July, 2026.” — [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026114913_BSENSEReg30Dt01072026.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_10062026194921_BSENSEReg30OutcomeDt10062026v3.pdf) · [2026-06-10 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_10062026195056_BSENSEReg30OutcomeDt10062026v3.pdf) · +1 more
+- **Why Ravisankar Ganesan is leaving, in the filing's words:** “upon attaining the age of superannuation on 30th June, 2026, has ceased to be Director (Finance) & Chief Financial Officer (KMP) of POWERGRID”
+- In the documents: “This is to inform that Dr. Yatindra Dwivedi , Director ( Personnel ), POWERGRID, has been entrusted with an additional charge of the post of Director ( Finance ) of POWERGRID for a period of 3 (three) months w.e.f. 01st July, 2026 or till a regular incumbent is posted , whichever is earlier , in terms of Ministry of Power (MoP) Order dated 2 7th June, 2026.” — [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · [2026-07-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026114913_BSENSEReg30Dt01072026.pdf) · [2026-07-01 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_01072026115837_BSENSEReg30Dt01072026.pdf) · +1 more
+- **Why Yatindra Dwivedi is leaving, in the filing's words:** “Dr. Yatindra Dwivedi, Director (Personnel) relinquished additional charge of the post of Director (Finance) on 18th August, 2026” Stays on as: Director (Personnel).
 - In the documents: “Further to our letter dated 12th August, 2026 (Copy enclosed), this is to inform that Shri Amol Babulal Taori has assumed the charge of Director (Finance) of Power Grid Corporation of India Limited (“the Company”) today i.e. 18th August, 2026.” — [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026133050_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-20 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026134236_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · +1 more
-- **Why Venkata Subrahamanayam Vallurie is leaving, in the filing's words:** “Shri Venkata Subrahamanayam Vallurie, Chief General Manager (F&A) ceased to be the CFO of the Company.” Stays on as: Chief General Manager (F&A).
+- **Why Venkata Subrahamanayam Vallurie is leaving, in the filing's words:** “Consequent upon appointment of Shri Amol Babulal Taori as Director (Finance) & CFO of the Company w.e.f. 2 0th August, 2026 by the Board of Directors” Stays on as: Chief General Manager (F&A).
 - In the documents: “The Board has also appointed Shri Amol Babulal Taori as Chief Financial Officer (CFO) of the Company.” — [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026133050_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-20 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026134236_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · +1 more
 
-*All 20 filing(s) read for the seats:* [2026-09-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_30092026195726_BSENSEReg30dt30092026_Final.pdf) · [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/POWERGRID1_30092026200406_BSENSEReg30dt30092026_Final.pdf) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026133050_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-20 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026134236_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · [2026-08-18 Appointment](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026154055_BSENSEReg30dt18082026.pdf) · +14 more
+*All 21 filing(s) read for the seats:* [2026-09-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_30092026195726_BSENSEReg30dt30092026_Final.pdf) · [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/POWERGRID1_30092026200406_BSENSEReg30dt30092026_Final.pdf) · [2026-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026133050_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-20 Cessation](https://nsearchives.nseindia.com/corporate/POWERGRID1_20082026134236_BSENSEReg30dt20082026Outcome.pdf) · [2026-08-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026153656_BSENSEReg30dt18082026.pdf) · [2026-08-18 Appointment](https://nsearchives.nseindia.com/corporate/POWERGRID1_18082026154055_BSENSEReg30dt18082026.pdf) · +15 more
 
 ### 2. Financials — the last three years
 
@@ -69,7 +69,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 - Also on file: Chairman at ZENTEC (FY2021–FY2022, annual reports).
 
-**Ravisankar Ganesan** — Director (Finance), date of taking the seat not on file.
+**Ravisankar Ganesan** — Chief Financial Officer (CFO), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -83,7 +83,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 17.2 | 15.8 | -1.4 pts |
 | Borrowings (₹ cr) | 143,232 | 148,071 | +4,839 |
 
-**Ravisankar Ganesan** — Chief Financial Officer (CFO), date of taking the seat not on file.
+**Ravisankar Ganesan** — Director (Finance), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -115,7 +115,15 @@ The filing's own profile: “Shri Burra Vamsi Rama Mohan has taken over the char
 |---|---|---|---|
 | Director (Projects) | POWERGRID | — | 2026 |
 | CEO | POWERGRID Teleservices Limited | — | — |
-| founding member of POWERGRID's Regulatory Cell | POWERGRID | — | — |
+
+**Venkata Subrahamanayam Vallurie** — Chief Financial Officer (CFO). from: internal; experience: over 35 years of post-qualification experience; qualifications: qualified Cost Accountant from the Institute of Cost Accountants of India.
+
+The filing's own profile: “Shri Venkata Subrahamanayam Vallurie is a qualified Cost Accountant from the Institute of Cost Accountants of India with over 35 years of post-qualification experience. He has spent more than 32 years of his career with POWERGRID, serving in Regional Headquarter and the Corporate Centre. He possesses extensive expertise in key finance functions, including resource mobilisation, financial concurrence, enterprise resource planning (ERP), financial accounting and internal audit.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Chief General Manager (F&A) / Head of Finance (HoF) of Southern Region-I | POWERGRID | — | 2026 |
+| Head of Finance in Telecom Department | POWERGRID | — | — |
 
 **Yatindra Dwivedi** — Director (Finance) (interim). from: internal.
 
@@ -123,17 +131,7 @@ The filing's own profile: “Shri Burra Vamsi Rama Mohan has taken over the char
 |---|---|---|---|
 | Director (Personnel) | POWERGRID | — | — |
 
-**Venkata Subrahamanayam Vallurie** — Chief Financial Officer (CFO). from: internal; experience: over 35 years of post-qualification experience; qualifications: a qualified Cost Accountant from the Institute of Cost Accountants of India.
-
-The filing's own profile: “Shri Venkata Subrahamanayam Vallurie is a qualified Cost Accountant from the Institute of Cost Accountants of India with over 35 years of post-qualification experience. He has spent more than 32 years of his career with POWERGRID, serving in Regional Headquarter and the Corporate Centre. He possesses extensive expertise in key finance functions, including resource mobilisation, financial concurrence, enterprise resource planning (ERP), financial accounting and internal audit. He has been instrumental in driving the digitization of finance operations including the implementation and enhancement of SAP systems across POWERGRID. He has previously served in Finance Department of Northern Region-I and as Head of Finance in Telecom Department.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Chief General Manager (F&A) / Head of Finance (HoF) of Southern Region-I | POWERGRID | — | 2026 |
-| Head of Finance in Telecom Department | POWERGRID | — | — |
-| Finance Department of Northern Region-I | POWERGRID | — | — |
-
-**Amol Babulal Taori** — Director (Finance). from: external; experience: nearly 30 years; qualifications: a Chartered Accountant.
+**Amol Babulal Taori** — Director (Finance). from: external; experience: nearly 30 years; qualifications: Chartered Accountant.
 
 The filing's own profile: “Shri Amol Babulal Taori (DIN: 11890590) is a Chartered Accountant with nearly 30 years of rich and diverse experience across Finance, Treasury, International Trade, Marketing, and Compensation Management. Prior to his appointment as Director (Finance), POWERGRID, Shri Taori served as Executive Director (In-charge) – International Trade at Hindustan Petroleum Corporation Limited (HPCL), where he managed crude procurement of approximately 700 kbd, product imports and exports, chartering/shipping arrangements, and oil price risk management.”
 
@@ -142,9 +140,9 @@ The filing's own profile: “Shri Amol Babulal Taori (DIN: 11890590) is a Charte
 | Executive Director (In-charge) – International Trade | Hindustan Petroleum Corporation Limited (HPCL) | — | 2026 |
 | Director on the Board | HPCL Middle East FZCO, Dubai | — | — |
 
-**Amol Babulal Taori** — Chief Financial Officer (CFO). from: external; experience: nearly 30 years; qualifications: a Chartered Accountant.
+**Amol Babulal Taori** — Chief Financial Officer (CFO). from: external; experience: nearly 30 years; qualifications: Chartered Accountant.
 
-The filing's own profile: “Shri Amol Babulal Taori (DIN: 11890590) is a Chartered Accountant with nearly 30 years of rich and diverse experience across Finance, Treasury, International Trade, Marketing, and Compensation Management. During his career, Shri Taori has managed one of India’s largest corporate treasuries for over a decade and spearheaded HPCL’s maiden USD bond issue, achieving one of the most competitive pricing spreads by an Indian issuer. He also conceptualised the Oil Bond Swap, which helped reduce borrowing costs, and facilitated HPCL’s first foreign currency swaps and revolving line of credit.”
+The filing's own profile: “Shri Amol Babulal Taori (DIN: 11890590) is a Chartered Accountant with nearly 30 years of rich and diverse experience across Finance, Treasury, International Trade, Marketing, and Compensation Management. During his career, Shri Taori has managed one of India’s largest corporate treasuries for over a decade and spearheaded HPCL’s maiden USD bond issue, achieving one of the most competitive pricing spreads by an Indian issuer.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer (CEO) and Key Managerial Personnel (KMP)** | Rajan Sethuraman (resignation; last day 2026-07-15) | Sonal Ramrakhiani (external; from 2026-07-15) | effective | 2026-07-15 |
+| **Chief Executive Officer (Key Managerial Personnel)** | Rajan Sethuraman (resignation; last day 2026-07-15) | Sonal Ramrakhiani (external; from 2026-07-15) | effective | 2026-07-15 |
 
 - **Why Rajan Sethuraman is leaving, in the filing's words:** “As LatentView prepares for its next chapter, I believe it is the right time to bring in fresh leadership to take the company forward while the business has strong momentum and stability.” Stays on as: Strategic Advisor to the Chief Executive Officer.
 - In the documents: “The Board accepted the resignation of Mr. Rajan Sethuraman from his position as Chief Executive Officer (Key Managerial Personnel) of the Company, effective immediately.” — [2026-07-15 Appointment](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026184010_SE_Intimation_Leadership_change_v2signed.pdf) · [2026-07-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/LATENTVIEW_ROID_91901_KMP_Doc.zip) · [2026-07-15 Cessation](https://nsearchives.nseindia.com/corporate/LATENTVIEW_15072026191507_SE_Intimation_Final_signed.pdf) · +1 more
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Rajan Sethuraman** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP), in the seat since FY2020 per the filing.
+**Rajan Sethuraman** — Chief Executive Officer (Key Managerial Personnel), in the seat since FY2020 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -57,9 +57,9 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Sonal Ramrakhiani** — Chief Executive Officer (CEO) and Key Managerial Personnel (KMP). from: external; experience: over 24 years of extensive global experience in IT and ITES sales leadership, operations, and complete P&L management; qualifications: Post Graduate Diploma in Management from the Nirma Institute of Management.
+**Sonal Ramrakhiani** — Chief Executive Officer (Key Managerial Personnel). from: external; experience: over 24 years; qualifications: Post Graduate Diploma in Management from the Nirma Institute of Management.
 
-The filing's own profile: “Ms. Sonal Ramrakhiani is an accomplished C-suite business leader bringing over 24 years of extensive global experience in IT and ITES sales leadership, operations, and complete P&L management. She recently served as the Market Lead Americas 2 for Wipro Engineering Edge, driving strategic and operational leadership across diverse industry sectors. Prior to Wipro, she held pivotal executive roles at Tata Technologies, including Chief Operating Officer and President Sales for both the Global Automotive Vertical and the Americas territory. Her distinguished career also features senior leadership and management positions across prominent organizations, including Tata Consultancy Services, Tata Teleservices, and Titan Industries.”
+The filing's own profile: “Ms. Sonal Ramrakhiani brings more than two decades of global leadership experience driving growth across industries, with a strong track record of scaling market-facing organizations, building trusted client partnerships, and converting emerging technology trends into sustainable business growth. Most recently, she led the Wipro Engineering Edge business unit in the Americas. An alumnus of the prestigious Tata Administrative Services (TAS), she has held several senior leadership roles across the Tata Group, including serving as Chief Operating Officer and President – Sales (Automotive) at Tata Technologies.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

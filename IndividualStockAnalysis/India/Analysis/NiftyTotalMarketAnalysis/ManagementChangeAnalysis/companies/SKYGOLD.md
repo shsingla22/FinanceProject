@@ -47,7 +47,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 **Akash Talesara** — Chief Executive Officer (CEO). experience: over two decades of experience in the gems and jewellery industry; qualifications: A graduate of NIFT with advanced management education from IIM.
 
-The filing's own profile: “A highly accomplished business leader with over two decades of experience in the gems and jewellery industry, with expertise spanning exports, diamond jewellery sales, merchandising, business development, and market expansion. Throughout his career, he has successfully built and scaled businesses by combining deep industry knowledge with a strong commercial and customer focused approach. A graduate of NIFT with advanced management education from IIM, Akash brings together strategic vision and execution excellence. He has consistently demonstrated the ability to identify growth opportunities, strengthen market presence, build high value partnerships, and deliver sustainable business results across domestic and international markets.”
+The filing's own profile: “A highly accomplished business leader with over two decades of experience in the gems and jewellery industry, with expertise spanning exports, diamond jewellery sales, merchandising, business development, and market expansion. Throughout his career, he has successfully built and scaled businesses by combining deep industry knowledge with a strong commercial and customer focused approach. A graduate of NIFT with advanced management education from IIM, Akash brings together strategic vision and execution excellence.”
 
 ### 5. On the calls
 

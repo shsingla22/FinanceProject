@@ -79,15 +79,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Kumar Shanker** — Managing Director. from: group company; experience: more than 31 years; qualifications: Chemical Engineer from B.I.T.S. Pilani.
 
-The filing's own profile: “Shri Kumar Shanker is a Chemical Engineer from B.I.T.S. Pilani with more than 31 years of rich and diverse experience in the natural gas industry encompassing commissioning and operations of gas processing plants, project management of petrochemical units, corporate strategy & planning, marketing, regulatory functions and CGD sector. He has extensive experience in regulatory matters across a wide spectrum of areas related to grant of authorizations, open access, pipeline tariffs, affiliate-code of conduct etc. ... Prior to Joining Indraprastha Gas Limited, Shri Kumar Shanker was Managing Director of Maharashtra Natural Gas Limited (MNGL).”
+The filing's own profile: “Shri Kumar Shanker is a Chemical Engineer from B.I.T.S. Pilani with more than 31 years of rich and diverse experience in the natural gas industry encompassing commissioning and operations of gas processing plants, project management of petrochemical units, corporate strategy & planning, marketing, regulatory functions and CGD sector. He has extensive experience in regulatory matters across a wide spectrum of areas related to grant of authorizations, open access, pipeline tariffs, affiliate-code of conduct etc. Prior to Joining Indraprastha Gas Limited, Shri Kumar Shanker was Managing Director of Maharashtra Natural Gas Limited (MNGL).”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Managing Director | Maharashtra Natural Gas Limited (MNGL) | — | 2026 |
-| worked in various business verticals of GAIL covering several locations in India including Gujarat, Maharashtra, Madhya Pradesh, Uttar Pradesh and New Delhi | GAIL (GAIL) | — | — |
-| co-chair of a sub-committee on Low Emissions Gas Task Force | US-India Strategic Clean Energy Partnership | — | — |
+| worked in various business verticals of GAIL covering several locations in India | GAIL (GAIL) | — | — |
 
-**Manjeet Singh Gulati** — Chief Financial Officer (CFO). from: internal; experience: around 25 years; qualifications: qualified CA, CS and CMA.
+**Manjeet Singh Gulati** — Chief Financial Officer (CFO). from: internal; experience: around 25 years; qualifications: a qualified CA, CS and CMA.
 
 The filing's own profile: “Shri Manjeet Singh Gulati is a qualified CA, CS and CMA & has rich overall experience of around 25 years in the areas of finance, taxation & audit.”
 

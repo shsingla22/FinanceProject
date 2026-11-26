@@ -55,6 +55,9 @@ OWN_PROMPT_VERSION = "own-v2"
 DOC_CHARS = 240_000
 DOC_HEAD = 5_000
 FUTURE_DAYS = 200           # an announced change may take effect after the run date
+LEAD_DAYS = 120             # a change that takes effect in the window is often announced months before it opens
+                            # (Delhivery's CFO: announced 5 Nov 2025, in the seat from 1 Jan 2026), so the filings
+                            # of the lead-in are read too; the EVENT date still decides what falls in the window
 
 
 def set_out_dir(path: Path) -> None:
@@ -134,7 +137,7 @@ def build_candidates(today: dt.date, days: int = M.WINDOW_DAYS, only: set[str] |
     mechanical read found, per company, with why it is (or is not) a
     candidate for the judge."""
     members = M.FA.universe()
-    filings = [r for r in M.load_filings(today, days) if r["symbol"] in members and (not only or r["symbol"] in only)]
+    filings = [r for r in M.load_filings(today, days + LEAD_DAYS) if r["symbol"] in members and (not only or r["symbol"] in only)]
     scans = scan_all(filings, workers)
     symbols = sorted(only & set(members)) if only else sorted(members)
     warm_calls(symbols, workers)
@@ -1312,7 +1315,7 @@ def cmd_run(args, runner=None) -> dict:
     for c in cos:
         if (c.get("ownership") or {}).get("keep") or any(not ch.get("dropped") for ch in c.get("seat_changes", [])):
             enrich(c, today, members, actions)
-    n_read = sum(1 for r in M.load_filings(today, days) if not only or r["symbol"] in only)
+    n_read = sum(1 for r in M.load_filings(today, days + LEAD_DAYS) if not only or r["symbol"] in only)
     meta = {"run_date": today.isoformat(), "window_from": start, "window_to": end, "universe": len(cands),
             "filings_read": n_read, "judged_seat": len(seat_c), "judged_own": len(own_c),
             "judge": (f"{J.MODEL} read each candidate company's complete documents" if ai else "not run (--quick): mechanical read only")}

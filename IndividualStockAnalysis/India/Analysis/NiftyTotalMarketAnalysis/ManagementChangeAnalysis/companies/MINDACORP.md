@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Group Chief Financial Officer (GCFO)** | — (new seat) | Ajay Agarwal (internal; from 2026-02-05) | effective | 2026-02-05 |
+| **Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP)** | — (new seat) | Ajay Agarwal (internal; from 2026-02-05) | effective | 2026-02-05 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Appointment of Mr. Ajay Agarwal as Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP) of the Company in addition to his existing role of President Finance & Strategy of the Company w.e.f. February 05, 2026 as per the recommendation of Nomination and Remuneration Committee & Audit Committee and other terms and conditions as approved by the Board of Directors.” — [2026-08-21 Resignation](https://nsearchives.nseindia.com/corporate/MINDACORP_21082026173906_nsebseresignationpmannsigned.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026144219_NSEBSE.pdf) · [2026-02-05 Updates](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026153650_NSEBSE.pdf) · +1 more
@@ -45,7 +45,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Ajay Agarwal** — Group Chief Financial Officer (GCFO). from: internal; experience: 24+years of industry & consulting experience; qualifications: CA & LLB by qualification.
+**Ajay Agarwal** — Group Chief Financial Officer (GCFO) and Key Managerial Personnel (KMP). from: internal; experience: 24+years of industry & consulting experience; qualifications: CA & LLB.
 
 The filing's own profile: “Mr. Ajay Agarwal is CA & LLB by qualification and has 24+years of industry & consulting experience, having worked with some of the global organizations such as KPMG, PWC and Vedanta. He's an aggregate professional having experience with US, British and Indian MNC's handling various aspects of Finance and Corporate Management. He also has international experience, having spent time in the US to lead KPMG's India-US practice.”
 
@@ -54,7 +54,7 @@ The filing's own profile: “Mr. Ajay Agarwal is CA & LLB by qualification and h
 | — | KPMG | — | — |
 | — | PWC | — | — |
 | — | Vedanta (VEDL) | — | — |
-| lead KPMG's India-US practice | KPMG | — | — |
+| President Finance & Strategy | Minda Corporation Limited (MINDACORP) | — | — |
 
 ### 5. On the calls
 

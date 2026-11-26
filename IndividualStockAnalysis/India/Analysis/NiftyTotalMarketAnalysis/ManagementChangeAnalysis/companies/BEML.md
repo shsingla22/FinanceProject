@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | **Director (Finance)** | Anil Jerath (retirement; last day 2026-08-31) | Shantanu Roy (interim; internal; from 2026-09-01) | effective | 2026-08-31 |
 
-- **Why Anil Jerath is leaving, in the filing's words:** “cessation of Shri Anil Jerath (DIN- 09543904), Director (Finance), consequent to his superannuation. He stands relieved from his services at BEML Limited from the closing hours of 31.08.2026”
+- **Why Anil Jerath is leaving, in the filing's words:** “consequent to his superannuation. He stands relieved from his services at BEML Limited from the closing hours of 31.08.2026”
 - In the documents: “Shri Shantanu Roy, Chairman & Managing Director, entrusted with additional charge of Director (Finance), BEML Limited w.e.f 01.09.2026.” — [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-09-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BEML_03092026162417_SE_Notice_signed_0309.pdf) · [2026-08-31 Cessation](https://nsearchives.nseindia.com/corporate/BEML_31082026180746_Intimation_DF_signed.pdf)

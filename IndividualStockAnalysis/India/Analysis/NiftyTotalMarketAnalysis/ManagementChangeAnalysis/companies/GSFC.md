@@ -63,12 +63,12 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Rajender Kumar** — Managing Director. from: government appointee; experience: over two decades of experience in public administration, public policy and development economics; qualifications: He holds a B.A.M.S. in Ayurvedic..
 
-The filing's own profile: “Dr. Rajender Kumar is a 2004-batch officer of the Indian Administrative Service (IAS), belonging to the Gujarat Cadre. He holds a B.A.M.S. in Ayurvedic. He has over two decades of experience in public administration, public policy and development economics across leading national and international institutions. He has served as District Development Officer for Bharuch and Ahmedabad districts, and as Collector & District Magistrate of Rajkot and Surat.”
+The filing's own profile: “Dr. Rajender Kumar is a 2004-batch officer of the Indian Administrative Service (IAS), belonging to the Gujarat Cadre. He holds a B.A.M.S. in Ayurvedic. He has over two decades of experience in public administration, public policy and development economics across leading national and international institutions. He has served as District Development Officer for Bharuch and Ahmedabad districts, and as Collector & District Magistrate of Rajkot and Surat. From 2016 to 2021, he worked at the policy formulation and strategic leadership levels in the Government of India. As Director to the Prime Minister of India (PMO), he has worked on the evolution of strategic thinking, policy formulation and policy implementation on key flagship schemes and programs.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| District Development Officer | Bharuch and Ahmedabad districts | — | — |
-| Collector & District Magistrate | Rajkot and Surat | — | — |
+| District Development Officer | Government of Gujarat, Bharuch and Ahmedabad districts | — | — |
+| Collector & District Magistrate | Rajkot and Surat districts | — | — |
 | Director to the Prime Minister of India | Government of India, Prime Minister's Office (PMO) | 2016 | 2021 |
 | Advisor to the Executive Director for India, Bangladesh, Bhutan, and Sri Lanka | World Bank | 2021 | 2024 |
 | Council Member | Global Environment Facility (GEF) | 2021 | 2024 |

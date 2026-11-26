@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel of the Company** | Varun Gupta (resignation; last day 2026-11-30) | — not named | announced, not yet effective | 2026-11-19 |
+| **Chief Financial Officer** | Varun Gupta (resignation; last day 2026-11-30) | — not named | announced, not yet effective | 2026-11-19 |
 
 - **Why Varun Gupta is leaving, in the filing's words:** “Resigned as got better opportunity”
 - In the documents: “Pursuant to Regulation 30 of the SEBI Listing Regulations, we hereby inform that Mr. Varun Gupta, Chief Financial Officer and Key Managerial Personnel of the Company, has tendered his resignation effective from the close of business hours of November 30, 2026.” — [2026-11-19 Resignation](https://nsearchives.nseindia.in/corporate/JUBLINGREA_19112026113312_SE_Intimation_Resignation_of_CFO.pdf) · [2026-11-19 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.in/corporate/JUBLINGREA_ROID_105030_KMP_Doc.zip)
@@ -39,7 +39,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Varun Gupta** — Chief Financial Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
+**Varun Gupta** — Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 

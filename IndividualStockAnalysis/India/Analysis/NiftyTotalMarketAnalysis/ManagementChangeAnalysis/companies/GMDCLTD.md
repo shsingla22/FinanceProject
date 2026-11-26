@@ -64,7 +64,7 @@ The filing's own profile: “Shri Ajay Bhadoo, IAS is an Indian Administrative S
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Deputy Election Commissioner | Election Commission of India | — | — |
-| Joint Secretary to the former President of India | Office of the former President of India | — | — |
+| Joint Secretary | former President of India | — | — |
 | Secretary to former Chief Minister of Gujarat | Government of Gujarat | — | — |
 | Vice Chairman & Chief Executive Officer | Gujarat Maritime Board | — | — |
 | Commissioner | Rajkot and Vadodara Municipal Corporations | — | — |

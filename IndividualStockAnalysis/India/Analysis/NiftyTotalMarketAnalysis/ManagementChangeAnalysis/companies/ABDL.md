@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & KMP of the Company** | Alok Gupta (resignation; last day 2026-05-31) | Amar Sinha (external; from 2026-06-01) | effective | 2026-05-21 |
-| **Chief Financial Officer (“CFO”)** | Jayant Manmadkar (moved to another role in the company or group; last day 2026-02-01) | Ramakrishnan Ramaswamy (internal; from 2026-02-02) | effective | 2026-01-29 |
+| **Managing Director & KMP** | Alok Gupta (resignation; last day 2026-05-31) | Amar Sinha (external; from 2026-06-01) | effective | 2026-05-21 |
+| **Chief Financial Officer (“CFO”) and KMP** | Jayant Manmadkar (moved to another role in the company or group; last day 2026-02-01) | Ramakrishnan Ramaswamy (internal; from 2026-02-02) | effective | 2026-01-29 |
 
 - **Why Alok Gupta is leaving, in the filing's words:** “I would like to step down from the position of Managing Director of the Company with effect from close of business hours of May 31, 2026, before the end of the tenure.”
-- In the documents: “Mr. Alok Gupta (DIN:02330045), Managing Director & KMP of the Company will step down as the Managing Director & KMP of the Company w.e.f. end of Business Hours on May 31, 2026; and Mr. Amar Sinha (DIN: 01488890) was appointed as Managing Director-Designate and Senior Management Personnel of the Company with effect from April 2, 2026, and is now proposed to be appointed as an Additional Director and Managing Director & KMP of the Company with effect from June 1, 2026, for a period of 3 (three) years ending on May 31, 2029 (both days inclusive), subject to the approval of the Members of the Company.” — [2026-05-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185248_Change_in_MD_sd.pdf) · [2026-05-21 Cessation](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185302_Change_in_MD_sd.pdf) · [2026-05-21 Appointment](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185316_Change_in_MD_sd.pdf) · +1 more
-- **Why Jayant Manmadkar is leaving, in the filing's words:** “He will continue to serve the Company and will assume the newly created role of “Group Finance Director” and will remain part of Senior Management Personnel (SMP) of the Company.” Stays on as: Group Finance Director, remaining part of Senior Management Personnel (SMP) of the Company.
-- In the documents: “Relinquishment of Mr. Jayant Manmadkar as CFO and KMP of the Company with effect from close of business hours of February 01, 2026.” — [2026-01-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABDINDIA_29012026190905_SE_Intimation-Change_in_CFO_Press_Release_sd.pdf) · [2026-01-29 Resignation](https://nsearchives.nseindia.com/corporate/ABDINDIA_29012026191104_SE_Intimation-Change_in_CFO_Press_Release_sd.pdf) · [2026-01-29 Appointment](https://nsearchives.nseindia.com/corporate/ABDINDIA_29012026191218_SE_Intimation-Change_in_CFO_Press_Release_sd.pdf) · +1 more
+- In the documents: “Mr. Amar Sinha (DIN: 01488890) was appointed as Managing Director-Designate and Senior Management Personnel of the Company with effect from April 2, 2026, and is now proposed to be appointed as an Additional Director and Managing Director & KMP of the Company with effect from June 1, 2026, for a period of 3 (three) years ending on May 31, 2029 (both days inclusive), subject to the approval of the Members of the Company.” — [2026-05-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185248_Change_in_MD_sd.pdf) · [2026-05-21 Cessation](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185302_Change_in_MD_sd.pdf) · [2026-05-21 Appointment](https://nsearchives.nseindia.com/corporate/ABDINDIA_21052026185316_Change_in_MD_sd.pdf) · +1 more
+- **Why Jayant Manmadkar is leaving, in the filing's words:** “as part of realignment within financial leadership structure to bolster the Group's next phase of growth, entry into the luxury segment via its new division, ABD Maestro Pvt Ltd” Stays on as: Group Finance Director and Senior Management Personnel (SMP).
+- In the documents: “Appointed former CFO, Mr. Ramakrishnan Ramaswamy, to resume the role of Chief Financial Officer and designated as KMP as well as SMP of the Company.” — [2026-01-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABDINDIA_29012026190905_SE_Intimation-Change_in_CFO_Press_Release_sd.pdf) · [2026-01-29 Resignation](https://nsearchives.nseindia.com/corporate/ABDINDIA_29012026191104_SE_Intimation-Change_in_CFO_Press_Release_sd.pdf) · [2026-01-29 Appointment](https://nsearchives.nseindia.com/corporate/ABDINDIA_29012026191218_SE_Intimation-Change_in_CFO_Press_Release_sd.pdf) · +1 more
 
-*All 21 filing(s) read for the seats:* [2026-06-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184028_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-18 Resignation](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184149_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184320_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-18 Change in Management](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184453_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-05 Change in Management](https://nsearchives.nseindia.com/corporate/ABDINDIA_05062026185006_SE_Intimation_-_Stepping_down_-_MD_sd.pdf) · [2026-06-05 Resignation](https://nsearchives.nseindia.com/corporate/ABDINDIA_05062026185156_SE_Intimation_-_Stepping_down_-_MD_sd.pdf) · +15 more
+*All 23 filing(s) read for the seats:* [2026-09-11 Product launch](https://nsearchives.nseindia.com/corporate/ABDINDIA_11092026130023_productlaunch.pdf) · [2026-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABDINDIA_23072026190743_SE_Intimation_-_Outcome_of_Board_Meeting_sd.pdf) · [2026-06-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184028_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-18 Resignation](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184149_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-18 Appointment](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184320_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · [2026-06-18 Change in Management](https://nsearchives.nseindia.com/corporate/ABDINDIA_18062026184453_SE_Intimation_-_Change_in_KMP_-_Monish_sd.pdf) · +17 more
 
 ### 2. Financials — the last three years
 
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Alok Gupta** — Managing Director & KMP of the Company, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Alok Gupta** — Managing Director & KMP, in the seat since at least FY2024 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -58,7 +58,7 @@ The company's results over the part of the tenure the reports on file cover:
 | ROE (%) | 0.5 | 13.2 | +12.7 pts |
 | Borrowings (₹ cr) | 793 | 1,151 | +358 |
 
-**Jayant Manmadkar** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
+**Jayant Manmadkar** — Chief Financial Officer (“CFO”) and KMP, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -74,19 +74,20 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Amar Sinha** — Managing Director & KMP of the Company. from: external; experience: over three decades of leadership experience across the alco-beverage and consumer sectors.
+**Amar Sinha** — Managing Director & KMP. from: external; experience: over three decades of leadership experience across the alco‑beverage and consumer sectors.
 
-The filing's own profile: “Mr. Amar Sinha is a seasoned industry professional with over three decades of leadership experience across the alco-beverage and consumer sectors. Over the course of his career, he has led corporations through phases of transformation and growth while building strong brands and businesses. His leadership journey includes roles as Chief Operating Officer at Radico Khaitan, Managing Director at Whyte & Mackay India and executive positions at Herbertsons (UB Group) and others. He has received several recognitions for leadership excellence, including the Rajeev Gandhi Excellence Award – Most Enterprising CEO of the Year (2015), the Make in India Excellence Award (2016), and Business Leader of the Year at the IndSpirit Awards in 2023.”
+The filing's own profile: “Mr. Amar Sinha is a seasoned industry professional with over three decades of leadership experience across the alco‑beverage and consumer sectors. Over the course of his career, he has led corporations through phases of transformation and growth while building strong brands and businesses. His leadership journey includes roles as Chief Operating Officer at Radico Khaitan, Managing Director at Whyte & Mackay India and executive positions at Herbertsons (UB Group) and others. He has received several recognitions for leadership excellence, including the Rajeev Gandhi Excellence Award – Most Enterprising CEO of the Year (2015), the Make in India Excellence Award (2016), and Business Leader of the Year at the IndSpirit Awards in 2023.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Operating Officer | Radico Khaitan (RADICO) | — | — |
 | Managing Director | Whyte & Mackay India | — | — |
 | executive positions | Herbertsons (UB Group) | — | — |
+| Managing Director – Designate and Senior Management Personnel | Allied Blenders and Distillers Limited (ABDL) | 2026 | 2026 |
 
-**Ramakrishnan Ramaswamy** — Chief Financial Officer (“CFO”). from: internal; experience: over 3 decades of experience; qualifications: Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI).
+**Ramakrishnan Ramaswamy** — Chief Financial Officer (“CFO”) and KMP. from: internal; experience: over 3 decades of experience; qualifications: Bachelor's degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI).
 
-The filing's own profile: “Ramki holds a Bachelor’s degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI). With over 3 decades of experience, he has held the position of Chief Financial Officer since 2003 across multiple organizations, including Allied Blenders from 2010 to 2024, bringing deep institutional knowledge and strategic financial expertise. Post September 2024, in recognition of his significant contribution and institutional knowledge, he was retained in a senior management advisory role.”
+The filing's own profile: “Ramki holds a Bachelor's degree in Commerce from the University of Bombay and is an Associate Member of the Institute of Chartered Accountants of India (ICAI). With over 3 decades of experience, he has held the position of Chief Financial Officer since 2003 across multiple organizations, including Allied Blenders from 2010 to 2024, bringing deep institutional knowledge and strategic financial expertise. Post September 2024, in recognition of his significant contribution and institutional knowledge, he was retained in a senior management advisory role. Prior to joining Allied Blenders and Distillers Limited, Mr. Ramaswamy was the Chief Financial Officer of Jubilant Oil & Gas Private Limited, where he played a key role in financial structuring, capital allocation, enhancing governance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

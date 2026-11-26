@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Executive Director and Chief Financial Officer** | Srividya Srinivasan (moved to another role in the company or group; last day 2026-06-30) | Ashwath Rao (internal; from 2026-07-01) | effective | 2026-05-27 |
+| **Executive Director and Chief Financial Officer / Chief Financial Officer** | Srividya Srinivasan (moved to another role in the company or group; last day 2026-06-30) | Ashwath Rao (internal; from 2026-07-01) | effective | 2026-05-27 |
 
-- **Why Srividya Srinivasan is leaving, in the filing's words:** “Resignation of Ms. Srividya Srinivasan as Executive Director and Chief Financial Officer of the Company due to certain internal moves and transfers planned by the Company.” Stays on as: Senior Management Personnel of the Company, designated as Vice-President Finance, and the Finance Head of the Company.
+- **Why Srividya Srinivasan is leaving, in the filing's words:** “Resignation of Ms. Srividya Srinivasan as Executive Director and Chief Financial Officer of the Company due to certain internal moves and transfers planned by the Company.” Stays on as: Senior Management Personnel of the Company, designated as Vice-President Finance and the Finance Head of the Company.
 - In the documents: “Mr. Ashwath Rao has been appointed as the Chief Financial Officer of the Company with effect from July 1, 2026.” — [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132350_Changeinmanagement.pdf) · [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132539_Changeinmanagement.pdf) · [2026-05-27 Cessation](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132901_Changeinmanagement.pdf) · +1 more
 
 *All 6 filing(s) read for the seats:* [2026-09-25 Resignation](https://nsearchives.nseindia.com/corporate/GILLETTE_25092026154244_SE_Intimation_Change_in_KMP_Signed.pdf) · [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132350_Changeinmanagement.pdf) · [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132539_Changeinmanagement.pdf) · [2026-05-27 Cessation](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026132901_Changeinmanagement.pdf) · [2026-05-27 Appointment](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026133029_Changeinmanagement.pdf) · [2026-05-27 Cessation](https://nsearchives.nseindia.com/corporate/GILLETTE_27052026133542_Changeinmanagement.pdf)
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Srividya Srinivasan** — Executive Director and Chief Financial Officer, date of taking the seat not on file.
+**Srividya Srinivasan** — Executive Director and Chief Financial Officer / Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,14 +57,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Ashwath Rao** — Executive Director and Chief Financial Officer. from: internal; experience: Over the last 16 years with P&G; qualifications: He is an alumnus of SP Jain School of Global Management and holds a B.Tech degree from Veermata Jijabai Technological Institute..
+**Ashwath Rao** — Executive Director and Chief Financial Officer / Chief Financial Officer. from: internal; experience: Over the last 16 years with P&G; qualifications: He is an alumnus of SP Jain School of Global Management and holds a B.Tech degree from Veermata Jijabai Technological Institute..
 
 The filing's own profile: “Ashwath Rao currently leads corporate finance for P&G India legal entities. Over the last 16 years with P&G, he has had a multi-disciplinary experience with diverse roles in finance, along with a varied experience across verticals including Fabric Care and Grooming, and markets spanning India, Dubai and Singapore. Prior to the current role, Aswath was leading finance for P&G India's Fabric Care business. He brings expertise in strategic finance, value creation and stewardship. He is an alumnus of SP Jain School of Global Management and holds a B.Tech degree from Veermata Jijabai Technological Institute.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| leads corporate finance for P&G India legal entities | P&G India | — | — |
-| leading finance for P&G India's Fabric Care business | P&G India | — | — |
+| leads corporate finance | P&G India legal entities | — | — |
+| leading finance for P&G India's Fabric Care business | P&G India (Fabric Care business) | — | — |
 
 ### 5. On the calls
 

@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | K. V. Chalapathi Reddy (retirement; last day 2026-07-31) | Muppasani Bhanu Prakash (from 2026-10-28) | effective | 2026-07-30 |
+| **Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** | K. V. Chalapathi Reddy (retirement; last day 2026-07-31) | Muppasani Bhanu Prakash (internal; from 2026-10-28) | effective | 2026-07-30 |
 
 - **Why K. V. Chalapathi Reddy is leaving, in the filing's words:** “Retirement from the services of the Company upon attaining the age of superannuation / retirement in accordance with the terms of his employment.”
 - In the documents: “Accordingly, with effect from the close of business hours on July 31, 2026, Mr. K. V. Chalapathi Reddy shall cease to be the Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/KSCL_28102026134153_OUTCOME28102026.pdf) · [2026-10-28 Change in Management](https://nsearchives.nseindia.com/corporate/KSCL_28102026141614_CFO_APPOINTMENT.pdf) · [2026-07-30 Retirement](https://nsearchives.nseindia.com/corporate/KSCL_30072026181003_ResignationofCFO.pdf)
@@ -59,9 +59,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Muppasani Bhanu Prakash** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). experience: 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant; qualifications: He is a Chartered Accountant (ACA), a Company Secretary (ACS) and holds a Master of Commerce (M.Com) degree..
+**Muppasani Bhanu Prakash** — Chief Financial Officer (CFO) and Key Managerial Personnel (KMP). from: internal; experience: 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant; qualifications: He is a Chartered Accountant (ACA), a Company Secretary (ACS) and holds a Master of Commerce (M.Com) degree..
 
-The filing's own profile: “Mr. Muppasani Bhanu Prakash is an accomplished finance professional with 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant. He has worked across diverse sectors, including agriculture and seeds, cement, batteries, insurance, manufacturing and services, with professional associations including Kaveri Seed Company Limited, Kalburgi Cement Private Limited (Vicat Group), Amara Raja Batteries Limited and Cholamandalam MS General Insurance. His areas of expertise include strategic financial planning, budgeting, treasury, working capital management, taxation, financial controls, risk management, corporate governance and regulatory compliance.”
+The filing's own profile: “Mr. Muppasani Bhanu Prakash is an accomplished finance professional with 26 years of overall professional experience, including 21 years of post-qualification experience as a Chartered Accountant. He has worked across diverse sectors, including agriculture and seeds, cement, batteries, insurance, manufacturing and services, with professional associations including Kaveri Seed Company Limited, Kalburgi Cement Private Limited (Vicat Group), Amara Raja Batteries Limited and Cholamandalam MS General Insurance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

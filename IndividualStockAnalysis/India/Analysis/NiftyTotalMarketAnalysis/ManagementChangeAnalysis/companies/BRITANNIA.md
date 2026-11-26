@@ -9,11 +9,11 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Chief Executive Officer and Managing Director** | — (new seat) | Rakshit Hargave (external; from 2025-12-15) | effective | 2025-12-15 |
-| **Chief Financial Officer and Key Managerial Personnel** | N. Venkataraman (moved to another role in the company or group; last day 2026-09-30) | Ramamurthy Jayaraman (internal; from 2026-10-01) | effective | 2026-09-29 |
+| **Chief Financial Officer and Key Managerial Personnel of the Company** | N. Venkataraman (moved to another role in the company or group; last day 2026-09-30) | Ramamurthy Jayaraman (internal; from 2026-10-01) | effective | 2026-09-29 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “With reference to the subject cited above and our letter dated 10th November, 2025, wherein it was informed that based on the recommendation of the Nomination and Remuneration Committee, the Board of Directors at their Meeting held on 10th November, 2025, appointed Mr. Rakshit Hargave (DIN: 03406793) as the Chief Executive Officer and Managing Director of the Company for a term of 5 years with effect from the date of his joining the Company on 15th December, 2025, this is to inform that Mr. Rakshit Hargave has assumed the office today as the Chief Executive Officer and Managing Director of the Company.” — [2026-03-15 General Updates](https://nsearchives.nseindia.com/corporate/BRITANNIA1_15032026235414_Intimation_Signed.pdf) · [2026-02-12 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_12022026002614_Intimation_Signed.pdf) · [2026-02-05 Resignation](https://nsearchives.nseindia.com/corporate/BRITANNIA1_05022026213235_Intimation_signed.pdf) · +1 more
-- **Why N. Venkataraman is leaving, in the filing's words:** “Consequently, Mr. N. Venkataraman shall cease to be the Chief Financial Officer of the Company and shall continue as the Whole-Time Director and Key Managerial Personnel of the Company, designated as the Deputy Managing Director” Stays on as: Whole-Time Director and Key Managerial Personnel, designated as the Deputy Managing Director of the Company, responsible for Finance, Strategy, Legal, Secretarial and IT functions, for the balance period of his existing term up to 29 July 2030.
+- **Why N. Venkataraman is leaving, in the filing's words:** “Mr. N. Venkataraman shall cease to be the Chief Financial Officer of the Company and shall continue as the Whole-Time Director and Key Managerial Personnel of the Company, designated as the Deputy Managing Director of the Company with effect from 1 October 2026.” Stays on as: Whole-Time Director and Key Managerial Personnel of the Company, designated as the Deputy Managing Director of the Company (w.e.f. 1 October 2026), responsible for Finance, Strategy, Legal, Secretarial and IT functions.
 - In the documents: “Appointment of Mr. Ramamurthy Jayaraman, Vice President – Corporate Finance, as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from 1 October 2026.” — [2026-09-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_29092026183649_Intimation_signed.pdf) · [2026-09-29 Change in Management](https://nsearchives.nseindia.com/corporate/BRITANNIA1_29092026184311_Intimation_signed.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_31072026223519_SEIntimation_signed.pdf) · +1 more
 
 *All 11 filing(s) read for the seats:* [2026-09-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_29092026183649_Intimation_signed.pdf) · [2026-09-29 Change in Management](https://nsearchives.nseindia.com/corporate/BRITANNIA1_29092026184311_Intimation_signed.pdf) · [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_31072026223519_SEIntimation_signed.pdf) · [2026-07-31 General Updates](https://nsearchives.nseindia.com/corporate/BRITANNIA1_31072026225436_Intimation_signed.pdf) · [2026-07-01 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BRITANNIA1_01072026004715_Intimation_signed.pdf) · [2026-04-17 Change in Management](https://nsearchives.nseindia.com/corporate/BRITANNIA1_17042026122108_Intimation_signed.pdf) · +5 more
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**N. Venkataraman** — Chief Financial Officer and Key Managerial Personnel, date of taking the seat not on file.
+**N. Venkataraman** — Chief Financial Officer and Key Managerial Personnel of the Company, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -85,7 +85,7 @@ Results of **Grasim Industries Ltd.** while they were CEO there (annual reports 
 | ROE (%) | 10.7 | 8.0 | -2.7 pts |
 | Borrowings (₹ cr) | 79,078 | 186,326 | +107,248 |
 
-**Ramamurthy Jayaraman** — Chief Financial Officer and Key Managerial Personnel. from: internal; experience: more than 22 years; qualifications: a qualified Chartered Accountant & Company Secretary.
+**Ramamurthy Jayaraman** — Chief Financial Officer and Key Managerial Personnel of the Company. from: internal; experience: more than 22 years; qualifications: a qualified Chartered Accountant & Company Secretary.
 
 The filing's own profile: “Mr. Ramamurthy Jayaraman is a qualified Chartered Accountant & Company Secretary and has an overall experience of more than 22 years. He has been with the Company for the last 15 years having performed various roles in Finance during his tenure and continues to strengthen financial stewardship across Reporting, Financial planning & analysis, Taxation, Treasury and Shared Services in addition to supervising the Legal & Secretarial affairs of the Company. Prior to joining the Company, he has worked with PwC and Deloitte, where he led audits of listed and unlisted corporates.”
 

@@ -26,16 +26,15 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company** | V. P. Nandakumar (moved to another role in the company or group; last day 2026-12-31) | Ashish Singh (external; from 2027-01-01) | announced, not yet effective | 2026-08-11 |
-| **Chief Executive Officer and Key Managerial Personnel of the Company** | Deepak Reddy (resignation; last day 2026-12-31) | Ashish Singh (external; from 2027-01-01) | announced, not yet effective | 2026-07-03 |
-| **Chief Financial Officer** | Bindu A.L. (moved to another role in the company or group; last day 2026-05-05) | Buvanesh Tharashankar (internal; from 2026-05-05) | effective | 2026-05-05 |
+| **Chief Executive Officer and Key Managerial Personnel of the Company** | Deepak Reddy (resignation; last day 2026-12-31) | — not named | announced, not yet effective | 2026-07-03 |
+| **Chief Financial Officer of the Company** | Bindu A.L. (moved to another role in the company or group; last day 2026-05-05) | Buvanesh Tharashankar (internal; from 2026-05-05) | effective | 2026-05-05 |
 
 - **Why V. P. Nandakumar is leaving, in the filing's words:** “Continuation of Mr. V.P. Nandakumar as Managing Director and Chairperson of the Company up to December 31, 2026, and his redesignation as Non-Executive Chairperson of the Board with effect from January 1, 2027.” Stays on as: Non-Executive Chairperson of the Board with effect from January 1, 2027.
 - In the documents: “Appointment of Mr. Ashish Singh (DIN: 01768711) as the Managing Director & Chief Executive Officer and Key Managerial Personnel of the Company with effect from January 01, 2027, for a period of five years, subject to the approval of the shareholders of the Company.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · +1 more
 - **Why Deepak Reddy is leaving, in the filing's words:** “to pursue other personal and professional interests”
-- In the documents: “Mr. Deepak Reddy has tendered his resignation from the position of Chief Executive Officer and Key Managerial Personnel of the Company, vide his resignation e-mail dated July 03, 2026, to pursue other personal and professional interests.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · +1 more
-- **Why Bindu A.L. is leaving, in the filing's words:** “change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026, pursuant to which she shall cease to be Key Managerial Personnel” Stays on as: Head, Finance Center of Excellence and AI.
-- In the documents: “Mr. Buvanesh Tharashankar with effect from May 5, 2026 will be the Chief Financial Officer of the Company and will continue as the Group Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · [2026-05-05 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026105428_Reg30final.pdf)
-  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
+- In the documents: “Pursuant to Regulation 30 of the Listing Regulations, we hereby inform that Mr. Deepak Reddy has tendered his resignation from the position of Chief Executive Officer and Key Managerial Personnel of the Company, vide his resignation e-mail dated July 03, 2026, to pursue other personal and professional interests.” — [2026-07-03 Resignation](https://nsearchives.nseindia.com/corporate/MANAPPURAM_03072026172226_Reg30CEOResignationfinal.pdf)
+- **Why Bindu A.L. is leaving, in the filing's words:** “change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026” Stays on as: Head, Finance Center of Excellence and AI (ceases to be Key Managerial Personnel).
+- In the documents: “Approved the change in the designation of Mrs. Bindu A.L, from Chief Financial Officer to Head, Finance Center of Excellence and AI, with effect from May 5, 2026, pursuant to which she shall cease to be Key Managerial Personnel of the Company, and Mr. Buvanesh Tharashankar with effect from May 5, 2026 will be the Chief Financial Officer of the Company and will continue as the Group Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-05-05 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104526_Reg30final.pdf) · [2026-05-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026104934_Reg30final.pdf) · [2026-05-05 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_05052026105428_Reg30final.pdf)
 
 *All 13 filing(s) read for the seats:* [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026163609_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175305_OUTCOMEFINALsigned.pdf) · [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026175810_OUTCOMEFINALsigned.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026181627_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Director(s)](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026182243_OUTCOMEFINALsigned.pdf) · [2026-08-11 Change in Management](https://nsearchives.nseindia.com/corporate/MANAPPURAM_11082026183026_OUTCOMEFINALsigned.pdf) · +7 more
 
@@ -87,7 +86,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 | Financing profit margin (%) | 38.6 | 16.4 | -22.2 pts |
 | ROE (%) | 23.6 | 6.2 | -17.4 pts |
 
-**Bindu A.L.** — Chief Financial Officer, date of taking the seat not on file.
+**Bindu A.L.** — Chief Financial Officer of the Company, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -116,21 +115,11 @@ The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 
 | senior positions | Fullerton India | — | — |
 | senior positions | ICICI Bank (ICICIBANK) | — | — |
 
-**Ashish Singh** — Chief Executive Officer and Key Managerial Personnel of the Company. from: external; experience: over 25 years of experience in the retail banking space.
-
-The filing's own profile: “Mr. Ashish Singh is a seasoned banker with over 25 years of experience in the retail banking space, with particular focus on rural lending businesses and retail liabilities. In his latest stint, he has been Head of Retail Liabilities at IDFC FIRST Bank. Previously, he was leading the Bank's Bharat Banking business, overseeing their entire asset product portfolio and branch network. He has also held senior positions at Fullerton India and ICICI Bank, with significant contributions to rural banking, product innovation, and financial inclusion.”
+**Buvanesh Tharashankar** — Chief Financial Officer of the Company. from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Head of Retail Liabilities | IDFC FIRST Bank (IDFCFIRSTB) | — | — |
-| senior positions | Fullerton India | — | — |
-| senior positions | ICICI Bank (ICICIBANK) | — | — |
-
-**Buvanesh Tharashankar** — Chief Financial Officer. from: internal.
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Group Chief Financial Officer and Key Managerial Personnel (which he will continue as) | Manappuram Finance Limited (MANAPPURAM) | — | — |
+| Group Chief Financial Officer | Manappuram Finance Limited (MANAPPURAM) | — | — |
 
 ### 5. On the calls
 

@@ -25,10 +25,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Whole Time Director, Chief Financial Officer and Key Managerial Personnel** | Rachid Ayari (moved to another role in the company or group; last day 2026-09-30) | — not named | seat vacant — no successor named | 2026-07-23 |
+| **Whole Time Director, Chief Financial Officer** | Rachid Ayari (moved to another role in the company or group; last day 2026-09-30) | — not named | seat vacant — no successor named | 2026-07-23 |
 
-- **Why Rachid Ayari is leaving, in the filing's words:** “in view of his transition to another role within the Sanofi group” Stays on as: another role within the Sanofi group.
-- In the documents: “Mr. Rachid Ayari (DIN: 10408699) vide his letter dated 22nd July 2026, had conveyed his decision to step down from his current role as the Whole Time Director, Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours on 30th September 2026, in view of his transition to another role within the Sanofi group.” — [2026-07-23 Change in Director(s)](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026102750_BSENSEUPLOAD.pdf) · [2026-07-23 Change in Management](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026103031_BSENSEUPLOAD.pdf) · [2026-07-23 Resignation](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026103446_BSENSEUPLOAD.pdf) · +1 more
+- **Why Rachid Ayari is leaving, in the filing's words:** “in view of his transition to another role within the Sanofi group” Stays on as: another role within the Sanofi group (role not specified).
+- In the documents: “Pursuant to Regulation 30 of the Listing Regulations, we would like to inform you that Mr. Rachid Ayari (DIN: 10408699) vide his letter dated 22nd July 2026, had conveyed his decision to step down from his current role as the Whole Time Director, Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours on 30th September 2026, in view of his transition to another role within the Sanofi group.” — [2026-07-23 Change in Director(s)](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026102750_BSENSEUPLOAD.pdf) · [2026-07-23 Change in Management](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026103031_BSENSEUPLOAD.pdf) · [2026-07-23 Resignation](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026103446_BSENSEUPLOAD.pdf) · +1 more
 
 *All 10 filing(s) read for the seats:* [2026-08-04 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/COSECSANOFI_04082026201957_BSENSEUPLOAD.pdf) · [2026-08-04 Press Release](https://nsearchives.nseindia.in/corporate/COSECSANOFI_04082026202400_BSENSEUPLOAD.pdf) · [2026-08-04 General Updates](https://nsearchives.nseindia.in/corporate/COSECSANOFI_04082026202801_BSENSEUPLOAD.pdf) · [2026-08-04 General Updates](https://nsearchives.nseindia.in/corporate/COSECSANOFI_04082026203115_BSENSEUPLOAD.pdf) · [2026-07-23 Change in Director(s)](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026102750_BSENSEUPLOAD.pdf) · [2026-07-23 Change in Management](https://nsearchives.nseindia.in/corporate/COSECSANOFI_23072026103031_BSENSEUPLOAD.pdf) · +4 more
 
@@ -42,7 +42,7 @@ No statements on file for this company.
 
 **Hoechst GmbH** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 60.38% → 45.18%.
 
-**Rachid Ayari** — Whole Time Director, Chief Financial Officer and Key Managerial Personnel, date of taking the seat not on file.
+**Rachid Ayari** — Whole Time Director, Chief Financial Officer, date of taking the seat not on file.
 
 *No tenure record: no statements on file.*
 

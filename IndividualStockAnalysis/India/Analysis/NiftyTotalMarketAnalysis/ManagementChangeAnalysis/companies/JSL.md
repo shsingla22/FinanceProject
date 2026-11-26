@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (“CFO”)** | Tarun Kumar Khulbe (resignation; last day 2026-06-25) | Kunjal Mehta (external; from 2026-06-25) | effective | 2026-06-25 |
+| **Chief Financial Officer ("CFO")** | Tarun Kumar Khulbe (interim holder replaced; last day 2026-06-25) | Kunjal Mehta (external; from 2026-06-25) | effective | 2026-06-25 |
 
-- **Why Tarun Kumar Khulbe is leaving, in the filing's words:** “Pursuant to the appointment of Mr. Kunjal Mehta as the CFO of the Company, Mr. Khulbe has relinquished the additional responsibility of CFO with effect from June 25, 2026 while continuing in his position as CEO & Whole-time Director of the Company” Stays on as: CEO & Whole-time Director of the Company.
-- In the documents: “Mr. Kunjal Mehta has been appointed as Chief Financial Officer (“CFO”) of the Company w.e.f June 25, 2026.” — [2026-06-25 Appointment](https://nsearchives.nseindia.com/corporate/JSL_25062026140709_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Cessation](https://nsearchives.nseindia.com/corporate/JSL_25062026140927_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/JSL_25062026141155_StockExchangeIntimation25062026sd.pdf) · +1 more
+- **Why Tarun Kumar Khulbe is leaving, in the filing's words:** “Pursuant to the appointment of Mr. Kunjal Mehta as the CFO of the Company, Mr. Khulbe has relinquished the additional responsibility of CFO with effect from June 25, 2026” Stays on as: CEO & Whole-time Director of the Company.
+- In the documents: “Mr. Kunjal Mehta has been appointed as Chief Financial Officer ("CFO") of the Company w.e.f June 25, 2026.” — [2026-06-25 Appointment](https://nsearchives.nseindia.com/corporate/JSL_25062026140709_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Cessation](https://nsearchives.nseindia.com/corporate/JSL_25062026140927_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/JSL_25062026141155_StockExchangeIntimation25062026sd.pdf) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-09-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/JSL_02092026161452_StockExchangeIntimationAGMProceedingsd.pdf) · [2026-06-25 Appointment](https://nsearchives.nseindia.com/corporate/JSL_25062026140709_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Cessation](https://nsearchives.nseindia.com/corporate/JSL_25062026140927_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Resignation](https://nsearchives.nseindia.com/corporate/JSL_25062026141155_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Diversification/Disinvestment](https://nsearchives.nseindia.com/corporate/JSL_25062026141452_StockExchangeIntimation25062026sd.pdf) · [2026-06-25 Sale or disposal](https://nsearchives.nseindia.com/corporate/JSL_25062026141617_StockExchangeIntimation25062026sd.pdf) · +2 more
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Tarun Kumar Khulbe** — Chief Financial Officer (“CFO”), in the seat since FY2026 per the filing.
+**Tarun Kumar Khulbe** — Chief Financial Officer ("CFO"), in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -57,7 +57,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Kunjal Mehta** — Chief Financial Officer (“CFO”). from: external; experience: over 25 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
+**Kunjal Mehta** — Chief Financial Officer ("CFO"). from: external; experience: over 25 years; qualifications: a qualified Chartered Accountant and Cost Accountant.
 
 The filing's own profile: “Mr. Kunjal Mehta is a qualified Chartered Accountant and Cost Accountant with over 25 years of rich and diversified experience across sectors including power, steel, ports & logistics, technology and ITES. Prior to joining Jindal Stainless Limited, he was associated with Adani Energy Solutions Limited as Chief Financial Officer. Over the course of his professional career, he has also worked with Adani Electricity Mumbai Limited, Adani Ports & Special Economic Zone Limited and Essar Steel India Limited.”
 

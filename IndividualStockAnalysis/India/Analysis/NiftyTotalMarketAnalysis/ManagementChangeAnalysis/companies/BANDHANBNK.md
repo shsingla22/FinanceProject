@@ -21,10 +21,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') / (Interim) Chief Financial Officer ('CFO')** | Rajeev Mantri (resignation; last day 2026-09-25) | Vinay Jain (interim; internal; from 2026-09-26) | effective | 2026-06-29 |
+| **Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP')** | Rajeev Mantri (resignation; last day 2026-09-25) | Vinay Jain (interim; internal; from 2026-09-26) | effective | 2026-06-29 |
 
 - **Why Rajeev Mantri is leaving, in the filing's words:** “to pursue another opportunity from career growth perspective”
-- In the documents: “Pursuant to the provisions of Regulation 30 and other applicable provisions, if any, of the SEBI LODR, Bandhan Bank Limited ('Bank') would like to inform that Mr. Rajeev Mantri, Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'), has tendered his resignation vide letter dated June 29, 2026 (copy enclosed), to pursue another opportunity from career growth perspective.” — [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/BANDHANBNK_25092026205326_SE_Disclosure_Reg30_Authorisation_Update_25092026_sd.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BANDHANBNK_21072026161339_SE_Disclosure_BM_Outcome_UFR_PressRelease_SMP_AGM_210726.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/BANDHANBNK_29062026174757_SE_Disclosure_Change_in_KMP_resignation_29062026_sd.pdf) · +1 more
+- In the documents: “Pursuant to the provisions of Regulation 30 and other applicable provisions, if any, of the SEBI LODR, Bandhan Bank Limited (‘Bank’) would like to inform that Mr. Rajeev Mantri, Chief Financial Officer (‘CFO’) and Key Managerial Personnel (‘KMP’), has tendered his resignation vide letter dated June 29, 2026 (copy enclosed), to pursue another opportunity from career growth perspective.” — [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/BANDHANBNK_25092026205326_SE_Disclosure_Reg30_Authorisation_Update_25092026_sd.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BANDHANBNK_21072026161339_SE_Disclosure_BM_Outcome_UFR_PressRelease_SMP_AGM_210726.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/BANDHANBNK_29062026174757_SE_Disclosure_Change_in_KMP_resignation_29062026_sd.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/BANDHANBNK_25092026205326_SE_Disclosure_Reg30_Authorisation_Update_25092026_sd.pdf) · [2026-07-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BANDHANBNK_21072026161339_SE_Disclosure_BM_Outcome_UFR_PressRelease_SMP_AGM_210726.pdf) · [2026-06-29 Change in Management](https://nsearchives.nseindia.com/corporate/BANDHANBNK_29062026174757_SE_Disclosure_Change_in_KMP_resignation_29062026_sd.pdf) · [2026-06-29 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BANDHANBNK_ROID_90639_KMP_Doc.zip)
 
@@ -52,7 +52,7 @@
 
 **Bandhan Financial Holdings Limited** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 39.99% → 37.93%.
 
-**Rajeev Mantri** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') / (Interim) Chief Financial Officer ('CFO'), date of taking the seat not on file.
+**Rajeev Mantri** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP'), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -66,13 +66,13 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Vinay Jain** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') / (Interim) Chief Financial Officer ('CFO') (interim). from: internal; experience: over two decades of experience; qualifications: a Chartered Accountant and commerce graduate.
+**Vinay Jain** — Chief Financial Officer ('CFO') and Key Managerial Personnel ('KMP') (interim). from: internal; experience: over two decades of experience; qualifications: a Chartered Accountant and commerce graduate.
 
 The filing's own profile: “Mr. Vinay Jain, a Chartered Accountant and commerce graduate, is an accomplished finance and banking professional with over two decades of experience across leading global and domestic financial institutions. As Head -Finance & Accounts, since his joining Bandhan Bank in March 2025, he plays a pivotal role in driving financial planning, performance management, strategic business analysis, and value creation initiatives for the Bank. Mr. Jain has held senior leadership positions with organizations, such as, DBS Bank, Citibank, and ICICI Bank, with extensive exposure across India and international markets, including Singapore. Throughout his career, he has demonstrated expertise in business finance, planning and analysis, portfolio management, and strategic decision-making.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Head - Finance & Accounts | Bandhan Bank (BANDHANBNK) | 2025 | — |
+| Head - Finance & Accounts | Bandhan Bank (BANDHANBNK) | 2025 | 2026 |
 | senior leadership positions | DBS Bank | — | — |
 | senior leadership positions | Citibank | — | — |
 | senior leadership positions | ICICI Bank (ICICIBANK) | — | — |

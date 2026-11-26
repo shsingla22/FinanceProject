@@ -8,12 +8,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **interim Chief Financial Officer and Key Managerial Personnel** | — (new seat) | Manish Mattoo (interim; internal; from 2025-12-01) | effective | 2025-12-01 |
-| **Chief Financial Officer and Key Managerial Personnel** | Manish Mattoo (interim holder replaced; last day 2026-05-25) | Sanjeev Kumar (external; from 2026-05-25) | effective | 2026-05-19 |
+| **interim Chief Financial Officer and Key Managerial Personnel of the Company** | — (new seat) | Manish Mattoo (interim; internal; from 2025-12-01) | effective | 2025-12-01 |
+| **Chief Financial Officer and Key Managerial Personnel of the Company** | Manish Mattoo (interim holder replaced; last day 2026-05-25) | Sanjeev Kumar (external; from 2026-05-25) | effective | 2026-05-19 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “Pursuant to Regulation 30 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that, based on the recommendation of the Audit Committee and the Nomination and Remuneration Committee, the Board of Directors of the Company, at its meeting held on December 01, 2025, has approved the appointment of Dr. Manish Mattoo, Executive Director and Chief Executive Officer, as the interim Chief Financial Officer and Key Managerial Personnel of the Company in accordance with Section 203 of the Companies Act, 2013.” — [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
-- **Why Manish Mattoo is leaving, in the filing's words:** “Dr Manish Mattoo has stepped down from the office of Interim Chief Financial Officer of the Company with effect from May 25, 2026.” Stays on as: Executive Director and Chief Executive Officer of the Company.
+- **Why Manish Mattoo is leaving, in the filing's words:** “Dr. Manish Mattoo, Executive Director and Chief Executive Officer of the Company, has relinquished the additional charge of Interim Chief Financial Officer of the Company with effect from May 25, 2026.” Stays on as: Executive Director and Chief Executive Officer of the Company.
 - In the documents: “Based on the recommendation of the NRC and approval of the Audit Committee, the Board has approved the appointment of Mr. Sanjeev Kumar as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from commencement of business hours on May 25, 2026.” — [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-05-25 Cessation](https://nsearchives.nseindia.com/corporate/HCG2_25052026164354_SE_Intimation-_Resignation_of_Interim_CFO.pdf) · [2026-05-25 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/HCG_ROID_88294_KMP_Doc.zip) · [2026-05-19 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCG1_19052026224323_Outcome_of_BM_19_May_2026.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232528_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232543_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · [2026-05-19 Appointment](https://nsearchives.nseindia.com/corporate/HCG1_19052026232557_HCG_Regulation_30_Change_in_Director_KMP_and_SMP.pdf) · +2 more
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Manish Mattoo** — Chief Financial Officer and Key Managerial Personnel, in the seat since FY2026 per the filing.
+**Manish Mattoo** — Chief Financial Officer and Key Managerial Personnel of the Company, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -60,20 +60,20 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Manish Mattoo** — interim Chief Financial Officer and Key Managerial Personnel (interim). from: internal; experience: over two decades of multifaceted experience; qualifications: Dr. Manish is a distinguished alumnus of the Indian School of Business (ISB), holding an MBA with a dual major in Finance and Strategy & Leadership. He earned his MBBS and MD in Anaesthesiology from BJ Medical College, Ahmedabad.
+**Manish Mattoo** — interim Chief Financial Officer and Key Managerial Personnel of the Company (interim). from: internal; experience: over two decades; qualifications: Dr. Manish is a distinguished alumnus of the Indian School of Business (ISB), holding an MBA with a dual major in Finance and Strategy & Leadership. He earned his MBBS and MD in Anaesthesiology from BJ Medical College, Ahmedabad, solidifying his foundation in both clinical and management disciplines. Dr. Manish has also completed a certificate course in Internal Audit from the Institute of Internal Auditors..
 
-The filing's own profile: “Dr. Manish Mattoo is a seasoned healthcare business leader with over two decades of multifaceted experience. He has combined his clinical knowledge and business acumen to excel in healthcare management. His repertoire includes driving growth in mature hospital systems, creating competitive advantage in complex markets, successfully managing physician practices, revitalizing underperforming hospitals, optimizing supply chains, pioneering healthcare IT solutions, and much more.”
+The filing's own profile: “Dr. Manish Mattoo is a seasoned healthcare business leader with over two decades of multifaceted experience. He has combined his clinical knowledge and business acumen to excel in healthcare management. His repertoire includes driving growth in mature hospital systems, creating competitive advantage in complex markets, successfully managing physician practices, revitalizing underperforming hospitals, optimizing supply chains, pioneering healthcare IT solutions, and much more. In his previous role he worked as Regional Chief Executive Officer at Apollo Hospitals, Karnataka & Central Region.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| Executive Director and Chief Executive Officer | HealthCare Global Enterprises Limited (HCG) | — | — |
 | Regional Chief Executive Officer | Apollo Hospitals, Karnataka & Central Region | — | — |
 | Vice-President | Fortis Healthcare (FORTIS) | — | — |
 | leadership roles | Medtronic | — | — |
 | leadership roles | Monitor Group | — | — |
-| clinician | PGI, Chandigarh | — | — |
-| clinician | Civil Hospital, Ahmedabad | — | — |
+| clinician | PGI, Chandigarh and Civil Hospital, Ahmedabad | — | — |
 
-**Sanjeev Kumar** — Chief Financial Officer and Key Managerial Personnel. from: external; experience: over 30 years of experience spanning telecom, travel and aviation, hospitality, and healthcare; qualifications: An alumnus of Shri Ram College of Commerce, University of Delhi, Sanjeev is also a Chartered Accountant and a Company Secretary. He recently completed one year Fellow program at Harvard University, USA..
+**Sanjeev Kumar** — Chief Financial Officer and Key Managerial Personnel of the Company. from: external; experience: over 30 years; qualifications: He recently completed one year Fellow program at Harvard University, USA. An alumnus of Shri Ram College of Commerce, University of Delhi, Sanjeev is also a Chartered Accountant and a Company Secretary..
 
 The filing's own profile: “Mr. Sanjeev Kumar is an accomplished senior leader with over 30 years of experience spanning telecom, travel and aviation, hospitality, and healthcare. He has a strong track record of working with growing organisations and driving transformation and delivering sustainable growth. With over three decades of experience in finance, Sanjeev has held key leadership roles at Bharti Airtel Limited and subsequently served as Group CFO at InterGlobe Enterprises and at Medanta – The Medicity. At Medanta, he was instrumental in leading the successful IPO of Global Health Ltd. and driving strategic and financial transformation initiatives.”
 

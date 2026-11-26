@@ -9,14 +9,14 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer** | Sachinderpalsingh Jitendrasingh Bhinder (resignation; last day 2026-04-20) | Manu Yeshpal Singh (external; from 2026-04-21) | effective | 2026-04-20 |
-| **President and Chief Financial Officer** | Ghanshyam Rawat (resignation; last day 2026-09-21) | Ghanshyam Gupta (interim; internal; from 2026-06-22) | effective | 2026-06-21 |
+| **President and Chief Financial Officer / Interim Chief Financial Officer** | Ghanshyam Rawat (resignation; last day 2026-09-21) | Ghanshyam Gupta (interim; internal; from 2026-06-22) | effective | 2026-06-21 |
 
-- **Why Sachinderpalsingh Jitendrasingh Bhinder is leaving, in the filing's words:** “Mr. Sachinderpalsingh Jitendrasingh Bhinder has resigned from the position of Managing Director & Chief Executive Officer of the Company with effect from close of business hours of April 20, 2026 due to professional and personal commitments.” Stays on as: senior advisor to the Company to provide continuity and support as may be required.
+- **Why Sachinderpalsingh Jitendrasingh Bhinder is leaving, in the filing's words:** “Mr. Sachinderpalsingh Jitendrasingh Bhinder has resigned from the position of Managing Director & Chief Executive Officer of the Company with effect from close of business hours of April 20, 2026 due to professional and personal commitments.” Stays on as: senior advisor to the Company.
 - In the documents: “Approved the appointment of Mr. Manu Yeshpal Singh as the Managing Director (subject to receipt of approval from the Reserve Bank of India and approval of the shareholders of the Company) & Chief Executive Officer of the Company, with effect from April 21, 2026.” — [2026-04-20 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AAVAS_20042026084639_Finaloutcome.pdf) · [2026-04-20 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AAVAS_20042026085253_Finaloutcome.pdf) · [2026-04-20 Press Release](https://nsearchives.nseindia.com/corporate/AAVAS_20042026100944_Release.pdf) · +1 more
-- **Why Ghanshyam Rawat is leaving, in the filing's words:** “After consideration of my personal and professional commitments, I, Mr. Ghanshyam Rawat, would like to transition from my current role as the President and Chief Financial Officer of Aavas Financiers Limited”
-- In the documents: “Taken note of, and accepted, the Resignation of Mr. Ghanshyam Rawat, President and Chief Financial Officer and Mr. Ashutosh Atre, President and Chief Risk Officer from their respective positions, with effect from September 21,2026.” — [2026-09-16 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AAVAS_16092026191850_AGM_Proceedings.pdf) · [2026-09-16 Updates](https://nsearchives.nseindia.com/corporate/AAVAS_16092026193127_AGM_Proceedings.pdf) · [2026-06-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AAVAS_21062026154715_Intimation.pdf) · +1 more
+- **Why Ghanshyam Rawat is leaving, in the filing's words:** “Due to Personal and Professional Commitments”
+- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee, approved the appointment of Mr. Ghanshyam Gupta as the Interim Chief Financial Officer, Key Managerial Personnel (“KMP”) of the Company, with effect from June 22, 2026.” — [2026-09-16 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AAVAS_16092026191850_AGM_Proceedings.pdf) · [2026-06-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AAVAS_21062026154715_Intimation.pdf) · [2026-06-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AAVAS_ROID_90196_KMP_Doc.zip) · +1 more
 
-*All 17 filing(s) read for the seats:* [2026-09-19 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AAVAS_ROID_98628_KMP_Doc.zip) · [2026-09-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AAVAS_18092026185744_Outcome.pdf) · [2026-09-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AAVAS_18092026190823_Outcome.pdf) · [2026-09-18 General Updates](https://nsearchives.nseindia.com/corporate/AAVAS_18092026193710_Regulation_30.pdf) · [2026-09-17 Change in Management](https://nsearchives.nseindia.com/corporate/AAVAS_17092026191719_Regulation_30_and_51-_Material_Events.pdf) · [2026-09-17 General Updates](https://nsearchives.nseindia.com/corporate/AAVAS_17092026193354_Intimation.pdf) · +11 more
+*All 22 filing(s) read for the seats:* [2026-11-01 General Updates](https://nsearchives.nseindia.com/corporate/AAVAS_01112026173913_SignedPR.pdf) · [2026-10-26 Change in Director(s)](https://nsearchives.nseindia.com/corporate/AAVAS_26102026182114_OutcomeotherFR.pdf) · [2026-10-26 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AAVAS_26102026182525_OutcomeotherFR.pdf) · [2026-10-26 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AAVAS_ROID_101730_KMP_Doc.zip) · [2026-09-19 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AAVAS_ROID_98628_KMP_Doc.zip) · [2026-09-18 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/AAVAS_18092026185744_Outcome.pdf) · +16 more
 
 ### 2. Financials — the last three years
 
@@ -52,7 +52,7 @@ The company's results while they held the seat (the year before they took it, to
 | Financing profit margin (%) | 36.4 | 32.5 | -3.9 pts |
 | ROE (%) | 12.6 | 13.0 | +0.4 pts |
 
-**Ghanshyam Rawat** — President and Chief Financial Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Ghanshyam Rawat** — President and Chief Financial Officer / Interim Chief Financial Officer, in the seat since at least FY2021 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -78,7 +78,7 @@ The filing's own profile: “Mr. Manu Yeshpal Singh is an accomplished business 
 | AGM, managing product and inventory funding for two-wheeler loans | ICICI Bank (ICICIBANK) | — | — |
 | — | Tata Motors (TMCV) | — | — |
 
-**Ghanshyam Gupta** — President and Chief Financial Officer (interim). from: internal; experience: 18+ years of experience, including 9+ years at Aavas; qualifications: qualified Chartered Accountant.
+**Ghanshyam Gupta** — President and Chief Financial Officer / Interim Chief Financial Officer (interim). from: internal; experience: 18+ years of experience, including 9+ years at Aavas; qualifications: qualified Chartered Accountant.
 
 The filing's own profile: “Mr. Ghanshyam Gupta is a qualified Chartered Accountant with 18+ years of experience, including 9+ years at Aavas. Expertise in financial planning & strategy, budgeting, MIS, investor relations, and business growth initiatives. Strategic partner to leadership, driving profitability and performance improvement. He has been associated with Aavas, since 2017. Prior to Aavas he was associated with Vaibhav Global, Tata Technologies Limited and Capgemini India Private Limited.”
 

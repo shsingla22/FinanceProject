@@ -45,7 +45,7 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Sanjay Banga** — CEO and Managing Director. from: internal; experience: more than three decades of experience; qualifications: Mr. Banga is an alumnus of the National Institute of Technology, Kurukshetra, and holds a Master of Business Administration degree from the Faculty of Management Studies, University of Delhi. He has also completed the Senior Executive Leadership Program at Harvard Business School and holds alumni status..
+**Sanjay Banga** — CEO and Managing Director. from: internal; experience: more than three decades of experience; qualifications: alumnus of the National Institute of Technology, Kurukshetra, and holds a Master of Business Administration degree from the Faculty of Management Studies, University of Delhi. He has also completed the Senior Executive Leadership Program at Harvard Business School and holds alumni status..
 
 The filing's own profile: “Mr. Sanjay Banga is the Chief Executive Officer and Managing Director of Tata Power Renewable Energy Limited and currently holds the position of President – Renewables of The Tata Power Company Limited ("Tata Power"). Mr. Banga previously served as President of the Transmission and Distribution businesses. His responsibilities included the performance of distribution companies across Odisha, Mumbai, Delhi and Ajmer; the Mumbai transmission business; Powerlinks Transmission Limited; and transmission assets in Uttar Pradesh. Mr. Banga also served as the Chief Executive Officer of Tata Power Delhi Distribution Limited (TPDDL), a notable Public-Private Partnership (JV) between Tata Power and the Government of the National Capital Territory of Delhi.”
 
@@ -55,7 +55,7 @@ The filing's own profile: “Mr. Sanjay Banga is the Chief Executive Officer and
 | President – Renewables | The Tata Power Company Limited | — | — |
 | President of the Transmission and Distribution businesses | The Tata Power Company Limited | — | — |
 | Chief Executive Officer | Tata Power Delhi Distribution Limited (TPDDL) | 2003 | — |
-| responsibilities covering operations, maintenance, planning, design and project engineering for thermal power projects | Reliance Energy (formerly BSES Limited) | 1996 | 2003 |
+| operations, maintenance, planning, design and project engineering for thermal power projects | Reliance Energy (formerly BSES Limited) | 1996 | 2003 |
 | Engineer Trainee | National Thermal Power Corporation Limited (NTPC) | 1989 | 1995 |
 
 ### 5. On the calls

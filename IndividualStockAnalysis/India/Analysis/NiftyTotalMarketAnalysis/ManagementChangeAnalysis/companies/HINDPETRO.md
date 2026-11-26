@@ -9,15 +9,18 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Director – Finance and CFO** | Rajneesh Narang (retirement; last day 2026-05-31) | K Vinod (internal; from 2026-06-01) | effective | 2026-06-01 |
+| **Director - Human Resources & Additional Charge of Director – Finance** | Rajneesh Narang (retirement; last day 2026-05-31) | K S Shetty (interim; internal; from 2026-06-01) | effective | 2026-06-01 |
 | **Director – Finance** | K S Shetty (interim holder replaced; last day 2026-06-24) | Srividya Venkataraman (government appointee; from 2026-06-24) | effective | 2026-06-24 |
-| **Key Managerial Personnel and Chief Financial Officer (CFO)** | K Vinod | Srividya Venkataraman (internal; from 2026-07-07) | effective | 2026-07-07 |
+| **Key Managerial Personnel and Chief Financial Officer (CFO)** | K Vinod (interim holder replaced; last day 2026-07-07) | Srividya Venkataraman (internal; from 2026-07-07) | effective | 2026-07-07 |
 
 - **Why Rajneesh Narang is leaving, in the filing's words:** “has superannuated from the services on May 31, 2026 and hence ceased to be a Director & CFO with effect from June 01, 2026”
 - In the documents: “Consequent to superannuation of Shri Rajneesh Narang, Director – Finance and CFO, from the services of the Corporation, Shri K Vinod, Executive Director - Corporate Finance & Additional Charge of Treasury of the Company has been appointed as CFO with effect from June 01, 2026.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
+- **Why Rajneesh Narang is leaving, in the filing's words:** “has superannuated from the services on May 31, 2026 and hence ceased to be a Director & CFO with effect from June 01, 2026”
+- In the documents: “Accordingly, Shri K S Shetty has assumed the additional charge of the post of Director – Finance effective June 01, 2026.” — [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
 - **Why K S Shetty is leaving, in the filing's words:** “Consequently, the additional charge of Director – Finance entrusted to Shri K S Shetty, Director - Human Resources has concluded.” Stays on as: Director - Human Resources.
 - In the documents: “Smt. Srividya Venkataraman (DIN: 09548415) has been appointed on the Board of Hindustan Petroleum Corporation Limited as Director – Finance & she has assumed the charge as Director – Finance effective today.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
-- **Why K Vinod is leaving, in the filing's words:** “not stated” Stays on as: Executive Director - Corporate Finance & Additional Charge of Treasury.
-- In the documents: “we wish to inform that the Board at its Meeting held today has appointed Smt. Srividya Venkataraman, Director – Finance of the Company as Key Managerial Personnel and Chief Financial Officer (CFO) effective July 07, 2026.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
+- **Why K Vinod is leaving, in the filing's words:** “She has been appointed as CFO in place of Shri. K Vinod, Executive Director - Corporate Finance & Additional Charge of Treasury.” Stays on as: Executive Director - Corporate Finance & Additional Charge of Treasury.
+- In the documents: “the Board at its Meeting held today has appointed Smt. Srividya Venkataraman, Director – Finance of the Company as Key Managerial Personnel and Chief Financial Officer (CFO) effective July 07, 2026.” — [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-07-07 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_07072026112714_SE_Appointment_of_CFO.pdf) · [2026-06-24 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_24062026112102_S_Venkataraman_Signed.pdf) · [2026-06-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026104121_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Change in Management](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026110053_SE_-_Change_in_directorate_and_CFO.pdf) · [2026-06-01 Appointment](https://nsearchives.nseindia.com/corporate/HINDPETRO1_01062026111526_SE_-_Change_in_directorate_and_CFO.pdf)
 
@@ -61,6 +64,20 @@ When they took the seat is not in the documents or annual reports on file, so no
 | ROE (%) | 28.0 | 27.5 | -0.5 pts |
 | Borrowings (₹ cr) | 43,709 | 55,964 | +12,255 |
 
+**Rajneesh Narang** — Director - Human Resources & Additional Charge of Director – Finance, date of taking the seat not on file.
+
+When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
+
+| Mar 2021 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 233,248 | 441,771 | +13.6% a year over 5 years |
+| Operating profit (₹ cr) | 16,055 | 30,633 | +13.8% a year over 5 years |
+| PAT (₹ cr) | 10,663 | 18,047 | +11.1% a year over 5 years |
+| Operating profit margin (%) | 6.9 | 6.9 | +0.0 pts |
+| ROCE (%) | 19.0 | 22.0 | +3.0 pts |
+| ROE (%) | 28.0 | 27.5 | -0.5 pts |
+| Borrowings (₹ cr) | 43,709 | 55,964 | +12,255 |
+
 **K S Shetty** — Director – Finance, in the seat since FY2027 per the filing.
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
@@ -79,6 +96,12 @@ The filing's own profile: “Shri K Vinod is a Chartered Accountant and has held
 |---|---|---|---|
 | Executive Director - Corporate Finance & Additional Charge of Treasury | Hindustan Petroleum Corporation Limited (HINDPETRO) | — | — |
 | CFO | Hindustan Petroleum Corporation Limited (HINDPETRO) | 2024 | 2025 |
+
+**K S Shetty** — Director - Human Resources & Additional Charge of Director – Finance (interim). from: internal.
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Director - Human Resources | Hindustan Petroleum Corporation Limited (HINDPETRO) | — | — |
 
 **Srividya Venkataraman** — Director – Finance. from: government appointee; experience: over three decades; qualifications: A Chartered Accountant and Cost & Works Accountant.
 
@@ -100,7 +123,6 @@ The filing's own profile: “Ms. Srividya Venkataraman is a distinguished financ
 |---|---|---|---|
 | Director – Finance | Hindustan Petroleum Corporation Limited (HINDPETRO) | 2026 | — |
 | Executive Director - Corporate Treasury | Bharat Petroleum Corporation Limited (BPCL) | — | — |
-| Finance Head of the Retail Business | Bharat Petroleum Corporation Limited (BPCL) | — | — |
 
 ### 5. On the calls
 

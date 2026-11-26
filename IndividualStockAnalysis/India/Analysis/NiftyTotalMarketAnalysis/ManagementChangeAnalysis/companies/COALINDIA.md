@@ -24,9 +24,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chairman-cum-Managing Director(CMD)** | Sanoj Kumar Jha (interim holder replaced; last day 2025-12-15) | B. Sairam (group company; from 2025-12-15) | effective | 2025-12-15 |
+| **Chairman-cum-Managing Director(CMD)** | Sanoj Kumar Jha (interim holder replaced; last day 2025-12-15) | B. Sairam (government appointee; from 2025-12-15) | effective | 2025-12-15 |
 
-- **Why Sanoj Kumar Jha is leaving, in the filing's words:** “Further Shri Sanoj Kumar Jha who was holding additional charge of Chairman-cum-Managing Director(CMD) has ceased to be CMD, CIL w.e.f. 15.12.2025 [A/N].” Stays on as: Additional Secretary, Ministry of Coal.
+- **Why Sanoj Kumar Jha is leaving, in the filing's words:** “Shri Sanoj Kumar Jha who was holding additional charge of Chairman-cum-Managing Director(CMD) has ceased to be CMD, CIL w.e.f. 15.12.2025 [A/N].” Stays on as: Additional Secretary, Ministry of Coal.
 - In the documents: “Ministry of Coal vide letter No 21/3/2025 dated 15.12.2025 has inter alia, appointed Shri B. Sairam (DIN-09784229) as Chairman-cum-Managing Director(CMD) on the Board of Coal India Limited (CIL) w.e.f the date of his assumption of charge of the post or till the date of his superannuation i.e 31.03.2028 or until further orders, whichever is earliest.” — [2025-12-26 Appointment](https://nsearchives.nseindia.com/corporate/COALINDIA_26122025141308_NSECEO.pdf) · [2025-12-16 Press Release](https://nsearchives.nseindia.com/corporate/COALINDIA_16122025104237_letter1612signed.pdf) · [2025-12-16 General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_16122025163538_cmdnclsigned.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-08-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/COALINDIA_31082026142049_Proceeding_AGM_final.pdf) · [2025-12-26 Appointment](https://nsearchives.nseindia.com/corporate/COALINDIA_26122025141308_NSECEO.pdf) · [2025-12-16 Press Release](https://nsearchives.nseindia.com/corporate/COALINDIA_16122025104237_letter1612signed.pdf) · [2025-12-16 General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_16122025163538_cmdnclsigned.pdf) · [2025-12-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/COALINDIA_15122025213137_lettersigned.pdf)
@@ -65,15 +65,15 @@
 
 ### 4. Track record — the incoming management
 
-**B. Sairam** — Chairman-cum-Managing Director(CMD). from: group company; experience: more than 3 decades of dedicated service in the coal sector; qualifications: A graduate mining engineer from NIT Raipur ... He pursued MBA in Energy Management from NTPC School of Business Delhi..
+**B. Sairam** — Chairman-cum-Managing Director(CMD). from: government appointee; experience: more than 3 decades of dedicated service in the coal sector; qualifications: A graduate mining engineer from NIT Raipur ... He pursued MBA in Energy Management from NTPC School of Business Delhi..
 
-The filing's own profile: “Shri B. Sairam has been appointed as Chairman-cum-Managing Director of CIL w.e.f 15.12.2025. Prior to this, he was CMD, Northern Coalfields Limited a wholly owned subsidiary of CIL. Shri Sairam brings a vast reservoir of knowledge and experience spanning over more than 3 decades of dedicated service in the coal sector. A graduate mining engineer from NIT Raipur, Shri Sairam has traversed various domains within the coal industry, including mine operations, project planning, logistics, and regulatory affairs. He pursued MBA in Energy Management from NTPC School of Business Delhi. Before appointment as CMD of NCL, he was serving as Director (Technical) in Ranchi based Central Coalfields Limited”
+The filing's own profile: “Shri B. Sairam has been appointed as Chairman-cum-Managing Director of CIL w.e.f 15.12.2025. Prior to this, he was CMD, Northern Coalfields Limited a wholly owned subsidiary of CIL. Shri Sairam brings a vast reservoir of knowledge and experience spanning over more than 3 decades of dedicated service in the coal sector. A graduate mining engineer from NIT Raipur, Shri Sairam has traversed various domains within the coal industry, including mine operations, project planning, logistics, and regulatory affairs. He pursued MBA in Energy Management from NTPC School of Business Delhi. Before appointment as CMD of NCL, he was serving as Director (Technical) in Ranchi based Central Coalfields Limited.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | CMD | Northern Coalfields Limited | — | 2025 |
 | Director (Technical) | Central Coalfields Limited | — | — |
-| Executive Director | CIL | — | — |
+| Executive Director | Coal India Limited (COALINDIA) | — | — |
 
 ### 5. On the calls
 

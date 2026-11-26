@@ -8,14 +8,13 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & CEO** | Y. S. Chakravarti (end of term; last day 2025-12-05) | Parag Sharma (internal; from 2025-12-05) | effective | 2025-12-03 |
-| **Joint Managing Director & Chief Financial Officer** | — (new seat) | Sunder Subramanian (from 2025-12-05) | effective | 2025-12-05 |
+| **Managing Director & Chief Executive Officer** | Y. S. Chakravarti (end of term; last day 2025-12-05) | Parag Sharma (internal; from 2025-12-05) | effective | 2025-12-03 |
+| **Joint Managing Director & Chief Financial Officer** | — (new seat) | Sunder Subramanian (from 2025-12-05) | effective | 2025-12-03 |
 
 - **Why Y. S. Chakravarti is leaving, in the filing's words:** “Completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company”
-- In the documents: “In furtherance to our intimation dated October 31, 2025 regarding appointment/re-appointment/re-designation of Directors, Key Managerial Personnel & Senior Management of the Company, we inform you that Mr. Y. S. Chakravarti (DIN 00052308) has completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company with effect from today i.e. December 5, 2025.” — [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
+- In the documents: “we inform you that Mr. Y. S. Chakravarti (DIN 00052308) has completed his tenure as Managing Director & CEO and consequently ceased to be Director of the Company with effect from today i.e. December 5, 2025.” — [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 - **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Mr. Sunder Subramanian Joint Managing Director & Chief Financial Officer” — [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
-  > ⚠ Not fully verified — the quote is in the documents but does not itself state an appointment or a departure. Read the filing before relying on it.
+- In the documents: “Ordinary Resolution for appointment of Mr. Sunder Subramanian (DIN 08189901) as a Whole Time Director of the Company and payment of remuneration to him” — [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 
 *All 3 filing(s) read for the seats:* [2025-12-05 Cessation](https://nsearchives.nseindia.com/corporate/Mathew_05122025151753_NSBSEIntimationofcompletionoftenure.pdf) · [2025-12-05 Updates](https://nsearchives.nseindia.com/corporate/Mathew_05122025154523_BSENSEMateriality_event.pdf) · [2025-12-03 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Mathew_03122025154125_BSENSEPostalBallotResults2Dec25.pdf)
 
@@ -41,7 +40,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Y. S. Chakravarti** — Managing Director & CEO, date of taking the seat not on file.
+**Y. S. Chakravarti** — Managing Director & Chief Executive Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,7 +56,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Parag Sharma** — Managing Director & CEO. from: internal.
+**Parag Sharma** — Managing Director & Chief Executive Officer. from: internal.
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 

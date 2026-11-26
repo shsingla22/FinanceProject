@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Executive Director of the Company and as Group Chief Executive Officer and Managing Director (‘Group CEO & MD’)** | — (new seat) | Mahendra K. Goyal (group company; from 2026-07-21) | effective | 2026-07-21 |
+| **Group Chief Executive Officer and Managing Director (‘Group CEO & MD’)** | Atul Jaggi (moved to another role in the company or group; last day 2026-07-21) | Mahendra K. Goyal (group company; from 2026-07-21) | effective | 2026-07-21 |
 
-- **Why the holder is leaving, in the filing's words:** “not stated”
-- In the documents: “Appointment of Mr. Mahendra K. Goyal (DIN: 02605616) as Executive Director of the Company and as Group Chief Executive Officer and Managing Director (‘Group CEO & MD’) for a term of five consecutive years with effect from July 21, 2026 (immediately on approval of the Board) till July 20, 2031.” — [2026-07-21 Change in Director(s)](https://nsearchives.nseindia.com/corporate/GABRIEL_21072026191306_Reg_30_SE_Disclosure_Changes_in_Directors_SIGNED.pdf)
+- **Why Atul Jaggi is leaving, in the filing's words:** “Re-designation of Mr. Atul Jaggi (DIN: 07263848), Managing Director of the Company as Managing Director (Ride Control) and key managerial personnel with effect from July 21, 2026 (immediately on approval of the Board) until October 17, 2029” Stays on as: Managing Director (Ride Control).
+- In the documents: “Appointment of Mr. Mahendra K. Goyal (DIN: 02605616) as Executive Director of the Company and as Group Chief Executive Officer and Managing Director (‘Group CEO & MD’) for a term of five consecutive years with effect from July 21, 2026 (immediately on approval of the Board) till July 20, 2031.” — [2026-08-06 Resignation](https://nsearchives.nseindia.com/corporate/GABRIEL_06082026104241_SE_intimation_final_signed.pdf) · [2026-08-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GABRIEL_ROID_94945_KMP_Doc.zip) · [2026-08-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GABRIEL_ROID_94948_KMP_Doc.zip) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-11-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GABRIEL_20112026105859_SE_Intimation_signed_CO.pdf) · [2026-11-20 Change in Company Secretary/Compl…](https://nsearchives.nseindia.in/corporate/GABRIEL_20112026110821_SE_Intimation_signed_CO.pdf) · [2026-08-20 General Updates](https://nsearchives.nseindia.com/corporate/GABRIEL_20082026164725_SE_intimation_NJ_revised_signed.pdf) · [2026-08-06 Resignation](https://nsearchives.nseindia.com/corporate/GABRIEL_06082026104241_SE_intimation_final_signed.pdf) · [2026-08-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GABRIEL_ROID_94945_KMP_Doc.zip) · [2026-08-06 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/GABRIEL_ROID_94948_KMP_Doc.zip) · +1 more
 
@@ -41,20 +41,32 @@
 
 ### 3. Track record — the outgoing management
 
-No outgoing person or owner is named (a new seat, or the documents do not say).
+**Atul Jaggi** — Group Chief Executive Officer and Managing Director (‘Group CEO & MD’), in the seat since FY2022 per the annual reports on file.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it; the statements on file start later than the tenure):
+
+| Mar 2024 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 3,403 | 4,667 | +17.1% a year over 2 years |
+| Operating profit (₹ cr) | 293 | 438 | +22.3% a year over 2 years |
+| PAT (₹ cr) | 179 | 252 | +18.7% a year over 2 years |
+| Operating profit margin (%) | 8.6 | 9.4 | +0.8 pts |
+| ROCE (%) | 28.0 | — | — |
+| ROE (%) | 17.9 | 18.4 | +0.5 pts |
+| Borrowings (₹ cr) | 75.0 | 148 | +73 |
 
 ### 4. Track record — the incoming management
 
-**Mahendra K. Goyal** — Executive Director of the Company and as Group Chief Executive Officer and Managing Director (‘Group CEO & MD’). from: group company; experience: over 31 years; qualifications: Chartered Accountant, Company Secretary, and Cost Accountant, and holds an Advanced Management Programme, Strategic Leadership certificates from the University of Oxford.
+**Mahendra K. Goyal** — Group Chief Executive Officer and Managing Director (‘Group CEO & MD’). from: group company; experience: over 31 years; qualifications: Chartered Accountant, Company Secretary, and Cost Accountant, and holds an Advanced Management Programme, Strategic Leadership certificates from the University of Oxford.
 
 The filing's own profile: “Mr. Mahendra K. Goyal is a Chartered Accountant, Company Secretary, and Cost Accountant, and holds an Advanced Management Programme, Strategic Leadership certificates from the University of Oxford. He has been associated with the ANAND Group since July 1995 and currently serves as the Group Chief Executive Officer (CEO). He is a Director on the boards of several ANAND companies, serving either as a Board Member or Chairman. He is also a member of the ANAND Executive Board and chairs the ANAND Management Forum. Mr. Goyal assumed the role of Group CEO in October 2024 and is responsible for the overall performance of the Group, corporate functions, and strategic relationships with joint venture and business partners.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Group Chief Executive Officer (CEO) | ANAND Group | 2024 | — |
 | non-executive, non-independent director | Gabriel India Limited (GABRIEL) | 2024 | 2026 |
+| Group Chief Executive Officer (CEO) | ANAND Group | 2024 | — |
 | Group Co-Chief Operating Officer | ANAND Group | 2021 | — |
-| Managing Director | Dana Anand | 2016 | — |
+| Managing Director | Dana Anand (joint venture with Dana World Trade Corporation) | 2016 | — |
 | Group CFO | ANAND Group | 2009 | — |
 | Controller and CFO positions across multiple Group companies | ANAND Group | 1995 | — |
 

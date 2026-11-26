@@ -91,7 +91,11 @@ both exchanges, so the NSE record is the complete one.
    `claude-opus-5`, through the `claude` CLI. Answers are cached by the
    documents' content (`.judge_cache.json`).
 4. **Check** — a change is reported only when it is a change, falls in the
-   window, and the people named are in the documents. Each carries
+   window, and the people named are in the documents. The window is judged
+   by the EVENT — the day the new person takes the seat or the old one
+   leaves — not by a later shareholders' vote; and because a change is
+   often announced months before it takes effect, the filings of the 120
+   days before the window opens are read as well. Each carries
    `verified` (names and an eight-word run of the quote found in the text);
    an unverified one is printed with a warning.
 5. **Analyse each company with a change** (`scripts/track.py`).

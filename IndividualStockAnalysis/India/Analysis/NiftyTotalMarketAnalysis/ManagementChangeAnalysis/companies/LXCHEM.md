@@ -8,16 +8,16 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Mahadeo Karnik (resignation; last day 2026-04-13) | Harshvardhan Goenka (interim; internal; from 2026-04-14) | effective | 2026-04-10 |
+| **Managing Director & Chief Executive Officer ("MD & CEO")** | Rajan Venkatesh (resignation; last day 2026-11-13) | Harshvardhan Goenka (promoter family; from 2026-11-14) | effective | 2026-09-08 |
+| **Chief Financial Officer and Key Managerial Personnel / Interim Chief Financial Officer** | Mahadeo Karnik (resignation; last day 2026-04-13) | Harshvardhan Goenka (interim; internal; from 2026-04-14) | effective | 2026-04-10 |
 | **Chief Financial Officer and Key Managerial Personnel** | Harshvardhan Goenka (interim holder replaced; last day 2026-06-15) | Amit Jain (from 2026-06-16) | effective | 2026-05-21 |
-| **Managing Director & Chief Executive Officer (“MD & CEO”)** | Rajan Venkatesh (resignation; last day 2026-11-13) | Harshvardhan Goenka (promoter family; from 2026-11-14) | effective | 2026-09-08 |
 
-- **Why Mahadeo Karnik is leaving, in the filing's words:** “Resignation as Chief Financial Officer and a Key Managerial Personnel of the Company”
-- In the documents: “The Board of Directors took note of the resignation of Mr. Mahadeo Karnik from the position of Chief Financial Officer and Key Managerial Personnel of the Company.” — [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
-- **Why Harshvardhan Goenka is leaving, in the filing's words:** “shall cease to hold such additional responsibilities with effect from the close of business hours on June 15, 2026” Stays on as: Executive Director of the Company.
-- In the documents: “The Board of Directors also approved the appointment of Mr. Amit Jain as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the commencement of business hours on June 16, 2026.” — [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
 - **Why Rajan Venkatesh is leaving, in the filing's words:** “Resignation from the position of Managing Director & Chief Executive Officer and as a Director of the Company to pursue a professional opportunity outside the Company.”
-- In the documents: “Dr. Rajan Venkatesh (DIN: 10057058), Managing Director & Chief Executive Officer (“MD & CEO”) of the Company, has tendered his resignation from the position of MD & CEO and as a Director of the Company as part of the planned leadership transition and will pursue opportunities outside the Company.” — [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · +1 more
+- In the documents: “Dr. Rajan Venkatesh (DIN: 10057058), Managing Director & Chief Executive Officer ("MD & CEO") of the Company, has tendered his resignation from the position of MD & CEO and as a Director of the Company as part of the planned leadership transition and will pursue opportunities outside the Company.” — [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · +1 more
+- **Why Mahadeo Karnik is leaving, in the filing's words:** “Resignation as Chief Financial Officer and a Key Managerial Personnel of the Company.”
+- In the documents: “The Board of Directors also approved the appointment of Mr. Harshvardhan Goenka, Executive Director of the Company, to take charge as Interim Chief Financial Officer of the Company with effect from the commencement of business hours on April 14, 2026, until the assumption of office by the new Chief Financial Officer.” — [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
+- **Why Harshvardhan Goenka is leaving, in the filing's words:** “Mr. Harshvardhan Goenka, Executive Director of the Company, who is presently discharging the responsibilities of Interim Chief Financial Officer, shall cease to hold such additional responsibilities with effect from the close of business hours on June 15, 2026.” Stays on as: Executive Director of the Company (and, with effect from November 14, 2026, Managing Director & Chief Executive Officer).
+- In the documents: “The Board of Directors also approved the appointment of Mr. Amit Jain as the Chief Financial Officer and Key Managerial Personnel of the Company with effect from the commencement of business hours on June 16, 2026.” — [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-11-05 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026201059_OutcomeBM05112026.pdf) · [2026-11-05 Appointment](https://nsearchives.nseindia.com/corporate/LXCHEM_05112026205115_OutcomeBM05112026.pdf) · [2026-09-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_08092026180501_SED.pdf) · [2026-06-18 Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_18062026112515_OutcomeFR21052026__1_.pdf) · [2026-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026214851_OutcomeoftheBM20052025.pdf) · [2026-05-21 General Updates](https://nsearchives.nseindia.com/corporate/LXCHEM_21052026234048_CorrectionLetter.pdf) · +1 more
 
@@ -47,7 +47,21 @@
 
 ### 3. Track record — the outgoing management
 
-**Mahadeo Karnik** — Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
+**Rajan Venkatesh** — Managing Director & Chief Executive Officer ("MD & CEO"), in the seat since FY2023 per the annual reports on file.
+
+The company's results while they held the seat (the year before they took it, to the last full year they held it):
+
+| Mar 2022 → Mar 2026 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 3,084 | 2,847 | -2.0% a year over 4 years |
+| Operating profit (₹ cr) | 371 | 172 | -17.5% a year over 4 years |
+| PAT (₹ cr) | 256 | 79.0 | -25.5% a year over 4 years |
+| Operating profit margin (%) | 12.0 | 6.0 | -6.0 pts |
+| ROCE (%) | 11.0 | — | — |
+| ROE (%) | 19.7 | 4.0 | -15.7 pts |
+| Borrowings (₹ cr) | 139 | 543 | +404 |
+
+**Mahadeo Karnik** — Chief Financial Officer and Key Managerial Personnel / Interim Chief Financial Officer, in the seat since FY2025 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -65,23 +79,18 @@ The company's results while they held the seat (the year before they took it, to
 
 *No tenure record: the tenure is shorter than one full fiscal year on file.*
 
-**Rajan Venkatesh** — Managing Director & Chief Executive Officer (“MD & CEO”), in the seat since FY2023 per the annual reports on file.
-
-The company's results while they held the seat (the year before they took it, to the last full year they held it):
-
-| Mar 2022 → Mar 2026 | At the start | At the end | Change |
-|---|---:|---:|---|
-| Sales (₹ cr) | 3,084 | 2,847 | -2.0% a year over 4 years |
-| Operating profit (₹ cr) | 371 | 172 | -17.5% a year over 4 years |
-| PAT (₹ cr) | 256 | 79.0 | -25.5% a year over 4 years |
-| Operating profit margin (%) | 12.0 | 6.0 | -6.0 pts |
-| ROCE (%) | 11.0 | — | — |
-| ROE (%) | 19.7 | 4.0 | -15.7 pts |
-| Borrowings (₹ cr) | 139 | 543 | +404 |
-
 ### 4. Track record — the incoming management
 
-**Harshvardhan Goenka** — Chief Financial Officer (interim). from: internal; experience: over 13 years of experience in the chemicals industry; qualifications: holds a Bachelor's degree in science from Babson College, Boston, USA.
+**Harshvardhan Goenka** — Managing Director & Chief Executive Officer ("MD & CEO"). from: promoter family; experience: over 13 years of experience in the chemicals industry; qualifications: He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School..
+
+The filing's own profile: “Mr. Harshvardhan Goenka has been associated with Laxmi Organic Industries Limited since 2011 and has served on its Board since November 2020. He has played a key role in shaping the Company's strategic priorities, including capital allocation, mergers and acquisitions, business diversification and sustainable growth. He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School. He is also associated with the Indian Chemical Council, Assocham and FICCI.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Executive Director | Laxmi Organic Industries Limited (LXCHEM) | 2020 | 2026 |
+| Interim Chief Financial Officer | Laxmi Organic Industries Limited (LXCHEM) | 2026 | 2026 |
+
+**Harshvardhan Goenka** — Chief Financial Officer and Key Managerial Personnel / Interim Chief Financial Officer (interim). from: internal; experience: over 13 years of experience in the chemicals industry; qualifications: holds a Bachelor's degree in science from Babson College, Boston, USA.
 
 The filing's own profile: “Mr. Harshvardhan Goenka holds a Bachelor's degree in science from Babson College, Boston, USA. With over 13 years of experience in the chemicals industry, he is responsible for driving the growth agenda and establishing new ventures at Laxmi Organic. He is an active member of the Entrepreneurs Organisation, Mumbai, and the Babson Alumni Club. Since his appointment to the Board in November 2020, Mr. Goenka has played a key role in shaping our Company's strategic direction.”
 
@@ -114,14 +123,6 @@ Results of **Sanofi Consumer Healthcare India Ltd.** while they were Managing Di
 | ROCE (%) | 90.0 | — | — |
 | ROE (%) | 60.4 | 62.5 | +2.1 pts |
 | Borrowings (₹ cr) | 20.0 | 25.0 | +5 |
-
-**Harshvardhan Goenka** — Managing Director & Chief Executive Officer (“MD & CEO”). from: promoter family; qualifications: He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School..
-
-The filing's own profile: “Mr. Harshvardhan Goenka has been associated with Laxmi Organic Industries Limited since 2011 and has served on its Board since November 2020. He has played a key role in shaping the Company's strategic priorities, including capital allocation, mergers and acquisitions, business diversification and sustainable growth. He holds a Bachelor's degree in Economics and Business Management from Babson College, USA, and is pursuing Executive Education at Harvard Business School. He is also associated with the Indian Chemical Council, Assocham and FICCI.”
-
-| Earlier role | Company | From | To |
-|---|---|---|---|
-| Executive Director | Laxmi Organic Industries Limited (LXCHEM) | 2020 | 2026 |
 
 ### 5. On the calls
 

@@ -562,7 +562,7 @@
   }
  },
  "WHIRLPOOL::seat": {
-  "stamp": "f774a7e3649263d68ce4bfca4e3517fd",
+  "stamp": "89daf324244fa08d1f92e33a694dafc7",
   "answer": {
    "changes": [
     {
@@ -571,12 +571,12 @@
      "is_change": false,
      "not_a_change_because": "same person, new title",
      "outgoing": {
-      "name": "Aditya Jain",
+      "name": "",
       "last_day": "not stated",
       "reason": "not stated",
       "reason_in_their_words": "not stated",
-      "in_seat_since": "2020",
-      "stays_on_as": "Executive Director and Chief Financial Officer"
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
      },
      "incoming": {
       "name": "Aditya Jain",
@@ -584,7 +584,7 @@
       "interim": false,
       "from_where": "internal",
       "age": "not stated",
-      "qualifications": "member of Institute of Chartered Accountants of India and holds an Executive MBA degree from Faculty of Management Studies (FMS), Delhi University. He is also a qualified Company Secretary",
+      "qualifications": "member of Institute of Chartered Accountants of India and holds an Executive MBA degree from Faculty of Management Studies (FMS), Delhi University. He is also a qualified Company Secretary.",
       "experience_years": "over 27 years",
       "previous_roles": [
        {
@@ -633,7 +633,7 @@
       "name": "Pralhad Bhutada",
       "last_day": "2027-03-31",
       "reason": "end of term",
-      "reason_in_their_words": "Mr. Pralhad Bhutada's (Managing Director and Chief Executive Oﬃcer of Elica India) employment agreement will expire on March 31, 2027.",
+      "reason_in_their_words": "Mr. Bhutada’s employment will conclude at the close of business hours on March 31, 2027, when the agreed Term expires.",
       "in_seat_since": "not stated",
       "stays_on_as": ""
      },
@@ -641,10 +641,10 @@
       "name": "Anish Ahuja",
       "effective": "2027-04-01",
       "interim": false,
-      "from_where": "group company",
+      "from_where": "internal",
       "age": "not stated",
-      "qualifications": "Bachelor's Degree in Mechanical Engineering from Pune University and a Master's Degree in Business Administration from Symbiosis Institute of Management Studies, Pune",
-      "experience_years": "over 32 years",
+      "qualifications": "Mr. Ahuja holds a Bachelor’s Degree in Mechanical Engineering from Pune University and a Master’s Degree in Business Administration from Symbiosis Institute of Management Studies, Pune.",
+      "experience_years": "over 32 years of experience (including more than 26 years at Whirlpool of India Limited)",
       "previous_roles": [
        {
         "company": "Whirlpool of India Kitchen Appliances Private Limited (Elica India)",
@@ -659,7 +659,7 @@
         "to": "2026"
        }
       ],
-      "profile": "Mr. Anish Ahuja brings over 32 years of experience (including more than 26 years at Whirlpool of India Limited) across Sales, Customer Service, and Supply Chain Management. Before becoming Chief Operating Oﬃcer of Elica India on September 1, 2026, he served as Vice President - Service at Whirlpool of India Limited, managing full responsibility of Service P & L and reporting to the Managing Director. Mr. Ahuja holds a Bachelor's Degree in Mechanical Engineering from Pune University and a Master's Degree in Business Administration from Symbiosis Institute of Management Studies, Pune."
+      "profile": "Mr. Anish Ahuja brings over 32 years of experience (including more than 26 years at Whirlpool of India Limited) across Sales, Customer Service, and Supply Chain Management. Before becoming Chief Operating Oﬃcer of Elica India on September 1, 2026, he served as Vice President - Service at Whirlpool of India Limited, managing full responsibility of Service P & L and reporting to the Managing Director. Mr. Ahuja holds a Bachelor’s Degree in Mechanical Engineering from Pune University and a Master’s Degree in Business Administration from Symbiosis Institute of Management Studies, Pune."
      },
      "status": "announced, not yet effective",
      "announced_on": "2026-10-23",
@@ -684,7 +684,7 @@
       "interim": false,
       "from_where": "group company",
       "age": "not stated",
-      "qualifications": "a member of the Institute of Chartered Accountants of India",
+      "qualifications": "member of the Institute of Chartered Accountants of India",
       "experience_years": "not stated",
       "previous_roles": [
        {
@@ -701,7 +701,7 @@
      "quote": "Mr. Abhish Jain, current Director - Finance at Whirlpool of India Limited will move as Chief Financial Oﬃcer of Elica India with eﬀect from April 01, 2027 and will report to the Managing Director of Elica India."
     }
    ],
-   "read": "These filings are Whirlpool of India's quarterly results and Regulation 30 intimations covering senior-management and subsidiary KMP changes — Narasimhan Eswar remains Managing Director and Aditya Jain remains CFO (additionally designated Executive Director from 21 July 2026), while the chief-executive and CFO changes disclosed belong to the material subsidiary Elica India, and the other departures (Executive Director/VP-Integrated Supply Chain Anuj Lall, and heads of accounting, taxation, commercial and manufacturing finance) are not the company's chief executive or CFO seats."
+   "read": "These filings are Whirlpool of India's Regulation 30 intimations and board-meeting outcomes for FY26-27 — quarterly and annual results, senior-management reshuffles (service, supply chain, manufacturing and commercial finance heads), the resignation of Executive Director Anuj Lall, Aditya Jain (CFO since 2020) additionally being made Executive Director & CFO from 21 July 2026, and KMP changes at material subsidiary Elica India — with Narasimhan Eswar continuing as Managing Director and Aditya Jain as CFO of the listed company throughout the period."
   }
  },
  "CCAVENUE::own": {
@@ -42374,14 +42374,14 @@
   }
  },
  "VTL::seat": {
-  "stamp": "3ca46199f1bc69d8ad94e3eb90330fe2",
+  "stamp": "c4b3582198dd2dcd70540e531adece30",
   "answer": {
    "changes": [
     {
      "seat": "MD",
      "designation_as_written": "Vice-Chairperson and Managing Director",
-     "is_change": true,
-     "not_a_change_because": "",
+     "is_change": false,
+     "not_a_change_because": "re-appointment",
      "outgoing": {
       "name": "",
       "last_day": "not stated",
@@ -42408,8 +42408,8 @@
     {
      "seat": "MD",
      "designation_as_written": "Managing Director",
-     "is_change": true,
-     "not_a_change_because": "",
+     "is_change": false,
+     "not_a_change_because": "re-appointment",
      "outgoing": {
       "name": "",
       "last_day": "not stated",
@@ -42434,7 +42434,7 @@
      "quote": "Mr. Neeraj Jain (DIN: 00340459) be and is hereby appointed as Managing Director of the Company, liable to retire by rotation, for a term of 5 (five) years starting from 1st April, 2026 to 31st March, 2031."
     }
    ],
-   "read": ""
+   "read": "These filings are a postal ballot notice dated 7 May 2026, its outcome and voting results, by which members approved fresh five-year terms from 1 April 2026 to 31 March 2031 for the incumbents Mrs. Suchita Jain as Vice-Chairperson and Managing Director and Mr. Neeraj Jain as Managing Director, with no outgoing holder, departure or CFO change stated anywhere in the documents."
   }
  },
  "VIYASH::seat": {
@@ -42609,7 +42609,7 @@
   }
  },
  "WABAG::seat": {
-  "stamp": "51c5d9244674acae193c9958b12d0a64",
+  "stamp": "ebcdea527da002b8cc28d7355ecece86",
   "answer": {
    "changes": [
     {
@@ -42651,12 +42651,6 @@
         "role": "Executive Council Member and President — International Business",
         "from": "not stated",
         "to": "not stated"
-       },
-       {
-        "company": "Khimji Ramdas LLC, Adani Group, Larsen & Toubro, JSW Group and McNally Bharat Engineering Company",
-        "role": "senior leadership roles",
-        "from": "not stated",
-        "to": "not stated"
        }
       ],
       "profile": "Mr. Bhupesh Chowdary Nagineni is a Graduate in Engineering (Industrial & Production) from Shivaji University and holds a Post Graduate qualification in Business Administration from Annamalai University. He is a transformational leader with over three decades of rich experience across leading global organizations in sectors such as Infrastructure, Energy, Mining, Steel, Ports, and Logistics. Prior to joining Wabag, he was working with M/s. JSW Steel as Whole Time Director and Executive Vice President where he led the Coated Steel business which has 7 manufacturing plants generating annual turnover of over INR 35,000 Crores."
@@ -42666,22 +42660,22 @@
      "quote": "Mr. Bhupesh Chowdary Nagineni as the Key Managerial Personnel & Senior Management personnel, in the capacity of Deputy Managing Director of the Company with immediate effect i.e., May 21, 2026"
     }
    ],
-   "read": "These filings are the Company's 31st AGM notice (financial statements, dividend, director re-appointment/appointment and cost auditor ratification) and a May 21, 2026 board outcome appointing a Deputy Managing Director and a Head – Strategy & Business Growth, GCC; the chief executive seat (Chairman & Managing Director) and the CFO seat are not reported as changing."
+   "read": "These filings are the Company's 31st AGM notice (ordinary business, dividend, director re-appointment of Mr. S. Varadarajan, remuneration for promoter-group employee Mr. Rohan Mittal, cost auditor ratification and appointment of Independent Director Mr. Samaresh Parida) and a May 21, 2026 board outcome appointing Mr. Bhupesh Chowdary Nagineni as Deputy Managing Director and Mr. Rohan Mittal as Head - Strategy & Business Growth - GCC; neither the Chairman & Managing Director seat nor the CFO seat is reported as changing."
   }
  },
  "VOLTAS::seat": {
-  "stamp": "cda25bdf1eea4c2198199956b6095150",
+  "stamp": "ee5888328aab508ef0940e6a6f982208",
   "answer": {
    "changes": [
     {
      "seat": "MD",
-     "designation_as_written": "Managing Director",
+     "designation_as_written": "Managing Director of the Company",
      "is_change": true,
      "not_a_change_because": "",
      "outgoing": {
       "name": "Mukundan Menon C.P.",
       "last_day": "2027-05-24",
-      "reason": "end of term",
+      "reason": "retirement",
       "reason_in_their_words": "will complete his tenure as Managing Director on 24th May, 2027 and retire from the services of the Company on that date in line with the Tata Group's retirement policy for Executive Directors",
       "in_seat_since": "not stated",
       "stays_on_as": ""
@@ -42712,12 +42706,6 @@
         "role": "Head – Room Air Conditioner Business",
         "from": "2026",
         "to": "not stated"
-       },
-       {
-        "company": "Voltas Limited",
-        "role": "Head – Room Air Conditioner Business and Managing Director Designate",
-        "from": "2026",
-        "to": "2027"
        }
       ],
       "profile": "Mr. Jayant Balan is a Mechanical Engineer and PGDM from SP Jain Institute of Management & Research. Mr. Balan joined the Tata Group in 1999 as part of the Tata Administrative Service and moved to Voltas in 2001. Over past two and a half decades, Mr. Balan has held leadership roles across manufacturing, supply chain, strategy, international operations, and consumer durables. Mr. Balan was serving as CEO of Voltbek Home Appliances Private Limited since 2019 before transitioning to the role of Head – Room Air Conditioner Business of the Company in January 2026."
@@ -42730,12 +42718,12 @@
      "seat": "Executive Chairman",
      "designation_as_written": "Chairman of the Company",
      "is_change": false,
-     "not_a_change_because": "other: the Chairman seat here is not the chief executive seat — the Company has a separate Managing Director, and the Chairman is a non-executive Director",
+     "not_a_change_because": "not the chief executive",
      "outgoing": {
       "name": "Noel N. Tata",
       "last_day": "2026-11-11",
       "reason": "retirement",
-      "reason_in_their_words": "Mr. Noel N. Tata (DIN: 00024713) shall retire from the office of Chairman and Director of the Company with effect from the close of business hours on 11th November, 2026, upon attaining the age of superannuation prescribed thereunder.",
+      "reason_in_their_words": "shall retire from the office of Chairman and Director of the Company with effect from the close of business hours on 11th November, 2026, upon attaining the age of superannuation prescribed thereunder",
       "in_seat_since": "not stated",
       "stays_on_as": "Chairman Emeritus of the Company with effect from 12th November, 2026"
      },
@@ -42760,13 +42748,60 @@
      "status": "effective",
      "announced_on": "2026-11-06",
      "quote": "The Board has appointed Mr. Sunil Alaric D'Souza (DIN: 07194259) as Chairman of the Company with effect from 12th November, 2026."
+    },
+    {
+     "seat": "MD",
+     "designation_as_written": "Managing Director of Trent Limited",
+     "is_change": false,
+     "not_a_change_because": "not this company",
+     "outgoing": {
+      "name": "",
+      "last_day": "not stated",
+      "reason": "not stated",
+      "reason_in_their_words": "not stated",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "Venkatesalu Palaniswamy",
+      "effective": "2026-11-12",
+      "interim": false,
+      "from_where": "group company",
+      "age": "not stated",
+      "qualifications": "Commerce Graduate, Alumni of Harvard Business School (Advanced Management Program – AMP), Master's in Management from Symbiosis (SIIB) Pune, CFA from the Institute of Chartered Financial Analysts of India (ICFAI)",
+      "experience_years": "He has over two decades of strategic business experience",
+      "previous_roles": [
+       {
+        "company": "Tata Administrative Services",
+        "role": "associated with Tata Administrative Services",
+        "from": "2001",
+        "to": "not stated"
+       },
+       {
+        "company": "Tata Sons Limited",
+        "role": "part of the Group Finance team",
+        "from": "not stated",
+        "to": "not stated"
+       },
+       {
+        "company": "Trent Limited",
+        "role": "Executive Director and Chief Executive Officer; now Managing Director",
+        "from": "2008",
+        "to": "not stated"
+       }
+      ],
+      "profile": "Mr. Venkatesalu Palaniswamy is a Commerce Graduate, Alumni of Harvard Business School (Advanced Management Program – AMP), Master's in Management from Symbiosis (SIIB) Pune, CFA from the Institute of Chartered Financial Analysts of India (ICFAI). Mr. Venkatesalu Palaniswamy is the Managing Director of Trent Limited. Prior to that, he held the position of Executive Director and Chief Executive Officer of Trent. He joined Trent in 2008 and has been with the company for over 15 years and continues to pioneer Trent's successful journey from strength to strength. Prior to Trent, he was associated with Tata Administrative Services since 2001 and was formerly with Tata Sons Limited as a part of the Group Finance team."
+     },
+     "status": "effective",
+     "announced_on": "2026-11-06",
+     "quote": "The Board has, based on the recommendation of the Nomination and Remuneration Committee, approved the appointment of Mr. Venkatesalu Palaniswamy (DIN: 02190892) as an Additional Director (Non-Independent Non-Executive), with effect from 12th November, 2026."
     }
    ],
-   "read": ""
+   "read": "A 6 November 2026 board-meeting outcome filing by Voltas Limited announcing board changes: the retirement of Chairman Noel N. Tata, the appointment of Sunil Alaric D'Souza as Chairman, a planned Managing Director succession in which Mukundan Menon C.P. completes his tenure on 24 May 2027 and Jayant Balan becomes Managing Director from 25 May 2027, and the appointment of Venkatesalu Palaniswamy as an Additional (Non-Executive) Director; no CFO change is mentioned."
   }
  },
  "WEBELSOLAR::seat": {
-  "stamp": "bd4894d166559c646f2dd9941e8fffd5",
+  "stamp": "10365680f37114b2300c436539f62b22",
   "answer": {
    "changes": [
     {
@@ -42829,11 +42864,11 @@
      "quote": "This is to inform you that the Board of Directors of Websol Renewables Private Limited, Wholly Owned Subsidiary of the Company, approved the appointment of Mr. Vinay Vyas as the Chief Executive Officer of Websol Renewables Private Limited."
     }
    ],
-   "read": "The single filing announces the appointment of Vinay Vyas as CEO of Websol Renewables Private Limited, a wholly owned subsidiary, effective October 21, 2026; Websol Energy System Limited's own chief executive seat is still held by Sohan Lal Agarwal, Chairman and Managing Director, and no CFO change is mentioned."
+   "read": "The single filing announces the appointment of Vinay Vyas as CEO of Websol Renewables Private Limited, a wholly owned subsidiary, effective October 21, 2026; Websol Energy System Limited's own chief executive seat continues to be held by Chairman and Managing Director Sohan Lal Agarwal and no change to the parent company's CEO/MD or CFO is reported."
   }
  },
  "WAKEFIT::seat": {
-  "stamp": "7d927b511d5489506b763819b17fd841",
+  "stamp": "632ea692df0ce72872207ed009b40b41",
   "answer": {
    "changes": [
     {
@@ -42845,7 +42880,7 @@
       "name": "Navesh Gupta",
       "last_day": "2025-12-31",
       "reason": "resignation",
-      "reason_in_their_words": "has tendered his resignation from the services of the Company, following careful consideration of his personal and professional plans",
+      "reason_in_their_words": "following careful consideration of his personal and professional plans",
       "in_seat_since": "not stated",
       "stays_on_as": ""
      },
@@ -42855,8 +42890,8 @@
       "interim": false,
       "from_where": "internal",
       "age": "not stated",
-      "qualifications": "member of Institute of Chartered Accountant of India and an alumna of ISB Hyderabad. She also holds dual bachelor's degree in law and commerce from Lucknow University.",
-      "experience_years": "nearly 20 years",
+      "qualifications": "Ms. Parul Gupta is a member of Institute of Chartered Accountant of India and an alumna of ISB Hyderabad. She also holds dual bachelor's degree in law and commerce from Lucknow University.",
+      "experience_years": "nearly 20 years in leadership roles across diverse industries",
       "previous_roles": [
        {
         "company": "Syngene",
@@ -42887,31 +42922,25 @@
         "role": "not stated",
         "from": "not stated",
         "to": "not stated"
-       },
-       {
-        "company": "Wakefit Innovations Limited",
-        "role": "She joined the Company in Aug-25",
-        "from": "2025",
-        "to": "not stated"
        }
       ],
       "profile": "Ms. Parul Gupta is a member of Institute of Chartered Accountant of India and an alumna of ISB Hyderabad. She also holds dual bachelor's degree in law and commerce from Lucknow University. With nearly 20 years in leadership roles across diverse industries, Parul has excelled in strategic finance, business partnering and ensuring robust controls & compliance. Her career includes significant positions with Syngene, Myntra, Jabong, Aircel and Airtel. Her professional journey has also been recognized with prestigious awards, including the 'Top 30 e-Commerce Leaders Award', 'Women Leadership Award for Excellence in e-commerce', and inclusion among the 'Top 250 Great Managers in India."
      },
      "status": "effective",
      "announced_on": "2025-12-31",
-     "quote": "Ms. Parul Gupta will be replacing prior CFO, Mr. Navesh Gupta, who resigned from the company, due to his personal and professional plans, with last working day as 31-Dec-2025."
+     "quote": "Pursuant to Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"SEBI Listing Regulations\") and the relevant circulars issued thereunder, we wish to inform that, the Board of Directors of the Company, at its meeting held on Tuesday, February 10, 2026, approved the appointment of Ms. Parul Gupta as Chief Financial Officer (Key Managerial Personnel) of the Company with effect from February 10, 2026."
     }
    ],
-   "read": "These filings cover Wakefit Innovations Limited's Q3FY26/9MFY26 results, its NSE/BSE listing and Regulation 30(5) authorisations, and record the CFO handover from Navesh Gupta to Parul Gupta while Ankit Garg continues as Chairman, CEO and Executive Director."
+   "read": "These filings cover Wakefit Innovations' post-IPO disclosures — Navesh Gupta's resignation as CFO effective 31 December 2025, the appointment of Parul Gupta as CFO from 10 February 2026, the related Regulation 30(5) authorised-persons update, and the Q3/9M FY26 results press release in which Ankit Garg continues as Chairman, CEO and Executive Director with no change to the chief executive seat."
   }
  },
  "WELSPUNLIV::seat": {
-  "stamp": "4e255ff70ac5f023787d75c50dd09824",
+  "stamp": "d27ef54fc1b0e5fc78d935c92be9ec56",
   "answer": {
    "changes": [
     {
      "seat": "CFO",
-     "designation_as_written": "Chief Financial Officer",
+     "designation_as_written": "Chief Financial Officer of Welspun Living",
      "is_change": true,
      "not_a_change_because": "",
      "outgoing": {
@@ -42941,7 +42970,7 @@
       "profile": "Manish has been with us for over 15 years and has led leadership roles across our Indian retail, U.K. and U.S. Businesses . His extensive experience across geographies and deep understanding of operations and financial strategy make it exceptionally well -placed to lead our"
      },
      "status": "effective",
-     "announced_on": "not stated",
+     "announced_on": "2025-11-01",
      "quote": "Before I conclude, I'm pleased to share that the Board has appointed Mr. Manish Ban sal as the new Chief Financial Officer of Welspun Living, effective 1 January 2026."
     }
    ],
@@ -42949,7 +42978,7 @@
   }
  },
  "WEWORK::seat": {
-  "stamp": "61ac45f2c6ae6516de542f4be3e1c280",
+  "stamp": "40f75f0726a47e6af41daa040f7c023a",
   "answer": {
    "changes": [
     {
@@ -42981,18 +43010,18 @@
         "to": "not stated"
        }
       ],
-      "profile": "As we launch this new vertical, Arnav takes on the role of CEO of Rivet, bringing deep domain expertise and a proven track record. With over three decades of experience, he brings a holistic understanding of the real estate and workspace ecosystem. In his capacity as Chief of Supply at WeWork India, he has been instrumental in expanding our portfolio and strengthening delivery capabilities."
+      "profile": "With over three decades of experience, he brings a holistic understanding of the real estate and workspace ecosystem. In his capacity as Chief of Supply at WeWork India, he has been instrumental in expanding our portfolio and strengthening delivery capabilities."
      },
      "status": "effective",
      "announced_on": "2026-03-09",
      "quote": "Alongside the launch, WeWork India has elevated Arnav S Gusain as Chief Executive Officer, Rivet, in addition to his ongoing role as Chief Supply Officer at WeWork India, underscoring the strategic significance of this new vertical and ensuring leadership continuity."
     }
    ],
-   "read": "A single media release dated March 9, 2026 announcing the launch of Rivet by WeWork India, an end-to-end design & build platform, with Arnav S Gusain elevated to CEO of that new vertical while Karan Virwani continues as Managing Director & CEO of the company, so neither the company's chief executive nor its CFO seat changed."
+   "read": "A single media release dated March 9, 2026 announcing the launch of Rivet by WeWork India, a design-and-build platform, with Arnav S Gusain elevated to CEO of that new vertical while retaining his Chief Supply Officer role, and Karan Virwani continuing as Managing Director & CEO of the company — no change to the company's chief executive or CFO seats."
   }
  },
  "WAAREEENER::seat": {
-  "stamp": "a4a9b905b2ad3871b0eededd8d14e173",
+  "stamp": "d46016f81b9549aef06ee48e0bd0b552",
   "answer": {
    "changes": [
     {
@@ -43004,7 +43033,7 @@
       "name": "Amit Ashok Paithankar",
       "last_day": "2026-03-20",
       "reason": "resignation",
-      "reason_in_their_words": "Took note of the Resignation tendered by Mr. Amit Paithankar (Whole Time Director & Chief Executive Officer) of the Company to pursue opportunities outside the Organization.",
+      "reason_in_their_words": "I will be joining Saarv Solutions Private Limited as a cofounder. I am willing to stay the duration of my notice period or exit at a mutually convenient date.",
       "in_seat_since": "not stated",
       "stays_on_as": ""
      },
@@ -43014,7 +43043,7 @@
       "interim": false,
       "from_where": "internal",
       "age": "not stated",
-      "qualifications": "He holds a Bachelor's degree in Engineering from Gujarat University, a Master's degree in Business Administration for Working Executives from NMIMS, Mumbai, and a Doctorate in Business Administration from XIBMS.",
+      "qualifications": "holds a bachelor’s degree of engineering from the Gujarat University, a master’s degree business administration for working executives from SVKM’s NMIMS and also holds a Doctorate (Ph.D.) in Business Administration from the Xavier Institute of Business Management Studies (XIBMS)",
       "experience_years": "over 18 years",
       "previous_roles": [
        {
@@ -43025,12 +43054,12 @@
        },
        {
         "company": "Waaree Energies Limited",
-        "role": "Chief Executive Officer – Designate (\"CEO-Designate\")",
+        "role": "Chief Executive Officer – Designate (“CEO-Designate”)",
         "from": "2025",
         "to": "2026"
        }
       ],
-      "profile": "Mr. Jignesh Rathod is a seasoned leader with deep institutional knowledge and a proven execution track record. He holds a Bachelor's degree in Engineering from Gujarat University, a Master's degree in Business Administration for Working Executives from NMIMS, Mumbai, and a Doctorate in Business Administration from XIBMS. He has been associated with the Company since November 28, 2007, and brings over 18 years of extensive experience across manufacturing operations, capacity expansion, process optimisation, technology integration, and large-scale execution. Currently responsible for overseeing the end-to-end operations across the Company's manufacturing facilities, Mr. Rathod has played a pivotal role in scaling production capacities, driving operational efficiencies, strengthening quality systems, and supporting the Company's expansion and modernization initiatives."
+      "profile": "Mr. Jignesh Rathod holds a bachelor’s degree of engineering from the Gujarat University, a master’s degree business administration for working executives from SVKM’s NMIMS and also holds a Doctorate (Ph.D.) in Business Administration from the Xavier Institute of Business Management Studies (XIBMS). He has been associated with our Company since November 28, 2007. He is currently responsible for overseeing the operational functions at the factories of the Company."
      },
      "status": "effective",
      "announced_on": "2025-12-29",
@@ -43066,7 +43095,7 @@
        },
        {
         "company": "Waaree Energies Limited",
-        "role": "Group Finance Head / Group Head Finance, designated as the Senior Managerial Personnel (\"SMP\")",
+        "role": "Group Head Finance / Group Finance Head (SMP)",
         "from": "not stated",
         "to": "2026"
        },
@@ -43077,15 +43106,15 @@
         "to": "not stated"
        }
       ],
-      "profile": "Abhishek Pareek joined Waaree as the Finance Controller in September 2017 and is currently the Group Finance Head, designated as the Senior Managerial Personnel (\"SMP\") of the Company. He is a seasoned finance leader with ~20 years of experience across corporate finance, treasury, M&A, Capital Markets, Controllership, FP&A. He has prior experience as CFO of a large textile company and has handled multiple businesses in capacity of Controller. He has led equity fundraisers of over USD 450 million across four private equity rounds, ~USD 500 million through IPOs, and has extensive experience in debt financing of ~USD 3 billion, along with managing large-scale FX exposures."
+      "profile": "Abhishek Pareek joined Waaree as the Finance Controller in September 2017 and is currently the Group Finance Head, designated as the Senior Managerial Personnel (“SMP”) of the Company. He is a seasoned finance leader with ~20 years of experience across corporate finance, treasury, M&A, Capital Markets, Controllership, FP&A. He has prior experience as CFO of a large textile company and has handled multiple businesses in capacity of Controller. He has led equity fundraisers of over USD 450 million across four private equity rounds, ~USD 500 million through IPOs, and has extensive experience in debt financing of ~USD 3 billion, along with managing large-scale FX exposures."
      },
      "status": "effective",
      "announced_on": "2026-03-20",
-     "quote": "Took note of the cessation of Ms. Sonal Shrivastava from the position of the Chief Financial Officer of the Company from the closure of business hours on Friday, March 20, 2026 upon completion of the requisite notice period."
+     "quote": "Based on the recommendation of the Nomination and Remuneration Committee and approval of Audit Committee, approved the appointment of  Mr. Abhishek Pareek (presently Group Head Finance) as Chief Financial Officer and Key Managerial Personnel of the Company, to hold office w.e.f. Saturday, March 21, 2026."
     },
     {
      "seat": "CFO",
-     "designation_as_written": "Deputy Chief Financial Officer (\"Deputy CFO\")",
+     "designation_as_written": "Deputy Chief Financial Officer (“Deputy CFO”)",
      "is_change": false,
      "not_a_change_because": "deputy or joint seat",
      "outgoing": {
@@ -43102,7 +43131,7 @@
       "interim": false,
       "from_where": "internal",
       "age": "not stated",
-      "qualifications": "He is a Qualified Chartered Accountant",
+      "qualifications": "He is a Qualified Chartered Accountant with 20 years of Experience across industries.",
       "experience_years": "20 years",
       "previous_roles": [
        {
@@ -43146,14 +43175,14 @@
      },
      "status": "effective",
      "announced_on": "2026-03-20",
-     "quote": "Mr. Munna Singh as Deputy Chief Financial Officer (\"Deputy CFO\");"
+     "quote": "Mr. Munna Singh as Deputy Chief Financial Officer (“Deputy CFO”);"
     }
    ],
-   "read": "Board-meeting outcomes and a senior-management disclosure recording the resignation of Whole-Time Director & CEO Amit Paithankar and his succession by Jignesh Rathod, the cessation of CFO Sonal Shrivastava and appointment of Abhishek Pareek as CFO, plus other senior-management appointments and the Chief Marketing Officer's resignation."
+   "read": ""
   }
  },
  "WESTLIFE::seat": {
-  "stamp": "a78cad44935af0dd7483fe23827f3a71",
+  "stamp": "384030fe5875890d555f34016076aa29",
   "answer": {
    "changes": [
     {
@@ -43165,7 +43194,7 @@
       "name": "Hrushit Shah",
       "last_day": "not stated",
       "reason": "resignation",
-      "reason_in_their_words": "you would have noticed the sad news of Hrushit Shah stepping down as CFO to be with his family abroad",
+      "reason_in_their_words": "the sad news of Hrushit Shah stepping down as CFO to be with his family abroad",
       "in_seat_since": "not stated",
       "stays_on_as": ""
      },
@@ -43178,15 +43207,15 @@
       "qualifications": "not stated",
       "experience_years": "not stated",
       "previous_roles": [],
-      "profile": "not stated"
+      "profile": "We're also pleased to have Shardul Doshi join us as our new CFO, bringing in strong financial leadership and discipline to our next phase of growth."
      },
      "status": "effective",
-     "announced_on": "2025-12-15",
-     "quote": "In compliance with Regulation 30 read with Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we would like to inform you that Mr. Shardul Doshi has been appointed the Chief Financial Officer (CFO) of the Company and of its subsidiary, by the Boards of Directors of the respective companies, effective 15th December, 2025."
+     "announced_on": "2025-11-01",
+     "quote": "Mr. Shardul Doshi has been appointed the Chief Financial Officer (CFO) of the Company and of its subsidiary, by the Boards of Directors of the respective companies, effective 15th December, 2025."
     },
     {
      "seat": "MD & CEO",
-     "designation_as_written": "MD & CEO",
+     "designation_as_written": "Non – Executive Independent Director of the Company",
      "is_change": false,
      "not_a_change_because": "not this company",
      "outgoing": {
@@ -43195,7 +43224,7 @@
       "reason": "resignation",
       "reason_in_their_words": "In view of the heavy work responsibilities in my current role as MD & CEO, I believe I may not able to devote the deserved time and attention to my responsibilities as Independent Director of the Company.",
       "in_seat_since": "not stated",
-      "stays_on_as": "Arvind Fashions Limited – Executive Director (CEO-MD)"
+      "stays_on_as": "Executive Director (CEO-MD), Arvind Fashions Limited"
      },
      "incoming": {
       "name": "",
@@ -43213,11 +43242,11 @@
      "quote": "Ms. Amisha Jain (DIN: 05114264), has vide letter dated 13th August, 2026, tendered her resignation from the position of Non – Executive Independent Director of the Company, with effect from 13th August, 2026."
     }
    ],
-   "read": "These filings cover Westlife Foodworld's appointment of Shardul Doshi as CFO effective 15 December 2025 (succeeding Hrushit Shah, whose stepping down was noted on the November 2025 earnings call) and the resignation of Non-Executive Independent Director Amisha Jain effective 13 August 2026, whose 'MD & CEO' role is at Arvind Fashions Limited, not at Westlife."
+   "read": "Filings and earnings-call extracts covering Westlife Foodworld's CFO transition from Hrushit Shah to Shardul Doshi effective 15 December 2025, plus the resignation of non-executive independent director Amisha Jain in August 2026 (her MD & CEO role is at Arvind Fashions, not Westlife)."
   }
  },
  "WELENT::seat": {
-  "stamp": "25b89eaadaa17172d00bebfe1d52a8ef",
+  "stamp": "14b48bab451b799f6527d6e405eeaef1",
   "answer": {
    "changes": [
     {
@@ -43226,12 +43255,12 @@
      "is_change": false,
      "not_a_change_because": "same person, new title",
      "outgoing": {
-      "name": "Sandeep Garg",
+      "name": "",
       "last_day": "not stated",
       "reason": "not stated",
-      "reason_in_their_words": "For organizational realignment and the Company's continued focus on strengthening its independent business verticals.",
+      "reason_in_their_words": "not stated",
       "in_seat_since": "not stated",
-      "stays_on_as": "Managing Director of the Company, with additional interim leadership of the Water vertical operations"
+      "stays_on_as": "Managing Director of the Company"
      },
      "incoming": {
       "name": "Sandeep Garg",
@@ -43285,16 +43314,16 @@
     },
     {
      "seat": "MD",
-     "designation_as_written": "Managing Director - Welspun Michigan Engineers Limited (\"WMEL\"), a material subsidiary of the Company",
+     "designation_as_written": "Managing Director of Welspun Michigan Engineers Limited",
      "is_change": false,
      "not_a_change_because": "division or subsidiary seat",
      "outgoing": {
-      "name": "Saurin Patel",
+      "name": "",
       "last_day": "not stated",
       "reason": "not stated",
       "reason_in_their_words": "not stated",
       "in_seat_since": "not stated",
-      "stays_on_as": "Managing Director of WMEL"
+      "stays_on_as": ""
      },
      "incoming": {
       "name": "Saurin Patel",
@@ -43306,7 +43335,7 @@
       "experience_years": "not stated",
       "previous_roles": [
        {
-        "company": "Welspun Enterprises Limited / Welspun Michigan Engineers Limited",
+        "company": "Welspun Enterprises Limited",
         "role": "Head - Integrated Water Vertical and Managing Director of Welspun Michigan Engineers Limited",
         "from": "not stated",
         "to": "2026"
@@ -43343,22 +43372,22 @@
       "profile": "not stated"
      },
      "status": "effective",
-     "announced_on": "2025-11-12",
+     "announced_on": "2025-11-01",
      "quote": "Abhishek, who is our new CEO Transportation vertical, will provide more details on our projects in the transport segment and digitalization journey shortly."
     }
    ],
-   "read": "These filings and call extracts cover a July 2026 organizational realignment at Welspun Enterprises — Managing Director Sandeep Garg taking additional interim charge of the Water vertical, Saurin Patel continuing as Managing Director of subsidiary WMEL, and Hardik Dhebar resigning as Head Finance & Investor Relations and CFO of subsidiary WMEL — plus a mention of a new CEO of the Transportation vertical, so the company's own chief executive (Sandeep Garg, MD) and company-level CFO seats did not change in the period."
+   "read": "These filings and call extracts cover an organizational realignment at Welspun Enterprises in which Managing Director Sandeep Garg took additional interim charge of the Water vertical, Saurin Patel continued as Managing Director of subsidiary Welspun Michigan Engineers, and that subsidiary's CFO Hardik Dhebar resigned — leaving the Company's own Managing Director and Chief Financial Officer seats unchanged."
   }
  },
  "ZEEL::seat": {
-  "stamp": "099d007e35fdc33e50d0c3e40fa940d7",
+  "stamp": "1638538c1d3535a0e1beee10ae969a57",
   "answer": {
    "changes": [],
-   "read": "These filings cover the resignation of Company Secretary and Compliance Officer Ashish Agarwal and appointment of Sangeeta Shetty as Chief Compliance Officer & Company Secretary (Oct 30, 2026), the appointment of Ashish Mishra as Chief Marketing Officer (Aug 17, 2026), and the resignations of senior management personnel Umesh Kumar Bansal (Chief Business Officer - Zee Studios) and Laxmi Shetty (May 15, 2026), with Punit Goenka signing and quoted as Chief Executive Officer throughout and no change to the chief executive or CFO seat stated."
+   "read": "These ZEEL filings cover the resignation of Company Secretary & Chief Compliance Officer Ashish Agarwal and appointment of Sangeeta Shetty in that role (Oct 2026), the appointment of Ashish Mishra as Chief Marketing Officer (Aug 2026) and the resignations of senior management personnel Umesh Kumar Bansal and Laxmi Shetty (May 2026) — none of which touch the chief executive or finance seat, with Punit Goenka continuing as Chief Executive Officer throughout and no CFO change mentioned."
   }
  },
  "WIPRO::seat": {
-  "stamp": "48fff2e187045dbd94f4fe20320636cd",
+  "stamp": "b57130bb18d561f3c093b7b74a99a1ce",
   "answer": {
    "changes": [
     {
@@ -43396,39 +43425,11 @@
         "to": "not stated"
        }
       ],
-      "profile": "Angan Guha is a seasoned technology and business leader with over 34 years of experience driving growth, digital transformation, and client success across multiple geographies. As the Global CEO & Managing Director of Birlasoft Ltd., a publicly listed entity, Angan led the Company through significant growth and value creation. Prior to Birlasoft, Angan spent over 28 years with Wipro, holding several senior leadership roles, including CEO of the Americas 2 Business Unit and member of Wipro's Executive Leadership Team. Angan led a $2.9 billion business with over 45,000 employees, with P&L responsibility across key industry verticals, including BFSI, Energy & Utilities, Manufacturing, Hi-Tech, and Canada Operations."
+      "profile": "Angan Guha is a seasoned technology and business leader with over 34 years of experience driving growth, digital transformation, and client success across multiple geographies. He is known for his results-oriented leadership with a focus on building growth-oriented organizations. As the Global CEO & Managing Director of Birlasoft Ltd., a publicly listed entity, Angan led the Company through significant growth and value creation, strengthening its financial performance, digital capabilities, and customer-centric culture. Prior to Birlasoft, Angan spent over 28 years with Wipro, over this tenure at Wipro, he held multiple roles, each with progressively greater responsibilities. He held several senior leadership roles, including CEO of the Americas 2 Business Unit and member of Wipro's Executive Leadership Team."
      },
      "status": "announced, not yet effective",
      "announced_on": "2026-11-06",
-     "quote": "Mr. Angan Guha will take over as President and Chief Executive Officer for Americas 2 Strategic Market Unit with effect from December 8, 2026."
-    },
-    {
-     "seat": "CEO",
-     "designation_as_written": "Chief Executive Officer for Americas-2 Strategic Market Unit",
-     "is_change": false,
-     "not_a_change_because": "division or subsidiary seat",
-     "outgoing": {
-      "name": "Suzanne Dann",
-      "last_day": "2026-05-03",
-      "reason": "resignation",
-      "reason_in_their_words": "stepping down as Chief Executive Officer for Americas-2 Strategic Market Unit to pursue opportunities outside Wipro",
-      "in_seat_since": "not stated",
-      "stays_on_as": ""
-     },
-     "incoming": {
-      "name": "",
-      "effective": "not stated",
-      "interim": false,
-      "from_where": "not stated",
-      "age": "not stated",
-      "qualifications": "not stated",
-      "experience_years": "not stated",
-      "previous_roles": [],
-      "profile": "not stated"
-     },
-     "status": "effective",
-     "announced_on": "2026-04-01",
-     "quote": "Ms. Suzanne Dann will be stepping down as Chief Executive Officer for Americas -2 Strategic Market Unit with effect from the close of business hours of May 3, 2026."
+     "quote": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading AI-powered technology services and consulting company, today announced the appointment of Angan Guha as President and Chief Executive Officer for Americas 2 Strategic Market Unit, effective December 8, 2026."
     },
     {
      "seat": "CEO",
@@ -43464,13 +43465,41 @@
      "status": "effective",
      "announced_on": "2026-04-01",
      "quote": "Mr. Nagendra Bandaru will be the Chief Executive Officer of AI-Native Business & Platforms Unit with effect from April 1, 2026."
+    },
+    {
+     "seat": "CEO",
+     "designation_as_written": "Chief Executive Officer for Americas-2 Strategic Market Unit",
+     "is_change": false,
+     "not_a_change_because": "division or subsidiary seat",
+     "outgoing": {
+      "name": "Suzanne Dann",
+      "last_day": "2026-05-03",
+      "reason": "resignation",
+      "reason_in_their_words": "Ms. Suzanne Dann will be stepping down as Chief Executive Officer for Americas-2 Strategic Market Unit to pursue opportunities outside Wipro and shall accordingly cease to be a SMP of the Company.",
+      "in_seat_since": "not stated",
+      "stays_on_as": ""
+     },
+     "incoming": {
+      "name": "",
+      "effective": "not stated",
+      "interim": false,
+      "from_where": "not stated",
+      "age": "not stated",
+      "qualifications": "not stated",
+      "experience_years": "not stated",
+      "previous_roles": [],
+      "profile": "not stated"
+     },
+     "status": "effective",
+     "announced_on": "2026-04-01",
+     "quote": "Ms. Suzanne Dann will be stepping down as Chief Executive Officer for Americas-2 Strategic Market Unit with effect from the close of business hours of May 3, 2026."
     }
    ],
-   "read": "These Wipro filings are Regulation 30 senior-management-personnel intimations and press releases about business-unit leadership moves (Angan Guha, Nagendra Bandaru, Kanwar Singh, Suzanne Dann) plus a client deal announcement; Srini Pallia is identified throughout as the company's Chief Executive Officer and Managing Director with no change to that seat or to the CFO seat."
+   "read": "These are Wipro Limited's Regulation 30 senior-management-change intimations and press releases covering divisional leadership moves (Angan Guha as President & CEO of the Americas 2 Strategic Market Unit, Nagendra Bandaru as CEO of the AI-Native Business & Platforms Unit, Kanwar Singh as President & Managing Partner of Technology Services GBLs, and Suzanne Dann's exit) plus a client deal announcement, while Srini Pallia continues throughout as the company's Chief Executive Officer and Managing Director and no CFO change is mentioned."
   }
  },
  "YESBANK::seat": {
-  "stamp": "af5e2f2bad9f9ebba61e7d3d94413df5",
+  "stamp": "1a7021266378033e2de9a39f876765ee",
   "answer": {
    "changes": [
     {
@@ -43482,7 +43511,7 @@
       "name": "Prashant Kumar",
       "last_day": "2026-04-05",
       "reason": "end of term",
-      "reason_in_their_words": "Cessation due to completion of tenure",
+      "reason_in_their_words": "has demitted the office as the Managing Director & Chief Executive Officer (MD & CEO) of the Bank on April 05, 2026 on completion of his tenure",
       "in_seat_since": "not stated",
       "stays_on_as": ""
      },
@@ -43496,10 +43525,16 @@
       "experience_years": "not stated",
       "previous_roles": [
        {
-        "company": "State Bank of India (SBI)",
+        "company": "State Bank of India",
         "role": "Managing Director (Retail Business and Operations)",
         "from": "2023",
         "to": "2025"
+       },
+       {
+        "company": "State Bank of India",
+        "role": "Deputy Managing Director, Corporate Accounts Group, Corporate Centre, Mumbai",
+        "from": "not stated",
+        "to": "not stated"
        },
        {
         "company": "SBI Mutual Funds",
@@ -43533,8 +43568,8 @@
        },
        {
         "company": "State Bank of India",
-        "role": "Deputy Managing Director, Corporate Accounts Group, Corporate Centre, Mumbai",
-        "from": "not stated",
+        "role": "Probationary Officer",
+        "from": "1988",
         "to": "not stated"
        }
       ],
@@ -43545,47 +43580,18 @@
      "quote": "Further, we wish to inform that Mr. Vinay Muralidhar Tonse (DIN: 06695367) has taken charge as Managing Director & Chief Executive Officer of the Bank with effect from today i.e. April 06, 2026 on such terms and conditions including remuneration, as approved by Reserve Bank of India and subject to the approval of the shareholders of the Bank."
     }
    ],
-   "read": ""
+   "read": "YES Bank's filings cover the MD & CEO succession from Prashant Kumar to Vinay M. Tonse (RBI approval Feb 2026, MD & CEO-Designate from March 12, 2026, charge taken April 6, 2026, shareholder approval by postal ballot April 24, 2026), alongside quarterly results, the FY2025-26 annual report (Niranjan Banodkar continuing as Chief Financial Officer) and an interim Chief Vigilance Officer appointment."
   }
  },
  "ZYDUSWELL::seat": {
-  "stamp": "d1eddca175005b93d3929e73ef063eba",
+  "stamp": "5f935794779d70fa33169dc68b1c222a",
   "answer": {
-   "changes": [
-    {
-     "seat": "CEO",
-     "designation_as_written": "Chief Executive Officer",
-     "is_change": false,
-     "not_a_change_because": "other: the resignation letter is merely addressed to Mr. Tarun Arora, Chief Executive Officer; the resignation is that of the Chief Marketing Officer (Senior Management), not the chief executive",
-     "outgoing": {
-      "name": "Tarun Arora",
-      "last_day": "not stated",
-      "reason": "not stated",
-      "reason_in_their_words": "not stated",
-      "in_seat_since": "not stated",
-      "stays_on_as": ""
-     },
-     "incoming": {
-      "name": "",
-      "effective": "not stated",
-      "interim": false,
-      "from_where": "not stated",
-      "age": "not stated",
-      "qualifications": "not stated",
-      "experience_years": "not stated",
-      "previous_roles": [],
-      "profile": "not stated"
-     },
-     "status": "effective",
-     "announced_on": "2026-09-18",
-     "quote": "To, Mr. Tarun Arora Chief Executive Officer Zydus Wellness"
-    }
-   ],
-   "read": "Both filings of 2026-09-18 report the resignation of Mr. Arijit Sengupta, Chief Marketing Officer and Senior Management Personnel, effective close of business on September 18, 2026 for personal reasons requiring relocation to Mumbai; no change to the Chief Executive Officer or Chief Financial Officer seat is stated."
+   "changes": [],
+   "read": "These filings disclose only the resignation of Arijit Sengupta as Chief Marketing Officer (senior management) effective September 18, 2026; the Chief Executive Officer, Tarun Arora, appears solely as the addressee of the resignation letter, and no change to the chief executive or CFO seat is stated."
   }
  },
  "ZFCVINDIA::seat": {
-  "stamp": "e9e558e2479baf92578857bbbb01e10f",
+  "stamp": "717fe0d2fa1509ca31104187d6e8e560",
   "answer": {
    "changes": [
     {
@@ -43607,7 +43613,7 @@
       "interim": false,
       "from_where": "group company",
       "age": "not stated",
-      "qualifications": "Chartered Accountant; Bachelor of Commerce from Utkal University, Certificate Program in Executive Leadership from Cornell University, Leadership with AI and Mastering Executive Presence from Indian School of Business",
+      "qualifications": "Chartered Accountant; Bachelor of Commerce from Utkal University; Certificate Program in Executive Leadership from Cornell University, Leadership with AI and Mastering Executive Presence from Indian School of Business",
       "experience_years": "over 30 years",
       "previous_roles": [
        {
@@ -43615,6 +43621,12 @@
         "role": "Head of Finance & Compliance",
         "from": "not stated",
         "to": "not stated"
+       },
+       {
+        "company": "NASSCOM",
+        "role": "Regional Council Member",
+        "from": "2023",
+        "to": "2024"
        }
       ],
       "profile": "Rakesh Mishra is a Chartered Accountant and finance leader with over 30 years of experience in global technology and engineering companies (both Listed & Unlisted). Currently Head of Finance & Compliance at ZF India Pvt Ltd (Tech Centre India - Hyderabad), he specializes in financial strategy, governance, taxation, M&A, regulatory compliance, and finance transformation. A NASSCOM Regional Council Member (2023–24), he has successfully led greenfield projects, restructuring initiatives, and ERP implementations. He holds Bachelor of Commerce from Utkal University and executive leadership certifications from Cornell University & the Indian School of Business."
@@ -43628,7 +43640,7 @@
   }
  },
  "ZYDUSLIFE::seat": {
-  "stamp": "93a876e2886c30ccbd95960b467f4e1f",
+  "stamp": "c784dda75889451befaa3f702c1c216b",
   "answer": {
    "changes": [
     {
@@ -43676,38 +43688,20 @@
         "role": "President",
         "from": "2019",
         "to": "2021"
-       },
-       {
-        "company": "Progenerika (Germany)",
-        "role": "Vice Chairman",
-        "from": "not stated",
-        "to": "not stated"
-       },
-       {
-        "company": "Intergenerika (Switzerland)",
-        "role": "Board Member",
-        "from": "not stated",
-        "to": "not stated"
-       },
-       {
-        "company": "Roche Pharma, DSM Nutritional Products, and Swiss Re",
-        "role": "Leadership roles",
-        "from": "not stated",
-        "to": "not stated"
        }
       ],
       "profile": "Mr. Christoph Stoller is a highly accomplished Swiss pharmaceutical industry leader with more than 30 years of global experience in branded pharmaceuticals, specialty medicines, biologics, biosimilars, generics, OTC products, and innovative therapies. He has held CEO, President, Board, and Global Business Leadership roles across Europe, Emerging Markets, LATAM, and APAC."
      },
      "status": "effective",
      "announced_on": "2026-10-31",
-     "quote": "Further, based on the recommendation of Nomination and Remuneration Committee, the Board of Directors of the Company have approved the appointment of Mr. Christoph Stoller as President and Business Unit Head, International Markets Business and he will be part of the Senior Management team."
+     "quote": "This is to inform that Dr. Amrut Naik, President and Business Unit Head, International Markets Business has resigned on October 31, 2026, and he will be relieved from his duties on November 7, 2026, and in view of the same, he will cease to be the part of Senior Management team."
     }
    ],
-   "read": "The only filing in the window is an October 31, 2026 Regulation 30 disclosure of senior management changes in which Dr. Amrut Naik resigns as President and Business Unit Head, International Markets Business and Mr. Christoph Stoller is appointed to that business-unit role, with Dr. Sharvil P. Patel merely addressed as Managing Director in the resignation letter — so neither the chief executive nor the CFO seat changed."
+   "read": "The single filing is a Regulation 30 senior-management disclosure: the resignation of Dr. Amrut Naik as President and Business Unit Head, International Markets Business and the appointment of Mr. Christoph Stoller to that divisional post — neither is the chief executive or CFO seat, and Dr. Sharvil P. Patel appears only as the Managing Director the resignation letter is addressed to, so no change to the chief-executive or finance seat is disclosed between 2025-11-26 and 2026-11-26."
   }
  },
  "ZENTEC::seat": {
-  "stamp": "0a07dfd113251706b5281dc078b03a28",
+  "stamp": "c1419a67e7c56e7ff8e52a8447c81bd0",
   "answer": {
    "changes": [
     {
@@ -43736,7 +43730,7 @@
         "company": "Zen Technologies Limited",
         "role": "Senior General Manager",
         "from": "2025",
-        "to": "not stated"
+        "to": "2026"
        },
        {
         "company": "Independent CFO Advisor",
@@ -43779,7 +43773,7 @@
      },
      "status": "effective",
      "announced_on": "2025-12-01",
-     "quote": "Further to our intimation dated November 02, 2025, we hereby inform you that Mr. Afzal Harunbhai Malkani ceased to be the Chief Financial Officer and Key Managerial Personnel of the Company, with effect from close of business hours on November 30, 2025."
+     "quote": "On the recommendation of the Nomination and Remuneration Committee and Audit Committee, appointment of Mr. Hari Haran Chalat as Chief Financial Officer of the Company with effect from January 31, 2026."
     },
     {
      "seat": "CMD",
@@ -43798,11 +43792,18 @@
       "name": "Ashok Atluri",
       "effective": "2026-05-01",
       "interim": false,
-      "from_where": "promoter family",
+      "from_where": "internal",
       "age": "not stated",
       "qualifications": "post-graduate diploma holder in applied computer science",
       "experience_years": "not stated",
-      "previous_roles": [],
+      "previous_roles": [
+       {
+        "company": "Zen Technologies Limited",
+        "role": "Chairman and Managing Director",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
       "profile": "Mr. Ashok Atluri is a post-graduate diploma holder in applied computer science. He is credited with designing simulators on the Windows-Intel platform that have set industry standards and are known for their simplicity. In recognition of his achievements, he was named 'Small Scale Entrepreneur of the Year' by the Hyderabad Management Association in 1998. Under his leadership, Zen Technologies has set benchmarks in defence simulation and training."
      },
      "status": "announced, not yet effective",
@@ -43830,7 +43831,14 @@
       "age": "not stated",
       "qualifications": "post-graduate in Computer Application from the University of Hyderabad",
       "experience_years": "not stated",
-      "previous_roles": [],
+      "previous_roles": [
+       {
+        "company": "Zen Technologies Limited",
+        "role": "President and Joint Managing Director",
+        "from": "not stated",
+        "to": "not stated"
+       }
+      ],
       "profile": "Mr. Kishore Dutt Atluri is a post-graduate in Computer Application from the University of Hyderabad. With over 21 patents to his name, he has a deep understanding of simulation technology and its applications for defence and homeland security. He has been instrumental in the development of Zen's range of virtual and live simulation systems, including simulators for Infantry, Armoured Corps, Mech Forces, and Air Defence; thus catering to the needs of Police Forces, Central Police Organisations, Civilians, and Miners. His primary roles at Zen include technology direction and product development, aligned with the Company's strategy."
      },
      "status": "announced, not yet effective",
@@ -43838,7 +43846,7 @@
      "quote": "On the recommendation of the Nomination and Remuneration Committee, re-appointment of Mr. Kishore Dutt Atluri (DIN: 09691242) as President and Joint Managing Director of the Company for a period of three consecutive years with effect from May 01, 2026, subject to the approval of the shareholders."
     }
    ],
-   "read": ""
+   "read": "These Zen Technologies filings cover the CFO transition from Afzal Harunbhai Malkani (ceased 30 November 2025) to Hari Haran Chalat (effective 31 January 2026), the re-appointments of Ashok Atluri as Chairman and Managing Director and Kishore Dutt Atluri as President and Joint Managing Director from 1 May 2026, Q3 FY26 results and a product press release."
   }
  },
  "AARTIIND::own": {
@@ -44136,12 +44144,12 @@
   }
  },
  "ZAGGLE::seat": {
-  "stamp": "a5858ef0744d60cf2b58ad223beae4c7",
+  "stamp": "f3b1f18cdcb802f547a9dff41a03fb8f",
   "answer": {
    "changes": [
     {
      "seat": "CFO",
-     "designation_as_written": "Chief Financial Officer (Key Managerial Personnel and Senior Management)",
+     "designation_as_written": "Chief Financial Officer / Interim Chief Financial Officer (Key Managerial Personnel and Senior Management)",
      "is_change": true,
      "not_a_change_because": "",
      "outgoing": {
@@ -44162,19 +44170,19 @@
       "experience_years": "20+ years",
       "previous_roles": [
        {
-        "company": "Zaggle Prepaid Ocean Services Limited",
-        "role": "Deputy CFO",
+        "company": "E&Y",
+        "role": "Started professional career with E&Y",
         "from": "not stated",
-        "to": "2026"
+        "to": "not stated"
        },
        {
-        "company": "E&Y",
+        "company": "one of the pioneers of online gaming industry",
         "role": "not stated",
         "from": "not stated",
         "to": "not stated"
        }
       ],
-      "profile": "Rajesh Tummalganti is a certified member of The Institute of Chartered Accountants of India, New Delhi and an astute finance professional with 20+ years of experience. Started professional career with E&Y which has made the foundation strong and worked with one of the pioneers of online gaming industry for most of his professional stint. Trusted partner to Boards, Promoters, and Audit Committees renowned for enabling strategic decision-making in investments, M&A, Governance and Cost optimization, ensuring sustainable EBITDA growth and high ROI. Proficient in financial governance, risk management, investor relations and regulatory compliance with hands-on experience in Ind-AS reporting, transfer pricing, secretarial compliance, corporate governance."
+      "profile": "Rajesh Tummalganti is a certified member of The Institute of Chartered Accountants of India, New Delhi and an astute finance professional with 20+ years of experience. Started professional career with E&Y which has made the foundation strong and worked with one of the pioneers of online gaming industry for most of his professional stint. Trusted partner to Boards, Promoters, and Audit Committees renowned for enabling strategic decision-making in investments, M&A, Governance and Cost optimization, ensuring sustainable EBITDA growth and high ROI."
      },
      "status": "effective",
      "announced_on": "2026-04-03",
@@ -44249,7 +44257,7 @@
      },
      "status": "effective",
      "announced_on": "2026-05-13",
-     "quote": "the Board of Directors of the Zaggle Prepaid Ocean Services Limited (Company) at its meeting held today i.e. May 13, 2026, has, inter alia, approved the appointment of Mr. Venkatesh Ramachandran as Group Chief Financial Officer (Key Managerial Personnel and Senior Management) of the Company with effect from May 18, 2026, on the recommendation of Nomination and Remuneration Committee and Audit Committee."
+     "quote": "this is to inform you that the Board of Directors of the Zaggle Prepaid Ocean Services Limited (Company) at its meeting held today i.e. May 13, 2026, has, inter alia, approved the appointment of Mr. Venkatesh Ramachandran as Group Chief Financial Officer (Key Managerial Personnel and Senior Management) of the Company with effect from May 18, 2026, on the recommendation of Nomination and Remuneration Committee and Audit Committee."
     },
     {
      "seat": "CFO",
@@ -44298,14 +44306,14 @@
         "to": "not stated"
        }
       ],
-      "profile": "Samar Vijay Pupala is a global finance executive with over 30 years of cross-border leadership across equity markets, banking, fintech, digital payments, e-commerce, and taxation in India, the Middle East, West Africa, and East Africa. Specializing in financial strategy, corporate restructuring, M&A due diligence, and multi-entity consolidation, he serves as a trusted strategic partner to Boards and shareholders on complex investment, financing, and scaling decisions. … His leadership track record includes serving as Chief Financial Officer at Bank Al Khair B.S.C. (c) and Zaggle. He also served as a Board Member and Chief Financial Officer at TimesofMoney."
+      "profile": "Samar Vijay Pupala is a global finance executive with over 30 years of cross-border leadership across equity markets, banking, fintech, digital payments, e-commerce, and taxation in India, the Middle East, West Africa, and East Africa. Specializing in financial strategy, corporate restructuring, M&A due diligence, and multi-entity consolidation, he serves as a trusted strategic partner to Boards and shareholders on complex investment, financing, and scaling decisions. Most recently, as Senior Finance Director at Kyosk Digital Services and Y9 Inc. (Tanzania & Nigeria), Samar spearheaded a company-wide strategic turnaround across a four-country operation, mitigating forex volatility, and structuring a new lending flywheel to drive merchant growth."
      },
      "status": "effective",
      "announced_on": "2026-11-06",
      "quote": "Based on the recommendation of the Audit Committee and the Nomination and Remuneration Committee, the Board of Directors has appointed Mr. Samar Vijay Pupala as the Chief Financial Officer (CFO) (Key Managerial Personnel and Senior Management) of the Company under the provisions of the Companies Act, 2013 and Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, effective from November 6, 2026."
     }
    ],
-   "read": "These are Zaggle board-meeting outcome filings on Key Managerial Personnel changes in the finance seat, which turned over three times in the period, while Avinash Ramesh Godkhindi remained Managing Director and Chief Executive Officer throughout with no change to that seat disclosed."
+   "read": ""
   }
  },
  "ADANIPORTS::own": {

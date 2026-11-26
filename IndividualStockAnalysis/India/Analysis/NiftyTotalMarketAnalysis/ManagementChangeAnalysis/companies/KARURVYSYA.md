@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer and Key Managerial Personnel** | Ramshankar R (moved to another role in the company or group) | Ramasamy G V (internal; from 2026-09-01) | effective | 2026-06-23 |
 
-- **Why Ramshankar R is leaving, in the filing's words:** “Elevation and Succession to incumbent Chief Financial Officer who is transitioning into a new role” Stays on as: Chief General Manager effective September 01, 2026 and Chief Operating Officer, Material Risk Taker and Key Managerial Personnel with effect from October 16, 2026; would continue to oversee the Finance and Control Department.
-- In the documents: “Shri Ramasamy G V, incumbent Senior Deputy General Manager and Head of Accounts and Taxation, is elevated to the rank of General Manager and appointed as Chief Financial Officer and Key Managerial Personnel, effective September 01, 2026, subsequent to the internal movement of Shri Ramshankar R, incumbent Chief Financial Officer to the Operations Department in preparation for his transition to the role of Chief Operating Officer.” — [2026-09-01 General Updates](https://nsearchives.nseindia.com/corporate/KARURVYSYA_01092026215511_NSE_BSE_Change_in_SMP_DSC.pdf) · [2026-08-05 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KARURVYSYA_05082026204826_AGM_Proceedings_DSC.pdf) · [2026-06-23 Change in Management](https://nsearchives.nseindia.com/corporate/KARURVYSYA_23062026192426_NSE_BSE_Outcome_of_BM_HRD_23062026_DSC.pdf)
+- **Why Ramshankar R is leaving, in the filing's words:** “Further, incumbent Chief Financial Officer, Shri Ramshankar R, consequent to his elevation as Chief General Manager is in transition to the role of Chief Operating Officer.” Stays on as: Chief General Manager (effective September 01, 2026) and Chief Operating Officer, Material Risk Taker and Key Managerial Personnel with effect from October 16, 2026; would continue to oversee the Finance and Control Department.
+- In the documents: “In continuation to our earlier intimation dated 23rd June 2026 on changes in Senior Management Personnel, we hereby inform that Shri Ramasamy G V, Senior DGM, has taken charge as Chief Financial Officer and Key Managerial Personnel in the rank of General Manager, today, i.e., 01st September 2026.” — [2026-09-01 General Updates](https://nsearchives.nseindia.com/corporate/KARURVYSYA_01092026215511_NSE_BSE_Change_in_SMP_DSC.pdf) · [2026-08-05 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KARURVYSYA_05082026204826_AGM_Proceedings_DSC.pdf) · [2026-06-23 Change in Management](https://nsearchives.nseindia.com/corporate/KARURVYSYA_23062026192426_NSE_BSE_Outcome_of_BM_HRD_23062026_DSC.pdf)
 
 *All 7 filing(s) read for the seats:* [2026-09-01 General Updates](https://nsearchives.nseindia.com/corporate/KARURVYSYA_01092026215511_NSE_BSE_Change_in_SMP_DSC.pdf) · [2026-08-05 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KARURVYSYA_05082026204826_AGM_Proceedings_DSC.pdf) · [2026-06-23 Change in Management](https://nsearchives.nseindia.com/corporate/KARURVYSYA_23062026192426_NSE_BSE_Outcome_of_BM_HRD_23062026_DSC.pdf) · [2026-04-24 Updates](https://nsearchives.nseindia.com/corporate/KARURVYSYA_24042026210138_Reappointment_of_MD_CEO_NSE_BSE_RBI_DSC.pdf) · [2026-04-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KARURVYSYA_17042026195931_NSE_BSE_Report_Voting_results_DSC.pdf) · [2026-03-17 Shareholders meeting](https://nsearchives.nseindia.com/corporate/KARURVYSYA_17032026211124_NSE_BSE_Intimation_DSC.pdf) · +1 more
 
@@ -57,8 +57,8 @@ The filing's own profile: “Shri Ramasamy G V is a qualified Chartered Accounta
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Senior Deputy General Manager and Head - Accounts & Taxation | The Karur Vysya Bank Limited (KARURVYSYA) | — | 2026 |
-| Branch Head, Credit Processing Cell Head, Cluster Head | The Karur Vysya Bank Limited (KARURVYSYA) | 2007 | — |
+| Senior Deputy General Manager and Head - Accounts & Taxation | The Karur Vysya Bank Limited (KARURVYSYA) | 2007 | 2026 |
+| Branch Head, Credit Processing Cell Head, Cluster Head | The Karur Vysya Bank Limited (KARURVYSYA) | — | — |
 
 ### 5. On the calls
 

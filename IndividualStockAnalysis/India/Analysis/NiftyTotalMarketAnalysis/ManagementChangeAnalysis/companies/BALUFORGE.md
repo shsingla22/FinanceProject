@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer (CFO) and Key Managerial Personnel of the Company** | Amit Ashok Todkari (resignation; last day 2026-05-25) | Sandeep Singh Chadha (interim; from 2026-05-26) | effective | 2026-05-25 |
+| **Chief Financial Officer (CFO)** | Amit Ashok Todkari (resignation; last day 2026-05-25) | Sandeep Singh Chadha (interim; from 2026-05-26) | effective | 2026-05-25 |
 
 - **Why Amit Ashok Todkari is leaving, in the filing's words:** “Resignation of Mr. Amit Ashok Todkari as Chief Financial Officer, due to personal reasons.” Stays on as: he is transitioning into a wider strategic leadership role befitting his extensive experience within the company (has not resigned at the group level).
 - In the documents: “Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that Mr. Amit Ashok Todkari has resigned from the position of Chief Financial Officer and Key Managerial Personnel of the Company with effect from the close of business hours of May 25, 2026.” — [2026-05-26 Press Release](https://nsearchives.nseindia.com/corporate/BALUFORGE_26052026084929_Intimation.pdf) · [2026-05-25 Resignation](https://nsearchives.nseindia.com/corporate/BALUFORGE_25052026195907_Intimation.pdf) · [2026-05-25 Appointment](https://nsearchives.nseindia.com/corporate/BALUFORGE_25052026200301_Intimation.pdf)
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Amit Ashok Todkari** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company, date of taking the seat not on file.
+**Amit Ashok Todkari** — Chief Financial Officer (CFO), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,9 +57,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Sandeep Singh Chadha** — Chief Financial Officer (CFO) and Key Managerial Personnel of the Company (interim). experience: over 5 years; qualifications: MBA Finance.
+**Sandeep Singh Chadha** — Chief Financial Officer (CFO) (interim). experience: over 5 years; qualifications: MBA Finance.
 
-The filing's own profile: “Mr. Sandeep Singh Chadha is a qualified finance professional with extensive experience in the field of accounting, finance, taxation, and corporate compliance. He holds qualifications such as MBA Finance and has over 5 years of experience in: Financial planning & analysis; Corporate accounting and reporting; Treasury and working capital management; Statutory audit coordination; Regulatory and SEBI/Companies Act compliance”
+The filing's own profile: “Mr. Sandeep Singh Chadha is a qualified finance professional with extensive experience in the field of accounting, finance, taxation, and corporate compliance. He holds qualifications such as MBA Finance and has over 5 years of experience in: Financial planning & analysis, Corporate accounting and reporting, Treasury and working capital management, Statutory audit coordination, Regulatory and SEBI/Companies Act compliance”
 
 ### 5. On the calls
 

@@ -67,7 +67,7 @@
 
 What the documents say about them: “"The Acquirer, i.e., Motion JVCo Limited, is a private limited company incorporated on December 1, 2025, under the laws of Jersey (registered number 163042)." "The Acquirer is engaged in investment holding and related activities." "The Acquirer is a part of Stonepeak Infrastructure Fund V." It is "a subsidiary and is under the sole control of PAC 1, which is in turn indirectly held and controlled by PAC 2 and PAC 3." PAC 1 holds 65% and BP Motion Holdings Limited 35% of the Acquirer. PAC 4, CPP Investment Board Private Holdings (6) Inc., "is an indirect wholly-owned subsidiary of Canada Pension Plan Investment Board" and "holds a non-controlling interest". No audited financials of the Acquirer exist — first year of operations.”
 
-**Saugata Basuray** — Managing Director. from: internal; experience: over 26 years of experience across sales, marketing, and business leadership; qualifications: MBA from Symbiosis Institute of Business Management (SIBM); Engineering degree from the University of Pune.
+**Saugata Basuray** — Managing Director. from: internal; experience: over 26 years; qualifications: MBA from Symbiosis Institute of Business Management (SIBM); Engineering degree from the University of Pune.
 
 The filing's own profile: “Mr. Saugata Basuray is currently the Wholetime Director and Interim Chief Executive Officer of the Company. With over 26 years of experience across sales, marketing, and business leadership, Mr. Basuray has built a rich and diverse career with Castrol India Limited. He joined the Company as a Management Trainee in 1999, soon after completing his MBA from Symbiosis Institute of Business Management (SIBM) and has since grown though a series of impactful roles in India and abroad.”
 
@@ -75,9 +75,9 @@ The filing's own profile: “Mr. Saugata Basuray is currently the Wholetime Dire
 |---|---|---|---|
 | Management Trainee | Castrol India Limited (CASTROLIND) | 1999 | — |
 | Executive Assistant to the Managing Director of the Company and Regional Vice President bp | Castrol India Limited (CASTROLIND) | — | — |
-| part of the marketing team that helped shape Castrol Edge into a global power brand | Castrol (global head quarter, UK) | 2008 | — |
+| part of the marketing team that helped shape Castrol Edge into a global power brand | Castrol global head quarter in the UK | 2008 | — |
 | led sales for the B2B channel and later Head of Marketing | Castrol India (CASTROLIND) | — | — |
-| lead Castrol Philippines | Castrol Philippines | 2013 | 2017 |
+| lead | Castrol Philippines | 2013 | 2017 |
 | Managing Director | Castrol's joint venture in Indonesia | — | — |
 | Wholetime Director and Head-B2C Business | Castrol India Limited (CASTROLIND) | — | — |
 | Whole time Director & Interim Chief Executive Officer | Castrol India Limited (CASTROLIND) | — | 2026 |

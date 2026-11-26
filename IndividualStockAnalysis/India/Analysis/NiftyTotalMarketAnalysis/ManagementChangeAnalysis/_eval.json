@@ -1232,7 +1232,7 @@
     ],
     "from_call": "Nov 2025",
     "to_call": "May 2026",
-    "skill": "judge read, no change",
+    "skill": "dropped: not a change: other: Mr. Rohit Soni is listed as Chief Financial Officer in the revised list of Key Managerial Personnel effective February 1, 2026, but these documents state no appointment, cessation or re-designation of the Chief Financial Officer, and name no outgoing holder.",
     "reviewed": ""
    },
    {
@@ -1338,21 +1338,6 @@
     "reviewed": ""
    },
    {
-    "symbol": "HEROMOTOCO",
-    "seat": "CEO",
-    "before": [
-     "v s ka sbeka r",
-     "vikram kasbekar"
-    ],
-    "after": [
-     "harshavardhan chitale"
-    ],
-    "from_call": "Nov 2025",
-    "to_call": "May 2026",
-    "skill": "dropped: before the window (2025-11-01)",
-    "reviewed": ""
-   },
-   {
     "symbol": "IDEA",
     "seat": "CEO",
     "before": [
@@ -1363,7 +1348,7 @@
     ],
     "from_call": "Sep 2025",
     "to_call": "May 2026",
-    "skill": "dropped: no date in the documents (the change may predate the window)",
+    "skill": "dropped: before the window (2025-11-01)",
     "reviewed": ""
    },
    {
@@ -1465,7 +1450,7 @@
     ],
     "from_call": "Nov 2025",
     "to_call": "Feb 2026",
-    "skill": "dropped: not a change: other: the AGM notice only seeks approval to revise the remuneration of the incumbent Dr. Emmanuel Rupert for the remaining tenure of his existing appointment (upto February 10, 2028); no appointment, cessation or vacancy of the seat is stated",
+    "skill": "dropped: not a change: other: the documents only revise the remuneration of the sitting Managing Director & Group CEO for the remaining tenure of his existing appointment; no appointment to, or departure from, the seat is stated",
     "reviewed": ""
    },
    {
@@ -1479,7 +1464,7 @@
     ],
     "from_call": "Nov 2025",
     "to_call": "May 2026",
-    "skill": "judge read, no change",
+    "skill": "dropped: not a change: other: KMP contact-details disclosure only; the same person, Bijoy Kumar Biswal, continues as Chief Financial Officer and no appointment, resignation or re-designation of the CFO is stated",
     "reviewed": ""
    },
    {
@@ -1495,7 +1480,7 @@
     ],
     "from_call": "Oct 2025",
     "to_call": "Jul 2026",
-    "skill": "dropped: not a change: not this company \u2014 the passage discusses AUM, ROAUM and a lending book ('double our AUM to more than 1.5 lakh crores'), not Piramal Pharma's pharmaceuticals business, and the remark pre-dates the 2025-11-26 to 2026-11-26 window",
+    "skill": "dropped: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -1542,6 +1527,22 @@
     "reviewed": ""
    },
    {
+    "symbol": "SBIN",
+    "seat": "MD",
+    "before": [
+     "rana ashutosh kumar singh",
+     "vinay m tonse"
+    ],
+    "after": [
+     "ram a mohan rao amara",
+     "ravi ranjan"
+    ],
+    "from_call": "Nov 2025",
+    "to_call": "May 2026",
+    "skill": "dropped: not a change: not the chief executive",
+    "reviewed": ""
+   },
+   {
     "symbol": "SONATSOFTW",
     "seat": "CFO",
     "before": [
@@ -1580,7 +1581,7 @@
     ],
     "from_call": "Sep 2025",
     "to_call": "May 2026",
-    "skill": "judge read, no change",
+    "skill": "dropped: not a change: other: the seat change took effect on 01 September 2025, before the 2025-11-26 to 2026-11-26 period; the documents only report it retrospectively",
     "reviewed": ""
    },
    {
@@ -1638,7 +1639,7 @@
     ],
     "from_call": "Nov 2025",
     "to_call": "Jun 2026",
-    "skill": "dropped: not a change: other: the cessation was only as Key Managerial Personnel under Section 203; he continues to hold the chief executive seat of the Company, and the Board merely revised his remuneration",
+    "skill": "dropped: not a change: other: Mr. Tarun Sawhney ceased only to be a Key Managerial Personnel of Triveni Engineering & Industries Ltd. for compliance with Section 203 of the Companies Act, 2013, and continues to hold the same chief-executive seat of the Company; his remuneration was also revised in the seat he already holds",
     "reviewed": ""
    },
    {
@@ -1666,7 +1667,6 @@
    "EXIDEIND",
    "FORTIS",
    "FORTIS",
-   "HEROMOTOCO",
    "IDEA",
    "INOXGREEN",
    "INOXWIND",
@@ -1680,6 +1680,7 @@
    "PPLPHARMA",
    "PRAJIND",
    "REDINGTON",
+   "SBIN",
    "SONATSOFTW",
    "SUBROS",
    "SUNPHARMA",
@@ -1709,7 +1710,7 @@
     "headline": "Affle 3i Limited has informed the Exchange regarding Appointment of Mr Sameer Sondhi as as Chief Executive Officer, North America and Chief Strategic Investments Officer, Developed Markets, designated",
     "date": "2026-01-02",
     "attachment": "https://nsearchives.nseindia.com/corporate/AFFLE_02012026110310_Appointment_as_senior_management_Sameer_Sondhi.pdf",
-    "skill": "CEO: not a change: division or subsidiary seat",
+    "skill": "CEO: not a change: division or subsidiary seat \u2014 a regional CEO (North America) designated as Senior Management Personnel, not the company's chief executive; Anuj Khanna Sohum remains Chairperson, MD & CEO",
     "reviewed": ""
    },
    {
@@ -1718,7 +1719,7 @@
     "headline": "Apar Industries Limited has informed the Exchange regarding Resignation of Mr. Shashi Amin, as Chief Executive Officer of the company w.e.f. December 12, 2025.",
     "date": "2025-12-15",
     "attachment": "https://nsearchives.nseindia.com/corporate/APARINDS_15122025125716_FinalIntimationwithresignationletter.pdf",
-    "skill": "CEO: not a change: division or subsidiary seat; MD & CEO: not a change: other: appointment is to a Non-Executive Independent Director seat, not the chief executive or finance seat; the 'MD & CEO' reference is a past job at another company in his profile",
+    "skill": "CEO: not a change: division or subsidiary seat; MD & CEO: not a change: not this company",
     "reviewed": ""
    },
    {
@@ -1727,7 +1728,7 @@
     "headline": "Ashapura Minechem Limited has informed the Exchange regarding Appointment of Mr HEMUL SHAH as Executive Director & CEO of the company w.e.f. February 16, 2026.",
     "date": "2026-02-05",
     "attachment": "https://nsearchives.nseindia.com/corporate/ASHAPURMIN_05022026203138_Outcome05022026.pdf",
-    "skill": "CEO: not a change: re-appointment; MD: not a change: division or subsidiary seat",
+    "skill": "CEO: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -1736,7 +1737,7 @@
     "headline": "Bajaj Electricals Limited has informed the Exchange regarding Appointment of Mr. Sanjay Sachdeva as Managing Director & CEO of the company w.e.f. April 01, 2027.",
     "date": "2026-10-28",
     "attachment": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026145908_SEIntimationOutcome.pdf",
-    "skill": "Executive Chairman: not a change: other: the Executive Chairman is not the Company's chief executive \u2014 the documents state the Company is led by Managing Director & Chief Executive Officer Mr. Sanjay Sachdeva, who continues in that seat; MD & CEO: not a change",
+    "skill": "Executive Chairman: not a change: not the chief executive; MD & CEO: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -1754,7 +1755,7 @@
     "headline": "BLS International Services Limited has informed the Exchange regarding Appointment of Mr Shikhar Aggarwal as Managing Director of the company w.e.f. Jun 17, 2027.",
     "date": "2026-08-07",
     "attachment": "https://nsearchives.nseindia.com/corporate/BLS_07082026195810_Final_Outcome_07082026_signed.pdf",
-    "skill": "MD: not a change: deputy or joint seat",
+    "skill": "MD: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -1781,7 +1782,7 @@
     "headline": "Eicher Motors Limited has informed the Exchange about General Updates on VE Commercial Vehicles Ltd appoints B Srinivas as Managing Director and CEO & Vinod Aggarwal as Chairman",
     "date": "2026-03-10",
     "attachment": "https://nsearchives.nseindia.com/corporate/rahulrathore_royalenfield_com_10032026181624_EML_VECV_Intimation_Final_Signed.pdf",
-    "skill": "Executive Chairman: not a change: deputy or joint seat; MD & CEO: not a change: division or subsidiary seat",
+    "skill": "Executive Chairman: not a change: not the chief executive; MD & CEO: not a change: division or subsidiary seat",
     "reviewed": ""
    },
    {
@@ -1799,7 +1800,7 @@
     "headline": "Appointment of Mr. Sachin Sahay as Chief Executive Officer of Birla Opus Paints, and as Senior Management Personnel of the Company",
     "date": "2026-01-16",
     "attachment": "https://nsearchives.nseindia.com/corporate/GRASIM_16012026112645_SEIntimation_ChangeinSMP_16012026.pdf",
-    "skill": "CEO: not a change: division or subsidiary seat",
+    "skill": "CEO: not a change: division or subsidiary seat; MD: not a change: division or subsidiary seat",
     "reviewed": ""
    },
    {
@@ -1817,7 +1818,7 @@
     "headline": "Jubilant Pharmova Limited has informed the Exchange regarding Appointment of Mr. Priyavrat Bhartia as Managing Director of the company w.e.f. Jun 01, 2026.",
     "date": "2026-05-22",
     "attachment": "https://nsearchives.nseindia.com/corporate/JUBLPHARMA_22052026145717_MDJMDSIGNED.pdf",
-    "skill": "MD: not a change: deputy or joint seat; MD: not a change: re-appointment",
+    "skill": "MD: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -1826,7 +1827,7 @@
     "headline": "KFin Technologies Limited has informed the Exchange regarding a press release dated February 25, 2026, titled \"MF Central Strengthens Independent Governance; Appoints Supratim Bandyopadhyay as Non-Exe",
     "date": "2026-02-25",
     "attachment": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_25022026160728_Intimation.pdf",
-    "skill": "CEO: not a change: not this company; MD & CEO: not a change: other: only a revision in remuneration of the same incumbent, approved by members; he continues in the seat",
+    "skill": "CEO: not a change: not this company \u2014 the seat is at MFC Technologies Private Limited, the CAMS-KFintech joint venture, not at KFin Technologies Limited; MD & CEO: not a change: other: only a revision in remuneration of the incumbent \u2014 the same person continue",
     "reviewed": ""
    },
    {
@@ -1835,7 +1836,7 @@
     "headline": "With reference to the announcement made on November 05, 2025, regarding the resignation of Mr. Rajan Bala Venkatesan, Chief Financial Officer, we wish to inform you that, following discussions with th",
     "date": "2026-01-14",
     "attachment": "https://nsearchives.nseindia.com/corporate/LATENTVIEW_14012026120322_SEintimationwithdrawalSigned.pdf",
-    "skill": "CFO: not a change: other: the Chief Financial Officer withdrew his earlier resignation without a break in service and continues in the seat \u2014 the Company states there is no change in Key Managerial Personnel",
+    "skill": "CFO: not a change: other: the resignation announced on November 05, 2025 was withdrawn on January 14, 2026 without a break in service, and the same person continues as CFO",
     "reviewed": ""
    },
    {
@@ -1844,7 +1845,7 @@
     "headline": "Life Insurance Corporation of India has informed the Exchange regarding Appointment of Mr Ramakrishnan Chander as Managing Director of the Corporation w.e.f. December 01, 2025.",
     "date": "2025-12-01",
     "attachment": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_01122025214032_Intimation_MDRC_01122025.pdf",
-    "skill": "MD: not a change: other: one of several Managing Directors who is not the Corporation's chief executive \u2014 the chief executive seat is held throughout by Shri R. Doraiswamy, Chief Executive Officer & Managing Director",
+    "skill": "MD & CEO: not a change: division or subsidiary seat; MD: not a change: not the chief executive",
     "reviewed": ""
    },
    {
@@ -1880,7 +1881,7 @@
     "headline": "Paradeep Phosphates Limited has informed the Exchange regarding Appointment of Mr N Suresh Krishnan as Managing Director & CEO of the company w.e.f. February 16, 2026.",
     "date": "2026-02-02",
     "attachment": "https://nsearchives.nseindia.com/corporate/PPLTD_02022026190907_Outcome02022026.pdf",
-    "skill": "MD: not a change: deputy or joint seat; MD: not a change: re-appointment",
+    "skill": "CFO: not a change: other: KMP contact-details disclosure only; the same person, Bijoy Kumar Biswal, continues as Chief Financial Officer and no appointment, resignation or re-designation of the CFO is stated; MD: not a change: deputy or joint seat; MD: not a c",
     "reviewed": ""
    },
    {
@@ -1889,7 +1890,7 @@
     "headline": "Pricol Limited has informed the Exchange regarding Appointment of Mr.Vikram Mohan as Chairman & Managing Director of the company w.e.f. May 14, 2026.",
     "date": "2026-05-14",
     "attachment": "https://nsearchives.nseindia.com/corporate/PRICOLLTD_14052026201017_sedisclosure.pdf",
-    "skill": "CMD: not a change: same person, new title; Executive Chairman: not a change: other: Mrs.Vanitha Mohan was Chairman of the Board and a Director, not the Company's chief executive \u2014 the chief executive seat is held by Mr.Vikram Mohan, Managing Director, who cont",
+    "skill": "CMD: not a change: same person, new title; Executive Chairman: not a change: not the chief executive",
     "reviewed": ""
    },
    {
@@ -1947,21 +1948,12 @@
     "reviewed": ""
    },
    {
-    "symbol": "RELIGARE",
-    "group": "CEO/MD",
-    "headline": "Religare Enterprises Limited has informed the Exchange regarding Appointment of Mr Arjun Lamba as Managing Director of the company w.e.f. August 12, 2026.",
-    "date": "2026-08-12",
-    "attachment": "https://nsearchives.nseindia.com/corporate/RELIGARE_12082026202225_RELOUTCOME120820260.pdf",
-    "skill": "CFO: not a change: division or subsidiary seat; MD & CEO: not a change: division or subsidiary seat; MD: not a change: division or subsidiary seat; MD: not a change: same person, new title",
-    "reviewed": ""
-   },
-   {
     "symbol": "RKFORGE",
     "group": "CEO/MD",
     "headline": "Ramkrishna Forgings Limited has informed the Exchange regarding Appointment of Mr Mr. Naresh Jalan as Managing Director of the company w.e.f. November 05, 2026.",
     "date": "2026-05-01",
     "attachment": "https://nsearchives.nseindia.com/corporate/RKFORGE_01052026175232_BMOutcom1May26.pdf",
-    "skill": "MD & CEO: not a change: not this company; MD: not a change: deputy or joint seat; MD: not a change: re-appointment",
+    "skill": "MD: not a change: deputy or joint seat; MD: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -1979,7 +1971,16 @@
     "headline": "Sanofi India Limited has informed the Exchange regarding 'Intimation Regarding Receipt Of Central Government Approval For Appointment Of The Managing Director Of The Company'.",
     "date": "2026-04-02",
     "attachment": "https://nsearchives.nseindia.in/corporate/COSECSANOFI_02042026195933_Intimation_-Approval_Signed.pdf",
-    "skill": "MD: not a change: other: in-period filing only reports receipt of Central Government approval on 1st April 2026 for an appointment already effective 27th October 2025 and announced on 27th October 2025, before this period; the interim Managing Director stint o",
+    "skill": "MD: not a change: other: Mr. Deepak Arora's appointment as Managing Director took effect 27th October 2025, before the review period began; the 2nd April 2026 filing only intimates receipt of Central Government approval for that same appointment, and the inter",
+    "reviewed": ""
+   },
+   {
+    "symbol": "SBIN",
+    "group": "CEO/MD",
+    "headline": "State Bank of India has informed the Exchange about Assumption of Charge by Shri Ashwini Kumar Tewari, Managing Director of the Bank",
+    "date": "2026-01-28",
+    "attachment": "https://nsearchives.nseindia.com/corporate/SBIN_28012026113842_BSE_NSE_AKT_28012026.pdf",
+    "skill": "CFO: not a change: deputy or joint seat; MD & CEO: not a change: division or subsidiary seat; MD: not a change: not the chief executive; MD: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -2006,7 +2007,7 @@
     "headline": "UNO Minda Limited has informed the Exchange regarding Appointment of Mr Vivek Shripad Joshi as CEO-LPS Domain of the company w.e.f. April 19, 2026.",
     "date": "2026-04-19",
     "attachment": "https://nsearchives.nseindia.com/corporate/MINDAIND1_19042026150053_Outcome_SMP_App_VivekJoshi.pdf",
-    "skill": "CEO: not a change: division or subsidiary seat; CFO: not a change: other: Mr. Sunil Bohra appears only as the CFO quoted in the Q1 FY27 press release; no appointment, cessation or other change to the seat is stated; MD: not a change: other: Mr. Ravi Mehra appe",
+    "skill": "CEO: not a change: division or subsidiary seat",
     "reviewed": ""
    },
    {
@@ -2015,7 +2016,7 @@
     "headline": "V2 Retail Limited has informed the Exchange regarding Appointment of Mr Ram Chandra Agarwal as Chairman & Managing Director of the company w.e.f. November 22, 2026.",
     "date": "2026-05-28",
     "attachment": "https://nsearchives.nseindia.com/corporate/V2RETAIL_28052026190338_Covering_MD_Appointment.pdf",
-    "skill": "CEO: not a change: other: no appointment, cessation or vacancy of the CEO seat is stated; the seat is only mentioned in a relationship disclosure, and the February 2026 earnings call says management is still searching for a new CEO with no candidate appointed;",
+    "skill": "CMD: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -2024,7 +2025,7 @@
     "headline": "V-Guard Industries Limited has informed the Exchange regarding Appointment of Mr Mithun K Chittilappilly as Chairman & Managing Director of the company w.e.f. September 27, 2026.",
     "date": "2026-07-29",
     "attachment": "https://nsearchives.nseindia.com/corporate/VGUARD4321_29072026133228_OutcomeIntimation.pdf",
-    "skill": "Executive Chairman: not a change: other: non-executive Independent Director chairperson, not the company's chief executive (the Managing Director is); Executive Chairman: not a change: same person, new title; MD: not a change: re-appointment",
+    "skill": "Executive Chairman: not a change: not the chief executive; Executive Chairman: not a change: same person, new title; MD: not a change: re-appointment",
     "reviewed": ""
    },
    {
@@ -2075,10 +2076,10 @@
    "RATEGAIN",
    "RAYMOND",
    "RCF",
-   "RELIGARE",
    "RKFORGE",
    "SAFARI",
    "SANOFI",
+   "SBIN",
    "SOBHA",
    "STLTECH",
    "UNOMINDA",
@@ -2354,11 +2355,11 @@
   "wrong": []
  },
  "E8": {
-  "seat_changes": 399,
-  "seat_verified": 387,
-  "ownership": 110,
-  "ownership_verified": 107,
-  "verified_pct": 97.1,
+  "seat_changes": 396,
+  "seat_verified": 391,
+  "ownership": 112,
+  "ownership_verified": 109,
+  "verified_pct": 98.4,
   "unverified": [
    {
     "symbol": "IGL",
@@ -2381,64 +2382,14 @@
     "quote": "We wish to inform you that Mr. Ashok Vaswani, Managing Director & CEO of the Bank, has informed the Board of the Bank that, for personal reasons, he does not wi"
    },
    {
-    "symbol": "LICI",
+    "symbol": "NMDC",
     "seat": "CFO",
     "checks": {
      "names_in_documents": true,
      "quote_in_documents": true,
      "quote_states_a_change": false
     },
-    "quote": "Ms. Sonija M. S., Chief (I/C), Finance & Accounts as Chief Financial Officer of the Corporation w.e.f. November 26, 2026."
-   },
-   {
-    "symbol": "MANAPPURAM",
-    "seat": "CFO",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "Mr. Buvanesh Tharashankar with effect from May 5, 2026 will be the Chief Financial Officer of the Company and will continue as the Group Chief Financial Officer"
-   },
-   {
-    "symbol": "RALLIS",
-    "seat": "CFO",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we wish to inform that i"
-   },
-   {
-    "symbol": "SHRIRAMFIN",
-    "seat": "CFO",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "Mr. Sunder Subramanian Joint Managing Director & Chief Financial Officer"
-   },
-   {
-    "symbol": "SKFINDUS",
-    "seat": "MD",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "we wish to inform change in designation of Mr. Sujeeth Pai (DIN: 07763929) from Whole-Time Director to Managing Director of the Company with effect from 1st Sep"
-   },
-   {
-    "symbol": "STARCEMENT",
-    "seat": "MD & CEO",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "In terms of recommendation of the Nomination & Remuneration Committee, the Board of Directors of the Company, has approved the change in designation of Mr. Tush"
+    "quote": "Accordingly, Shri Anurag Kapil shall be deemed to be Chief Financial Officer (CFO) and Key Managerial Person (KMP) of the Company w.e.f. 31st March 2026 (A/N) f"
    },
    {
     "symbol": "SUMICHEM",
@@ -2449,26 +2400,6 @@
      "quote_states_a_change": false
     },
     "quote": "At the Meeting of the Board of Directors of the Company held today i.e. on 26th May, 2026, the Board has decided to promote Dr. Suresh Ramachandran, Deputy Mana"
-   },
-   {
-    "symbol": "TMPV",
-    "seat": "CFO",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "Today we have with us Mr. P B Balaji, Group CFO , Tata Motors Passenger Vehicles Group; Mr. Shailesh Chandra, MD and CEO Tata Motors Passenger Vehicles Limited;"
-   },
-   {
-    "symbol": "TVSSCS",
-    "seat": "CEO",
-    "checks": {
-     "names_in_documents": true,
-     "quote_in_documents": true,
-     "quote_states_a_change": false
-    },
-    "quote": "Accordingly, Mr. Vikas Chadha is no longer the Global Chief Executive Officer of the Company."
    },
    {
     "symbol": "VEDL",

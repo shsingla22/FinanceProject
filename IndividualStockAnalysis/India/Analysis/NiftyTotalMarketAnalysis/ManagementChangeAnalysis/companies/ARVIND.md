@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director of the Company designated as 'Managing Director & President (Textiles)'** | Susheel Kaul (resignation; last day 2026-03-09) | Punit Lalbhai (internal; from 2026-04-01) | effective | 2026-01-09 |
+| **Managing Director of the Company designated as ‘Managing Director & President (Textiles)’** | Susheel Kaul (resignation; last day 2026-03-09) | Punit Lalbhai (promoter family; from 2026-04-01) | effective | 2026-01-09 |
 
 - **Why Susheel Kaul is leaving, in the filing's words:** “Resignation of Mr. Susheel Kaul (DIN: 08208011) as Managing Director & President (Textiles) and as director due to personal reasons.”
-- In the documents: “In this regard, we hereby inform you that Mr. Susheel Kaul will be relieved from his services of the Company with effect from closure of business hours on March 9, 2026 as mutually agreed by the Company and Mr. Susheel Kaul.” — [2026-03-09 Resignation](https://nsearchives.nseindia.com/corporate/ARVIND1_09032026171039_Arvind.pdf) · [2026-01-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ARVIND1_09012026150149_Arvind.pdf)
+- In the documents: “Pursuant to Regulation 30 read with Schedule III of the SEBI Listing Regulations, we hereby inform you that Mr. Susheel Kaul, Managing Director of the Company designated as ‘Managing Director & President (Textiles)’ has tendered his resignation due to personal reasons.” — [2026-03-09 Resignation](https://nsearchives.nseindia.com/corporate/ARVIND1_09032026171039_Arvind.pdf) · [2026-01-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ARVIND1_09012026150149_Arvind.pdf)
 
 *All 5 filing(s) read for the seats:* [2026-11-06 General Updates](https://nsearchives.nseindia.com/corporate/ARVIND1_06112026125848_AL_SE_Intimation.pdf) · [2026-04-03 Appointment](https://nsearchives.nseindia.com/corporate/ARVIND1_03042026130507_BM_outcome_-_03042026.pdf) · [2026-04-03 Appointment](https://nsearchives.nseindia.com/corporate/ARVIND1_03042026130619_BM_outcome_-_03042026.pdf) · [2026-03-09 Resignation](https://nsearchives.nseindia.com/corporate/ARVIND1_09032026171039_Arvind.pdf) · [2026-01-09 Change in Director(s)](https://nsearchives.nseindia.com/corporate/ARVIND1_09012026150149_Arvind.pdf)
 
@@ -41,7 +41,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Susheel Kaul** — Managing Director of the Company designated as 'Managing Director & President (Textiles)', date of taking the seat not on file.
+**Susheel Kaul** — Managing Director of the Company designated as ‘Managing Director & President (Textiles)’, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -57,9 +57,7 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Punit Lalbhai** — Managing Director of the Company designated as 'Managing Director & President (Textiles)'. from: internal.
-
-The filing's own profile: “Punit Lalbhai, Vice Chairman, Arvind Limited is stepping into an executive role to lead the textiles and apparel business as a part of the company's long term succession plan. The change will be in effect from April 1st, 2026.”
+**Punit Lalbhai** — Managing Director of the Company designated as ‘Managing Director & President (Textiles)’. from: promoter family.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

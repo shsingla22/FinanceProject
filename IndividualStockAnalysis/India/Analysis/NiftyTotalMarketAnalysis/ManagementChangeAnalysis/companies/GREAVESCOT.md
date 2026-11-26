@@ -11,7 +11,7 @@
 | **Chief Financial Officer / Group Chief Financial Officer** | Akhila Balachandar (resignation; last day 2026-03-19) | Manish Poddar (external; from 2026-03-19) | effective | 2026-03-13 |
 
 - **Why Akhila Balachandar is leaving, in the filing's words:** “citing personal reasons and other priorities”
-- In the documents: “Greaves Cotton Limited, one of India's leading diversified engineering companies, today announced the appointment of Manish Poddar as its Group Chief Financial Officer, effective 19th March 2026.” — [2026-03-13 Change in Management](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026103958_Board_Meeting_Intimation.pdf) · [2026-03-13 Cessation](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026104317_Board_Meeting_Intimation.pdf) · [2026-03-13 Appointment](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026105103_Board_Meeting_Intimation.pdf) · +1 more
+- In the documents: “On the recommendation of the Nomination and Remuneration Committee & Audit Committee, approved the appointment of Mr. Manish Poddar as the Group Chief Financial Officer and Key Managerial Personnel of the Company with effect from 19th March, 2026.” — [2026-03-13 Change in Management](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026103958_Board_Meeting_Intimation.pdf) · [2026-03-13 Cessation](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026104317_Board_Meeting_Intimation.pdf) · [2026-03-13 Appointment](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026105103_Board_Meeting_Intimation.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-10-13 Press Release](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13102026161930_GCL_GFL_PRsd.pdf) · [2026-03-13 Change in Management](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026103958_Board_Meeting_Intimation.pdf) · [2026-03-13 Cessation](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026104317_Board_Meeting_Intimation.pdf) · [2026-03-13 Appointment](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026105103_Board_Meeting_Intimation.pdf) · [2026-03-13 Press Release](https://nsearchives.nseindia.com/corporate/GREAVESCOT_13032026114843_Greavescot_13032026.pdf)
 
@@ -65,9 +65,9 @@ The filing's own profile: “Mr. Manish Poddar has over 25 years of experience i
 |---|---|---|---|
 | Chief Financial Officer | GMM Pfaudler Limited (GMMPFAUDLR) | — | — |
 | Chief Financial Officer | GreenCell Mobility Private Limited | — | — |
-| senior finance leadership roles | Diversey India Hygiene Private Limited | — | — |
-| senior finance leadership roles | Ranbaxy/Sun Pharmaceutical Industries Limited | — | — |
-| senior finance leadership roles | Louis Dreyfus India Limited | — | — |
+| senior finance leadership role | Diversey India Hygiene Private Limited | — | — |
+| senior finance leadership role | Ranbaxy/Sun Pharmaceutical Industries Limited | — | — |
+| senior finance leadership role | Louis Dreyfus India Limited | — | — |
 
 Results of **GMM Pfaudler Ltd.** while they were CFO there (annual reports on file show the seat FY2022–FY2025):
 

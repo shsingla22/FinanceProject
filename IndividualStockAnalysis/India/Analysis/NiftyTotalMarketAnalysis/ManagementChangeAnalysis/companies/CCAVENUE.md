@@ -43,9 +43,9 @@ No outgoing person or owner is named (a new seat, or the documents do not say).
 
 ### 4. Track record — the incoming management
 
-**Vishwas Ambalal Patel** — Managing Director and Chief Executive Officer. from: internal; experience: For the past 23 years, he has made significant contributions towards giving shape and direction to the digital payments industry in various capacities.; qualifications: Mr. Patel has studied law and was a practicing counsel on the original side of the Bombay High Court..
+**Vishwas Ambalal Patel** — Managing Director and Chief Executive Officer. from: internal; experience: For the past 23 years; qualifications: Mr. Patel has studied law and was a practicing counsel on the original side of the Bombay High Court..
 
-The filing's own profile: “Mr. Vishwas Ambalal Patel is currently the Chairman of Payments Council of India (PCI), the primary industry body representing all the digital payments providers in India. He also serves as a member in various RBI committees to deepen digital payments in India. Mr. Patel is currently the Joint Managing Director at Infibeam Avenues Limited, one of India's leading digital payments and Fintech Company operating under the flagship brand CCAvenue. Under his able leadership, the Company has developed a full stack payments portfolio covering Payments Acquiring, Payments Issuance, Domestic and International Remittance and Assisted Commerce in financial services. Mr. Patel has studied law and was a practicing counsel on the original side of the Bombay High Court.”
+The filing's own profile: “Mr. Vishwas Ambalal Patel is currently the Chairman of Payments Council of India (PCI), the primary industry body representing all the digital payments providers in India. PCI works closely with the regulators i.e. RBI, Finance Ministry and other government departments and bodies to make 'India a less cash society'. He also serves as a member in various RBI committees to deepen digital payments in India. For the past 23 years, he has made significant contributions towards giving shape and direction to the digital payments industry in various capacities.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

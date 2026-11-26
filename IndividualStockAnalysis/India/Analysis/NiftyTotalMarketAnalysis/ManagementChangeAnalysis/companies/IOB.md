@@ -23,7 +23,7 @@
 |---|---|---|---|---|
 | **Chief Financial Officer of the Bank** | Madhaw Chandra Jha | Akshit Choudhary (internal; from 2026-11-01) | effective | 2026-10-27 |
 
-- **Why Madhaw Chandra Jha is leaving, in the filing's words:** “not stated”
+- **Why Madhaw Chandra Jha is leaving, in the filing's words:** “not stated” Stays on as: Deputy General Manager.
 - In the documents: “We refer to the captioned subject and inform that Board of Directors of the Bank, in its meeting held today has appointed Mr. Akshit Choudhary, General Manager as Chief Financial Officer of the Bank with effect from 01.11.2026 in place of Mr. Madhaw Chandra Jha, Deputy General Manager,” — [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/IOB_27102026173827_Changes_in_CFO.pdf)
 
 *All 1 filing(s) read for the seats:* [2026-10-27 Appointment](https://nsearchives.nseindia.com/corporate/IOB_27102026173827_Changes_in_CFO.pdf)
@@ -68,14 +68,14 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Akshit Choudhary** — Chief Financial Officer of the Bank. from: internal; age 40 years; experience: over 15 years; qualifications: B.Com (Hons), C.A., CAIIB, DTIRM.
 
-The filing's own profile: “Mr. Akshit Choudhary is a Chartered Accountant with over 15 years of professional experience across banking, financial services, auditing, treasury, and business operations. His professional journey includes stints with the Punjab & Sind Bank, PwC SDC and State Bank of India. He brings diverse experience across multiple functional domains, including Audit & Assurance, Integrated Treasury, Branch Manager, and Regional Manager. His exposure to both frontline business operations and Head Office functions provides him with a comprehensive understanding of banking, financial management, risk, and organizational performance. Having worked across more than 5 geographies, he has developed valuable insights into diverse markets, regional business dynamics, and the opportunities and challenges associated with different operating environments.”
+The filing's own profile: “Mr. Akshit Choudhary is a Chartered Accountant with over 15 years of professional experience across banking, financial services, auditing, treasury, and business operations. His professional journey includes stints with the Punjab & Sind Bank, PwC SDC and State Bank of India. He brings diverse experience across multiple functional domains, including Audit & Assurance, Integrated Treasury, Branch Manager, and Regional Manager. His exposure to both frontline business operations and Head Office functions provides him with a comprehensive understanding of banking, financial management, risk, and organizational performance.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
+| General Manager | Indian Overseas Bank (IOB) | — | — |
 | — | Punjab & Sind Bank | — | — |
 | — | PwC SDC | — | — |
 | — | State Bank of India (SBIN) | — | — |
-| General Manager | Indian Overseas Bank (IOB) | — | — |
 
 ### 5. On the calls
 

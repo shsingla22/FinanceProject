@@ -8,13 +8,13 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Finance), NMDC Steel Ltd. (additional charge)** | — (new seat) | Amitava Mukherjee (interim; internal; from 2025-12-06) | effective | 2026-01-27 |
-| **Chief Financial Officer (CFO) / Director (Finance) on the Board** | K Raj Shekhar (interim holder replaced; last day 2026-03-31) | Anurag Kapil (government appointee; from 2026-03-31) | effective | 2026-03-18 |
+| **additional charge of the post of Director (Finance), NMDC Steel Ltd.** | — (new seat) | Amitava Mukherjee (interim; internal; from 2025-12-06) | effective | 2026-01-27 |
+| **Director (Finance) on the Board of NMDC Steel Limited / deemed to be the Chief Financial Officer (CFO) of the Company** | K. Raj Shekhar (interim holder replaced; last day 2026-03-31) | Anurag Kapil (government appointee; from 2026-03-31) | effective | 2026-03-18 |
 
 - **Why the holder is leaving, in the filing's words:** “not stated”
 - In the documents: “With reference to the captioned subject, it is hereby informed that in terms of Ministry of Steel, Government of India Order No. S-14013/1/2024-BLA-Part(1) dated 27.01.2026 read with earlier Order No. 4(3)/2022-NMDC dated 20.03.2023, the additional charge of the post of Director (Finance), NMDC Steel Limited is assigned to Shri Amitava Mukherjee, Chairman & Managing Director, NMDC Steel Ltd. for a period of 3 months w.e.f. 06.12.2025 upto 05.03.2026, or till assumption of charge of the post by the regular incumbent, or until further orders, whichever is the earliest.” — [2026-03-31 Appointment](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026142524_NSLapptofDirFinance.pdf) · [2026-01-27 General Updates](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_27012026183443_NSLAddlchargeDFtoCMD.pdf)
-- **Why K Raj Shekhar is leaving, in the filing's words:** “designate Shri K. Raj Shekhar, General Manager (Finance) as Whole Time Chief Financial Officer and Key Managerial Person (KMP) of the Company till assumption of charge of Whole Time Director (Finance) by new incumbent” Stays on as: General Manager (Finance).
-- In the documents: “It is now informed that Shri Anurag Kapil (DIN: 06640383) has been appointed as Director (Finance) on the Board of NMDC Steel Limited w.e.f 31.03.2026 (A/N) and he shall be deemed to be the Chief Financial Officer (CFO) of the Company.” — [2026-03-31 Appointment](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026142524_NSLapptofDirFinance.pdf) · [2026-03-31 Cessation](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026160454_NSLcessationofCFO.pdf) · [2026-03-18 General Updates](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_18032026220829_NSLSEapptofDF18032026.pdf)
+- **Why K. Raj Shekhar is leaving, in the filing's words:** “Shri Anurag Kapil (DIN: 06640383) has been appointed as Director (Finance) on the Board of NMDC Steel Limited w.e.f 31.03.2026 (A/N) and he shall be deemed to be the Chief Financial Officer (CFO) of the Company.” Stays on as: General Manager (Finance).
+- In the documents: “Shri Anurag Kapil (DIN: 06640383) has been appointed as Director (Finance) on the Board of NMDC Steel Limited for a period of 5 years from the date of his assumption of charge of the post i.e. 31.03.2026 (A/N), or until further orders, whichever is earlier.” — [2026-03-31 Appointment](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026142524_NSLapptofDirFinance.pdf) · [2026-03-31 Cessation](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026160454_NSLcessationofCFO.pdf) · [2026-03-18 General Updates](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_18032026220829_NSLSEapptofDF18032026.pdf)
 
 *All 4 filing(s) read for the seats:* [2026-03-31 Appointment](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026142524_NSLapptofDirFinance.pdf) · [2026-03-31 Cessation](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_31032026160454_NSLcessationofCFO.pdf) · [2026-03-18 General Updates](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_18032026220829_NSLSEapptofDF18032026.pdf) · [2026-01-27 General Updates](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_27012026183443_NSLAddlchargeDFtoCMD.pdf)
 
@@ -42,7 +42,7 @@
 
 ### 3. Track record — the outgoing management
 
-**K Raj Shekhar** — Chief Financial Officer (CFO) / Director (Finance) on the Board, in the seat since FY2026 per the filing.
+**K. Raj Shekhar** — Director (Finance) on the Board of NMDC Steel Limited / deemed to be the Chief Financial Officer (CFO) of the Company, in the seat since FY2026 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Amitava Mukherjee** — Director (Finance), NMDC Steel Ltd. (additional charge) (interim). from: internal.
+**Amitava Mukherjee** — additional charge of the post of Director (Finance), NMDC Steel Ltd. (interim). from: internal.
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -76,16 +76,17 @@ Results of **NMDC Ltd.** while they were Chairman there (annual reports on file 
 | ROE (%) | 24.8 | 22.0 | -2.8 pts |
 | Borrowings (₹ cr) | 2,128 | 4,276 | +2,148 |
 
-**Anurag Kapil** — Chief Financial Officer (CFO) / Director (Finance) on the Board. from: government appointee; experience: 26 years in Indian Railways and CPSUs; qualifications: Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.
+**Anurag Kapil** — Director (Finance) on the Board of NMDC Steel Limited / deemed to be the Chief Financial Officer (CFO) of the Company. from: government appointee; experience: 26 years; qualifications: Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.
 
-The filing's own profile: “Shri Anurag Kapil, an officer of Indian Railway Accounts Service (IRAS) of 1998 Batch, has a versatile experience of 26 years in Indian Railways and CPSUs with a blend of operational expertise & strategic vision to drive transformative changes across critical sectors. He is Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA.”
+The filing's own profile: “Shri Anurag Kapil, an officer of Indian Railway Accounts Service (IRAS) of 1998 Batch, has a versatile experience of 26 years in Indian Railways and CPSUs with a blend of operational expertise & strategic vision to drive transformative changes across critical sectors. He is Chemistry Honors from Hans Raj College and Masters in Business Administration (Finance & Marketing)-Faculty of Management Studies, University of Delhi and Masters in Public Affairs from University of Minnesota, USA. He has worked in various capacities in Indian Railways viz. 2 tenures of Sr. DFM, FA&CAO/Traffic, FA&CAO/Finance & General and Deputy Chief Vigilance Officer. He has also worked as Director in Ministry of Coal from 2013-17 and handled various important assignments.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director Finance (Expenditure) | Railway Board | — | — |
+| Sr. DFM (2 tenures), FA&CAO/Traffic, FA&CAO/Finance & General and Deputy Chief Vigilance Officer | Indian Railways | — | — |
 | Director | Ministry of Coal | 2013 | 2017 |
 | Director (Finance) (Additional Charge) | CONCOR | — | — |
-| Sr. DFM, FA&CAO/Traffic, FA&CAO/Finance & General and Deputy Chief Vigilance Officer | Indian Railways | — | — |
+| Govt. Nominee Director | Singareni Collieries Co. Ltd., Mineral Exploration Corporation Ltd., Railway Energy Management Company Ltd. and Konkan Railway Corporation Ltd. | — | — |
 
 ### 5. On the calls
 

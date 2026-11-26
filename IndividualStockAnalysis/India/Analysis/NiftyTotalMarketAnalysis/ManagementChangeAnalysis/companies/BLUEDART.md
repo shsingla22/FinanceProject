@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director** | Balfour Manuel (resignation; last day 2026-11-29) | Subramanian Sivarama Ramachandran (group company; from 2026-11-30) | announced, not yet effective | 2026-09-15 |
+| **Managing Director** | Balfour Manuel (resignation; last day 2026-11-29) | R. S. Subramanian (group company; from 2026-11-30) | announced, not yet effective | 2026-09-15 |
 
-- **Why Balfour Manuel is leaving, in the filing's words:** “In order to enable smooth and seamless succession in favour of incumbent candidate and in view of certain personal commitments, I am opting for an early superannuation with effect from November 29, 2026 as Managing Director.” Stays on as: Sr. Strategic Advisor to the Managing Director upto May 15, 2027.
+- **Why Balfour Manuel is leaving, in the filing's words:** “Request by Mr. Balfour Manuel (DIN: 08416666), Managing Director, for early superannuation to enable smooth and seamless succession in favour of incumbent candidate and in view of certain personal commitments.” Stays on as: Sr. Strategic Advisor to the Managing Director upto May 15, 2027.
 - In the documents: “Based on recommendation of the Nomination and Remuneration Committee, the Board approved the appointment of Mr. R.S. Subramanian (DIN: 02946608) as the Managing Director of the Company for a period from November 30, 2026 till May 25, 2030.” — [2026-09-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BLUEDART_ROID_98429_KMP_Doc.zip) · [2026-09-15 Change in Management](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_15092026193443_StockExchangeletter.pdf) · [2026-09-15 Resignation](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_15092026193720_StockExchangeletter.pdf) · +1 more
 
 *All 5 filing(s) read for the seats:* [2026-09-16 Press Release](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_16092026181352_SELetterMDPressRelease.pdf) · [2026-09-15 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BLUEDART_ROID_98429_KMP_Doc.zip) · [2026-09-15 Change in Management](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_15092026193443_StockExchangeletter.pdf) · [2026-09-15 Resignation](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_15092026193720_StockExchangeletter.pdf) · [2026-09-15 Change in Director(s)](https://nsearchives.nseindia.com/corporate/pooja_sanghvi_15092026193829_StockExchangeletter.pdf)
@@ -57,17 +57,30 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Subramanian Sivarama Ramachandran** — Managing Director. from: group company; age 61; experience: over 30 years; qualifications: a graduate in Industrial Engineering and holds a Master's in Management from IIM Bangalore.
+**R. S. Subramanian** — Managing Director. from: group company; age 61; experience: over 30 years; qualifications: graduate in Industrial Engineering and holds a Master's in Management from IIM Bangalore.
 
-The filing's own profile: “Mr. R. S. Subramanian (DIN: 02946608), aged 61, is currently the SVP for South Asia and Managing Director of DHL Express India. He is also a member of the DHL Express Asia Pacific Management Board. With over 30 years of experience in both product-led and service industries, Mr. Subramanian possesses extensive expertise in business strategy, marketing, team development and customer management. He joined DHL Express India as the Head of Sales, subsequently moving up to the position of Vice President, South Asia Cluster (RoSA), where he managed operations in Pakistan, Bangladesh, Sri Lanka, Nepal, the Maldives and Bhutan. He played a key role in restructuring and developing DHL's operations in these markets.”
+The filing's own profile: “Mr. R. S. Subramanian (DIN: 02946608), aged 61, is currently the SVP for South Asia and Managing Director of DHL Express India. He is also a member of the DHL Express Asia Pacific Management Board. With over 30 years of experience in both product-led and service industries, Mr. Subramanian possesses extensive expertise in business strategy, marketing, team development and customer management.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| SVP for South Asia and Managing Director | DHL Express India | 2010 | — |
 | Head of Sales | DHL Express India | 2004 | — |
-| Vice President, South Asia Cluster (RoSA) | DHL Express (South Asia Cluster - RoSA) | — | — |
+| Vice President, South Asia Cluster (RoSA) | DHL Express | — | — |
+| Managing Director | DHL Express India | 2010 | — |
+| Senior Vice President | DHL Express South Asia | — | — |
 | various roles in sales, marketing and export management | Hindustan Unilever Ltd. (HINDUNILVR) | — | — |
 | Non-Executive Director | Blue Dart Express Limited (BLUEDART) | 2019 | — |
+
+Results of **Aurobindo Pharma Ltd.** while they were CFO there (annual reports on file show the seat FY2021–FY2024):
+
+| Mar 2020 → Mar 2024 | At the start | At the end | Change |
+|---|---:|---:|---|
+| Sales (₹ cr) | 23,099 | 29,002 | +5.9% a year over 4 years |
+| Operating profit (₹ cr) | 4,849 | 5,826 | +4.7% a year over 4 years |
+| PAT (₹ cr) | 2,844 | 3,169 | +2.7% a year over 4 years |
+| Operating profit margin (%) | 21.0 | 20.1 | -0.9 pts |
+| ROCE (%) | 19.0 | 14.0 | -5.0 pts |
+| ROE (%) | 16.9 | 10.6 | -6.3 pts |
+| Borrowings (₹ cr) | 5,826 | 6,648 | +822 |
 
 ### 5. On the calls
 

@@ -8,7 +8,7 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Executive Officer and Managing Director** | Sucheth Davuluri (moved to another role in the company or group; last day 2026-03-31) | Saharsh Davuluri (internal; from 2026-04-01) | effective | 2026-04-01 |
+| **Chief Executive Officer and Managing Director** | Sucheth Davuluri (moved to another role in the company or group) | Saharsh Davuluri (internal; from 2026-04-01) | effective | 2026-04-01 |
 
 - **Why Sucheth Davuluri is leaving, in the filing's words:** “the role change between Sucheth and me effective April 1 was part of a preplanned transition” Stays on as: Executive Vice Chairman of the Company.
 - In the documents: “Saharsh Davuluri will assume the role of Chief Executive Officer and Managing Director, effective immediately, as the company moves into its next stage of CDMO growth.” — [2026-04-01 Press Release](https://nsearchives.nseindia.com/corporate/NEULANDLAB_01042026133750_Signed_SEIntimationPressRelease01042026.pdf)
@@ -59,7 +59,11 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 **Saharsh Davuluri** — Chief Executive Officer and Managing Director. from: internal; experience: more than 18 years.
 
-The filing's own profile: “Saharsh has been with the company for more than 18 years and will position the CDMO as a premier global API process development and commercial manufacturing specialist. Saharsh has led Neuland's transformation into a new chemical entity (NCE)-focused drug substance CDMO. In recent years, the company has secured a growing number of commercial manufacturing contracts with global innovator companies, reflecting rising demand for its strengths in process chemistry, scale-up, and reliable commercial supply.”
+The filing's own profile: “Saharsh has been with the company for more than 18 years and will position the CDMO as a premier global API process development and commercial manufacturing specialist. Neuland's recent successes have been built on a growing reputation for scale-up of complex APIs and peptides, and the business has tripled its contract services revenues during the last 3-years. Saharsh has led Neuland's transformation into a new chemical entity (NCE)-focused drug substance CDMO.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| — | Neuland Laboratories Limited (NEULANDLAB) | — | 2026 |
 
 ### 5. On the calls
 

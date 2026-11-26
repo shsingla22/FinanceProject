@@ -24,10 +24,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
+| **Chief Financial Officer (“CFO”)** | Aashi Arora (resignation; last day 2026-05-14) | Mayank Holani (external; from 2026-05-14) | effective | 2026-05-13 |
 
-- **Why Aashi Arora is leaving, in the filing's words:** “Ms. Aashi Arora resigned due to conclusion of her interim assignment and change in role in the organization.” Stays on as: continues to be part of SKF India Limited in a changed role in the organization (role not stated).
-- In the documents: “Mr. Mayank Holani is appointed as the Chief Financial Officer (‘CFO”) of the Company in place of Ms. Aashi Arora (current CFO) who resigned, due to conclusion of interim assignment and change in role in the organization.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
+- **Why Aashi Arora is leaving, in the filing's words:** “due to conclusion of her interim assignment and change in role in the organization” Stays on as: continues to be part of SKF India Limited.
+- In the documents: “Pursuant to Regulation 30 and other applicable provisions of SEBI LODR read with SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated 30th January 2026 and company’s policy on Determination of materiality of events for disclosure to the stock exchanges, we wish to inform you that based on the recommendation of the Nomination and Remuneration Committee, the Board of Directors in its meeting held on 13th May 2026 has considered and approved the appointment of Mr. Mayank Holani as Chief Financial Officer of the company w.e.f. 14th May, 2026 in pursuance to the provisions of Section 203 of the Companies Act, 2013, read with Rule 8 of Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 and other applicable provisions, if any.” — [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
 *All 7 filing(s) read for the seats:* [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85778_KMP_Doc.zip) · [2026-05-14 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/SKFINDIA_ROID_85949_KMP_Doc.zip) · [2026-05-14 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_14052026191132_NSE.pdf) · [2026-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026233235_NSE.pdf) · [2026-05-13 Resignation](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026234823_NSE.pdf) · [2026-05-13 Appointment](https://nsearchives.nseindia.com/corporate/SKFINDIA25_13052026235143_NSE.pdf) · +1 more
 
@@ -59,7 +59,7 @@
 
 **Aktiebolaget SKF (AB SKF)** (corporate parent) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved 52.58% → 0%.
 
-**Aashi Arora** — Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”), date of taking the seat not on file.
+**Aashi Arora** — Chief Financial Officer (“CFO”), date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -79,9 +79,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 What the documents say about them: “"SKF Interim AB is a wholly-owned subsidiary of AB SKF." The documents say nothing further about its business, size or other holdings.”
 
-**Mayank Holani** — Interim Chief Financial Officer (Interim CFO) / Chief Financial Officer (“CFO”). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
+**Mayank Holani** — Chief Financial Officer (“CFO”). from: external; experience: more than 23 years’ experience (including 6 years as CFO); qualifications: fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK.
 
-The filing's own profile: “Mr. Mayank Holani is a fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan where he was responsible for end-to-end finance & accounts including finance strategy & operations, digitization, risk management, etc. Prior to this, he worked for 12 years with Schneider Electric India, performing various diverse roles including FP&A, Controlling, Finance Business Partner along with being CFO for the listed entity Schneider Electric Infrastructure Limited.”
+The filing's own profile: “Mr. Mayank Holani is a fellow member of the Institute of Chartered Accountants of India (ICAI), Postgraduate in Commerce from Jiwaji University, Gwalior, Diploma in Information Systems Audit from ICAI and Diploma in IFRS from ACCA UK. Mr. Mayank Holani is a seasoned professional with more than 23 years’ experience (including 6 years as CFO) working with diverse businesses in both Indian and multinational companies in diverse areas of finance and accounting including project management, finance transformation, business turnaround, profitability improvement, internal audit, digitization & automation, joint venture management, M&A, compliances, etc. In his last role, he was Chief Financial Officer (CFO) at Indian Synthetic Rubber Private Limited (ISRPL), a joint venture between Indian Oil Corporation Limited and TSRC Corporation, Taiwan”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|

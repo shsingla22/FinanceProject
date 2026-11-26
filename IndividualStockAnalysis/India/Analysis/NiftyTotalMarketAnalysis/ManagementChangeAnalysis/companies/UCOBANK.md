@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Managing Director & Chief Executive Officer (MD & CEO)** | Ashwani Kumar (end of term; last day 2026-05-31) | Rajendra Kumar Saboo (interim; internal; from 2026-06-19) | effective | 2026-06-01 |
 
-- **Why Ashwani Kumar is leaving, in the filing's words:** “Completion of tenure”
-- In the documents: “The additional charge has been assigned consequent upon the vacancy arising in the position of Managing Director & Chief Executive Officer of the Bank with effect from 1stJune, 2026, following completion of the term of Shri Ashwani Kumar on 31st May, 2026.” — [2026-08-25 General Updates](https://nsearchives.nseindia.com/corporate/UCOBANK_25082026195803_NSEBSEMDEXT25082026.pdf) · [2026-06-19 Appointment](https://nsearchives.nseindia.com/corporate/UCOBANK_19062026193131_MD_Appointment.pdf) · [2026-06-01 Cessation](https://nsearchives.nseindia.com/corporate/UCOBANK_01062026110236_NSEBSE01062026.pdf)
+- **Why Ashwani Kumar is leaving, in the filing's words:** “has ceased to be a MD & CEO upon completion of his tenure”
+- In the documents: “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Department of Financial Services, Ministry of Finance, Government of India, vide its letter No. 4/1/2025-BO.I dated 19th June, 2026, has conveyed the assignment of additional charge of the post of Managing Director & Chief Executive Officer of UCO Bank to Shri Rajendra Kumar Saboo, Executive Director, UCO Bank.” — [2026-08-25 General Updates](https://nsearchives.nseindia.com/corporate/UCOBANK_25082026195803_NSEBSEMDEXT25082026.pdf) · [2026-06-19 Appointment](https://nsearchives.nseindia.com/corporate/UCOBANK_19062026193131_MD_Appointment.pdf) · [2026-06-01 Cessation](https://nsearchives.nseindia.com/corporate/UCOBANK_01062026110236_NSEBSE01062026.pdf)
 
 *All 3 filing(s) read for the seats:* [2026-08-25 General Updates](https://nsearchives.nseindia.com/corporate/UCOBANK_25082026195803_NSEBSEMDEXT25082026.pdf) · [2026-06-19 Appointment](https://nsearchives.nseindia.com/corporate/UCOBANK_19062026193131_MD_Appointment.pdf) · [2026-06-01 Cessation](https://nsearchives.nseindia.com/corporate/UCOBANK_01062026110236_NSEBSE01062026.pdf)
 
@@ -51,15 +51,15 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Rajendra Kumar Saboo** — Managing Director & Chief Executive Officer (MD & CEO) (interim). from: internal; qualifications: Shri Rajendra Kumar Saboo is a Post Graduate in Commerce and holds a Master Degree in Business Administration (Banking and Finance). He is a Certified Associate of Indian Institute of Bankers (CAIIB) and holds a certificate for Advanced Diploma in Management..
+**Rajendra Kumar Saboo** — Managing Director & Chief Executive Officer (MD & CEO) (interim). from: internal; qualifications: Post Graduate in Commerce and holds a Master Degree in Business Administration (Banking and Finance). He is a Certified Associate of Indian Institute of Bankers (CAIIB) and holds a certificate for Advanced Diploma in Management..
 
 The filing's own profile: “Shri Rajendra Kumar Saboo assumed the charge as Executive Director of UCO Bank on 21.11.2022. Shri Rajendra Kumar Saboo started his career as a Probationary Officer in erstwhile Oriental Bank of Commerce in the year 1994 and has a rich banking experience in various capacities at field and administrative offices. He acted as Branch Head, Regional Head and Cluster Head at various locations. In his capacity as General Manager, he headed Integrated Treasury and International Banking, Digital Banking and Wealth Management. Before joining UCO Bank, Shri Saboo was the Chief General Manager in Punjab National Bank heading Strategic Management, Economic Advisory, MIS and Data Analytics.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Executive Director | UCO Bank (UCOBANK) | 2022 | — |
+| Chief General Manager heading Strategic Management, Economic Advisory, MIS and Data Analytics | Punjab National Bank (PNB) | — | 2022 |
 | Probationary Officer | erstwhile Oriental Bank of Commerce | 1994 | — |
-| Chief General Manager heading Strategic Management, Economic Advisory, MIS and Data Analytics | Punjab National Bank (PNB) | — | — |
 
 ### 5. On the calls
 

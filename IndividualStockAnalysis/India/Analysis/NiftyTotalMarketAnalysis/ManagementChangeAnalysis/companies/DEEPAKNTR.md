@@ -8,9 +8,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Executive Director & Chief Executive officer of the Company** | Maulik Mehta (end of term; last day 2026-05-08) | — not named | effective | 2026-05-09 |
+| **Executive Director & Chief Executive Officer** | Maulik Mehta (end of term; last day 2026-05-08) | — not named | seat vacant — no successor named | 2026-04-03 |
 
-- **Why Maulik Mehta is leaving, in the filing's words:** “Completion of term as Executive Director & CEO of the Company on 8th May 2026.” Stays on as: Deputy Managing Director of the Company for a period of 5 (five) years with effect from 9th May, 2026.
+- **Why Maulik Mehta is leaving, in the filing's words:** “Completion of term as Executive Director & CEO of the Company on 8th May 2026. Re-appointment and elevation as Deputy Managing Director of the Company with effect from 9th May 2026.” Stays on as: Deputy Managing Director of the Company for a period of 5 (five) years with effect from 9th May, 2026.
 - In the documents: “Accordingly, Shri Maulik Mehta has ceased to be the Executive Director & Chief Executive officer of the Company upon completion of his previous tenure on 8th May, 2026.” — [2026-05-09 Change in Management](https://nsearchives.nseindia.com/corporate/DEEPAKNTR_09052026110206_NSECEOCESSATION.pdf) · [2026-04-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/DEEPAKNTR_03042026190235_NSE-3-4-2026.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-05-09 Change in Management](https://nsearchives.nseindia.com/corporate/DEEPAKNTR_09052026110206_NSECEOCESSATION.pdf) · [2026-04-03 Change in Director(s)](https://nsearchives.nseindia.com/corporate/DEEPAKNTR_03042026190235_NSE-3-4-2026.pdf)
@@ -37,11 +37,11 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/DEEPAKNTR.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹1,875.90 on 2026-05-08 (the close before) → ₹1,594.40 on 2026-11-13: **-15.0%**; Nifty 500 +2.7% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹1,377.70 on 2026-04-02 (the close before) → ₹1,594.40 on 2026-11-13: **+15.7%**; Nifty 500 +13.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
-**Maulik Mehta** — Executive Director & Chief Executive officer of the Company, in the seat since FY2026 per the annual reports on file.
+**Maulik Mehta** — Executive Director & Chief Executive Officer, in the seat since FY2026 per the annual reports on file.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 

@@ -9,9 +9,12 @@
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
 | **Managing Director [designated as Managing Director & CEO]** | Gunjan Shah (end of term; last day 2026-09-30) | Sanjay S. Rao (external; from 2026-10-01) | effective | 2026-06-18 |
+| **Chief Executive Officer (KMP) in terms of Section 203 of the Companies Act, 2013 (as amended), effective August 24, 2026 and designated as Whole-time Director and CEO** | — (new seat) | Sanjay S. Rao (external; from 2026-08-24) | effective | 2026-06-18 |
 
 - **Why Gunjan Shah is leaving, in the filing's words:** “Cessation upon completion of tenure.”
-- In the documents: “Accordingly, with effect from the end of business hours on September 30, 2026, Mr. Gunjan Shah (DIN: 08525366) has completed his tenure as the Managing Director [designated as Managing Director & CEO] of the Company.” — [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_30092026184213_SE_Letter_Change_in_Director_Signed.pdf) · [2026-08-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_12082026223037_SE_Letter_AGMDirector_signed.pdf) · [2026-06-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_18062026134436_SE_Disclosure_18062026_Signed.pdf)
+- In the documents: “Bata India Limited today announced the appointment of Sanjay Rao as Managing Director and Chief Executive Officer of Bata India.” — [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_30092026184213_SE_Letter_Change_in_Director_Signed.pdf) · [2026-08-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_12082026223037_SE_Letter_AGMDirector_signed.pdf) · [2026-06-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_18062026134436_SE_Disclosure_18062026_Signed.pdf)
+- **Why the holder is leaving, in the filing's words:** “not stated”
+- In the documents: “Appointment of Mr. Sanjay S. Rao as the Chief Executive Officer (KMP) in terms of Section 203 of the Companies Act, 2013 (as amended), effective August 24, 2026 and designated as Whole-time Director and CEO.” — [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_30092026184213_SE_Letter_Change_in_Director_Signed.pdf) · [2026-08-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_12082026223037_SE_Letter_AGMDirector_signed.pdf) · [2026-06-18 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_18062026134436_SE_Disclosure_18062026_Signed.pdf)
 
 *All 9 filing(s) read for the seats:* [2026-10-09 Resignation](https://nsearchives.nseindia.com/corporate/BATAINDIA_09102026153457_Change_in_SMP_SE_Intimation_Signed.pdf) · [2026-10-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BATAINDIA_ROID_100068_KMP_Doc.zip) · [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_30092026184213_SE_Letter_Change_in_Director_Signed.pdf) · [2026-09-09 Resignation](https://nsearchives.nseindia.com/corporate/BATAINDIA_09092026150742_Change_SMP_SE_Intimation-SIGNED.pdf) · [2026-09-09 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BATAINDIA_ROID_98187_KMP_Doc.zip) · [2026-08-12 Change in Director(s)](https://nsearchives.nseindia.com/corporate/BATAINDIA_12082026223037_SE_Letter_AGMDirector_signed.pdf) · +3 more
 
@@ -57,14 +60,24 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Sanjay S. Rao** — Managing Director [designated as Managing Director & CEO]. from: external; experience: more than two decades of retail and consumer leadership experience; qualifications: an MBA from INSEAD, France & Singapore, PGDM in Management TAPMI, India and BE – National Institute of Engineering, Mysore, India.
+**Sanjay S. Rao** — Managing Director [designated as Managing Director & CEO]. from: external; experience: more than two decades of retail and consumer leadership experience; qualifications: By qualification, Mr. Sanjay S. Rao is an MBA from INSEAD, France & Singapore, PGDM in Management TAPMI, India and BE – National Institute of Engineering, Mysore, India..
 
 The filing's own profile: “Mr. Rao brings more than two decades of retail and consumer leadership experience across India, South Asia, China and Europe. He joins Bata India from Nike, where he most recently served as Senior Director, Nike Retail, overseeing the France and Benelux markets. Prior to Nike, Mr. Rao spent several years with Inditex, where he played a pivotal role in establishing Zara's business in India through its joint venture with the Tata Group. He subsequently held senior leadership positions across India, South Asia and China. Mr. Rao has also served as Country Director for Guess in France and holds an MBA from INSEAD.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Senior Director, Nike Retail, overseeing the France and Benelux markets | Nike | — | — |
-| played a pivotal role in establishing Zara's business in India through its joint venture with the Tata Group; subsequently held senior leadership positions across India, South Asia and China | Inditex | — | — |
+| senior leadership positions across India, South Asia and China; established Zara's business in India through its joint venture with the Tata Group | Inditex | — | — |
+| Country Director for Guess in France | Guess | — | — |
+
+**Sanjay S. Rao** — Chief Executive Officer (KMP) in terms of Section 203 of the Companies Act, 2013 (as amended), effective August 24, 2026 and designated as Whole-time Director and CEO. from: external; experience: more than two decades of retail and consumer leadership experience; qualifications: By qualification, Mr. Sanjay S. Rao is an MBA from INSEAD, France & Singapore, PGDM in Management TAPMI, India and BE – National Institute of Engineering, Mysore, India..
+
+The filing's own profile: “Mr. Rao brings more than two decades of retail and consumer leadership experience across India, South Asia, China and Europe. He joins Bata India from Nike, where he most recently served as Senior Director, Nike Retail, overseeing the France and Benelux markets. Prior to Nike, Mr. Rao spent several years with Inditex, where he played a pivotal role in establishing Zara's business in India through its joint venture with the Tata Group. He subsequently held senior leadership positions across India, South Asia and China. Mr. Rao has also served as Country Director for Guess in France and holds an MBA from INSEAD.”
+
+| Earlier role | Company | From | To |
+|---|---|---|---|
+| Senior Director, Nike Retail, overseeing the France and Benelux markets | Nike | — | — |
+| senior leadership positions across India, South Asia and China | Inditex | — | — |
 | Country Director for Guess in France | Guess | — | — |
 
 ### 5. On the calls

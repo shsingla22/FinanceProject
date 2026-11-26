@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer (MD & CEO)** | P R Seshadri (end of term; last day 2026-09-30) | Mahesh Muralidhar Pai (external; from 2026-10-01) | effective | 2026-01-29 |
+| **Managing Director & CEO** | P R Seshadri (end of term; last day 2026-09-30) | Mahesh Muralidhar Pai (external; from 2026-10-01) | effective | 2026-01-29 |
 
-- **Why P R Seshadri is leaving, in the filing's words:** “Retirement - Mr. P R Seshadri (DIN: 07820690) has retired from the service of the Bank on expiry of his tenure approved by the Reserve Bank of India.”
-- In the documents: “Further to our letter SEC/ST.EX.STT/178/2025-26 dated January 29,2026, we wish to further inform you that Mr. P R Seshadri (DIN: 07820690) demitted the office of the Managing Director & CEO of the Bank on September 30, 2026 (after closure of business hours) on completion of his tenure of appointment.” — [2026-07-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SOUTHBANK_16072026185309_SD_STT_OUTCOMEOF_BOARD_16JULY2026.pdf) · [2026-07-08 Disclosure of material issue](https://nsearchives.nseindia.com/corporate/SOUTHBANK_08072026084914_SD_STT_MDAPPOPINTMENT_08JULT2026__.pdf) · [2026-07-08 General Updates](https://nsearchives.nseindia.com/corporate/SOUTHBANK_08072026090100_SD_STT_MDAPPOPINTMENT_08JULT2026__.pdf) · +1 more
+- **Why P R Seshadri is leaving, in the filing's words:** “not to offer himself for reappointment, as he has decided to pursue activities of his personal interest, post completion of his current term”
+- In the documents: “Mr. Mahesh Muralidhar Pai (DIN: 09164982) will be taking charge as MD & CEO of the Bank for a period of three years with effect from October 1, 2026, as approved by RBI and shareholders of the Bank at the 98th AGM held on August 20, 2026.” — [2026-07-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SOUTHBANK_16072026185309_SD_STT_OUTCOMEOF_BOARD_16JULY2026.pdf) · [2026-07-08 Disclosure of material issue](https://nsearchives.nseindia.com/corporate/SOUTHBANK_08072026084914_SD_STT_MDAPPOPINTMENT_08JULT2026__.pdf) · [2026-07-08 General Updates](https://nsearchives.nseindia.com/corporate/SOUTHBANK_08072026090100_SD_STT_MDAPPOPINTMENT_08JULT2026__.pdf) · +1 more
 
 *All 13 filing(s) read for the seats:* [2026-09-30 Change in Director(s)](https://nsearchives.nseindia.com/corporate/SOUTHBANK_30092026200306_SD_STT_MDAPPOINTMENT_30SEPT2026.pdf) · [2026-09-30 Cessation](https://nsearchives.nseindia.com/corporate/SOUTHBANK_30092026201302_SD_STT_MDAPPOINTMENT_30SEPT2026.pdf) · [2026-09-30 Appointment](https://nsearchives.nseindia.com/corporate/SOUTHBANK_30092026201448_SD_STT_MDAPPOINTMENT_30SEPT2026.pdf) · [2026-09-30 Change in Management](https://nsearchives.nseindia.com/corporate/SOUTHBANK_30092026202320_SD_STT_MDAPPOINTMENT_30SEPT2026.pdf) · [2026-09-16 General Updates](https://nsearchives.nseindia.com/corporate/SOUTHBANK_16092026084021_SD_ST_OSD.pdf) · [2026-07-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SOUTHBANK_16072026185309_SD_STT_OUTCOMEOF_BOARD_16JULY2026.pdf) · +7 more
 
@@ -37,7 +37,7 @@
 
 ### 3. Track record — the outgoing management
 
-**P R Seshadri** — Managing Director & Chief Executive Officer (MD & CEO), date of taking the seat not on file.
+**P R Seshadri** — Managing Director & CEO, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -51,14 +51,13 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Mahesh Muralidhar Pai** — Managing Director & Chief Executive Officer (MD & CEO). from: external; age 50 years; experience: close to 3 decades of experience.
+**Mahesh Muralidhar Pai** — Managing Director & CEO. from: external; age 50 years; experience: close to 3 decades of experience.
 
-The filing's own profile: “Mr. Mahesh Muralidhar Pai (DIN: 09164982), aged 50 years is an accomplished banker with close to 3 decades of experience across governance, strategy, treasury, foreign exchange, retail, agriculture and MSME credit. Before joining the Bank, he was serving as Chief General Manager at Canara Bank spearheading digital banking and innovation. He has handled multiple strategic initiatives of the Bank including setting up of gold loan vertical. He has also headed one of the largest zones of Canara Bank. He is recognised for his strategic clarity, execution excellence, integrity, and strong industry relationships with banking and technology partners. He brings in board relevant experience in entire segments of universal banking.”
+The filing's own profile: “Mr. Mahesh Muralidhar Pai (DIN: 09164982), aged 50 years is an accomplished banker with close to 3 decades of experience across governance, strategy, treasury, foreign exchange, retail, agriculture and MSME credit. Before joining the Bank, he was serving as Chief General Manager at Canara Bank spearheading digital banking and innovation. He has handled multiple strategic initiatives of the Bank including setting up of gold loan vertical. He has also headed one of the largest zones of Canara Bank. Mr. Mahesh Muralidhar Pai's professional experience includes a stint in overseas operations of Canara Bank at New York, USA.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief General Manager spearheading digital banking and innovation | Canara Bank (CANBK) | — | 2026 |
-| a stint in overseas operations | Canara Bank, New York, USA (overseas operations) | — | — |
 | Director | Canara Bank Tanzania Ltd | — | — |
 | Director | Karnataka State Financial corporation | — | — |
 | Director | Canara Bank Securities Ltd | — | — |

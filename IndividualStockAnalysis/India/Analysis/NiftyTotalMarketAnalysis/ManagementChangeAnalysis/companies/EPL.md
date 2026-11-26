@@ -26,12 +26,12 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Global Chief Executive Officer** | Anand Kripalu (retirement; last day 2025-12-31) | Hemant Bakshi (from 2026-01-01) | effective | 2026-02-23 |
+| **Managing Director & Global Chief Executive Officer** | Anand Kripalu (retirement; last day 2025-12-31) | Hemant Bakshi (internal; from 2026-01-01) | effective | 2026-02-13 |
 
 - **Why Anand Kripalu is leaving, in the filing's words:** “As many of you know, I will be retiring at the end of this year, and Hemant will be taking over as MD and Global CEO, with effect from Jan 1, 2026.” Stays on as: Non-Executive, Non-Independent Director of the Company, with effect from April 1, 2026.
-- In the documents: “appointment of Mr. Hemant Bakshi (holding Director Identification Number 02362738) as the Managing Director & Global Chief Executive Officer of the Company, for a term of five years with effect from January 1, 2026.” — [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf)
+- In the documents: “Appointment of Mr. Hemant Bakshi (holding Director Identification Number 02362738) as the Managing Director & Global Chief Executive Officer of the Company, for a term of five years with effect from January 1, 2026 to December 31, 2030” — [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf) · [2026-02-13 General Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf)
 
-*All 2 filing(s) read for the seats:* [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf)
+*All 3 filing(s) read for the seats:* [2026-03-20 Corrigendum](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_20032026172345_IntimationCorrigendumPBSd.pdf) · [2026-02-23 Shareholders meeting](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_23022026173905_IntimationPBnoticeSd.pdf) · [2026-02-13 General Updates](https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf)
 
 ### 2. Financials — the last three years
 
@@ -55,7 +55,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/EPL.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹212.70 on 2026-02-20 (the close before) → ₹237.78 on 2026-11-13: **+11.8%**; Nifty 500 +1.4% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹220.65 on 2026-02-12 (the close before) → ₹237.78 on 2026-11-13: **+7.8%**; Nifty 500 +0.3% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -85,7 +85,7 @@ The company's results while they held the seat (the year before they took it, to
 
 *The documents on file say nothing about the buyer's own record, and it is not a company in the universe.*
 
-**Hemant Bakshi** — Managing Director & Global Chief Executive Officer.
+**Hemant Bakshi** — Managing Director & Global Chief Executive Officer. from: internal.
 
 *The filings on file give no profile of this person, and the annual reports on file do not show them in an earlier seat.*
 

@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Director (Finance) on the Board and CFO** | Sandeep Kumar (retirement; last day 2026-03-31) | Rajesh Kumar Agarwal (internal; from 2026-04-23) | effective | 2026-04-01 |
+| **Director (Finance) on the Board and CFO** | Sandeep Kumar (retirement; last day 2026-03-31) | Rajesh Kumar Agarwal (government appointee; from 2026-04-23) | effective | 2026-04-01 |
 
 - **Why Sandeep Kumar is leaving, in the filing's words:** “On attaining the age of superannuation, Shri Sandeep Kumar ceased to be Director (Finance), PFC w.e.f 01.04.2026.”
-- In the documents: “the Board of Directors in its meeting held today i.e. 30.04.2026 has appointed Shri Rajesh Kumar Agarwal, as Director (Finance) on the Board of Power Finance Corporation Limited w.e.f. 23.04.2026. He has also been appointed as Chief Financial Officer (CFO) from the aforementioned date.” — [2026-05-20 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_20052026162621_INTIMATIONTRANSCRIPT20052026signed.pdf) · [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_30042026162302_INTIMATIONCFODIR30042026.pdf) · [2026-04-23 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_23042026181832_INTIMATIONSIGNED23042026.pdf) · +1 more
+- In the documents: “In continuation of our letter dated 23.04.2026, informing the assumption of charge by Shri Rajesh Kumar Agarwal, as Director (Finance) on the Board of Power Finance Corporation Limited vide Ministry of Power, Government of India, order F.No.24-8/1/2023-PFC MoP-(part-1) dated 23.04.2026, it is to further inform that pursuant to said MoP order, the Board of Directors in its meeting held today i.e. 30.04.2026 has appointed Shri Rajesh Kumar Agarwal, as Director (Finance) on the Board of Power Finance Corporation Limited w.e.f. 23.04.2026.” — [2026-05-20 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_20052026162621_INTIMATIONTRANSCRIPT20052026signed.pdf) · [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_30042026162302_INTIMATIONCFODIR30042026.pdf) · [2026-04-23 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_23042026181832_INTIMATIONSIGNED23042026.pdf) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-05-20 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_20052026162621_INTIMATIONTRANSCRIPT20052026signed.pdf) · [2026-04-30 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_30042026162302_INTIMATIONCFODIR30042026.pdf) · [2026-04-23 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_23042026181832_INTIMATIONSIGNED23042026.pdf) · [2026-04-01 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_01042026130821_INTIMATION01042026SIGNED.pdf)
 
@@ -51,13 +51,13 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Rajesh Kumar Agarwal** — Director (Finance) on the Board and CFO. from: internal; experience: over 31 years; qualifications: He holds a Bachelor's degree in Commerce (Honours) and is a Member of the Institute of Cost Accountants of India..
+**Rajesh Kumar Agarwal** — Director (Finance) on the Board and CFO. from: government appointee; experience: over 31 years; qualifications: He holds a Bachelor's degree in Commerce (Honours) and is a Member of the Institute of Cost Accountants of India..
 
 The filing's own profile: “Shri Rajesh Kumar Agarwal has a distinguished career spanning over 31 years in the Power and Financial sectors. He holds a Bachelor's degree in Commerce (Honours) and is a Member of the Institute of Cost Accountants of India. Before this appointment, he was Executive Director (Finance) at PFC since 1st January, 2024. In his career at PFC since 2009, he managed various cross-functional teams and earned diversified experience in the areas like Corporate Accounts, Taxation, Fund Management & Banking, Lending Policy Compliance, Restructured Assets Management, Fund Raisings and Loan Disbursement.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Executive Director (Finance) | PFC | 2024 | 2026 |
+| Executive Director (Finance) | Power Finance Corporation Limited (PFC) | 2024 | 2026 |
 | core finance functions | NTPC (NTPC) | — | — |
 | core finance functions | NPCIL | — | — |
 | core finance functions | DTL | — | — |

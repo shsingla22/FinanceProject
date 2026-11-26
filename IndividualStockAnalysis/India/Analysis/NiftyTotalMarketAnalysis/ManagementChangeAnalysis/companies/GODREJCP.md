@@ -8,8 +8,8 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director & Chief Executive Officer** | Sudhir Sitapati (resignation; last day 2026-08-11) | Aasif Malbari (internal; from 2026-08-12) | effective | 2026-08-11 |
-| **Chief Financial Officer** | Aasif Malbari (moved to another role in the company or group; last day 2026-08-11) | Vishal Kedia (interim; internal; from 2026-08-12) | effective | 2026-08-11 |
+| **Managing Director of the Company designated as 'Managing Director & Chief Executive Officer'** | Sudhir Sitapati (resignation; last day 2026-08-11) | Aasif Malbari (internal; from 2026-08-12) | effective | 2026-08-11 |
+| **Interim Chief Financial Officer** | Aasif Malbari (moved to another role in the company or group; last day 2026-08-11) | Vishal Kedia (interim; internal; from 2026-08-12) | effective | 2026-08-11 |
 
 - **Why Sudhir Sitapati is leaving, in the filing's words:** “I feel that the task I had set for myself here is done and this is the right time to move on.”
 - In the documents: “The Board of Directors of Godrej Consumer Products Limited (GCPL) today announced the appointment of Aasif Malbari, currently Global Chief Financial Officer and President Godrej Africa, as Managing Director & Chief Executive Officer of GCPL, effective immediately.” — [2026-08-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026154616_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · [2026-08-11 Press Release](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155304_Press_Release_F1_-_signed.pdf) · [2026-08-11 Appointment](https://nsearchives.nseindia.com/corporate/GODREJCP_11082026155601_SE_BM_Outcome_-_Aug_11_-_signed.pdf) · +1 more
@@ -44,7 +44,7 @@
 
 ### 3. Track record — the outgoing management
 
-**Sudhir Sitapati** — Managing Director & Chief Executive Officer, in the seat since FY2022 per the filing.
+**Sudhir Sitapati** — Managing Director of the Company designated as 'Managing Director & Chief Executive Officer', in the seat since FY2022 per the filing.
 
 The company's results while they held the seat (the year before they took it, to the last full year they held it):
 
@@ -58,7 +58,7 @@ The company's results while they held the seat (the year before they took it, to
 | ROE (%) | 18.2 | 14.7 | -3.5 pts |
 | Borrowings (₹ cr) | 1,864 | 4,421 | +2,557 |
 
-**Aasif Malbari** — Chief Financial Officer, date of taking the seat not on file.
+**Aasif Malbari** — Interim Chief Financial Officer, date of taking the seat not on file.
 
 When they took the seat is not in the documents or annual reports on file, so no tenure can be drawn. For context only, the company's results over the last 5 fiscal years:
 
@@ -74,9 +74,9 @@ When they took the seat is not in the documents or annual reports on file, so no
 
 ### 4. Track record — the incoming management
 
-**Aasif Malbari** — Managing Director & Chief Executive Officer. from: internal; experience: three decades in the FMCG and auto industries; qualifications: Aasif is a Chartered Accountant and Company Secretary who secured the All India First Rank in both the CA Intermediate and Final examinations. He is a graduate of Sydenham College, University of Mumbai..
+**Aasif Malbari** — Managing Director of the Company designated as 'Managing Director & Chief Executive Officer'. from: internal; experience: three decades; qualifications: Chartered Accountant and Company Secretary who secured the All India First Rank in both the CA Intermediate and Final examinations. He is a graduate of Sydenham College, University of Mumbai..
 
-The filing's own profile: “Aasif has spent three decades in the FMCG and auto industries, at GCPL, Tata Motors, and Hindustan Unilever. As Global CFO, he directly oversees business strategy and has played a critical role in partnering leadership teams across geographies to advance growth and strengthen performance. Aasif has delivered an outstanding transformation of GCPL's Africa business. The business has rapidly grown its margin-accretive FMCG portfolio, headlined by the highly successful launch of our air care category, while strengthening the legacy Hair Fashion business. This has resulted in EBITDA margins growing significantly, from ~9% in FY24 to ~15% in FY26.”
+The filing's own profile: “Aasif has spent three decades in the FMCG and auto industries, at GCPL, Tata Motors, and Hindustan Unilever. As Global CFO, he directly oversees business strategy and has played a critical role in partnering leadership teams across geographies to advance growth and strengthen performance. Aasif has delivered an outstanding transformation of GCPL's Africa business. The business has rapidly grown its margin-accretive FMCG portfolio, headlined by the highly successful launch of our air care category, while strengthening the legacy Hair Fashion business. This has resulted in EBITDA margins growing significantly, from ~9% in FY24 to ~15% in FY26. Prior to joining GCPL, Aasif served as Chief Financial Officer at Tata Passenger Electric Mobility and Director at Tata Motors Passenger Vehicles.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
@@ -85,13 +85,14 @@ The filing's own profile: “Aasif has spent three decades in the FMCG and auto 
 | Director | Tata Motors Passenger Vehicles (TMPV) | — | — |
 | a range of finance and business roles | Hindustan Unilever (HINDUNILVR) | — | — |
 
-**Vishal Kedia** — Chief Financial Officer (interim). from: internal; qualifications: He holds a Post Graduate Programme in Management from the Indian Institute of Management, Ahmedabad, and a Bachelor of Commerce from St. Xavier's College.
+**Vishal Kedia** — Interim Chief Financial Officer (interim). from: internal; qualifications: He holds a Post Graduate Programme in Management from the Indian Institute of Management, Ahmedabad, and a Bachelor of Commerce from St. Xavier's College.
 
 The filing's own profile: “Mr. Vishal Kedia has been with the Godrej Group since November 2016 and currently leads the Global Strategy, Financial Planning & Analysis and Investor Relations functions at Godrej Consumer Products Limited. He has held roles of progressively wider responsibility across the Company's India, Indonesia, Africa and Latin America businesses, spanning corporate strategy, financial planning and analysis, mergers and acquisitions, and investor relations. Prior to joining the Godrej Group, he worked at The Boston Consulting Group. He holds a Post Graduate Programme in Management from the Indian Institute of Management, Ahmedabad, and a Bachelor of Commerce from St. Xavier's College”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| Head- Strategy, FP&A and Investor Relations | Godrej Consumer Products Limited (GODREJCP) | 2016 | 2026 |
+| Head-Strategy, FP&A and Investor Relations | Godrej Consumer Products Limited (GODREJCP) | — | — |
+| roles of progressively wider responsibility across the Company's India, Indonesia, Africa and Latin America businesses | Godrej Group | 2016 | — |
 | — | The Boston Consulting Group | — | — |
 
 ### 5. On the calls

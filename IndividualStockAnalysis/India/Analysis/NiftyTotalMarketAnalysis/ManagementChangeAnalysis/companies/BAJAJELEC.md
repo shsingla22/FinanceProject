@@ -8,15 +8,15 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer and Key Managerial Personnel** | E C Prasad (resignation; last day 2025-12-31) | Suketu Shah (interim; internal; from 2026-03-16) | effective | 2025-12-20 |
+| **Chief Financial Officer and Key Managerial Personnel** | E C Prasad (resignation; last day 2025-12-31) | Suketu Shah (interim; internal; from 2026-03-16) | effective | 2025-10-31 |
 | **Chief Financial Officer and Key Managerial Personnel (outgoing: Interim Chief Financial Officer)** | Suketu Shah (interim holder replaced; last day 2026-05-15) | Ashween Anand (external; from 2026-05-16) | effective | 2026-05-11 |
 
-- **Why E C Prasad is leaving, in the filing's words:** “at his request and on account of completion of handover of responsibilities”
+- **Why E C Prasad is leaving, in the filing's words:** “approved the revision of the relieving date of Mr. E C Prasad from January 26, 2026 to December 31, 2025, at his request and on account of completion of handover of responsibilities”
 - In the documents: “Resignation of Mr. E. C. Prasad from the position of Chief Financial Officer and Key Managerial Personnel of the Company, with effect from the close of business hours on December 31, 2025, revised from the earlier relieving date of January 26, 2026.” — [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026165929_ScannedOutcomeOfBMdated15052026.pdf) · [2026-03-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_16032026124552_SignedSEIntimationOutcomeoftheBM16032026.pdf) · [2026-03-16 Change in Management](https://nsearchives.nseindia.com/corporate/BAJAJELEC_16032026124917_SignedSEIntimationOutcomeoftheBM16032026.pdf) · +1 more
 - **Why Suketu Shah is leaving, in the filing's words:** “Pursuant to the appointment of the new Chief Financial Officer of the Company.”
 - In the documents: “the Board of Directors, at its Meeting held today, has approved the appointment of Ms. Ashween Anand as the Chief Financial Officer and Key Managerial Personnel of the Company, with effect from May 16, 2026.” — [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026165929_ScannedOutcomeOfBMdated15052026.pdf) · [2026-05-15 Change in Management](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026172425_ScannedOutcomeOfBMdated15052026.pdf) · [2026-05-13 Corrigendum](https://nsearchives.nseindia.com/corporate/BAJAJELEC_13052026170904_SignedSEIntimationCFODesignateCorrigendum.pdf) · +1 more
 
-*All 14 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026143309_SEIntimationOutcome.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026143820_SEIntimationOutcome.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026145908_SEIntimationOutcome.pdf) · [2026-10-28 General Updates](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026220026_SignedDraftSEIntimationPressRelease.pdf) · [2026-05-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BAJAJELEC_ROID_87427_KMP_Doc.zip) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026165929_ScannedOutcomeOfBMdated15052026.pdf) · +8 more
+*All 15 filing(s) read for the seats:* [2026-10-28 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026143309_SEIntimationOutcome.pdf) · [2026-10-28 Resignation](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026143820_SEIntimationOutcome.pdf) · [2026-10-28 Appointment](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026145908_SEIntimationOutcome.pdf) · [2026-10-28 General Updates](https://nsearchives.nseindia.com/corporate/BAJAJELEC_28102026220026_SignedDraftSEIntimationPressRelease.pdf) · [2026-05-21 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/BAJAJELEC_ROID_87427_KMP_Doc.zip) · [2026-05-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BAJAJELEC_15052026165929_ScannedOutcomeOfBMdated15052026.pdf) · +9 more
 
 ### 2. Financials — the last three years
 
@@ -40,7 +40,7 @@
 
 *Source: ProfitStatement, BalanceSheet, CashFlow and WorkingCapital /NiftyTotalMarket/BAJAJELEC.csv (consolidated, screener.in); growth, margins and ratios computed here.*
 
-**Share price since the announcement:** ₹479.70 on 2025-12-19 (the close before) → ₹281.65 on 2026-11-13: **-41.3%**; Nifty 500 +0.2% over the same days. Unadjusted closes from the NSE bhavcopy.
+**Share price since the announcement:** ₹528.15 on 2025-10-30 (the close before) → ₹281.65 on 2026-11-13: **-46.7%**; Nifty 500 -0.4% over the same days. Unadjusted closes from the NSE bhavcopy.
 
 ### 3. Track record — the outgoing management
 
@@ -76,23 +76,23 @@ The company's results while they held the seat (the year before they took it, to
 
 **Suketu Shah** — Chief Financial Officer and Key Managerial Personnel (interim). from: internal; experience: over 13+ years; qualifications: He is a Chartered Accountant and has secured an All-India Rank of 37 (AIR-37) in the CA Intermediate examination. He is also a member of the Institute of Chartered Accountants in England and Wales (ICAEW)..
 
-The filing's own profile: “Suketu Shah brings over 13+ years of experience in financial reporting, financial controllership, stakeholder management, strategic planning, and investor relations. He has been associated with the Company for over eight years and has played a key role in strengthening the finance function and actively partners with the business teams in driving financial discipline, performance monitoring and strategic decision-making. In addition, he heads the Company's Investor Relations function.”
+The filing's own profile: “Suketu Shah brings over 13+ years of experience in financial reporting, financial controllership, stakeholder management, strategic planning, and investor relations. He has been associated with the Company for over eight years and has played a key role in strengthening the finance function and actively partners with the business teams in driving financial discipline, performance monitoring and strategic decision-making. In addition, he heads the Company's Investor Relations function. During his tenure with the Company, he has played a key role in several strategic and transformational initiatives, including the successful execution of a ₹350 crore rights issue, the demerger of the EPC business into a separately listed entity, the institutionalization of key financial and governance policies, and the evaluation of strategic investments and brand acquisitions.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
-| heads the Company's Investor Relations function; associated with the Company for over eight years | Bajaj Electricals Limited (BAJAJELEC) | — | — |
+| associated with the Company for over eight years; heads the Company's Investor Relations function | Bajaj Electricals Limited (BAJAJELEC) | — | — |
 
-**Ashween Anand** — Chief Financial Officer and Key Managerial Personnel (outgoing: Interim Chief Financial Officer). from: external; experience: over 16 years of diverse experience across finance, strategy, and governance; qualifications: Ashween is a Chartered Accountant from the Institute of Chartered Accountants of India and holds a Master's degree in Commerce from University of Mumbai. In addition, she has cleared all levels of the CFA program from the CFA Institute (USA) and is a graduate in Speech & Drama and Effective Communication from Trinity College London..
+**Ashween Anand** — Chief Financial Officer and Key Managerial Personnel (outgoing: Interim Chief Financial Officer). from: external; experience: over 16 years; qualifications: Ashween is a Chartered Accountant from the Institute of Chartered Accountants of India and holds a Master's degree in Commerce from University of Mumbai. In addition, she has cleared all levels of the CFA program from the CFA Institute (USA) and is a graduate in Speech & Drama and Effective Communication from Trinity College London..
 
-The filing's own profile: “Ashween Anand is an accomplished finance leader with over 16 years of diverse experience across finance, strategy, and governance, having worked with leading global organisations including EY, Deloitte, Mondelēz, Colgate-Palmolive, and most recently Tata Starbucks (a joint venture Tata Consumer Products and Starbucks), where she serves as Chief Financial Officer. She has been recognized with leading industry accolades, including Economic Times CFO of the Year 2024 and ET Edge Impactful CFO of the Year 2024.”
+The filing's own profile: “Ashween Anand is an accomplished finance leader with over 16 years of diverse experience across finance, strategy, and governance. She has worked with leading global organisations including EY, Deloitte, Mondelēz, Colgate-Palmolive, and most recently at Tata Starbucks (a joint venture Tata Consumer Products and Starbucks), where she served as Chief Financial Officer. In this role, Ashween will lead the company's finance function and oversee financial strategy, capital allocation, governance, compliance, and transformation initiatives, supporting the organisation's next phase of growth and value creation.”
 
 | Earlier role | Company | From | To |
 |---|---|---|---|
 | Chief Financial Officer | Tata Starbucks (a joint venture Tata Consumer Products and Starbucks) | — | — |
 | finance leadership roles | Mondelez International (formerly Cadbury India) | — | — |
-| finance leadership roles, managing India and key export markets including Bangladesh, Nepal, Sri Lanka, and the Maldives, along with regional roles at the Asia Pacific headquarters in Singapore | Colgate-Palmolive (COLPAL) | — | — |
-| transaction advisory and assurance experience | Deloitte | — | — |
-| transaction advisory and assurance experience | Ernst & Young | — | — |
+| finance leadership roles | Colgate-Palmolive (COLPAL) | — | — |
+| transaction advisory and assurance | Deloitte | — | — |
+| transaction advisory and assurance | Ernst & Young | — | — |
 
 ### 5. On the calls
 

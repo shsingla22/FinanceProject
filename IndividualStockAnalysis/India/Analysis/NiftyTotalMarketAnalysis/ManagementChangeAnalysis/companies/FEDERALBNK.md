@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | **Chief Financial Officer (CFO) of the Bank** | Venkatraman Venkateswaran (moved to another role in the company or group; last day 2026-04-30) | Manikandan M (internal; from 2026-05-01) | effective | 2026-04-29 |
 
-- **Why Venkatraman Venkateswaran is leaving, in the filing's words:** “Relieving of Mr. Venkatraman Venkateswaran as the Chief Financial Officer of the Bank with effect from the close of business hours on April 30, 2026.” Stays on as: Executive Director of the Bank.
-- In the documents: “Appointment of Mr Manikandan M as the Chief Financial Officer of the Bank with effect from May 01, 2026.” — [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
+- **Why Venkatraman Venkateswaran is leaving, in the filing's words:** “Mr. Venkatraman Venkateswaran, who is the current Executive Director & CFO will be relieved from the role of CFO w.e.f. the close of business hours on Thursday, April 30, 2026 and continue as Executive Director of the Bank.” Stays on as: Executive Director of the Bank.
+- In the documents: “In compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI LODR Regulations"), it is hereby informed that the Board of Directors of the Bank at its meeting held today, April 29, 2026 has approved the appointment of Mr. Manikandan M (FCA No: 234412) who is currently working as Deputy Vice President-II & Head – Financial reporting, as Chief Financial Officer and Key Managerial Personnel of the Bank with effect from Friday, May 01, 2026.” — [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
 
 *All 2 filing(s) read for the seats:* [2026-08-21 General Updates](https://nsearchives.nseindia.com/corporate/FEDERALBNK_21082026184632_FBL_AGM_Appt__Reappt_210826_S.pdf) · [2026-04-29 Appointment](https://nsearchives.nseindia.com/corporate/FEDERALBNK_29042026161654_FBL_Appointment___Relieving_of_CFO_290426_SIGNED.pdf)
 

@@ -26,9 +26,9 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Managing Director of the Company** | Ashok Ramnarayan Boob (moved to another role in the company or group; last day 2026-03-31) | Siddhartha Ashok Sikchi (internal; from 2026-04-01) | effective | 2025-12-17 |
+| **Managing Director** | Ashok Ramnarayan Boob (moved to another role in the company or group; last day 2026-03-31) | Siddhartha Ashok Sikchi (internal; from 2026-04-01) | effective | 2025-12-17 |
 
-- **Why Ashok Ramnarayan Boob is leaving, in the filing's words:** “To approve change in the designation of Mr. Ashok Ramnarayan Boob (DIN:00410740) from Managing Director to Whole Time Director - Executive Vice Chairman w.e.f. from 1st April, 2026 up to 27th July, 2027.” Stays on as: Whole Time Director - Executive Vice Chairman w.e.f. 1st April, 2026 up to 27th July, 2027.
+- **Why Ashok Ramnarayan Boob is leaving, in the filing's words:** “To approve appointment of Mr. Ashok Ramnarayan Boob (DIN: 00410740), Managing Director as Whole Time Director - Executive Vice Chairman w.e.f. from 1st April, 2026 up to 27th July, 2027.” Stays on as: Whole Time Director - Executive Vice Chairman (w.e.f. 1st April, 2026 up to 27th July, 2027).
 - In the documents: “As approved by the shareholders through Postal Ballot dated 16th December, 2025 appointment of Mr. Siddhartha Ashok Sikchi (DIN: 02351154), as Managing Director of the Company w.e.f. 1stApril, 2026 up to 31st March, 2031.” — [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025150251_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025150734_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025151335_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · +1 more
 
 *All 8 filing(s) read for the seats:* [2026-04-01 Change in Director(s)](https://nsearchives.nseindia.com/corporate/CLEAN_01042026123342_Intimation_of_appointment_FY26.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025150251_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025150734_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025151335_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025151702_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · [2025-12-17 Appointment](https://nsearchives.nseindia.com/corporate/CLEAN_17122025152115_Postal_Ballot_Result_outcome_Scrutinizers_Report_16122025.pdf) · +2 more
@@ -61,7 +61,7 @@
 
 **Ashok Ramnarayan Boob, Asha Ashok Boob, Nilima Krishnakumar Boob, Nidhi Mohunta, Parth Ashok Maheshwari, Prasad Krishnakumar Boob, Pooja Vivek Navandar** (founder family) — the outgoing owner. The record of the company under this ownership is the financials above; the promoter holding moved Ashok 5.90% then 3.45%; Asha 9.50%; Nilima 6.33%; Nidhi 5.47%; Parth 2.64%; Prasad 3.22%; Pooja 3.02% → Ashok 0.35%; Asha 0.09% (then 0.88% after receiving gift); Nilima 0.09%; Nidhi 0.09%; Parth 0.09%; Prasad 0%; Pooja 0.21%.
 
-**Ashok Ramnarayan Boob** — Managing Director of the Company, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
+**Ashok Ramnarayan Boob** — Managing Director, in the seat since at least FY2022 (the earliest annual report on file — they held the seat at least since then, possibly for years before).
 
 The company's results over the part of the tenure the reports on file cover:
 
@@ -81,7 +81,7 @@ The company's results over the part of the tenure the reports on file cover:
 
 What the documents say about them: “Family trusts and individuals of the existing promoter group. "We, ARB Business Trust, one of the promoter's group members of Clean Science and Technology Limited"; trustee of ARB Business Trust is Asha Ashok Boob; trustee of AAB Business Trust is Ashok Ramnarayan Boob; trustee of Smt. Alaknanda Boob Business Trust is Krishnakumar Ramnarayan Boob. Siddhartha Ashok Sikchi is described as "a Promoter of Clean Science and Technology Limited". The disclosures confirm acquirers were promoters of the target company prior to the transaction.”
 
-**Siddhartha Ashok Sikchi** — Managing Director of the Company. from: internal; experience: around 2 decades of experience in the speciality chemical industry; qualifications: He holds a Master's degree in Science in Organic Chemistry from University of Manitoba, Canada and a Bachelor's degree in Chemical Technology from Institute of Chemical Technology, UDCT, Mumbai..
+**Siddhartha Ashok Sikchi** — Managing Director. from: internal; experience: around 2 decades of experience in the speciality chemical industry; qualifications: He holds a Master's degree in Science in Organic Chemistry from University of Manitoba, Canada and a Bachelor's degree in Chemical Technology from Institute of Chemical Technology, UDCT, Mumbai..
 
 The filing's own profile: “He holds a Master's degree in Science in Organic Chemistry from University of Manitoba, Canada and a Bachelor's degree in Chemical Technology from Institute of Chemical Technology, UDCT, Mumbai. He has around 2 decades of experience in the speciality chemical industry. He is a Promoter Director of the Company and has a key contribution for the growth and development of the Company. He holds 57,50,425 equity shares consisting of 5.41 % shares in the Company. He is a member of Risk Management Committee, Stakeholders Relationship Committee and Finance Committee of the Company.”
 

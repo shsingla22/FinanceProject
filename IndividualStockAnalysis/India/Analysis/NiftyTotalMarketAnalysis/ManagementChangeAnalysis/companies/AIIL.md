@@ -8,10 +8,10 @@
 
 | Seat | Outgoing | Incoming | Status | First said on |
 |---|---|---|---|---|
-| **Chief Financial Officer** | Amit Kumar Jha (resignation; last day 2026-06-01) | Amit Dangi (interim; internal; from 2026-08-25) | effective | 2026-06-01 |
+| **Chief Financial Officer** | Amit Kumar Jha (resignation; last day 2026-06-01) | Amit Kumar Dangi (interim; internal; from 2026-08-25) | effective | 2026-06-01 |
 
 - **Why Amit Kumar Jha is leaving, in the filing's words:** “I hereby tender my resignation as Chief Financial Officer and all other Statutory designated positions in the Company due to personal reasons i.e. career improvement and growth opportunities.”
-- In the documents: “In terms of Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that Mr. Amit Kumar Jha has tendered his resignation as the Chief Financial Officer of the Company with effect from close of business hours of June 01, 2026 to pursue better career opportunities.” — [2026-08-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Authum123_25082026190120_Outcome.pdf) · [2026-08-25 Change in Management](https://nsearchives.nseindia.com/corporate/Authum123_25082026190306_Outcome.pdf) · [2026-06-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AIIL_ROID_89446_KMP_Doc.zip) · +1 more
+- In the documents: “Based on the recommendation of the Nomination and Remuneration Committee and Audit Committee, the Board of Directors at its meeting held today i.e. August 25, 2026 has approved the appointment of Mr. Amit K Dangi as the Interim Chief Financial Officer (in addition to his role as Whole-time Director), until a new Chief Financial Officer (CFO) is appointed.” — [2026-08-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Authum123_25082026190120_Outcome.pdf) · [2026-08-25 Change in Management](https://nsearchives.nseindia.com/corporate/Authum123_25082026190306_Outcome.pdf) · [2026-06-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AIIL_ROID_89446_KMP_Doc.zip) · +1 more
 
 *All 4 filing(s) read for the seats:* [2026-08-25 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/Authum123_25082026190120_Outcome.pdf) · [2026-08-25 Change in Management](https://nsearchives.nseindia.com/corporate/Authum123_25082026190306_Outcome.pdf) · [2026-06-01 Resignation of Director/KMP/SMP](https://nsearchives.nseindia.com/corporate/AIIL_ROID_89446_KMP_Doc.zip) · [2026-06-01 Cessation](https://nsearchives.nseindia.com/corporate/Authum123_01062026183749_BMChangeofManagement01062026.pdf)
 
@@ -51,7 +51,7 @@ The company's results while they held the seat (the year before they took it, to
 
 ### 4. Track record — the incoming management
 
-**Amit Dangi** — Chief Financial Officer (interim). from: internal; qualifications: Chartered Accountant and Bachelor of Commerce Graduate.
+**Amit Kumar Dangi** — Chief Financial Officer (interim). from: internal; qualifications: Mr. Amit Dangi is a Chartered Accountant and Bachelor of Commerce Graduate..
 
 The filing's own profile: “Mr. Amit Dangi is a Chartered Accountant and Bachelor of Commerce Graduate. He has past experience of working with Ernst & Young and PricewaterhouseCoopers LLP two of the largest professional services firms in the world and are among the "Big Four" accounting firms. He has major roles in performing fundamental analysis to determine favourable investment opportunities and generally prefer to minimize risk while maximizing returns. He plays a pivotal role in operational activities of the company and manages investment opportunities along with the professional team of the company.”
 
@@ -59,6 +59,7 @@ The filing's own profile: “Mr. Amit Dangi is a Chartered Accountant and Bachel
 |---|---|---|---|
 | — | Ernst & Young | — | — |
 | — | PricewaterhouseCoopers LLP | — | — |
+| Whole-time Director | Authum Investment & Infrastructure Limited (AIIL) | — | — |
 
 ### 5. On the calls
 
