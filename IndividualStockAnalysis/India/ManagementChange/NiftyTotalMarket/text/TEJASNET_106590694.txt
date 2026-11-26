@@ -1,0 +1,2077 @@
+Tejas Networks Ltd.
+Regd. Office: Plot No. 25, 5th Floor
+
+TEJAS®
+
+J.P. Software Park, Electronic City Phase 1
+Hosur Road, Bengaluru 560 100, India
+Tel: +91- 80- 4179 4600/700/800
+Fax: +91- 80- 2852 0201
+
+April 15, 2026
+The Secretary
+National Stock Exchange of India Ltd
+Exchange Plaza, C/1, Block G,
+Bandra Kurla Complex, Bandra (East)
+Mumbai – 400 051
+NSE Symbol: TEJASNET
+
+The Secretary
+BSE Limited
+P J Towers, Dalal Street,
+Fort, Mumbai – 400 001
+BSE Scrip Code: 540595
+
+Dear Sir/Madam,
+Re: Outcome of the Board Meeting
+We enclose herewith the audited standalone financial results of the Company and audited
+consolidated financial results of the Company and its subsidiaries for the year ended March
+31, 2026 under Indian Accounting Standards, which have been approved and taken on
+record at the meeting of the Board of Directors of the Company held today i.e. April 15,
+2026.
+In this context, M/s. Price Waterhouse Chartered Accountants LLP (Firm
+Registration No.012754N/N500016), Statutory Auditors of the Company has issued an
+Audit Report(s) with unmodified opinion on the said Financial Results
+The Meeting started at 2.20 P.M. (IST) and ended at 6:00 P.M. (IST)
+The above information is also being made available on the website of the Company at
+www.tejasnetworks.com.
+This is for your kind information and record.
+Yours sincerely
+For Tejas Networks Limited
+ANANTHA MURTHY NARAYANA
+
+Digitally signed by ANANTHA
+MURTHY NARAYANA
+Date: 2026.04.15 19:29:58 +05'30'
+
+Anantha Murthy N
+Company Secretary & Compliance Officer
+Encl: as above
+
+Email: corporate@tejasnetworks.com
+
+CIN: L72900KA2000PLC026980
+
+www.tejasnetworks.com
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors ofTejas Networks Limited
+Report on the Audit of Consolidated Financial Results
+Opinion
+1.
+
+We have audited the accompanying consolidated annual financial results ofTejas Networks
+Limited (the "Holding Company") and its subsidiaries (Holding Company and its
+subsidiaries together referred to as "the Group") (refer note 1 to the consolidated annual
+financial results) for the year ended March 31, 2026 and the consolidated statement of
+assets and liabilities as on that date and the consolidated statement of cash flows for the
+year ended on that date, attached herewith, which are included in the accompanying
+'Statement of Consolidated Financial Results for the quarter and year ended March 31,
+2026' (the "consolidated financial results") being submitted by the Holding Company
+pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India
+(SEBI) (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+(the "Listing Regulations") which has been initialled by us only for identification purposes.
+
+2.
+
+In our opinion and to the best of our information and according to the explanations given
+to us, the aforesaid consolidated financial results:
+(i) include the annual financial results of the following entities:
+a) Tejas Networks Limited
+b) Tejas Communication Pte. Limited, Singapore
+c) Tejas Communications (Nigeria) Limited, Nigeria
+d) Saankhya Labs Inc, USA
+(ii) are presented in accordance with the requirements of Regulation 33 of the Listing
+Regulations in this regard; and
+(iii) give a true and fair view in conformity with the recognition and measurement
+principles laid down in the applicable Indian Accounting Standards prescribed under
+Section 133 of the Companies Act, 2013 (the "Act") and other accounting principles
+generally accepted in India, of net loss and other comprehensive income and other
+financial information of the Group for the year ended March 31, 2026 and the
+consolidated statement of assets and liabilities and the consolidated statement of cash
+flows as at and for the year ended on that date.
+
+Price Waterhouse Chartered Accountants LLP, 5th Floor, Tower 'D', The Millenia, 1 & 2 Murphy Road, Ulsoor
+Bengaluru - 560 008
+T:+91 (80) 40794190
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-5001)
+with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI registration number is 012754N/N500016 (ICAI registration
+number before conversion was 012754N)
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors ofTejas Networks Limited
+Report on the Audit of Consolidated Financial Results
+Page 2 of 4
+
+Basis for Opinion
+3. We conducted our audit in accordance with the Standards on Auditing (SAs) specified
+under Section 143(10) of the Act and other applicable authoritative pronouncements issued
+by the Institute of Chartered Accountants of India. Our responsibilities under those
+Standards are further described in the 'Auditor's Responsibilities for the Audit of the
+Consolidated Financial Results' section of our report. We are independent of the Group in
+accordance with the Code of Ethics issued by the Institute of Chartered Accountants of
+India together with the ethical requirements that are relevant to our audit of the financial
+statements under the provisions of the Act and the Rules thereunder, and we have fulfilled
+our other ethical responsibilities in accordance with these requirements and the Code of
+Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to
+provide a basis for our opinion.
+
+Board of Directors' Responsibilities for the Consolidated Financial Results
+4. These Consolidated financial results have been prepared on the basis of the consolidated
+annual financial statements. The Holding Company's Board of Directors are responsible for
+the preparation and presentation of these consolidated financial results that give a true and
+fair view of the net loss and other comprehensive income and other financial information of
+the Group and the consolidated statement of assets and liabilities and the consolidated
+statement of cash flows in accordance with the recognition and measurement principles
+laid down in the Indian Accounting Standards prescribed under Section 133 of the Act read
+with relevant rules issued thereunder and other accounting principles generally accepted in
+India and in compliance with Regulation 33 of the Listing Regulations. The respective
+Board of Directors of the companies included in the Group are responsible for maintenance
+of adequate accounting records in accordance with the provisions of the Act for
+safeguarding of the assets of the Group for preventing and detecting frauds and other
+irregularities; selection and application of appropriate accounting policies; making
+judgements and estimates that are reasonable and prudent; and the design,
+implementation and maintenance of adequate internal financial controls, that were
+operating effectively for ensuring accuracy and completeness of the accounting records,
+relevant to the preparation and presentation of the consolidated financial statements that
+give a true and fair view and are free from material misstatement, whether due to fraud or
+error, which have been used for the purpose of preparation of the consolidated financial
+results by the Directors of the Holding Company, as aforesaid.
+5. In preparing the consolidated financial results, the respective Board of Directors of the
+companies included in the Group are responsible for assessing the ability of the Group to
+continue as a going concern, disclosing, as applicable, matters related to going concern and
+using the going concern basis of accounting unless the respective Board of Directors either
+intends to liquidate the Group, or has no realistic alternative but to do so.
+b. lhe respective Hoard ot Uirectors ot the companies included in the Group are responsible
+
+for overseeing the financial reporting process of the Group.
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors ofTejas Networks Limited
+Report on the Audit of Consolidated Financial Results
+Page3 of 4
+
+Auditor's Responsibilities for the Audit of the Consolidated Financial Results
+
+7. Our objectives are to obtain reasonable assurance about whether the consolidated financial
+results as a whole are free from material misstatement, whether due to fraud or error, and
+to issue an auditor's report that includes our opinion. Reasonable assurance is a high level
+of assurance, but is not a guarantee that an audit conducted in accordance with SAs will
+always detect a material misstatement when it exists. Misstatements can arise from fraud
+or error and are considered material if, individually or in the aggregate, they could
+re·asonably be expected to influence the economic decisions of users taken on the basis of
+these consolidated financial results.
+8. As part of an audit in accordance with SAs, we exercise professional judgement and
+maintain professional scepticism throughout the audit. We also:
+• Identify and assess the risks of material misstatement of the consolidated financial
+results, whether due to fraud or error, design and perform audit procedures responsive
+to those risks, and obtain audit evidence that is sufficient and appropriate to provide a
+basis for our opinion. The risk of not detecting a material misstatement resulting from
+fraud is higher than for one resulting from error, as fraud may involve collusion,
+forgery, intentional omissions, misrepresentations, or the override of internal control.
+• Obtain an understanding of internal control relevant to the audit in order to design
+audit procedures that are appropriate in the circumstances. Under Section 143(3)(i) of
+the Act, we are also responsible for expressing our opinion on whether the Company
+has adequate internal financial controls with reference to financial statements in place
+and the operating effectiveness of such controls.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of
+accounting estimates and related disclosures made by the Board of Directors.
+• Conclude on the appropriateness of the Board of Directors use of the going concern
+basis of accounting and, based on the audit evidence obtained, whether a material
+uncertainty exists related to events or conditions that may cast significant doubt on the
+ability of the Group to continue as a going concern. If we conclude that a material
+uncertainty exists, we are required to draw attention in our auditor's report to the
+related disclosures in the consolidated financial results or, if such disclosures are
+inadequate, to modify our opinion. Our conclusions are based on the audit evidence
+obtained up to the date of our auditor's report. However, future events or conditions
+may cause the Group to cease to continue as a going concern.
+• Evaluate the overall presentation, structure and content of the consolidated financial
+results, including the disclosures, and whether the consolidated financial results
+represent the underlying transactions and events in a manner that achieves fair
+presentation.
+• Obtain sufficient appropriate audit evidence regarding the financial results of the
+entities within the Group to express an opinion on the Consolidated Financial Results.
+We are responsible for the direction 1 supervision and performance of the audit of
+financial information of such entities included in the consolidated financial results of
+which we are the independent auditors. For the other entities included in the
+consolidated financial results, which have been audited by other auditors, such other
+auditors remain responsible for the direction, supervision and performance of the
+audits carried out by them. We remain solely responsible for our audit opinion.
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors ofTejas Networks Limited
+Report on the Audit of Consolidated Financial Results
+Page 4 of 4
+
+9. We communicate with those charged with governance of the Holding Company regarding,
+among other matters, the planned scope and timing of the audit and significant audit
+findings, including any significant deficiencies in internal control that we identify during
+our audit.
+10.We also provide those charged with governance with a statement that we have complied
+with relevant ethical requirements regarding independence, and to communicate with them
+all relationships and other matters that may reasonably be thought to bear on our
+independence, and where applicable, related safeguards.
+11. We also performed procedures in accordance with the circular issued by the SEBI under
+
+Regulation 33(8) of the Listing Regulations, as amended, to the extent applicable.
+Other Matter
+
+12. The consolidated financial results include the unaudited financial information of three
+subsidiaries, whose financial information reflect total assets of Rs. 20.15 crores and net
+assets of Rs. 10.02 crores as at March 31, 2026, total revenue of Rs. 6.54 crores, total net
+profit after tax of Rs. 0.59 crores, and total comprehensive income of Rs. (1.85) crores for
+the year ended March 31, 2026 and cash flows (net) of Rs. 1.39 crores for the year ended
+March 31, 2026, as considered in the consolidated financial results. The financial
+information of these subsidiaries are unaudited and have been furnished to us by the
+Management and our opinion on the consolidated financial results, in so far as it relates to
+the amounts and disclosures included in respect of these subsidiaries, is based solely on
+such unaudited financial information. In our opinion and according to the information and
+explanations given to us by the Management, these financial information are not material
+to the Group.
+Our opinion on the Consolidated Financial Results is not modified in respect of the above
+matter with respect to our reliance on the work done and the financial information certified
+by the Board of Directors.
+13. The consolidated financial results include the results for the quarter ended March 31, 2026
+being the balancing figures between the audited figures in respect of the full financial year
+and the published unaudited year to date figures up to the third quarter of the current
+financial year, which were subject to limited review by us.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+
+iata,11/lo : .
+Place: Bengaluru
+Date: April 15, 2026
+
+Prasanna Padar Mahabala
+Partner
+Membership Number: 206477
+UDIN: 26206477PRNEDF8957
+
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No. 13, 14, 17 and 18,
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India.
+Corporate Identity Number: L72900KA2000PLC026980
+Tel: +9180 4179 4600; Fax: +9180 2852 0201
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Statement of Consolidated Financial Results for the quarter and year ended March 31, 2026
+(Rs. in crore except per share data)
+
+Particulars
+
+Quarter ended
+
+Quarter ended
+
+Quarter ended
+
+Year ended
+
+Year ended
+
+March 31, 2026
+
+December 31, 2025
+
+March 31, 2025
+
+March 31, 2026
+
+March 31, 2025
+
+Unaudited
+(Refer note- B)
+
+Unaudited
+
+Unaudited
+(Refer note- B)
+
+Audited
+
+Audited
+
+332.39
+
+306.43
+0.36
+306.79
+7.54
+314.33
+
+1,806.43
+
+1,914.98
+
+1,097.47
+5.81
+1,103.28
+33.38
+1,136.66
+
+8,454.96
+468 .25
+8,923.21
+45.42
+8,968.63
+
+Revenue from operations
+
+(a)
+(b)
+
+Revenue from sale of goods and rendering of services
+Other operating revenue
+Total Revenue from operations
+II Other income
+Ill Total income (I + II)
+
+0.30
+332.69
+10.28
+342.97
+
+100.51
+1,906.94
+8.04
+
+IV EXPENSES
+
+(a)
+
+Cost of materials consumed (Refer note- 5)
+Purchases of stock-in-trade
+
+297.07
+51.53
+
+154.06
+3.66
+
+1,316.46
+12.94
+
+820.51
+78.06
+
+6,430.65
+94.15
+
+(c)
+
+Changes in inventories of stock-in-trade, work-in-progress and
+finished goods
+
+(139.56)
+
+14.23
+
+142.54
+
+(131.59)
+
+(2.96)
+
+/d)
+(e)
+
+Employee benefit expense (Refer note- 6)
+
+99.78
+
+114.65
+71.70
+104.45
+5.51
+148.94
+617.20
+(302.87)
+
+110.32
+
+72.04
+100.84
+21.79
+120.28
+623.77
+(280.80)
+
+71.49
+103.17
+12.60
+190.55
+1,960.07
+(4S.09)
+
+404.60
+302.83
+402.73
+61.06
+552.47
+2,490.67
+(1,354.01)
+
+447.86
+251.82
+353.19
+26.01
+669,67
+8,270.39
+698.24
+
+(69.46)
+(69.46)
+(211.34)
+
+(0.01)
+(106.31)
+(106.32)
+(196.55)
+
+8.31
+18.40
+26.71
+(71.80)
+
+(0.02)
+(445.10)
+(445.12)
+(908.89)
+
+145.21
+106.50
+251.71
+446.53
+
+(2.38)
+
+1.18
+
+(2.98)
+
+1.59
+
+(9.93)
+
+/b)
+
+V
+
+Finance costs
+/ti Depreciation and amortization expense
+(g) Allowance for expected credit loss
+(h) Other expenses (Refer note- 7)
+Total expenses (IV)
+Profit/(Loss) before tax (Ill - IV)
+
+VI
+
+Income tax expense/(benefit)
+
+/1) Current tax expense/(benefit)
+/2) Deferred tax expense/(benefit)
+Total tax expense/(benefit)
+VII Profit/(Loss) after tax (V - VI)
+VIII Other comprehensive income
+
+Items that will not be reclassified to profit or loss
+Remeasurements of the post-employment benefit obligation
+(expense)/benefit
+Income tax relating to above
+Items that may be reclassified to profit or loss
+Gains/(losses) in cash flow hedges
+Exchange differences on translation of foreign operations
+Income tax relating to gains/(losses) in cash flow hedges
+IX Total comprehensive income for the year (VII+ VIII)
+X
+XI
+
+Equity share capital (Face value of Rs. 10/- each)
+Reserves (excluding Revaluation reserve) as shown in the Audited
+Balance Sheet
+
+0.52
+6.78
+0.25
+
+(2.18)
+0.08
+
+(206.69)
+
+(197.47)
+
+(13.58)
+2.82
+2.37
+(82.65)
+
+181.01
+
+180.81
+
+179.59
+
+1.58
+11.81
+0.64
+(894.85)
+
+(5.40)
+2.64
+0.94
+436.36
+
+181.01
+
+179.59
+
+2,749.86
+
+3,666.73
+
+(51.35)
+(51.35)
+
+25.75
+25.38
+
+XII Earnings/(Loss) per equity share
+Equity shares of par value Rs. 10 each
+
+/1) Basic
+/2) Diluted
+
+(11.90)
+(11.90)
+
+(11.09)
+(11.09)
+
+(4.08)
+(4.08)
+
+
+":!i" TEJAS
+
+0
+
+NETWORKS
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No. 13, 14, 17 and 18,
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India.
+Corporate Identity Number: L72900KA2000PLC026980
+Tel: +9180 4179 4600; Fax: +9180 2852 0201
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Consolidated Statement of Assets and Liabilities
+(Rs. in crore)
+Particulars
+
+As at
+
+As at
+
+March 31, 2026
+
+March 31, 2025
+
+Audited
+
+Audited
+
+418.57
+
+397.83
+0.80
+116.59
+211.81
+420.32
+403.69
+
+Assets
+Non-current assets
+Property, plant and equipment
+Capital work-in-progress
+Right-of-use assets
+Goodwill
+Other Intangible assets
+Intangible assets under development
+Financial assets
+(i)
+Investments•
+(ii) Trade receivables
+(iii) Other financial assets
+
+114.07
+211.81
+386.05
+950.43
+
+Current tax assets (net)
+Deferred tax assets (net)
+Other non-current assets
+Total non-current assets
+
+0.00
+1.33
+14.07
+22.44
+365.24
+21.15
+2,505.16
+
+26 .60
+2,048.81
+
+2,438.19
+
+2,367.19
+
+364.89
+3,256.45
+102.68
+37.23
+103.21
+594.92
+6,897.57
+9,402.73
+
+482.32
+4,443.85
+331.88
+7.76
+327.39
+452.77
+8,413.16
+10,461.97
+
+181.01
+2,749.86
+2,930.87
+
+179.59
+3,666.73
+3,846.32
+
+551.83
+126.52
+39.91
+718.26
+
+118.15
+127.18
+61.30
+79.86
+386.49
+
+3,483.64
+15.09
+
+3,150.90
+10.64
+
+41.51
+436.44
+196.84
+158.84
+
+66.41
+1,117.54
+215.73
+106.05
+15.28
+1,546.61
+6,229.16
+6,615.65
+10,461.97
+
+0,00
+440.14
+17.11
+13.92
+
+Current assets
+
+Inventories
+Financial assets
+(i)
+Investments
+(ii) Trade receivables
+(iii) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+(v) Other financial assets
+Other current assets
+Total current assets
+Total assets
+Equity and Liabilities
+Equity
+Equity share capital
+Other equity
+Total equity
+Liabilities
+Non-current liabilities
+Financial liabilities
+(i)
+Borrowings
+(ii) Lease liabilities
+Provisions
+Deferred tax liabilities (net)
+Total non-current liabilities
+Current liabilities
+Financial liabilities
+(i)
+Borrowings
+(ii) Lease liabilities
+(iii) Trade payables
+(a) Total outstanding dues of micro enterprises and small enterprises
+(bl Total outstanding dues of creditors other than micro enterprises and small enterprises
+(iv) Other financial liabilities
+Provisions
+Current tax liabilities (net)
+Other current liabilities
+Total current liabilities
+Total liabilities
+Total equity and liabilities
+
+* Amount below the rounding off norm adopted by the Company
+sr llrnrkr,•
+lPI N r
+
+7,..t µ ;J,(,_,I F ,"" --
+
+C -5
+
+WftJ'?-'- oo ~
+
+1,421.24
+5,753.60
+6,471.86
+9,402 .73
+
+
+"!!: TEJAS'
+0
+
+SET\\'OH,l( S
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No. 13, 14, 17 and 18,
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India.
+
+Corporate Identity Number: L72900KA2000PLC026980
+Tel: +9180 4179 4600; Fax: +9180 2852 0201
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Consolidated Statement of Cash Flows
+Particulars
+
+Year ended
+
+(Rs. in crore)
+Year ended
+
+March 31, 2026
+
+March 31, 2025
+
+Audited
+
+Audited
+
+(1,354.01)
+
+698 .24
+
+402.73
+61.06
+12.82
+(1.97)
+(0.79)
+3.11
+(28.55)
+302.83
+(2.34)
+11.48
+0.05
+10.90
+
+353.19
+26.01
+19.75
+(3.54)
+(0.69)
+(1.22)
+(38.50)
+251.82
+21 .51
+0.22
+(4.32)
+0.37
+59.58
+
+(582.68)
+
+1,382.42
+
+(71.00)
+1,555.58
+249.25
+(137.43)
+(710.38)
+22.15
+(41.26)
+(125.28)
+
+1,370.55
+(3,471.13)
+(132 .08)
+408.56
+(651.35)
+120.75
+46.14
+541.09
+
+158.95
+
+(385.05)
+
+Cash flows from operating activities
+
+Profit/(Loss) before tax
+Adjustments to reconcile net profit to net cash generated from operating activities:
+Depreciation and amortization expense
+Allowance for expected credit loss
+Bad debts written off
+Interest income
+Unwinding of discount on fair valuation of financials assets
+Gain/(loss) on current investments carried at FVTPL
+Gain on sale of current investments carried at FVTPL
+Finance casts
+Development expenses charged off
+Unrealised exchange difference on cash held in foreign currencies
+Unrealised exchange difference (net)
+Loss on disposal of property, plant and equipment
+Expense recognized in respect of equity-settled share-based payments
+Movements in working capital:
+(lncrease)/decrease in inventories
+(lncrease)/decrease in trade receivables
+(lncrease)/decrease in other financial assets
+(lncrease)/decrease in other assets
+lncrease/(decrease) in trade and other payables
+lncrease/(decrease) in provisions
+lncrease/(decrease) in other financial liabilities
+lncrease/(decrease) in other liabilities
+Cash used in operations
+Income taxes paid
+Net cash used in operating activities (A)
+
+(23.78)
+
+(106.44)
+
+135.17
+
+(491.49)
+
+(174.59)
+(709.28)
+0.04
+(24.26)
+(3,083.00)
+3,225.87
+1.53
+
+(323.51)
+(327.76)
+0.06
+(212.99)
+314.17
+(4,304.00)
+4,195.12
+3.92
+
+(763.69)
+
+(654.99)
+
+2.80
+(44.15)
+864.36
+(100.00)
+8,282.75
+(7,066.58)
+747.3u
+(1,952.41)
+(10.98)
+(13.70)
+(33.20)
+(174.28)
+(103.57)
+(1.42)
+
+4.36
+
+Cash flows from investing activities
+
+Payment for purchase of property, plant and equipment
+Payment for intangible assets (including under development)
+Proceeds from disposal of property, plant and equipment
+Investments in deposits with banks
+Withdrawals of deposits from banks
+Payments for purchase of investments in liquid mutual funds
+Proceeds from redemption of investments in liquid mutual funds
+Interest received
+Net cash used in investing activities (B)
+Cash flows from financing activities
+
+Proceeds from exercise of restricted stock units/employee stock options
+Dividend paid
+Proceeds from borrowings - non- current
+Repayment of borrowings - non- current
+Proceeds from borrowings - current (excluding supplier finance arrangement)·
+Repayment of borrowings - current (excluding supplier finance arrangement)
+rrocced3 received under lupplier fina11ce a1n11gernent
+Repayments under supplier finance arrangement
+Principal payment of lease liabilities
+Interest payment of lease liabilities
+Interest on non-current borrowings
+Interest on current borrowings (excluding supplier finance arrangement)
+Interest under supplier finance arrangement
+Other finance cost
+Net cash generated from financing activities (C)
+Net increase/(decrease) in cash and cash equivalents (A+B+C)
+
+Cash and cash equivalents at the beginning of the year
+Effects of exchange rate changes on the balance of cash held in foreign currencies
+Cash and cash equivalents at the end of the year
+Non-cash investing and financing activities
+
+Acquisition of right-of-use assets
+
+~
+-,
+
+uJ
+y
+
+*8-4NGAlJ
+
+118.15
+3,919.30
+(2,759.28)
+3,183.34
+
+(2,944.46)
+(7.48)
+
+(13.94)
+(1.69)
+(105.00)
+(103.65)
+(3.62)
+
+396.98
+
+1,286.03
+
+(231.54)
+
+139.55
+
+.:!.:!1.88
+
+2.34
+
+l!Jl.!>!>
+(0.22)
+
+102.68
+
+331.88
+
+15.57
+
+5.23
+
+
+"~! T EJAS.
+0
+
+, (TWORKS
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No. 13, 14, 17 and 18,
+Kannapana Agrahara Village, Begur Hobll, Bengaluru 560 100, Karnataka, India.
+
+Corporate Identity Number: L72900KA2000PLC026980
+Tel: +9180 4179 4600; Fax: +9180 2852 0201
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Notes
+
+1
+
+The Statement of Consolidated Financial Results for the quarter and year ended March 31, 2026, Consolidated Statement of Assets and Liabilities as at March 31, 2026
+and Consolidated Statement of Cash Flows for the year then ended includes the results of Tejas Networks Limited ('the Company' or 'the Holding Company' or 'the
+Parent') and the following subsidiaries (Parent and Subsidiaries collectively referred as 'the Group' herein under):
+Subsidiaries:
+- Tejas Communication Pte. Limited, Singapore
+- Tejas Communications (Nigeria) Limited, Nigeria
+- Saankhya Labs Inc., USA
+
+2
+
+This Statement of Consolidated Financial Results for the quarter and year ended March 31, 2026, Consolidated Statement of Assets and Liabilities as at March 31, 2026
+and Consolidated Statement of Cash Flows for the year then ended have been prepared in accordance with the recognition and measurement principles laid down in
+applicable accounting standard prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India, read with the
+relevant rules issued thereunder and in terms of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations, 2015").
+
+3
+
+The Group has identified "telecom and data networking related products and services" as its only reportable segment in accordance with the requirements of Ind AS
+108 "Operating Segments" and hence no segment information has been provided.
+
+4
+
+Summary of key Standalone Financial Results of the Company is as follows:
+(Rs. in crore)
+Particulars
+
+Quarter ended
+
+Quarter ended
+
+March 31, 2026
+
+December 31, 2025
+
+Unaudited
+
+Unaudited
+
+(Refer note· 8)
+
+Quarter ended
+March 31, 202S
+
+Year ended
+
+Year ended
+
+March 31, 2026
+
+March 31, 2025
+
+Unaudited
+
+Audited
+
+Audited
+
+(Refer note• 8)
+
+1,100.78
+8,915.73
+Revenue from operations
+331.76
+305.72
+1,901.51
+(1,361.53)
+(303.20)
+(35.30)
+711.43
+Profit/(Loss) before tax
+(287.92)
+(62.01)
+(916.43)
+450.66
+(218.46)
+(196 .89)
+Profit/(Loss) after tax
+Note: The Standalone Financials Results of the Company for the above mentioned periods are available in the investors section in www.tejasnetworks.com and also with
+the stock exchanges where it is listed. The above information has been extracted from the Standalone Financial Results of the Company.
+5
+
+Cost of materials consumed include provision for inventory obsolescence/write down amounting to Rs. 18.04 crore for the quarter ended March 31, 2026 (reversal of
+provision for inventory obsolescence/write down amounting to Rs 4.73 crore for quarter ended December 31, 2025 and charge of provision for inventory
+obsolescence/write down amounting to Rs. 117.27 crore for the quarter ended March 31, 2025) and Rs. 170.39 crore for the year ended March 31, 2026 (Rs. 180.59
+crore for the year ended March 31, 2025) primarily on account of contract manufacturing process losses, design changes and other related matters.
+
+6
+
+Pursuant to the notification by the Ministry of Labour & Employment on November 21, 2025 of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code
+on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020 (collectively referred to as "the Labour Codes"), the Company has
+recognized a provision towards past service cost on gratuity and compensated absences payable to employees amounting to Rs. 9.85 crore during the quarter ended
+December 31, 202S which is included under "Employee benefit expense".
+
+7
+
+Other expenses for the quarter ended March 31, 2026 include provision for warranty expenses amounting to Rs. 39.30 crore (Rs. 24.35 crore for the quarter ended
+December 31, 2025) and Rs. 108.09 crore for the year ended March 31, 2026 (March 31, 2025: Nil) determined based on potential fault rates, repair requirements and
+anticipated warranty claims.
+
+8
+
+The figures for the quarter ended March 31, 2026 and March 31, 2025 are the balancing figures between the audited figures in respect of the full financial year and the
+published unaudited year to date figures up to the third quarter of that financial years which were subjected to limited review by the statutory auditors.
+
+9
+
+The above Statement of Consolidated Financial Results, Consolidated Statement of Assets and Liabilities and Consolidated Statement of Cash Flows were reviewed and
+recommended by the Audit Committee of the Board and subsequently approved by the Board of Directors at their respective meetings held on April 15, 2026.
+fthe Boa
+
+Place: Bengaluru
+Date: April 15, 2026
+
+j'.Ml!.Jki _J;,i-
+
+'
+
+""'
+
+1
+
+=·"!""::=....._
+
+Executive Director and CO
+(DIN: 03176672)
+
+NG
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors ofTejas Networks Limited
+Report on the Audit of Standalone Financial Results
+Opinion
+1.
+
+We have audited the accompanying standalone annual financial results ofTejas Networks
+Limited (the "Company") for the year ended March 31, 2026 and the standalone statement
+of assets and liabilities as on that date and the standalone statement of cash flows for the
+year ended on that date, attached herewith, which are included in the accompanying
+'Statement of Standalone Financial Results for the quarter and year ended March 31, 2026'
+(together referred to as the "standalone financial results") being submitted by the Company
+pursuant to the requirement of Regulation 33 of the Securities Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the
+"Listing Regulations") which has been initialled by us only for identification purposes.
+
+2.
+
+In our opinion and to the best of our information and according to the explanations given
+to us, the standalone financial results:
+(i) are presented in accordance with the requirements of Regulation 33 of the Listing
+
+Regulations in this regard; and
+(ii) give a true and fair view in conformity with the recognition and measurement principles
+laid down in the applicable Indian Accounting Standards prescribed under Section 133
+of the Companies Act, 2013 (the "Act") and other accounting principles generally
+accepted in India, of net loss and other comprehensive income and other financial
+information of the Company for the year ended March 31, 2026 and the standalone
+statement of assets and liabilities and the standalone statement of cash flows as at and
+for the year ended on that date.
+Basis for Opinion
+
+3.
+
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified
+under Section 143(10) of the Act and other applicable authoritative pronouncements issued
+by the Institute of Chartered Accountants of India. Our responsibilities under those
+Standards are further described in the 'Auditor's Responsibilities for the Audit of the
+Standalone Financial Results' section of our report. We are independent of the Company in
+accordance with the Code of Ethics issued by the Institute of Chartered Accountants of
+India together with the ethical requirements that are relevant to our audit of the financial
+statements under the provisions of the Act and the Rules thereunder, and we have fulfilled
+our other ethical responsibilities in accordance with these requirements and the Code of
+Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to
+provide a basis for our opinion.
+
+Price Waterhouse Chartered Accountants LLP, 5th Floor, Tower 'D', The Millenia, 1 & 2 Murphy Road, Ulsoor
+Bengaluru - 560 008
+T: +91 (80) 40794190
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-5001)
+with effect from July 25, 2014, Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI registration number is 012754N/ N500016 (ICAI registration
+number before conversion was 012754N)
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors ofTejas Networks Limited
+Report on the Audit of Standalone Financial Results
+Page 2 of3
+
+Board of Directors' Responsibilities for the Standalone Financial Results
+
+4.
+
+These standalone financial results have been prepared on the basis of the standalone
+annual financial statements. The Company's Board of Directoi:s are responsible for the
+preparation and presentation of these standalone financial results that give a true and fair
+view of the net loss and other comprehensive income and other financial information of the
+Company and the standalone statement of assets and liabilities and the standalone
+statement of cash flows in accordance with the recognition and measurement principles
+laid down in the India'n Accounting Standards prescribed under Section 133 of the Act read
+with relevant rules issued thereunder and other accounting principles generally accepted in
+India and in compliance with Regulation 33 of the Listing Regulations. The Board of
+Directors of the Company are responsible for maintenance of adequate accounting records
+• in accordance with the provisions of the Act for safeguarding of the assets of the Company
+and for preventing and detecting frauds and other irregularities; selection and application
+of appropriate accounting policies; making judgements and estimates that are reasonable
+and prudent; and the design, implementation and maintenance of adequate internal
+financial controls, that were operating effectively for ensuring accuracy and completeness
+of the accounting records, relevant to the preparation and presentation of the standalone
+financial statements that give a true and fair view and are free from material misstatement,
+whether due to fraud or error, which have been used for the purpose of preparation of the
+standalone financial results by the Directors of the Company, as aforesaid.
+
+5.
+
+In preparing the standalone financial results, the Board of Directors of the Company are
+responsible for assessing the ability of the Company to continue as a going concern,
+disclosing, as applicable, matters related to going concern and using the going concern
+basis of accounting unless the Board of Directors either intends to liquidate the Company
+or to cease operations, or has no realistic alternative but to do so.
+
+6.
+
+The Board of Directors of the Company are responsible for overseeing the financial
+reporting process of the Company.
+
+Auditor's Responsibilities for the Audit of the Standalone Financial Results
+
+7.
+
+Our objectives are to obtain reasonable assurance about whether the standalone financial
+results as a whole are free from material misstatement, whether due to fraud or error, and
+to issue an auditor's report that includes our opinion. Reasonable assurance is a high level
+of assurance, but is not a guarantee that an audit conducted in accordance with SAs will
+always detect a material misstatement when it exists. Misstatements can arise from fraud
+or error and are considered material if, individually or in the aggregate, they could
+reasonably be expected to influence the economic decisions of users taken on the basis of
+these standalone financial results.
+
+8
+
+As part of an audit in accordance with SAs, we exercise professional judgement and
+maintain professional scepticism throughout the audit. We also:
+• Identify and assess the risks of material misstatement of the standalone financial
+results, whether due to fraud or error, design and perform audit procedures responsive
+to those risks, and obtain audit evidence that is sufficient and appropriate to provide a
+basis for our opinion. The risk of not detecting a material misstatement resulting from
+fraud is higher than for one resulting from error, as fraud may involve collusion,
+forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+
+Price Waterhouse Chartered Accountants LLP
+INDEPENDENf AUDITOR'S REPORT
+To the Board of Directors of Tejas Networks Limited
+Report on the Audit of Standalone Financial Results
+Page 3 of3
+
+•
+
+•
+•
+
+•
+
+Obtain an understanding of internal control relevant to the audit in order to design
+audit procedures that are appropriate in the circumstances. Under Section 143(3)(i) of
+the Act, we are also responsible for expressing our opinion on whether the Company
+has adequate internal financial controls with reference to financial statements in place
+and the operating effectiveness of such controls.
+Evaluate the appropriateness of accounting policies used and the reasonableness of
+accounting estimates and related disclosures made by the Board of Directors.
+Conclude on the appropriateness of the Board of Directors use of the going concern
+basis of accounting and, based on the audit evidence obtained, whether a material
+uncertainty exists related to events or conditions that may cast significant doubt on the
+ability of the Company to continue as a going concern. If we conclude that a material
+uncertainty exists, we are required to draw attention in our auditor's report to the
+related disclosures in the standalone financial results or, if such disclosures are
+inadequate, to modify our opinion. Our conclusions are based on the audit evidence
+obtained up to the date of our auditor's report. However, future events or conditions
+may cause the Company to cease to continue as a going concern.
+Evaluate the overall presentation, structure and content of the standalone financial
+results, including the disclosures, and whether the standalone financial results
+represent the underlying transactions and events in a manner that achieves fair
+presentation.
+
+9.
+
+We communicate with those charged with governance of the Company regarding, among
+other matters, the planned scope and timing of the audit and significant audit findings,
+including any significant deficiencies in internal control that we identify during our audit.
+
+10.
+
+We also provide those charged with governance with a statement that we have complied
+with relevant ethical requirements regarding independence, and to communicate with them
+all relationships and other matters that may reasonably be thought to bear on our
+independence, and where applicable, related safeguards.
+
+Other Matter
+
+11.
+
+The standalone financial results include the results for the quarter ended March 31, 2026
+being the balancing figures between the audited figures in respect of the full financial year
+and the published unaudited year to date figures up to the third quarter of the current
+financial year, which were subject to limited review by us.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+
+1)60 / a.lJ.10
+Place: Bengaluru
+Date: April 15, 2026
+
+Prasanna Padar Mahabala
+Partner
+Membership Number: 206477
+UDIN: 26206477EUJAFX7398
+
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No.13, 14, 17 and 18,
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India.
+Corporate Identity Number: L72900KA2000PLC026980
+Tel: +9180 4179 4600; Fax: +9180 2852 0201
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Statement of Standalone Financial Results for the quarter and year ended March 31, 2026
+(Rs in crore except per share data)
+Quarter ended
+March 31, 2026
+
+Particulars
+
+V
+VJ
+
+VII
+
+March 31, 2026
+
+March 31, 2025
+
+Unaudited
+
+Audited
+
+Aud ited
+
+8,447.48
+468.25
+8,915.73
+45 .43
+8,961.16
+
+6,425 .47
+94.15
+
+Total income (I+ II)
+
+331.76
+10.32
+342.08
+
+305.36
+0.36
+305.72
+7.58
+313.30
+
+1,901.51
+8.04
+1,909.55
+
+1,094.97
+5.81
+1,100.78
+33.46
+1,134.24
+
+EXPENSES
+(a) Cost of materials consumed (Refer note- 3)
+(b) Purchases of stock-in-trade
+
+297.07
+51.53
+
+153.84
+3.66
+
+1,311,28
+12.94
+
+820.23
+78.06
+
+Total Revenue from operations
+Other income
+
+(Refer note- 6)
+
+1,801.00
+100.51
+
+(c) Changes in inventories of stock-in-trade, work-in-progress and
+finished goods
+
+(139.56)
+
+14.23
+
+142.54
+
+{131.59)
+
+(2.96)
+
+(d) Employee benefit expense (Refer note- 4)
+(e) Finance costs
+(/) Depreciation and amortization expense
+(g) Allowance for expected credit loss
+{h) Other expenses (Refer note- 5)
+Total expenses (IV)
+Profit/(Loss) before tax (Ill - IV)
+
+95.62
+72.01
+100.84
+21.79
+130.70
+630.00
+(287.92)
+
+111.14
+71.65
+104.45
+5.51
+152.02
+616.50
+(303.20)
+
+106.98
+71.41
+103.17
+22.49
+174.04
+1,944.85
+(35.30)
+
+390.60
+302.61
+402.73
+61.06
+572.07
+2,495.77
+(1,361.53)
+
+436.49
+247.46
+353 .19
+35.90
+660.03
+8,249.73
+711.43
+
+Income tax expense/(benefit)
+(1) Current tax expense/(benefit)
+(2) Deferred tax expense/(benefit)
+Total tax expense/(benefit)
+Profit/(Loss) after tax (V - VI)
+
+(69 .46)
+(69.46)
+(218.46)
+
+(106.31)
+(106.31)
+{196.89)
+
+8.31
+18.40
+26.71
+(62.01)
+
+(445 .10)
+(445.10)
+(916.43)
+
+147.07
+113.70
+260.77
+450.66
+
+(2.38)
+
+1.18
+
+(2.98)
+
+1.59
+
+(9.93)
+
+Other comprehensive income
+
+IX
+
+Items that will not be reclassified to profit or loss
+Remeasurements of the post-employment benefit obligation
+(expense)/benefit
+Income tax relating to above
+Items that may be reclassified to profit or loss
+Gains/(losses) in cash flow hedges
+Income tax relating to above
+Total comprehensive income for the year (VII+ VIII)
+
+XII
+
+Vear ended
+
+March 31, 2025
+
+331.46
+0.30
+
+VIII
+
+X
+XI
+
+Year ended
+
+December 31, 2025
+
+Unaudited
+
+(b} Other operating revenue
+
+IV
+
+Quarter ended
+
+Unaudited
+(Refer note- 6)
+
+Revenue from operations
+(a) Revenue from sale of goods and rendering of services
+
+II
+Ill
+
+Quarter ended
+
+Equity share capital (Face value of Rs. 10/- each)
+Reserves (excluding Revaluation reserve) as shown in the Audited
+Balance Sheet
+Earnings/(Loss) per equity share
+Equity shares of par value Rs. 10 each
+(1) Basic
+(2) Diluted
+
+0.52
+6.78
+
+(2.18)
+
+(214.06)
+
+181.01
+
+(12 .30)
+(12.30)
+
+1.58
+
+(197.89)
+
+(13.58)
+2.37
+(75.68)
+
+(903.03)
+
+(5.40)
+0.94
+437.85
+
+180.81
+
+179.59
+
+181.01
+
+179.59
+
+2,750.70
+
+3,675.75
+
+(51.78)
+(51.78)
+
+25 .99
+25 .62
+
+(11.11)
+(11.11)
+
+(3 .53)
+(3.53)
+
+11.81
+
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No.13, 14, 17 and 18,
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India.
+
+Corporate Identity Number: L72900KA2000PLC026980
+Tel: +91 80 4179 4600; Fax: +9180 2852 0201
+E-mail: corparate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Standalone Statement of Assets and Liabilities
+Rs. in crore
+Particulars
+
+Asal
+March 31, 2026
+
+As at
+March 31, 2025
+
+Audited
+
+Audited
+
+418.57
+
+397.83
+0.80
+116.59
+211.81
+420.32
+403.69
+
+Assets
+Non-current assets
+
+Property, plant and equipment
+Capital work-in-progress
+Right-of-use assets
+Goodwill
+Other intangible assets
+Intangible assets under development
+Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Other financial assets
+Current tax assets (net)
+Deferred tax assets (net)
+Other non-current assets
+
+114.07
+211.81
+386.05
+950.43
+10.87
+1,33
+14.01
+21.66
+365.24
+21.15
+
+17.81
+440.14
+17.05
+13.21
+
+2,515.19
+
+2,065.85
+
+2,437,95
+
+2,366.08
+
+Total current assets
+
+364.89
+3;256.23
+94.88
+37.23
+103.21
+594.16
+6,888.55
+
+482.32
+4,443.58
+325.48
+7.76
+327.39
+452.45
+8,405.06
+
+Total assets
+
+9,403.74
+
+10,470.91
+
+181.01
+2,750.70
+2,931.71
+
+179.59
+3,675.75
+3,855.34
+
+Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+Provisions
+Deferred tax liabilities (net)
+
+551.83
+126.52
+39.91
+
+118.15
+127.18
+61.30
+79.86
+
+Total non-current liabilities
+
+718.26
+
+386.49
+
+3,483.64
+15.09
+
+3,150.90
+10.64
+
+41.51
+
+Total liabilities
+
+1,420.72
+5,753.77
+6,472.03
+
+66.41
+1,nl,68
+210.07
+105.77
+15.28
+1,545.33
+6,229.08
+6,615.57
+
+Total equity and liabilities
+
+9,403.74
+
+10,470.91
+
+Total non-current assets
+
+26.60
+
+Current assets
+
+Inventories
+Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+(v) Other financial assets
+Other current assets
+
+Equity and Liabilities
+Equity
+
+Equity share capital
+Other equity
+Total equity
+Liabilities
+Non-current liabilities
+
+Current liabilities
+
+Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+(iii) Trade payables
+(a) Total outstanding dues of micro enterprises and small enterprises
+(bl Total outotJnding duo, of "oditor. othor th □ n mioro ont □ rpriGoo □ nd Gm □ II □ ntorpriGoo
+(iv) Other financial liabilities
+Provisions
+Current tax liabilities (net)
+Other current liabilities
+Total current liabilities
+
+11!i,Jl
+
+189.16
+158.44
+
+
+Tejas Networks Limited
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No.13, 14, 17 and 18,
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India.
+
+Corporate Identity Number: l72900KA2000PLC026980
+Tel: +9180 4179 4600; Fax: +9180 2852 0201
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks.com
+
+Standalone Statement of Cash Flows
+Particulars
+
+(Rs. in crore)
+Year ended
+
+Year ended
+
+March 31, 2026
+
+March 31, 2025
+
+Audited
+
+Audited
+
+(1,361.53)
+
+711.43
+
+402.73
+61.06
+12.82
+(1.97)
+(0.79)
+3.11
+(28.55)
+302.61
+
+353.19
+35.90
+
+Cash flows from operating activities
+
+Profit/(Loss) before tax
+Adjustments to reconcile net profit to net cash generated from operating activities:
+Depreciation and amortization expense
+Allowance for expected credit loss
+Bad debts written off
+Interest income
+Unwinding of discount on fair valuation of financials assets
+Gain/(loss) on current investments carried at FVTPL
+Gain on sale of current investments carried at FVTPL
+Finance costs
+
+Development expenses charged off
+Impairment of investment in subsidiary
+Unrealized exchange difference on cash held in foreign currencies
+Unrealised exchange difference (net)
+Loss on disposal of property, plant and equipment
+Expense recognized in respect of equity-settled share-based payments
+Movements in working capital:
+(lncrease)/decrease in inventories
+(lncrease)/decrease in trade receivables
+(lncrease)/decrease in other financial assets
+(lncrease)/decrease in other assets
+lncrease/(decrease) in trade and other payables
+lncrease/(decrease) in provisions
+lncrease/(decrease) in other financial liabilities
+lncrease/(decrease) in other liabilities
+Cash used in operations
+Income taxes paid
+Net cash used in operating activities (A)
+
+(3.54)
+(0.69)
+(1.22)
+(38.50)
+247.46
+21.51
+
+6.94
+(2.34)
+9.23
+0.05
+10.90
+
+0.22
+(6.69)
+0.37
+59.58
+
+(585.731
+
+1,379.02
+
+(71.87)
+1,556.50
+249.25
+(137.03)
+(708.12)
+22.03
+(43 .14)
+(124.61)
+
+1,367.02
+(3,463.40)
+(131.97)
+408.37
+(654.72)
+120.73
+46.62
+541.45
+
+157.28
+
+(386.88)
+
+(23.73)
+
+(106.44)
+
+133.55
+
+(493.32)
+
+(174.59)
+(709.28)
+0.04
+(24.26)
+(3,083.00)
+3,225.87
+1.53
+
+(323.51)
+(327.76)
+0.06
+(212.99)
+314.17
+(4,304.00)
+4,195 .12
+3.92
+
+(763.69)
+
+(654.99)
+
+2.80
+(44.15)
+864.36
+(100.00)
+8,282.75
+(7,066.58)
+747.36
+(1,952.41)
+(10.98)
+(13.70)
+(33.20)
+(174.28)
+(103.57)
+(1.20)
+
+4.36
+
+3,919.30
+(2,759.28)
+3,183.34
+(2,944:46)
+(7.48)
+(13.94)
+(1.69)
+(105 .00)
+(103 .65)
+(3.36)
+
+Cash flows from investing activities
+
+Payment for purchase of property, plant and equipment
+Payment for intangible assets (including under development)
+Proceeds from disposal of property, plant and equipment
+Investments in deposits with banks
+Withdrawals of deposits from banks
+Payments for purchase of investments in liquid mutual funds
+Proceeds from redemption of investments in liquid mutua l funds
+Interest received
+Net cash used in investing activities (B)
+Cash flows from financing activities
+
+Proceeds from exercise of restricted stock units/employee stock options
+Dividend paid
+Proceeds from borrowings - non- current
+Repayment of borrowings - non- current
+Proceeds from borrowings - current (excluding supplier finance arrangement)
+Repayment of borrowings - current (excluding supplier finance arrangement)
+Proceeds received under supplier finance arrangement
+Repayments under supplier finance arrangement
+Principal payment on lease liabilities
+Interest payment on lease liabilities
+Interest on non-current borrowings
+Interest on current borrowings (excluding supplier finance arrangement)
+Interest under supplier finance arrangement
+Other finance cost
+Net cash generated from financing activities (C)
+
+118.15
+
+397.20
+
+1,286.29
+
+(232.94)
+
+137.98
+
+Cash and cash equivalents at the beginning of the year
+Effects of exchange rate changes on the balance of cash held in foreign currencies
+
+325.48
+2.34
+
+187.72
+(0.22 )
+
+Cash and cash equivalents at the end of the year
+
+94.88
+
+325.48
+
+15.57
+
+5.23
+
+Net increase/(decrease) in cash and cash equivalents (A+B+C)
+
+Non-cash investing and financing activities
+
+Acqu isition of right-of-use assets
+
+

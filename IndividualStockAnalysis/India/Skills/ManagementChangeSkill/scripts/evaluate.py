@@ -53,14 +53,15 @@ REVIEWED = HERE.parent / "evals" / "reviewed_exceptions.csv"
 
 HEAD_ROLE_RX = re.compile(r"chief\s+executive|\bc\.?e\.?o\b|managing\s+director|\bm\.?d\.?\s*(?:&|and)\s*c\.?e\.?o|\bcmd\b|chief\s+financ|\bc\.?f\.?o\b|director\s*\(?finance", re.I)
 HEAD_EVENT_RX = re.compile(r"(?<!re-)(?<!re)appoint|resign|cessation|retire|superannuat|demise|step\w*\s+down|elevat|relinquish|takes?\s+(?:over|charge)|assum", re.I)
-HEAD_NOT_RX = re.compile(r"re-?\s?appoint|independent\s+director|company\s+secretary|subsidiar|auditor", re.I)
+HEAD_NOT_RX = re.compile(r"re-?\s?appoint|independent\s+director|company\s+secretary|subsidiar|auditor|\bdeputy\b|\bdy\.|"
+                         r"\bjoint\b|\bjt\.|business|division|operations\b|region", re.I)
 
 
 def seat_of_headline(h: str) -> str:
     if not (HEAD_ROLE_RX.search(h) and HEAD_EVENT_RX.search(h)) or HEAD_NOT_RX.search(h):
         return ""
-    return "CFO" if re.search(r"chief\s+financ|\bc\.?f\.?o\b|director\s*\(?finance", h, re.I) and not re.search(
-        r"chief\s+executive|\bc\.?e\.?o\b|managing\s+director", h, re.I) else "CEO/MD"
+    m = HEAD_ROLE_RX.search(h)                        # the first seat the headline names
+    return "CFO" if re.search(r"financ|c\.?f\.?o", m.group(0), re.I) else "CEO/MD"
 
 
 def reviewed() -> dict[tuple[str, str], str]:

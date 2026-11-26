@@ -1,0 +1,3180 @@
+April 24, 2026
+The Manager
+
+The Manager
+
+Listing Department
+
+Listing Department
+
+BSE Limited
+
+National Stock Exchange of India Limited
+
+Phiroze Jeejeebhoy Towers
+
+“Exchange Plaza” C – 1, Block G
+
+Dalal Street
+
+Bandra Kurla Complex, Bandra (East)
+
+Mumbai 400 001
+
+Mumbai 400 051
+
+Through: BSE Listing portal
+
+Through: NEAPS
+
+SCRIP CODE: 500027
+
+SYMBOL: ATUL
+
+Dear Sir,
+Sub: Outcome of the Board meeting
+Financial results
+Pursuant to Regulation 30 and 33(1) of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, we are submitting the following for the year ended on March
+31, 2026:
+a) audited standalone and consolidated financial results.
+b) auditor’s report on standalone financial results.
+c) auditor’s report on consolidated financial results.
+Integrated filling (Financials) pursuant to the SEBI circular no SEBI/HO/CFD/CFD-PoD-2/CIR/P/2024/185
+dated December 31, 2024, is being done separately in xbrl format in accordance with relevant circulars
+issued by the stock exchanges.
+Further, pursuant to Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 read with Chapter III, Section III-A, clause (D), sub-clause 19
+of the SEBI master circular no. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, we
+declare and confirm that the auditor’s reports on standalone financial results and consolidated financial
+results are unmodified.
+Dividend, book closure and record date
+The Board of Directors of the Company proposed dividend of ₹ 30 (Rupees Thirty only) per equity share for
+the year ended March 31, 2026 which is subject to approval of the members at the ensuing Annual General
+meeting (AGM) to be held on July 31, 2026.
+The Register of Members and Share Transfer Books shall remain closed from July 18, 2026, to July 24, 2026
+(both days inclusive) and accordingly the record date for the purpose of ascertaining the eligibility of the
+members to receive the dividend is July 17, 2026.
+After the approval by the members at the AGM, date for payment of dividend will be on or after August 05,
+2026.
+
+
+Reappointment of Director
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (the Regulations), we wish to inform you that based on the
+recommendation of the Nomination and Remuneration Committee and subject to approval of the members
+of the Company, the Board of Directors has reappointed Mr Samveg Lalbhai (DIN: 00009278), as a
+Managing Director of the Company effective December 15, 2026 for a period of five years.
+The information required pursuant to provisions of Schedule III of the Regulations is enclosed as Annexure
+A.
+The above were taken on record by the Board of Directors of the Company today at 01:45 pm at their
+meeting. Please note that the meeting commenced at 10:00 am and is continuing for other routine agenda
+items.
+Please acknowledge the receipt and inform the members of the exchange.
+Thank you,
+Yours faithfully,
+For Atul Limited
+
+LALIT
+Lalit Patni
+PATNI
+Company Secretary
+and
+Chief Compliance Officer
+Encl.: as above
+
+Digitally signed by LALIT PATNI
+DN: c=IN, o=PERSONAL,
+pseudonym=e2d5a0b712e647029fe748aa6
+aeac617,
+2.5.4.20=dcbb01b07dca40e6aff961c681525
+a3fc379bd945ca90941eb2fa3a4c06ef195,
+postalCode=396020, st=Gujarat,
+serialNumber=12e57a0c1a13a50412ce942
+250bfdfb5d658c0413d4e8fca6850513e961
+d4bb2, cn=LALIT PATNI
+Date: 2026.04.24 13:52:28 +05'30'
+
+
+tll:ul
+
+--
+
+Atul Ltd
+Atul House, G I Patel Marg, Ahmedabad 380 014, Gujarat, India
+shareholders@atul.co.in I www.atul.co.in
+(+91 79) 26461294 I 3706
+CIN:L99999GJ1975PLC002859
+Part I: Standalone financial results for the quarter I year ended on March 31, 2026
+
+(fer)
+Year ended on
+
+Quarter ended on
+No.
+
+Particulars
+
+March 31,
+2026
+
+December 31,
+2025
+
+March 31,
+2025
+
+March 31,
+2026
+
+March 31,
+2025
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Audited
+
+Audited
+
+01. INCOME
+a)
+
+Revenue from operations
+
+b)
+
+Other income
+
+1,351.56
+
+1.497.93
+
+1,314.79
+
+5,563.57
+
+5,074.69
+
+74.96
+
+36.45
+
+54.51
+
+198.91
+
+132.99
+
+1,572.89
+
+1,388.01
+
+1,369.30
+
+5,762.48
+
+5,207.68
+
+Cost of materials consumed
+
+804.79
+
+682.60
+
+677.82
+
+3,007.16
+
+2.683.74
+
+b)
+
+Purchases of stock-in-trade
+
+23.98
+
+19.78
+
+14.59
+
+79.39
+
+57.00
+
+c)
+
+Changes in inventories of finished goods, work-in-progress and stock-in-trade
+
+3.39
+
+32.61
+
+5.21
+
+(20.40)
+
+(118.67)
+
+131.45
+
+137.96
+
+556.06
+
+577.21
+
+Total income
+02. EXPENSES
+a)
+
+d)
+
+Power, fuel and water
+
+e)
+
+Employee benefit expenses (refer Note 4)
+
+80.20
+
+134.74
+
+93.36
+
+406.64
+
+364.29
+
+f)
+
+Finance costs
+
+0.87
+
+0.90
+
+1.54
+
+3.59
+
+6.31
+
+g)
+
+Depreciation and amortisation expenses
+
+52.33
+
+53.06
+
+55.26
+
+215.96
+
+213.04
+
+h)
+
+Other expenses
+
+214.48
+
+177.99
+
+218.07
+
+754.11
+
+801.43
+
+Total expenses
+
+1,324.15
+
+1,233.13
+
+1,203.81
+
+5,002.51
+
+4,584.35
+
+03. Profit before tax
+
+248.74
+
+154.88
+
+165.49
+
+759.97
+
+623.33
+
+54.35
+
+33.33
+
+37.03
+
+169.79
+
+149.68
+
+4.79
+
+0.40
+
+6.65
+
+9.38
+
+21.21
+
+179.17
+
+170.89
+
+04. Tax expense
+a)
+-
+
+b)
+
+Current tax
+Deferred tax
+
+144.11
+
+-
+
+-
+
+-
+
+~~S1'lNS &
+~
+J'~
+
+ff 6,(,,
+
+~
+
+*~
+
+~*
+
+~
+
+MUMBAI
+
+r;;
+
+59.14
+
+33.73
+
+43.68
+
+(14.24)
+
+-
+
+(3.88)
+
+(14.24)
+
+(3.84)
+
+Total tax expense
+
+44.90
+
+33.73
+
+39.80
+
+164.93
+
+167.05
+
+05. Profit for the period
+
+203.84
+
+121.15
+
+125.69
+
+595.04
+
+456.28
+
+Tax expense for the year
+Excess provision of tax relating to earlier years
+
+~fli'ED AC~~'i'-
+
+-
+
+
+Part I: Standalone financial results for the quarter I year ended on March 31, 2026
+
+(fer)
+Year ended on
+
+Quarter ended on
+No.
+
+Particulars
+
+March 31,
+
+December 31,
+
+March 31,
+
+March 31,
+
+March 31,
+
+2026
+
+2025
+
+2025
+
+2026
+
+2025
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Audited
+
+Audited
+
+06. Other comprehensive income
+a)
+
+Items that will not be reclassified to profit I loss
+i)
+
+b)
+
+Fair value of equity instruments through other comprehensive income
+
+(68.95)
+
+-
+
+(24.66)
+
+(225.62)
+
+(8.68)
+
+67.83
+
+ii)
+
+Remeasurement gain I (loss) on defined benefit plans
+
+3.43
+
+1.78
+
+(2.14)
+
+6.04
+
+(0.26)
+
+iii)
+
+Income tax related to items above
+
+8.65
+
+3.10
+
+32.10
+
+(l.27)
+
+(16.15)
+
+Items that will be reclassified to profit I loss
+i)
+
+Effective portion of gain I (loss) on cash flow hedges
+
+-
+
+0.19
+
+0.76
+
+-
+
+(0.29)
+
+ii)
+
+Income tax related to items above
+
+-
+
+(0.05)
+
+(0.19)
+
+-
+
+0.07
+
+(56.87)
+
+(19.64)
+
+(195.09)
+
+(3.91)
+
+51.20
+
+591.13
+
+507.48
+
+Other comprehensive income, net of tax
+07. Total comprehensive income for the period
+
+146.97
+
+101.51
+
+(69.40)
+
+08. Paid-up equity share capital (face value f 10 per share)
+
+29.44
+
+29.44
+
+29.44
+
+09. Other equity
+10. Earnings per equity share off 10 each (not annualised, excluding year end)
+Basic earnings (~)
+Diluted earnings ~)
+
+29.44
+
+29.44
+
+6,026.46
+
+5,508.65
+
+69.24
+
+41.15
+
+42.69
+
+202.11
+
+154.98
+
+69.24
+
+41.15
+
+42.69
+
+202.11
+
+154.98
+
+
+Part II: Standalone Balance Sheet
+
+(fer)
+As at
+Particulars
+
+No.
+
+March 31,
+
+March 31,
+
+2026
+Audited
+
+Audited
+
+2025
+
+A
+
+ASSETS
+
+1
+
+Non-current assets
+a) Property. plant and equipment
+
+1,640.07
+
+1,737.93
+
+b)
+
+Capital work-in-progress
+
+80.81
+
+91.36
+
+c)
+
+3.22
+0.25
+
+3.22
+
+d)
+
+Investment property
+-Intangible assets
+
+e)
+
+Financial assets
+1.217.36
+860.93
+
+1,201.79
+
+19.00
+
+8.00
+
+16.90
+24.36
+
+17.49
+. 31.36
+
+-
+
+i)
+
+Investments in subsidiary companies and joint venture company
+
+ii)
+
+Other investments
+
+iii)
+
+Loans
+iv) Other financial assets
+Other non-current assets
+
+f)
+
+Total non-current assets
+
+-
+
+Current asse~
+a) Inventories
+
+2
+
+869.62
+-
+
+---
+
+3,862.90
+
+3,961.55
+
+727.22
+
+655.36
+757.80
+1,027.22
+
+u
+
+--
+
+--
+
+Financial assets
+
+b)
+
+i)
+
+Investments
+
+1,366.12
+
+ii)
+
+Trade receivables
+
+iii)
+
+Cash and cash equivalents
+Bank balances other than (iii) above
+
+1.175.58
+17.75
+
+---
+
+iv)
+v)
+
+--
+
+Loans
+
+1.50
+
+2.79
+
+2.77
+
+34.72
+
+33.22
+
+-
+
+--
+
+---
+
+22.95
+
+18.03
+
+c)
+Total current assets
+
+86.66
+3,433.79
+
+93.81
+-2,589.71
+
+Total assets
+
+7,296.69
+
+6,551.26
+
+29.46
+6,026.46
+
+5,508.65
+
+6,055.92
+
+5,538.11
+
+3.84
+
+3.70
+33.30
+
+-
+
+-
+
+vi)
+Other financial assets
+Other current assets
+
+-
+
+EQUITY AND LIABILITIES
+Equity
+a) Equity share capital
+
+B
+
+0.78
+
+b) Other equity
+Total equity
+
+--
+
+29.46
+
+Liabilities
+Non-current liabilities
+
+1
+
+a)
+b)
+
+Other financial liabilities
+Provisions
+
+c)
+
+Deferred tax liabilities (net)
+
+28.49
+
+---
+
+Current liabilities
+a) Financial liabilities
+
+2
+
+i)
+ii)
+
+Borrowings
+
+Other financial liabilities
+iii)
+Contract liabilities
+
+c) Other current liabilities
+d) Provisions
+e) Current tax liabilities (net)
+Total current liabilities
+
+--
+
+6.50
+
+8.06
+
+79.38
+744.65
+
+33.66
+576.07
+
+126.89
+36.38
+
+--
+
+Trade payables
+
+b) Creditors other than micro-enterprises and small enterprises
+b)
+
+164.19
+201.19
+
+--
+
+Total outstanding dues of
+a) Micro-enterprises and small enterprises
+
+-
+
+173.32
+
+205.65
+
+---
+
+Total non-current liabilities
+
+---
+
+Total liabilities
+Total equity and liabilities
+
+-
+
+~~-:,\<.INS& &
+
+tg
+
+g
+~
+Ig MUMBAI ;
+
+*
+
+.,,_$'?)
+~
+
+\~.
+
+--
+
+-11.07
+--
+
+-
+
+136.71
+27.14
+
+16.62
+-13.63
+1,035.12
+
+10.61
+15.40
+4.31
+811.96
+
+1,240.77
+
+1,013.15
+
+7,296.69
+
+6,551.26
+
+-
+
+-
+
+
+Part Ill: Standalone Statement of Cash Flows
+
+(fer)
+For the year ended on
+
+A
+
+March 31,
+
+March 31,
+
+Particulars
+
+CASH FLOW FROM OPERATING ACTIVITIES
+
+2026
+
+2025
+
+Audited
+
+Audited
+
+--
+
+Profit before tax
+
+759.97
+
+623.33
+
+215.96
+3.59
+1.70
+(18.05)
+3.24
+(0.44)
+(56.65)
+(23.32)
+(0.83)
+(65.87)
+819.30
+
+213.04
+6.31
+3.77
+(24.86)
+3.32
+3.70
+2.62
+(32.79)
+(12.69)
+(0.68)
+(35.02)
+750.05
+--
+
+(71.86)
+(121.14)
+219.85
+846.15
+Q 30.03)
+716.12
+--
+
+(92.16)
+(164.68)
+75.23
+568.43
+-(141.14)
+427.29
+
+(129.16)
+3.05
+--
+
+(190.81)
+1.46
+22.89
+62.84
+(275.10)
+(14.50)
+(33.92)
+35.02
+(2.18)
+(7.91)
+4.13
+15.10
+8.76
+7.73
+(366.49)
+
+Adjustments for:
+Depreciation and amortisation expenses
+Finance costs
+Loss on disposal of property, plant and equipment (net)
+
+-
+
+Insurance claim
+Unrealised exchange rate difference (net)
+Bad debts and irrecoverable balances written off
+Allowance for doubtful debts I (written back)
+Dividend income
+Interest income
+Liabilities no long~ required written_b_a_ck_ _ __
+Gain on disposal of current investments measured at FVTPL (net)
+Operating profit before change in operating assets and liabilities
+Adjustments for:
+(Increase) I Decrease in inventories
+(Increase) I Decrease in non-current and current assets
+Increase I (Decrease) in non-current and current liabilities
+__ Cash generated from operations
+Income tax paid (net of refund)
+Net cash flow from operating activities
+
+B
+
+A
+
+CASH FLOW FROM INVESTING ACTIVITIES
+Payments towards property, plant and equipment (including capital advances and CWIP)
+Proceeds from disposal of property, plant and equipment
+Proceeds from insurance claim
+
+-
+
+Redemption of bonds measured at FVTPL
+
+42.40
+(583.26)
+
+Purchase of current investments measured at FVTPL (net)
+----
+
+-
+
+Purchase of preference share of subsidiary companies measured at cost
+Purchase of equity instruments of subsidiary companies measured at cost
+Repayments of loans given
+Disbursements of loans
+Investment in bank deposits (net)
+Interest received
+Dividend received from subsidiary companies
+Dividend received from joint venture company
+Dividend received from others
+
+---
+
+Net cash used in investing activities
+C
+
+8
+
+CASH FLOW FROM FINANCING ACTIVITIES
+
+-
+
+Repayments of short-term borrowings (net)
+Interest paid
+Dividend on equity shares
+Net cash used in financing activities
+Net increase I (decrease) in cash and cash equivalents
+Cash and cash equivalents at the beginning of the tear
+Cash and cash equivalents at the end of the year
+
+(15.57)
+4.53
+-(15.00)
+(0.48)
+18.17
+22.47
+-11.68
+-19.99
+(621.18)
+
+c
+A+B+C
+
+(1.56)
+(3.53)
+(73.60)
+(78.69)
+16.25
+1.50
+-17.75
+
+(2.45)
+(6.31)
+(58.88)
+(67.64)
+(6.84)
+8.34
+1.50
+
+
+Standalone financial results for the quarter I year ended on March 31, 2026
+Notes:
+
+1.
+
+These results have been prepared in accordance with the Indian Accounting Standard (Ind AS) notified under the Companies (Indian Accounting Standards) Rules, 2015 as amended from
+time to time.
+
+2.
+
+These results have been reviewed and recommended for adoption by the Audit Committee in its meeting held on April 23, 2026 and approved by the Board of Directors in its meeting held
+on April 2.4, 2026. The Statutory Auditors have expressed an unmodified audit opinion.
+
+3.
+
+The Company publishes the standalone financial results along with the consolidated financial results. In accordance with the Ind AS 108, 'Operating Segments', the Company has
+disclosed the segment information in the consolidated financial results and therefore no separate disclosure on segment information is given in the standalone financial results for the
+quarter I year ended on March 31, 2026.
+
+4.
+
+On November 21, 2025, the Government of India notified four Labour Codes. effective immediately, replacing the then existing 29 labour laws. In accordance with Ind AS 19 - Employee
+benefits, changes to employee benefit plans arising from legislative amendments are treated as plan amendments. requiring immediate recognition of changes in the past service cost in
+the standalone financial results. This approach is consistent with the guidance issued by the Institute of Chartered Accountants of India. The Company had assessed the impact of these
+changes and provided an amount of~ 36.61 er and recognised the same for the quarter and nine months ended on December 31, 2025, as employee benefit expenses. Consequent to the
+employee compensation restructuring and on actuarial valuation, the said liability is now determined at~ 12.23 er. The excess provision of~ 24.38 er has been reversed in the results for
+the quarter and year ended March 31, 2026, as a change in estimate. The Company continues to monitor the finalisation of the Central and State rules and the clarifications that may be
+issued by the Government on the new labour codes and will recognise the impact of changes in the estimates in that period, as needed.
+
+5.
+
+The figures of the last quarter represent the balancing figures between audited figures in respect of the full financial year and the published year to date figures up to the third quarter of
+the respective financial year. There are no material adjustments made in the results for the quarter ended on March 31, 2026, which pertain to earlier periods. These have been subjected
+to limited review by the Auditors.
+
+6.
+
+The Board of Directors has recommended a dividend of~ 30 per share (300%) subject to the approval of the shareholders.
+
+s~·
+(Sunil Lalbhai)
+(DIN : 00045590)
+
+Mumbai
+
+~ Chairman and Managing Director
+
+April 24, 2026
+
+@
+l.r.lbh11i Ciroup
+
+
+t1M
+
+--
+
+Atul Ltd
+Atul House, G I Patel Marg, Ahmedabad 380 014, Gujarat, India
+shareholders@atul.co.in I www.atul.co.in
+(+91 79) 264612941 3706
+CIN:L99999GJ1975PLC002859
+Part IV: Consolidated financial results for the quarter I year ended on March 31, 2026
+('f cr)
+
+Year ended on
+
+Quarter ended on
+No. I
+
+I
+
+Particulars
+
+March 31,
+2026
+Unaudited
+
+II
+
+December 31,
+2025
+
+March 31,
+2025
+
+March 31,
+2026
+
+March 31,
+2025
+
+Unaudited
+
+Unaudited
+
+Audited
+
+Audited
+
+01. ,INCOME
+a)
+
+Revenue from operations
+
+1,670.07
+
+1,573.62
+
+1.451.64
+
+6,273.54
+
+b)
+
+Other income
+
+89.57
+1,759.64
+
+38.59
+
+48.70
+
+202.90
+
+109.03
+
+1,612.21
+
+1,500.34
+
+6,476.44
+
+5,692.38
+2,805.42
+
+Total income
+
+5.583.35
+
+02. IEXPENSES
+a)
+
+Cost of materials consumed
+
+889.13
+
+744.15
+
+709.42
+
+3,252.99
+
+b)
+
+Purchases of stock-in-trade
+
+29.20
+
+28.71
+
+24.69
+
+100.16
+
+70.14
+
+c)
+
+Changes in inventories of finished goods, work-in-progress and stock-in-trade
+
+(25.28)
+
+53.37
+
+(3.62)
+
+(46.92)
+
+(129.95)
+
+d)
+
+Power, fuel and water
+
+166.13
+
+148.65
+
+150.08
+
+644.69
+
+652.40
+
+e)
+
+Employee benefit expenses (refer Note 4)
+
+107.70
+
+166.73
+
+118.87
+
+515.57
+
+454.61
+
+f)
+
+Finance costs
+
+4.30
+
+3.70
+
+5.42
+
+17.43
+
+23.98
+
+g)
+
+Depreciation and amortisation expenses
+
+79.29
+
+79.80
+
+81.71
+
+322.13
+
+316.82
+
+h)
+
+Other expenses
+
+222.45
+
+184.95
+
+229.27
+
+776.26
+
+817.77
+5,011.19
+681.19
+
+Total expenses
+03. Profit before share of net profit I (loss) of associate and joint venture companies and tax
+04. Share of net profit I (loss) of assaciate and joint venture companies
+05. Profit before tax
+
+1,472.92
+
+1,410.06
+
+1,315.84
+
+5,582.31
+
+286.72
+
+202.15
+
+184.50
+
+894.13
+
+1.99
+
+1.33
+
+1.59
+
+6.37
+
+11.30
+
+288.71
+
+203.48
+
+186.09
+
+900.50
+
+692.49
+161.61
+
+06. Tax expense
+
+,
+
+a)
+
+Current tax
+
+59.42
+
+38.35
+
+40.83
+
+185.66
+
+b)
+
+Deferred tax
+
+. 32.34
+
+1.59
+
+18.68
+
+39.61
+
+35.54
+
+Tax expense for the year
+
+91.76
+
+39.94
+
+59.51
+
+225.27
+
+197.15
+
+Excess provision of tax relating to earlier years
+
+(14.17)
+
+-
+
+(3.55)
+
+(14.16)
+
+(3.49)
+
+Total tax expense
+
+77.59
+
+39.94
+
+55.96
+
+211.11
+
+193.66
+
+07. !Profit for the period
+
+211.12
+
+163.54
+
+130.13
+
+689.39
+
+498.83
+
+210.151
+0.97
+
+160.741
+2.80
+
+126.50
+3.63
+
+Attributable to:
+Owners of the Company
+Non-controlling interests
+
+~
+
+I
+
+I
+
+677.90
+11.49
+
+I
+
+483.93
+14.90
+
+
+Part IV: Consolidated financial results for the quarter I year ended on March 31, 2026
+(fer)
+Quarter ended on
+No.
+
+Particulars
+
+Year ended on
+
+March 31,
+
+December 31,
+
+March 31,
+
+March 31,
+
+2026
+
+2025
+
+2025
+
+2026
+
+2025
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Audited
+
+Audited
+
+March 31,
+
+08. Other comprehensive income
+a)
+
+Item s that will not be reclassified to profit I loss
+i)
+
+Fair value of equity instruments through other comprehensive income
+
+ii)
+
+Remeasurement gain I (loss) on defined benefit plans
+
+iii) Income tax related to items above
+iv) Shure of other comprehensive income of joint venture company accounted for using the
+equity method (net of tax)
+b)
+
+-
+
+(70.45)
+
+(24.41)
+
+(226.10)
+
+(9.05)
+
+4.02
+
+1.69
+
+(2.74)
+
+6.37
+
+(0.91)
+
+8.86
+
+3.06
+
+32.36
+
+(1.17)
+
+(15.91)
+
+0.01
+
+-
+
+(0.01)
+
+0.01
+
+(0.01)
+
+(0.29)
+
+<
+
+68.39
+
+Items that will be reclassified to profit I loss
+
+-
+
+0.19
+
+0.76
+
+-
+
+10.61
+
+3.60
+
+3.59
+
+--27.07
+
+'/.28
+
+iii) Income tax related to items above
+
+(3.39)
+
+(0.17)
+
+(0.46)
+
+(4.36)
+
+0 .50
+
+Other comprehensive income, net of tax
+
+(50.34)
+
+(16.04)
+
+(192.60)
+
+18.87
+
+59.05
+
+(50.36)
+
+(16.04)
+
+(192.60)
+
+18.85
+
+59.05
+
+-
+
+i)
+
+Effective portion of gain I (loss) on cash flow hedges
+
+ii)
+
+Exchange differences on translation of foreign operations
+
+Attributable to:
+Owners of the Company
+
+0.02
+
+-
+
+-
+
+0.02
+
+160.78
+
+147.50
+
+(62.47)
+
+708.26
+
+557.88
+
+Owners of the Company
+
+159.79
+
+144.70
+
+(66.10)
+
+696.75
+
+542.98
+
+Non-controlling interests
+
+0.99
+
+2.80
+
+3.63
+
+11.51
+
+14.90
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+6,192.50
+
+5,569.09
+
+Non -controlling inturests
+
+09. Total comprehensive income for the period
+Attributable to:
+
+10. Paid-up equity share capitol (face value ll' 10 per share)
+11. Other equity
+12. Earnings per equity share off 10 each (not annualised, excluding year end)
+Basic earnings (<)
+Diluted earnings (<)
+
+71.38
+
+54.60
+
+42.97
+
+230.25
+
+164.37
+
+71.38
+
+54.60
+
+42.97
+
+230.25
+
+164.37
+
+--
+
+
+Part V: Consolidated segment revenue, segment results, segment assets and segment liabilities
+('{er)
+
+Quarter ended on
+No.
+
+1.
+
+Particulars
+
+Year ended on
+
+March 31,
+
+December 31,
+
+March 31,
+
+March 31,
+
+March 31,
+
+2026
+
+2025
+
+2025
+
+2026
+
+2025
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Audited
+
+Audited
+
+Segment revenue (revenue from operations)
+-
+
+Life Science Chemicals
+Performance and Other Chemicals
+Others
+Sub total
+
+461.74
+
+454.33
+
+443 .89
+
+1,805.24
+
+1,691.67
+
+1.241.30
+
+1,054.72
+
+4,608.73
+
+4,058.24
+
+19.09
+
+1,155.39
+18.65
+
+17.14
+
+80.39
+
+73.92
+
+1,722.13
+
+1,628.37
+
+1,515.75
+
+6,494.36
+
+5,823.83
+
+Less:
+Inter-segment revenue
+
+52.06
+
+54.75
+
+64.11
+
+220.82
+
+240.48
+
+1,670.07
+
+1,573.62
+
+1,451.64
+
+6,273.54
+
+5,583.35
+
+Life Science Chemicals
+
+143.06
+
+104.66
+
+96.55
+
+417.06
+
+346.76
+
+Performance and Other Chemicals
+Others
+
+124.94
+1.26
+
+87.89
+1.76
+
+85.51
+1.21
+
+416.67
+11.84
+
+344.85
+12.30
+
+Subtotal
+
+269.26
+
+194.31
+
+183.27
+
+845.57
+
+703.91
+
+4.30
+
+3.70
+
+5.42
+
+17.43
+
+23.98
+
+(21.76)
+
+(11.54)
+
+(6.65)
+
+(65.99)
+
+(1.26)
+
+1.99
+
+1.33
+
+1.59
+
+6 .37
+
+11.30
+
+288.71
+
+203.48
+
+186.09
+
+900.50
+
+692.49
+
+Total revenue
+
+2.
+
+Segment results
+
+Less:
+Finance costs
+Other unallocable expenditure (net of unallocable income)
+Add :
+Share of net profit I (loss) of associate and joint venture companies
+Total profit before tax
+
+3.
+
+Segment assets
+Life Science Chemicals
+
+l ,379.25
+
+1,318.14
+
+1,323.82
+
+1,379.25"
+
+1,323.82
+
+Performance and Other Chemicals
+
+3,861.45
+
+3,754.63
+
+3 ,646.17
+
+3,861.45
+
+3,646.17
+
+240.92
+
+245.40
+
+222.60
+
+240.92
+
+222.60
+
+Others
+Unallocable
+Total assets
+-
+
+4.
+
+Segment liabilities
+Life Science Chemicals
+Performance and Other Chemicals
+
+~~~\\\NS ct &
+
+~
+
+"
+
+c::;
+
+Ct "'
+
+~<'.
+
+g MUM BAl
+
+*~
+C)
+
+.Cf'
+
+~
+
+f.*
+
+~
+
+~tREo r..clfl'S'
+
+-
+
+2,418.87
+
+2,292.27
+
+1,808.40
+
+2,418.87
+
+1,808.40
+
+7,900.49
+
+7,610.44
+
+7,000.99
+
+7,900.49
+
+7,000.99
+
+305.45
+
+282.11
+
+285.31
+
+305.45
+
+285.31
+
+924.58
+
+835.66
+
+731.42
+
+924.58
+
+731.42
+
+Others
+
+21.33
+
+23.70
+
+25.26
+
+21.33
+
+25.26
+
+Unallocable
+
+352.60
+
+333.41
+
+296.63
+
+352.60
+
+296.63
+
+1,603.96
+
+1,474.88
+
+1,338.62
+
+1,603.96
+
+1,338.62
+
+Total liabilities
+
+
+Port VI: Consolidated Balance Sheet
+(fer)
+
+As at
+
+A
+
+1
+
+ASSETS
+Non-current assets
+~ Property, plant and equipment
+b) Capit~I work-in-progress
+c) Investment properties
+d)
+e)
+f)
+
+Goodwill
+Other intangible assets
+Biological assets other than bearer plants
+
+g)
+
+Investments accounted for using the equity method
+
+h)
+
+Financial assets
+i)
+Investments
+ii)
+Loans
+iii)
+Other financial assets
+Income tax assets (net) .
+Deferred tax assets
+Other non-current assets
+
+2
+
+B
+
+-
+
+1
+
+i)
+j)
+k)
+Total non-current assets
+Current assets
+a) Inventories
+--b) Biological assets other than bearer plants
+c) Financial assets
+i)
+Current investments
+ii)
+Trade receivables
+iii)
+Cash and cash equivalents
+~ Bank balances other than (iii) above
+~ Other financial assets
+d) Oth~r current assets
+Total current assets
+Total assets
+EQUITY AND LIABILITIES
+Equity
+a) Equity share capitol
+b) Other equity
+Equity attributable to owners of the Company
+Non-controlling interests
+Total equity
+Liabilities
+
+~ent liabilities
+
+o)
+
+Financial liabilities
+i)
+ii)
+
+2025
+
+Audited
+
+Audited
+
+2,619.44
+-110.13
+3.22
+-29.14
+-1.46
+22.65
+56.64
+
+2,791.98
+124.33
+3.22
+29.14
+1.60
+21.40
+57.10
+
+887.24
+0.34
+29.68
+5.28
+-30.79
+--48.88
+
+892.58
+0.41
+17.28
+2.63
+21.41
+93.04
+4,056.12
+
+-~
+
+815.47
+43.07
+
+729.29
+35.78
+
+1,647.98
+1,271.00
+85.06
+9.61
+23.19
+160.22
+4,055.60
+7,900.49
+
+816.27
+--1,126.26
+--51.37
+13.29
+21.75
+150.86
+2,944.87
+7,000.99
+
+29.46
+6,192.50
+-6,221.96
+74.57
+6,296.53
+
+29.46
+5,569.09
+5,598.55
+63.82
+5,662.37
+
+--
+
+--
+
+-
+
+--
+
+i)
+
+2
+
+2026
+
+3,844~
+
+Non-current liabilities
+o) Financial liabilities
+Borrowings
+.!!L Lease liabilities
+Other financial liabilities
+iii)
+b) Provisions
+c) Deferred tax liabilities
+-d) Other non-current liabilities
+-Total non-current liabilities
+
+Morch 31,
+
+Morch 31,
+
+Particulars
+
+No.
+
+160.31
+3.26
+6.20
+32.04
+278.27
+1.83
+481.91
+
+182.01
+4.04
+5.72
+36.80
+225.33
+0.94
+454.84
+
+19.45
+
+15.68
+
+89.03
+763.21
+155.53
+41.16
+15.59
+22.99
+15.09
+1,122.05
+1,603.96
+-7,900.49
+
+38.39
+576.31
+--179.74
+33.16
+14.23
+21.03
+5.24
+883.78
+-1,338.62
+7,000.99
+
+-
+
+\,SKINS 4 .£
+
+"«,,
+
+<$:
+
+g iJlbr ~
+Ig MUMBAI ~1
+*~
+
+«t
+
+*"
+
+~
+
+~-
+
+~EJi>fo AC¢~
+
+Borrowings
+Trade payables
+Total outstanding dues of
+a) Micro-enterprises and small enterprises
+
+b) Creditors other than micro-enterprises and small enterprises
+iii)
+Other financial liabilities
+b) Contract liabilities
+c) Other current liabilities
+d) Provisions
+e) Current tax liabilities (net)
+Total current liabilities
+Total liabilities
+Total equity and liabilities
+
+
+Part VII; Consolidated Statement of Cash Flows
+(fer)
+
+For the year ended on
+March 31,
+Marc 31,
+
+Particulars
+
+A
+
+202
+Audited
+
+2025
+Audited
+
+CASH FLOW FROM OPERATING ACTIVITIES
+Profit before tax
+
+900.50
+
+692.49
+
+Depreciation and amortisation expenses
+
+322.13
+
+316.82
+
+Finance costs
+
+17.44
+
+Loss on disposal of property, plant and equipment (net)
+
+1.69
+
+23.98
+4.85
+
+Adjustments for:
+
+Insurance claim
+
+(24.86)
+
+Unrealised exchange rate difference (net)
+
+(24.70)
+
+Effect of exchange rates on translation of operating cash-flows
+
+23.13
+
+5.60
+6.42
+
+Bad debts and irrecoverable balances written off
+
+1.30
+
+0.95
+
+Allowance for doubtful debts I (written back)
+
+(0.63)
+
+Dividend income
+
+(20.17)
+
+3.04
+(7.83)
+
+Interest income
+
+(19.61)
+
+Changes in fair value of biological assets
+
+(3.01)
+
+-
+
+--
+
+(7.33)
+(0.45)
+
+Liability no longer required written back
+
+(1.36)
+
+(0.86)
+
+Gain on disposal of current investments measured at FVTPL (net)
+
+(77.31)
+
+(38.69)
+
+Income on account of government grants
+
+(15.53)
+
+Sh are of net profit I (loss) of associate and joint venture companies
+
+(6.37)
+
+(0.05)
+(11.30)
+
+Operating profit before change in operating assets and liabilities
+
+1,097.50
+
+962.77
+
+(Increase) I Decrease in inventories I biological assets
+(Increase) I Decrease in non-current and current assets
+
+(91.71)
+(83.51)
+
+(114.62)
+(150.66)
+
+Increase I (Decrease) in non-current and current liabilities
+Cash generated from operating activities
+
+248.69
+1,170.97
+
+753.75
+
+Income tax paid (net of refund)
+
+(148.20)
+
+--
+
+--
+
+Adjustments for:
+
+Net cash flow from operating activities
+B
+
+A
+
+CASH FLOW FROM INVESTING ACTIVITIES
+Payments towards property, plant and equipment (including capital advance and CWIP)
+Proceeds from disposal of property, plant and equipment
+
+1,022.77
+(174.87)
+
+(270.18)
+
+3.05
+
+---
+
+Proceeds from sale of equity investment measured at FVTOCI
+Purchase of equity investment measu~d at FVTOCI
+
+1.23
+(4.81)
+
+Purchase of compulsory convertible preference shares measured at FVTOCI
+
+(0.32)
+
+1.46
+
+--
+
+22.89
+4.26
+(5.33)
+
+Purchase of equity instruments of associate company measured at cost
+
+(4.85)
+
+(5.00)
+
+Redemption of bonds I alternate investment fund measured at FVfPL
+
+42.40
+
+62.84
+
+Repayments of loans given
+
+1.29
+(0.20)
+
+Disbursements of loans
+Investment in bank deposits (net)
+
+--
+
+1.15
+(0.39)
+
+(11.85)
+
+(9.18)
+
+(795.04)
+
+(315.28)
+
+Interest received
+
+17.58
+
+Dividend received
+
+31.84
+
+1.08
+16.59
+
+Purchase of current investments measured at FVTPL (net)
+
+B
+
+Net cash used in investing activities
+C
+
+--
+
+__1±:50.62)
+603.13
+
+Proceeds from insurance claim
+
+--
+
+56.26
+
+(894.55)
+
+(495.09)
+
+CASH FLOW FROM FINANCING ACTIVITIES
+Repayments of term loans I non-current borrowings
+
+(12.95)
+
+(27.16)
+
+Repayments of working capital loans I current borrowings
+
+(4.98)
+
+(7.00)
+
+Repayment of lease liabilities
+
+(0.94)
+
+Transaction with non-controlling interests
+
+J..!.05)
+(0.76)
+
+Interest subsidy received
+
+11.88
+
+Interest paid
+
+(17.00)
+(73.60)
+
+(58.8~
+
+c
+
+(98.46)
+
+(117.78)
+
+A+B+C
+
+Cash and cash equivalents at the beginning of the year
+
+29.76
+51.37
+
+60.26
+
+Net effect of exchange gainJ {!_ass) on cash and cash equivalents held in foreign currencies
+Cash and cash equivalents at the end of the year
+
+3.93
+
+0.85
+
+85.06
+
+51.37
+
+~ividend on equity shares
+
+Net cash (used in) I from !i_nancing activities
+Net increase I (decrease) in cash ~nd cash equivalents
+
+(0.13)
+(23.67)
+
+(9.74)
+
+
+Consolidated financial results for the quarter I year ended on March 31, 2026
+Notes:
+
+1.
+
+These results have been prepared in accordance with the Indian Accounting Standard (Ind AS) notified under the Companies (Indian Accounting Standards) Rules, 2015 as amended from
+time to time.
+
+2.
+
+These results have been reviewed and recommended for adoption by the Audit Committee in its meeting held on April 23, 2026 and approved by the Board of Directors in its meeting held on
+April 24, 2026. The Statutory Auditors have expressed an unmodified audit opinion.
+
+3.
+
+4.
+
+The Company has reported segment information as per the Ind AS 108, 'Operating Segments', as below:
+
+Name of segment
+
+Main product groups
+
+Life Science Chemicals
+
+Active pharmaceutical ingredients and its intermediates, crop protection chemicals
+
+Performance and Other Chemicals
+Others
+
+Adhesion promoters, bulk chemicals, epoxy resins and hardeners, intermediates, textile dyes
+Agribiotech, food products, services and others
+
+On November 21, 2025, the Government of India notified four Labour Codes, effective immediately, replacing the then existing 29 labour laws. In accordance with Ind AS 19 - Employee
+benefits, changes to employee benefit plans arising from legislative amendments are treated as plan amendments, requiring immediate recognition of changes in the past service cost in the
+consolidated financial results. This approach is consistent with the guidance issued by the Institute of Chartered Accountants of India. The Group had assessed the impact of these changes
+and provided an amount of~ 41.25 er and recognised the same for the quarter and nine months ended on December 31, 2025, as employee benefit expenses. Consequent to the employee
+compensation restructuring and on actuarial valuation, the said liability is now determined at~ 15.84 er. The excess provision of~ 25.41 er has been reversed in the results for the quarter and
+year ended March 31 2026 as a change in estimate. The Group continues to monitor the finalisation of the Central and State rules and the clarifications that may be issued by the Government
+on the new labour codes and will recognise the impact of changes in the estimates in that period, as needed.
+
+5.
+
+The figures of the last quarter represent the balancing figures between audited figures in respect of the full financial year and the published year to date figures up to the third quarter of the
+respective financial year. There are no material adjustments made in the results for the quarter ended on March 31, 2026, which pertain to earlier periods. These have been subjected to limited
+review by the Auditors.
+
+6.
+
+The Board of Directors has recommended a dividend of~ 30 per share (300%) subject to the approval of the shareholders.
+
+"
+
+S~ ·
+(Sunil Lalbhai)
+(DIN: 00045590)
+
+Mumbai
+April 24, 2026
+
+ghairman and Managing Director
+
+@
+1.nlhhoi Group
+
+
+l1M
+Atul Ltd
+Atul House, GI Patel Marg, Ahmedabad 380 014, Gujarat, India
+shareholders@atul.co.in I www.atul.co.in
+(+91 79) 26461294 I 3706
+CIN:L99999Gj1975PLC002859
+
+Extract of financial results for the quarter I year ended on March 31, 2026
+[in terms of Regulation 47(l)(b) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015]
+<"er)
+Standalone
+
+Consolidated
+
+for the quarter ended on
+Particulars
+
+No.
+
+1.
+
+Total income from operations
+
+2.
+
+Net profit for the period before tax
+
+3.
+
+Net profit for the period afte r ta x
+
+4.
+
+Total comprehensive income for the period
+
+--
+
+[comprising profit for the period (after tax) and
+other comprehensive income (after tax)]
+5.
+
+Equity share capital
+
+6.
+
+Other equity
+
+7.
+
+Earnings per equity share of" 10 each (not
+annualised, excluding year end)
+Basic earnings ('J
+Diluted earnings ('J
+
+-
+
+for the quarter ended on
+
+for the year ended on
+
+March 31,
+2026
+Unaudited
+1.497.93
+
+December 31,
+
+1.314.79
+
+March 31,
+2026
+Audited
+5,563.57
+
+5,074.69
+
+March 31,
+2026
+Unaudited
+I 1.670.07
+
+248.74
+
+154.88
+
+759.97
+
+623.33
+
+288.71
+
+203.84
+
+---
+
+165.49
+
+121.15
+
+125.69
+-
+
+595.04
+
+456.28
+
+211.12
+
+163.54
+
+146.97
+
+101.51 ,______
+
+(69.40)
+
+591.13
+
+507.48
+
+160.78
+
+147.50
+
+(62.47)
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+29.44
+
+6,026.46
+
+5,508.65
+
+-
+
+2025
+Unaudited
+1,351.56
+
+-
+
+March 31,
+2025
+Unaudited
+
+--
+
+March 31,
+2025
+Audited
+
+-- -
+
+-
+
+----
+
+December 31,
+2025
+Unaudited
+
+for the year ended on
+
+-
+
+1,573.62
+203.48
+
+March 31,
+2025
+Unaudited
+1.451.64
+
+41.15
+41.15
+
+42.69
+-42.69
+
+202.11
+202.11
+
+March 31,
+2025
+Audited
+5,583.35
+
+6,273.54
+
+---186.09
+---
+
+900.50
+
+692.49
+
+689.39
+
+498.83
+
+--
+
+130.13
+
+708.26
+
+-
+
+557.88
+
+~
+
+-
+
+f---
+
+69.24
+69.24
+
+March 31,
+2026
+Audited
+
+~
+
+29.44
+
+29.44
+
+6,192.50
+
+5,569.09
+
+230.25
+230.25
+
+164.3'7
+164.37
+
+~
+
+154.98
+154.98
+
+71.38
+71.38
+
+54.60
+54.60
+
+42.97
+42.97
+
+Note
+The above is an extract of the detailed format of results filed with the stock exchanges under Regulation 33 of the SEBI (listing Obligations and Disclosure Requirements) Regulations, 2015. The details in prescribed format of the res ults are
+a vailable on the websites of the stock exchanges (www.bseindia.com, www.nseindia.com) and the Company (www.atul.co.in).
+For Atul Ltd
+
+S~ ·
+(Su nil La lbha i)
+(DI N: 0004 5590)
+
+Mumbai
+April24,2026
+
+~
+@
+Lolbhai Oroup
+
+Chairman and Managing Director
+
+
+Deloitte
+Haskins & Sells LLP
+
+Chartered Accountants
+One International Center,
+Tower 3, 31st Floor,
+Senapati Bapat Marg
+Elphinstone Road (West)
+Mumbai-400 013
+Maharashtra, India
+Tel: +91226185 6000
+Fax: +91226185 4101
+
+INDEPENDENT AUDITOR'S REPORT ON AUDIT OF ANNUAL STANDALONE
+FINANCIAL RESULTS AND REVIEW OF QUARTERLY FINANCIAL RESULTS
+TO THE BOARD OF DIRECTORS OF
+ATUL LIMITED
+
+Opinion and Conclusion
+We have (a) audited the Standalone Financial Results for the year ended March 31, 2026
+and (b) reviewed the Standalone Financial Results for the quarter ended March 31, 2026
+(refer 'Other Matters' section below), which were subject to limited review by us, both
+included in the accompanying "Statement of Standalone Financial Results for the Quarter
+and Year Ended March 31, 2026 of ATUL LIMITED (the "Company"), (the "Statement"),
+being submitted by the Company pursuant to the requirements of Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+(the "LODR Regulations").
+
+(a) Opinion on Annual Standalone Financial Results
+In our opinion and to the best of our information and according to the explanations
+given to us the Standalone Financial Results for the year ended March 31, 2026:
+i. are presented in accordance with the requirements of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended;
+and
+ii. give a true and fair view in conformity with the recognition and measurement
+principles laid down in the Indian Accounting Standards and other accounting
+principles generally accepted in India of the net profit and other comprehensive
+income and other financial information of the Company for the year then ended.
+
+(b) Conclusion on Unaudited Standalone Financial Results for the quarter ended
+March 31, 2026
+With respect to the Standalone Financial Results for the quarter ended March 31, 2026,
+based on our review conducted as stated in paragraph (b) of Auditor's Responsibilities
+section below, nothing has come to our attention that causes us to believe that the
+Standalone Financial Results for the quarter ended March 31, 2026, prepared in
+accordance with the recognition and measurement principles laid down in the Indian
+Accounting Standards and other accounting principles generally accepted in India, has
+not disclosed the information required to be disclosed in terms of Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended, including the manner in which it is to be disclosed, or that it contains any
+material misstatement.
+
+Regd. Office: One International Center, Tower 3, 31st floor, Senapati Bapat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, India.
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identif!cation No: AAB-8737
+
+

@@ -1,0 +1,1353 @@
+April 30, 2026
+To,
+BSE Limited
+(BSE: 542726)
+
+Subject:
+
+National Stock Exchange of India Limited
+(NSE: INDIAMART)
+
+Audited Consolidated and Standalone Financial Statements for the quarter and
+financial year ended March 31, 2026
+
+Dear Sir/Ma’am,
+Please find enclosed herewith the copy of Audited Consolidated and Standalone Financial
+Statements of the Company along with the Auditor's Report thereon for the quarter and financial
+year ended March 31, 2026.
+The Financial Statements along with the Auditor's Report are also being disseminated on the
+Company’s website at https://investor.indiamart.com/FinancialResultsStatements.aspx.
+The meeting commenced at 11:15 a.m. and concluded at 15:40 p.m.
+Please take the above information on record.
+
+Yours faithfully,
+For IndiaMART InterMESH Limited
+
+Manoj
+Bhargava
+
+Digitally signed by
+Manoj Bhargava
+Date: 2026.04.30
+16:45:35 +05'30'
+
+(Manoj Bhargava)
+Whole Time Director,
+Group General Counsel and Company Secretary
+DIN: 08267536
+Membership No: F5164
+Encl: As above
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+Building No. 10, 12th Floor, Tower-C
+DLF Cyber City, Phase - II
+Gurugram - 122 002, India
+Tel: +91 124 719 1000
+Fax: +91 124 235 8613
+
+Independent Auditor’s Report
+To the Members of IndiaMART InterMESH Limited
+Report on the Audit of the Consolidated Financial Statements
+Opinion
+We have audited the consolidated financial statements of IndiaMART InterMESH Limited (hereinafter
+referred to as the “Holding Company”) and its subsidiaries (Holding Company and its subsidiaries together
+referred to as “the Group”), and its associates, which comprise the consolidated balance sheet as at 31
+March 2026, and the consolidated statement of profit and loss (including other comprehensive income),
+consolidated statement of changes in equity and consolidated statement of cash flows for the year then
+ended, and notes to the consolidated financial statements, including material accounting policies and
+other explanatory information (hereinafter referred to as “the consolidated financial statements”).
+In our opinion and to the best of our information and according to the explanations given to us, the
+aforesaid consolidated financial statements give the information required by the Companies Act, 2013
+(“Act”) in the manner so required and give a true and fair view in conformity with the accounting principles
+generally accepted in India, of the consolidated state of affairs of the Group, and its associates as at 31
+March 2026, of its consolidated profit and other comprehensive income, consolidated changes in equity
+and consolidated cash flows for the year then ended.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under
+Section 143(10) of the Act. Our responsibilities under those SAs are further described in the Auditor’s
+Responsibilities for the Audit of the Consolidated Financial Statements section of our report. We are
+independent of the Group, and its associates in accordance with the ethical requirements that are relevant
+to our audit of the consolidated financial statements in terms of the Code of Ethics issued by the Institute
+of Chartered Accountants of India and the relevant provisions of the Act, and we have fulfilled our other
+ethical responsibilities in accordance with these requirements. We believe that the audit evidence
+obtained by us along with the consideration of reports of the other auditors referred to in paragraph (a) of
+the “Other Matters” section below, is sufficient and appropriate to provide a basis for our opinion on the
+consolidated financial statements.
+Key Audit Matters
+Key audit matters are those matters that, in our professional judgment and based on the consideration of
+reports of other auditors on separate financial statements of components audited by them, were of most
+significance in our audit of the consolidated financial statements of the current period. These matters were
+addressed in the context of our audit of the consolidated financial statements as a whole, and in forming
+our opinion thereon, and we do not provide a separate opinion on these matters.
+Revenue Recognition - Web Services
+See Note 2.3(d) and 19 to consolidated financial statements
+The key audit matter
+
+How the matter was addressed in our audit
+
+The Group generates revenue primarily from
+web services and follows a prepaid model for
+
+In view of the significance of the matter we applied
+the following audit procedures in this area, among
+Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+its business.
+
+others to obtain sufficient appropriate audit evidence:
+
+Revenue from web services is recognised over
+the period of the contract as and when the
+Group satisfies performance obligations by
+actually rendering the promised services to its
+customers.
+
+i. We assessed the appropriateness of the revenue
+recognition accounting policy and its compliance with
+applicable accounting standards.
+
+These services are delivered using IT systems
+which manage very high volume on daily basis
+and generate reports from which the Group
+recognises revenue, and hence there is
+inherent risk around the existence and
+accuracy of revenue recognition.
+We have identified revenue recognition from
+web services as a key audit matter because of
+the significance of web services revenue to the
+financial statements and its recognition based
+on high volume of data generated by internal IT
+systems.
+
+ii. We evaluated the design and implementation of
+key internal financial controls and operating
+effectiveness of the relevant key controls with
+respect to existence and accuracy of revenue
+recognition on selected transactions.
+iii. We, with the involvement of IT specialists,
+evaluated the design, implementation and operating
+effectiveness of management’s general IT controls
+and key application controls over the Group’s IT
+systems which govern revenue recognition, including
+access controls, controls over program changes and
+interfaces between different systems.
+iv. We selected a sample of transactions using
+statistical sampling and performed tests of details
+including
+reading
+the
+contract,
+identifying
+performance obligation and its link with actual
+rendition to assess whether the criteria for revenue
+recognition are met.
+v. We tested completeness and accuracy of web
+services revenue and collection from underlying
+relevant source documents generated by IT systems
+with the underlying accounting records.
+vi. We assessed the adequacy of disclosures in the
+consolidated financial statements.
+
+Goodwill Impairment
+See Note 6A to consolidated financial statements
+The key audit matter
+
+How the matter was addressed in our audit
+
+The Group had recognised goodwill related to
+the business acquistion of Busy Infotech
+Private Limited and Livekeeping Technologies
+Private Limited, amounting to INR 4,122.34
+million and INR 420.38 million respectively, in
+earlier years.
+
+In view of the significance of the matter we applied
+the following audit procedures in this area, among
+others to obtain sufficient appropriate audit evidence:
+
+Goodwill has been allocated to Busy Infotech
+Private Limited and Livekeeping Technologies
+Private Limited cash-generating units (CGUs).
+
+i. We evaluated the design and implementation and
+also tested the operating effectiveness of key
+internal financial controls implemented by the Group
+in relation to impairment testing of goodwill.
+ii. We evaluated the Group’s valuation methodology
+Page 2 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+The annual impairment testing of goodwill is
+considered to be a key audit matter due to the
+complexity of the accounting requirements and
+the significant judgement required in
+determining the assumptions to be used to
+estimate the recoverable amount. The
+recoverable amount of the CGUs, which is
+based on the higher of the value in use or fair
+value less costs to sell, has been derived from
+discounted forecast cash flow model. The
+model uses several key assumptions, including
+estimates of future revenue, terminal value
+growth rate and the weighted-average cost of
+capital (discount rate).
+
+applied in determining the recoverable amount of
+CGUs in accordance with applicable Ind AS. Further,
+we also assessed the objectivity and independence
+of the specialists involved in the process.
+iii. We evaluated the appropriateness of assumptions
+applied to key inputs of the cash flow forecasts
+including expected revenue growth rates, terminal
+growth rate and discount rate.
+iv. We engaged valuation specialists to assess the
+appropriateness of valuation methodology used and
+key inputs such as Weighted Average Cost of Capital
+(WACC) rate, terminal growth rate and terminal
+value for the determination of the recoverable
+amount of each CGU. Further, we also compared the
+recoverable amount determined above with the
+carrying value of CGU.
+v. We performed our own sensitivity analysis, which
+included assessing the effect of reasonably possible
+reductions in growth rates and forecast cash flows to
+evaluate the impact on the currently estimated
+headroom for the Busy Infotech Private Limited and
+Livekeeping Technologies Private Limited CGUs.
+vi. We tested the arithmetical accuracy of the
+models.
+vii. We evaluated the adequacy of disclosures in the
+consolidated
+financial
+statements,
+including
+disclosures of key assumptions, judgements and
+sensitivities.
+
+Valuation of investments in associates and other entities
+See Note 7 and 8 to consolidated financial statements
+The key audit matter
+
+How the matter was addressed in our audit
+
+The Group has significant investments in
+associates and other entities amounting to INR
+3,600.24 million and INR 4,029.05 million
+respectively, as at 31 March 2026.
+
+In view of the significance of the matter, we applied
+the following audit procedures in this area, among
+others to obtain sufficient appropriate audit evidence:
+
+Management keeps track of all investments in
+reference to their financial performance. In
+addition, management also performs:
+i. Review of indicators of impairment (if any) on
+investments in associates at regular intervals
+
+i. We evaluated the design and implementation and
+also tested the operating effectiveness of key
+internal financial controls implemented by the Group
+in relation to valuation of investments in associates
+and other entities.
+ii. We evaluated the Group’s valuation methodology
+Page 3 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+and performs impairment testing
+indicators are noted.
+
+if any
+
+ii. Fair valuation of investments in other entities
+which are measured at fair value through profit
+and loss (“FVTPL”).
+Significant judgements are involved to
+determine the key assumptions used for the
+purpose of impairment testing/ fair valuation,
+such as revenue growth rates, discount rates,
+terminal growth rates etc. The aforesaid activity
+of impairment testing/ fair valuation is highly
+dependent on the assumptions and other
+inputs considered to carry out such activity.
+We have identified valuation of investments in
+associates and other entities as a key audit
+matter because of the complexity involved in
+determination of key assumptions and
+judgements for the purpose of impairment
+testing/
+fair
+valuation
+of
+respective
+investments.
+
+applied in determining the fair value (“recoverable
+amount”) in accordance with relevant applicable Ind
+AS. Further, we also assessed the objectivity and
+independence of the specialists involved in the
+valuation process.
+iii. We evaluated the appropriateness of assumptions
+around the key drivers of the cash flow forecasts
+such as revenue growth rates, discount rates and
+terminal growth rates.
+iv. We also assessed the valuation methodology for
+recent market transactions and key assumptions
+adopted in the cash flow forecasts considering
+current economic scenario, including retrospective
+reviews to prior year’s forecasts against actual
+results.
+v. We engaged valuation specialists to assess the
+appropriateness of valuation methodology and
+market driven assumptions used for assessment of
+the valuation of investments.
+vi. We tested the arithmetical accuracy of the
+models.
+vii. We assessed the adequacy of disclosures in the
+consolidated
+financial
+statements,
+including
+disclosures of key assumptions, judgments and
+sensitivities.
+
+Other Information
+The Holding Company’s Management and Board of Directors are responsible for the other information.
+The other information comprises the information included in the Holding Company’s annual report, but
+does not include the financial statements and auditor’s report thereon.
+Our opinion on the consolidated financial statements does not cover the other information and we do not
+express any form of assurance conclusion thereon.
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other
+information and, in doing so, consider whether the other information is materially inconsistent with the
+consolidated financial statements or our knowledge obtained in the audit or otherwise appears to be
+materially misstated. If, based on the work we have performed and based on the work done/ audit reports
+of other auditors, we conclude that there is a material misstatement of this other information, we are
+required to report that fact. We have nothing to report in this regard.
+Management's and Board of Directors' Responsibilities for the Consolidated Financial
+Statements
+The Holding Company’s Management and Board of Directors are responsible for the preparation and
+presentation of these consolidated financial statements in term of the requirements of the Act that give
+a true and fair view of the consolidated state of affairs, consolidated profit/ loss and other comprehensive
+income, consolidated statement of changes in equity and consolidated cash flows of the Group including
+Page 4 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+its associates in accordance with the accounting principles generally accepted in India, including the
+Indian Accounting Standards (Ind AS) specified under Section 133 of the Act. The respective Management
+and Board of Directors of the companies included in the Group and of its associates are responsible for
+maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding
+the assets of each company and for preventing and detecting frauds and other irregularities; the selection
+and application of appropriate accounting policies; making judgments and estimates that are reasonable
+and prudent; and the design, implementation and maintenance of adequate internal financial controls, that
+were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant
+to the preparation and presentation of the consolidated financial statements that give a true and fair view
+and are free from material misstatement, whether due to fraud or error, which have been used for the
+purpose of preparation of the consolidated financial statements by the Management and Board of
+Directors of the Holding Company, as aforesaid.
+In preparing the consolidated financial statements, the respective Management and Board of Directors of
+the companies included in the Group and of its associates are responsible for assessing the ability of each
+company to continue as a going concern, disclosing, as applicable, matters related to going concern and
+using the going concern basis of accounting unless the respective Board of Directors either intends to
+liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The respective Board of Directors of the companies included in the Group and of its associates are
+responsible for overseeing the financial reporting process of each company.
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee
+that an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these consolidated financial statements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+
+•
+
+Identify and assess the risks of material misstatement of the consolidated financial statements,
+whether due to fraud or error, design and perform audit procedures responsive to those risks, and
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control.
+
+•
+
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances. Under Section 143(3)(i) of the Act, we are also responsible
+for expressing our opinion on whether the company has adequate internal financial controls with
+reference to financial statements in place and the operating effectiveness of such controls.
+
+•
+
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures made by the Management and Board of Directors.
+
+•
+
+Conclude on the appropriateness of the Management and Board of Directors use of the going concern
+basis of accounting in preparation of consolidated financial statements and, based on the audit
+evidence obtained, whether a material uncertainty exists related to events or conditions that may cast
+significant doubt on the appropriateness of this assumption. If we conclude that a material uncertainty
+exists, we are required to draw attention in our auditor’s report to the related disclosures in the
+consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our
+conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However,
+future events or conditions may cause the Group and its associates to cease to continue as a going
+concern.
+Page 5 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+•
+
+Evaluate the overall presentation, structure and content of the consolidated financial statements,
+including the disclosures, and whether the consolidated financial statements represent the underlying
+transactions and events in a manner that achieves fair presentation.
+
+•
+
+Obtain sufficient appropriate audit evidence regarding the financial statements of such entities or
+business activities within the Group and its associates to express an opinion on the consolidated
+financial statements. We are responsible for the direction, supervision and performance of the audit
+of the financial statements of such entities included in the consolidated financial statements of which
+we are the independent auditors. For the other entities included in the consolidated financial
+statements, which have been audited by other auditors, such other auditors remain responsible for
+the direction, supervision and performance of the audits carried out by them. We remain solely
+responsible for our audit opinion. Our responsibilities in this regard are further described in paragraph
+(a) of the section titled “Other Matters” in this audit report.
+
+We communicate with those charged with governance of the Holding Company and such other entities
+included in the consolidated financial statements of which we are the independent auditors regarding,
+among other matters, the planned scope and timing of the audit and significant audit findings, including
+any significant deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+From the matters communicated with those charged with governance, we determine those matters that
+were of most significance in the audit of the consolidated financial statements of the current period and
+are therefore the key audit matters. We describe these matters in our auditor’s report unless law or
+regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we
+determine that a matter should not be communicated in our report because the adverse consequences of
+doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+Other Matters
+a.
+
+We did not audit the financial statements of four subsidiaries, whose financial statements reflects total
+assets (before consolidation adjustments) of INR 1,840.06 million as at 31 March 2026, total revenues
+(before consolidation adjustments) of INR 72.31 million and net cash outflows (before consolidation
+adjustments) amounting to INR 26.61 millions for the year ended on that date, as considered in the
+consolidated financial statements. These financial statements have been audited by other auditors
+whose reports have been furnished to us by the Management and our opinion on the consolidated
+financial statements, in so far as it relates to the amounts and disclosures included in respect of these
+subsidiaries, and our report in terms of sub-section (3) of Section 143 of the Act, in so far as it relates
+to the aforesaid subsidiaries is based solely on the reports of the other auditors.
+Our opinion on the consolidated financial statements, and our report on Other Legal and Regulatory
+Requirements below, is not modified in respect of this matter with respect to our reliance on the work
+done and the reports of the other auditors.
+
+Page 6 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+b.
+
+The consolidated financial statements include the Group’s share of net loss (and other comprehensive
+income) of INR 547.72 million for the year ended 31 March 2026, as considered in the consolidated
+financial statements, in respect of eight associates, whose financial information have not been audited
+by us or by other auditors. These unaudited financial information have been furnished to us by the
+Management and our opinion on the consolidated financial statements, in so far as it relates to the
+amounts and disclosures included in respect of these associates, and our report in terms of subsection (3) of Section 143 of the Act in so far as it relates to the aforesaid associates, is based solely
+on such unaudited financial information. In our opinion and according to the information and
+explanations given to us by the Management, these financial information are not material to the
+Group.
+Our opinion on the consolidated financial statements, and our report on Other Legal and Regulatory
+Requirements below, is not modified in respect of this matter with respect to the financial information
+certified by the Management.
+
+Report on Other Legal and Regulatory Requirements
+1.
+
+As required by the Companies (Auditor’s Report) Order, 2020 (“the Order”) issued by the Central
+Government of India in terms of Section 143(11) of the Act, we give in the “Annexure A” a statement
+on the matters specified in paragraphs 3 and 4 of the Order, to the extent applicable.
+
+2 A. As required by Section 143(3) of the Act, based on our audit and on the consideration of reports of
+the other auditors on separate financial statements of such subsidiaries, as were audited by other
+auditors, as noted in the “Other Matters” paragraph, we report, to the extent applicable, that:
+a.
+
+We have sought and obtained all the information and explanations which to the best of our
+knowledge and belief were necessary for the purposes of our audit of the aforesaid consolidated
+financial statements.
+
+b.
+
+In our opinion, proper books of account as required by law relating to preparation of the aforesaid
+consolidated financial statements have been kept so far as it appears from our examination of
+those books and the reports of the other auditors except for the matters stated in the paragraph
+2(B)(f) below on reporting under Rule 11(g) of the Companies (Audit and Auditors) Rules, 2014.
+
+c.
+
+The consolidated balance sheet, the consolidated statement of profit and loss (including other
+comprehensive income), the consolidated statement of changes in equity and the consolidated
+statement of cash flows dealt with by this Report are in agreement with the relevant books of
+account maintained for the purpose of preparation of the consolidated financial statements.
+
+d.
+
+In our opinion, the aforesaid consolidated financial statements comply with the Ind AS specified
+under Section 133 of the Act.
+
+e.
+
+On the basis of the written representations received from the directors of the Holding Company
+as on 1 April 2026 and 13 April 2026 taken on record by the Board of Directors of the Holding
+Company and the reports of the statutory auditors of its subsidiary companies incorporated in
+India, and on the basis of the written representations received by the management from directors
+of eight associate companies incorporated in India, none of the directors of the Group companies,
+its associate companies incorporated in India is disqualified as on 31 March 2026 from being
+appointed as a director in terms of Section 164(2) of the Act.
+
+f.
+
+the modification relating to the maintenance of accounts and other matters connected therewith
+are as stated in the paragraph 2(A)(b) above on reporting under Section 143(3)(b) of the Act and
+paragraph 2(B)(f) below on reporting under Rule 11(g) of the Companies (Audit and Auditors)
+Rules, 2014.
+
+g.
+
+With respect to the adequacy of the internal financial controls with reference to financial
+statements of the Holding Company, its subsidiary companies and associate companies
+incorporated in India, to the extent applicable, and the operating effectiveness of such controls,
+Page 7 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+refer to our separate Report in “Annexure B”.
+B. With respect to the other matters to be included in the Auditor’s Report in accordance with Rule 11 of
+the Companies (Audit and Auditors) Rules, 2014, in our opinion and to the best of our information and
+according to the explanations given to us and based on the consideration of the reports of the other
+auditors on separate financial statements of the subsidiaries, as noted in the “Other Matters”
+paragraph:
+a.
+
+The consolidated financial statements disclose the impact of pending litigations as at 31 March
+2026 on the consolidated financial position of the Group and its associates. Refer Note 36(a) to
+the consolidated financial statements.
+
+b.
+
+The Group and its associates did not have any material foreseeable losses on long-term contracts
+including derivative contracts during the year ended 31 March 2026.
+
+c.
+
+There are no amounts which are required to be transferred to the Investor Education and
+Protection Fund by the Holding Company or its subsidiary companies and associate companies
+incorporated in India during the year ended 31 March 2026.
+
+d (i) The management of the Holding Company, its subsidiary companies and associate companies
+incorporated in India whose financial statements have been audited under the Act have
+represented to us and the other auditors of such subsidiary companies respectively that, to the
+best of their knowledge and belief, other than as disclosed in the Note 12(i) to the consolidated
+financial statements, no funds have been advanced or loaned or invested (either from borrowed
+funds or share premium or any other sources or kind of funds) by the Holding Company or any of
+such subsidiary companies and associate companies incorporated in India to or in any other
+person(s) or entity(ies), including foreign entities (“Intermediaries”), with the understanding,
+whether recorded in writing or otherwise, that the Intermediary shall directly or indirectly lend or
+invest in other persons or entities identified in any manner whatsoever by or on behalf of the
+Holding Company or any of such subsidiary companies and associate companies incorporated
+in India (“Ultimate Beneficiaries”) or provide any guarantee, security or the like on behalf of the
+Ultimate Beneficiaries.
+(ii) The management of the Holding Company, its subsidiary companies and associate companies
+incorporated in India whose financial statements have been audited under the Act have
+represented to us and the other auditors of such subsidiary companies respectively that, to the
+best of their knowledge and belief, as disclosed in the Note 12(i) to the consolidated financial
+statements, no funds have been received by the Holding Company or any of such subsidiary
+companies and associate companies incorporated in India from any person(s) or entity(ies),
+including foreign entities (“Funding Parties”), with the understanding, whether recorded in writing
+or otherwise, that the Holding Company or any of such subsidiary companies and associate
+companies incorporated in India shall directly or indirectly, lend or invest in other persons or
+entities identified in any manner whatsoever by or on behalf of the Funding Parties (“Ultimate
+Beneficiaries”) or provide any guarantee, security or the like on behalf of the Ultimate
+Beneficiaries.
+(iii) Based on the audit procedures that have been considered reasonable and appropriate in the
+circumstances, nothing has come to our notice that has caused us to believe that the
+representations under sub-clause (i) and (ii) of Rule 11(e), as provided under (i) and (ii) above,
+contain any material misstatement.
+e.
+
+The final dividend paid by the Holding Company during the year, in respect of the same declared
+for the previous year ended 31 March 2025, is in accordance with Section 123 of the Act to the
+extent it applies to payment of dividend. As stated in Note 41(b) to the consolidated financial
+statements, the Board of Directors of the Holding Company have proposed final dividend for the
+year which is subject to the approval of the members at the ensuing Annual General Meeting.
+The dividend declared is in accordance with Section 123 of the Act to the extent it applies to
+declaration of dividend.
+Page 8 of 12
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+IndiaMART InterMESH Limited
+f.
+
+Based on our examination, which included test checks, and that performed by the respective
+auditors of the subsidiaries, which are companies incorporated in India whose financial
+statements have been audited under the Act, except for the instances mentioned below, the
+Holding company, and subsidiaries have used accounting softwares for maintaining its books of
+account which has a feature of recording audit trail (edit log) facility and the same has operated
+throughout the year for all relevant transactions recorded in the softwares.
+•
+
+In respect of one subsidiary company: (i) the feature of recording audit trail (edit log) facility
+was not enabled at the database level for the period 01 April 2025 to 18 March 2026 to log
+any direct data changes for the accounting software used for maintaining its books of
+account., (ii) the feature of recording audit trail (edit log) facility was not enabled at the
+database level for the period 01 April 2025 to 20 March 2026 to log any direct data changes
+for the accounting software used by the Company to maintain certain revenue records.
+
+Further, for the periods where audit trail (edit log) was enabled and operated, during the course
+of our audit, we and respective auditors of the above referred subsidiaries did not come across
+any instance of audit trail feature being tampered with and additionally, where the audit trail (edit
+log) facility was enabled, the audit trail has been preserved as per the statutory requirements for
+record retention.
+C. With respect to the matter to be included in the Auditor’s Report under Section 197(16) of the Act:
+In our opinion and according to the information and explanations given to us and based on the reports
+of the statutory auditors of such subsidiary companies incorporated in India which were not audited
+by us, the remuneration paid during the current year by the Holding Company and its subsidiary
+companies to its directors is in accordance with the provisions of Section 197 of the Act. The associate
+companies are private limited companies and accordingly the requirements as stipulated by the
+provisions of section 197(16) are not applicable to the associate companies. The remuneration paid
+to any director by the Holding Company and its subsidiary companies is not in excess of the limit laid
+down under Section 197 of the Act. The Ministry of Corporate Affairs has not prescribed other details
+under Section 197(16) of the Act which are required to be commented upon by us.
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+DAVID
+JULIAN
+JONES
+
+Digitally signed by
+DAVID JULIAN
+JONES
+Date: 2026.04.30
+14:29:05 +05'30'
+
+David Jones
+Partner
+Place: Noida
+Date: 30 April 2026
+
+Membership No.: 098113
+ICAI UDIN:26098113YCINQP9130
+
+Page 9 of 12
+
+
+B S R & Co. LLP
+Annexure A to the Independent Auditor’s Report on the Consolidated
+Financial Statements of IndiaMART InterMESH Limited for the year ended 31
+March 2026
+(Referred to in paragraph 1 under ‘Report on Other Legal and Regulatory
+Requirements’ section of our report of even date)
+(xxi)
+
+In our opinion and according to the information and explanations given to us, there are no
+qualifications or adverse remarks by the respective auditors in the Companies (Auditor’s Report)
+Order, 2020 (CARO) reports of the Holding company and subsidiary companies incorporated in
+India and included in the consolidated financial statements.
+In respect of the following associate companies incorporated in India the CARO report relating
+to them has not been issued by its auditor till the date of principal auditor’s report.
+Name of the entities
+
+CIN
+
+Subsidiary/
+Associate
+
+IB MonotaRO Private Limited
+
+U52609DL2020PTC366962
+
+Associate
+
+Mobisy Technologies Private Limited
+
+U72900KA2008PTC045157
+
+Associate
+
+Simply Vyapar Apps Private Limited
+
+U74110KA2018PTC110858
+
+Associate
+
+Truckhall Private Limited
+
+U60221WB2016PTC217183
+
+Associate
+
+Edgewise Technologies Private Limited
+
+U72200KA2015PTC078474
+
+Associate
+
+Adansa Solutions Private Limited
+
+U74999WB1973PTC028813
+
+Associate
+
+Fleetx Technologies Private Limited
+
+U74999HR2017PTC070052
+
+Associate
+
+Agillos E-Commerce Private Limited
+
+U52300KA2016PTC092938
+
+Associate
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+Digitally signed by
+
+DAVID JULIAN DAVID JULIAN JONES
+Date: 2026.04.30
+JONES
+14:29:30 +05'30'
+
+David Jones
+Partner
+Place: Noida
+Date: 30 April 2026
+
+Membership No.: 098113
+ICAI UDIN:26098113YCINQP9130
+
+Page 10 of 12
+
+
+B S R & Co. LLP
+Annexure B to the Independent Auditor’s Report on the consolidated financial
+statements of IndiaMART InterMESH Limited for the year ended 31 March 2026
+Report on the internal financial controls with reference to the aforesaid consolidated
+financial statements under Clause (i) of Sub-section 3 of Section 143 of the Act
+(Referred to in paragraph 2(A)(g) under ‘Report on Other Legal and Regulatory
+Requirements’ section of our report of even date)
+Opinion
+In conjunction with our audit of the consolidated financial statements of IndiaMART InterMESH Limited
+(hereinafter referred to as “the Holding Company”) as of and for the year ended 31 March 2026, we have
+audited the internal financial controls with reference to financial statements of the Holding Company and
+such companies incorporated in India under the Act which are its subsidiary companies and its associate
+companies, as of that date.
+In our opinion, the Holding Company and subsidiary companies incorporated in India, have, in all material
+respects, adequate internal financial controls with reference to financial statements and such internal
+financial controls were operating effectively as at 31 March 2026, based on the internal financial controls
+with reference to financial statements criteria established by such companies considering the essential
+components of such internal controls stated in the Guidance Note on Audit of Internal Financial Controls
+Over Financial Reporting issued by the Institute of Chartered Accountants of India (the “Guidance Note”).
+Management’s and Board of Directors’ Responsibilities for Internal Financial Controls
+The respective Company's Management and the Board of Directors are responsible for establishing and
+maintaining internal financial controls based on the internal financial controls with reference to financial
+statements criteria established by the respective company considering the essential components of
+internal control stated in the Guidance Note. These responsibilities include the design, implementation
+and maintenance of adequate internal financial controls that were operating effectively for ensuring the
+orderly and efficient conduct of its business, including adherence to the respective company's policies,
+the safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and
+completeness of the accounting records, and the timely preparation of reliable financial information, as
+required under the Act.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on the internal financial controls with reference to financial
+statements based on our audit. We conducted our audit in accordance with the Guidance Note and the
+Standards on Auditing, prescribed under Section 143(10) of the Act, to the extent applicable to an audit
+of internal financial controls with reference to financial statements. Those Standards and the Guidance
+Note require that we comply with ethical requirements and plan and perform the audit to obtain reasonable
+assurance about whether adequate internal financial controls with reference to financial statements were
+established and maintained and if such controls operated effectively in all material respects.
+Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal
+financial controls with reference to financial statements and their operating effectiveness. Our audit of
+internal financial controls with reference to financial statements included obtaining an understanding of
+internal financial controls with reference to financial statements, assessing the risk that a material
+weakness exists, and testing and evaluating the design and operating effectiveness of internal control
+based on the assessed risk. The procedures selected depend on the auditor’s judgement, including the
+assessment of the risks of material misstatement of the consolidated financial statements, whether due
+to fraud or error.
+We believe that the audit evidence we have obtained and the audit evidence obtained by the other auditors
+of the relevant subsidiary companies in terms of their reports referred to in the Other Matters paragraph
+below, is sufficient and appropriate to provide a basis for our audit opinion on the internal financial controls
+with reference to financial statements.
+Page 11 of 12
+
+
+B S R & Co. LLP
+Annexure B to the Independent Auditor’s Report on the consolidated financial
+statements of IndiaMART InterMESH Limited for the year ended 31 March 2026
+(Continued)
+Meaning of Internal Financial Controls with Reference to Financial Statements
+A company's internal financial controls with reference to financial statements is a process designed to
+provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles. A
+company's internal financial controls with reference to financial statements include those policies and
+procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly
+reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorisations of management and directors of the company; and (3)
+provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use,
+or disposition of the company's assets that could have a material effect on the financial statements.
+Inherent Limitations of Internal Financial Controls with Reference to Financial Statements
+Because of the inherent limitations of internal financial controls with reference to financial statements,
+including the possibility of collusion or improper management override of controls, material misstatements
+due to error or fraud may occur and not be detected. Also, projections of any evaluation of the internal
+financial controls with reference to financial statements to future periods are subject to the risk that the
+internal financial controls with reference to financial statements may become inadequate because of
+changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Other Matter
+Our aforesaid report under Section 143(3)(i) of the Act on the adequacy and operating effectiveness of
+the internal financial controls with reference to financial statements insofar as it relates to four subsidiary
+companies, which are companies incorporated in India, is based on the corresponding reports of the
+auditors of such companies incorporated in India.
+The internal financial controls with reference to financial information insofar as it relates to four associate
+companies, which is a company incorporated in India and included in these consolidated financial
+statements, have not been audited either by us or by other auditor. In our opinion and according to the
+information and explanations given to us by the Management, such unaudited associate companies are
+not material to the Holding Company.
+Our opinion is not modified in respect of this matter.
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+DAVID
+JULIAN
+JONES
+
+Digitally signed by
+DAVID JULIAN JONES
+Date: 2026.04.30
+14:29:56 +05'30'
+
+David Jones
+Partner
+Place: Noida
+Date: 30 April 2026
+
+Membership No.: 098113
+ICAI UDIN:26098113YCINQP9130
+
+Page 12 of 12
+
+
+IndiaMART InterMESH Limited
+Consolidated Balance Sheet as at 31 March 2026
+(Amounts in INR million, unless otherwise stated)
+Notes
+Assets
+Non-current assets
+Property, plant and equipment
+Right-of-use assets
+Goodwill
+Other intangible assets
+Intangible assets under development
+Investment in associates
+Financial assets
+(i) Investments
+(ii) Loans
+(iii) Other financial assets
+Deferred tax assets (net)
+Non-current tax assets (net)
+Other non-current assets
+Total Non-current assets
+Current assets
+Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+(v) Loans
+(vi) Other financial assets
+Other current assets
+Total current assets
+
+Liabilities
+Non-current liabilities
+Financial liabilities
+(i) Lease liabilities
+Contract liabilities
+Provisions
+Deferred tax liabilities (net)
+Total Non-current liabilities
+Current liabilities
+Financial liabilities
+(i) Lease liabilities
+(ii) Trade payables
+
+As at
+31 March 2025
+
+5A
+5B
+6A
+6B
+6C
+7
+
+50.48
+163.87
+4,542.72
+183.27
+3,550.24
+
+79.73
+251.83
+4,542.72
+275.70
+4.69
+2,447.54
+
+8
+8
+8
+26
+18
+9
+
+4,079.05
+897.05
+736.95
+0.65
+78.21
+27.69
+14,310.18
+
+4,201.96
+0.61
+49.87
+37.31
+70.92
+17.33
+11,980.21
+
+8
+10
+11
+11
+8
+8
+9
+
+30,294.05
+54.95
+804.13
+107.86
+6.28
+262.58
+406.00
+31,935.85
+
+27,882.07
+39.71
+734.84
+109.02
+129.92
+295.49
+165.59
+29,356.64
+
+46,246.03
+
+41,336.85
+
+12
+13
+
+600.84
+23,402.91
+24,003.75
+
+600.05
+21,252.85
+21,852.90
+
+15 (a)
+17
+16
+26
+
+130.90
+7,450.84
+458.22
+552.60
+8,592.56
+
+227.39
+6,177.24
+392.04
+471.73
+7,268.40
+
+15 (a)
+14
+
+100.12
+
+102.98
+
+Total Assets
+Equity and Liabilities
+Equity
+Share capital
+Other equity
+Total Equity
+
+As at
+31 March 2026
+
+(a) total outstanding dues of micro enterprises and small enterprises
+
+1.30
+
+8.54
+
+318.51
+246.61
+12,201.76
+514.27
+148.24
+118.91
+13,649.72
+
+261.37
+590.20
+10,599.25
+490.68
+104.82
+57.71
+12,215.55
+
+Total Liabilities
+
+22,242.28
+
+19,483.95
+
+Total Equity and Liabilities
+
+46,246.03
+
+41,336.85
+
+(b) total outstanding dues of creditors other than micro enterprises and small enterprises
+(iii) Other financial liabilities
+Contract liabilities
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+Total Current liabilities
+
+Material accounting policies
+
+15 (b)
+17
+17
+16
+18
+
+2
+
+The accompanying notes are an integral part of the consolidated financial statements.
+As per our report of even date attached
+For B S R & Co. LLP
+Chartered Accountants
+ICAI Firm Registration No. 101248W/W-100022
+Digitally signed by
+
+DAVID JULIAN DAVID JULIAN JONES
+Date: 2026.04.30
+JONES
+14:15:00 +05'30'
+
+David Jones
+Partner
+Membership No.: 098113
+Place: Noida
+Date: 30 April 2026
+
+For and on behalf of the Board of Directors of
+IndiaMART InterMESH Limited
+
+Dinesh
+Chandra
+Agarwal
+
+Digitally signed
+by Dinesh
+Chandra Agarwal
+Date: 2026.04.30
+12:42:10 +05'30'
+
+Dinesh Chandra Agarwal
+(Managing Director and CEO)
+DIN:00191800
+signed
+JITIN Digitally
+by JITIN DIWAN
+Date: 2026.04.30
+DIWAN 12:50:10 +05'30'
+
+Jitin Diwan
+(Chief Financial Officer)
+Place: Noida
+Date: 30 April 2026
+
+Digitally signed by
+
+Brijesh Kumar Brijesh Kumar Agrawal
+Date: 2026.04.30
+Agrawal
+12:35:25 +05'30'
+Brijesh Kumar Agrawal
+(Whole-time director)
+DIN:00191760
+
+Manoj
+Bhargava
+Manoj Bhargava
+(Company Secretary)
+
+Digitally signed by
+Manoj Bhargava
+Date: 2026.04.30
+12:46:23 +05'30'
+
+
+IndiaMART InterMESH Limited
+Consolidated Statement of Profit and Loss for the year ended 31 March 2026
+(Amounts in INR million, unless otherwise stated)
+Notes
+
+For the year ended
+31 March 2026
+
+For the year ended
+31 March 2025
+
+Income:
+Revenue from operations
+Other income
+Total income
+
+19
+20
+
+15,690.42
+2,041.03
+17,731.45
+
+13,883.44
+2,724.18
+16,607.62
+
+Expenses:
+Employee benefits expense
+Finance costs
+Depreciation, amortisation and impairment expense
+Other expenses
+Total expenses
+
+21
+22
+23
+24
+
+6,928.25
+29.81
+284.48
+3,461.76
+10,704.30
+
+6,009.86
+74.06
+329.44
+2,645.66
+9,059.02
+
+7,027.15
+(547.72)
+6,479.43
+
+7,548.60
+(490.51)
+7,058.09
+
+1,626.93
+105.68
+1,732.61
+
+1,545.19
+5.92
+1,551.11
+
+4,746.82
+
+5,506.98
+
+49.38
+(11.85)
+37.53
+
+(5.21)
+0.97
+(4.24)
+
+4,784.35
+
+5,502.74
+
+79.07
+78.77
+
+91.84
+91.59
+
+Net profit before share of loss in associates and tax
+Share in net loss of associates
+Profit before tax
+Income tax expense
+Current tax
+Deferred tax
+Total tax expense
+
+26
+26
+
+Net profit for the year
+Other comprehensive income/ (loss)
+Items that will not be reclassified to profit or loss
+Re-measurement loss on defined benefit plans
+Income tax effect
+Other comprehensive Income/(loss) for the year, net of tax
+
+27
+26
+
+Total comprehensive income for the year
+Earnings per equity share:
+Basic earnings per equity share (INR) - face value of INR 10 each
+Diluted earnings per equity share (INR) - face value of INR 10 each
+
+25
+
+Material accounting policies
+
+2
+
+The accompanying notes are an integral part of the consolidated financial statements.
+As per our report of even date attached
+For B S R & Co. LLP
+Chartered Accountants
+ICAI Firm Registration No. 101248W/W-100022
+Digitally signed by
+
+DAVID JULIAN DAVID JULIAN JONES
+Date: 2026.04.30
+JONES
+14:15:27 +05'30'
+
+David Jones
+Partner
+Membership No.: 098113
+Place: Noida
+Date: 30 April 2026
+
+signed
+Dinesh Digitally
+by Dinesh
+Chandra
+Agarwal
+Chandra Date: 2026.04.30
+Agarwal 12:42:55 +05'30'
+
+Brijesh
+Kumar
+Agrawal
+
+Dinesh Chandra Agarwal
+(Managing Director and CEO)
+DIN:00191800
+
+Brijesh Kumar Agrawal
+(Whole-time director)
+DIN:00191760
+
+signed
+JITIN Digitally
+by JITIN DIWAN
+Date: 2026.04.30
+DIWAN 12:50:53 +05'30'
+
+Digitally signed by
+Manoj
+Manoj Bhargava
+2026.04.30
+Bhargava Date:
+12:46:46 +05'30'
+
+Jitin Diwan
+(Chief Financial Officer)
+
+Manoj Bhargava
+(Company Secretary)
+
+Place: Noida
+Date: 30 April 2026
+
+Digitally signed by
+Brijesh Kumar
+Agrawal
+Date: 2026.04.30
+12:36:00 +05'30'
+
+

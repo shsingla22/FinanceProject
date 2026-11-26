@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
+import difflib
 import gzip
 import re
 import sys
@@ -266,7 +267,7 @@ def load_filings(today: dt.date, days: int = WINDOW_DAYS) -> list[dict]:
             continue
         seen.add(r["ann_id"])
         # a large board outcome or press release read here is still a general filing: only its opening counts for a seat
-        origin = "store" if r["category"] in MF.BIG_CATEGORIES else "mgmt"
+        origin = "mgmt" if r["category"] in (MF.MGMT_CATEGORIES | MF.ALSO_READ) else "store"
         out.append({**{k: r[k] for k in ("date", "symbol", "company", "category", "headline", "attachment", "ann_id")},
                     "text_path": str(DATA / r["text_file"]), "origin": origin})
     for r in DR.load_all().values():
@@ -614,6 +615,9 @@ def same_person(a: str, b: str) -> bool:
     x, y = norm_name(a).split(), norm_name(b).split()
     if not x or not y:
         return False
+    jx, jy = "".join(x), "".join(y)
+    if jx == jy or (min(len(jx), len(jy)) >= 8 and difflib.SequenceMatcher(None, jx, jy).ratio() >= 0.9):
+        return True                                   # 'she nu agarwal' / 'shenu agarwal'; 'kishor patil' / 'kishore patil'
     if set(x) <= set(y) or set(y) <= set(x):
         return len(set(x) & set(y)) >= 1 and (len(x) > 1 or len(y) > 1 or x == y)
     if x[-1] != y[-1]:

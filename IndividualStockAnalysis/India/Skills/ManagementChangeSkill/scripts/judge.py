@@ -63,12 +63,15 @@ def stamp_of(*parts: str) -> str:
     return hashlib.md5(("\x1f".join(parts) + MODEL).encode("utf-8", "replace")).hexdigest()
 
 
-def ask(key: str, stamp: str, prompt: str, allow_ai: bool = True, runner=None) -> dict:
+def ask(key: str, stamp: str, prompt: str, allow_ai: bool = True, runner=None, require: tuple[str, ...] = ()) -> dict:
     """{'status': 'cached' | 'judged' | 'not assessed' | 'judge failed: …', **answer}.
-    A malformed answer is asked once more."""
+    A malformed answer is asked once more. `require` names the top-level keys
+    the answer must have: when a model's JSON is broken, the first object
+    that parses can be an INNER one (an 'incoming' block), and that is a
+    malformed answer, not an answer."""
     with _LOCK:
         hit = _cache().get(key) or {}
-    if hit.get("stamp") == stamp:
+    if hit.get("stamp") == stamp and all(k in hit.get("answer", {}) for k in require):
         return {"status": "cached", **hit["answer"]}
     if not allow_ai or (runner is None and not available()):
         return {"status": "not assessed", "note": "judge not run — mechanical read only"}
@@ -89,6 +92,8 @@ def ask(key: str, stamp: str, prompt: str, allow_ai: bool = True, runner=None) -
         except Exception as e:                             # noqa: BLE001
             return {"status": f"judge failed: {e}"}
         answer = parse_json(out)
+        if answer is not None and not all(k in answer for k in require):
+            answer = None
         if answer is not None:
             break
         failure = "bad json" if "{" in (out or "") else "unparseable"

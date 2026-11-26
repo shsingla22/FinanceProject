@@ -1,0 +1,549 @@
+January 22, 2026
+To,
+The Listing Department,
+National Stock Exchange of India Limited,
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Bandra (E), Mumbai - 400 051
+Maharashtra, India
+
+LTTL/L&S/2025-26/01/14
+The Listing Department,
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+Maharashtra, India
+
+Dear Sir/Madam,
+Sub :
+
+Announcement under Regulation 30 and other applicable provisions
+of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 - Earnings Release - Financial Results for the quarter
+and nine months ended December 31, 2025
+
+Ref
+
+Le Travenues Technology Limited (the “Company”)
+
+:
+
+NSE Symbol: IXIGO and BSE Scrip Code: 544192
+In compliance with Regulation 30 and other applicable provisions of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended), please find
+enclosed the Earnings Release on the financial results (consolidated and standalone) of
+the Company for the quarter and nine months ended December 31, 2025.
+This announcement will also be available on the website of the Company at
+https://investors.ixigo.com/.
+This is for your information and records.
+Thank you,
+For Le Travenues Technology Limited
+signed by SURESH KUMAR
+SURESH KUMAR Digitally
+BHUTANI
+Date: 2026.01.22 16:25:51 +05'30'
+BHUTANI
+
+Suresh Kumar Bhutani
+(Group General Counsel, Company Secretary & Compliance Officer)
+
+
+Built on Trust
+Powered by AI
+
+EARNINGS
+
+RELEASE
+
+Q3 FY26 | Jan 22, 2026
+
+
+Earnings Release
+
+Vision
+Our vision is to become the most
+customer-centric travel company,
+by oﬀering the best customer
+experience to our users
+
+2
+
+
+Q3 FY26 | Jan 22, 2026
+
+Who We Are
+We are a technology company focused
+on empowering Indian travellers to plan,
+book and manage their trips
+
+3
+
+3
+
+
+Earnings Release
+
+What We Stand For
+
+Leading OTA for
+Next Billion Users
+with 544.35 Mn
+Annual Active Users1
+
+Assisting travellers
+in making smarter
+travel decisions by
+leveraging AI
+
+Empowering
+travellers to plan,
+book, & manage
+trips across trains,
+ﬂights, buses &
+hotels, assisting
+them before, during,
+and after the journey
+
+Culture and values
+deﬁned by core
+tenets of customer
+obsession, empathy,
+ingenuity, ownership,
+resilience and
+excellence
+
+Note: 1 is for the year ended 31st March 2025
+
+4
+
+
+Q3 FY26 | Jan 22, 2026
+
+Headline Results
+Q3 FY26 vs Q3 FY25 Highlights
+
+₹49,028.55
+
+₹3,175.64
+
+₹1,152.76
+
+₹307.89
+
+₹381.21
+
+GTV
+
+REVENUE FROM
+OPERATIONS
+
+CONTRIBUTION
+MARGIN
+
+ADJUSTED
+EBITDA
+
+PBT*
+
+21%
+
+31%
+
+12%
+
+27%
+
+64%
+
+Million
+
+Million
+
+Million
+
+Million
+
+Million
+
+Note:
+1.
+
+GTV (Gross Transaction Value) refers to the total amount paid (including taxes, fees and service charges,
+
+2.
+
+Contribution Margin is deﬁned as net ticketing revenue plus other operating revenue less direct expenses.
+
+3.
+4.
+
+gross of all discounts) by users for the OTA services and products booked through us in the relevant period/year.
+Adjusted EBITDA is calculated as the restated proﬁt for the period or year plus tax expense, ﬁnance cost, depreciation, amortization
+expenses, Employee Stock Option Scheme less other income, exceptional items, share of proﬁt/loss of associate.
+*Proﬁt / (loss) before share of loss of an associate, exceptional Items and tax.
+
+Key Performance Highlights - Q3 FY26
+Gross Transaction Value (GTV) crossed ₹49,028.55 Mn in Q2 FY26, growing by 21% YoY.
+Flight GTV grew 22% YoY, Bus GTV rose 36% YoY while Train GTV grew 15% YoY for Q3 FY26 vs Q3 FY25.
+Revenue From Operations grew by 31% YoY in Q3 FY26 to ₹3,175.64 Mn from ₹2417.61 Mn in Q3 FY25.
+Flight Revenue grew 49% YoY in Q3 to ₹1,023.97 Mn, while Bus Revenue grew 47% YoY in Q3 to ₹755.74 Mn
+Contribution Margin (CM) increased by 12% YoY, reaching ₹1,152.76 Mn in Q3 FY26.
+Adjusted EBITDA (EBITDA plus ESOP Expenses less Other Income) increased to ₹307.89 Mn for Q3 FY26,
+an increase of 27% from ₹243.37 Mn in Q3 FY25.
+Proﬁt Before Tax, Share of Loss of Associates and Exceptional items is at ₹381.21 Mn in Q3 FY26 from
+₹233.13 Mn in Q3 FY25.
+
+5
+
+
+Earnings Release
+
+The questions here are drawn from two main sources: those most frequently asked by our investors
+during the quarter, and those that we anticipate investors may have based on the company’s results.
+The aim is to address both themes and forward-looking queries that reﬂect investor curiosity and
+market perspectives. In case there are questions that you would want answered in the next quarter,
+please send an email to ir@ixigo.com
+
+Ques 1. This quarter had a lot of flight disruptions due to a spike in
+cancellations from a leading airline in December, and yet you managed
+to grow faster than the overall market. How did you deal with it? What is
+the outlook for the future?
+Aloke: Following the implementation of the revised FDTL norms by the DGCA, a leading
+airline experienced signiﬁcant operational disruptions during the ﬁrst half of December
+2025, with approximately 4,500 ﬂight cancellations/ reschedules over a twelve-day period.
+The impact peaked between December 3rd and 8th, which led to a two-fold surge in
+customer reach-outs and a ﬁve-fold increase in usage of our ﬂight-tracking products.
+As soon as the situation escalated, we set up a dedicated cross-functional war room to
+manage an environment that was evolving on a daily basis. We were the ﬁrst OTA to
+announce a customer-friendly response, proactively refunding not only the full ticket
+amount but also the convenience fees and ixigo Assured fees on the aﬀected bookings that
+were cancelled between 3rd and 8th December. When we take such calls, the only lens
+through which we look at it is whether we are doing the “right thing” for our customers,
+given the context of the crisis.
+During the disruption in Q3, our ﬁrst priority was to support the impacted customers by
+giving them timely, accurate information on cancellations and helping them make alternate
+arrangements. Travel is a high-trust category, and moments of disruption are when that
+trust is most visibly tested. Given the severe inconvenience caused during the peak
+disruption days, we proactively refunded convenience fees and ixigo Assured fees for
+impacted IndiGo bookings, despite having no obligation to do so and with this not being a
+standard industry practice.
+Our approach during this period was multi-pronged: reducing customer anxiety in real-time
+through timely and transparent updates, enabling aﬀected users to quickly receive refunds
+or rebook using alternate modes of transport, and ensuring operational resilience and
+service continuity at scale.
+Rajnish: This episode underscored the importance of our sustained investments in an AI-led
+customer experience stack and utility-driven product innovations such as Flight Tracker Pro,
+which proved critical in managing large-scale disruptions during a period of crisis. We
+orchestrated a coordinated response that combined the speed and scale of AI with human
+judgment, deploying both eﬃciently to support impacted customers.
+Veriﬁed information was continuously sourced from authoritative channels and proactively
+communicated to users, while well-deﬁned SOPs enabled rapid handling of customer
+queries. Multiple proactive touchpoints were initiated to ensure timely refunds and smooth
+rebooking wherever required.
+
+6
+
+
+Q3 FY26 | Jan 22, 2026
+
+We leveraged AI-driven outbound calls to proactively inform customers of ﬂight
+cancellations or reschedules, automatically trigger refunds and alternate bookings, and
+guide them through next steps. TARA, our AI agent, played a central role by actively assisting
+customers with refund processes and recommending alternate travel options. In parallel,
+our AI-augmented human support teams operated extended hours during peak disruption
+periods, helping us maintain strong customer satisfaction despite elevated volumes.
+In Q3, the percent of voice calls that were handled end-to-end by AI stood at 76%+ but what
+really stood out for me is that in December, when the crisis unfolded, we stepped up
+proactive voice calling, with AI handling a whopping 90% of all calls in December, with over
+150,000 calls handled end to end by AI during the impacted period. Thanks to this, even
+though overall customer contact volumes across voice and chat more than doubled,
+resolution times remained within internal benchmarks and customer satisfaction metrics
+stayed stable through the period. This is evidenced by our calls answered within 2 minutes,
+remaining at 96.7% despite the elevated volumes and our average refund time remaining
+just 3 hours and 10 minutes. Flight Tracker Pro also saw extensive usage, enabling
+customers to track real-time ﬂight schedules at airports, with multiple instances of positive
+feedback from both travellers and airport staﬀ on its usefulness during these challenging
+conditions.
+On the decision to refund everything for these impacted customers, we view these decisions
+with a long-term perspective. Customer goodwill, repeat usage, and brand trust are
+compounding assets for us. Such proactive decisions also help the broader industry in the
+sense that they help preserve customer conﬁdence in the broader travel ecosystem,
+including our airline partners. Historically, whenever we have leaned into customer-ﬁrst
+decisions, they have been followed by stronger retention, higher app engagement, brand
+recall and improved lifetime value, which more than oﬀsets any short-term ﬁnancial impact.
+Saurabh: Apart from cancellations, this crisis also had an impact on ﬂight bookings in the
+aﬀected period since it became prime time news and impacted consumer sentiment during
+December, which is usually a peak travel month. Though it is diﬃcult to assess the exact
+impact, we estimate roughly 4-5% opportunity loss of domestic ﬂight segments for the
+industry, which would have proportionately aﬀected us during the reported quarter.
+Following our playbook of customer empathy, we refunded convenience fees and ixigo
+Assured fees to customers impacted by cancellations. Including the impact of lost bookings,
+there would have been an approximate impact of ₹2 Crores on our Q3 EBITDA .
+In the long term, structural recovery in airline capacity is expected throughout FY27 with all
+four major players (Air India, Indigo, Akasa, and SpiceJet) anticipating an improved delivery
+pipeline in 2026. The government has also cleared new airline proposals and enhanced
+connectivity of Tier 2, 3 airports. The Navi Mumbai International Airport has also become
+operational in the last week of December 2025, where we are seeing strong uptake from our
+users in the ﬁrst few weeks. We are also looking forward to the upcoming Greater Noida
+(Jewar) airport.
+
+7
+
+
+Earnings Release
+
+Ques 2. Given faster growth in other segments, your Train business is
+now just 43% of your GTV and 35% of your Contribution Margin, with GTV
+growth in mid-teens. How should one view growth in this segment?
+Rajnish: The train segment remains a crucial component of our growth momentum. Our
+leadership and continued growth reﬂect a platform built on strong product, technology and
+AI, that can handle complexity at scale, backed by a deep understanding of train traveller
+pain points and a peace-of-mind stack that oﬀers several deeply thought value-added
+services for NBU travellers.
+Having lived and travelled in many geographies, I would go as far as to say that our train
+apps work way better than any train app I’ve used globally. Our brands ixigo trains and
+Conﬁrmtkt are at the very top of mind recall in the train category in India, thanks to their
+user friendliness, and we now have a 4.8 app rating for both these apps on the Play Store (at
+a scale of millions of reviews on each of them), reﬂecting the high customer satisfaction we
+continue to oﬀer our customers.
+Aloke: The Railways have made a series of passenger-friendly changes since July, and several
+of those measures were meant to combat fraud and increase passenger convenience. From
+late October 2025, Aadhaar identity veriﬁcation became mandatory for users booking
+reserved tickets during the initial opening hours, which has more recently been extended to
+the opening day of the Advance Reservation Period. Essentially, when new train bookings for
+60 days in advance for General quota and 1 day prior for Tatkal quota open, only
+Aadhaar-linked IRCTC accounts can book seats - a move aimed at curbing misuse and bulk
+booking by touts. IRCTC also requires two-factor ID (Aadhaar + mobile OTP) for all users in
+the ﬁrst 15 minutes of booking and has rolled this out on many trains. As we mentioned last
+quarter, while we were swift in implementing all such changes in close coordination with
+IRCTC, in the initial few days of all such changes, users need to be guided to link their
+Aadhaar to their ID, and it causes a bit of friction, though it normalises from the next
+booking onwards.
+The government has announced a plan to double the originating train capacity in 48 major
+cities by 2030, with phased passenger infrastructure upgrades including expanded coaching
+terminals, additional platforms, and improved sectional capacity to meet rising passenger
+demand and ease congestion. We are starting to see the green shoots of this capacity
+expansion with new initiatives such as Vande Bharat Sleeper Express (now operational on
+the Howrah - Kamakhya route), and additional Amrit Bharat Express services coming
+online, which will help strengthen supply and connectivity. This is much needed, as over a
+third of the tickets we sell today are waitlisted. We’re happy to see a genuine sense of
+urgency from the government to expand supply and passenger capacity in what has long
+been a supply-constrained segment.
+Saurabh: Even though I trust the government’s intent and execution plans, it’s my duty to
+caution that rail capacity expansion is a large-scale infrastructure initiative and therefore
+dependent on broader ecosystem developments, beyond the direct scope of an OTA. Thus,
+one should not take it as guidance on the future growth of our segment. That said, having
+seen the train business closely now, I’m conﬁdent we will continue to grow faster than the
+overall industry over the next few years, as we have done this quarter as well.
+
+8
+
+
+Q3 FY26 | Jan 22, 2026
+
+Ques 3. The contribution margin percentage in the bus business has
+reduced year on year. Although you had stated in the last few quarters that
+it is part of your strategy, how should we think about this going forward?
+Aloke: As we have alluded to in the last few quarters' earnings calls, bus is a category where
+our strategy is more tilted towards growth than margins for the short to mid-term since we
+have a lot of ground to cover when it comes to market penetration and top of mind brand
+recall.
+In 2021, we acquired a great team and a great brand - AbhiBus, a business which was doing
+~₹400-₹500 crore of annual GTV. Today, we have built a business that has done more than
+₹2,400 crore of GTV in the last 12 months, eﬀectively a 5x-6x growth and continues to
+compound at 50%+ YoY even today.
+Rajnish: The bus category has started seeing more innovation both for the consumer and the
+operator, partly due to our intense focus on this category over the last 4 years. If I had to
+name all the industry-ﬁrst features AbhiBus has launched since we got involved, the list
+would be very long. Starting from our Abhi Assured service guarantees and full refund for
+delays and cancellations, the Pink Seat feature for women travellers who wish to be seated
+next to other women travellers, Bus Insights where we even tell customers right at the time
+of booking their exact bus model, license plate number and age of the vehicle, 360 degree
+walkthroughs that we have built inside several buses to allow customers to see what their
+seat or sleeper berth will look like.
+We don’t leave any stone unturned in understanding customer pain areas and building
+innovative solutions for them. We observed from recent bus incidents and breakdowns how
+important safety is for our customers. So our Bus Safety Reports now cover over 40,000+
+buses, where our platform validates their permits, insurance, RC and ﬁtness certiﬁcates. The
+ReadyGo platform for bus operators now gives them more real-time insights and control over
+their operations. And last quarter, we launched an industry-ﬁrst Roadside Assistance
+program, oﬀering alternate travel options in case of bus breakdowns or incidents.
+What is needed to bring more users to book buses online are these kinds of innovative
+products, both for the end consumer and for the bus operator.
+Saurabh: As we grow the business, there are quarters where we will experiment with new
+products that Rajnish just mentioned. Such innovations may come at a small additional cost
+per booking or marketing spend to educate customers about these new innovative features,
+but enhance customer experience and stickiness. Last quarter, we also chose to double down
+on marketing activities and promotions, which could have had an even bigger impact on
+growth were it not for the additional safety inspections that led to the grounding of some
+supply in November.
+
+9
+
+
+Earnings Release
+
+Ques 4. When it comes to AI investments, you alluded to doubling down
+on them with your recent preferential fundraise. What is your strategy
+going to be?
+Aloke: Our AI investments are going to be both organic, which Rajnish has already talked
+about in the last few quarters' earnings, and inorganic, in the form of strategic investments
+or acquisitions. Our strategy will be to focus on investing in teams or products where we have
+high conviction on the founding team quality, expertise in leveraging AI and our ability to
+leverage synergies from their products or services. I will let Rajnish elaborate more on this.
+Rajnish: We believe we are living through a once-in-a-lifetime technology transition with AI,
+even bigger than the emergence of the internet or smartphones. What makes this moment
+particularly important is that AI has now clearly moved beyond experimentation and is
+entering a phase of real product-market ﬁt across agentic workﬂows, core infrastructure, and
+applied vertical use cases, including travel.
+Disruptive use cases for AI in travel need some key ingredients - talented teams and access to
+large datasets and real user journeys. Thanks to ixigo’s AI-ﬁrst DNA, we have the ability to
+accelerate ideas and teams. I often ﬁnd founders at the forefront of AI understanding and
+building promising products as well, but without enough real-world use cases or distribution
+to test, learn, and demonstrate the impact of those ideas. Based on our own deep experience
+with AI over a decade, we have a unique ability to scout and diligence such AI-ﬁrst teams and
+ideas. Our strong preference will be access to frontier AI talent working on ideas or
+applications that are synergistic with our own future plans and product vision.
+Why now? The current phase of the AI cycle oﬀers early access to exceptional founders,
+talent, and platforms, which we believe is a durable strategic advantage. We intend to make a
+small number of focused, high-conviction investments or partnerships in the short to
+medium term where there is strong alignment with ixigo’s core travel ecosystem, data
+strengths, and distribution. These investments are not about ﬁnancial returns alone. They are
+designed to accelerate learning, enable faster internal adoption, and create long-term
+strategic optionality.
+We will also continue to invest organically. AI is already deeply embedded in our product,
+from planning and discovery to predictions, pricing, discounting, customer support,
+operations, and supply-side eﬃciency, we use AI just about everywhere, and we are doubling
+down now on voice and personalisation.
+Saurabh: On the quantum of potential investments, both internal and external, over the
+medium term, if we ﬁnd the right opportunities, I’d refer you to the source and uses we
+outlined as part of the preferential raise last quarter (link, link) where we had earmarked 25%
+of the recently raised capital towards inorganic growth opportunities and 25% towards
+organic growth opportunities. I should highlight that we will continue to invest only in
+high-impact opportunities that align with our strategy and oﬀer clear synergies.
+To maintain prudence, we have constituted an Investment Committee to evaluate and
+approve such investments and acquisitions, where we will beneﬁt from the deep experience
+
+10
+
+
+Q3 FY26 | Jan 22, 2026
+
+of two of our board members: Mr. Shailesh Lakhani, formerly a Managing Director at Peak XV
+Partners and widely recognised for backing some of India’s most successful ventures, and Mr.
+Rajesh Sawhney, the founder and CEO of GSF India, a serial entrepreneur and active investor
+in the Indian startup ecosystem.
+
+Ques 5. Can you shed some light on the international flights business how are product, supply and growth shaping up?
+Rajnish: International ﬂights have emerged as a key growth vector for us over the last few
+quarters. After seeing consistent demand growth over the past 4-5 quarters, we consciously
+stepped up our focus on international inventory expansion this ﬁscal. Importantly, our
+international ﬂight demand is no longer limited to Tier 1 airports. We are seeing strong
+traction from Tier 2 and Tier 3 airports as connectivity to South East Asia and the Middle East
+continues to improve, both through direct routes and eﬃcient one-stop connections via Tier
+1 hubs.
+On the supply side, we have signiﬁcantly strengthened our international coverage. Today, we
+have global GDS partnerships across Amadeus and Travelport (Galileo), giving us access to
+all leading full-service international carriers. In addition, we have onboarded 26 airlines on
+New Distribution Capability (NDC) pipes, including marquee Middle Eastern, Southeast Asian,
+and European carriers. NDC enables access to better fares, richer content, and more direct
+carrier integrations, allowing us to build deeper relationships with airlines and deliver better
+value to customers. Over the next few quarters, we will continue expanding our supply
+footprint, particularly across international low-cost carriers and regional airlines that are
+highly relevant for Indian outbound travellers.
+Aloke: From a scale perspective, International Flights GTV grew over 50% YoY in the last
+quarter and crossed 20% of overall Flights GTV in Q3. This reﬂects increasing user trust in
+ixigo for higher-value transactions and more complex itineraries. We also saw new
+international destinations gain popularity among Indian travellers in 2025, with Vietnam,
+Japan, South Korea, Oman, Kenya, and Indonesia emerging as strong outbound growth
+markets on our platform. Further, we are also seeing some organic inbound starting to grow
+on our platform, from the Middle East and Southeast Asia to begin with. The Government
+recently expanded its e-Tourist Visa scheme to 166 additional countries, raising the eligible
+nations to 211. This major visa liberalisation allows travellers from key markets such as
+Europe, Korea, Brazil and Africa to obtain Indian e-visas online in hours instead of weeks.
+Saurabh: International travel remains a large and structurally underpenetrated online
+segment in India, seeing lower supply constraints than the domestic market is seeing. Our
+focus is on addressing the core friction points that prevent users from booking international
+travel online, spanning pricing transparency, reliability, and post-booking support. We
+believe this positions us well to compound growth in international ﬂights over the medium
+term. On the product front, we have several initiatives in the pipeline tailored speciﬁcally for
+international ﬂyers, and we will share more details as these roll out in subsequent quarters.
+
+11
+
+
+Earnings Release
+
+Ques 6. What is the update on your hotel business? How is it shaping up,
+and when can we expect you to sign up for more direct inventory?
+Rajnish: We have made several product improvements that users are complimenting us for,
+including AI summaries for hotels and smarter ranking algorithms. Despite seeing good QoQ
+growth, I would say that we are not at the “product-market” ﬁt stage on this business yet,
+which would involve solving the “what you see vs what you get” problems that the budget
+hotel space is riddled with. We now have some deeper learnings on what is broken in the
+space, and we are building our hypothesis on how those can be solved. We have talked to
+many customers and hoteliers and also done on-ground market research to test the
+hypothesis, and we expect to intensify our eﬀorts on both product and supply in the coming
+ﬁscal year.
+Aloke: Last quarter, we kicked oﬀ adding direct hotel supply by tying up ﬁrst with channel
+managers who work with multiple hotel chains and independent hotels. Through these tech
+integrations, we can onboard direct supply without deploying a large team on the ground.
+We are now also adding budget hotel chains and the ﬁrst set of independent hotels focused
+on those segments that overlap with our core user base.
+Saurabh: Hotels is a strategic focus area for us and will be a multi-year journey just like the
+other verticals we built out patiently. As we build more conviction, we will back it up with
+investments in resources and capital.
+
+Ques 7. In Q4 FY25, you benefited from the MahaKumbh-related travel
+tailwinds. How should we think about the base effect for Q4 FY26, and what
+impact could that have on growth and margins?
+Saurabh: It was a remarkable event, wasn’t it? The sheer scale of the Mahakumbh was
+unprecedented. The largest human gathering on the planet, and we’re proud of the part we
+played in Q4 last year, starting from the last few days of Q3, in helping facilitate travel across
+rail, road, and air for people coming in from every corner of the country. During the Mela,
+demand for trains was up ~4x, buses up ~20x, and ﬂights up ~5.4x for travel to/from
+Prayagraj and surrounding stations and airports.
+At an overall GTV level, Mahakumbh contributed both directly and indirectly to Q4 GTV last
+year (through ATV expansion and inventory addition), which should show up as a base eﬀect
+next quarter.
+Aloke: Having said that, our Great Indian Travel Index for 2025 shows that India continues
+seeing spiritual tourism as a strong vector for growth, as evidenced by the growth in key
+spiritual destinations. Flight bookings during 2025 to Varanasi increased by 134% and
+Tirupati by 102%, followed by Prayagraj, Ayodhya and Shirdi. Bus and train travel mirrored
+this momentum, with destinations such as Varanasi, Mathura, Rishikesh, Haridwar and Gaya
+seeing strong double-digit growth. The most interesting ﬁnding of this year for us was that
+spiritual tourism is not just a senior-citizen or middle-age phenomena, with Gen-Z travel to
+these destinations also skyrocketing, especially on our bus and train businesses.
+
+12
+
+
+Q3 FY26 | Jan 22, 2026
+
+Ques 8. What are the one-offs or call-outs this quarter?
+Saurabh: The one-oﬀs and call-outs in Q3 FY26 include:
+▪ Share of loss from Fresh Bus (an associate company) of ₹28.59 Mn
+▪ ₹27.96 Mn one-time impact due to the New Labour code
+For Q3 FY25, the one-oﬀs and call-outs comprised:
+▪ Share of loss from Fresh Bus (an associate company) of ₹18.56 Mn
+Apart from the above, the disruption in ﬂight operations during December, arising from
+operational challenges faced by a leading airline, including the impact of lost bookings and
+cancellations, resulted in an adverse impact of approximately ₹20 Mn on our EBITDA in
+Q3 FY26
+
+Ques 9. Is there a movie or book that particularly inspired you in 2025?
+Saurabh: I’d say ‘Dhurandhar‘ (a recently released Hindi ﬁlm).
+Disclosure: This recommendation constitutes a related-party interest, as my wife delivered (what I
+would believe is) one of the standout performances in the ﬁlm.
+Rajnish: ‘The Beginning of Inﬁnity‘ stood out for me. It frames progress as an ongoing process
+of better explanations - which is exactly how we see AI: not as a one-time breakthrough, but
+as a compounding capability that reshapes how products, teams, and industries evolve.
+Aloke: I recently saw ‘The Thinking Game‘, a documentary on the story of Google DeepMind
+and the race towards AGI. I also second what Saurabh said about ‘Dhurandhar!‘ A friend of
+mine gifted me this book - ‘When Breath Becomes‘ Air by Paul Kalanithi, and it turned out to be
+the best book I read last year.
+
+13
+
+

@@ -1,0 +1,1577 @@
+LTIM/SE/STAT/2025-26/88
+
+January 19, 2026
+
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (E),
+Mumbai - 400 051
+
+The BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort,
+Mumbai - 400 001
+
+NSE Symbol: LTIM
+
+BSE Scrip Code: 540005
+
+Dear Sir(s)/Madam,
+Subject: Outcome of Board Meeting
+In continuation to our letter bearing reference no. LTIM/SE/STAT/2025-26/86 dated January 6, 2026,
+this is to inform you that pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, the Board of Directors at its meeting held today have inter-alia
+approved the unaudited standalone and consolidated financial results for the quarter and ninemonths ended December 31, 2025 and have taken note of the Limited Review Reports issued by M/s.
+Deloitte Haskins & Sells, Chartered Accountants LLP (‘Statutory Auditor’), on the aforementioned
+financial results.
+A copy of the aforementioned financial results, the Limited Review Reports issued by the Statutory
+Auditor, the earnings release & fact sheet and the investor presentation are enclosed herewith.
+The meeting commenced at 2:00 p.m. and concluded at 4:20 p.m.
+Kindly take the above intimation on record.
+Thanking you,
+Yours faithfully,
+For LTIMindtree Limited
+Digitally signed by
+
+Angna
+Angna Anish Arora
+2026.01.19
+Anish Arora Date:
+16:24:11 +05'30'
+
+Angna Arora
+Company Secretary and Compliance Officer
+Encl. As above
+
+LTIMindtree Limited
+Corporate Office: L&T Technology Centre, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, India
+T: + 22 6776 6776 F: + 22 4313 0997
+Registered Office: L&T House, Ballard Estate, Mumbai – 400 001, INDIA
+www.ltimindtree.com | Email: Info@ltimindree.com | CIN: L72900MH1996PLC104693
+LTIMindtree Limited is a subsidiary of Larsen & Toubro Limited
+
+
+Deloitte
+Haskins & Sells
+Chartered Accountants LLP
+
+Chartered Accountant s
+19th floor, Shapath-V
+S.G. Highway
+Ahmedabad-380 015
+GuJarat, India
+Tel: +91796682 7300
+Fax: +91796682 7400
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM CONSOLIDATED FINANCIAL
+RESULTS
+TO THE BOARD OF DIRECTORS OF LTIMINDTREE LIMITED
+
+1.
+
+We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of
+LTIMindtree Limited ("the Parent") and its subsidiaries (the Parent and its subsidiaries together referred
+to as "the Group"), and its share of the net profit/(loss) after tax and total comprehensive income/ (loss)
+of its joint venture for the quarter and nine months ended December 31, 2025 ("the Statement") being
+submitted by the Parent pursuant to the requirement of Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended ("the Listing Regulations").
+
+2.
+
+This Statement, which is the responsibi lity of the Parent's Management and approved by the Parent's Board
+of Directors, has been prepared in accordance with the recognition and measurement principles laid down
+in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section
+133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting principles
+generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our
+responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410 "Review of Interim Financial Information Performed by the Independent Auditor of the Entity", issued
+by the Institute of Chartered Accountants of India (!CAI). A review of interim financial information consists
+of making inquiries, primarily of Parent's personnel responsible for financial and accounting matters, and
+applying analytica l and other review procedures. A review is substantially less in scope than an audit
+conducted in accordance with Standards on Auditing specified under Section 143(10) of the Companies
+Act, 2013 and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit . Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33(8)
+of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, to the
+extent applicable.
+
+4.
+
+The Statement includes the interim financial information of the entities listed in Attachment A.
+
+5.
+
+Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement, prepared in accordance with the recognition and
+measurement principles laid down in the aforesaid Indian Accounting Standard and other accounting
+principles generally accepted in India, has not disclosed the information requ ired to be disclosed in terms
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended, including the manner in which it is to be disclosed, or that it contains any material m isstatement.
+
+For DELOITTE HASKINS & SELLS
+CHARTERED ACCOUNTANTS LLP
+Chartered Accou ants
+(Firm's Regis tion No . 117364W/W- 100739)
+
+Gurvinder Singh
+Partner
+(Membership No. 110128)
+(UDIN:26110128ECYXEK3934)
+Place: Mumbai
+Date: January 19, 2026
+
+Regd . Office: 19th floor, Shapath-V, S.G. Highway, Ahmedabad-380 015, Gujarat, India.
+Deloitte Haskins & Sells. (FRN .117364W), a Partnership Firm, was converted into Deloitte Haskins & Sells Chartered Accountants LLP
+(LLP Identification No. AAX-2454), a limited liability partnership, with effect from 2 June 2021
+
+
+Deloitte
+Haskins & Sells
+Chartered Accountants LLP
+
+Attachment A
+Sr No
+A
+
+Name of Entities
+Parent
+LTIMindtree Limited
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+Subsidiaries
+LTIMindtree GmbH
+LTIMindtree Canada Limited
+LTIMindtree Financial Services Technologies Inc.
+LTIMindtree South Africa (Pty) Lim ited
+LTIMindtree Information Technoloqy Se rv ices (Shanqha i) Co., Ltd .
+LTIM indtree Spain, S.L.
+LTIM indtree, Sociedad De Responsabilidad Limitada De Capital Variable
+LTIM indtree S.A.
+LTIM indtree PSF S.A.
+Syncordis Limited, UK (D issolved w.e.f. Ju ly 16, 2025)
+LTIM indtree Norqe AS
+LTIMindtree Switzerla nd AG
+Nielsen+ Partner PTE. Ltd. (Struck off w.e.f . November 28, 2025 )
+LTIMindtree (Thailand) Limited
+LTIMindtree USA Inc.
+LTIMindtree UK Lim ited
+LTIM in dtre e Middle East FZ - LLC
+LTIM indtree Consu ltinq Brazil Ltda.
+LTIM Aramco Digital Solutions for Information Technology Company (w.e.f. July 16, 2025)
+
+C
+1
+
+Joint Venture
+LTIM Aramco Digital Solutions for Information Technolog y Company (Till Ju ly 15 2025)
+
+B
+
+
+@ LT/Mindtree
+LTI M indt ree um·1ted
+Registered office : L& T House, Ballard Estate, M umbai - 400 001
+CIN : L72900MH1996PLC104693
+St atemen t o f Conso lidat ed Financ ial Resu lt s for th e qua rter and nine months en ded Dece m ber 3 1, 2025
+t in m illion, except per share data
+Nine months ended
+Year ended
+
+Quarter ended
+
+SI.
+No
+
+1
+
+Particul ars
+
+Other income
+
+Total income
+Expenses
+a) Employee benefits expense
+b) Sub-contracting expenses
+c) Finance costs
+d} Depreciation and amort1zat1on expense
+e) Oth er expen:ies
+
+3
+4
+
+September 30,
+
+December 31,
+
+December 31,
+
+December 31,
+
+2025
+
+2025
+
+2024
+
+2025
+
+2024
+
+March 31,
+
+2025
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaud·,ted)
+
+(Unaudited)
+
+(Unaudited)
+
+(Aud ited)
+
+Income
+
+Revenue from operations
+
+2
+
+December 31,
+
+Tot al expenses
+Profit before tax and exceptiona l items (1-2)
+
+107,810
+2,272
+110,082
+
+103,943
+3,004
+106,947
+
+96,609
+2,125
+98,734
+
+310,1S9
+9,197
+319,356
+
+282 ,364
+7,385
+289,749
+
+380,081
+9 .897
+389,978
+
+65,492
+8,733
+693
+2,656
+13,558
+91, 132
+18,950
+
+54.676
+8,049
+693
+2,820
+11,917
+88,155
+18,792
+
+62,549
+6,898
+689
+2,644
+11,229
+84,009
+14,725
+
+193,973
+23,036
+2,110
+7,905
+37,328
+264,352
+55,004
+
+181,550
+20,234
+2,11 6
+7,407
+31,583
+242,900
+46,849
+
+246.226
+26,312
+2,789
+9,915
+42 ,594
+327,836
+62,142
+
+Exce ptiona l items
+Im pact of new l abour Code (Refe r note 3)
+
+5,903
+
+5
+
+Profit before tax (3 -4)
+
+13,047
+
+18,792
+
+14,725
+
+49,101
+
+46,849
+
+62,142
+
+6
+
+Tax expense
+a) Current tax
+
+3,656
+!205)
+3,451
+9,596
+
+5,150
+(170)
+4,980
+13,812
+
+3,695
+163
+3,858
+10,867
+
+13,411
+(264)
+13,147
+35,954
+
+12,057
+58
+12,115
+34,734
+
+15,784
+338
+16,122
+46,020
+
+168
+(586)
+(418)
+9,178
+
+101
+(6,998)
+(6,897)
+6,915
+
+55
+(3,099)
+(3,044)
+7,823
+
+172
+(6,970)
+(6,798)
+29,156
+
+89
+(3,485)
+(3,396)
+31,338
+
+16
+1562)
+(546)
+45,474
+
+9,706
+(110)
+
+14,011
+(1 99 )
+
+10,854
+13
+
+36,258
+(304)
+
+34,702
+32
+
+45,987
+33
+
+9,287
+(109)
+
+7,096
+(181)
+
+7,819
+4
+
+29,438
+(282)
+
+31 ,302
+36
+
+45,434
+40
+
+296
+
+296
+
+296
+
+296
+
+296
+
+296
+226,819
+
+32.75
+32.71
+
+47 .28
+47.23
+
+36 .65
+36.59
+
+122.36
+122.21
+
+117.20
+116.97
+
+155.29
+155.00
+
+7
+8
+
+9
+
+b) Deferred tax
+Total tax expense
+Net profit after tax (5-6)
+Other comp rehe nsive income/( loss)
+a) Items th at w ill not be re cl ass,f1ed to profit or loss (net of ta x)
+b) Items that will be recla ss1f1ed to profit or loss (net of tax)
+Total othe r comprehensive income/(loss)
+Total compreh ensive income (7+8)
+Profit for th e peri od att ribu table to:
+Shareholders of the Company
+Non-controlli ng interes ts
+
+5,903
+
+Tot al comprehensive income attribut able to:
+Shareholde rs of the Compa ny
+Non-controlling interests
+
+10 Paid-up eq wty sha re capita l
+(Face value : I 1 per share)
+11 Other equity (Including Non-controlli ng interests)
+12 Earnings per share (Refer not e 6) :
+a) BaSIC (in~)
+b) Diluted (1n ~)
+
+
+ConsoHdated Segment Information for the quarter and nine months ended December 31, 2025
+=( in million
+Quarter ended
+
+Particul,:irs
+
+Nine months ended
+
+Year ended
+
+Oece mber 31,
+
+September 30,
+
+December 31,
+
+De cemb er 31,
+
+December 31,
+
+March 31,
+
+2025
+
+2025
+
+2024
+
+(Un audited)
+
+{Unaudited)
+
+(Unaudited)
+
+202 5
+{Unaudited]
+
+202 4
+(Unaudited)
+
+(Au dited]
+
+2025
+
+Segment revenue
+
+Banking, Frnanc1al Servtces & Insurance
+
+37,837
+23,887
+
+37,628
+23,679
+
+35,308
+22,808
+
+111,809
+70,416
+
+101,076
+70,173
+
+137 318
+
+Te chnology, Med,a & Commun1cat1oos
+
+Manufact uring & Resou rces
+
+22,470
+
+20,265
+
+18,679
+
+62,039
+
+52,651
+
+7",137
+
+Consu m~r Busin ess
+
+16,625
+6,991
+
+16,199
+6,1 72
+
+13,734
+6,080
+
+47,216
+18,679
+
+40,71 5
+17,749
+
+54420
+
+107,810
+
+103,943
+
+96,609
+
+310,159
+
+282,364
+
+380,081
+
+Healthcare, Life Sciences & Pub,1e ServKes
+Revenue from op erations
+Segment results
+
+93 125
+
+23081
+
+Bankrng, Financial Services & Insurance
+
+7,239
+
+6,710
+
+5,275
+
+20,029
+
+15,863
+
+21 752
+
+Technology, Media & Commurnc at1ons
+
+4,514
+
+4,744
+
+4,682
+
+4,013
+3,195
+
+3,613
+3,481
+
+2 545
+2,458
+
+14,985
+7,745
+
+19694
+
+Manufacturing & Resources
+
+13,499
+10,507
+9,526
+
+7,389
+
+Consumer Buslness
+Healthcare, Life Sciences & Public Services
+Segment resu lts
+
+10.373
+9,768
+
+1,066
+
+753
+
+973
+
+2,261
+
+3,005
+
+3,362
+
+20,02 7
+
+19,301
+
+15,933
+
+55,822
+
+48,987
+
+64,949
+
+2,272
+
+3,004
+
+2,1 25
+
+9,197
+
+7,385
+
+9,897
+
+693
+
+693
+2,820
+
+689
+2,644
+
+2,110
+7,905
+5,903
+
+2,116
+7,407
+
+2.789
+9 915
+
+18,792
+
+14,725
+
+49, 101
+
+46,849
+
+62,1 42
+
+Add:
+Ot her income
+Less:
+
+Finance costs
+Depreci ation an.d amortization expen-se
+Exceptional items (Refer note 3}
+
+Profit befo re tax
+I.
+
+2,656
+5,903
+13,047
+
+Segments have been 1dent1f1ed 1n accordance WLth the Indian Accounting Standard {'lnd AS 'l 108 on Operatm g Segments, cons,dertng the m.k or return profiles of the business. As required under Ind
+
+AS 108, the Chief Operating Dec1s1on Maker evalu ateS the performance of and allocates resources to 5egments based on analysis of vanous performance indicators. Accordmg!y, mformat1on has been
+pr-esented for the Group's operating segments
+
+II.
+
+Other income and fmance costs relate to the Group as a whole and are not ident ifi able with/allocab le to segments.
+
+111.
+
+Assets and llabd1t1es used m the Group's business are not 1dent1f1ed to any of th e reportable segment as th ese are used rnterchangeab ly.
+
+
+Select explanatory notes t o the Statement of Unaud ited Consolidated Fi nancia l Res ults for t he quarte r and nine months ended De cember 31, 2025
+1. The consolidated financial results of LTIMindtree Limited ('the Company') for the quarter and nine months ended December 31, 2025 have been sub1ected to limited review
+by the statutory auditors. The results have been reviewed by the Audit Committee of the Board and approved by the Board of Directors at its meeting held on January 19.
+2026.
+2.
+
+Res ults for the quarter and nine months end ed December 31. 2025 are in compliance with the Indian Accounting Standards (Ind AS) notified by the Ministry of Corporate
+Affa irs as prescribed under section 133 of the Co mpanies Act, 2013.
+
+3.
+
+Effect ive November 21, 2025, the Government of India consolidated 29 existing labour regulations into four Labour codes, namely, The Code on Wages, 2019, The Industrial
+Rela tions Code, 2020, The Code on Socia l Secu(1ty, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, collectively referred to as the 'N ew Labour
+Codes'. Based on the requirements of New Labour Codes and relevant Accounting Standards, lhe Grou p has estimated the liability for employee benefits, which has resulted
+rn an incremental expense, on account of recognition of pa st se rvice costs. Considering the mate ria l, one-frme nature of the inc rementa l amount, the Group has presented
+the same as an 'Exceptional Item' in the consol idated statement of profit and loss for the quarter and nine months ended December 31, 2025 amounting to~ 5,903 million .
+Upon notifica tion of the related Rules to the New Labor Codes by the Government and any further clarification from the Government on other aspects of the New Labour
+Codes, the Group will evaluate and account for differen tial impact, ·1f any, in subsequent pe(1ods.
+
+4. The standa lone financial results are availab le on the Company's website v·1z www.ltimindtree.com, on the websites of BSE (www.bseindia.com) and NSE (www.nseindia .com).
+Th e specified items of the standalone financial results of the Company for t he quarter and nine months ended December 31, 2025 are given below:
+~ in mil lion
+
+Quarter en ded
+Pa rticulars
+
+Tota l income
+Profit before tax
+Profit after tax
+
+Ni ne m on t hs ended
+
+Yea r end ed
+
+Decem ber 31,
+
+Se pte mber 30,
+
+Dece mber 31,
+
+Dece mber 31,
+
+Dece mbe r 31,
+
+2025
+
+2025
+
+2024
+
+2025
+
+2024
+
+Ma rch 31,
+2025
+
+(Unau dited )
+105,470
+12,489
+9,286
+
+(Unaudited)
+102,548
+18,545
+13,860
+
+(Una udi ted]
+95,032
+13,989
+10,415
+
+(Unaudited )
+307,016
+48,557
+36,1 20
+
+(U naudited)
+280,061
+45,171
+33,679
+
+(Au dited)
+376,563
+59,687
+44,465
+
+5. The Board of Directors at its meeting held on October 16, 2025 had declared an interim dividend of { 22/- per equity share of pa r value { 1/- each. The aforesaid dividend was
+paid during the period.
+
+6. Earnings per share for the interim periods are not annua lised.
+7. Figures fo r the earlier period(s) have been regrouped, wherever necessary.
+For LTIM indt ree Limited
+
+~\\c__,,
+Mumbai, India
+
+Venugopal Lambu
+
+January 19, 2026
+
+Chief Executive Officer & Managing Di rector
+
+
+Deloitte
+Haskins & Sells
+Chartered Accountants LLP
+
+Chartered Accountants
+19th floor, Shapath V
+S.G . Highway
+Ahmedabad-380 015
+Gujarat, India
+Tel: +91 796 682 7300
+Fax: +91 796 682 7400
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM STANDALONE FINANCIAL
+RESULTS
+TO THE BOARD OF DIRECTORS OF LTIMINDTREE LIMITED
+l.
+
+We have reviewed the accompanying Statement of Unaudited Standalone Fina ncial Results of
+LTIMindtree Limited ("the Company") for the quarter and nine months ended December 31, 2025 ("the
+Statement"), being submitted by the Company pursuant to the requi rement of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the Listing
+Regulations").
+
+2.
+
+This Statement, which is the responsibility of the Company's Management and approved by the Company's
+Board of Directors, has been prepared in accordance with the recogn ition and measurement principles laid
+down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under
+Section 133 of the Companies Act, 2013 read with re levant rules issued thereunder and other accoun t ing
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our
+responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our rev iew of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410 'Review of Interim Financial I nformation Performed by the Independent Au ditor of the Entity', issued
+by the Institute of Chartered Accountants of India (ICAI). A review of interim finan cial information consists
+of making inquiries, primarily of the Company's personnel responsible for financial and accounting matters,
+and applying analytical and other review procedures. A review is substantially less in scope than an aud it
+conducted in accordance with Standards on Audit ing specified under section 143( 10) of the Companies
+Act, 2013 and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion .
+
+4.
+
+Based on our review co nducted as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement, prepared in accordance with the recognition and
+measurement principles laid down in the aforesaid Indian Accounting St andard and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended, including the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+For DELOITTE HASKINS & SELLS
+CHARTERED ACCOUNTANTS LLP
+Chartered Accountants
+
+7d
+
+(F;cm's
+
+No. 117364W/W-100739)
+
+f
+
+Gurvinder Singh
+Partner
+(Membership No. 110128)
+(UD I N:26110128DAHKVD1217)
+
+Place:
+Date:
+
+Mumbai
+January 19, 2026
+
+Regd. Office : 19th floor, Shapath-V, S.G. Highway, Ahmedabad-380 015, Gujarat, India.
+Deloitte Haskins & Sells. (FRN .117364W), a Partnership Firm, was converted int o Deloitte Haskins & Sells Chartered Accountants LLP
+(LLP Identification No. AAX- 2454), a limited liability partnership, with effect from 2 June 2021
+
+
+8 LT/Mindtree
+LTIM indt ree Lim ited
+Registe red office: L& T House, Bal lard Estate, Mumbai - 400 001
+CIN: L72900 M H1995P LC104693
+Statement of Standa lone Fi nancia l Results for t he quarter and nine months ended December 31, 2025
+
+t in million except per share data
+Quarter ended
+SI.
+Particu lars
+No
+
+December 31,
+2025
+(Unaudited)
+
+September 30,
+2025
+(Unaud ited)
+
+Nine months ended
+December 31,
+2024
+(Unaudited)
+
+December 31,
+2025
+(Unaudited)
+
+Year ended
+
+December 31,
+2024
+(Unaudited)
+
+March 31,
+2025
+(Audited)
+
+1 Income
+Revenue fro m operations
+
+Other income
+Total income
+2 Expenses
+a I Employee benefits expense
+b) Sub-contra cting expenses
+c) Finance costs
+d) Depreciation and amo rtizati on expense
+e) Other expenses
+Total expenses
+3 Profi t before tax and exceptiona l items (1-2)
+4 Exceptional items
+Impact of new Labour Codes (Refer note 4)
+5 Profit before t ax (3-4)
+6 Tax expense
+a) Current ta x
+b) De ferred tax
+Tota I tax expense
+7 Net profit after tax (5-6)
+8 Other comprehensive income/(loss)
+a) Item s that will not be reclassified to profit or loss (net of tax)
+b) Items chat will be reclassified to profit or loss (net of tax)
+Total other comprehensive income/( loss)
+9 Total compre hensive income (7+8)
+10 Paid up equity share capita l
+(Face va lue: t l pe r share)
+11 Othe r equity
+12 Earnings per share (Refer note 5):
+a) Basic (in t)
+b) Diluted (in t )
+
+103,126
+2,344
+105,470
+59,428
+11, 188
+664
+
+99,666
+2, 882
+102,548
+58,632
+10,742
+654
+2,494
+
+92,864
+2, 168
+95,032
+
+297,003
+10,013
+307,016
+
+272,594
+7,467
+280,061
+
+57,3 88
+
+176,046
+
+166,698
+
+9,208
+671
+
+30,527
+2,026
+7,244
+
+27,363
+2,049
+6,756
+
+366,825
+9,738
+376,563
+225,961
+36,271
+2,707
+
+2,493
+13,305
+87,078
+18,392
+
+11,481
+84,003
+18,545
+
+2, 424
+11,352
+81,043
+13,989
+
+36,713
+252,556
+54,460
+
+32,024
+234,890
+45,171
+
+316,876
+59,687
+
+5,903
+12,489
+
+18,545
+
+13,989
+
+5,903
+48,557
+
+45,171
+
+59,687
+
+3,502
+(299)
+3,203
+9,286
+
+4,90 1
+(2 16)
+4,685
+13,860
+
+3,493
+81
+3,574
+10,415
+
+36,120
+
+11.513
+(21)
+11,492
+33,679
+
+15,057
+165
+15,222
+44,465
+
+168
+(1,013)
+(845)
+
+101
+(7,212)
+(7,111)
+
+55
+(2,590)
+(2,535)
+
+172
+(8,419)
+(8,247)
+
+89
+(3,216)
+(3,127)
+
+16
+(502)
+(486)
+
+8,441
+
+6,749
+
+7,880
+
+27,873
+
+30,552
+
+43,979
+
+296
+
+296
+
+296
+
+296
+
+296
+
+296
+218,045
+
+31.33
+31 .30
+
+46.77
+
+35.17
+35. 11
+
+121.89
+121.74
+
+113.74
+
+46.72
+
+150.15
+149.87
+
+12,858
+(421)
+12,437
+
+113.53
+
+9,043
+42,894
+
+
+Select explanat ory notes to the St at ement of Una udited Standalone Financial Results for the quarter and nine mont hs ended December 31, 2025
+1.
+
+The standalone financial results of LTIMindtree Limited ('the Company') for the quarter and nine months ended December 31, 2025 have been subjected to limited
+review by the statutory auditors. The results have been reviewed by the Audit Committee of the Board and approved by the Board of Directors at its meeting held on
+January 19, 2026.
+
+2.
+
+Results for the quarter and nine months ended December 31, 2025 are in compliance with the Indian Accounting Standards (Ind AS) notified by the Ministry of
+Corporate Affairs as prescribed under section 133 of the Companies Act, 2013.
+
+3
+
+The Board of Directors at its meeting held on October 16, 2025 had declared an interim dividend of~ 22/- per equity share of par value { 1/- each. The aforesaid
+dividend was paid during the period.
+
+4.
+
+Effective November 21, 2025, the Government of India consolidated 29 existing labour regulations into four Labour codes, namely, The Code on Wages, 2019, The
+Industrial Relations Code, 2020, The Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, collectively referred to as
+the 'New Labour Codes'. Based on the requirements of New Labour Codes and relevant Accounting Standards, the Company has estimated the liability for employee
+benefits, which has resulted in an incremental expense on account of recognition of past service costs. Considering the material, one-time nature of the incremental
+amount, the Company has presented the same as an 'Exceptional Item' in the standalone statement of profit and loss for the quarter and nine months ended
+December 31, 2025 amounting to ( 5,903 million. Upon notification of the related Rules to the New Labor Codes by the Government and any further clarification from
+the Government on other aspects of the New Labour Codes, the Company will evaluate and account for differential impact, if any, in subsequent periods.
+
+5.
+
+Earnings per share for the interim periods are not annualised.
+
+6.
+
+In accordance with Ind AS 108 'Operating Segment', the Company has disclosed Segment information on consolidated basis for the quarter and nine months ended
+Decem ber 31, 2025 which is avai lable as part of the unaudited consolidated financial results of the Company on its website {www ltimindtree.com), on the websites of
+BSE (www.bseindia.com) and NSE {www.nseindia.com).
+
+7.
+
+Figures for the earlier period(s) have been regrouped, wherever necessary.
+
+v : :M;"d<,e~
+
+Mumbai, India
+January 19, 2026
+
+- ''""'"~
+
+\~
+
+Chief Executive Officer & Managing Director
+
+
+8 LT/Mindtree
+Earnings Release & Fact Sheet
+Third Quarter, Fiscal 2026
+
+January 19, 2026
+
+
+{fiJ LT/Mindtree
+Contents
+Press Release .......................................................................................... 3
+Key Metrics ............................................................................................ 8
+Financial Statements ................................................................................ 11
+Contact Information ................................ ................................ ................................ ......... 15
+
+Safe Harbour
+Certain statements in this release concerning the future prospects are forward-looking
+statements. These statements, by their nature, involve risks and uncertainties that could cause
+the actual results to differ materially from such forward-looking statements. The Company
+assumes no obligation to revise or update any forward-looking statements that may be made from
+time to time by or on behalf of the Company.
+The deal wins and recognitions section in this release includes relevant disclosures between our
+last earnings release and this release.
+
+22I| Page
+Page
+
+
+e
+
+LT/Mindtree
+LTIMindtree Delivers Solid Q3 Performance Driven by Strategic AI Pivot and
+Strong Deal Momentum
+Operating EBIT margin expands by 230 bps YoY to 16.1%
+Adjusted PAT up 29% YoY
+
+Mumbai, January 19, 2026: LTIMindtree [NSE: LTIM, BSE: 540005], a global technology consulting
+and digital solutions company, announced its consolidated results today for the third quarter
+ended December 31, 2025, as approved by its Board of Directors.
+“Our strong Q3FY26 performance reflects the impact of our strategic AI pivot, continued success
+in large deals, and operational excellence, supported by our proactive efforts to build a more
+resilient and balanced portfolio. This marks our third consecutive quarter of 2%+ growth,
+highlighting our disciplined execution, deep tech-domain expertise, and differentiated AI-led
+offerings. As we look forward, we remain focused on driving profitable growth and delivering
+tangible outcomes for our clients.”
+-
+
+Venu Lambu, Chief Executive Officer and Managing Director
+
+Key financial highlights:
+Quarter ended December 31, 2025
+•
+
+•
+
+In USD:
+-
+
+Revenue at $1,208 million (+2.4% Q-o-Q / +6.1% Y-o-Y)
+
+-
+
+Revenue in constant currency (+2.4% Q-o-Q / +5.2% Y-o-Y)
+
+-
+
+Operating margin (EBIT)* at 16.1%, expands by 20 bps Q-o-Q
+
+-
+
+Net profit* at $157.0 million (0.1% Q-o-Q / 22.6% Y-o-Y)
+
+In INR:
+-
+
+Revenue at ₹1,07,810 million (+3.7% Q-o-Q / +11.6% Y-o-Y)
+
+-
+
+Operating EBIT* at ₹17,371 million (+5.4% Q-o-Q / +30.7% Y-o-Y)
+
+-
+
+Net profit* at ₹14,013 million (1.5% Q-o-Q / +29.0% Y-o-Y)
+
+*Excludes the one-time impact of New Labour Codes: ₹ 5,903 Million ($66 Million) at EBIT and
+₹4,418 Million ($49.5 Million) at Net Profit level
+
+33I| Page
+Page
+
+
+e
+
+LT/Mindtree
+
+Other highlights:
+Clients:
+-
+
+746 active clients as of December 31, 2025
+
+-
+
+$5 million+ clients increased by 10 on a Y-o-Y basis, total 162
+
+-
+
+$10 million+ clients increased by 7 on a Y-o-Y basis, total 97
+
+-
+
+$20 million+ clients increased by 8 on a Y-o-Y basis, total 47
+
+-
+
+87,958 professionals as of December 31, 2025. Added 1,511 employees in Q3.
+
+-
+
+Trailing 12-month attrition was 13.8%
+
+-
+
+Utilization (ex-trainees) at 86.9%
+
+People:
+
+4I
+4 | Page
+Page
+
+
+{fiJ LT/Mindtree
+Deal Wins
+•
+
+LTIMindtree has been selected as a strategic partner by a leading U.S. insurance and
+financial services company for a multi-year engagement covering application
+management, infrastructure operations, and end-user services, driven by an AI-led
+delivery model. This is a $ 155 million Total Contract Value (TCV) for a 5-year term.
+
+•
+
+LTIMindtree has been selected by a leading manufacturer to consolidate its technology
+landscape
+
+with
+
+a
+
+multi-year
+
+agreement
+
+that
+
+spans
+
+applications,
+
+cloud,
+
+infrastructure, cybersecurity, data, and AI services.
+•
+
+LTIMindtree has been selected by a global financial institution to deliver end-to-end
+technology and consulting services across all its lines of business, positioning us as one
+of their five major service partners.
+
+•
+
+LTIMindtree has partnered with a global technology company to deploy AI solutions
+that enable a safe and secure customer experience across one of the world’s largest
+planet-scale app ecosystems.
+
+•
+
+LTIMindtree has been selected as a transformation partner by a UK-headquartered food
+and beverage company. As part of this engagement, we will leverage our AI capabilities
+to simplify infrastructure and application complexities, manage operational risks, and
+drive business efficiencies.
+
+Partnerships
+•
+
+LTIMindtree received two prestigious honors at AWS re:Invent 2025 — Global Winner
+for Application Modernization Consulting Partner of the Year and North America Region
+Winner: Industry Partner of the Year – Travel & Hospitality.
+
+•
+
+LTIMindtree won the 2025 Salesforce Partner Innovation Award for Manufacturing,
+recognizing our industry expertise and commitment to driving growth through
+innovation and agility.
+
+•
+
+LTIMindtree was recognized with the Cisco CX Visionary Workplace Award for rapidly
+modernizing our infrastructure, a testament to the strategic 360° relationship.
+
+•
+
+LTIMindtree was named Rubrik’s Top Emerging Partner in Data Resiliency, reflecting
+our strong partnership and shared commitment to safeguarding digital ecosystems
+through innovation.
+
+•
+
+LTIMindtree expanded its global collaboration with Microsoft to accelerate Azure
+adoption and drive AI-powered business transformation. This milestone reinforces our
+
+P age
+5SI| Page
+
+
+{fiJ LT/Mindtree
+360° partnership, helping enterprises move from pilots to productivity and unlock
+innovation, resilience, and growth at scale.
+
+Recognitions
+•
+
+LTIMindtree recognized as a Leader & Star Performer in Everest Group’s Banking IT
+Services PEAK Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as a Leader in Everest Group’s Payment IT Services PEAK
+Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as a Leader in Everest Group’s Talent Readiness for Next
+Generation Data, Analytics and AI Services PEAK Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as a Leader in Everest Group’s Enterprise Quality Engineering
+Services PEAK Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as a Leader in Everest Group’s Property & Casualty Insurance
+IT Services PEAK Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as a Leader in ISG’s Provider Lens™ Enterprise Service
+Management (ESM) Services and Solutions 2025 across all 3 quadrants for the U.S.
+region.
+
+•
+
+LTIMindtree recognized as a Major Contender in Everest Group’s Artificial Intelligence
+(AI) and Generative AI Services PEAK Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as a Major Contender in Everest Group’s Cloud Security
+Services PEAK Matrix® Assessment 2025.
+
+•
+
+LTIMindtree recognized as an Enterprise Innovator in HFS Horizons’ Travel and
+Hospitality Service Providers Ecosystem 2025.
+
+•
+
+LTIMindtree recognized in Forrester’s ‘Salesforce Consulting Services Landscape, Q4
+2025’ report.
+
+•
+
+LTIMindtree recognized as a Leader in Avasant’s Intelligent IT Ops Services 2025-2026
+RadarView™.
+
+•
+
+LTIMindtree recognized as an Innovator in Avasant’s Generative AI Services 2025
+RadarView™.
+
+66I| Page
+Page
+
+

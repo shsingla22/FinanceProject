@@ -370,14 +370,14 @@ def judge_seat(c: dict, start: str, end: str, allow_ai: bool = True, runner=None
     if not docs and not calls and not c["seat"].get("roster"):
         return {"status": "no documents"}
     prompt = seat_prompt(c, docs, calls, start, end)
-    return J.ask(f"{c['symbol']}::seat", J.stamp_of(prompt, KMP_PROMPT_VERSION), prompt, allow_ai, runner)
+    return J.ask(f"{c['symbol']}::seat", J.stamp_of(prompt, KMP_PROMPT_VERSION), prompt, allow_ai, runner, require=("changes",))
 
 
 def judge_own(c: dict, start: str, end: str, allow_ai: bool = True, runner=None) -> dict:
     docs = docs_text(c["own"]["filings"])
     calls = calls_block(c["own"]["calls"])
     prompt = own_prompt(c, docs, calls, start, end)
-    return J.ask(f"{c['symbol']}::own", J.stamp_of(prompt, OWN_PROMPT_VERSION), prompt, allow_ai, runner)
+    return J.ask(f"{c['symbol']}::own", J.stamp_of(prompt, OWN_PROMPT_VERSION), prompt, allow_ai, runner, require=("verdict",))
 
 
 # -------------------------------------------------------------- checking
@@ -392,6 +392,11 @@ def name_in(name: str, haystack_flat: str) -> bool:
     words = [w for w in M.norm_name(name).split() if w]
     if not words:
         return False
+    if len(words) >= 2 and len(words[0] + words[-1]) >= 7:
+        # a PDF whose words run together ('Mr.MonuRatra,whowas…'): the name is there without its spaces
+        dense = haystack_flat.replace(" ", "")
+        if "".join(words) in dense or (words[0] + words[-1]) in dense:
+            return True
     if len(words) == 1:
         return f" {words[0]} " in f" {haystack_flat} "
     first, last = words[0], words[-1]
@@ -410,7 +415,11 @@ def quote_in(quote: str, haystack_flat: str) -> bool:
     if len(q) < 4:
         return False
     n = min(8, len(q))
-    return any(" ".join(q[i:i + n]) in haystack_flat for i in range(0, len(q) - n + 1))
+    if any(" ".join(q[i:i + n]) in haystack_flat for i in range(0, len(q) - n + 1)):
+        return True
+    # the same run with the spaces out: line breaks inside words, or a PDF with no spaces at all
+    dense, qd = haystack_flat.replace(" ", ""), "".join(q)
+    return len(qd) >= 30 and any(qd[i:i + 36] in dense for i in range(0, max(1, len(qd) - 36 + 1), 6))
 
 
 CHIEF_SEATS = ("CEO", "MD", "CMD", "EXECUTIVE CHAIRMAN", "MANAGING", "CHIEF EXECUTIVE", "MANAGER")
@@ -464,22 +473,44 @@ def settle_seat(c: dict, res: dict, start: str, end: str) -> list[dict]:
             continue
         dates = [d for d in (_date(row["announced_on"]), _date(o.get("last_day")), _date(i.get("effective"))) if d]
         when = _date(row["announced_on"]) or (min(dates) if dates else None)
+        src = sources_for([oname, iname], c["seat"]["filings"], when.isoformat() if when else "")
+        if not dates and src:
+            # the judge gave no date: the earliest filing that names these people stands in, and says so
+            when = min(_date(s["date"]) for s in src)
+            dates = [when]
+            row["date_basis"] = "the date of the filing that names them"
+        if not dates:
+            # only the calls speak of it: the first call that names them stands in
+            said = sorted(h["date"] for h in c["seat"]["calls"] if h.get("date")
+                          and any(name_in(n, _flat(h["snippet"])) for n in (oname, iname) if n))
+            if said:
+                when = _date(said[0])
+                dates = [when]
+                row["date_basis"] = f"first mentioned on the call of {said[0][:7]}; the documents give no date"
         row["when"] = when.isoformat() if when else ""
-        latest = max(dates) if dates else None
-        if latest and latest < lo:
+        # the event itself — the day the new person took the seat, or the old one left — decides the window;
+        # a shareholders' vote months later on an appointment already in effect does not bring it back in
+        event = [d for d in (_date(o.get("last_day")), _date(i.get("effective"))) if d]
+        latest = max(event) if event else (max(dates) if dates else None)
+        if not dates:
+            row["dropped"] = "no date in the documents (the change may predate the window)"
+        elif latest and latest < lo:
             row["dropped"] = f"before the window ({latest.isoformat()})"
         elif when and when > hi:
             row["dropped"] = f"dated after the run ({when.isoformat()})"
         names_ok = all(name_in(n, hay) for n in (oname, iname) if n)
-        row["verified"] = bool(names_ok and quote_in(row["quote"], hay))
-        row["checks"] = {"names_in_documents": names_ok, "quote_in_documents": quote_in(row["quote"], hay)}
+        q_ok = quote_in(row["quote"], hay)
+        says = bool(M.APPOINT_RX.search(row["quote"]) or M.CEASE_RX.search(row["quote"])
+                    or re.search(r"\bnew\b|\bfirst\b|\bwelcome\b|\bcharge\b|\bvice\b|\bin place of\b", row["quote"], re.I))
+        row["verified"] = bool(names_ok and q_ok and says)
+        row["checks"] = {"names_in_documents": names_ok, "quote_in_documents": q_ok, "quote_states_a_change": says}
         if not names_ok and "dropped" not in row:
             row["dropped"] = "a name the judge gave is not in the documents"
         key = (row["group"], M.norm_name(oname), M.norm_name(iname))
         if key in seen:
             continue
         seen.add(key)
-        row["sources"] = sources_for([oname, iname], c["seat"]["filings"], row.get("when") or row["announced_on"])
+        row["sources"] = src
         out.append(row)
     return out
 
@@ -501,6 +532,8 @@ def _clean(x) -> str:
     s = re.sub(r"\s+", " ", str(x or "")).strip()
     return "" if s.lower() in ("not stated", "none", "n/a", "na", "null", "-", "—", "empty") else s
 
+
+STAKE_MIN = 2.0             # a stake change under the same controller is listed from two points of the capital
 
 OWN_KEEP = ("change_of_control", "control_change_in_progress", "stake_change_no_control_change", "within_promoter_family")
 OWN_LABEL = {"change_of_control": "Change of control — completed", "control_change_in_progress": "Change of control — in progress",
@@ -535,6 +568,14 @@ def settle_own(c: dict, res: dict) -> dict:
     n_ok = all(owner_in(n) for n in names)
     out["checks"] = {"names_in_record": n_ok, "quote_in_documents": q_ok}
     out["verified"] = bool(n_ok and q_ok is not False)
+    # how much of the capital the exchange's own registers show moving
+    mv, ss, dd = c["own"].get("shareholding") or {}, c["own"].get("sast") or {}, c["own"].get("deals") or {}
+    moved = max(abs(mv.get("change") or 0), abs(mv.get("max_step") or 0), ss.get("promoter_sold") or 0, ss.get("promoter_bought") or 0,
+                dd.get("top_seller_pct") or 0, dd.get("top_buyer_pct") or 0)
+    out["moved_pct"] = round(moved, 2)
+    if v == "stake_change_no_control_change" and moved < STAKE_MIN:
+        out["keep"] = False
+        out["label"] = f"Stake change under {STAKE_MIN:g} points, same controller"
     return out
 
 
@@ -837,7 +878,13 @@ def render_company(c: dict, verbatim: bool = True) -> list[str]:
                 A += [f"- In the documents: “{ch['quote']}”"
                       + (" — " + source_links(ch["sources"], 3) if ch.get("sources") else "")]
             if not ch.get("verified"):
-                A += ["  > ⚠ The quote could not be matched word for word to the documents — read the filing before relying on it."]
+                ck = ch.get("checks") or {}
+                why = ("the quote is in the documents but does not itself state an appointment or a departure"
+                       if ck.get("quote_in_documents") and not ck.get("quote_states_a_change")
+                       else "the quote could not be matched word for word to the documents")
+                A += [f"  > ⚠ Not fully verified — {why}. Read the filing before relying on it."]
+            if ch.get("date_basis"):
+                A += [f"  > Date: {ch['date_basis']}."]
         A += ["", f"*All {len(c['seat']['filings'])} filing(s) read for the seats:* " + source_links(c["seat"]["filings"]), ""]
 
     # 2 — financials
@@ -963,26 +1010,40 @@ def summary_tables(record: dict) -> list[str]:
     own = sorted([c for c in cos if (c.get("ownership") or {}).get("keep")],
                  key=lambda c: (list(OWN_KEEP).index(c["ownership"]["verdict"]), c["symbol"]))
     A += ["## List 1 — the promoters / owners changing", "",
-          f"{len(own)} companies. A change of control first (completed, then in progress), then large stake changes under the same "
-          f"controller, then moves inside the promoter family. Every row was read from the documents and the exchange's own registers.", "",
-          "| Company | What | Outgoing owner | Incoming owner | Promoter holding (register) | Mode | First shown | Sources |",
-          "|---|---|---|---|---|---|---|---|"]
-    for c in own:
-        o = c["ownership"]
-        mv = c["own"].get("shareholding") or {}
-        hold = f"{mv['base'][1]}% → {mv['latest'][1]}%" if mv.get("base") else "—"
-        A.append(f"| **{c['symbol']}** — {_short(c['company'], 34)} | **{o['label']}.** {_short(o['what_happened'], 170)} | "
-                 f"{_short(o['outgoing_owner'].get('name') or '—', 44)} | {_short(o['incoming_owner'].get('name') or '—', 44)} | {hold} | "
-                 f"{_cell(o.get('mode'))} | {_cell(o.get('announced_on'))} | {source_links(c['own']['filings'], 2) or 'exchange registers'} |")
+          f"{len(own)} companies, in three groups. Every row was read from the documents and the exchange's own registers.", ""]
+    groups = (("1a. Change of control", ("change_of_control", "control_change_in_progress"),
+               "A new promoter or controlling owner has arrived, or the old one has left — completed, or agreed and in progress."),
+              ("1b. Large stake change, same controller", ("stake_change_no_control_change",),
+               f"The promoters or a sponsor sold or bought {STAKE_MIN:g} points or more of the capital; the same people still control the company. "
+               "Promoter selling first, largest fall first; then promoter buying."),
+              ("1c. Inside the promoter family or group", ("within_promoter_family",),
+               "Control passed within the same family or group — a settlement, a generation handing over, a holding company restructured."))
+    for title, verdicts, note in groups:
+        rows = [c for c in own if c["ownership"]["verdict"] in verdicts]
+        if verdicts == ("stake_change_no_control_change",):
+            rows.sort(key=lambda c: ((c["own"].get("shareholding") or {}).get("change") or 0, c["symbol"]))
+        A += [f"### {title}", "", f"{len(rows)} companies. {note}", "",
+              "| Company | What | Outgoing / selling | Incoming / buying | Promoter holding (register) | Mode | First shown | Sources |",
+              "|---|---|---|---|---|---|---|---|"]
+        for c in rows:
+            o = c["ownership"]
+            mv = c["own"].get("shareholding") or {}
+            hold = f"{mv['base'][1]}% → {mv['latest'][1]}%" if mv.get("base") else "—"
+            lead = "**In progress.** " if o["verdict"] == "control_change_in_progress" else ""
+            A.append(f"| **{c['symbol']}** — {_short(c['company'], 34)} | {lead}{_short(o['what_happened'], 190)} | "
+                     f"{_short(o['outgoing_owner'].get('name') or '—', 44)} | {_short(o['incoming_owner'].get('name') or '—', 44)} | {hold} | "
+                     f"{_cell(o.get('mode'))} | {_cell(o.get('announced_on'))} | {source_links(c['own']['filings'], 2) or 'exchange registers'} |")
+        A += [""]
     for group, title in (("CEO/MD", "List 2 — the chief executive changing (CEO / MD / CMD / Executive Chairman)"), ("CFO", "List 3 — the CFO changing")):
         rows = [(c, ch) for c in cos for ch in c.get("seat_changes", []) if not ch.get("dropped") and ch["group"] == group]
         rows.sort(key=lambda x: (x[1].get("when") or x[1].get("announced_on") or "", x[0]["symbol"]), reverse=True)
-        A += ["", f"## {title}", "", f"{len(rows)} changes at {len({c['symbol'] for c, _ in rows})} companies, newest first.", "",
+        A += [f"## {title}", "", f"{len(rows)} changes at {len({c['symbol'] for c, _ in rows})} companies, newest first.", "",
               "| Company | Seat | Outgoing | Incoming | Status | First said on | Sources |", "|---|---|---|---|---|---|---|"]
         for c, ch in rows:
             d, o_, i_, st = seat_line(ch)
             A.append(f"| **{c['symbol']}** — {_short(c['company'], 34)} | {_short(d, 46)} | {_short(o_, 90)} | {_short(i_, 90)} | "
                      f"{_short(st, 34)} | {_cell(ch.get('announced_on'))} | {source_links(ch.get('sources') or c['seat']['filings'], 2)} |")
+        A += [""]
     return A
 
 

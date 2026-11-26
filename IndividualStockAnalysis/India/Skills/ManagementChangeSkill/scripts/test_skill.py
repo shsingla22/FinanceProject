@@ -435,3 +435,91 @@ def test_the_fetcher_reads_dates_zips_and_the_register(monkeypatch):
     rows = sorted(MF.shareholding_of("VEDL"), key=lambda r: r["as_of"])
     assert [(r["as_of"], r["promoter_pct"]) for r in rows] == [("2026-06-30", "56.38"), ("2026-09-30", "54.72")]   # the later filing of a quarter wins
     assert rows[1]["notes"] == "a note"
+
+
+# ------------------------------------------------- found by the evaluation of the first full run
+
+def test_a_pdf_whose_words_run_together_still_verifies(tmp_path):
+    """Capri Global's CEO resignation: the PDF's text has no spaces at all.
+    The judge read it; the name-and-quote check must not then drop it."""
+    c = _cand(tmp_path, {"2026-01-19": "weherebyinformthatMr.MonuRatra,whowasappointedastheChiefExecutiveOfficer(‘CEO’)oftheCompany,hastenderedhisresignation."
+                                       "HisresignationasCEO(KMP)iseffectivefromJanuary19,2026andhislastworkingdaywillbeatthecloseofbusinesshoursonJanuary31,2026."})
+    res = {"status": "judged", "changes": [{"seat": "CEO", "is_change": True, "outgoing": {"name": "Monu Ratra", "last_day": "2026-01-31", "reason": "resignation"},
+                                            "incoming": {"name": ""}, "status": "seat vacant — no successor named", "announced_on": "2026-01-19",
+                                            "quote": "His resignation as CEO (KMP) is effective from January 19, 2026 and his last working day will be at the close of business hours on January 31, 2026."}]}
+    out = AZ.settle_seat(c, res, "2025-11-26", "2026-11-26")
+    assert not out[0].get("dropped") and out[0]["verified"]
+    assert not AZ.name_in("Zed Qux", AZ._flat("weherebyinformthatMr.MonuRatra")) and not AZ.quote_in("a quote that is nowhere in the text at all today", AZ._flat("x y z"))
+    assert MF.space_ratio("ChiefExecutiveOfficerresigned") < MF.LOW_SPACE < MF.space_ratio("the Chief Executive Officer resigned today")
+
+
+def test_an_inner_object_is_not_the_judges_answer(tmp_path, monkeypatch):
+    """GMDC's new MD: the model's JSON was broken at the top and the first
+    object that parsed was the inner 'incoming' block. That is a malformed
+    answer — asked again — never an answer with no changes."""
+    monkeypatch.setattr(J, "CACHE", tmp_path / "cache.json")
+    monkeypatch.setattr(J, "_MEM", None)
+    calls = []
+    def runner(q):
+        calls.append(q)
+        if len(calls) == 1:
+            return '{"changes": [{"seat": "MD", "quote": "an "unescaped" quote", "incoming": {"name": "Ajay Bhadoo", "effective": "2026-09-29"}}]}'
+        return '{"changes": [{"seat": "MD", "incoming": {"name": "Ajay Bhadoo"}}], "read": ""}'
+    a = J.ask("G::seat", "s", "p", runner=runner, require=("changes",))
+    assert len(calls) == 2 and a["changes"][0]["incoming"]["name"] == "Ajay Bhadoo"
+    # an answer cached before the rule, without the key, is not served
+    J._cache()["H::seat"] = {"stamp": "s", "answer": {"name": "inner"}}
+    assert J.ask("H::seat", "s", "p", allow_ai=False, require=("changes",))["status"] == "not assessed"
+    assert J.ask("I::seat", "s", "p", runner=lambda q: '{"name": "inner only"}', require=("changes",))["status"].startswith("judge failed")
+
+
+def test_a_change_with_no_date_takes_the_filings_date_or_is_dropped(tmp_path):
+    c = _cand(tmp_path, {"2026-09-01": "Speaking on the new brand, Mr. Tejas Mehta, Chief Financial Officer, who succeeded Mr. Murthy Rao, said growth continues."})
+    res = {"status": "judged", "changes": [{"seat": "CFO", "is_change": True, "outgoing": {"name": "Murthy Rao"}, "incoming": {"name": "Tejas Mehta"},
+                                            "announced_on": "", "quote": "Mr. Tejas Mehta, Chief Financial Officer, who succeeded Mr. Murthy Rao"}]}
+    out = AZ.settle_seat(c, res, "2025-11-26", "2026-11-26")
+    assert out[0]["when"] == "2026-09-01" and out[0]["date_basis"].startswith("the date of the filing") and not out[0].get("dropped")
+    c["seat"]["filings"], c["seat"]["calls"] = [], [{"snippet": "Tejas Mehta has succeeded Murthy Rao as CFO", "call": "May 2026"}]
+    out = AZ.settle_seat(c, res, "2025-11-26", "2026-11-26")
+    assert out[0]["dropped"].startswith("no date in the documents")
+
+
+def test_roster_names_broken_by_the_pdf_are_one_person():
+    assert M.same_person("she nu agarwal", "shenu agarwal") and M.same_person("kishor patil", "kishore patil")
+    assert M.same_person("rajesh vishwanathan", "rajesh viswanathan") and not M.same_person("kapil sharma", "mayank sharma")
+    assert EV.seat_of_headline("Appointment of interim Chief Financial Officer and Key Managerial Personnel; signed by the Managing Director") == "CFO"
+    assert EV.seat_of_headline("Appointment of Mr X as Deputy Managing Director") == "" and EV.seat_of_headline("Cessation of Mr Y as Chief Executive Officer Consumer Business") == ""
+
+
+def test_the_event_decides_the_window_not_a_later_vote(tmp_path):
+    """A shareholders' vote inside the window on an appointment that took
+    effect before it does not make it this year's change; an appointment
+    announced now for next year does count."""
+    c = _cand(tmp_path, {"2025-12-10": "Postal ballot: appointment of Mr. Shailesh Chandra as Managing Director and Chief Executive Officer with effect from October 1, 2025. "
+                                       "The Board also approved the appointment of Mr. Sanjay Banga as CEO and Managing Director with effect from May 1, 2027."})
+    res = {"status": "judged", "changes": [
+        {"seat": "MD & CEO", "is_change": True, "outgoing": {"name": ""}, "incoming": {"name": "Shailesh Chandra", "effective": "2025-10-01"},
+         "announced_on": "2025-12-10", "quote": "appointment of Mr. Shailesh Chandra as Managing Director and Chief Executive Officer with effect from October 1, 2025"},
+        {"seat": "MD & CEO", "is_change": True, "outgoing": {"name": ""}, "incoming": {"name": "Sanjay Banga", "effective": "2027-05-01"},
+         "announced_on": "2025-12-10", "quote": "approved the appointment of Mr. Sanjay Banga as CEO and Managing Director with effect from May 1, 2027"}]}
+    out = {ch["incoming"]["name"]: ch for ch in AZ.settle_seat(c, res, "2025-11-26", "2026-11-26")}
+    assert out["Shailesh Chandra"]["dropped"] == "before the window (2025-10-01)" and not out["Sanjay Banga"].get("dropped")
+    # a quote that is only a signature line is in the documents but states no change: kept, flagged
+    c2 = _cand(tmp_path, {"2025-12-05": "Yours faithfully, Mr. Sunder Subramanian Joint Managing Director & Chief Financial Officer"})
+    r2 = {"status": "judged", "changes": [{"seat": "CFO", "is_change": True, "outgoing": {"name": ""}, "incoming": {"name": "Sunder Subramanian", "effective": "2025-12-05"},
+                                           "announced_on": "2025-12-05", "quote": "Mr. Sunder Subramanian Joint Managing Director & Chief Financial Officer"}]}
+    o2 = AZ.settle_seat(c2, r2, "2025-11-26", "2026-11-26")[0]
+    assert not o2["verified"] and o2["checks"] == {"names_in_documents": True, "quote_in_documents": True, "quote_states_a_change": False}
+
+
+def test_a_small_stake_change_is_not_listed(tmp_path):
+    c = _cand(tmp_path, {"2026-10-01": "Promoter group members of the Company sold about 0.51% of the capital."}, own=True)
+    res = {"status": "judged", "verdict": "stake_change_no_control_change", "what_happened": "Promoters sold 0.51%.",
+           "outgoing_owner": {"name": "Promoter group"}, "incoming_owner": {"name": ""}, "quote": ""}
+    c["own"]["shareholding"] = {"change": 0.07, "max_step": 0.3}
+    c["own"]["sast"] = {"promoter_sold": 0.51, "promoter_bought": 0}
+    small = AZ.settle_own(c, res)
+    assert not small["keep"] and small["moved_pct"] == 0.51 and "under 2 points" in small["label"]
+    c["own"]["sast"] = {"promoter_sold": 6.0, "promoter_bought": 0}
+    assert AZ.settle_own(c, res)["keep"]
+    assert AZ.settle_own(c, {**res, "verdict": "change_of_control"})["keep"]            # the floor is only for same-controller stake changes

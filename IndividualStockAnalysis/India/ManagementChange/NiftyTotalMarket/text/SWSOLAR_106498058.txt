@@ -1,0 +1,2018 @@
+STERLING & WILSON ~
+
+'()
+January 15, 2026
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza
+Bandra Kurla Complex
+Bandra (East), Mumbai – 400 051
+
+Scrip Code: 542760
+
+Symbol: SWSOLAR
+
+Dear Sir/ Ma’am,
+Sub.:
+
+Outcome of the Board Meeting of Sterling and Wilson Renewable Energy Limited (“the
+Company”) for the quarter and nine month ended December 31, 2025
+
+Ref.:
+
+Regulation 30 read with Part A of Schedule III of Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)
+
+Dear Sir/ Ma’am,
+Pursuant to the Listing Regulations, we wish to inform you that the Board of Directors of the Company
+at its meeting held today i.e., Thursday, January 15, 2026, inter alia considered and approved the
+following:
+1. Unaudited Standalone and Consolidated Financial results of the Company for the quarter and
+nine month ended December 31, 2025, along with the Limited Review Reports issued by the
+Statutory Auditors. The same is enclosed herewith.
+2. Appointment of Mr. Rajesh Mittal as the Senior Vice President – Information Technology
+(“IT”) and Senior Management Personnel (“SMP”) of the Company w.e.f January 20, 2026.
+Further, the details of disclosure as required under Regulation 30 of Listing Regulations read
+with SEBI Circular No. SEBI/HO/CFD/PoD2/ CIR/P/0155 dated 11th November 2024 is
+enclosed as Annexure - I.
+The Board meeting commenced at 10.01 a.m. and concluded at 12.15 p.m.
+Request you to take the same on record.
+Yours faithfully,
+For Sterling and Wilson Renewable Energy Limited
+Digitally signed by
+
+VENKATA
+VENKATA JAGANNADHA
+RAO CHUNDURU
+JAGANNADHA
+2026.01.15 12:27:34
+RAO CHUNDURU Date:
++05'30'
+
+Jagannadha Rao Ch. V.
+Company Secretary and Compliance Officer
+Encl.: As above
+
+Sterling and Wilson Renewable Energy Limited
+Regd. Office: Universal Majestic, 9th Floor, P. L. Lokhande Marg, Chembur (W), Mumbai - 400043
+Phone: (91-22) 25485300 | Fax: (91-22) 25485331 | CIN: L74999MH2017PLC292281
+Email: info@sterlingwilson.com | Website: www.sterlingandwilsonre.com
+
+
+STERLING & WILSON ~
+
+'()
+
+Annexure - I.
+
+Disclosure required pursuant to Regulation 30 of the SEBI Listing Regulations read with Para A
+of Schedule III read with the SEBI Master Circular no. SEBI/HO/CFD/PoD2 CIR/P/0155 dated
+11 November 2024:
+Sr No.
+1
+
+Particulars
+Name of employee
+
+Details
+Mr. Rajesh Mittal
+
+2
+
+Designation
+
+Senior Vice President – IT
+
+3
+
+Reason
+for
+change
+viz. Appointment
+appointment, re appointment,
+resignation, removal, death or
+otherwise
+
+4
+
+Date of appointment/ re Date of appointment: January 20, 2026
+appointment/cessation
+(as
+applicable)
+&
+term
+of Term of appointment is not applicable since he is in full time employment
+with the Company
+appointment/re-appointment
+
+5
+
+Brief Profile
+appointment)
+
+(in
+
+case
+
+of Mr. Rajesh Mittal holds an MBA from the Indian Institute of Management,
+Kozhikode, and a B.Tech. in Electronics and Telecommunications.
+He is an established IT leader with 25 years of experience in IT services,
+including technology planning, strategy, development and implementation,
+business transformation execution, and solution delivery. He has substantial
+experience in aligning the IT strategy and roadmap with the organization’s
+business and objectives. He has strong focus on cybersecurity, risk
+management, and maintaining robust IT governance standards.
+Mr. Rajesh Mittal’s technical expertise spans SAP S/4 HANA deployment,
+solutions architecture, AI-powered mobile applications, and advanced
+analytics platforms.
+Mr. Mittal has been the recipient of several prestigious industry
+recognitions, including the CIO500 Accelerator X Award 2024, CIO100
+Game Changer 2023, Hall of Fame 2019, four CIO100 Awards, and other
+excellence awards.
+
+6
+
+Disclosure
+of
+relationship Not Applicable
+between Directors (in case of
+appointment of a Director)
+
+Sterling and Wilson Renewable Energy Limited
+Regd. Office: Universal Majestic, 9th Floor, P. L. Lokhande Marg, Chembur (W), Mumbai - 400043
+Phone: (91-22) 25485300 | Fax: (91-22) 25485331 | CIN: L74999MH2017PLC292281
+Email: info@sterlingwilson.com | Website: www.sterlingandwilsonre.com
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+2nd Floor, Esplanade House,
+29, Hazarimal Somani Marg,
+Fort, Mumbai 400 001
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+One International Center
+Tower 3, 31st Floor,
+Senapati Bapat Marg,
+Elphinstone Road (West),
+Mumbai 400 013.
+
+REVIEW REPORT
+TO THE BOARD OF DIRECTORS OF
+STERLING AND WILSON RENEWABLE ENERGY LIMITED
+1.
+
+We have reviewed the accompanying Statement of Unaudited Standalone Financial
+Results of Sterling and Wilson Renewable Energy Limited (“the Company”) for the
+quarter and nine months ended 31 December 2025, together with the notes thereon
+attached herewith, in which are incorporated returns from branches in Australia,
+Argentina, Chile, Dubai, Egypt (2 branches), Greece, Jordan (2 branches), Kenya,
+Mexico, Namibia, United Kingdom, Vietnam (3 branches), Tanzania, Mali, Zambia,
+Saudi Arabia and Italy (the “Statement”). This Statement is being submitted by the
+Company pursuant to the requirement of Regulation 33 of the Securities Exchange
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+as amended, (“SEBI (LODR) Regulations, 2015”). Greece and Mexico branches of the
+Company do not have any transaction till date.
+
+2.
+
+This Statement, which is the responsibility of the Company’s Management, has been
+reviewed by the Audit Committee and approved by the Company’s Board of Directors
+at their respective meetings held on 14 January 2026 and 15 January 2026. The
+Statement has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 ‘Interim Financial Reporting
+(‘Ind AS 34’), prescribed under Section 133 of the Companies Act, 2013, (the “Act”)
+read with the relevant Rules issued thereunder, as applicable and other accounting
+principles generally accepted in India and in compliance with Regulation 33 of the
+SEBI (LODR) Regulations, 2015. Our responsibility is to express a conclusion on the
+Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410 “Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity”, issued by the Institute of Chartered Accountants of
+India. This Standard requires that we plan and perform the review to obtain moderate
+assurance as to whether the Statement is free of material misstatement. A review of
+interim financial information consists of making inquiries, of company personnel
+responsible for financial and accounting matters and applying analytical and other
+review procedures and thus provides less assurance than an audit. A review is
+substantially less in scope than an audit conducted in accordance with Standards on
+Auditing specified under section 143(10) of the Companies Act, 2013 and consequently
+does not enable us to obtain assurance that we would become aware of all significant
+matters that might be identified in an audit. Accordingly, we do not express an audit
+opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under
+Regulation 33(8) of the SEBI (LODR) Regulations, 2015, as amended, to the extent
+applicable.
+
+Page | 1
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+
+4.
+
+Based on our review conducted and procedures performed as stated in paragraph 3
+above and based on the consideration of the review reports of the branch auditors
+referred to in paragraph 6(i) below, nothing has come to our attention that causes us to
+believe that the accompanying Statement, prepared in accordance with the recognition
+and measurement principles laid down in the aforesaid Indian Accounting Standard and
+other accounting principles generally accepted in India, has not disclosed the
+information required to be disclosed in terms of Regulation 33 of the SEBI (LODR)
+Regulations, 2015, as amended, including the manner in which it is to be disclosed, or
+that it contains any material misstatement.
+
+5.
+
+Emphasis of Matters
+We draw attention to:
+i)
+Note 4 to the Statement which describes the Indemnity Agreement dated 29
+December 2021, entered into by the Company with Shapoorji Pallonji and
+Company Private Limited, Khurshed Yazdi Daruvala (jointly the “Promoter
+Selling Shareholders”) and Reliance New Energy Limited pursuant to which,
+the Promoter Selling Shareholders would indemnify and re-imburse the
+Company and its subsidiaries / branches for a net amount, on settlement of
+liquidated damages pertaining to certain identified past and existing projects (as
+on the date of signing the aforementioned agreement), old receivables, direct
+and indirect tax litigations as well as certain legal and regulatory matters, if such
+claims (net of receivables) exceeds ₹300.00 crore. Consequently, trade
+receivables from the customer undergoing a resolution process under the
+supervision of the National Company Law Tribunal (‘NCLT’) and bank
+guarantees related to liquidated damages encashed by certain customers would
+also be recoverable from the Promoter Selling Shareholders once crystallized,
+if not recovered from the customers. Since all future crystallized claims beyond
+₹300.00 crore will be fully charged back and recovered from the Promoter
+Selling Shareholders, there will be no further impact on the results of the
+Company.
+ii)
+
+Note 6 to the Statement which describes the write off and impairment of the
+Company’s investment in a wholly owned subsidiary, loans given along with
+accrued interest thereon and other receivables during the nine months ended 31
+December 2025. The impairment has been recognised during the period due to
+unfavourable outcome arising from the arbitration and uncertainty surrounding
+the projected cashflow of a contract of the wholly owned subsidiary. The said
+impairment has been presented as an exceptional item in the Statement.
+
+Our conclusion on the Statement is not modified in respect of the above matters.
+
+Page | 2
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+
+6.
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+
+Other Matters
+i)
+
+We did not review the interim financial information of 18 branches included in
+the Statement, whose interim financial information reflect total revenues (before
+consolidation adjustments) of ₹28.41 crore and ₹127.28 crore, total net loss after
+tax (before consolidation adjustments) of ₹8.31 crore and ₹26.77 crore, and total
+comprehensive loss (before consolidation adjustments) of ₹8.31 crore and
+₹26.77 crore for the quarter and nine months ended 31 December 2025,
+respectively, as considered in the Statement.
+The interim financial information of these branches has been reviewed by the
+branch auditors whose reports have been furnished to us by the Management,
+and our conclusion on the Statement, in so far as it relates to the amounts and
+disclosures included in respect of these branches, is based solely on the reports
+of branch auditors and the procedures performed by us as stated in paragraph 3
+above.
+
+ii)
+
+The branches referred to above are located outside India whose interim financial
+information has been prepared in accordance with the accounting principles
+generally accepted in their respective countries and which have been reviewed
+by the branch auditors under generally accepted auditing standards applicable
+in their respective countries. The Company’s Management has converted the
+interim financial information of such branches located outside India from the
+accounting principles generally accepted in their respective countries to the
+accounting principles generally accepted in India. We have reviewed these
+conversion adjustments made by the Company’s Management.
+Our conclusion in so far as it relates to the amounts and disclosures included in
+respect of these branches located outside India is based on the report of such
+branch auditors and the conversion adjustments prepared by the Management
+of the Company and reviewed by us.
+
+Our conclusion on the Statement is not modified in respect of the above matters.
+For KALYANIWALLA & MISTRY LLP
+CHARTERED ACCOUNTANTS
+Firm Regn. No.: 104607W / W100166
+
+For DELOITTE HASKINS & SELLS LLP
+CHARTERED ACCOUNTANTS
+Firm Regn. No.: 117366W-W-100018
+
+Jamshed
+Kekas
+Udwadia
+
+signed by
+KARTIKEYA Digitally
+KARTIKEYA
+RAVAL
+DHARMEN DHARMENDRA
+Date: 2026.01.15
+DRA RAVAL 12:18:52 +05'30'
+
+Digitally signed by Jamshed Kekas Udwadia
+DN: c=IN, o=Personal, title=5415,
+pseudonym=13331301020599643455yKKdv4
+ex01uD,
+2.5.4.20=dbe2553e6b4513a4879c05abe12ae
+d506e055b8937b956180aa473f42353e9c1,
+postalCode=400093, st=Maharashtra,
+serialNumber=c29a14ac12cfde9d0c83830cfb
+7de4e6c1f162c153bcf810688f03232abeeb8f,
+cn=Jamshed Kekas Udwadia
+Date: 2026.01.15 12:13:24 +05'30'
+
+Jamshed K. Udwadia
+PARTNER
+M. No.: 124658
+UDIN: 26124658LODADS9723
+Mumbai: 15 January 2026.
+
+Kartikeya Raval
+PARTNER
+M. No.: 106189
+UDIN: 26106189WAHJCD3578
+Ahmedabad: 15 January 2026.
+
+Page | 3
+
+
+STERLING & WILSON 6
+
+'O
+
+Sterling and Wilson Renewable Energy Limited
+CIN:L74999MH2017PLC292281
+
+Registered Office: 9th Floor, Universal Majestic, P. L. Lokhande Marg, Chembur West, Mumbai 400 043.
+
+Statement of Unaudited Standalone Financial Results for the Quarter and Nine Months Ended 31 December 2025
+
+Sr No.
+1
+
+2
+
+3
+4
+5
+6
+
+7
+8
+
+Particulars
+Income
+Revenue from operations
+Other income (net)
+Total Income
+Expenses
+Cost of construction materials, stores and spare parts
+Changes in inventories of stock in trade
+Direct project costs
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses
+Total Expenses
+Profit before exceptional items and tax (1 - 2)
+Exceptional items (refer note 6)
+Profit / (loss) before tax (3+ 4)
+Tax Expense
+- Current tax
+- Tax adjustments relating to earlier period / year
+- Deferred tax charge/(credit)
+Profit / (loss) for the period / year (5-6)
+Other comprehensive income / (loss) for the period / year
+Items that will not be reclassified to profit or loss
+- Remeasurements of defined benefit liability
+- Income-tax relating to items that will not be
+reclassified to profit or loss
+Items that will be reclassified to profit or loss
+- Effective portion of (losses) / gain on hedging
+instruments in cash flow hedges
+- Effective portion of gain / (losses) on hedging instruments
+in cash flow hedges reclassified to profit or loss
+- Exchange differences in translating financial
+statements of foreign operations
+
+9
+10
+11
+12
+
+Other comprehensive income / (loss) for the period / year (net of
+income-tax)
+Total comprehensive income / (loss) for the period / year (7+8)
+Paid-up equity share capital (face value ₹ 1/-)
+Other equity
+Earnings per equity share (EPS) (of ₹ 1 each )(not annualised)
+(a) Basic
+(b) Diluted (refer note 9)
+See accompanying Notes to Unaudited Standalone Financial Results
+
+For the quarter ended
+30-Sep-25
+(Unaudited)
+
+31-Dec-25
+(Unaudited)
+
+31-Dec-24
+(Unaudited)
+
+For the nine months ended
+31-Dec-25
+31-Dec-24
+(Unaudited)
+(Unaudited)
+
+(₹ in crore)
+Year ended
+31-Mar-25
+(Audited)
+
+1,805.51
+32.68
+1,838.19
+
+1,276.07
+46.01
+1,322.08
+
+1,487.29
+48.21
+1,535.50
+
+4,444.69
+141.35
+4,586.04
+
+3,368.73
+171.52
+3,540.25
+
+5,387.04
+205.34
+5,592.38
+
+1,279.93
+362.95
+33.05
+45.57
+2.51
+44.44
+1,768.45
+69.74
+69.74
+
+898.00
+292.46
+31.61
+32.98
+2.32
+48.81
+1,306.18
+15.90
+(2,638.42)
+(2,622.52)
+
+1,168.28
+176.83
+32.49
+31.27
+2.40
+34.41
+1,445.68
+89.82
+89.82
+
+3,139.16
+904.51
+98.15
+107.58
+7.21
+139.99
+4,396.60
+189.44
+(2,638.42)
+(2,448.98)
+
+2,533.83
+498.65
+96.08
+75.24
+7.36
+70.62
+3,281.78
+258.47
+258.47
+
+4,076.89
+772.99
+136.51
+106.23
+9.72
+124.31
+5,226.65
+365.73
+365.73
+
+0.06
+(3.41)
+73.09
+
+(28.03)
+0.06
+(11.01)
+(2,583.54)
+
+2.05
+0.01
+10.29
+77.47
+
+0.12
+(17.08)
+(2,432.02)
+
+2.29
+0.89
+29.21
+226.08
+
+0.89
+46.58
+318.26
+
+(0.51)
+0.13
+
+(1.11)
+0.28
+
+(0.59)
+-
+
+(2.73)
+0.69
+
+(1.78)
+-
+
+(4.43)
+1.12
+
+-
+
+-
+
+-
+
+-
+
+(0.32)
+
+(0.32)
+
+-
+
+-
+
+-
+
+-
+
+1.59
+
+1.59
+
+(3.34)
+
+(10.94)
+
+3.18
+
+(34.34)
+
+3.48
+
+3.68
+
+(3.72)
+
+(11.77)
+
+2.59
+
+(36.38)
+
+2.97
+
+1.64
+
+69.37
+23.35
+
+(2,595.31)
+23.35
+
+80.06
+23.35
+
+(2,468.40)
+23.35
+
+229.05
+23.35
+
+319.90
+23.35
+2,983.31
+
+3.13
+3.13
+
+(110.63)
+(110.63)
+
+3.32
+3.31
+
+(104.15)
+(104.15)
+
+9.69
+9.68
+
+13.64
+13.62
+
+
+STERLING & WILSON ~
+Sterling and Wilson Renewable Energy Limited
+
+'O
+
+CIN:L74999MH2017PLC292281
+Registered Office: 9th Floor, Universal Majestic, P. L. Lokhande Marg, Chembur West, Mumbai 400 043.
+
+Unaudited Standalone Segment-Wise Revenue, Assets, Liabilities and Capital Employed for the Quarter and Nine Months Ended 31 December 2025
+
+Particulars
+
+31-Dec-25
+(Unaudited)
+
+For the quarter ended
+30-Sep-25
+(Unaudited)
+
+31-Dec-24
+(Unaudited)
+
+For the nine months ended
+31-Dec-25
+31-Dec-24
+(Unaudited)
+(Unaudited)
+
+(₹ in crore)
+Year ended
+31-Mar-25
+(Audited)
+
+Segment Revenue
+EPC business
+Operation and maintenance service
+Total
+Other operating income
+Revenue from operations
+
+1,756.52
+48.20
+1,804.72
+0.79
+1,805.51
+
+1,224.03
+51.81
+1,275.84
+0.23
+1,276.07
+
+1,437.55
+49.24
+1,486.79
+0.50
+1,487.29
+
+4,294.62
+148.76
+4,443.38
+1.31
+4,444.69
+
+3,218.58
+148.99
+3,367.57
+1.16
+3,368.73
+
+5,188.60
+196.67
+5,385.27
+1.77
+5,387.04
+
+Segment Results
+EPC business
+Operation and maintenance service
+Total
+Add: Unallocable income
+Less: Unallocable expenditure
+Profit before exceptional items and tax
+Add: Exceptional items
+Total Profit / (loss) before tax
+
+159.94
+2.30
+162.24
+33.07
+(125.57)
+69.74
+69.74
+
+82.11
+12.96
+95.07
+36.55
+(115.72)
+15.90
+(2,638.42)
+(2,622.52)
+
+135.67
+5.35
+141.02
+49.37
+(100.57)
+89.82
+89.82
+
+384.61
+25.19
+409.80
+132.57
+(352.93)
+189.44
+(2,638.42)
+(2,448.98)
+
+303.23
+31.86
+335.09
+172.68
+(249.30)
+258.47
+258.47
+
+501.58
+33.81
+535.39
+207.11
+(376.77)
+365.73
+365.73
+
+Segment Assets
+EPC business
+Operation and maintenance service
+Unallocated
+Total
+
+2,498.37
+132.35
+1,889.18
+4,519.90
+
+2,454.71
+92.11
+1,547.88
+4,094.70
+
+2,610.87
+98.53
+3,727.49
+6,436.89
+
+2,498.37
+132.35
+1,889.18
+4,519.90
+
+2,610.87
+98.53
+3,727.49
+6,436.89
+
+2,760.60
+90.99
+4,149.19
+7,000.78
+
+Segment Liabilities
+EPC business
+Operation and maintenance service
+Unallocated
+Total
+
+2,498.11
+36.06
+1,446.56
+3,980.73
+
+2,193.72
+43.87
+1,387.31
+3,624.90
+
+2,558.17
+34.98
+927.50
+3,520.65
+
+2,498.11
+36.06
+1,446.56
+3,980.73
+
+2,558.17
+34.98
+927.50
+3,520.65
+
+2,846.15
+45.38
+1,102.59
+3,994.12
+
+0.26
+96.29
+442.62
+539.17
+
+260.99
+48.24
+160.57
+469.80
+
+52.70
+63.55
+2,799.99
+2,916.24
+
+0.26
+96.29
+442.62
+539.17
+
+52.70
+63.55
+2,799.99
+2,916.24
+
+(85.55)
+45.61
+3,046.60
+3,006.66
+
+Capital Employed (Segment Assets - Segment Liabilities)
+EPC business
+Operation and maintenance service
+Unallocated
+Total
+
+
+STERLING & WILSON ~
+Sterling and Wilson Renewable Energy Limited
+
+'O
+
+CIN:L74999MH2017PLC292281
+Registered Office: 9th Floor, Universal Majestic, P. L. Lokhande Marg, Chembur West, Mumbai 400 043.
+
+Notes to Unaudited Standalone Financial Results for the Quarter and Nine Months Ended 31 December 2025
+Notes :
+1
+
+These unaudited standalone financial results which are published in accordance with Regulation 33 of the Securities Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended ('Listing Regulations’) have been reviewed by the Audit Committee and approved by the Board of Directors at their respective meetings held on 14 January 2026 and 15
+January 2026. These unaudited standalone financial results have been prepared in accordance with recognition and measurement principles of Indian Accounting Standards ("Ind AS") prescribed under
+Section 133 of the Companies Act, 2013, read with the relevant rules issued thereunder and the other accounting principles generally accepted in India.
+
+2
+
+These unaudited standalone financial results have been subjected to a "limited review" by the joint statutory auditors of Sterling and Wilson Renewable Energy Limited ('the Company'). The joint statutory
+auditors have expressed an unmodified conclusion in the review report for the quarter and nine months ended 31 December 2025.
+
+3
+
+The Company is primarily engaged in the business of complete Turnkey solution for Engineering, Procurement, Construction, Operation and Maintenance of Renewable Energy Power projects. The
+Company's Chief Operating Decision Maker (CODM) reviews the internal management reports prepared based on financial information for Engineering, Procurement and Construction (EPC) and
+Operation and maintenance service based on analysis of certain performance indicators viz. Gross margin, Profit after tax, etc. Accordingly, the Company has determined its reportable segments under Ind
+AS 108 “Operating Segments” as follows:
+- Engineering, Procurement and Construction ('EPC' business) and
+- Operation and Maintenance service.
+The financial information of these segments has been provided in the unaudited standalone financials results as per Ind AS 108.
+
+4
+
+On 29 December 2021, the Company had signed an Indemnity Agreement with Shapoorji Pallonji and Company Private Limited, Khurshed Yazdi Daruvala (jointly the "Promoter Selling Shareholders")
+and Reliance New Energy Limited pursuant to which, the Promoter Selling Shareholders would indemnify and re-imburse the Company and its subsidiaries/branches for a net amount, if it exceeds ₹300.00
+crore, on settlement of liquidated damages pertaining to certain identified past and existing projects (as on the date of signing the aforementioned agreements), old receivables, direct and indirect tax
+litigations as well as certain legal and regulatory matters. These amounts would be crystallized by 30 September 2022 and thereafter on 30 September of each succeeding year, on the basis of the final
+settlement amounts with customers/suppliers/other authorities. Consequently, trade receivables from customer undergoing a resolution process under the supervision of the National Company Law Tribunal
+('NCLT') and bank guarantees, if related to liquidated damages, encashed by certain customers would also be recoverable from the Promoter Selling Shareholders once crystallized, if not recovered from
+the customers. The Promoter Selling Shareholders are consequently entitled to net off the amounts payable, with specific counter-claims levied and recovered by the Company and its subsidiaries/branches
+on its customers/vendors relating to these matters.
+In line with the terms of the Indemnity Agreement, the Company has subsequent to 30 September 2025, raised the claim amounting to ₹174.54 crore to be recovered from the Promoter Selling Shareholders
+on the basis of crystallized items for the period from 01 October 2024 to 30 September 2025. The balance outstanding as on 31 December 2025 of ₹143.12 crore is expected to be received by 31 January
+2026.
+
+5
+
+The Company had entered into a contract for a 100 MW AC Photovoltaic plant with an infrastructure company ("Customer") to cater to power demands of a real estate developer ("Developer"). In October
+2018, proceedings were initiated in the National Company Law Tribunal ("NCLT") against the Customer group and the Company issued a work suspension notice to the Customer, on account of nonreceipt of balance of payments, with a copy to the Developer. The Developer directed the Company, vide a letter, to go ahead with the works/maintenance of the plant wherein they also assured the
+payment if the Customer failed to pay. Based on this assurance, the Company completed the works and as on date, the Customer / Developer owes the Company ₹92 .45 crore. Company initiated the
+following actions: (i) Filed a claim before the Claim Management Advisors in respect of amount recoverable from the Customer group and the same has been admitted; (ii) An appeal has been admitted by
+the Hon'ble Supreme Court of India Vide Order dated 11 September 2023 towards proceedings against the Developer under Insolvency and Bankruptcy Code; (iii) Filed a chargesheet before the Magistrate
+Court, Mumbai pursuant to the criminal complaint against the Developer during the quarter ended 31 December 2024. The Court has taken the chargesheet into cognisance; (iv) also filed Summary Suit
+against the Developer before the Bangalore City Civil Court during the quarter ended 31 December 2024. In addition, an amount of ₹64.10 crore, under confirmed irrevocable Letters of Credit (LC)
+arranged by the Customer were discounted by the Company after confirmation by its and Customer's bank. However, the Customer's bank refused to honour the payment citing the NCLT proceedings and
+the Company had to refund the amount back to its bank. The Company initiated the following actions: (i) Initiated legal proceedings before National Company Law Appellate Tribunal ("NCLAT") in
+respect of amount receivable under LC by filing an Intervention Application in the main proceedings filed by Union of India against the Customer group; (ii) Lodged a Summary Suit to recover the amount
+receivable under the LC i.e. ₹64.10 crore plus interest against the Customer's Bank before the Hon'ble Bombay High Court, which is pending for adjudication and during the current quarter, the Court has
+granted leave to defend the Summary Suit to the Customer’s Bank subject to them depositing ₹61.40 crore with the Court within stipulated timelines. The amounts of ₹92.45 crore and ₹64.10 crore are
+classified under the head Trade Receivables and Other Financial Assets, respectively. Based on the legal evaluation, the Company is confident that both above amounts are recoverable. Also, both the
+above claims i.e. on the Developer and Customer's Bank are covered under the Indemnity Agreement as referred in Note 4 above.
+
+6
+
+The Company's investment in a subsidiary, loans given along with accrued interest thereon and other receivables aggregated to ₹3,411.50 crore (including revaluation and excluding the corporate
+guarantees issued in favour of the said subsidiary of ₹1,739.87 crore which are not expected to be invoked) as at 31 December 2025.
+(a) Considering the unfavourable outcome arising from the arbitration order during the quarter ended 30 September 2025, resulting in loss of amounts that were considered recoverable and the outflows
+towards honouring settlement with a subcontractor, ₹ 599.70 crore was considered non recoverable from the wholly owned subsidiary and consequently written off.
+(b) Further, during the quarter ended 30 September 2025, in respect of a contract where Memorandum of Understanding was signed, due to request for revisions to the key contract terms and it's resultant
+outcome, this had resulted in an uncertainty with respect to the projected cashflows thereof. Consequently considering the projected cashflows, the Company had recognized an impairment of ₹2,038.72
+crore (said impairment being revalued to ₹2,137.00 crore).
+The said amounts under (a) and (b) aggregating to ₹2,638.42 crore have been classified under Exceptional Item in the Statement of Unaudited Financial Results for the nine months ended 31 December
+2025.
+
+7
+
+An EPC project completion in a particular geography was delayed due to reasons not attributable to the Company. Management believes that the customer had wrongfully recovered the liquidated damages
+of ₹ 216.23 crore (USD 24.06 million). The Company had referred the disputes to arbitration and submitted claims amounting to ₹733.84 crore (USD 81.66 million) in previous year. The customer has
+submitted revised counter claim of ₹1,294.87 crore (USD 144.09 million) on the Company with the arbitrator during the previous quarter. The wrongfully invoked bank guarantee amounts are covered
+under the indemnity agreement as referred in Note 4 above and in the opinion of the Management, based on legal evaluation, the customer's counter claims are not tenable. Accordingly, no provision is
+considered necessary as on 31 December 2025.
+
+8
+
+Pursuant to the implementation of the New Labour Codes with effect from 21 November 2025 (the supporting Rules are yet to be notified), the Company has reassessed its employee benefit obligations
+and recognised an incremental expense of ₹1.21 crore for the quarter and nine months ended 31 December 2025, under employee benefit expenses as past service cost. Company is in the process of
+evaluating other possible impacts if any. However, management is of the view that impact, if any, is unlikely to be material.
+
+9
+
+The Company has incurred losses for the quarter ended 30 September 2025 and for the nine months ended 31 December 2025 and accordingly, the effect of potential equity shares to be issued would be
+anti -dilutive.
+
+10
+
+The results of the Company are available for investors at https://www.sterlingandwilsonre.com, www.nseindia.com and www.bseindia.com.
+BY ORDER OF THE BOARD OF DIRECTORS
+Sterling and Wilson Renewable Energy Limited
+Khurshed
+Yazdi
+Daruvala
+
+Digitally signed by
+Khurshed Yazdi
+Daruvala
+Date: 2026.01.15
+12:07:24 +05'30'
+
+Khurshed Daruvala
+Chairman
+DIN: 00216905
+Date : 15 January, 2026
+Place : Mumbai
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+2nd Floor, Esplanade House,
+29, Hazarimal Somani Marg,
+Fort, Mumbai 400 001
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+One International Center
+Tower 3, 31st Floor,
+Senapati Bapat Marg
+Elphinstone (West),
+Mumbai 400 013.
+
+REVIEW REPORT
+TO THE BOARD OF DIRECTORS OF
+STERLING AND WILSON RENEWABLE ENERGY LIMITED
+1.
+
+We have reviewed the accompanying Statement of Unaudited Consolidated Financial
+Results of Sterling and Wilson Renewable Energy Limited (“the Parent Company”)
+and its subsidiaries (the Parent Company and its subsidiaries together referred to as “the
+Group”) for the quarter and nine months ended 31 December 2025, together with the
+notes thereon, (the “Statement”), attached herewith, being submitted by the Parent
+Company pursuant to the requirement of Regulation 33 of the Securities Exchange
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+as amended, (“SEBI (LODR) Regulations, 2015”).
+
+2.
+
+This Statement, which is the responsibility of the Parent Company’s Management has
+been reviewed by the Audit Committee and approved by the Parent Company’s Board
+of Directors at their respective meetings held on 14 January 2026 and 15 January 2026.
+The Statement has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 - Interim Financial Reporting
+(‘Ind AS 34’), prescribed under Section 133 of the Companies Act, 2013 (the “Act”),
+read with the relevant Rules issued thereunder and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the SEBI (LODR)
+Regulations, 2015. Our responsibility is to express a conclusion on the Statement based
+on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410 “Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity”, issued by the Institute of Chartered Accountants of
+India. This Standard requires that we plan and perform the review to obtain moderate
+assurance as to whether the Statement is free of material misstatement. A review of
+interim financial information consists of making inquiries, primarily of Parent’s
+personnel responsible for financial and accounting matters, and applying analytical and
+other review procedures and thus provides less assurance than audit. A review is
+substantially less in scope than an audit conducted in accordance with Standards on
+Auditing specified under Section 143(10) of the Companies Act, 2013 and
+consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express
+an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under
+Regulation 33(8) of the SEBI (LODR) Regulations, 2015, as amended, to the extent
+applicable.
+
+Page | 1
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+
+4.
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+
+The Statement includes the results of the following entities:
+Name of the Entity
+i) Sterling and Wilson International Solar FZCO
+a) Sterling and Wilson Singapore Pte. Ltd.
+- Sterling and Wilson Kazakhstan LLP
+b) Sterling and Wilson International LLP
+c) Sterling and Wilson Solar Solutions Inc
+- Sterling and Wilson Solar Solutions LLC
+- Sterling and Wilson Renewable Energy Nigeria Limited
+d) Sterling and Wilson Solar Australia Pty. Ltd.
+e) GCO Solar Pty Ltd.
+f) Sterling and Wilson Middle East Solar Energy LLC
+g) Sterling and Wilson Engineering (Pty) Ltd
+h) Sterling and Wilson Renewable Energy Spain S.L.
+
+Relationship
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Subsidiary
+Wholly owned subsidiary
+
+i)
+
+Sterling and Wilson Solar Spain S.L.
+
+Wholly owned subsidiary
+
+j)
+
+Sterling and Wilson Renewable Energy, Unipessoal LDA
+
+Wholly owned subsidiary
+
+k) Sterling and Wilson Renewable Energy S.R.L
+
+Wholly owned subsidiary
+
+ii) Esterlina Solar Engineers Private Limited
+iii) Sterling and Wilson (Thailand) Limited
+iv) Sterling and Wilson Saudi Arabia Limited
+v) Sterling Wilson – SPCPL – Chint Moroccan Venture
+vi) Sterling and Wilson Solar LLC
+
+Wholly owned subsidiary
+Wholly owned subsidiary
+Wholly owned subsidiary
+Subsidiary
+Subsidiary
+
+5.
+
+Based on our review conducted and procedures performed as stated in paragraph 3
+above and based on the consideration of the review reports of the branch auditors and
+other auditors referred to in paragraph 7(i) and 7(ii) below, nothing has come to our
+attention that causes us to believe that the accompanying Statement, prepared in
+accordance with the recognition and measurement principles laid down in the aforesaid
+Indian Accounting Standard and other accounting principles generally accepted in
+India, has not disclosed the information required to be disclosed in terms of Regulation
+33 of the SEBI (LODR) Regulations, 2015, as amended, including the manner in which
+it is to be disclosed, or that it contains any material misstatement.
+
+6.
+
+Emphasis of Matters
+We draw attention to:
+i)
+Note 5 to the Statement which describes the Indemnity Agreement dated 29
+December 2021, entered into by the Parent Company with Shapoorji Pallonji
+and Company Private Limited, Khurshed Yazdi Daruvala (jointly the “Promoter
+Selling Shareholders”) and Reliance New Energy Limited pursuant to which,
+the Promoter Selling Shareholders would indemnify and re-imburse the Parent
+Company and its subsidiaries / branches for a net amount, on settlement of
+liquidated damages pertaining to certain identified past and existing projects (as
+on the date of signing the aforementioned agreement), old receivables, direct
+and indirect tax litigations as well as certain legal and regulatory matters, if such
+claims (net of receivables) exceeds ₹300.00 crore. Consequently, trade
+receivables from the customer undergoing a resolution process under the
+supervision of the National Company Law Tribunal (‘NCLT’) and bank
+guarantees related to liquidated damages encashed by certain customers would
+Page | 2
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+
+also be recoverable from the Promoter Selling Shareholders once crystallized,
+if not recovered from the customers. Since all future crystallized claims beyond
+₹300.00 crore will be fully charged back and recovered from the Promoter
+Selling Shareholders, there will be no further impact on the results of the Parent
+Company and its subsidiaries.
+ii)
+
+Note 7(b) to the Statement which describes the uncertainty related to the
+recoverability of the remediation costs incurred by the wholly owned subsidiary
+company of ₹23.81 crore (USD 2.65 million) and Note 7(c) and 7(d) to the
+Statement which describes the uncertainty related to the recoverability of the
+amounts related to the wrongfully invoked bank guarantees by the customers
+aggregating ₹487.17 crore (USD 54.23 million) and ₹99.61 crore (AUD 16.59
+million) respectively. In the opinion of the Management of the Group, based on
+legal evaluation, the Group is confident of recovering the same and that the
+counter claims by the customers against the Group are not tenable. Accordingly,
+the Management has disclosed the wrongfully invoked bank guarantee related
+amounts as recoverable and no provision has been considered necessary as at
+31 December 2025.
+
+Our conclusion on the Statement is not modified in respect of the above matters.
+7.
+
+Other Matters
+i)
+
+We did not review the interim financial information of 18 branches included in
+the Statement, whose interim financial information reflect total revenues (before
+consolidation adjustments) of ₹28.41 crore and ₹127.28 crore, total net loss after
+tax (before consolidation adjustments) of ₹8.31 crore and ₹26.77 crore and total
+comprehensive loss (before consolidation adjustments) of ₹8.31 crore and
+₹26.77 crore, for the quarter and nine months ended 31 December 2025,
+respectively, as considered in the Statement.
+
+ii)
+
+We did not review the interim financial information of 19 subsidiaries included
+in the Statement, whose interim financial information reflects total revenues
+(before consolidation adjustments) of ₹283.67 crore and ₹1,181.79 crore, total
+net loss after tax (before consolidation adjustments) of ₹47.42 crore and
+₹666.41 crore, total comprehensive loss (before consolidation adjustments) of
+₹21.31 crore and ₹691.50 crore for the quarter and nine months ended 31
+December 2025, respectively, as considered in the Statement.
+The interim financial information of these branches and subsidiaries has been
+reviewed by the branch auditors and other auditors respectively whose reports
+have been furnished to us by the Management and our conclusion on the
+Statement, in so far as it relates to the amounts and disclosures included in
+respect of these branches and subsidiaries, is based solely on the reports of the
+branch auditors and other auditors respectively and the procedures performed
+by us as stated in paragraph 3 above.
+
+Page | 3
+
+
+Kalyaniwalla & Mistry LLP
+Chartered Accountants
+
+Deloitte Haskins & Sells LLP
+Chartered Accountants
+
+iii) Certain of these branches and subsidiaries referred to above are located outside
+India whose interim financial information has been prepared in accordance with
+the accounting principles generally accepted in their respective countries and
+which have been reviewed by the branch auditors and other auditors under
+generally accepted auditing standards applicable in their respective countries.
+The Parent Company’s Management has converted the interim financial
+information of such branches and subsidiaries located outside India from the
+accounting principles generally accepted in their respective countries to the
+accounting principles generally accepted in India. We have reviewed these
+conversion adjustments made by the Parent Company’s Management.
+iv) Our conclusion in so far as it relates to the amounts and disclosures included in
+respect of these branches and subsidiaries located outside India is based on the
+report of such branch auditors and other auditors respectively and the conversion
+adjustments prepared by the Management of the Parent Company and reviewed
+by us.
+Our conclusion on the Statement is not modified in respect of the above matters.
+For KALYANIWALLA & MISTRY LLP
+CHARTERED ACCOUNTANTS
+Firm Regn. No.: 104607W / W100166
+
+For DELOITTE HASKINS & SELLS LLP
+CHARTERED ACCOUNTANTS
+Firm Regn. No.: 117366W-W-100018
+
+Jamshed
+Kekas
+Udwadia
+
+KARTIKEYA
+DHARMEN
+DRA RAVAL
+
+Digitally signed by Jamshed Kekas
+Udwadia
+DN: c=IN, o=Personal, title=5415,
+pseudonym=13331301020599643455yKK
+dv4ex01uD,
+2.5.4.20=dbe2553e6b4513a4879c05abe1
+2aed506e055b8937b956180aa473f42353
+e9c1, postalCode=400093,
+st=Maharashtra,
+serialNumber=c29a14ac12cfde9d0c8383
+0cfb7de4e6c1f162c153bcf810688f03232a
+beeb8f, cn=Jamshed Kekas Udwadia
+Date: 2026.01.15 12:14:06 +05'30'
+
+Jamshed K. Udwadia
+PARTNER
+M. No.: 124658
+UDIN: 26124658POLVDB8331
+Mumbai: 15 January 2026.
+
+Digitally signed by KARTIKEYA
+DHARMENDRA RAVAL
+Date: 2026.01.15 12:20:03 +05'30'
+
+Kartikeya Raval
+PARTNER
+M. No.: 106189
+UDIN: 26106189UNNVDA5355
+Ahmedabad: 15 January 2026.
+
+Page | 4
+
+
+STERLING & WILSON ~
+
+<?
+
+Sterling and Wilson Renewable Energy Limited
+CIN:L74999MH2017PLC292281
+Registered Office: 9th Floor, Universal Majestic, P. L. Lokhande Marg, Chembur West, Mumbai 400 043.
+Statement Of Unaudited Consolidated Financial Results for the Quarter and Nine Months Ended 31 December 2025
+
+Sr No.
+1
+
+2
+
+3
+4
+5
+6
+
+7
+8
+
+9
+10
+
+11
+
+12
+
+13
+14
+15
+
+Particulars
+Income
+Revenue from operations
+Other income (net)
+Total Income
+Expenses
+Cost of construction materials, stores and spare parts
+Changes in inventories of stock-in-trade
+Direct project costs
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses
+Total Expenses
+Profit before exceptional items and tax (1 - 2)
+Exceptional items (refer note 7(a))
+Profit /(loss) before tax (3+4)
+Tax Expense
+- Current tax
+- Tax adjustments relating to earlier period / year
+- Deferred tax charge/(credit)
+Profit / (loss) for the period / year (5 - 6)
+Other comprehensive (loss) for the period / year
+Items that will not be reclassified to profit or loss
+- Remeasurements of defined benefit liability
+- Income-tax relating to items that will not be reclassified to profit or loss
+Items that will be reclassified to profit or loss
+- Effective portion of (losses) / gain on hedging instruments in cash flow
+hedges
+- Effective portion of (gain) / losses on hedging instruments in cash flow
+hedges reclassified to profit or loss
+- Exchange differences in translating financial statements of foreign
+operations
+Other comprehensive (loss) for the period / year (net of income-tax)
+Total comprehensive income / (loss) for the period / year (7 + 8)
+Profit / (Loss) for the period / year attributable to:
+- Owners of the Company
+- Non-controlling interests
+Other comprehensive (loss) for the period / year (net of income-tax)
+attributable to:
+- Owners of the Company
+- Non-controlling interests
+
+For the quarter ended
+31-Dec-25
+30-Sep-25
+31-Dec-24
+(Unaudited)
+(Unaudited)
+(Unaudited)
+
+For the nine months ended
+31-Dec-25
+31-Dec-24
+(Unaudited)
+(Unaudited)
+
+(₹ in crore)
+Year ended
+31-Mar-25
+(Audited)
+
+2,092.21
+18.58
+2,110.79
+
+1,748.60
+111.05
+1,859.65
+
+1,837.20
+5.47
+1,842.67
+
+5,602.44
+150.74
+5,753.18
+
+3,782.75
+52.26
+3,835.01
+
+6,301.86
+39.60
+6,341.46
+
+1,345.60
+570.49
+42.38
+47.44
+2.86
+66.79
+2,075.56
+35.23
+(30.84)
+4.39
+
+1,063.95
+572.92
+43.88
+35.55
+2.73
+63.93
+1,782.96
+76.69
+(580.10)
+(503.41)
+
+1,380.25
+284.59
+47.76
+31.34
+3.37
+54.27
+1,801.58
+41.09
+41.09
+
+3,531.97
+1,584.36
+130.73
+112.08
+8.40
+199.05
+5,566.59
+186.59
+(610.94)
+(424.35)
+
+2,751.10
+653.50
+142.04
+78.39
+11.21
+122.95
+3,759.19
+75.82
+75.82
+
+4,560.91
+1,099.99
+200.09
+109.45
+14.34
+194.14
+6,178.92
+162.54
+162.54
+
+5.84
+0.29
+(3.29)
+1.55
+
+(23.25)
+8.69
+(11.23)
+(477.62)
+
+5.92
+0.01
+18.02
+17.14
+
+20.10
+8.98
+(16.05)
+(437.38)
+
+13.96
+0.89
+30.43
+30.54
+
+27.53
+9.03
+40.43
+85.55
+
+(0.51)
+0.13
+
+(1.11)
+0.28
+
+(0.59)
+
+(2.73)
+0.69
+
+(1.78)
+-
+
+(4.67)
+1.12
+
+-
+
+-
+
+-
+
+-
+
+1.59
+
+(0.32)
+
+-
+
+-
+
+-
+
+-
+
+(0.32)
+
+1.59
+
+26.65
+
+(55.81)
+
+(12.60)
+
+(68.26)
+
+(33.35)
+
+(48.58)
+
+26.27
+
+(56.64)
+
+(13.19)
+
+(70.30)
+
+(33.86)
+
+(50.86)
+
+27.82
+
+(534.26)
+
+3.95
+
+(507.68)
+
+(3.32)
+
+34.69
+
+(2.77)
+4.32
+
+(473.20)
+(4.42)
+
+14.83
+2.31
+
+(444.00)
+6.62
+
+26.07
+4.47
+
+81.45
+4.10
+
+26.05
+0.22
+
+(57.55)
+0.91
+
+(13.90)
+0.71
+
+(70.52)
+0.22
+
+(33.67)
+(0.19)
+
+(49.78)
+(1.08)
+
+23.28
+4.54
+23.35
+
+(530.75)
+(3.51)
+23.35
+
+0.93
+3.02
+23.35
+
+(514.52)
+6.84
+23.35
+
+(7.60)
+4.28
+23.35
+
+31.67
+3.02
+23.35
+983.71
+
+(0.12)
+(0.12)
+
+(20.27)
+(20.27)
+
+0.64
+0.63
+
+(19.01)
+(19.01)
+
+1.12
+1.12
+
+3.49
+3.49
+
+Total comprehensive income / (loss) for the period / year attributable to:
+- Owners of the Company
+- Non-controlling interests
+Paid-up equity share capital (face value ₹ 1/-)
+Other equity
+Earnings per equity share (EPS) (of ₹ 1 each) (not annualised)
+(a) Basic
+(b) Diluted (refer note 9)
+See accompanying Notes to Unaudited Consolidated Financial Results
+
+
+STERLING & WILSON ~
+
+<?
+
+Sterling and Wilson Renewable Energy Limited
+CIN:L74999MH2017PLC292281
+Registered Office: 9th Floor, Universal Majestic, P. L. Lokhande Marg, Chembur West, Mumbai 400 043.
+
+Unaudited Consolidated Segment-Wise Revenue, Assets, Liabilities And Capital Employed for the Quarter and Nine Months Ended 31 December 2025
+Particulars
+
+For the quarter ended
+31-Dec-25
+30-Sep-25
+31-Dec-24
+(Unaudited)
+(Unaudited)
+(Unaudited)
+
+For the nine months ended
+31-Dec-25
+31-Dec-24
+(Unaudited)
+(Unaudited)
+
+(₹ in crore)
+Year ended
+31-Mar-25
+(Audited)
+
+Segment Revenue
+EPC business
+Operation and maintenance service
+Total
+Other operating income
+Revenue from operations
+
+2,028.17
+63.25
+2,091.42
+0.79
+2,092.21
+
+1,684.83
+63.54
+1,748.37
+0.23
+1,748.60
+
+1,776.05
+60.65
+1,836.70
+0.50
+1,837.20
+
+5,414.02
+187.11
+5,601.13
+1.31
+5,602.44
+
+3,604.75
+176.84
+3,781.59
+1.16
+3,782.75
+
+6,064.03
+236.06
+6,300.09
+1.77
+6,301.86
+
+Segment Results
+EPC business
+Operation and maintenance service
+Total
+Add: Unallocable income
+Less: Unallocable expenditure
+Profit before exceptional items and tax
+Add: Exceptional items
+Total Profit / (loss) before tax
+
+182.62
+2.78
+185.40
+9.28
+(159.46)
+35.22
+(30.84)
+4.38
+
+102.02
+9.49
+111.51
+111.28
+(146.10)
+76.69
+(580.10)
+(503.41)
+
+157.26
+14.60
+171.86
+5.97
+(136.74)
+41.09
+41.09
+
+467.70
+27.18
+494.88
+141.96
+(450.26)
+186.58
+(610.94)
+(424.36)
+
+330.16
+46.83
+376.99
+53.42
+(354.59)
+75.82
+75.82
+
+589.08
+50.11
+639.19
+41.37
+(518.02)
+162.54
+162.54
+
+Segment Assets
+EPC business
+Operation and maintenance service
+Unallocated
+Total
+
+2,929.81
+137.60
+2,013.33
+5,080.74
+
+3,226.59
+97.85
+1,534.55
+4,858.99
+
+3,979.66
+108.86
+1,146.84
+5,235.36
+
+2,929.81
+137.60
+2,013.33
+5,080.74
+
+3,979.66
+108.86
+1,146.84
+5,235.36
+
+3,847.08
+100.06
+1,682.88
+5,630.02
+
+Segment Liabilities
+EPC business
+Operation and maintenance service
+Unallocated
+Total
+
+2,935.08
+55.12
+1,602.85
+4,593.05
+
+2,896.52
+48.62
+1,453.95
+4,399.09
+
+3,351.15
+38.48
+887.79
+4,277.42
+
+2,935.08
+55.12
+1,602.85
+4,593.05
+
+3,351.15
+38.48
+887.79
+4,277.42
+
+3,489.76
+49.12
+1,096.62
+4,635.50
+
+(5.27)
+82.49
+410.48
+487.70
+
+330.07
+49.23
+80.60
+459.90
+
+628.51
+70.38
+259.05
+957.94
+
+(5.27)
+82.49
+410.48
+487.70
+
+628.51
+70.38
+259.05
+957.94
+
+357.32
+50.94
+586.26
+994.52
+
+Capital Employed (Segment Assets - Segment Liabilities)
+EPC business
+Operation and maintenance service
+Unallocated
+Total
+
+
+STERLING & WILSON ~
+
+<?
+
+Sterling and Wilson Renewable Energy Limited
+CIN:L74999MH2017PLC292281
+Registered Office: 9th Floor, Universal Majestic, P. L. Lokhande Marg, Chembur West, Mumbai 400 043.
+Notes to Unaudited Consolidated Financial Results for the Quarter and Nine Months Ended 31 December 2025
+Notes :
+1
+These unaudited consolidated financial results which are published in accordance with Regulation 33 of the Securities Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended ('Listing Regulations'), have been reviewed by the Audit Committee and approved by the Board of Directors at their respective meetings held on
+14 January 2026 and 15 January 2026. These unaudited consolidated financial results have been prepared in accordance with recognition and measurement principles of Indian Accounting
+Standards ("Ind AS") prescribed under Section 133 of the Companies Act, 2013, read with the relevant rules issued thereunder and the other accounting principles generally accepted in India.
+2
+
+These unaudited consolidated financial results have been subjected to a "limited review" by the joint statutory auditors of Sterling and Wilson Renewable Energy Limited ('the Company').
+The joint statutory auditors have expressed an unmodified conclusion in the review report for the quarter ended 31 December 2025.
+
+3
+
+The Parent Company and its Subsidiaries (collectively known as 'the Group') are primarily engaged in the business of complete Turnkey solution for Engineering, Procurement, Construction,
+Operation and Maintenance of Renewable Energy Power projects. The Parent Company's Chief Operating Decision Maker (CODM) reviews the internal Management reports prepared based
+on financial information for Engineering, Procurement and Construction (EPC) business and Operation and Maintenance Service based on analysis of certain performance indicators viz. Gross
+margin, Profit after tax, etc. Accordingly, the Group has determined its reportable segments under Ind AS 108 “Operating Segments” as follows:
+- Engineering, Procurement and Construction ('EPC Business'); and
+- Operation and Maintenance Service
+The financial information of these segments has been provided in the unaudited consolidated financials results as per Ind AS 108.
+
+4
+
+Pursuant to the implementation of the New Labour Codes with effect from 21 November 2025 (the supporting Rules are yet to be notified), the Group has reassessed its employee benefit
+obligations and recognised an incremental expense of ₹1.21 crore for the quarter and nine months ended 31 December 2025, under employee benefit expenses as past service cost. Group is in
+the process of evaluating other possible impacts if any. However, management is of the view that impact, if any, is unlikely to be material.
+
+5
+
+On 29 December 2021, the Parent Company had signed an Indemnity Agreement with Shapoorji Pallonji and Company Private Limited, Khurshed Yazdi Daruvala (jointly the "Promoter
+Selling Shareholders") and Reliance New Energy Limited pursuant to which, the Promoter Selling Shareholders would indemnify and re-imburse the Parent Company and its
+subsidiaries/branches for a net amount, if it exceeds ₹300.00 crore, on settlement of liquidated damages pertaining to certain identified past and existing projects (as on the date of signing the
+aforementioned agreements), old receivables, direct and indirect tax litigations as well as certain legal and regulatory matters. These amounts would be crystallized by 30 September 2022 and
+thereafter on 30 September of each succeeding year, on the basis of the final settlement amounts with customers/suppliers/other authorities. Consequently, trade t receivables from customer
+undergoing a resolution process under the supervision of the National Company Law Tribunal ('NCLT') and bank guarantees, if related to liquidated damages, encashed by certain customers
+would also be recoverable from the Promoter Selling Shareholders once crystallized, if not recovered from the customers. The Promoter Selling Shareholders are consequently entitled to net
+off the amounts payable, with specific counter-claims levied and recovered by the Parent Company and its subsidiaries/branches on its customers/vendors relating to these matters.
+In line with the terms of the Indemnity Agreement, the Parent Company has subsequent to 30 September 2025, raised the claim amounting to ₹174.54 crore to be recovered from the Promoter
+Selling Shareholders on the basis of crystallized items for the period from 01 October 2024 to 30 September 2025. The balance outstanding as on 31 December 2025 of ₹143.12 crore is
+expected to be received by 31 January 2026.
+
+6
+
+The Parent Company had entered into a contract for a 100 MW AC Photovoltaic plant with an infrastructure company ("Customer") to cater to power demands of a real estate developer
+("Developer"). In October 2018, proceedings were initiated in the National Company Law Tribunal ("NCLT") against the Customer group and the Company issued a work suspension notice to
+the Customer, on account of non-receipt of balance of payments, with a copy to the Developer. The Developer directed the Parent Company, vide a letter, to go ahead with the
+works/maintenance of the plant wherein they also assured the payment if the Customer failed to pay. Based on this assurance, the Parent Company completed the works and as on date, the
+Customer / Developer owes the Company ₹92.45 crore. The Parent Company initiated the following actions: (i) Filed a claim before the Claim Management Advisors in respect of amount
+recoverable from the Customer group and the same has been admitted; (ii) An appeal has been admitted by the Hon'ble Supreme Court of India Vide Order dated 11 September 2023 towards
+proceedings against the Developer under Insolvency and Bankruptcy Code; (ii) Filed a chargesheet before the Magistrate Court, Mumbai pursuant to the criminal complaint against the
+Developer during the quarter ended 31 December 2024. The Court has taken the chargesheet into cognisance; (iv) also filed Summary Suit against the Developer before the Bangalore City
+Civil Court during the quarter ended 31 December 2024. In addition, an amount of ₹64.10 crore, under confirmed irrevocable Letters of Credit (LC) arranged by the Customer were discounted
+by the Company after confirmation by its and Customer's bank. However, the Customer's bank refused to honour the payment citing the NCLT proceedings andd the the Parent Company had
+to refund the amount back to its bank. The Parent Company initiated the following actions: (i) Initiated legal proceedings before National Company Law Appellate Tribunal ("NCLAT") in
+respect of amount receivable under LC by filing an Intervention Application in the main proceedings filed by Union of India against the Customer group; (ii) Lodged a Summary Suit to
+recover the amount receivable under the LC i.e. ₹64.10 crore plus interest against the Customer's Bank before the Hon'ble Bombay High Court, which is pending for adjudication and during
+the current quarter, the Court has granted leave to defend the Summary Suit to the Customer’s Bank subject to them depositing ₹61.40 crore with the Court within stipulated timelines. The
+amounts of ₹92.45 crore and ₹64.10 crore are classified under the head Trade Receivables and Other Financial Assets, respectively. Based on the legal evaluation, the Parent Company is
+confident that both above amounts are recoverable. Also, both the above claims i.e. on the Developer and Customer's Bank are covered under the Indemnity Agreement as referred in Note 5
+above.
+
+

@@ -1,0 +1,2037 @@
+Date: December 3, 2025
+To,
+BSE Limited,
+20th Floor, P.J. Towers,
+Dalal Street,
+Mumbai - 400001.
+BSE Scrip Code: 544606
+
+National Stock Exchange of India Limited,
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex, Bandra (E),
+Mumbai – 400 051
+NSE Scrip Symbol: PINELABS
+
+Sub: Outcome of the Board Meeting held on December 3, 2025
+Dear Sir/ Madam,
+Pursuant to Regulations 30, 33 and other applicable provisions of Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, read with various circulars issued
+by the Securities and Exchange Board of India and Stock Exchanges and in furtherance to our intimation
+dated November 21, 2025, we enclose herewith the unaudited standalone and consolidated financial results
+of Pine Labs Limited (“the Company”) for the quarter and half-year ended September 30, 2025 ("Results")
+along with Limited Review Reports of B S R & Co. LLP, Statutory Auditor of the company and Press
+Release being issued in this regard. The said Results will also be published in the newspapers in the
+prescribed format.
+The Board Meeting to approve the said results commenced at 3:06 P.M. (IST), today, i.e. on December 3,
+2025, and concluded at 3:53 P.M. (IST).
+Further, kindly note that in terms of the Company’s Code of Conduct for Prevention of Insider Trading and
+the SEBI (Prohibition of Insider Trading) Regulations, 2015, the window for trading in Securities of the
+Company by its designated persons and their immediate relatives shall open on Monday, December 8, 2025.
+The above information will also be available on the website of the Company at www.pinelabs.com/investorrelations/financial-results?tab=quarterly-results.
+We request you to kindly take the above on record.
+Thanking you,
+For Pine Labs Limited
+
+NEERAV
+MEHTA
+
+Digitally signed by
+NEERAV MEHTA
+Date: 2025.12.03
+16:36:15 +05'30'
+
+Neerav Mehta
+Company Secretary and Compliance Officer
+Membership Number: A20949
+Encl. a/a
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+Building No. 10, 12th Floor, Tower-C
+DLF Cyber City, Phase - II
+Gurugram - 122 002, India
+Tel: +91 124 719 1000
+Fax: +91 124 235 8613
+
+Limited Review Report on unaudited standalone financial results of Pine Labs
+Limited (formerly known as Pine Labs Private Limited) for the quarter ended 30
+September 2025 and year to date results for the period from 01 April 2025 to 30
+September 2025 pursuant to Regulation 33 of Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+To the Board of Directors of Pine Labs Limited (formerly known as Pine Labs Private
+Limited)
+1.
+
+We have reviewed the accompanying Statement of unaudited standalone financial results of Pine
+Labs Limited (formerly known as Pine Labs Private Limited) (hereinafter referred to as “the Company”)
+for the quarter ended 30 September 2025 and year to date results for the period from 01 April 2025
+to 30 September 2025 (“the Statement”).
+Attention is drawn to the fact that the figures for the quarter ended 30 June 2025, corresponding
+quarter ended 30 September 2024 and the corresponding period from 01 April 2024 to 30 September
+2024, as reported in the Statement have been approved by the Company’s Board of Directors, but
+have not been subjected to review.
+
+2.
+
+This Statement, which is the responsibility of the Company’s management and approved by its Board
+of Directors, has been prepared in accordance with the recognition and measurement principles laid
+down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”), prescribed under
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India
+and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (“Listing Regulations”).
+Our responsibility is to issue a report on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion.
+
+4.
+
+Based on our review conducted as above, nothing has come to our attention that causes us to believe
+that the accompanying Statement, prepared in accordance with the recognition and measurement
+principles laid down in the aforesaid Indian Accounting Standard and other accounting principles
+generally accepted in India, has not disclosed the information required to be disclosed in terms of
+Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed, or that it
+
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 2
+
+
+B S R & Co. LLP
+Limited Review Report (Continued)
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+contains any material misstatement.
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+
+Kunal Kapur
+Partner
+New Delhi
+03 December 2025
+
+Membership No.: 509209
+UDIN:25509209BMTEOE7504
+
+Page 2 of 2
+
+
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+CIN: U67I00HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+‘Telephone: 01246949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited standalone financial results for the quarter and half year ended 30 September 2025
+(Amounts in INR erores, unless otherwise stated)
+[SNo [Particulars
+
+1
+
+2
+
+Quarter ended
+Hall year ended
+Vear Ended
+piember | 30 June 2025 | 30 September | 30 September | 30 September |31 March 2025|
+2025
+2024
+2025
+204
+Unaudited | Refernole6 | Refernote6 | Unaudited
+|Refer note 6 and| Refer note 9
+and9
+and9
+)
+
+|ncome
+[Revenue from operations
+(Other income
+
+435,00
+2117
+
+a2
+4389
+
+ams
+2939
+
+86227
+6506
+
+75009
+1648
+
+159731
+14327
+
+[Total income
+
+45617
+
+716
+
+0654
+
+92733
+
+79657
+
+173058
+
+[Expenses
+Transaction and relsted costs
+[Purchases
+of stock-in-rade:
+|Changes in inventories of stock-n-trade
+[Employee benefits expense:
+Finance costs
+[Depreciation and amortisation expenses
+[Impairment of non-current assets
+Impairment losses on financial assets and contract assets
+(Other expenses
+
+5599
+1282
+(1.43)
+19034
+1829
+672
+L7
+846
+12681
+
+4519
+n21
+247
+20285
+1875
+4570
+035
+808
+11953
+
+4208
+1250
+497
+195.26
+1601
+990
+009
+434
+102,14
+
+10118
+2409
+104
+39319
+3704
+9242
+152
+1654
+24634
+
+8536
+1714
+723
+37022
+3185
+10092
+385
+1004
+20026
+
+18375
+4817
+747
+72925
+7050
+20509
+835
+207
+a7
+
+[Total expenses
+
+35917
+
+w19
+
+TN
+
+91336
+
+82687
+
+170446
+
+3
+
+[Profit(ioss) before tax
+
+Go0)
+
+1657
+
+G163
+
+1397
+
+(030)
+
+3612
+
+4
+
+|Tax expenses
+|Current tax
+Deferred tax
+
+5
+(050
+
+5
+(1L19)
+
+034
+(1.08)
+
+(11.99)
+
+052
+(590)|
+
+117
+693
+
+[Total tax expense/(credit)
+
+@30
+
+(1L19)
+
+@)
+
+1199)
+
+539)]
+
+810
+
+s
+
+[Profit(loss)
+for the periodiyear (4-5)
+
+@30
+
+2816
+
+(1490)
+
+3596
+
+(2497
+
+802
+
+6
+
+|Other comprehensive income (OCT)
+\temns that witl ot be reclussified subsequently o profit or loss
+[Remeasurement of defined benefit lsbilty
+[Fair value changes on equty investments through OCI
+Income tax relating to these items
+
+[
+021
+
+032
+679
+)|
+
+1.13)
+=
+028
+
+(1.63)
+679
+(036)
+
+a4
+479
+041
+
+0|
+47
+082
+
+[Other comprehensive income/(loss) for the periodyear, nef of tax
+7 [Total comprehensive income/(loss) for the
+8
+
+period/year
+
+|Paid-up
+equity share capital »
+(face value of INR 1 pes share)
+
+[0}
+
+530
+
+©59)
+
+460
+
+377
+
+257
+
+@)
+
+3336
+
+(1576)
+
+3056
+
+Gr1s)
+
+305
+
+aan
+
+4an
+
+010
+
+4an
+
+010
+
+010
+
+Other equity
+9
+
+|Earning
+per share (Face value of share - INR 1 each) (refer note 9) #
+Basic (in INR)
+Diluted (in INR)
+
+383615
+©0)
+©0)
+
+027
+027
+
+©19)|
+©19)|
+
+#EPS is not annualised for the quarter and half year ended 30 September 2025, quartr ended 30 June 2025 and quarter and half year ended 30 September 2024,
+This excludes equity share capital pending issuance, instruments enirely equity in nature and instruments entirely equity in nature pending issuance.
+
+025
+025
+
+©29)|
+(©25)|
+
+028
+027
+
+
+Pine Labs Limited (formerly known as Pine Labs Pri
+CIN: U67100HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Harya
+‘Telephone: 0124-6949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement
+of unaudited standalone assets and liabilities as at 30 September
+2025
+(Amounts in INR crores, unless otherwise stated)
+
+Particulars
+[Assets
+Non-current assets
+Property, plant and equipment
+Capital work-in-progress
+Right-of-use assets
+Goodwill
+Other intangible assets
+Intangible assets under development
+Financial assets
+i Investments
+i Other financial assets
+Deferred tax assets (net)
+[Non- current tax assets (net)
+Other non-current assets
+Total non-current assets
+Current assets
+Inventories
+[Financial assets
+i Trade receivables
+i. Cash and cash equivalents
+i, Bank balances other than (i) above
+iv. Loans
+v. Other financial assets
+Current tax assets
+Contract assets
+Other current assets
+
+Asat
+30 September 2025
+Unaudited
+
+Asat
+31 March 2025
+Refer note 9
+
+26823
+4510
+9452
+45910
+el
+7031
+
+30483
+075
+10216
+459.10
+76.00
+0341
+
+154364
+7148
+16368
+20240
+1492
+3,044.99
+
+141985
+5700
+15226
+15768
+nas
+287482
+
+1591
+
+1515
+
+79793
+46531
+544923
+2665
+137814
+5
+=
+21454
+
+66500
+82112
+507602
+3803
+1,06863
+120
+3024
+18560
+
+Total current assets
+
+834771
+
+790299
+
+Total assets
+Equity
+and liabi
+
+11,392.70
+
+1077781
+
+Eqity share capital
+[Eqity share capital pending issuance
+nstruments entirely equity in nature
+Instruments entirely equity in nature pending issuance
+(Other equity
+
+a1
+5795
+405429
+
+ol0
+2718
+:
+7538
+383615
+
+Total equity
+
+Eq!
+
+415695
+
+393881
+
+Liabilities
+Non-current liabilities
+[Financial lsbilities
+. Borrowings
+i Lease liabilties
+Contract liabilties
+Deferred government grants
+Provisions
+
+1875
+9856
+515
+863
+4780
+
+4118
+10352
+581
+1379
+4216
+
+Total non-current
+
+17889
+
+21246
+
+Current i
+Financial labilties
+i Borrowings
+i Lease labiliies
+i Trade payables
+-total outstanding dues of micro enterprises and small enterprises.
+-total outstanding dues of creditors other than micro enterprises and small enterprises
+iv. Liabilties towards prepaid cards
+v Other financial labilities
+Current tax liabilites (net)
+Contract liabilties
+Deferred government grants
+Provisions
+Other current liabilities
+
+57058
+1378
+
+68336
+1400
+
+4417
+35714
+512566
+77939
+2732
+14.47
+2166
+0369
+
+3802
+47079
+a1
+55688
+129
+2387
+1435
+1988
+23
+
+Total current liabili
+
+7,056.86
+
+662654
+
+Total liabilities
+
+7.23575
+
+683900
+
+Total equity and I
+
+1139270
+
+10777.81
+
+
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+CIN: U67100HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+‘Telephone: 0124-6949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited standalone statement of cash flows for the half year ended 30 September 2025
+(Amounts in INR crores, unless otherwise stated)
+
+Particulars
+
+Cash flow from operating activities
+
+For the half year
+For the half year
+ended
+ended
+30 September 2025 _| 30 September 2024
+Unaudited
+Refer note 9
+
+Profit/(loss) before tax
+
+13.97
+
+(30.30)
+
+Adjustments for :
+Depreciation and amortisation expenses
+Impairment of non-current assets
+Gain on sale of property, plant and equipment
+(Reversal)/write down for obsolete and slow moving inventory
+Impairment losses on financial assets and contract assets
+Interest income under the effective interest method on financial assets carried at amortised cost
+-Bank deposits
+
+92.42
+152
+(0.24)
+(2.96)
+1654
+
+100.92
+3.85
+(0.15)
+185
+10.04
+
+(1.72)
+
+(10.97)
+
+-Security deposits
+
+(0.26)|
+
+(0.61)f
+
+-Unsecured loans given to related parties
+Interest on income tax refunds
+Finance costs
+Liabilities and provisions no longer required written back
+Share based compensation- equity settled
+[Foreign exchange (gain)loss (net) (unrealised)
+| Advances written off
+(Government grants income
+[Net gain on lease termination
+Operating profit before woking capital adjustments
+
+(1.08)
+37.04
+(22.22)
+60.19
+(0.66)
+=
+(10.48)
+176.06
+
+(3.23)
+(7.64)
+3185
+(@.67)
+4176
+124
+0.67
+(11.56)
+(0.56)
+124.49
+
+[Working capital adjustments
+Increase in trade receivables
+[Decrease in inventories
+Increase in other financial assets
+(Increase)/decrease in other assets
+[Decrease in contract assets
+Decrease in loans
+Increase in other bank balances (earmarked balances with banks)
+[Decrease in trade payables
+ncrease in provisions
+Increase in other financial liabilities
+Increase in contract liabilities
+Increase/(decrease) in other current liabilities
+Increase in liabilities towards prepaid cards
+
+(150.71)
+2129
+@71.72)
+(31.29)
+3028
+(©.11)
+(376.96)
+(10.11)
+5.80
+291.10
+298
+6138
+353.88
+
+(94.95)
+1717
+(275.50)
+3.62
+44.74
+(3.44)
+(432.86)
+(40.29)
+3.62
+82.77
+12.08
+(6.83)
+497.84
+
+[Cash generated from/(used in) operations
+
+087
+
+(67.54)
+
+Income taxes (paid)/received (net of refund)
+
+(44.82)
+
+90.12
+
+[Net cash (used in)/generated from operating activities (A)
+
+(3.99)
+
+22.58
+
+[Purchase of property, plant and equipment and intangibles assets
+[Proceeds from disposal of property, plant and equipment
+[Purchase of investment
+[Loans given to related parties
+[Repayment of loans given to related parties
+Investment in bank deposits
+[Proceeds from maturity of bank deposits
+Interest received
+[Proceeds from government grants
+
+(60.42)
+267
+(117.00)
+(17.50)
+28.99
+(344.07)
+335.15
+724
+0.90
+
+(49.46)|
+0.20
+(34.57)
+(43.74)
+20,95
+(46.09)
+3832
+1162
+16.90
+
+Net cash used in investing activities (B)
+
+(164.04)
+
+(Cash flows from investing activities
+
+
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+CIN: U67100HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+Telephone: 0124-6949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited standalone statement of cash flows for the half year ended 30 September 2025
+(Amounts in INR crores, unless otherwise stated)
+Particulars
+
+For the half year
+For the half year
+ended
+ended
+30 September 2025 | 30 September 2024
+
+Cash flows from financing activities
+Proceeds from share application money received from exercise of options
+Payments for shares based payment awards
+Proceeds from borrowings
+Principal repayments of borrowings
+Principal payment of lease liabilities
+Interest paid
+Payment of deferred purchase consideration, net of receipt
+
+108.81
+(6.45)
+79.85
+(33.39)
+(6.43)
+(37.09)
+(76.50)
+
+172
+(49.92)
+(7.35)
+(31.83)
+(0.63)
+
+[Net cash generated from/(used in) financing activities (C)
+
+28.88
+
+(88.01)
+
+Net decrease in cash and cash equivalents (A+B+C)
+
+79.11)
+
+(151.26)
+
+Cash and cash equivalents at the beginning of the period
+Cash credit and bank overdraft facilities at the beginning of the period
+| Currency translation adjustments
+
+823.12
+(617.22)
+-
+
+821.48
+(270.56)
+0.30
+
+[Cash and cash equivalents at end of the period
+
+26.79
+
+399.96
+
+- In current accounts
+- In deposit accounts
+Less: Cash credit and bank overdraft facilities
+
+465.10
+021
+(438.5)
+
+52342
+22486
+(348.32)
+
+Balance as per statement of cash flows
+
+26.79
+
+399.96
+
+Cash and cash equivalents as per above comprise the following :
+[Balance with banks
+
+Note: The above Unaudited Consolidated Statement of Cash Flows has been prepared under the ‘Indirect Method' as st out in Ind AS 7, 'Statement of Cash Flows.,
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+Building No. 10, 12th Floor, Tower-C
+DLF Cyber City, Phase - II
+Gurugram - 122 002, India
+Tel: +91 124 719 1000
+Fax: +91 124 235 8613
+
+Limited Review Report on unaudited consolidated financial results of Pine Labs
+Limited (formerly known as Pine Labs Private Limited) for the quarter ended 30
+September 2025 and year to date results for the period from 01 April 2025 to 30
+September 2025 pursuant to Regulation 33 of Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+To the Board of Directors of Pine Labs Limited (formerly known as Pine Labs Private
+Limited)
+1.
+
+We have reviewed the accompanying Statement of unaudited consolidated financial results of Pine
+Labs Limited (formerly known as Pine Labs Private Limited) (hereinafter referred to as “the Parent”),
+and its subsidiaries (the Parent and its subsidiaries together referred to as “the Group”) and its share
+of the net loss after tax and total comprehensive loss of its associate for the quarter ended 30
+September 2025 and year to date results for the period from 01 April 2025 to 30 September 2025
+(“the Statement”), being submitted by the Parent pursuant to the requirements of Regulation 33 of the
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended ("Listing Regulations").
+Attention is drawn to the fact that the figures for the quarter ended 30 June 2025, corresponding
+quarter ended 30 September 2024 and the corresponding period from 01 April 2024 to 30 September
+2024, as reported in the Statement have been approved by the Parent’s Board of Directors, but have
+not been subjected to review.
+
+2.
+
+This Statement, which is the responsibility of the Parent’s management and approved by the Parent’s
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”),
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility
+is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+4.
+
+The Statement includes the results of the entities mentioned in Annexure I to the Statement.
+
+5.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing
+has come to our attention that causes us to believe that the accompanying Statement, prepared in
+accordance with the recognition and measurement principles laid down in the aforesaid Indian
+Accounting Standard and other accounting principles generally accepted in India, has not disclosed
+the information required to be disclosed in terms of Regulation 33 of the Listing Regulations, including
+the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 4
+
+
+B S R & Co. LLP
+Limited Review Report (Continued)
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+6.
+
+The Statement includes the interim financial information of nineteen subsidiaries which have not been
+reviewed, whose interim financial information reflects total assets (before consolidation adjustments)
+of INR 750.39 crores as at 30 September 2025 and total revenues (before consolidation adjustments)
+of INR 49.13 crores and INR 98.85 crores, total net loss after tax (before consolidation adjustments)
+of INR (3.81) crores and INR (4.77) crores and total comprehensive loss (before consolidation
+adjustments) of INR (3.49) crores and INR (5.79) crores, for the quarter ended 30 September 2025
+and for the period from 01 April 2025 to 30 September 2025 respectively, and Company’s share of
+cash flows (net) of INR 1.29 crores for the period from 01 April 2025 to 30 September 2025. as
+considered in the Statement. The Statement also includes the Group’s share of net loss after tax of
+INR (0.26) crores and INR (0.50) crores and total comprehensive loss of INR (0.26) crores and INR
+(0.50) crores, for the quarter ended 30 September 2025 and for the period from 01 April 2025 to 30
+September 2025 respectively as considered in the Statement, in respect of one associate, based on
+its interim financial information which has not been reviewed. According to the information and
+explanations given to us by the Parent’s management, these interim financial information are not
+material to the Group.
+Our conclusion is not modified in respect of this matter.
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+
+Kunal Kapur
+Partner
+New Delhi
+03 December 2025
+
+Membership No.: 509209
+UDIN:25509209BMTEOD5499
+
+Page 2 of 4
+
+
+B S R & Co. LLP
+Limited Review Report (Continued)
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+Annexure I
+List of entities included in unaudited consolidated financial results.
+Sr. No
+
+Name of component
+
+Relationship
+
+1
+
+Pine Labs Limited (formerly known as Pine
+Labs Private Limited)
+
+Parent
+
+2
+
+Mopay Services Private Limited
+
+Wholly Owned Subsidiary
+
+3
+
+Grapefruit
+Limited
+
+Private
+
+Wholly Owned Subsidiary
+
+4
+
+Pine Labs Digital Solutions Private Limited
+(formerly knowns as Pine Labs Finance
+Private Limited)
+
+Wholly Owned Subsidiary
+
+5
+
+Brokentusk Technologies Private Limited
+
+Wholly Owned Subsidiary
+
+6
+
+Synergistic
+Limited
+
+Wholly Owned Subsidiary
+
+7
+
+Qfix Infocomm Private Limited
+
+Wholly Owned Subsidiary
+
+8
+
+Anumati Technologies Private Limited
+
+Step-down subsidiary
+
+9
+
+Cashless Technologies India Private Limited
+
+Step-down subsidiary
+
+10
+
+Pine Labs Investments Pte Ltd
+
+Step-down subsidiary
+
+11
+
+Pine Labs Payment Services Provider L.L.C
+
+Step-down subsidiary
+
+12
+
+Pine Labs Holding (Thailand) Limited
+
+Step-down subsidiary
+
+13
+
+Pine Labs Private Limited, Thailand
+
+Step-down subsidiary
+
+14
+
+PT Pine Labs Indonesia (liquidated on 18
+April 2024)
+
+Step-down subsidiary
+
+15
+
+Pine Payment Solutions SDN. BHD.
+
+Step-down subsidiary
+
+16
+
+Qwikcilver Solutions Pte Ltd
+
+Step-down subsidiary
+
+17
+
+Qwikcilver Solutions Pty Limited
+
+Step-down subsidiary
+
+Payment
+
+Financial
+
+Solutions
+
+Networks
+
+Private
+
+Page 3 of 4
+
+
+B S R & Co. LLP
+Limited Review Report (Continued)
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+18
+
+Fave Group Pte Ltd
+
+Step-down subsidiary
+
+19
+
+Pine Labs, Inc.
+
+Step-down subsidiary
+
+20
+
+Fave Asia Technologies Sdn Bhd.
+
+Step-down subsidiary
+
+21
+
+Beeconomic Singapore Pte Ltd
+
+Step-down subsidiary
+
+22
+
+Fave Asia Sdn Bhd
+
+Step-down subsidiary
+
+23
+
+PT Disdus Indonesia
+
+Step-down subsidiary
+
+24
+
+Pine Labs Vietnam Company Limited
+
+Step-down subsidiary
+
+25
+
+Pine Labs Hong Kong Limited
+
+Step-down subsidiary
+
+26
+
+Qwikcilver Solutions Inc
+
+Step-down subsidiary
+
+27
+
+Agya Technologies Private Limited (w.e.f 31
+March 2025)
+
+Associate
+
+Page 4 of 4
+
+
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+CIN: U7100HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+Telephone: 124-6949200, Email-investorrelations @pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited consolidated financial results for the quarter and half year ended 30 September 2025
+(Amounts in INR crores, unless otherwise stated)
+
+[SNo [Parteutars
+1 [tmcome
+[Revenue from aperations
+(Other income
+[Total income
+2 [Expenses
+Transaction and relatd costs
+[Purchases of stockin-rade
+Changes in inventories of stock-in-rade
+[Employee benefis expense
+Finance costs
+[Depreciaton and amortsation expenses
+impairment of non-current assets
+mpairment loses on financial assts and contactasets
+Other expenses
+Total expenses
+3 [Profi(Loss) before share ofIoss of associte, exceptional fems and fax
+[Share in et loss ofan associate:
+4 [Proft(Loss)
+before exceptional iems and tax
+[Exceptional items (rfer note )
+[Profit(Loss) before tax
+6 [Tax expenses
+(Curtentax
+Deferred tax
+[Total tax expensel(ere
+7 [Profi(Los)
+for the periodyear (56)
+8 |Other comprehensive income (OCT)
+ems that will ot be reclussfied subsequentlyfo proftorloss
+[Remeasurement o defined benefit ablity
+[Fair value changes on eqity investment though OCI
+Income tax relating o these items
+s that may be reclasifed subsequenty o proft or loss
+[Foreign exchange differences on transatons of foreign operations
+[Giher comprehensive incomel(oss) forthe period year, net of ax
+9 [Total comprehensive income/{oss) fo th
+period/vear
+10 [Paidup cquity share captal
+(face value o INR 1 per shre)
+Otner equity
+11 [Earning per share (Face value ofshare - INK 1 each) (refer note ) #
+basic (n INK)
+Diluted (in INK)
+
+Quarter ended
+Half year ended
+Year Ended
+30 Scptember | 30 Junc 2025 | 30 September | 30 September | 30 Sepiember | 31 March 2025|
+2025
+2024
+025
+204
+Unaudited | Refernoie6 | Refernowe6 | Unaudited | Refernoie6 | Refernotes
+and5
+nd9
+and9
+61990
+61591
+ssis7|
+126581
+1omes | 227427
+1301
+37
+219
+018
+3456
+5282
+[
+508
+s | issseo |
+tiosss|
+23970
+7112
+5061
+(2
+26786
+2127
+6587
+118
+955
+14348
+Goie8
+fIEs)
+©0)
+e
+B
+e
+
+5951
+o7
+590
+2132
+200
+6520
+034
+1363
+12978
+[T
+@)
+©06)
+@)
+E
+s
+
+a2
+8247
+@39)
+25843
+1798
+77
+009
+459
+11466
+[T TN
+Gas0)
+5
+Gas)
+[EED]
+
+13063
+15133
+664
+550.18
+4269
+1311
+152
+2318
+m2e
+TN S
+s
+©13)
+=5
+x5
+
+1242
+26006
+13341
+2726
+(5.64)
+(1.93)
+9125
+98423
+3578
+7896
+13664
+29209
+385
+a7
+1666
+3010
+2532
+a1
+REETN M T
+Gz50)
+0981
+5
+00y
+@256
+G951
+3658
+Groe
+(136.9)
+
+787
+o)
+519
+57
+
+432
+1395)
+o)
+FiT)
+
+475
+(1104
+©29)
+G20
+
+1219
+(1663)
+JeE)
+076
+
+1027
+(1332)
+G
+®on|
+
+17
+(6:69)
+510
+(s
+
+©8)
+o
+
+o)
+679
+©50)
+
+(126)
+©o)
+034
+
+59)
+679
+©39)
+
+.52)
+so2
+046
+
+(1.99)
+593
+082
+
+207
+56
+753
+an
+
+©099)
+)
+508
+“n
+
+©74)
+o)
+[EX)
+010
+
+154
+s
+651
+un
+
+om)
+o)
+FNE)
+R
+w070
+010
+010
+340349
+
+006
+006
+
+o0s
+005
+
+©3)
+©32)
+
+*Amount less than rounding off INR crores.
+#EPS is not annualised for the quarter and half year ended 30 September 2025, quarter ended
+30 June 2025 and quarter and half year ended 30 September 2024,
+*This excludes equity share capital pending issuance, nstruments entirely equity in nature and instruments entirely equityin nature pending issuance.
+
+010
+010
+
+(©60)
+(©60)
+
+(143)
+(143)
+
+
+Pine Labs Limited (formerly known as Pine Labs Pri te Limited)
+CIN: U67100HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+Telephone: 0124-6949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited consolidated assets and
+5 as at 30 September 2025
+(Amounts in INR crores, unless otherwise stated)
+
+Particalars
+[Assets
+Non-current assets
+Property, plant and equipment
+(Capital work-in-progress
+[Right-of-use assets
+(Goodwill
+(Other intangible assets
+Intangible assets under development
+Investments accounted for using the equity method
+[Financal assets
+i Investments
+i Trade receivables
+i, Other financial assets
+Defrred tax assets (nel)
+[Non- current tax assets (net)
+Other non-current assets
+Total non-current assets
+(Current assets
+Inventories
+Financial assets
+i Trade receivables
+i, Cash and cash equivalents
+il Bank balances other than (i) above
+iv. Loans
+V. Other financial assets
+Current tax assets
+Contract assets
+Other current assets
+Total current assets
+Total assets
+Equity and
+Equity
+[Equity share capital
+Equity share capital pending issuance
+Instruments eniirely equity in nature
+Instruments entirely equity in nature pending issuance
+Other equity
+[ Total equity
+Liabilities
+
+Asat
+30 September 2025
+Unaudited
+
+Asat
+31 March 2025
+Refer note
+
+31222
+812
+1205
+116373
+205.25
+10214
+959
+
+34680
+4712
+12361
+L1673
+19075
+i
+912
+
+2787
+1316
+93.48
+169.48
+238,08
+1820
+252337
+
+2108
+995
+810
+15753
+19004
+1860
+247460
+
+2570
+
+3010
+
+98273
+60482
+545891
+103
+145811
+25087
+878217
+1130554
+
+8492
+95146
+508167
+145
+1,077.66
+120
+3025
+2243
+824114
+1071574
+
+@
+5795
+360796
+371062
+
+010
+2718
+7538
+340349
+350615
+
+Non-current liabilities
+Financial liabilities
+. Borrowings
+i Lease liabilities
+i Other financial liabilities
+[Deferred tax liabilities
+Contract liabilities
+[Deferred government grants
+Provisions
+
+1875
+11198
+014
+1325
+1754
+863
+5389
+
+4718
+1980
+014
+1734
+878
+1379
+487
+
+Total non-current
+
+22418
+
+25574
+
+i Borrowings
+i Lease liabiltes
+. Trade payables
+total outstanding dues of micro enterprises and small enterprises
+total outstanding dues of ereditors other than micro enterpriscs and small entrprises
+iv. Liabiltes tovards prepaid cards
+v Other financial lablities
+Current ta liabilties (net)
+Contract liabiliies
+Deferred government grants
+Provisions
+Other current iabilities
+Total current liabs
+
+70738
+2010
+2635
+38204
+512633
+886,63
+405
+59.42
+1447
+2478
+no.19
+737074
+
+78231
+201
+3349
+50819
+476
+689,04
+198
+5703
+1435
+2171
+s001
+69588
+
+Total liabilities
+
+7.594.92
+
+720055
+
+[Total equity and liabilities
+
+1130554
+
+1071874
+
+bilities
+
+| Current liabil
+Financial liabilties
+
+
+Pine Labs Limited (formerly known as Pine Labs Private
+CIN: U67100HR1998PLC113312
+
+ited)
+
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+Telephone: 0124-6949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited consolidated statement of cash flows for the half year ended 30 September 2025
+
+(Amounts in INR crores, unless otherwise stated)
+
+[Particulars
+
+[Cash flow from operating activities
+Profit/(loss) before tax
+
+For the half year
+For the half year
+ended
+ended
+30 September 2025 | 30 September 2024
+Unaudited
+Refer note 9
+
+632
+
+(62.96)|
+
+Adjustments for :
+Depreciation and amortisation expenses
+Impairment of non-current assets
+Gain on sale of property, plant and equipment
+(Reversal)/write down for obsolete and slow moving inventory
+Impairment losses on financial assets and contract assets
+Interest income under the effective interest method on financial assets carried at amortised cost
+-Bank deposits
+-Security deposits
+-Finance Lease
+Interest on income tax refunds
+ance costs
+Liabilities and provisions no longer required written back
+Share based compensation- equity setiled
+[Foreign exchange (gain)loss (net) (unrealised)
+| Advances written off
+Fair valuation income/(loss) on derivative-call option
+Government grants income
+[Net gain on lease termination
+Operating
+profit before woking capital adjustments
+
+13111
+152
+(0.26)
+(2.96)
+2.8
+
+146.64
+385
+(0.16)
+185
+1666
+
+(8.01)
+(0.35)
+(1.02)
+42.69
+“2.19)
+8531
+(0.07)
+<
+(10.48)
+(0.13)
+224,66
+
+(11.33)
+(0.68)
+(0.59)
+(7.64)
+35.78
+(3.28)
+50.49
+027
+0.67
+(0.85)
+(11.56)
+(0.56)
+156.60
+
+Working capital adjustments
+Increase in trade receivables
+Decrease in inventorics
+Increase in other financial assets
+Increase in other assets
+Decrease in contract assets
+Decrease/(increase) in loans
+Increase in other bank balances (carmarked balances with banks)
+[Decrease in trade payables
+Increase in provisions
+Increase in other financial liabilties
+Increase in contract liabilities
+Increase/(decrease) in other current liabilities
+Increase in liabilities towards prepaid cards
+
+(157.65)
+27.46
+(365.11)|
+(25.89)
+3028
+0.48
+(378.61)
+(139.05)
+4.50
+27571
+8.83
+68.57
+353.63
+
+(135.60)
+0.65
+(285.05)|
+(3.03)
+82,07
+(0.43)
+(431.18)
+(23.82)
+599
+66.11
+472
+(3.52)
+497.97
+
+[Cash used in operations
+
+(72.19)
+
+(68.52)
+
+Income taxes (paid)/received (net of refund)
+
+(56.87)
+
+77.00
+
+[Net cash (used in)/generated from operating acti
+
+(129.06)
+
+8.48
+
+[Purchase of property, plant and equipment and intangibles assets
+[Proceeds from disposal of property, plant and equipment
+Purchase of investment
+Investment in bank deposits
+Proceeds from maturity of bank deposits
+Interest received
+Proceeds from government grants
+
+(85.51))
+271
+(0.47)
+(378.24)
+366.69
+632
+090
+
+(64.68)|
+024
+(1.00)
+(72.72)|
+69.78
+870
+1690
+
+[Net cash used in investing activities (B)
+
+(87.60)
+
+(42.78)
+
+(Cash flows from investing activities
+
+
+Pine Labs Limited (formerly known as Pine Labs Private Limited)
+CIN: U67100HR1998PLC113312
+Registered office: 4th Floor, Unit No. 408, Time Tower, MG Road, Gurugram, Haryana, 122002
+‘Telephone: 0124-6949200, Email-investorrelations@pinelabs.com, Website-www.pinelabs.com
+Statement of unaudited consolidated statement ofcash flows for the half year ended 30 September 2025
+(Amounts in INR crores, unless otherwise stated)
+Particulars
+
+For the half year
+For the half year
+ended
+ended
+30 September 2025 | 30 September 2024
+
+Cash flows from financing activities
+
+Proceeds from share application money received from exercise of options
+[Payments for shares based payment awards
+Proceeds from borrowings
+Principal repayments ofborrowings
+Principal payment of lease liabilities
+Interest paid
+[Payment of deferred purchase consideration, net of receipt
+
+108.81
+(6.45)
+86.47
+(33.35)
+(10.02)
+(42.82)
+(76.50)
+
+172
+(50.00)|
+(10.68)|
+(35.93)
+(0.63)
+
+[Net cash generated from/(used in) financing activities (C)
+
+26.14
+
+(95.52)
+
+[Net decrease in cash and cash equivalents (A+B+C)
+
+(190.52)
+
+(129.82)|
+
+Cash and cash equivalents at the beginning of the period
+Cash credit and bank overdraft facilities at the beginning of the period
+Currency translation adjustments
+
+95143
+(706.30)|
+042
+
+882.00
+(326.47)
+(@91)
+
+[Cash and cash equivalents at end of the period
+
+55.03
+
+422.89
+
+601.99
+2.83
+
+591.44
+227.38
+
+Cash and cash equivalents as per above comprise the following
+[Balance with banks
+- In current accounts
+- In deposit accounts
+
+)
+
+Less: Cash credit and bank overdraft facilities
+Balance as per statement of cash flows
+
+(549.78)
+
+(395.93)
+
+55.03
+
+422.89
+
+Note: The above Unaudited Consolidated Statement of Cash Flows has been prepared under the ‘Indirect Method as set out in Ind AS 7, 'Statement of Cash Flows.
+
+

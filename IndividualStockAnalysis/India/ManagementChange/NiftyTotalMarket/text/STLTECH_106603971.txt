@@ -1,0 +1,738 @@
+www.stl.tech
+
+April 29, 2026
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor,
+Plot No. C-1, G Block,
+Bandra Kurla Complex, Bandra (East)
+Mumbai - 400 051.
+
+BSE Limited
+Phirozee Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001.
+
+Scrip ID - STLTECH
+
+Scrip Code – 532374
+
+Sub.: Outcome of Board Meeting - Intimation under Regulations 30, 33, 52 and other applicable
+provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended (the “Listing Regulations”)
+Dear Sir/Madam,
+With reference to our letter dated April 21, 2026, we wish to inform you that the Board of Directors of
+Sterlite Technologies Limited (the “Company”), at its meeting held today i.e. on April 29, 2026, has
+approved, inter alia, the following:
+1. The Audited Financial Results (Standalone and Consolidated) of the Company for the fourth quarter
+and financial year ended March 31, 2026. The Statutory Auditors of the Company, M/s. Price
+Waterhouse Chartered Accountants LLP, have issued an Audit Report on the Audited Financial
+Results of the Company (Standalone and Consolidated) for the financial year ended March 31, 2026,
+with an unmodified opinion.
+2. The Board has not recommended any dividend for the financial year ended March 31, 2026.
+3. Raising of funds, inter alia, by issue of equity shares or any other equity linked instruments or
+securities including convertible securities or non-convertible securities or combination of such
+securities through inter alia, a private placement (including one or more qualified institutions
+placements) or further public issue, or preferential allotments or rights issue or any combination
+thereof as may be considered appropriate or any permissible mode in accordance with the provisions
+of applicable laws, for an aggregate consideration of up to Rs. 2000 crores, subject to the approval
+of the shareholders of the Company and such Regulatory/ Statutory approvals, as may be required.
+In this regard, please find enclosed herewith:
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+
+Press Release on Financial Results;
+Investors Presentation on Financial Results;
+Audited Consolidated and Standalone Financial Results;
+Independent Auditors’ Report on the Statement of Consolidated and Standalone Financial Results;
+Declaration on unmodified opinion, pursuant to Regulation 33(3)(d) of the Listing Regulations;
+Disclosure pursuant to Integrated Financial Results pursuant to to SEBI Circular SEBI/HO/CFD/CFDPoD-2/CIR/P/2024/185 dated December 31, 2024 read with relevant circulars issued by stock
+exchanges enclosed as Annexure I;
+
+Sterlite Technologies Limited
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.
+CIN - L31300PN2000PLC202408
+
+
+www.stl.tech
+
+vii. Statement of Utilization of issue proceeds raised through Preferential Issue of Warrants and
+Statement of Material Deviation under Regulation 32(1) of the Listing Regulations – Attached
+Annexure II.
+We further confirm that the Company is not a Large Corporate as per the criteria prescribed by SEBI in
+its SEBI Circular No. SEBI/HO/DDHS/DDHS-RACPOD1/P/CIR/ 2023/172 dated October 19, 2023.
+The meeting commenced at 9:30 am and concluded at 1:41 pm.
+We request you to take the aforesaid on records. Thanking you.
+Yours faithfully,
+For Sterlite Technologies Limited
+Digitally signed by
+
+MRUNAL
+MRUNAL ASAWADEKAR
+2026.04.29
+ASAWADEKAR Date:
+13:45:29 +05'30'
+Mrunal Asawadekar
+Company Secretary & Compliance Officer
+Membership No.: A 24346
+
+Sterlite Technologies Limited
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.
+CIN - L31300PN2000PLC202408
+
+
+www.stl.tech
+
+PRESS RELEASE
+
+STL delivers resilient FY’26 performance; AI Data Centre
+business emerges as key growth engine
+Mumbai, 29/April/2026: STL [NSE: STLTECH], a leading connectivity solutions provider for AI-ready digital
+
+infrastructure, today announced its financial results for the year ended 31 March, 2026. The Company
+reported revenues of INR 1,441 Cr for the quarter and INR 4,745 Cr for FY26, a growth of ~14.7% QoQ and
+18.8% YoY. In FY26, STL delivered EBITDA margins at ~13.2% and EBITDA of INR 628 Cr. The year was
+characterised by a transformative ~110% surge in order intake over FY25. This indicates strong revenue
+visibility and sets the stage for sustained growth in the coming quarters.
+STL delivered a consistent sequential improvement in EBITDA margins for the sixth consecutive quarter,
+driven by higher utilization and improved product mix. The open order book at the end of FY26 stands at INR
+7,309 Cr, supported by large-scale data-centre and telecom projects across our key markets - North America,
+Europe and India. The company continues to strengthen its global operations while being a trusted partner
+for its customers, building AI-ready digital infrastructure.
+
+Some key highlights for FY’26:
+Key wins - In FY26, STL established deep partnerships with global customers like Colt, Netomnia, Mynet,
+SLICFiber and Swoop. There was strong momentum across key markets in North America, United Kingdom,
+Europe, and Asia.
+Innovation - STL continues to leverage its "Glass-to-Data Centre" vertical integration to architect the physical
+layer of the AI era. By integrating glass science with precision manufacturing, STL is co-creating advanced highdensity, low-latency solutions. The total patent count stands at 780+. Key milestones in FY26 include:
+•
+•
+•
+•
+•
+
+AI-DC Portfolio: The launch of Neuralis, a purpose-built connectivity suite for AI-Data Centres,
+enabling ultra-high-density cabling for GPU-intensive workloads
+Introduced India’s first Hollow Core Fibre (HCF) cable, utilizing an air-core architecture to achieve
+~46% faster transmission and ultra-low latency.
+STL developed a 4-core Multi-Core Fiber (MCF) Unitube cable for the UK market, significantly
+increasing data capacity per strand.
+Launched CONCAT, a pre-connectorized, plug-and-play solution that reduces onsite labour and
+installation costs.
+Expansion of the IBR (Intermittently Bonded Ribbon) portfolio in the U.S. to include higher fibre
+counts for rapid network scaling.
+
+Awards - STL’s commitment to "Glass-to-Data Centre" innovation continues to be recognised by the
+prestigious industry bodies. In FY26, the company secured multiple accolades:
+•
+•
+
+National Innovation Leadership: STL was named among the Top 100 Innovative Companies of 2025
+at the CII Industrial Innovation Awards.
+Global Product Excellence (OFC 2026): At the prestigious Lightwave Innovation Reviews, STL’s
+CONCAT (Plug-and-Play Connectivity) and Multi-Core Fiber (MCF) solutions both secured top
+honours.
+
+Sterlite Technologies Limited
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.
+CIN - L31300PN2000PLC202408
+
+
+www.stl.tech
+•
+
+Next-gen Data Centre Leader - at the Fast Mode Awards 2025, receiving recognition in the
+excellence area of Growth.
+
+“We enter FY27 with significant momentum,” said Ankit Agarwal, MD, STL. “FY26 was a transformative year
+for us. Our record order intake reflects our ability to co-create with customers and deliver advanced, highcapacity optical connectivity solutions for global hyperscalers and telecom providers. By owning the entire
+value chain—from glass chemistry to complex AI-DC racks—we are providing the physical foundation for the
+future of intelligence.”
+Financials**
+(INR Cr)
+
+FY’26 FY’25 Q4 FY’26 Q4 FY’25
+
+Revenue
+
+4,745 3,996 1,441
+
+1,052
+
+EBITDA
+
+628
+
+146
+
+452
+
+218
+
+*Patents filed and granted
+**All financials are from continued operations
+
+About STL - Sterlite Technologies Ltd:
+
+STL is a global leader in advanced connectivity solutions, providing end-to-end solutions for building AI-ready infrastructure,
+FTTx, Rural, Enterprise and Data Centre networks. With manufacturing facilities in North America, Europe and Asia, we
+deliver our solutions in more than 100 countries. Data Centre & Cloud companies, Telecom operators, Internet service
+providers and Large enterprises collaborate with STL to build their future-ready digital infrastructure. STL’s business goals are
+driven by customer-centricity, R&D and sustainability. Read more, Contact us, stl.tech | Twitter | LinkedIn| YouTube
+
+For more information, contact:
+Media Relations
+
+Investor Relations
+
+Shaily Rai Sinha
+
+Rahul Darak
+
+Phone: +91 22 30450450
+
+Phone: +91 22 30514000
+
+stl.communications@stl.tech investor@stl.tech
+
+Sterlite Technologies Limited
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.
+CIN - L31300PN2000PLC202408
+
+
+Earnings
+Presentation
+Earnings Call Q4FY26
+29th April 2026
+
+
+Safe Harbour
+Certain words and statements in this communication concerning Sterlite Technologies Limited (“the Company”) and its prospects, and other statements
+relating to the Company’s expected financial position, business strategy, the future development of the Company’s operations and the general economy
+in India & global markets, are forward looking statements.
+Such statements involve known and unknown risks, uncertainties and other factors, which may cause actual results, performance or achievements of the
+Company, or industry results, to differ materially from those expressed or implied by such forward-looking statements.
+Such forward-looking statements are based on numerous assumptions regarding the Company’s present and future business strategies and the
+environment in which the Company will operate in the future.
+The important factors that could cause actual results, performance or achievements to differ materially from such forward-looking statements include,
+among others, changes in government policies or regulations of India and, in particular, changes relating to the administration of the Company’s industry,
+and changes in general economic, business and credit conditions in India.
+
+The information contained in this presentation is only current as of its date and has not been independently verified. No express or implied representation
+or warranty is made as to, and no reliance should be placed on, the accuracy, fairness or completeness of the information presented or contained in this
+presentation. None of the Company or any of its affiliates, advisers or representatives accepts any liability whatsoever for any loss howsoever arising
+from any information presented or contained in this presentation. Please note that the past performance of the Company is not, and should not be
+considered as, indicative of future results. Furthermore, no person is authorized to give any information or make any representation which is not
+contained in, or is inconsistent with, this presentation. Any such extraneous or inconsistent information or representation, if given or made, should not be
+relied upon as having been authorized by or on behalf of the Company.
+The Company may alter, modify or otherwise change in any manner the contents of this presentation, without obligation to notify any person of such
+revision or changes.
+Persons should consult their own financial or tax adviser if in doubt about the treatment of the transaction for themselves
+These materials are confidential, are being given solely for your information and for your use, and may not be copied, reproduced or redistributed to any
+other person in any manner. The distribution of this presentation in certain jurisdictions may be restricted by law. Accordingly, any persons in possession
+of this presentation should inform themselves about and observe any such restrictions
+
+© 2026-2027 Sterlite Technologies Limited
+
+2
+
+
+Ankit Agarwal
+Managing Director
+
+A believer in purpose-led organizations, Ankit has been
+leading STL’s growth journey as it transforms billions of lives
+by connecting the world. He holds sustainability very close to
+his heart and is leading the company’s ambitious Net-Zero
+by 2030 target, from the front.
+Ankit is extremely passionate about improvement in health,
+education and the environment through digital inclusion.
+Recognized as a 40 under 40 leader, Ankit is a strong
+supporter of young and entrepreneurial talent. He is a fitness
+enthusiast, an athlete, and a long-distance runner and
+encourages his teams to work towards solid all-round growth
+at work and in life.
+
+
+Strategic Priorities for FY27
+
+1
+© 2026-2027 Sterlite Technologies Limited
+
+Strategic
+Priorities
+for FY27
+
+2
+
+Industry Tailwinds &
+Market Opportunity
+
+3 Business
+Performance Update
+
+4
+
+Financial
+Performance Update
+
+4
+
+
+STL is a leading player in global digital connectivity infrastructure
+Customer Segments
+
+#1
+End-to-end optical manufacturer in India
+
+8%
+Global Market Share in OFC (Ex-China)
+
+Telcos
+
+DC and Cloud
+
+Citizen Networks
+
+Large Enterprises
+
+30+
+
+Years of industry leadership
+
+780+
+
+Offerings
+
+Global Patent Filed and granted
+
+Optical Fibre
+
+Specialty Cables
+
+Optical Fibre Cables
+
+Optical Connectivity
+
+© 2026-2027 Sterlite Technologies Limited
+
+10+
+
+Advanced manufacturing facilities with
+ZERO waste to landfill & Liquid Discharge
+5
+
+
+Glass to Gigabit Connectivity – Presence Across Value Chain
+
+Breakthrough Innovations Redefining Optical Infrastructure
+
+Stellar Bend-Insensitive Fiber
+
+Celesta Ribbon Cables
+
+Industry-leading flexibility with minimal signal loss — optimized
+for dense datacenter environments and challenging installations
+
+Compact, high-density, faster installs — engineered for
+rapid hyperscale deployments with superior space efficiency
+
+Multiverse Multicore Fiber
+
+OptoBlaze Plug‘n’Play Solution
+
+4× capacity increase — revolutionary multi-core architecture
+supporting exponential bandwidth growth for AI and hyperscale
+workloads
+
+Compact, pre-connectorized plug-and-play solution that
+enables fast, tool-free, and reliable FTTH installations with
+minimal skill and maximum efficiency.
+
+© 2026-2027 Sterlite Technologies Limited
+
+6
+
+
+Strategic priorities for FY27
+
+• Grow OFC market share and optical
+connectivity attach rate
+
+• Scale ‘Enterprise & DC’ segment’s
+revenue contribution
+
+• Technology leadership in next-gen
+optical platforms
+
+• Relentless focus on cost
+
+© 2026-2027 Sterlite Technologies Limited
+
+7
+
+
+Industry Tailwinds & Market Opportunity
+
+1
+
+© 2026-2027 Sterlite Technologies Limited
+
+Strategic
+Priorities for
+FY27
+
+2
+
+Industry Tailwinds
+& Market
+Opportunity
+
+3
+
+Business
+Performance Update
+
+4
+
+Financial
+Performance Update
+
+8
+
+
+Three investments cycles coinciding
+Multi-year network build cycle
+
+FTTx
+
+5G
+
+Data Centres
+
+Supported by:
+
+Global
+Global FTTx deployments – OFC mfkm
+
+Rise in no of Global 5G Operators
+
+170
+
+151
+
+2025
+
+40%
+
+CRU projects global optical
+cable demand growth from
+data centres at +39.6% y/y in
+2026.
+
+2030P
+
+617 619 623 633 638 643 647 652 658 668 675
+
+CRU
+
+Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+24 24 24 25 25 25 25 26 26 26 26P
+
+North America
+FTTx in NA in M fkm
+
+Installed Data Centre Capacity (Thousand MW)
+
+2030, making up 67% of total mobile
+subscriptions
+
+114.4
+
+41
+
+45
+
+50
+
+67
+
+61
+
+53
+
+60.3
+
+80%: Share of total mobile data traffic
+
+2025
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+>100 Mn US homes await FTTH
+
+6.4 Bn: Global 5G subscriptions by
+
+expected to be carried by 5G by 2030
+
+2030P
+
+Data Centre Market at ~US$250+ bn by 2030
+(2025: ~US$154 bn; 10.5 % CAGR)
+Mordor
+
+4.1 Bn: Projected 5G Standalone (SA)
+subscriptions globally by 2031
+
+www.ericsson.com
+
+• DCs giving rise to long haul
+fibre deployments for inter
+DC connectivity.
+• Big Tech’s Data Centre
+capex is expected to
+increase to ~$762 bn in
+CY2026 as per Morgan
+Stanley report
+
+Government programs
+• BharatNet (₹1.39Tn) Phase III
+targets fibre to 1.5 crore rural
+homes, driving the next stage of
+broadband expansion..
+
+India
+Installed Data Centre Capacity (MW)
+
+Indian Telcos Capex Spend ($ Mn)
+
+>INR 30 Bn investments till 2030 (Jefferies)
+
+19,723
+
+8,120
+
+22,120
+
+Blended average fiberized Mobile Sites of total
+mobile sites
+80%
+46%
+
+1,668
+
+FY24
+
+FY25
+CRU
+
+© 2026-2027 Sterlite Technologies Limited
+
+2025
+
+2030
+
+2025
+
+2029P
+
+Source: Analysys Mason, 2024
+
+• U.S. Government’s ~US$97B
+broadband funding (incl.
+US$42.5B BEAD) remains intact;
+all 56 states have submitted final
+proposals, with ~63% of eligible
+locations expected to receive
+fibre.
+
+Years are Calendar Years ,* - CAGR, Source: Jefferies , FTTH Council Europe, Industry News,GSA, Deloitee & CRU 9
+
+
+Fiber remains the backbone of all digital infrastructure
+5G, FTTH, AI-DC all bank on the DNA that is optical fiber
+“AT&T is focused on expanding where it can offer fiber
+in a variety of ways”
+We’re proud to now pass more than 30 million fiber locations —
+halfway to our goal of reaching approximately 60 million homes
+and businesses across America
+
+“Charter’s broader strategy to add more than 100,000
+miles of fiber nationwide.”
+
+Airtel accelerating fibre rollout to power broadband growth
+we are future-proofing our network with accelerated fibre deployment
+reflected in over 1,30,000 kilometres fibre rollout in the last three years.
+We continue to expand fibre home passes for our broadband
+businesses along with FWA rollout across 2,500 cities.
+
+“The momentum of, our full fiber program is such that
+we are now raising our build target by 20 percent to up
+to 5m UK premises in FY26”
+The company is on course for its 25 million target
+
+“Fiber is the mission critical connective tissue for
+broadband delivery”
+Uniti owns approximately 147,000 fiber route miles, 8.8 million fiber
+strand miles, and other communications real estate throughout the
+United States
+
+© 2026-2027 Sterlite Technologies Limited
+
+“AWS has built over nine million kilometers of network
+infrastructure, so vast it could reach from Earth to the
+Moon and back more than 11 times”
+
+“Hollow-core fiber provides the advanced data speeds
+necessary to solve AI latency and scalability challenges.”
+Source: Newspaper Reports, Investor Decks & Insights
+
+10
+
+
+AI revolution and data centre expansion presenting unprecedented
+opportunity
+Opportunity Size
+Estimated global data centre
+capacity demand, gigawatts
+Non-AI Workload
+
+AI Workload
+
+128
+82
+
+2025
+
+Make in India for the World
+64
+
+400G
+
+800G
+
+1.6T
+
+156
+
+Standard
+(Netflix-scale)
+
+Current AI
+Sweet Spot
+
+Upcoming
+"Super-Highway"
+
+56
+
+50
+
+45
+
+40
+
+38
+44
+
+Evolving GPU Architecture
+
+219
+
+181
+
+153
+103
+
+STL’s AI-DC Portfolio
+
+83
+
+62
+
+2026
+
+2027
+
+124
+
+102
+
+2028
+
+End to end portfolio for DCs
+2029
+
+As AI nodes scale, copper hits its limits, fibre takes over
+
+2030
+
+70% of Demand for AI-specific
+infrastructure by 2030
+Source: Mckinsey
+
+The Density Journey
+
+Fibre explosion in DCI
+
+Rising Capex by Hyperscalers, USD Bn.
+
+More AI Demand = Denser Fibre per Rack
+Fibres per Switch Rack — Cloud to AI Era
+
+16,000
+12,000
+
+2 DCs →1 DCI 3 DCs →3 DCIs 4 DCs →6 DCIs
+4,000
+
+500
+Cloud
+(<2023)
+
+5 DCs → 8 DCIs
+Data Center IT Capex to reach
+2029
+
+$2.8T by
+
+Source: Morgan Stanley, Citi Research
+
+© 2026-2027 Sterlite Technologies Limited
+
+32 GPU AI Node
+(2023–24)
+
+72 GPU AI Node
+(2025–26)
+
+144–288 GPU
+AI Node (Future)
+
+6 DCs →15 DCIs
+
+More AI data centres mean more
+interconnects; each new site multiplies
+DCI demand. Source: MarketsandMarkets
+
+AI racks are becoming fibre-dense;
+higher compute concentration drives much higher fibre count per
+rack
+*Source- JLL,Mckinsey, Bharatnet.in, Economic Times, Press Releases, STL Analysis
+
+11
+
+

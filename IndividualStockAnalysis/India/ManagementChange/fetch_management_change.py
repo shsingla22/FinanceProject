@@ -216,6 +216,14 @@ def text_of(data: bytes, pages: int = READ_PAGES) -> tuple[str, int]:
     return "", 0
 
 
+LOW_SPACE = 0.08            # normal prose is 13–18% spaces; under this the words have run together
+
+
+def space_ratio(text: str) -> float:
+    t = text or ""
+    return len(re.findall(r"\s", t)) / len(t) if t else 0.0
+
+
 def _pdftotext(data: bytes, pages: int) -> tuple[str, int]:
     """Poppler's pdftotext — fast, and it reads many PDFs PyPDF2 cannot.
     ('', 0) when it is not installed or gives nothing."""
@@ -229,7 +237,16 @@ def _pdftotext(data: bytes, pages: int) -> tuple[str, int]:
             out = subprocess.run([exe, "-l", str(pages), "-q", fh.name, "-"], capture_output=True, timeout=40).stdout
         except (subprocess.TimeoutExpired, OSError):
             return "", 0
-    text = out.decode("utf-8", "replace")
+        text = out.decode("utf-8", "replace")
+        if len(re.sub(r"\s+", "", text)) >= 40 and space_ratio(text) < LOW_SPACE:
+            # some PDFs place every glyph separately and the words run together: the layout mode keeps the gaps
+            try:
+                alt = subprocess.run([exe, "-l", str(pages), "-q", "-layout", fh.name, "-"],
+                                     capture_output=True, timeout=40).stdout.decode("utf-8", "replace")
+            except (subprocess.TimeoutExpired, OSError):
+                alt = ""
+            if space_ratio(alt) > space_ratio(text):
+                text = alt
     if len(re.sub(r"\s+", "", text)) < 40:
         return "", 0
     return DR.clean_text(text.replace("\f", "\n"))[:READ_CHARS], min(pages, text.count("\f") or 1)
@@ -377,8 +394,32 @@ def read_filings(today: dt.date, days: int = 365, workers: int = WORKERS, retry_
             mine[r["ann_id"]] = {k: r.get(k, "") for k in FILING_FIELDS[:8]} | {
                 "read_status": "", "text_file": "", "pages": "", "chars": ""}
             added += 1
+    if "nospace" in retry:
+        # first pages the all-filings store extracted with the words run together: read them again here
+        for r in store.values():
+            if r["date"] < start or r["date"] > today.isoformat() or r["ann_id"] in mine or r.get("read_status") != "read":
+                continue
+            p = FA.OUT_DIR / (r.get("first_text") or "_")
+            try:
+                t = p.read_text(errors="replace") if p.is_file() else ""
+            except OSError:
+                t = ""
+            if len(t) > 400 and space_ratio(t) < LOW_SPACE:
+                mine[r["ann_id"]] = {k: r.get(k, "") for k in FILING_FIELDS[:8]} | {
+                    "read_status": "", "text_file": "", "pages": "", "chars": "", "method": ""}
+                added += 1
+
+    def low_space(r: dict) -> bool:
+        if r.get("read_status") != "read" or not r.get("text_file"):
+            return False
+        try:
+            t = (OUT_DIR / r["text_file"]).read_text(errors="replace")
+        except OSError:
+            return False
+        return len(t) > 400 and space_ratio(t) < LOW_SPACE
     todo = [r for r in mine.values()
             if not r.get("read_status") or (retry_failed and r["read_status"].startswith("failed"))
+            or ("nospace" in retry and low_space(r))
             or any(r["read_status"].startswith(k) for k in retry)
             or ("zip" in retry and r.get("attachment", "").lower().endswith(".zip"))
             or ("short" in retry and r["read_status"] == "read" and int(r.get("chars") or 0) < 300)]
